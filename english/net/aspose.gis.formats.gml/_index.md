@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.Gml
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.Gml` namespace provides classes for working with GML format.
+description: Aspose.Gis.Formats.GmlnamespaceprovidesclassesforworkingwithGMLformat.
 type: docs
 weight: 70
 url: /net/aspose.gis.formats.gml/

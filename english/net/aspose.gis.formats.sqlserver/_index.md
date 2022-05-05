@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.SqlServer
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.SqlServer` namespace provides classes for working with SQL Server.
+description: Aspose.Gis.Formats.SqlServernamespaceprovidesclassesforworkingwithSQLServer.
 type: docs
 weight: 160
 url: /net/aspose.gis.formats.sqlserver/

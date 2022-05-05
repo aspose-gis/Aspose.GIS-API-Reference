@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.TopoJson
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.TopoJson` namespace provides classes for working with TopoJSON format.
+description: Aspose.Gis.Formats.TopoJsonnamespaceprovidesclassesforworkingwithTopoJSONformat.
 type: docs
 weight: 170
 url: /net/aspose.gis.formats.topojson/

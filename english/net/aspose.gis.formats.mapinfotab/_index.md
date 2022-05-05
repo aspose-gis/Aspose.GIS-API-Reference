@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.MapInfoTab
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.MapInfoTab` namespace provides classes for working with MapInfo Tab format.
+description: Aspose.Gis.Formats.MapInfoTabnamespaceprovidesclassesforworkingwithMapInfoTabformat.
 type: docs
 weight: 120
 url: /net/aspose.gis.formats.mapinfotab/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.MapInfoInterchange
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.MapInfoInterchange` namespace provides classes for working with MapInfo Interchange Format.
+description: Aspose.Gis.Formats.MapInfoInterchangenamespaceprovidesclassesforworkingwithMapInfoInterchangeFormat.
 type: docs
 weight: 110
 url: /net/aspose.gis.formats.mapinfointerchange/

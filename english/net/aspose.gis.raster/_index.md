@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Raster
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Raster` namespace provides classes for working with raster formats.
+description: Aspose.Gis.Rasternamespaceprovidesclassesforworkingwithrasterformats.
 type: docs
 weight: 210
 url: /net/aspose.gis.raster/

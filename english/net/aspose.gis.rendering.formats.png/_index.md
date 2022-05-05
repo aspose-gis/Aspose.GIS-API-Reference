@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Rendering.Formats.Png
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.Png` namespace provides classes for working with PNG format.
+description: Aspose.Gis.Formats.PngnamespaceprovidesclassesforworkingwithPNGformat.
 type: docs
 weight: 280
 url: /net/aspose.gis.rendering.formats.png/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.SpatialReferencing
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.SpatialReferencing` namespace provides classes for working with spatial references (coordinate reference systems).
+description: Aspose.Gis.SpatialReferencingnamespaceprovidesclassesforworkingwithspatialreferencescoordinatereferencesystems.
 type: docs
 weight: 330
 url: /net/aspose.gis.spatialreferencing/

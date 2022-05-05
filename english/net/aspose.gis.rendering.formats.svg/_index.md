@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Rendering.Formats.Svg
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.Svg` namespace provides classes for working with SVG format.
+description: Aspose.Gis.Formats.SvgnamespaceprovidesclassesforworkingwithSVGformat.
 type: docs
 weight: 290
 url: /net/aspose.gis.rendering.formats.svg/

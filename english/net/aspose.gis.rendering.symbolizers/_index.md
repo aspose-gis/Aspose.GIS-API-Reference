@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Rendering.Symbolizers
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Rendering.Symbolizers` namespace provides classes for configuring rendering vector features.
+description: Aspose.Gis.Rendering.Symbolizersnamespaceprovidesclassesforconfiguringrenderingvectorfeatures.
 type: docs
 weight: 320
 url: /net/aspose.gis.rendering.symbolizers/

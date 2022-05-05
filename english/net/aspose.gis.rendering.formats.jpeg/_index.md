@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Rendering.Formats.Jpeg
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.Jpeg` namespace provides classes for working with JPEG format.
+description: Aspose.Gis.Formats.JpegnamespaceprovidesclassesforworkingwithJPEGformat.
 type: docs
 weight: 270
 url: /net/aspose.gis.rendering.formats.jpeg/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Rendering
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Rendering` namespace provides classes for rendering maps.
+description: Aspose.Gis.Renderingnamespaceprovidesclassesforrenderingmaps.
 type: docs
 weight: 240
 url: /net/aspose.gis.rendering/

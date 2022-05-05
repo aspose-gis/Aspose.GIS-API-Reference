@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Relationship.Joins
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Relationship.Joins` namespace provides classes for join the layers.
+description: Aspose.Gis.Relationship.Joinsnamespaceprovidesclassesforjointhelayers.
 type: docs
 weight: 230
 url: /net/aspose.gis.relationship.joins/

@@ -1,7 +1,7 @@
 ---
 title: Aspose.Gis.Formats.XyzTile
 second_title: Aspose.GIS for .NET API Reference
-description: `Aspose.Gis.Formats.XyzTile` namespace provides classes for working with XyzTile format.
+description: Aspose.Gis.Formats.XyzTilenamespaceprovidesclassesforworkingwithXyzTileformat.
 type: docs
 weight: 180
 url: /net/aspose.gis.formats.xyztile/
