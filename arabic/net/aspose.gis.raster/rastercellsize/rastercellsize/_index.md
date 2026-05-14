@@ -1,23 +1,23 @@
 ---
-title: RasterCellSize.RasterCellSize
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterCellSize البناء. Default_Constructor
+title: "RasterCellSize.RasterCellSize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ RasterCellSize. إنشاء نسخة من RasterCellSize"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/rastercellsize/rastercellsize/
 ---
 ## RasterCellSize constructor
 
-Default_Constructor
+إنشاء نسخة من [`RasterCellSize`](../).
 
 ```csharp
 public RasterCellSize()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: CompoundSpatialReferenceSystem.AsCompound
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. إرجاع هذا .
+title: "CompoundSpatialReferenceSystem.AsCompound"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. إرجاع هذا"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/ascompound/
 ---
 ## CompoundSpatialReferenceSystem.AsCompound property
 
-إرجاع هذا .
+إرجاع هذا.
 
 ```csharp
 public override CompoundSpatialReferenceSystem AsCompound { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

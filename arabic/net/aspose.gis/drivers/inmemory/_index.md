@@ -1,24 +1,24 @@
 ---
-title: Drivers.InMemory
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل للعمل مع البيانات الموجودة في الذاكرة.
+title: "Drivers.InMemory"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل للعمل مع البيانات في الذاكرة"
 type: docs
-weight: 100
+weight: 130
 url: /ar/net/aspose.gis/drivers/inmemory/
 ---
 ## Drivers.InMemory property
 
-برنامج تشغيل للعمل مع البيانات الموجودة في الذاكرة.
+برنامج تشغيل للعمل مع البيانات في الذاكرة.
 
 ```csharp
 public static InMemoryDriver InMemory { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [InMemoryDriver](../../../aspose.gis.formats.inmemory/inmemorydriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

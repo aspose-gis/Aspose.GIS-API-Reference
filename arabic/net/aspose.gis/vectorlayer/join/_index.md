@@ -1,39 +1,39 @@
 ---
-title: VectorLayer.Join
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. تربط طبقة بالطبقة الحالية.
+title: "VectorLayer.Join"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. تنضم طبقة إلى الطبقة الحالية"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.gis/vectorlayer/join/
 ---
 ## VectorLayer.Join method
 
-تربط طبقة بالطبقة الحالية.
+ينضم طبقة إلى الطبقة الحالية.
 
 ```csharp
 public VectorLayer Join(VectorLayer layer, JoinOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| layer | VectorLayer | طبقة للانضمام. |
-| options | JoinOptions | ربط المعلمات. |
+| الطبقة | VectorLayer | طبقة للانضمام. |
+| الخيارات | JoinOptions | معلمات الانضمام. |
 
 ### قيمة الإرجاع
 
-طبقة جديدة نتيجة الانضمام إلى طبقتين.
+طبقة جديدة نتيجة دمج طبقتين.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الوسيطة باطلة. |
+| ArgumentNullException | المعطى فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JoinOptions](../../../aspose.gis.relationship.joins/joinoptions/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

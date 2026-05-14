@@ -1,23 +1,23 @@
 ---
-title: Metered.ResetMeteredKey
-second_title: Aspose.GIS لمرجع .NET API
-description: Metered طريقة. يزيل ترخيص الإعداد السابق
+title: "Metered.ResetMeteredKey"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Metered. تزيل الترخيص المُعد مسبقًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/metered/resetmeteredkey/
 ---
 ## Metered.ResetMeteredKey method
 
-يزيل ترخيص الإعداد السابق
+يزيل الترخيص الذي تم إعداده مسبقاً
 
 ```csharp
 public static void ResetMeteredKey()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.Gis](../../metered/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../metered/)
+* assembly [Aspose.GIS](../../../)
 
 

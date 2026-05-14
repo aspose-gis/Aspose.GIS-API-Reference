@@ -1,52 +1,52 @@
 ---
-title: Class GeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.GeographicDatum فصل. المسند الجغرافي يربط خطوط الطول والعرض بمكان معين على الأرض.
+title: "الفئة GeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.SpatialReferencing.GeographicDatum. المرجع الجغرافي يربط خط الطول وخط العرض بمكان معين على الأرض"
 type: docs
-weight: 2120
+weight: 4570
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/
 ---
 ## GeographicDatum class
 
-المسند الجغرافي يربط خطوط الطول والعرض بمكان معين على الأرض.
+المعيار الجغرافي يربط خط الطول والعرض بمكان معين على الأرض.
 
 ```csharp
 public class GeographicDatum : IdentifiableObject
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GeographicDatum](geographicdatum/)(string, Ellipsoid, BursaWolfParameters, Identifier) | إنشاء مثيل جديد . |
+| [GeographicDatum](geographicdatum/)(string, Ellipsoid, BursaWolfParameters, Identifier) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Etrs89](../../aspose.gis.spatialreferencing/geographicdatum/etrs89/) { get; } | ETRS 89 datum. |
-| static [Nad83](../../aspose.gis.spatialreferencing/geographicdatum/nad83/) { get; } | NAD 83 datum . |
-| static [Osgb36](../../aspose.gis.spatialreferencing/geographicdatum/osgb36/) { get; } | مرجع OSGB 1936 . |
-| static [Wgs72](../../aspose.gis.spatialreferencing/geographicdatum/wgs72/) { get; } | WGS 72 datum. |
-| static [Wgs84](../../aspose.gis.spatialreferencing/geographicdatum/wgs84/) { get; } | WGS 84 datum. |
-| [Ellipsoid](../../aspose.gis.spatialreferencing/geographicdatum/ellipsoid/) { get; } | Ellipsoid ، تُستخدم في هذا المرجع لتقريب الأرض. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف الكائنات هذا هو معرف EPSG - قم بإرجاع الكود الخاص به. خلاف ذلك - إرجاع -1 . |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرّف هذا الكائن القابل للتحديد . |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن . |
-| [ToWgs84Parameters](../../aspose.gis.spatialreferencing/geographicdatum/towgs84parameters/) { get; } | BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في WGS84 datum. |
+| static [Etrs89](../../aspose.gis.spatialreferencing/geographicdatum/etrs89/) { get; } | المرجع ETRS 89. |
+| static [Nad83](../../aspose.gis.spatialreferencing/geographicdatum/nad83/) { get; } | المرجع NAD 83. |
+| static [Osgb36](../../aspose.gis.spatialreferencing/geographicdatum/osgb36/) { get; } | المرجع OSGB 1936. |
+| static [Wgs72](../../aspose.gis.spatialreferencing/geographicdatum/wgs72/) { get; } | المرجع WGS 72. |
+| static [Wgs84](../../aspose.gis.spatialreferencing/geographicdatum/wgs84/) { get; } | المرجع WGS 84. |
+| [Ellipsoid](../../aspose.gis.spatialreferencing/geographicdatum/ellipsoid/) { get; } | الشكل البيضاوي، المستخدم في هذا المرجع لتقريب شكل الأرض. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
+| [ToWgs84Parameters](../../aspose.gis.spatialreferencing/geographicdatum/towgs84parameters/) { get; } | معلمات BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في المرجع WGS84. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum) | تحديد ما إذا كان اثنان من المساند متكافئين. نفس الإحداثيات لمعلومات معادلة تتطابق مع نفس المكان على الأرض . يمكن أن تكون بعض معلمات البيانات المكافئة مختلفة ، على سبيل المثال[`Name`](../identifiableobject/name/) . |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum, GeographicDatum) | تحديد ما إذا كان اثنان من المساند متكافئين. نفس الإحداثيات لمعلومات معادلة تتطابق مع نفس المكان على الأرض . يمكن أن تكون بعض معلمات البيانات المكافئة مختلفة ، على سبيل المثال[`Name`](../identifiableobject/name/) . |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum) | يحدد ما إذا كان المرجعان متكافئين. نفس الإحداثيات للمرجعين المتكافئين تتطابق مع نفس المكان على الأرض. بعض معلمات المرجع المتكافئ قد تكون مختلفة، على سبيل المثال [`Name`](../identifiableobject/name/). |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum, GeographicDatum) | يحدد ما إذا كان المرجعان متكافئين. نفس الإحداثيات للمرجعين المتكافئين تتطابق مع نفس المكان على الأرض. بعض معلمات المرجع المتكافئ قد تكون مختلفة، على سبيل المثال [`Name`](../identifiableobject/name/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IdentifiableObject](../identifiableobject/)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

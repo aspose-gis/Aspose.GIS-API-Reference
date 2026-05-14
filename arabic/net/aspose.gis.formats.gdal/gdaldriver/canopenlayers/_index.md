@@ -1,7 +1,7 @@
 ---
-title: GdalDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: GdalDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة.
+title: "GdalDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GdalDriver. تحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات المتجهات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.gdal/gdaldriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.gdal/gdaldriver/canopenlayers/
 public override bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdalDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.GDAL](../../gdaldriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GDAL](../../gdaldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

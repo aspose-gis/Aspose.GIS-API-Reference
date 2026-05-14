@@ -1,23 +1,23 @@
 ---
-title: Ellipsoid.Airy
-second_title: Aspose.GIS لمرجع .NET API
-description: Ellipsoid ملكية. Airy ellipsoid.
+title: "Ellipsoid.Airy"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Ellipsoid. Airy ellipsoid"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/airy/
 ---
 ## Ellipsoid.Airy property
 
-Airy ellipsoid.
+Ellipsoid Airy.
 
 ```csharp
 public static Ellipsoid Airy { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Ellipsoid](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
+* assembly [Aspose.GIS](../../../)
 
 

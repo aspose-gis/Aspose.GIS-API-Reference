@@ -1,31 +1,31 @@
 ---
-title: RuleBasedLabeling.Add
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedLabeling طريقة. إضافة جديدLabelingRule .
+title: "RuleBasedLabeling.Add"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RuleBasedLabeling. تُضيف LabelingRule جديدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/add/
 ---
 ## Add(Func&lt;Feature, bool&gt;, Labeling) {#add_1}
 
-إضافة جديد[`LabelingRule`](../../labelingrule/) .
+يضيف [`LabelingRule`](../../labelingrule/) جديدًا.
 
 ```csharp
 public void Add(Func<Feature, bool> filter, Labeling labeling)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filter | Func`2 | يُحدد متى يجب تطبيق التسمية على المعلم. |
-| labeling | Labeling | التسمية التي سيتم تطبيقها على الميزة عندما*filter* يعود صحيحا. |
+| فلتر | Func`2 | يحدد متى يجب تطبيق التوسيم على عنصر. |
+| تسمية | التسمية | التوسيم لتطبيقه على عنصر عندما *filter* يُعيد true. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [Labeling](../../labeling/)
 * class [RuleBasedLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -37,21 +37,21 @@ public void Add(Func<Feature, bool> filter, Labeling labeling)
 public void Add(LabelingRule rule)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rule | LabelingRule | حكم للإضافة. |
+| قاعدة | LabelingRule | قاعدة للإضافة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelingRule](../../labelingrule/)
 * class [RuleBasedLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

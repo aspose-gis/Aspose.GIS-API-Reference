@@ -1,14 +1,14 @@
 ---
-title: ICurve.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: ICurve طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "ICurve.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ICurve. تحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/icurve/toeditable/
 ---
 ## ICurve.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public Curve ToEditable()
@@ -16,13 +16,13 @@ public Curve ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Curve](../../curve/)
 * interface [ICurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../icurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icurve/)
+* assembly [Aspose.GIS](../../../)
 
 

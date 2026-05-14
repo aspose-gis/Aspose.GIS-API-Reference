@@ -1,14 +1,14 @@
 ---
-title: Class FeatureStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.FeatureStyle فصل. فئة الجذر المجردة للتسلسل الهرمي لأنماط الميزة.
+title: "الفئة FeatureStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.FeatureStyle. الفئة الجذرية المجردة للتسلسل الهرمي لأنماط المميزات."
 type: docs
-weight: 160
+weight: 1650
 url: /ar/net/aspose.gis/featurestyle/
 ---
 ## FeatureStyle class
 
-فئة الجذر المجردة للتسلسل الهرمي لأنماط الميزة.
+الفئة الجذرية المجردة لتسلسل أنماط المميزات.
 
 ```csharp
 public abstract class FeatureStyle : IFeatureStyle
@@ -16,14 +16,14 @@ public abstract class FeatureStyle : IFeatureStyle
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Null](../../aspose.gis/featurestyle/null/) { get; } | يحصل على مثيل للنمط الفارغ. |
+| static [Null](../../aspose.gis/featurestyle/null/) { get; } | يحصل على مثيل لنمط null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IFeatureStyle](../ifeaturestyle/)
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

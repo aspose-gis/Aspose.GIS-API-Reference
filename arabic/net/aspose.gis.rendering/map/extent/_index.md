@@ -1,14 +1,14 @@
 ---
-title: Map.Extent
-second_title: Aspose.GIS لمرجع .NET API
-description: Map ملكية. يحدد حدود الخريطة للعرض . إذا تم التعيين علىnull  يتم حساب المدى أثناء العرض لتضمين كل الأشكال الهندسية في كل الطبقات.
+title: "Map.Extent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Map. تحدد حدود الخريطة التي سيتم تصييرها. إذا تم تعيينها إلى null يتم حساب الحدود أثناء التصيير لتضمين جميع الأشكال في جميع الطبقات."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering/map/extent/
 ---
 ## Map.Extent property
 
-يحدد حدود الخريطة للعرض . إذا تم التعيين على`null` ، يتم حساب المدى أثناء العرض لتضمين كل الأشكال الهندسية في كل الطبقات.
+يحدد حدود الخريطة لتصيرها. إذا تم تعيينه إلى `null`، يتم حساب الامتداد أثناء التصيير لتضمين جميع الأشكال في جميع الطبقات.
 
 ```csharp
 public Extent Extent { get; set; }
@@ -16,19 +16,19 @@ public Extent Extent { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | [`IsValid`](../../../aspose.gis/extent/isvalid/) يكون`false`.[`Width`](../../../aspose.gis/extent/width/) أصغر أو يساوي الصفر.[`Height`](../../../aspose.gis/extent/height/) أصغر أو يساوي الصفر.[`SpatialReferenceSystem`](../../../aspose.gis/extent/spatialreferencesystem/) يكون`null`. |
+| ArgumentException | [`IsValid`](../../../aspose.gis/extent/isvalid/) هو `false`.[`Width`](../../../aspose.gis/extent/width/) أقل من أو يساوي الصفر.[`Height`](../../../aspose.gis/extent/height/) أقل من أو يساوي الصفر.[`SpatialReferenceSystem`](../../../aspose.gis/extent/spatialreferencesystem/) هو `null`. |
 
-### ملاحظات
+## ملاحظات
 
-إذا كان نظام الإسناد المكاني للمدى لا يساوي نظام الإسناد المكاني للخريطة ، فسيتم تحويل المدى إلى نظام الإسناد المكاني المستهدف أثناء العرض.
+إذا لم يكن نظام الإحداثيات المكاني للامتداد مساويًا لنظام الإحداثيات المكاني للخريطة، يتم تحويل الامتداد إلى نظام الإحداثيات المكاني الهدف أثناء العرض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../../../aspose.gis/extent/)
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

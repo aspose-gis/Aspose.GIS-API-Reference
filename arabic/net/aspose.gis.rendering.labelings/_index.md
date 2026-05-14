@@ -1,31 +1,31 @@
 ---
-title: Aspose.Gis.Rendering.Labelings
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings توفر مساحة الاسم فئات لتكوين تسمية ميزات المتجه.
+title: "Aspose.Gis.Rendering.Labelings"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Rendering.Labelings توفر فئات لتكوين تسمية ميزات المتجهات."
 type: docs
-weight: 340
+weight: 720
 url: /ar/net/aspose.gis.rendering.labelings/
 ---
-`Aspose.Gis.Rendering.Labelings` توفر مساحة الاسم فئات لتكوين تسمية ميزات المتجه.
+`Aspose.Gis.Rendering.Labelings` مساحة الاسم توفر فئات لتكوين تسمية ميزات المتجهات.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [Labeling](./labeling/) | فئة الجذر المجردة للتسميات ، الفئات التي تصف كيفية وضع الملصقات على الميزات. |
-| [LabelingRule](./labelingrule/) | قاعدة معرّفة من قبل المستخدم لـ[`RuleBasedLabeling`](../aspose.gis.rendering.labelings/rulebasedlabeling/) . |
-| [LabelPlacement](./labelplacement/) | يحدد وضع الملصق كيفية وضع الملصقات نسبيًا في هندسة الميزة. |
-| [LineLabelPlacement](./linelabelplacement/) | وضع تسمية الخط يضع التسميات على طول الخط. |
-| [NullLabeling](./nulllabeling/) | ملف[`NullLabeling`](../aspose.gis.rendering.labelings/nulllabeling/) يتخطى وضع العلامات الهندسية التي يتم تطبيقها عليها . |
-| [PointLabelPlacement](./pointlabelplacement/) | وضع ملصق النقاط يضع الملصقات بالقرب من مراكز الهندسة. |
-| [RuleBasedLabeling](./rulebasedlabeling/) | لتطبيق تسمية على ميزة وفقًا لقواعد يحددها المستخدم. |
-| [SimpleLabeling](./simplelabeling/) | وضع علامة بسيطة تسمية على كل ميزة. |
+| [Labeling](./labeling/) | الفئة الجذرية المجردة للتسميات، الفئات التي تصف كيفية وضع التسميات على الميزات. |
+| [LabelingRule](./labelingrule/) | قاعدة معرفة من قبل المستخدم لـ [`RuleBasedLabeling`](../aspose.gis.rendering.labelings/rulebasedlabeling/). |
+| [LabelPlacement](./labelplacement/) | تحديد موضع التسمية يوضح كيفية وضع التسميات بالنسبة لهندسة الميزة. |
+| [LineLabelPlacement](./linelabelplacement/) | موضع تسمية الخط يضع التسميات على طول الخط. |
+| [NullLabeling](./nulllabeling/) | الـ [`NullLabeling`](../aspose.gis.rendering.labelings/nulllabeling/) يتخطى تسمية الهندسة التي يُطبق عليها. |
+| [PointLabelPlacement](./pointlabelplacement/) | موضع تسمية النقاط يضع التسميات بالقرب من مراكز الأشكال الهندسية. |
+| [RuleBasedLabeling](./rulebasedlabeling/) | يطبق تسمية على الميزة وفقًا للقواعد المعرفة من قبل المستخدم. |
+| [SimpleLabeling](./simplelabeling/) | تسمية بسيطة تضع التسمية على كل ميزة. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [FontStyle](./fontstyle/) | تحديد النمط الذي سيتم تطبيقه على النص . |
+| [FontStyle](./fontstyle/) | يحدد النمط الذي سيُطبق على النص. |
 | [LineLabelAlignment](./linelabelalignment/) | يحدد كيفية محاذاة التسمية مع الخط. |
-| [MultipartMode](./multipartmode/) | يحدد كيفية عرض التسميات للمعالم التي تحتوي على أشكال هندسية متعددة الأجزاء. |
+| [MultipartMode](./multipartmode/) | يحدد كيفية عرض التسميات للميزات التي تحتوي على أشكال متعددة الأجزاء. |
 
 

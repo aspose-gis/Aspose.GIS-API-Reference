@@ -1,23 +1,23 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.ProjectedSpatialReferenceSystemParameters
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters البناء. Default_Constructor
+title: "ProjectedSpatialReferenceSystemParameters.ProjectedSpatialReferenceSystemParameters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ ProjectedSpatialReferenceSystemParameters. ينشئ مثلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters constructor
 
-Default_Constructor
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public ProjectedSpatialReferenceSystemParameters()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

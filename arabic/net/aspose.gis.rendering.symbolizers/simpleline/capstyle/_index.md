@@ -1,24 +1,24 @@
 ---
-title: SimpleLine.CapStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLine ملكية. يحدد كيفية تجسيد الأسطر في نهاياتها.
+title: "SimpleLine.CapStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLine. تحدد كيفية عرض الخطوط عند نهاياتها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/capstyle/
 ---
 ## SimpleLine.CapStyle property
 
-يحدد كيفية تجسيد الأسطر في نهاياتها.
+يحدد كيفية تصيير الخطوط عند نهاياتها.
 
 ```csharp
 public CapStyle CapStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [CapStyle](../../../aspose.gis.rendering/capstyle/)
 * class [SimpleLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

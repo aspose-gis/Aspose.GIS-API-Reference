@@ -1,14 +1,14 @@
 ---
-title: Polygon.GetPointOnSurface
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon طريقة. البحث عن نقطة مضمونة أن تكون على هذا المضلع.
+title: "Polygon.GetPointOnSurface"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Polygon. تجد نقطة مضمونة أن تكون على هذا المضلع"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/polygon/getpointonsurface/
 ---
 ## Polygon.GetPointOnSurface method
 
-البحث عن نقطة مضمونة أن تكون على هذا المضلع.
+يجد نقطة مضمونة أن تكون على هذا المضلع.
 
 ```csharp
 public override IPoint GetPointOnSurface()
@@ -16,19 +16,19 @@ public override IPoint GetPointOnSurface()
 
 ### قيمة الإرجاع
 
-نقطة على هذا المضلع. نقطة فارغة إذا كان هذا المضلع غير داخلي.
+نقطة على هذا المضلع. نقطة فارغة إذا لم يكن لهذا المضلع داخل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | المضلع غير صالح بحيث لا يمكن إتمام العملية. |
+| InvalidOperationException | Polygon غير صالح بطريقة لا يمكن إكمال العملية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

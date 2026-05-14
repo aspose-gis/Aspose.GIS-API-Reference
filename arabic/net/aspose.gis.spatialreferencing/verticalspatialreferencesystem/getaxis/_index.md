@@ -1,38 +1,38 @@
 ---
-title: VerticalSpatialReferenceSystem.GetAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem طريقة. احصل علىAxis الذي يصف البعد.
+title: "VerticalSpatialReferenceSystem.GetAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VerticalSpatialReferenceSystem. احصل على Axis التي تصف البُعد."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/getaxis/
 ---
 ## VerticalSpatialReferenceSystem.GetAxis method
 
-احصل على[`Axis`](../../axis/) الذي يصف البعد.
+احصل على [`Axis`](../../axis/) التي تصف البُعد.
 
 ```csharp
 public override Axis GetAxis(int dimension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dimension | Int32 | عدد البعد. |
+| البُعد | Int32 | عدد البُعد. |
 
 ### قيمة الإرجاع
 
-المحور الذي يصف البعد.
+Axis التي تصف البُعد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension* أصغر من 0 أو أكبر أو يساوي[`DimensionsCount`](../dimensionscount/) |
+| ArgumentOutOfRangeException | *dimension* أقل من 0 أو أكبر أو يساوي [`DimensionsCount`](../dimensionscount/) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../../axis/)
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

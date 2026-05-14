@@ -1,34 +1,34 @@
 ---
-title: GeometryOperations.DeleteNearPoints
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryOperations طريقة. احذف النقاط القريبة جدًا من بعضها البعض.
+title: "GeometryOperations.DeleteNearPoints"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryOperations. حذف النقاط التي هي قريبة جدًا من بعضها البعض"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.gis.geotools/geometryoperations/deletenearpoints/
 ---
 ## GeometryOperations.DeleteNearPoints method
 
-احذف النقاط القريبة جدًا من بعضها البعض.
+حذف النقاط التي تكون قريبة جدًا من بعضها البعض.
 
 ```csharp
 public static IGeometry DeleteNearPoints(IGeometry geometry, NearPointsCleanerOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | هندسة حذف أقرب نقطة. |
-| options | NearPointsCleanerOptions | خيارات لحذف أقرب النقاط. |
+| هندسة | IGeometry | الهندسة لحذف أقرب النقاط. |
+| الخيارات | NearPointsCleanerOptions | خيارات حذف أقرب النقاط. |
 
 ### قيمة الإرجاع
 
 الهندسة بعد حذف أقرب نقطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [NearPointsCleanerOptions](../../nearpointscleaneroptions/)
 * class [GeometryOperations](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../geometryoperations/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geometryoperations/)
+* assembly [Aspose.GIS](../../../)
 
 

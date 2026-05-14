@@ -1,23 +1,23 @@
 ---
-title: GpxOptions.ReadNestedAttributes
-second_title: Aspose.GIS لمرجع .NET API
-description: GpxOptions ملكية. لتحديد ما إذا كانت نقاط GPX  مثل trkpt و rtept  تحتوي على سمات داخلية وما إذا كان ينبغي قراءتها. افتراضات إلىfalse .
+title: "GpxOptions.ReadNestedAttributes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GpxOptions. تحدد ما إذا كانت نقاط GPX مثل trkpt و rtept تحتوي على سمات داخلية وما إذا كان يجب قراءتها. القيمة الافتراضية هي false"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.gpx/gpxoptions/readnestedattributes/
 ---
 ## GpxOptions.ReadNestedAttributes property
 
-لتحديد ما إذا كانت نقاط GPX ، مثل "trkpt" و "rtept" ، تحتوي على سمات داخلية وما إذا كان ينبغي قراءتها. افتراضات إلى`false` .
+يحدد ما إذا كانت نقاط GPX، مثل 'trkpt' و 'rtept'، تحتوي على سمات داخلية وما إذا كان يجب قراءتها. الافتراضي هو `false`.
 
 ```csharp
 public bool ReadNestedAttributes { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GpxOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

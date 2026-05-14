@@ -1,27 +1,27 @@
 ---
-title: MapInfoInterchangeOptions.TextStringAttribute
-second_title: Aspose.GIS لمرجع .NET API
-description: MapInfoInterchangeOptions ملكية. يحدد اسم السمة التي تمثل نص كائن رسومي نص.
+title: "MapInfoInterchangeOptions.TextStringAttribute"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MapInfoInterchangeOptions. تحدد اسم السمة التي تمثل نص الكائن الرسومي Text"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions/textstringattribute/
 ---
 ## MapInfoInterchangeOptions.TextStringAttribute property
 
-يحدد اسم السمة التي تمثل نص كائن رسومي "نص".
+يحدد اسم السمة التي تمثل نص الكائن الرسومي 'Text'.
 
 ```csharp
 public string TextStringAttribute { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-يحدد تنسيق تبادل MapInfo كائنًا رسوميًا من النوع "نص" . يمثل الكائن الرسومي "نص" تسمية على الخريطة. نقوم بتصدير الكائنات الرسومية "نصية" كـ أ[`Feature`](../../../aspose.gis/feature/) مع[`Polygon`](../../../aspose.gis.geometries/polygon/) الشكل الهندسي الذي يحد التسمية. يتم تصدير نص الملصق بتنسيق[`FeatureAttribute`](../../../aspose.gis/featureattribute/) . تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي`"سلسلة نصية"` .
+تنسيق MapInfo Interchange يحدد كائنًا رسوميًا من النوع 'Text'. الكائن الرسومي 'Text' يمثل تسمية على الخريطة. نقوم بتصدير الكائنات الرسومية 'Text' كـ [`Feature`](../../../aspose.gis/feature/) مع هندسة [`Polygon`](../../../aspose.gis.geometries/polygon/) التي تحدد حدود التسمية. يتم تصدير نص التسمية كـ [`FeatureAttribute`](../../../aspose.gis/featureattribute/). تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي `\"textstring\"`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoInterchangeOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangeoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangeoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,69 +1,69 @@
 ---
-title: Extent.Extent
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent البناء. إنشاء مثيل جديد .
+title: "Extent.Extent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Extent. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/extent/extent/
 ---
 ## Extent() {#constructor}
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public Extent()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Extent(SpatialReferenceSystem) {#constructor_1}
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public Extent(SpatialReferenceSystem srs)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبطة بهذا المدى. يمكن أن يكون`null` للإشارة إلى أن SRS غير معروف. |
+| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا النطاق. يمكن أن يكون `null` للدلالة على أن نظام الإسناد المكاني غير معروف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Extent(double, double, double, double, SpatialReferenceSystem) {#constructor_2}
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public Extent(double xMin, double yMin, double xMax, double yMax, SpatialReferenceSystem srs = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| xMin | Double | الحد الأدنى لقيمة X. |
-| yMin | Double | أدنى قيمة ص. |
-| xMax | Double | أقصى قيمة س. |
-| yMax | Double | أقصى قيمة ص. |
-| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبطة بهذا المدى. يمكن أن يكون`null` للإشارة إلى أن SRS غير معروف. |
+| xMin | Double | القيمة الصغرى لـ X. |
+| yMin | Double | القيمة الصغرى لـ Y. |
+| xMax | Double | القيمة القصوى لـ X. |
+| yMax | Double | القيمة القصوى لـ Y. |
+| srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا النطاق. يمكن أن يكون `null` للدلالة على أن نظام الإسناد المكاني غير معروف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

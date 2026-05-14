@@ -1,23 +1,23 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.Name
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters ملكية. اسم SRS المتوقع. الافتراضي هو بدون اسم .
+title: "ProjectedSpatialReferenceSystemParameters.Name"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystemParameters. اسم نظام الإحداثيات المُسقط. القيمة الافتراضية هي Unnamed."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name/
 ---
 ## ProjectedSpatialReferenceSystemParameters.Name property
 
-اسم SRS المتوقع. الافتراضي هو "بدون اسم" .
+اسم SRS المُسقَّط. الافتراضي هو \"Unnamed\".
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

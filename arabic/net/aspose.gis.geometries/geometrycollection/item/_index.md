@@ -1,38 +1,38 @@
 ---
-title: GeometryCollection.Item
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection ملكية. يحصل على أIGeometry في الفهرس المحدد.
+title: "GeometryCollection.Item"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeometryCollection. تحصل على IGeometry في الفهرس المحدد."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/geometrycollection/item/
 ---
 ## GeometryCollection indexer
 
-يحصل على أ[`IGeometry`](../../igeometry/) في الفهرس المحدد.
+تحصل على [`IGeometry`](../../igeometry/) في الفهرس المحدد.
 
 ```csharp
 public IGeometry this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| الفهرس | الفهرس. |
 
-### Property_Value
+### Property Value
 
-ملف[`IGeometry`](../../igeometry/) .
+ال[`IGeometry`](../../igeometry/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

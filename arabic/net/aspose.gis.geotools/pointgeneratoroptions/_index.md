@@ -1,43 +1,43 @@
 ---
-title: Class PointGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.PointGeneratorOptions فصل. خيارات من نقاط الإنتاج على السطح أو المنطقة .
+title: "الفئة PointGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.GeoTools.PointGeneratorOptions. خيارات لإنتاج النقاط على السطح أو المنطقة"
 type: docs
-weight: 840
+weight: 2600
 url: /ar/net/aspose.gis.geotools/pointgeneratoroptions/
 ---
 ## PointGeneratorOptions class
 
-خيارات من نقاط الإنتاج على السطح أو المنطقة .
+خيارات إنشاء نقاط على السطح أو المنطقة.
 
 ```csharp
 public class PointGeneratorOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PointGeneratorOptions](pointgeneratoroptions/)() | Default_Constructor |
+| [PointGeneratorOptions](pointgeneratoroptions/)() | إنشاء كائن باستخدام الخيارات الافتراضية. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.geotools/pointgeneratoroptions/count/) { get; set; } | عدد النقاط المطلوب إنشاؤها . |
-| [Place](../../aspose.gis.geotools/pointgeneratoroptions/place/) { get; set; } | الوضع في الخلايا التي تم إنشاؤها. _ |
-| [Seed](../../aspose.gis.geotools/pointgeneratoroptions/seed/) { get; set; } | رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة. |
+| [Count](../../aspose.gis.geotools/pointgeneratoroptions/count/) { get; set; } | عدد النقاط التي سيتم إنشاؤها. |
+| [Place](../../aspose.gis.geotools/pointgeneratoroptions/place/) { get; set; } | وضعية التوزيع في الخلايا المُولدة. |
+| [Seed](../../aspose.gis.geotools/pointgeneratoroptions/seed/) { get; set; } | رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/pointgeneratoroptions/clone/)() | استنساخ كائن لبعضه البعض . |
-| override [ToString](../../aspose.gis.geotools/pointgeneratoroptions/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| [Clone](../../aspose.gis.geotools/pointgeneratoroptions/clone/)() | استنساخ الكائن إلى آخر. |
+| override [ToString](../../aspose.gis.geotools/pointgeneratoroptions/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

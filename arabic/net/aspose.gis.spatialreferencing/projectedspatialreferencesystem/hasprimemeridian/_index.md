@@ -1,23 +1,23 @@
 ---
-title: ProjectedSpatialReferenceSystem.HasPrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystem ملكية. العوائد صحيحة  نظرًا لأن SRS المتوقع لها دائمًا خط الزوال الأولي.
+title: "ProjectedSpatialReferenceSystem.HasPrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystem. تُرجع true لأن SRS المُسقطة دائمًا ما يكون لها خط الزوال الأساسي"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasprimemeridian/
 ---
 ## ProjectedSpatialReferenceSystem.HasPrimeMeridian property
 
-العوائد صحيحة ، نظرًا لأن SRS المتوقع لها دائمًا خط الزوال الأولي.
+يرجع true، لأن SRS المُسقَّط دائمًا ما يكون له prime meridian.
 
 ```csharp
 public bool HasPrimeMeridian { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

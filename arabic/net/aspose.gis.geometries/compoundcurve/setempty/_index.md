@@ -1,23 +1,23 @@
 ---
-title: CompoundCurve.SetEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve طريقة. يجعل هذاGeometry فارغ .
+title: "CompoundCurve.SetEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundCurve. تجعل هذه الهندسة فارغة"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.geometries/compoundcurve/setempty/
 ---
 ## CompoundCurve.SetEmpty method
 
-يجعل هذا[`Geometry`](../../geometry/) فارغ .
+يجعل هذا الـ[`Geometry`](../../geometry/) فارغًا.
 
 ```csharp
 public override void SetEmpty()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

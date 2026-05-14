@@ -1,28 +1,28 @@
 ---
-title: XyzTiles.XyzTiles
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzTiles البناء. قم بإنشاء مثيل لـXyzTiles .
+title: "XyzTiles.XyzTiles"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ XyzTiles. إنشاء نسخة من XyzTiles"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.xyztile/xyztiles/xyztiles/
 ---
 ## XyzTiles constructor
 
-قم بإنشاء مثيل لـ[`XyzTiles`](../) .
+إنشاء نسخة من [`XyzTiles`](../).
 
 ```csharp
 public XyzTiles(XyzConnection connection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| connection | XyzConnection | اتصال يحتوي على خيارات الويب. |
+| الاتصال | XyzConnection | اتصال يحتوي على خيارات الويب. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XyzConnection](../../xyzconnection/)
 * class [XyzTiles](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
+* assembly [Aspose.GIS](../../../)
 
 

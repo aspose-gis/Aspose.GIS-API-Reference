@@ -1,7 +1,7 @@
 ---
-title: Map.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: Map ملكية. يحصل على عدد الطبقات في الخريطة.
+title: "Map.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Map. تحصل على عدد الطبقات في الخريطة."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering/map/count/
@@ -18,10 +18,10 @@ public int Count { get; }
 
 عدد الطبقات في الخريطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

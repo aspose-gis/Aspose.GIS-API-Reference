@@ -1,32 +1,32 @@
 ---
-title: Polygon.op_Inequality
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon طريقة. تنفذ عامل التشغيل  .
+title: "Polygon.op_Inequality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Polygon. تنفذ المشغل"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.geometries/polygon/op_inequality/
 ---
 ## Polygon Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفذ العامل !=.
 
 ```csharp
 public static bool operator !=(Polygon a, Polygon b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Polygon | المثال. |
-| b | Polygon | المثيل B. |
+| a | Polygon | الكائن A. |
+| b | Polygon | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

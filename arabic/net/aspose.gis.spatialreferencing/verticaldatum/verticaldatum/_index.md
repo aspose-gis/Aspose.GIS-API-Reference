@@ -1,30 +1,30 @@
 ---
-title: VerticalDatum.VerticalDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalDatum البناء. إنشاء مثيل جديد .
+title: "VerticalDatum.VerticalDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ VerticalDatum. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/verticaldatum/verticaldatum/
 ---
 ## VerticalDatum constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public VerticalDatum(string name, int datumType, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم المرجع. |
-| datumType | Int32 | عدد صحيح ، يمثل نوع المسند. |
-| identifier | Identifier | معرّف الإسناد. |
+| الاسم | String | اسم datum. |
+| datumType | Int32 | عدد صحيح، يمثل نوع datum. |
+| معرّف | معرّف | معرف datum. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../../identifier/)
 * class [VerticalDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticaldatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticaldatum/)
+* assembly [Aspose.GIS](../../../)
 
 

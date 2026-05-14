@@ -1,21 +1,21 @@
 ---
-title: Aspose.Gis.Rendering.Colorizers
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Colorizers توفر مساحة الاسم فئات لتكوين عرض الخلايا النقطية.
+title: "Aspose.Gis.Rendering.Colorizers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Rendering.Colorizers توفر فئات لتكوين خلايا الراستر أثناء العرض"
 type: docs
-weight: 290
+weight: 670
 url: /ar/net/aspose.gis.rendering.colorizers/
 ---
-`Aspose.Gis.Rendering.Colorizers` توفر مساحة الاسم فئات لتكوين عرض الخلايا النقطية.
+`Aspose.Gis.Rendering.Colorizers` مساحة الاسم توفر فئات لتكوين خلايا الراستر أثناء التصيير.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [BandColor](./bandcolor/) | قيم النطاق المرتبط ومكون اللون لفهرس النطاق المحدد. هناك قيم نطاق بين min و max سيتم محرفها خطيًا . |
-| [MultiBandColor](./multibandcolor/) | يحدد تلوين النطاقات المتعددة المكونات الحمراء والخضراء والزرقاء للنقطية. |
-| [NullColorizer](./nullcolorizer/) | ملف`NullColorizer` لا يرسم شيئًا ويتخطى بشكل فعال عرض الخلية النقطية التي يتم تطبيقها عليها. |
-| [RasterColorizer](./rastercolorizer/) | فئة الجذر المجردة للملون التي تعرض خطوط المسح . |
-| [SingleBandColor](./singlebandcolor/) | يحدد تلوين النطاق الفردي مكونًا رماديًا لخطوط المسح. |
+| [BandColor](./bandcolor/) | يربط قيم النطاق ومكوّن اللون للفهرس المحدد للنطاق. سيتم استيفاء قيم النطاق بين الحد الأدنى والحد الأقصى خطيًا. |
+| [MultiBandColor](./multibandcolor/) | المُلوّن متعدد النطاقات يحدد مكوّنات الأحمر والأخضر والأزرق للراستر. |
+| [NullColorizer](./nullcolorizer/) | يقوم الـ `NullColorizer` بعدم رسم أي شيء ويتخطى فعليًا عرض خلية الراستر التي يُطبق عليها. |
+| [RasterColorizer](./rastercolorizer/) | الفئة الجذرية المجردة للمُلوّن الذي يعرض راستر. |
+| [SingleBandColor](./singlebandcolor/) | المُلوّن أحادي النطاق يحدد مكوّن رمادي للراستر. |
 
 

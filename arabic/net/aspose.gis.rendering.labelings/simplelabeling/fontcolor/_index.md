@@ -1,7 +1,7 @@
 ---
-title: SimpleLabeling.FontColor
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. يحدد لون النص.
+title: "SimpleLabeling.FontColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. تحدد لون النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontcolor/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontcolor/
 public Color FontColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

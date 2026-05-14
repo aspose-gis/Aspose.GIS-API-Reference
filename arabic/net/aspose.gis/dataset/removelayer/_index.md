@@ -1,36 +1,36 @@
 ---
-title: Dataset.RemoveLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: Dataset طريقة. يزيل الطبقة المتجهة ذات الاسم المحدد.
+title: "Dataset.RemoveLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Dataset. تزيل طبقة المتجه بالاسم المحدد"
 type: docs
-weight: 130
+weight: 150
 url: /ar/net/aspose.gis/dataset/removelayer/
 ---
 ## Dataset.RemoveLayer method
 
-يزيل الطبقة المتجهة ذات الاسم المحدد.
+يزيل الطبقة المتجهة بالاسم المحدد.
 
 ```csharp
 public virtual void RemoveLayer(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الطبقة |
+| الاسم | String | اسم الطبقة |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | لم يتم العثور على طبقة بالاسم المحدد. |
 | NotSupportedException | إزالة الطبقة غير مدعومة. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 | [GisException](../../gisexception/) | خطأ أثناء إزالة الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,66 +1,66 @@
 ---
-title: Renderer.Render
-second_title: Aspose.GIS لمرجع .NET API
-description: Renderer طريقة. خريطة Renders .
+title: "Renderer.Render"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Renderer. تُظهر الخريطة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/renderer/render/
 ---
 ## Render(Map, string) {#render_1}
 
-خريطة Renders .
+يعرض الخريطة.
 
 ```csharp
 public void Render(Map map, string outputPath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| map | Map | الخريطة للعرض. |
+| خريطة | خريطة | خريطة للعرض. |
 | outputPath | String | مسار ملف الإخراج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | أي حجة`null`. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| ArgumentNullException | أي وسيط هو `null`. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Map](../../map/)
 * class [Renderer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../renderer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../renderer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Render(Map, AbstractPath) {#render}
 
-خريطة Renders .
+يعرض الخريطة.
 
 ```csharp
 public void Render(Map map, AbstractPath outputPath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| map | Map | الخريطة للعرض. |
+| خريطة | خريطة | خريطة للعرض. |
 | outputPath | AbstractPath | مسار ملف الإخراج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | أي حجة`null`. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| ArgumentNullException | أي وسيط هو `null`. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Map](../../map/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [Renderer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../renderer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../renderer/)
+* assembly [Aspose.GIS](../../../)
 
 

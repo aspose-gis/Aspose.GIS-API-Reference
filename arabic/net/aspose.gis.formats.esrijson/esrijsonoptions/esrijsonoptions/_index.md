@@ -1,23 +1,23 @@
 ---
-title: EsriJsonOptions.EsriJsonOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: EsriJsonOptions البناء. إنشاء مثيل جديد .
+title: "EsriJsonOptions.EsriJsonOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ EsriJsonOptions. إنشاء مثال جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.esrijson/esrijsonoptions/esrijsonoptions/
 ---
 ## EsriJsonOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public EsriJsonOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EsriJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriJson](../../esrijsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriJson](../../esrijsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

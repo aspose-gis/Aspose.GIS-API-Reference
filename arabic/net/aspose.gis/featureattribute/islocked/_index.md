@@ -1,27 +1,27 @@
 ---
-title: FeatureAttribute.IsLocked
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute ملكية. يحصل على قيمة تشير إلى ما إذا كانت هذه السمة مؤمنة.
+title: "FeatureAttribute.IsLocked"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttribute. تحصل على قيمة تشير إلى ما إذا كانت هذه الخاصية مقفلة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/featureattribute/islocked/
 ---
 ## FeatureAttribute.IsLocked property
 
-يحصل على قيمة تشير إلى ما إذا كانت هذه السمة مؤمنة.
+يحصل على قيمة تشير إلى ما إذا كانت هذه السمة مقفلة.
 
 ```csharp
 public bool IsLocked { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كانت هذه السمة مقفلة ؛ خلاف ذلك،`false` .
+`true` إذا كانت هذه الخاصية مقفلة؛ وإلا، `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

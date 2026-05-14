@@ -1,36 +1,36 @@
 ---
-title: Class SavingOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SavingOptions فصل. خيارات للحفظFeaturesSequence إلى ملف .
+title: "الفئة SavingOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SavingOptions. خيارات حفظ FeaturesSequence إلى ملف"
 type: docs
-weight: 2010
+weight: 4460
 url: /ar/net/aspose.gis/savingoptions/
 ---
 ## SavingOptions class
 
-خيارات للحفظ[`FeaturesSequence`](../featuressequence/) إلى ملف .
+خيارات حفظ [`FeaturesSequence`](../featuressequence/) إلى ملف.
 
 ```csharp
 public class SavingOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SavingOptions](savingoptions/)() | Default_Constructor |
+| [SavingOptions](savingoptions/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter/) { get; set; } | محول مخصص للسمات . إذا لم يكن كذلك`null` ، يتم استدعاؤها لكل سمة من سمات الطبقة المصدر ومن المتوقع تغييرها إذا لزم الأمر. |
-| [DriverOptions](../../aspose.gis/savingoptions/driveroptions/) { get; set; } | خيارات خاصة ببرنامج التشغيل لطبقة الإخراج. |
-| [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem/) { get; set; } | خيارات خاصة ببرنامج التشغيل لطبقة الإخراج. |
+| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter/) { get; set; } | محول مخصص للسمات. إذا لم يكن `null`، يتم استدعاؤه لكل سمة من طبقة المصدر ومن المتوقع أن يغيّرها إذا لزم الأمر. |
+| [DriverOptions](../../aspose.gis/savingoptions/driveroptions/) { get; set; } | خيارات خاصة بالسائق للطبقة الناتجة. |
+| [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem/) { get; set; } | خيارات خاصة بالسائق للطبقة الناتجة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

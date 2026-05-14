@@ -1,24 +1,24 @@
 ---
-title: ConversionOptions.DestinationDriverOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: ConversionOptions ملكية. خيارات خاصة ببرنامج التشغيل للطبقة الوجهة .
+title: "ConversionOptions.DestinationDriverOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ConversionOptions. خيارات خاصة بالسائق للطبقة الوجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/conversionoptions/destinationdriveroptions/
 ---
 ## ConversionOptions.DestinationDriverOptions property
 
-خيارات خاصة ببرنامج التشغيل للطبقة الوجهة .
+خيارات خاصة بالسائق للطبقة الوجهة.
 
 ```csharp
 public DriverOptions DestinationDriverOptions { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DriverOptions](../../driveroptions/)
 * class [ConversionOptions](../)
-* مساحة الاسم [Aspose.Gis](../../conversionoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../conversionoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

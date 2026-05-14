@@ -1,24 +1,24 @@
 ---
-title: Renderers.Bmp
-second_title: Aspose.GIS لمرجع .NET API
-description: Renderers ملكية. جهاز عرض يتم عرضه بتنسيق BMP .
+title: "Renderers.Bmp"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Renderers property. مُعَرِّض يُحوِّل إلى تنسيق BMP."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/renderers/bmp/
 ---
 ## Renderers.Bmp property
 
-جهاز عرض يتم عرضه بتنسيق BMP .
+عارض يقوم بالتحويل إلى صيغة BMP.
 
 ```csharp
 public static BmpRenderer Bmp { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BmpRenderer](../../../aspose.gis.rendering.formats.bmp/bmprenderer/)
 * class [Renderers](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../renderers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../renderers/)
+* assembly [Aspose.GIS](../../../)
 
 

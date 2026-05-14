@@ -1,14 +1,14 @@
 ---
-title: RasterBand.ToString
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterBand طريقة. إرجاع سلسلة تمثل الكائن الحالي.
+title: "RasterBand.ToString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterBand. تُرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rasterband/tostring/
 ---
 ## RasterBand.ToString method
 
-إرجاع سلسلة تمثل الكائن الحالي.
+يعيد سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -18,10 +18,10 @@ public override string ToString()
 
 سلسلة تمثل الكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterBand](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterband/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterband/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: MapGeneratorOptions.MapGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: MapGeneratorOptions البناء. Default_Constructor
+title: "MapGeneratorOptions.MapGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MapGeneratorOptions. إنشاء نسخة باستخدام الخيارات الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/mapgeneratoroptions/
 ---
 ## MapGeneratorOptions constructor
 
-Default_Constructor
+إنشاء كائن باستخدام الخيارات الافتراضية.
 
 ```csharp
 public MapGeneratorOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: Extent.XMax
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent ملكية. الحد الأقصى لقيمة إحداثي س.
+title: "Extent.XMax"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Extent. القيمة القصوى لإحداثي X."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/extent/xmax/
 ---
 ## Extent.XMax property
 
-الحد الأقصى لقيمة إحداثي س.
+القيمة القصوى لإحداثي X.
 
 ```csharp
 public double XMax { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

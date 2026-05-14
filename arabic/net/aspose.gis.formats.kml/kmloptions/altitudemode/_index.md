@@ -1,24 +1,24 @@
 ---
-title: KmlOptions.AltitudeMode
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlOptions ملكية. يسمح لك بتحديد AltitudeModes لاستخدامها مع الأشكال الهندسية لـ KML
+title: "KmlOptions.AltitudeMode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlOptions. تسمح لك بتحديد AltitudeModes لاستخدامها في أشكال KML"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml/kmloptions/altitudemode/
 ---
 ## KmlOptions.AltitudeMode property
 
-يسمح لك بتحديد AltitudeModes لاستخدامها مع الأشكال الهندسية لـ KML
+يسمح لك بتحديد أوضاع الارتفاع (AltitudeModes) لاستخدامها في أشكال KML
 
 ```csharp
 public AltitudeModes AltitudeMode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AltitudeModes](../../altitudemodes/)
 * class [KmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../kmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

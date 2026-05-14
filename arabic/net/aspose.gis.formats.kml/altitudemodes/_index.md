@@ -1,31 +1,31 @@
 ---
-title: Enum AltitudeModes
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.AltitudeModes تعداد. وضع الارتفاع لأشكال KML الهندسية .
+title: "التعداد AltitudeModes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Formats.Kml.AltitudeModes. وضع الارتفاع لأشكال KML"
 type: docs
-weight: 390
+weight: 2030
 url: /ar/net/aspose.gis.formats.kml/altitudemodes/
 ---
 ## AltitudeModes enumeration
 
-وضع الارتفاع لأشكال KML الهندسية .
+وضع الارتفاع لأشكال KML.
 
 ```csharp
 public enum AltitudeModes
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | بدون وضع الارتفاع. |
-| RelativeToGround | `1` | يفسر الارتفاع كقيمة بالأمتار فوق سطح الأرض. |
-| ClampToGround | `2` | بالنسبة للكاميرا ، يضع هذا الإعداد أيضًا الكاميرا ذات الصلة بالأرض ، نظرًا لأن وضع الكاميرا بالضبط على ارتفاع التضاريس يعني أن العين ستتقاطع مع التضاريس (وسيتم حظر العرض). |
+| None | `0` | بدون وضع ارتفاع. |
+| RelativeToGround | `1` | يفسر الارتفاع كقيمة بالأمتار فوق الأرض. |
+| ClampToGround | `2` | بالنسبة للكاميرا، يضع هذا الإعداد الكاميرا relativeToGround أيضًا، لأن وضع الكاميرا بالضبط على ارتفاع التضاريس يعني أن العين ستتقاطع مع التضاريس (وسيتم حجب الرؤية). |
 | Absolute | `3` | يفسر الارتفاع كقيمة بالأمتار فوق مستوى سطح البحر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../aspose.gis.formats.kml/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml](../../aspose.gis.formats.kml/)
+* assembly [Aspose.GIS](../../)
 
 

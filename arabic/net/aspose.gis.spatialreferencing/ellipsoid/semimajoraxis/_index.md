@@ -1,23 +1,23 @@
 ---
-title: Ellipsoid.SemiMajorAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: Ellipsoid ملكية. المحور شبه الرئيسي للقطع الناقص.
+title: "Ellipsoid.SemiMajorAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Ellipsoid. المحور الرئيسي شبه للقطعة الناقصة"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/
 ---
 ## Ellipsoid.SemiMajorAxis property
 
-المحور شبه الرئيسي للقطع الناقص.
+نصف المحور الرئيسي للشكل البيضاوي.
 
 ```csharp
 public double SemiMajorAxis { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Ellipsoid](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
+* assembly [Aspose.GIS](../../../)
 
 

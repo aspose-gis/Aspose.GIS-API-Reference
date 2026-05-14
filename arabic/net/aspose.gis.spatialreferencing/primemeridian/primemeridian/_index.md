@@ -1,30 +1,30 @@
 ---
-title: PrimeMeridian.PrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: PrimeMeridian البناء. يخلق مثيل جديد.
+title: "PrimeMeridian.PrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ PrimeMeridian. يُنشئ نسخة جديدة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/primemeridian/primemeridian/
 ---
 ## PrimeMeridian constructor
 
-يخلق مثيل جديد.
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public PrimeMeridian(string name, double longitude, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم هذا الزوال الرئيسي. |
-| longitude | Double | خط الطول لخط الزوال الرئيسي بالنسبة إلى غرينتش بالدرجات. |
-| identifier | Identifier | معرف خط الزوال الرئيسي. |
+| الاسم | String | اسم هذا الخط الطولي الرئيسي. |
+| longitude | Double | خط الطول للخط الطولي الرئيسي بالنسبة إلى غرينتش بالدرجات. |
+| معرّف | معرّف | معرّف الخط الطولي الرئيسي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../../identifier/)
 * class [PrimeMeridian](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../primemeridian/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../primemeridian/)
+* assembly [Aspose.GIS](../../../)
 
 

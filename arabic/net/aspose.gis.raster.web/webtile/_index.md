@@ -1,14 +1,14 @@
 ---
-title: Class WebTile
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.Web.WebTile فصل. نموذج بلاط الويب المجرد.
+title: "الفئة WebTile"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.Web.WebTile. نموذج بلاطة ويب تجريدي"
 type: docs
-weight: 1440
+weight: 3880
 url: /ar/net/aspose.gis.raster.web/webtile/
 ---
 ## WebTile class
 
-نموذج بلاط الويب المجرد.
+نموذج تجزئة الويب المجرد.
 
 ```csharp
 public abstract class WebTile
@@ -16,22 +16,22 @@ public abstract class WebTile
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [CellX](../../aspose.gis.raster.web/webtile/cellx/) { get; } | العمود X للبلاط. |
-| abstract [CellY](../../aspose.gis.raster.web/webtile/celly/) { get; } | الصف Y للبلاط. |
+| abstract [CellX](../../aspose.gis.raster.web/webtile/cellx/) { get; } | العمود X للبلطة. |
+| abstract [CellY](../../aspose.gis.raster.web/webtile/celly/) { get; } | الصف Y للبلطة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [AsPath](../../aspose.gis.raster.web/webtile/aspath/)() | يعرض محتوى اللوحة على هيئة عنوان Url أو مسار لملف. |
-| abstract [AsRaster](../../aspose.gis.raster.web/webtile/asraster/)() | يقدم محتوى التجانب كطبقة نقطية. |
-| abstract [GetExtent](../../aspose.gis.raster.web/webtile/getextent/)() | يقدم المدى المكاني لهذه الطبقة. |
+| abstract [AsPath](../../aspose.gis.raster.web/webtile/aspath/)() | يعرض محتوى البلطة كعنوان URL أو مسار إلى ملف. |
+| abstract [AsRaster](../../aspose.gis.raster.web/webtile/asraster/)() | يعرض محتوى البلطة كطبقة رستر. |
+| abstract [GetExtent](../../aspose.gis.raster.web/webtile/getextent/)() | يعرض الامتداد المكاني لهذه الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster.Web](../../aspose.gis.raster.web/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster.Web](../../aspose.gis.raster.web/)
+* assembly [Aspose.GIS](../../)
 
 

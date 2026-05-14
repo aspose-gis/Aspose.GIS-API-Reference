@@ -1,7 +1,7 @@
 ---
-title: FileDriver.CanOpenDatasets
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات.
+title: "FileDriver.CanOpenDatasets"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileDriver. تحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح مجموعات البيانات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/filedriver/canopendatasets/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis/filedriver/canopendatasets/
 public virtual bool CanOpenDatasets { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح مجموعات البيانات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

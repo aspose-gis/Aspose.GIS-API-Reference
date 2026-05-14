@@ -1,23 +1,23 @@
 ---
-title: KmlPolygonStyle.KmlPolygonStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlPolygonStyle البناء. Default_Constructor
+title: "KmlPolygonStyle.KmlPolygonStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlPolygonStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/kmlpolygonstyle/
 ---
 ## KmlPolygonStyle constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlPolygonStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlPolygonStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlpolygonstyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlpolygonstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

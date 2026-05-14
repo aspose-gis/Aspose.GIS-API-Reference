@@ -1,7 +1,7 @@
 ---
-title: RuleBasedSymbolizer.Item
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedSymbolizer ملكية. يحصل على القاعدة في الفهرس المحدد.
+title: "RuleBasedSymbolizer.Item"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RuleBasedSymbolizer. يحصل على القاعدة في الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/item/
@@ -14,19 +14,19 @@ url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/item/
 public Rule this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس الصفري للقاعدة للحصول عليها. |
+| الفهرس | الفهرس الصفري للقاعدة المطلوب الحصول عليها. |
 
 ### قيمة الإرجاع
 
 القاعدة في الفهرس المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rule](../../rule/)
 * class [RuleBasedSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

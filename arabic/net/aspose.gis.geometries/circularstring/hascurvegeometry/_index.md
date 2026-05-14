@@ -1,27 +1,27 @@
 ---
-title: CircularString.HasCurveGeometry
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه الهندسة عبارة عن هندسة منحنية غير خطية أو تحتوي عليها.
+title: "CircularString.HasCurveGeometry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CircularString. تحصل على قيمة تُشير إلى ما إذا كان هذا الشكل هندسة منحنية أو يحتوي على منحنى وليس هندسة خطية"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/circularstring/hascurvegeometry/
 ---
 ## CircularString.HasCurveGeometry property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه الهندسة عبارة عن هندسة منحنية (غير خطية) أو تحتوي عليها.
+يحصل على قيمة تشير إلى ما إذا كانت هذه الهندسة أو تحتوي على هندسة منحنية (غير خطية).
 
 ```csharp
 public override bool HasCurveGeometry { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`false` إذا كانت هذه الهندسة وكل الأشكال الهندسية التي تحتويها خطية ؛ خلاف ذلك،`true` .
+`false` إذا كان هذا الشكل وجميع الأشكال التي يحتويها خطية؛ وإلا، `true`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

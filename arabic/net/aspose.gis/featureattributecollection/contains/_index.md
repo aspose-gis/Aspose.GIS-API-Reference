@@ -1,37 +1,37 @@
 ---
-title: FeatureAttributeCollection.Contains
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttributeCollection طريقة. لتحديد ما إذا كانت مجموعة السمات تحتوي على سمة بالاسم المحدد.
+title: "FeatureAttributeCollection.Contains"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeatureAttributeCollection. تحدد ما إذا كانت مجموعة الخصائص تحتوي على خاصية بالاسم المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/featureattributecollection/contains/
 ---
 ## FeatureAttributeCollection.Contains method
 
-لتحديد ما إذا كانت مجموعة السمات تحتوي على سمة بالاسم المحدد.
+يحدد ما إذا كانت مجموعة الخصائص تحتوي على خاصية بالاسم المحدد.
 
 ```csharp
 public bool Contains(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
+| الاسم | String | اسم السمة. |
 
 ### قيمة الإرجاع
 
-`true`إذا كانت مجموعة السمات تحتوي على سمة تحمل الاسم المحدد ؛ خلاف ذلك،`false` .
+`true` إذا كانت مجموعة الخصائص تحتوي على خاصية بالاسم المحدد؛ وإلا، `false`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

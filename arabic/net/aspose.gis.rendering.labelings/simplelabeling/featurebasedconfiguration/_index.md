@@ -1,28 +1,28 @@
 ---
-title: SimpleLabeling.FeatureBasedConfiguration
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. رد اتصال يتم استخدامه لتكوين هذه التسمية قبل التعامل مع ميزة.
+title: "SimpleLabeling.FeatureBasedConfiguration"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. دالة رد النداء التي تُستخدم لتكوين هذه التسمية قبل معالجة معلم"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration/
 ---
 ## SimpleLabeling.FeatureBasedConfiguration property
 
-رد اتصال يتم استخدامه لتكوين هذه التسمية قبل التعامل مع ميزة.
+دالة رد نداء تُستخدم لتكوين هذه التسمية قبل معالجة ميزة.
 
 ```csharp
 public Action<Feature, SimpleLabeling> FeatureBasedConfiguration { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-يتم استدعاء رد الاتصال هذا قبل تسمية كل ميزة. إنه يقبل ميزة على وشك أن يتم تسميتها ونسخة من هذه التسمية. من خلال تغيير خصائص الاستنساخ ، من الممكن تحديث سلوك الملصقات بناءً على سمات الميزة.
+يتم استدعاء هذا رد النداء قبل تسمية كل معلم. يقبل معلمًا على وشك أن يُسمى ونسخة من هذه التسمية. من خلال تغيير خصائص النسخة، يمكن تحديث سلوك التسمية بناءً على سمات المعلم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

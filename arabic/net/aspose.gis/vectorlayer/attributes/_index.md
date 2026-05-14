@@ -1,28 +1,28 @@
 ---
-title: VectorLayer.Attributes
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer ملكية. يحصل على مجموعة السمات المخصصة للميزات الموجودة في هذاVectorLayer .
+title: "VectorLayer.Attributes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VectorLayer. الحصول على مجموعة السمات المخصصة للـ features في هذا VectorLayer"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/vectorlayer/attributes/
 ---
 ## VectorLayer.Attributes property
 
-يحصل على مجموعة السمات المخصصة للميزات الموجودة في هذا[`VectorLayer`](../) .
+الحصول على مجموعة السمات المخصصة للـ features في هذا [`VectorLayer`](../).
 
 ```csharp
 public override FeatureAttributeCollection Attributes { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مجموعة السمات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttributeCollection](../../featureattributecollection/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

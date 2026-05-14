@@ -1,7 +1,7 @@
 ---
-title: RuleBasedSymbolizer.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedSymbolizer ملكية. يحصل على عدد القواعد.
+title: "RuleBasedSymbolizer.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RuleBasedSymbolizer. تحصل على عدد القواعد"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/count/
@@ -18,10 +18,10 @@ public int Count { get; }
 
 عدد القواعد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RuleBasedSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

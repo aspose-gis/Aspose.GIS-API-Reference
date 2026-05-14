@@ -1,14 +1,14 @@
 ---
-title: CompoundCurve.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "CompoundCurve.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundCurve. تعمل كدالة التجزئة الافتراضية"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.geometries/compoundcurve/gethashcode/
 ---
 ## CompoundCurve.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,27 +1,27 @@
 ---
-title: LineString.HasZ
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+title: "LineString.HasZ"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineString. تحصل على قيمة تُشير إلى ما إذا كان لهذا الكائن إحداثيات Z"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geometries/linestring/hasz/
 ---
 ## LineString.HasZ property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية Z.
 
 ```csharp
 public bool HasZ { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان هذا المثال يحتوي على إحداثيات Z ؛ خلاف ذلك،`false` .
+`true` إذا كان لهذا الكائن إحداثيات Z؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

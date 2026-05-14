@@ -1,31 +1,31 @@
 ---
-title: Interface IMultiSurface
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.IMultiSurface واجهه المستخدم. أIMultiPolygon هو بعد واحدIGeometryCollection من العناصرISurface s.
+title: "الواجهة IMultiSurface"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Geometries.IMultiSurface. الـ IMultiPolygon هو IGeometryCollection أحادي البعد حيث تكون عناصره ISurfaces"
 type: docs
-weight: 1080
+weight: 2860
 url: /ar/net/aspose.gis.geometries/imultisurface/
 ---
 ## IMultiSurface interface
 
-أ[`IMultiPolygon`](../imultipolygon/) هو بعد واحد[`IGeometryCollection`](../igeometrycollection/) من العناصر[`ISurface`](../isurface/) s.
+الـ [`IMultiPolygon`](../imultipolygon/) هو [`IGeometryCollection`](../igeometrycollection/) أحادي البعد حيث تكون عناصره [`ISurface`](../isurface/)s.
 
 ```csharp
 public interface IMultiSurface : IGeometryCollection
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToEditable](../../aspose.gis.geometries/imultisurface/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
-| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry/#tolineargeometry)() | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضي`تسامح` . |
-| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry/#tolineargeometry_1)(double) | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام المحدد`تسامح` . |
+| [ToEditable](../../aspose.gis.geometries/imultisurface/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry/#tolineargeometry)() | يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` الافتراضي. |
+| [ToLinearGeometry](../../aspose.gis.geometries/imultisurface/tolineargeometry/#tolineargeometry_1)(double) | يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometryCollection](../igeometrycollection/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

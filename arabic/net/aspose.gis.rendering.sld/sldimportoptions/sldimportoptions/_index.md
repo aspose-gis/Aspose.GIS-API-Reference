@@ -1,23 +1,23 @@
 ---
-title: SldImportOptions.SldImportOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: SldImportOptions البناء. Default_Constructor
+title: "SldImportOptions.SldImportOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SldImportOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.sld/sldimportoptions/sldimportoptions/
 ---
 ## SldImportOptions constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public SldImportOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SldImportOptions](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Sld](../../sldimportoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Sld](../../sldimportoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

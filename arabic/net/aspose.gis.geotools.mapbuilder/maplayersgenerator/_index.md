@@ -1,9 +1,9 @@
 ---
-title: Class MapLayersGenerator
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator فصل. مولد طبقات الخريطة
+title: "فئة MapLayersGenerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator. مولد طبقات الخريطة"
 type: docs
-weight: 820
+weight: 2580
 url: /ar/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 ---
 ## MapLayersGenerator class
@@ -14,21 +14,22 @@ url: /ar/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 public class MapLayersGenerator
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MapLayersGenerator](maplayersgenerator/)() | Default_Constructor |
+| [MapLayersGenerator](maplayersgenerator/)() | المُنشئ الافتراضي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ProduceMap](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/producemap/)(MapGeneratorOptions) | إنشاء الخريطة . |
+| static [GetListOfLayers](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/getlistoflayers/)(MapGeneratorOptions) | احصل على قائمة الطبقات: roadLayer, buildingLayer, parkLayer, parkRoadLayer, industrialLayer. |
+| static [ProduceMap](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/producemap/)(MapGeneratorOptions) | إنشاء الخريطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools.MapBuilder](../../aspose.gis.geotools.mapbuilder/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../aspose.gis.geotools.mapbuilder/)
+* assembly [Aspose.GIS](../../)
 
 

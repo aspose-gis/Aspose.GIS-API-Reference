@@ -1,27 +1,27 @@
 ---
-title: Map.BackgroundColor
-second_title: Aspose.GIS لمرجع .NET API
-description: Map ملكية. لون خلفية الخريطة. افتراضات إلىTransparent .
+title: "Map.BackgroundColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Map. لون الخلفية للخريطة. القيمة الافتراضية هي شفافة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/map/backgroundcolor/
 ---
 ## Map.BackgroundColor property
 
-لون خلفية الخريطة. افتراضات إلىTransparent .
+لون الخلفية للخريطة. القيمة الافتراضية هي شفاف.
 
 ```csharp
 public Color BackgroundColor { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-في حالة عدم دعم تنسيق الإخراج للخلفية الشفافة ، يتم تعيين لون الخلفية إلى الأبيض.
+إذا لم يكن الخلفية الشفافة مدعومة من قبل تنسيق الإخراج، يتم تعيين لون الخلفية إلى الأبيض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

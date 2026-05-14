@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.GeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. إرجاع البيانات الجغرافية لهذا SRS.
+title: "SpatialReferenceSystem.GeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تُعيد datum الجغرافي لهذا الـ SRS"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/geographicdatum/
 ---
 ## SpatialReferenceSystem.GeographicDatum property
 
-إرجاع البيانات الجغرافية لهذا SRS.
+يرجع datum الجغرافي لهذا SRS.
 
 ```csharp
 public abstract GeographicDatum GeographicDatum { get; }
@@ -16,15 +16,15 @@ public abstract GeographicDatum GeographicDatum { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | لا تحتوي خدمة SRS هذه على بيانات جغرافية.[`HasGeographicDatum`](../hasgeographicdatum/) |
+| InvalidOperationException | هذا الـ SRS لا يحتوي على datum جغرافي. [`HasGeographicDatum`](../hasgeographicdatum/) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../../geographicdatum/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

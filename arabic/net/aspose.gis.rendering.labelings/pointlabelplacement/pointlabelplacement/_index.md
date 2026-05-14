@@ -1,49 +1,49 @@
 ---
-title: PointLabelPlacement.PointLabelPlacement
-second_title: Aspose.GIS لمرجع .NET API
-description: PointLabelPlacement البناء. يخلق مثيل جديد.
+title: "PointLabelPlacement.PointLabelPlacement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ PointLabelPlacement. ينشئ مثيلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/pointlabelplacement/
 ---
 ## PointLabelPlacement() {#constructor}
 
-يخلق مثيل جديد.
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public PointLabelPlacement()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PointLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## PointLabelPlacement(PointLabelPlacement) {#constructor_1}
 
-يخلق مثيل جديد.
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public PointLabelPlacement(PointLabelPlacement other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | PointLabelPlacement | الأخرى[`PointLabelPlacement`](../) لنسخ البيانات من. |
+| other | PointLabelPlacement | الآخر [`PointLabelPlacement`](../) لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PointLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

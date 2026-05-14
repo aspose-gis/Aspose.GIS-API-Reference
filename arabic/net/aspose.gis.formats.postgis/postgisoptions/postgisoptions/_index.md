@@ -1,23 +1,23 @@
 ---
-title: PostGisOptions.PostGisOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: PostGisOptions البناء. إنشاء مثيل جديد.
+title: "PostGisOptions.PostGisOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ PostGisOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.postgis/postgisoptions/postgisoptions/
 ---
 ## PostGisOptions constructor
 
-إنشاء مثيل جديد.
+إنشاء نسخة جديدة.
 
 ```csharp
 public PostGisOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PostGisOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.PostGis](../../postgisoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.PostGis](../../postgisoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

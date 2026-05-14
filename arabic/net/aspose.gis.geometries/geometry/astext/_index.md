@@ -1,14 +1,14 @@
 ---
-title: Geometry.AsText
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. تترجم هذه الهندسة إلى تمثيلها النصي المعروف جيدًا.
+title: "Geometry.AsText"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تُحوِّل هذه الهندسة إلى تمثيل Well-Known Text الخاص بها"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/geometry/astext/
 ---
 ## AsText() {#astext}
 
-تترجم هذه الهندسة إلى تمثيلها النصي المعروف جيدًا.
+يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text.
 
 ```csharp
 public string AsText()
@@ -16,86 +16,86 @@ public string AsText()
 
 ### قيمة الإرجاع
 
-تمثيل نصي معروف لهذه الهندسة.
+تمثيل Well-Known Text لهذه الهندسة.
 
-### ملاحظات
+## ملاحظات
 
-إخراج هذه الطريقة بتنسيقIso متغير WKT. التنسيق الرقمي الافتراضي هو[`General`](../../../aspose.gis/numericformat/general/) (بدقة "0") .
+مخرجات هذه الطريقة تكون بصيغة Iso WKT. التنسيق الرقمي الافتراضي هو [`General`](../../../aspose.gis/numericformat/general/) (بدقة "0").
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AsText(WktVariant) {#astext_1}
 
-تترجم هذه الهندسة إلى تمثيلها النصي المعروف جيدًا.
+يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text.
 
 ```csharp
 public string AsText(WktVariant variant)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| variant | WktVariant | متغير نص معروف للاستخدام. |
+| متغيّر | WktVariant | متغيّر Well-Known Text المراد استخدامه. |
 
 ### قيمة الإرجاع
 
-تمثيل نصي معروف لهذه الهندسة.
+تمثيل Well-Known Text لهذه الهندسة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | لا يمكن تمثيل الهندسة في متغير WKT المطلوب. يحدث هذا حاليًا عندما[`HasCurveGeometry`](../hascurvegeometry/) من الهندسة`true` ومتغير WKT هو SimpleFeatureAccessOutdated . |
-| ArgumentOutOfRangeException | *variant* ليس صحيحا[`WktVariant`](../../wktvariant/). |
+| NotSupportedException | لا يمكن تمثيل الهندسة في صيغة WKT المطلوبة. يحدث هذا حاليًا عندما تكون خاصية [`HasCurveGeometry`](../hascurvegeometry/) للهندسة `true` وتكون صيغة WKT هي SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant* ليس قيمة صالحة لـ [`WktVariant`](../../wktvariant/). |
 
-### ملاحظات
+## ملاحظات
 
-التنسيق الرقمي الافتراضي هو[`General`](../../../aspose.gis/numericformat/general/) (بدقة "0") .
+تنسيق الأرقام الافتراضي هو [`General`](../../../aspose.gis/numericformat/general/) (بدقة "0").
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [WktVariant](../../wktvariant/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AsText(WktVariant, NumericFormat) {#astext_2}
 
-تترجم هذه الهندسة إلى تمثيلها النصي المعروف جيدًا.
+يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text.
 
 ```csharp
 public string AsText(WktVariant variant, NumericFormat format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| variant | WktVariant | متغير نص معروف للاستخدام. |
-| format | NumericFormat | تنسيق التنسيق للتحويل إلى سلسلة. انظر[`NumericFormat`](../../../aspose.gis/numericformat/) للحصول عليه. |
+| متغيّر | WktVariant | متغيّر Well-Known Text المراد استخدامه. |
+| format | NumericFormat | تنسيق الإحداثيات للتحويل إلى سلسلة. راجع [`NumericFormat`](../../../aspose.gis/numericformat/) للحصول عليه. |
 
 ### قيمة الإرجاع
 
-تمثيل نصي معروف لهذه الهندسة.
+تمثيل Well-Known Text لهذه الهندسة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | لا يمكن تمثيل الهندسة في متغير WKT المطلوب. يحدث هذا حاليًا عندما[`HasCurveGeometry`](../hascurvegeometry/) من الهندسة`true` ومتغير WKT هو SimpleFeatureAccessOutdated . |
-| ArgumentOutOfRangeException | *variant* ليس صحيحا[`WktVariant`](../../wktvariant/). |
+| NotSupportedException | لا يمكن تمثيل الهندسة في صيغة WKT المطلوبة. يحدث هذا حاليًا عندما تكون خاصية [`HasCurveGeometry`](../hascurvegeometry/) للهندسة `true` وتكون صيغة WKT هي SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant* ليس قيمة صالحة لـ [`WktVariant`](../../wktvariant/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [WktVariant](../../wktvariant/)
 * class [NumericFormat](../../../aspose.gis/numericformat/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: Axis.Direction
-second_title: Aspose.GIS لمرجع .NET API
-description: Axis ملكية. اتجاه هذا المحور.
+title: "Axis.Direction"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Axis. اتجاه هذا المحور"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/axis/direction/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.spatialreferencing/axis/direction/
 public AxisDirection Direction { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AxisDirection](../../axisdirection/)
 * class [Axis](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../axis/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../axis/)
+* assembly [Aspose.GIS](../../../)
 
 

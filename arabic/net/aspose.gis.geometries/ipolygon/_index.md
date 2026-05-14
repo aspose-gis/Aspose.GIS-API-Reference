@@ -1,14 +1,14 @@
 ---
-title: Interface IPolygon
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.IPolygon واجهه المستخدم. أICurvePolygon يتم تحديد حدودها بواسطة حلقات خطية.
+title: "الواجهة IPolygon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Geometries.IPolygon. IPolygon التي تُحدَّد حدودها بخطوط حلقية."
 type: docs
-weight: 1100
+weight: 2880
 url: /ar/net/aspose.gis.geometries/ipolygon/
 ---
 ## IPolygon interface
 
-أ[`ICurvePolygon`](../icurvepolygon/) يتم تحديد حدودها بواسطة حلقات خطية.
+`IPolygon` التي تُحدَّد حدودها بخطوط حلقية.
 
 ```csharp
 public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>
@@ -16,21 +16,21 @@ public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ExteriorRing](../../aspose.gis.geometries/ipolygon/exteriorring/) { get; } | يحصل على الحلقة الخارجية . |
+| [ExteriorRing](../../aspose.gis.geometries/ipolygon/exteriorring/) { get; } | يحصل على الحلقة الخارجية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetInteriorRing](../../aspose.gis.geometries/ipolygon/getinteriorring/)(int) | يحصل على الحلقة الداخلية بفهرسها. |
-| [ToEditable](../../aspose.gis.geometries/ipolygon/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
+| [GetInteriorRing](../../aspose.gis.geometries/ipolygon/getinteriorring/)(int) | يحصل على الحلقة الداخلية حسب فهرستها. |
+| [ToEditable](../../aspose.gis.geometries/ipolygon/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurvePolygon](../icurvepolygon/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

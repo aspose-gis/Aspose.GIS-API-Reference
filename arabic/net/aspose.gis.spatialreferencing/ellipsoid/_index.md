@@ -1,54 +1,54 @@
 ---
-title: Class Ellipsoid
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.Ellipsoid فصل. يمثل Ellipsoid شكل بيضاوي  والذي يقترب من الأرض.
+title: "الفئة Ellipsoid"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.Ellipsoid. الـ Ellipsoid يمثل شكلًا بيضاويًا يقترب من شكل الأرض"
 type: docs
-weight: 2070
+weight: 4520
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/
 ---
 ## Ellipsoid class
 
-يمثل Ellipsoid شكل بيضاوي ، والذي يقترب من الأرض.
+الإهليلج يمثل إهليلجًا يقترب من شكل الأرض.
 
 ```csharp
 public class Ellipsoid : IdentifiableObject
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Ellipsoid](ellipsoid/)(string, double, double, Identifier) | إنشاء Ellipsoid جديد . |
+| [Ellipsoid](ellipsoid/)(string, double, double, Identifier) | ينشئ Ellipsoid جديد. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy/) { get; } | Airy ellipsoid. |
-| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80/) { get; } | GRS 1980 Ellipsoid. |
-| static [Wgs72](../../aspose.gis.spatialreferencing/ellipsoid/wgs72/) { get; } | WGS 72 Ellipsoid. |
-| static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84/) { get; } | WGS 84 Ellipsoid. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف الكائنات هذا هو معرف EPSG - قم بإرجاع الكود الخاص به. خلاف ذلك - إرجاع -1 . |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرّف هذا الكائن القابل للتحديد . |
-| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening/) { get; } | التسطيح العكسي للقطع الناقص. 0 إذا كانت هذه كرة. |
-| [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere/) { get; } | يكتشف ما إذا كان هذا الشكل الإهليلجي كرة أم لا. |
-| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid/) { get; } | يكتشف ما إذا كان الشكل الإهليلجي صالحًا: يكون المحور شبه الرئيسي أكبر من 0 ويكون التسطيح العكسي موجبًا أو يساوي 0. |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن . |
-| [SemiMajorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/) { get; } | المحور شبه الرئيسي للقطع الناقص. |
-| [SemiMinorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semiminoraxis/) { get; } | المحور شبه الصغرى للقطع الناقص. يساوي المحور شبه الرئيسي إذا كانت هذه كرة. |
+| static [Airy](../../aspose.gis.spatialreferencing/ellipsoid/airy/) { get; } | Ellipsoid Airy. |
+| static [Grs80](../../aspose.gis.spatialreferencing/ellipsoid/grs80/) { get; } | Ellipsoid GRS 1980. |
+| static [Wgs72](../../aspose.gis.spatialreferencing/ellipsoid/wgs72/) { get; } | Ellipsoid WGS 72. |
+| static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84/) { get; } | Ellipsoid WGS 84. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
+| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening/) { get; } | القيمة العكسية للتسطح للـ ellipsoid. 0 إذا كان هذا كرة. |
+| [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere/) { get; } | يكشف ما إذا كان هذا ellipsoid كرة. |
+| [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid/) { get; } | يكشف ما إذا كان الشكل البيضاوي صالحًا: نصف المحور الرئيسي له أكبر من 0 وتسطح العكسي إيجابي أو يساوي 0. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
+| [SemiMajorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/) { get; } | نصف المحور الرئيسي للشكل البيضاوي. |
+| [SemiMinorAxis](../../aspose.gis.spatialreferencing/ellipsoid/semiminoraxis/) { get; } | نصف المحور الصغير للشكل البيضاوي. يساوي نصف المحور الرئيسي إذا كان هذا كرة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid) | يحدد ما إذا كان الشكلان البيضاويان متساويين. إذا كان الشكل البيضاوي A يعادل الشكل البيضاوي B ، فسيكون لهما نفس المحور شبه الرئيسي والتسوية العكسية. |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid, Ellipsoid) | يحدد ما إذا كان الشكلان البيضاويان متساويين. إذا كان الشكل البيضاوي A يعادل الشكل البيضاوي B ، فسيكون لهما نفس المحور شبه الرئيسي والتسوية العكسية. |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid) | يحدد ما إذا كان الشكلان البيضاويان متكافئين. إذا كان الشكل البيضاوي A متكافئًا مع الشكل البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي وتسطح العكسي. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/ellipsoid/isequivalent/)(Ellipsoid, Ellipsoid) | يحدد ما إذا كان الشكلان البيضاويان متكافئين. إذا كان الشكل البيضاوي A متكافئًا مع الشكل البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي وتسطح العكسي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IdentifiableObject](../identifiableobject/)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

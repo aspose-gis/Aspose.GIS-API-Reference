@@ -1,23 +1,23 @@
 ---
-title: WebTiles.Dispose
-second_title: Aspose.GIS لمرجع .NET API
-description: WebTiles طريقة. ينفذ المهام المحددة من قبل التطبيق والمرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+title: "WebTiles.Dispose"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة WebTiles. تنفذ مهامًا محددة من التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster.web/webtiles/dispose/
 ---
 ## WebTiles.Dispose method
 
-ينفذ المهام المحددة من قبل التطبيق والمرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المُدارة.
 
 ```csharp
 public abstract void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WebTiles](../)
-* مساحة الاسم [Aspose.Gis.Raster.Web](../../webtiles/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster.Web](../../webtiles/)
+* assembly [Aspose.GIS](../../../)
 
 

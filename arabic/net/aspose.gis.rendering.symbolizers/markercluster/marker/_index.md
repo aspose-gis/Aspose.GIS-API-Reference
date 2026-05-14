@@ -1,24 +1,24 @@
 ---
-title: MarkerCluster.Marker
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerCluster ملكية. يحدد رمز العلامة في مركز الكتلة.
+title: "MarkerCluster.Marker"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerCluster. تحدد symbolizer العلامة في مركز التجمع"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/marker/
 ---
 ## MarkerCluster.Marker property
 
-يحدد رمز العلامة في مركز الكتلة.
+يحدد مُرمّز العلامة في مركز المجموعة.
 
 ```csharp
 public VectorSymbolizer Marker { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [MarkerCluster](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
+* assembly [Aspose.GIS](../../../)
 
 

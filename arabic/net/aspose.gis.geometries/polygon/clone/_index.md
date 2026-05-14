@@ -1,14 +1,14 @@
 ---
-title: Polygon.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon طريقة. استنساخ هذا المثال .
+title: "Polygon.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Polygon. تنسخ هذه المثيلة"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geometries/polygon/clone/
 ---
 ## Polygon.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

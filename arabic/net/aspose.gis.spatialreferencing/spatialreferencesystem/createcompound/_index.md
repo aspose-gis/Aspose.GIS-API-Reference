@@ -1,44 +1,44 @@
 ---
-title: SpatialReferenceSystem.CreateCompound
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. إنشاء SRS مركب .
+title: "SpatialReferenceSystem.CreateCompound"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. إنشاء نظام إسناد مركب"
 type: docs
 weight: 340
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createcompound/
 ---
 ## SpatialReferenceSystem.CreateCompound method
 
-إنشاء SRS مركب .
+إنشاء نظام إسناد مركب.
 
 ```csharp
 public static CompoundSpatialReferenceSystem CreateCompound(string name, 
     SpatialReferenceSystem head, SpatialReferenceSystem tail, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم SRS الجديد. |
-| head | SpatialReferenceSystem | رئيس SRS الجديد. |
-| tail | SpatialReferenceSystem | ذيل SRS من SRS الجديد. |
-| identifier | Identifier | المعرف الذي سيتم إرفاقه بـ SRS. لن يؤدي إرفاق معرّف إلى تعديل معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
+| الاسم | String | اسم نظام الإسناد المكاني الجديد. |
+| الرأس | SpatialReferenceSystem | نظام الإسناد المكاني الرأس لنظام الإسناد المكاني الجديد. |
+| الذيل | SpatialReferenceSystem | نظام الإسناد المكاني الذيل لنظام الإسناد المكاني الجديد. |
+| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
 
 ### قيمة الإرجاع
 
-مجمع جديد SRS.
+نظام إسناد مركب جديد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | أي حجة ما عدا*identifier* يكون`null` . |
-| InvalidOperationException | *head* أو*tail* هم مركب SRS أنفسهم. |
+| ArgumentNullException | أي وسيط باستثناء *identifier* هو `null`. |
+| InvalidOperationException | *head* أو *tail* هي أنظمة إحداثيات مركبة بحد ذاتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundSpatialReferenceSystem](../../compoundspatialreferencesystem/)
 * class [Identifier](../../identifier/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

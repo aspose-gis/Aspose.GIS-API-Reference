@@ -1,34 +1,34 @@
 ---
-title: FeatureAttribute.DataType
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute ملكية. الحصول على نوع بيانات السمة.
+title: "FeatureAttribute.DataType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttribute. تحصل على نوع البيانات للخاصية"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/featureattribute/datatype/
 ---
 ## FeatureAttribute.DataType property
 
-الحصول على نوع بيانات السمة.
+يحصل على نوع البيانات للسمة.
 
 ```csharp
 public AttributeDataType DataType { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع بيانات السمة .
+نوع البيانات للخاصية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | السمة مؤمنة. |
+| InvalidOperationException | الخاصية مقفلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AttributeDataType](../../attributedatatype/)
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

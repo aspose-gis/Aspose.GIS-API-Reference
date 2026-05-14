@@ -1,41 +1,41 @@
 ---
-title: Class MixedGeometrySymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.MixedGeometrySymbolizer فصل. لتطبيق رمز صحيح على هندسة المعلم وفقًا لنوع الشكل الهندسي الخاص به.
+title: "الفئة MixedGeometrySymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.MixedGeometrySymbolizer. يطبق الرمز الصحيح على هندسة الميزة وفقًا لنوع هندستها."
 type: docs
-weight: 1880
+weight: 4330
 url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer class
 
-لتطبيق رمز صحيح على هندسة المعلم وفقًا لنوع الشكل الهندسي الخاص به.
+يطبق المُرمّز الصحيح على هندسة الميزة وفقًا لنوع هندستها.
 
 ```csharp
 public class MixedGeometrySymbolizer : VectorSymbolizer
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MixedGeometrySymbolizer](mixedgeometrysymbolizer/)() | Default_Constructor |
+| [MixedGeometrySymbolizer](mixedgeometrysymbolizer/)() | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LineSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer/) { get; set; } | يحدد رمزًا لاستخدامه مع الأشكال الهندسية للخط في الطبقة. |
-| [PointSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer/) { get; set; } | يحدد رمزًا لاستخدامه مع الأشكال الهندسية للنقطة في الطبقة. |
-| [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer/) { get; set; } | يحدد رمزًا لاستخدامه مع الأشكال الهندسية المضلعة في الطبقة. |
+| [LineSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer/) { get; set; } | يحدد رمزًا لاستخدامه مع هندسات الخط في الطبقة. |
+| [PointSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer/) { get; set; } | يحدد رمزًا لاستخدامه مع هندسات النقطة في الطبقة. |
+| [PolygonSymbolizer](../../aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer/) { get; set; } | يحدد رمزًا لاستخدامه مع هندسات المضلع في الطبقة. |
 
-### ملاحظات
+## ملاحظات
 
-هذا مفيد للطبقات من النوع الهندسي المختلط أو للطبقات التي تحتوي على مجموعات هندسية.
+هذا مفيد للطبقات من نوع الهندسة المختلطة أو للطبقات التي تحتوي على مجموعات هندسية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: GeometryCollection.GeometryCollection
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection البناء. يقوم بتهيئة مثيل جديد لملفGeometryCollection فئة .
+title: "GeometryCollection.GeometryCollection"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GeometryCollection. يهيئ كائنًا جديدًا من فئة GeometryCollection"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/geometrycollection/geometrycollection/
 ---
 ## GeometryCollection constructor
 
-يقوم بتهيئة مثيل جديد لملف[`GeometryCollection`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`GeometryCollection`](../).
 
 ```csharp
 public GeometryCollection()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

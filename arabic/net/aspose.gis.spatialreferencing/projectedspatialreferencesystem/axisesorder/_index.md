@@ -1,24 +1,24 @@
 ---
-title: ProjectedSpatialReferenceSystem.AxisesOrder
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystem ملكية. ترتيب المحاور في SRS. إذا لم يكن SRS هذا صالحًا وله اتجاهات محاور خاطئة Invalid تم إرجاعه .
+title: "ProjectedSpatialReferenceSystem.AxisesOrder"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystem. ترتيب المحاور في هذا SRS. إذا كان هذا SRS غير صالح ويحتوي على اتجاهات محاور خاطئة يتم إرجاع Invalid"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/axisesorder/
 ---
 ## ProjectedSpatialReferenceSystem.AxisesOrder property
 
-ترتيب المحاور في SRS. إذا لم يكن SRS هذا صالحًا وله اتجاهات محاور خاطئة ،Invalid تم إرجاعه .
+ترتيب المحاور في هذا SRS. إذا لم يكن هذا SRS صالحًا وكان لديه اتجاهات محاور خاطئة، يتم إرجاع Invalid.
 
 ```csharp
 public abstract ProjectedAxisesOrder AxisesOrder { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ProjectedAxisesOrder](../../projectedaxisesorder/)
 * class [ProjectedSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

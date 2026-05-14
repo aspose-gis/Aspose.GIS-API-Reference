@@ -1,24 +1,24 @@
 ---
-title: Drivers.XyzTiles
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لخريطة الويب المكسوة بالبلاط مثل OpenStreetMaps وخرائط Google وما إلى ذلك. _
+title: "Drivers.XyzTiles"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. سائق لخريطة الويب المتقطعة مثل OpenStreetMaps Google Maps إلخ"
 type: docs
-weight: 190
+weight: 260
 url: /ar/net/aspose.gis/drivers/xyztiles/
 ---
 ## Drivers.XyzTiles property
 
-برنامج تشغيل لخريطة الويب المكسوة بالبلاط مثل OpenStreetMaps وخرائط Google وما إلى ذلك. _
+برنامج تشغيل للخرائط الويب المتقطعة مثل OpenStreetMaps وGoogle Maps وغيرها.
 
 ```csharp
 public static XyzTilesDriver XyzTiles { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XyzTilesDriver](../../../aspose.gis.formats.xyztile/xyztilesdriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

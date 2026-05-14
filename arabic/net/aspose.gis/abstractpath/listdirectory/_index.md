@@ -1,14 +1,14 @@
 ---
-title: AbstractPath.ListDirectory
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath طريقة. إرجاع المسارات الموجودة داخل هذاAbstractPath  إذا كان دليلًا .
+title: "AbstractPath.ListDirectory"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة AbstractPath. تُرجع المسارات الموجودة داخل هذا AbstractPath إذا كان دليلًا"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/abstractpath/listdirectory/
 ---
 ## AbstractPath.ListDirectory method
 
-إرجاع المسارات الموجودة داخل هذا`AbstractPath` ، إذا كان دليلًا .
+يعيد المسارات الموجودة داخل هذا `AbstractPath`، إذا كان دليلًا.
 
 ```csharp
 public abstract IEnumerable<AbstractPath> ListDirectory()
@@ -16,12 +16,12 @@ public abstract IEnumerable<AbstractPath> ListDirectory()
 
 ### قيمة الإرجاع
 
-المسارات الموجودة داخل هذا`AbstractPath` .
+المسارات الموجودة داخل هذا `AbstractPath`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

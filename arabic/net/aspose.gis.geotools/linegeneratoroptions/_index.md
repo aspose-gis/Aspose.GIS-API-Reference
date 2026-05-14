@@ -1,43 +1,43 @@
 ---
-title: Class LineGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.LineGeneratorOptions فصل. خيارات من خطوط الإنتاج على السطح أو المنطقة .
+title: "فئة LineGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.GeoTools.LineGeneratorOptions. خيارات لإنتاج خطوط على السطح أو المنطقة"
 type: docs
-weight: 800
+weight: 2560
 url: /ar/net/aspose.gis.geotools/linegeneratoroptions/
 ---
 ## LineGeneratorOptions class
 
-خيارات من خطوط الإنتاج على السطح أو المنطقة .
+خيارات إنشاء خطوط على السطح أو المنطقة.
 
 ```csharp
 public class LineGeneratorOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LineGeneratorOptions](linegeneratoroptions/)() | Default_Constructor |
+| [LineGeneratorOptions](linegeneratoroptions/)() | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.geotools/linegeneratoroptions/count/) { get; set; } | عدد الأسطر المراد إنشاؤها . |
-| [Place](../../aspose.gis.geotools/linegeneratoroptions/place/) { get; set; } | الوضع في الخلايا التي تم إنشاؤها. _ |
-| [Seed](../../aspose.gis.geotools/linegeneratoroptions/seed/) { get; set; } | رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة. |
+| [Count](../../aspose.gis.geotools/linegeneratoroptions/count/) { get; set; } | عدد الخطوط لإنشائها. |
+| [Place](../../aspose.gis.geotools/linegeneratoroptions/place/) { get; set; } | وضعية التوزيع في الخلايا المُولدة. |
+| [Seed](../../aspose.gis.geotools/linegeneratoroptions/seed/) { get; set; } | رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/linegeneratoroptions/clone/)() | استنساخ كائن لبعضه البعض . |
-| override [ToString](../../aspose.gis.geotools/linegeneratoroptions/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| [Clone](../../aspose.gis.geotools/linegeneratoroptions/clone/)() | استنساخ الكائن إلى آخر. |
+| override [ToString](../../aspose.gis.geotools/linegeneratoroptions/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

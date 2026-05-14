@@ -1,49 +1,49 @@
 ---
-title: SimpleMarker.SimpleMarker
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker البناء. يقوم بتهيئة مثيل جديد لملفSimpleMarker فئة .
+title: "SimpleMarker.SimpleMarker"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SimpleMarker. يهيئ نسخة جديدة من فئة SimpleMarker"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/simplemarker/
 ---
 ## SimpleMarker() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SimpleMarker`](../) فئة .
+يهيئ نسخة جديدة من فئة [`SimpleMarker`](../).
 
 ```csharp
 public SimpleMarker()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleMarker(SimpleMarker) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SimpleMarker`](../) فئة .
+يهيئ نسخة جديدة من فئة [`SimpleMarker`](../).
 
 ```csharp
 public SimpleMarker(SimpleMarker other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SimpleMarker | الأخرى[`SimpleMarker`](../) لنسخ البيانات من. |
+| other | SimpleMarker | الـ [`SimpleMarker`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

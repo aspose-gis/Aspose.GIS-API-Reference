@@ -1,22 +1,22 @@
 ---
-title: Class Driver
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Driver فصل. فئة أساسية للسائقين لبيانات GIS .
+title: "فئة السائق"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Driver. فئة أساسية للسائقين لبيانات GIS."
 type: docs
-weight: 90
+weight: 1440
 url: /ar/net/aspose.gis/driver/
 ---
 ## Driver class
 
-فئة أساسية للسائقين لبيانات GIS .
+فئة أساسية لسواقات بيانات GIS.
 
 ```csharp
 public abstract class Driver
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

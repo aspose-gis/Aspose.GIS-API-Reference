@@ -1,28 +1,28 @@
 ---
-title: MultiPolygon.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiPolygon ملكية. يحصل على نوع الهندسة .
+title: "MultiPolygon.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiPolygon. تحصل على نوع الهندسة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/multipolygon/geometrytype/
 ---
 ## MultiPolygon.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [MultiPolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multipolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

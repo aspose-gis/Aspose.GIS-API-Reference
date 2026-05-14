@@ -1,7 +1,7 @@
 ---
-title: KmlDriver.CanCreateLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة.
+title: "KmlDriver.CanCreateLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlDriver. يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه إنشاء طبقات متجهة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml/kmldriver/cancreatelayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.kml/kmldriver/cancreatelayers/
 public override bool CanCreateLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان هذا المحرك يمكنه إنشاء طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه إنشاء طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../kmldriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

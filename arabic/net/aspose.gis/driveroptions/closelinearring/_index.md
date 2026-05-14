@@ -1,27 +1,27 @@
 ---
-title: DriverOptions.CloseLinearRing
-second_title: Aspose.GIS لمرجع .NET API
-description: DriverOptions ملكية. تحديد ما إذا كان يتم إغلاق ملفLinearRing في كل هندسة. افتراضات إلىfalse .
+title: "DriverOptions.CloseLinearRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية DriverOptions. تحدد ما إذا كان يتم إغلاق LinearRing غير المغلق في كل شكل هندسي. القيمة الافتراضية هي false"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/driveroptions/closelinearring/
 ---
 ## DriverOptions.CloseLinearRing property
 
-تحديد ما إذا كان يتم إغلاق ملفLinearRing في كل هندسة. افتراضات إلى`false` .
+يحدد ما إذا كان يتم إغلاق LinearRing غير المغلقة في كل شكل هندسي. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool CloseLinearRing { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
 هذا خيار فتح - لا يؤثر على الإنشاء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DriverOptions](../)
-* مساحة الاسم [Aspose.Gis](../../driveroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

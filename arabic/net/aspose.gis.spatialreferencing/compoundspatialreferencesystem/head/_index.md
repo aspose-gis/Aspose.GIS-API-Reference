@@ -1,24 +1,24 @@
 ---
-title: CompoundSpatialReferenceSystem.Head
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. أول SRS ضمني .
+title: "CompoundSpatialReferenceSystem.Head"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. أول SRS أساسي"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/head/
 ---
 ## CompoundSpatialReferenceSystem.Head property
 
-أول SRS ضمني .
+الـ SRS الأساسي الأول.
 
 ```csharp
 public SpatialReferenceSystem Head { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,58 +1,58 @@
 ---
-title: FeatureAttribute.FeatureAttribute
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute البناء. يقوم بتهيئة مثيل جديد لملفFeatureAttribute فئة .
+title: "FeatureAttribute.FeatureAttribute"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ FeatureAttribute. يهيئ نسخة جديدة من فئة FeatureAttribute"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/featureattribute/featureattribute/
 ---
 ## FeatureAttribute(string, AttributeDataType) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`FeatureAttribute`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FeatureAttribute`](../).
 
 ```csharp
 public FeatureAttribute(string name, AttributeDataType dataType)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
-| dataType | AttributeDataType | نوع بيانات السمة. |
+| الاسم | String | اسم الخاصية. |
+| dataType | AttributeDataType | نوع البيانات للخاصية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AttributeDataType](../../attributedatatype/)
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## FeatureAttribute(string, AttributeDataType, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`FeatureAttribute`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`FeatureAttribute`](../).
 
 ```csharp
 public FeatureAttribute(string name, AttributeDataType dataType, bool canBeNull)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
-| dataType | AttributeDataType | نوع بيانات السمة. |
-| canBeNull | Boolean | `true` إذا كان هذا المثال يمكن أن يكون فارغًا ؛ خلاف ذلك،`false`. |
+| الاسم | String | اسم الخاصية. |
+| dataType | AttributeDataType | نوع البيانات للخاصية. |
+| canBeNull | Boolean | `true` إذا كان يمكن أن تكون هذه النسخة فارغة؛ وإلا، `false`. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AttributeDataType](../../attributedatatype/)
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: CsvOptions.Delimiter
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvOptions ملكية. الحصول على أو تعيين حرف يتم استخدامه كمحدد لفصل القيم . الافتراضي هو  .
+title: "CsvOptions.Delimiter"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CsvOptions. يحصل أو يعيّن حرفًا يُستخدم كفاصل لتقسيم القيم. القيمة الافتراضية هي"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.formats.csv/csvoptions/delimiter/
 ---
 ## CsvOptions.Delimiter property
 
-الحصول على أو تعيين حرف يتم استخدامه كمحدد لفصل القيم . الافتراضي هو '،' .
+يحصل أو يعيّن حرفًا يُستخدم كفاصل لتقسيم القيم. القيمة الافتراضية هي ','.
 
 ```csharp
 public char Delimiter { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,27 +1,27 @@
 ---
-title: Identifier.AuthorityUniqueIdentifier
-second_title: Aspose.GIS لمرجع .NET API
-description: Identifier ملكية. طريقة فريدة لتمثيل كائن داخل ملفAuthorityName .
+title: "Identifier.AuthorityUniqueIdentifier"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Identifier. طريقة فريدة لتمثيل كائن داخل AuthorityName"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/
 ---
 ## Identifier.AuthorityUniqueIdentifier property
 
-طريقة فريدة لتمثيل كائن داخل ملف[`AuthorityName`](../authorityname/) .
+طريقة فريدة لتمثيل كائن داخل [`AuthorityName`](../authorityname/).
 
 ```csharp
 public string AuthorityUniqueIdentifier { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 4326
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifier/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: RasterImageMarker.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterImageMarker طريقة. استنساخ هذا المثال .
+title: "RasterImageMarker.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterImageMarker. تستنسخ هذه النسخة"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/clone/
 ---
 ## RasterImageMarker.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public RasterImageMarker Clone()
@@ -16,12 +16,12 @@ public RasterImageMarker Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImageMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: VectorLayer.Driver
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer ملكية. يحصل على ملفDriver الذي أدى إلى إنشاء هذه الطبقة.
+title: "VectorLayer.Driver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VectorLayer. تحصل على Driver الذي أنشأ هذه الطبقة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/vectorlayer/driver/
 ---
 ## VectorLayer.Driver property
 
-يحصل على ملف`Driver` الذي أدى إلى إنشاء هذه الطبقة.
+تحصل على `Driver` الذي أنشأ هذه الطبقة.
 
 ```csharp
 public abstract Driver Driver { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Driver](../../driver/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,33 +1,33 @@
 ---
-title: Geometry.RoundXY
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. إحداثيات الدورتين X و Y لعدد محدد من الكسور.
+title: "Geometry.RoundXY"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تقرب إحداثيات X و Y إلى عدد محدد من الأرقام العشرية"
 type: docs
 weight: 330
 url: /ar/net/aspose.gis.geometries/geometry/roundxy/
 ---
 ## Geometry.RoundXY method
 
-إحداثيات الدورتين X و Y لعدد محدد من الكسور.
+يقرب إحداثيات X و Y إلى عدد محدد من الأرقام العشرية.
 
 ```csharp
 public void RoundXY(int digits)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| digits | Int32 | عدد الكسور. |
+| أرقام | Int32 | عدد الأرقام العشرية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | *digits* أقل من 0 أو أكبر من 15. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

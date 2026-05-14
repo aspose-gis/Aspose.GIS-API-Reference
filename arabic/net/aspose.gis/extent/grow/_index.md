@@ -1,59 +1,59 @@
 ---
-title: Extent.Grow
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. ينمو هذا النطاق بحيث يتضمن الوسيطة.
+title: "Extent.Grow"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. توسّع هذا Extent بحيث يشمل المعامل."
 type: docs
 weight: 160
 url: /ar/net/aspose.gis/extent/grow/
 ---
 ## Grow(Extent) {#grow}
 
-ينمو هذا النطاق بحيث يتضمن الوسيطة.
+يوسّع هذا النطاق بحيث يشمل الوسيط.
 
 ```csharp
 public void Grow(Extent extent)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| extent | Extent | مدى آخر. |
+| مدى | مدى | Extent آخر. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من هذا المدى والحجة كلاهما ليس كذلك`null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
 
-### ملاحظات
+## ملاحظات
 
-إذا[`SpatialReferenceSystem`](../spatialreferencesystem/) من هذا SRS`null` ثم يتم تحديثه باستخدام SRS للوسيطة.
+إذا كان [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا SRS هو `null` فسيتم تحديثه بـ SRS الخاص بالمعامل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Grow(double, double) {#grow_1}
 
-ينمو هذا المدى بحيث يشمل النقطة المحددة.
+يوسّع هذا النطاق بحيث يشمل النقطة المحددة.
 
 ```csharp
 public void Grow(double x, double y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | تنسيق X لتضمينه. |
-| y | Double | تنسيق Y لتشمل. |
+| x | Double | الإحداثي X لتضمينه. |
+| y | Double | الإحداثي Y لتضمينه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

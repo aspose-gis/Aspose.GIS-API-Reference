@@ -1,24 +1,24 @@
 ---
-title: ProjectedSpatialReferenceSystem.Projection
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystem ملكية. الإسقاط الذي تم تطبيقه عليهBase للحصول على هذا SRS.
+title: "ProjectedSpatialReferenceSystem.Projection"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystem. Projection التي تم تطبيقها على Base للحصول على هذا SRS"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/projection/
 ---
 ## ProjectedSpatialReferenceSystem.Projection property
 
-الإسقاط الذي تم تطبيقه عليه[`Base`](../base/) للحصول على هذا SRS.
+Projection التي تم تطبيقها على [`Base`](../base/) للحصول على هذا SRS.
 
 ```csharp
 public abstract Projection Projection { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Projection](../../projection/)
 * class [ProjectedSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

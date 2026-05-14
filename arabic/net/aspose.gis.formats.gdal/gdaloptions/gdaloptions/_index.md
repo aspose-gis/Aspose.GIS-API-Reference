@@ -1,27 +1,27 @@
 ---
-title: GdalOptions.GdalOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: GdalOptions البناء. إنشاء مثيل جديد .
+title: "GdalOptions.GdalOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GdalOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.gdal/gdaloptions/gdaloptions/
 ---
 ## GdalOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public GdalOptions(string tempDirectory = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tempDirectory | String | مسار الملفات المؤقتة. مجلد المستخدمين المؤقت افتراضيًا. |
+| tempDirectory | String | المسار إلى الملفات المؤقتة. مجلد المستخدم المؤقت بشكل افتراضي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdalOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GDAL](../../gdaloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GDAL](../../gdaloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

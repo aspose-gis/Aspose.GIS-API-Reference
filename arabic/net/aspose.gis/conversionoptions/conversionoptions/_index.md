@@ -1,23 +1,23 @@
 ---
-title: ConversionOptions.ConversionOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: ConversionOptions البناء. Default_Constructor
+title: "ConversionOptions.ConversionOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ ConversionOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/conversionoptions/conversionoptions/
 ---
 ## ConversionOptions constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public ConversionOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ConversionOptions](../)
-* مساحة الاسم [Aspose.Gis](../../conversionoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../conversionoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

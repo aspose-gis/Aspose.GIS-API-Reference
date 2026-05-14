@@ -1,23 +1,23 @@
 ---
-title: Polygon.SetEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon طريقة. يجعل هذاGeometry فارغ .
+title: "Polygon.SetEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Polygon. تجعل هذا Geometry فارغًا"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/polygon/setempty/
 ---
 ## Polygon.SetEmpty method
 
-يجعل هذا[`Geometry`](../../geometry/) فارغ .
+يجعل هذا الـ[`Geometry`](../../geometry/) فارغًا.
 
 ```csharp
 public override void SetEmpty()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

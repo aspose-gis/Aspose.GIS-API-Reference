@@ -1,43 +1,43 @@
 ---
-title: IGeometry.Crosses
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. تحديد ما إذا كانت هذه الهندسة مع تقاطع هندسي محدد.
+title: "IGeometry.Crosses"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. تحدد ما إذا كان هذا الشكل وشكل محدد يتقاطعان"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.geometries/igeometry/crosses/
 ---
 ## IGeometry.Crosses method
 
-تحديد ما إذا كانت هذه الهندسة مع تقاطع هندسي محدد.
+يحدد ما إذا كانت هذه الهندسة وهندسة محددة تتقاطع.
 
 ```csharp
 public bool Crosses(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "تتقاطع مكانيًا" مع هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كان هذا الشكل \"يتقاطع مكانيًا\" مع شكل آخر. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت الأشكال الهندسية عبارة عن تقاطعات من حيث مصفوفة تقاطع DE-9IM . يتقاطع شكلان هندسيان إذا كان لديهما بعض وليس كل النقاط الداخلية المشتركة و يكون بُعد التقاطع أقل من بُعد واحد على الأقل من الهندسة . أي: اثنان[`LineString`](../../linestring/) تقاطع s ، إذا كانوا يشكلون حرف "X" ، و LineString و a[`Polygon`](../../polygon/) تقاطع إذا كانت LineString تمر عبر داخل Polygon. راجع مواصفات ميزات OpenGIS البسيطة للحصول على مزيد من التفاصيل حول علاقة DE-9IM وعلاقة "التقاطع المكاني".
+هذه الطريقة تختبر ما إذا كانت الأشكال تتقاطع وفقًا لمصفوفة تقاطع DE-9IM. يتقاطع شكلان إذا كان لديهما بعض نقاط الداخلية المشتركة ولكن ليس كلها، وكان بُعد التقاطع أقل من بُعد أحد الشكلين على الأقل. أي: يتقاطع شكلان من نوع [`LineString`](../../linestring/) إذا شكلا حرف 'X'، ويتقاطع [`LineString`](../../linestring/) مع [`Polygon`](../../polygon/) إذا مر الـ LineString عبر داخل المضلع. راجع مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة \"يتقاطع مكانيًا\".
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

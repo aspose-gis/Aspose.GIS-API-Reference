@@ -1,27 +1,27 @@
 ---
-title: PrecisionModel.SignificantDigits
-second_title: Aspose.GIS لمرجع .NET API
-description: PrecisionModel ملكية. الحصول على عدد من الأرقام المعنوية في نموذج الدقة إذا كان يتم التقريب .
+title: "PrecisionModel.SignificantDigits"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PrecisionModel. تُعيد عدد الأرقام المهمة في نموذج الدقة إذا كان تقريبيًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/precisionmodel/significantdigits/
 ---
 ## PrecisionModel.SignificantDigits property
 
-الحصول على عدد من الأرقام المعنوية في نموذج الدقة إذا كان يتم التقريب .
+يحصل على عدد الأرقام ذات الدلالة في نموذج الدقة إذا كان يستخدم التقريب.
 
 ```csharp
 public abstract int SignificantDigits { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الأرقام المعنوية إذا كان هذا نموذجًا دقيقًا مستديرًا. -1 إذا كان هذا هو نموذج الدقة الدقيق .
+عدد الأرقام المهمة إذا كان هذا نموذج دقة تقريبي. -1 إذا كان هذا نموذج دقة دقيق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../)
-* مساحة الاسم [Aspose.Gis](../../precisionmodel/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../precisionmodel/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,46 +1,46 @@
 ---
-title: Class RuleBasedLabeling
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.RuleBasedLabeling فصل. لتطبيق تسمية على ميزة وفقًا لقواعد يحددها المستخدم.
+title: "فئة RuleBasedLabeling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.Labelings.RuleBasedLabeling. تطبق تسمية على العنصر وفقًا للقواعد المعرفة من قبل المستخدم"
 type: docs
-weight: 1690
+weight: 4140
 url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/
 ---
 ## RuleBasedLabeling class
 
-لتطبيق تسمية على ميزة وفقًا لقواعد يحددها المستخدم.
+يطبق تسمية على الميزة وفقًا للقواعد المعرفة من قبل المستخدم.
 
 ```csharp
 public class RuleBasedLabeling : Labeling, IReadOnlyList<LabelingRule>
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RuleBasedLabeling](rulebasedlabeling/)() | Default_Constructor |
+| [RuleBasedLabeling](rulebasedlabeling/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Count](../../aspose.gis.rendering.labelings/rulebasedlabeling/count/) { get; } | يحصل على عدد القواعد. |
 | [Item](../../aspose.gis.rendering.labelings/rulebasedlabeling/item/) { get; } | يحصل على القاعدة في الفهرس المحدد. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add/#add)(LabelingRule) | يضيف قاعدة. |
-| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add/#add_1)(Func&lt;Feature, bool&gt;, Labeling) | إضافة جديد[`LabelingRule`](../labelingrule/) . |
-| [AddElseRule](../../aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/)(Labeling) | إضافة تصنيف سيتم تطبيقه على الميزات التي لا تتطابق مع أي قاعدة تصفية . |
-| [GetEnumerator](../../aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator/)() | إرجاع عداد يتكرر خلال القواعد. |
+| [Add](../../aspose.gis.rendering.labelings/rulebasedlabeling/add/#add_1)(Func&lt;Feature, bool&gt;, Labeling) | يضيف [`LabelingRule`](../labelingrule/) جديدًا. |
+| [AddElseRule](../../aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/)(Labeling) | يضيف تسمية سيتم تطبيقها على العناصر التي لا تطابق أي قاعدة تصفية. |
+| [GetEnumerator](../../aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator/)() | يعيد عدّادًا يتنقل عبر القواعد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Labeling](../labeling/)
 * class [LabelingRule](../labelingrule/)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: LayeredSymbolizer.RenderingOrder
-second_title: Aspose.GIS لمرجع .NET API
-description: LayeredSymbolizer ملكية. يحدد ترتيب العرض . ByFeatures  اعرض جميع الرموز الخاصة بالميزة  ثم انتقل إلى الميزة التالية.ByLayers  قم بتصيير جميع الميزات باستخدام الرمز  ثم انتقل إلى الرمز التالي.
+title: "LayeredSymbolizer.RenderingOrder"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LayeredSymbolizer. تحدد ترتيب العرض. ByFeatures  عرض جميع المُرمّزات للميزة ثم الانتقال إلى الميزة التالية. ByLayers  عرض جميع الميزات بالمُرمّز ثم الانتقال إلى المُرمّز التالي"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder/
 ---
 ## LayeredSymbolizer.RenderingOrder property
 
-يحدد ترتيب العرض . ByFeatures - اعرض جميع الرموز الخاصة بالميزة ، ثم انتقل إلى الميزة التالية.ByLayers - قم بتصيير جميع الميزات باستخدام الرمز ، ثم انتقل إلى الرمز التالي.
+يحدد ترتيب التصيير. ByFeatures - صِر جميع المُرمّزين للميزة، ثم الانتقال إلى الميزة التالية. ByLayers - صِر جميع الميزات بالمُرمّز، ثم الانتقال إلى المُرمّز التالي.
 
 ```csharp
 public RenderingOrder RenderingOrder { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [RenderingOrder](../../renderingorder/)
 * class [LayeredSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Class MapLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.MapLayer فصل. أMapLayer هي فئة أساسية للطبقات داخلMap.
+title: "فئة MapLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.MapLayer. تُعد MapLayer فئة أساسية للطبقات داخل الخريطة"
 type: docs
-weight: 1730
+weight: 4180
 url: /ar/net/aspose.gis.rendering/maplayer/
 ---
 ## MapLayer class
 
-أ`MapLayer` هي فئة أساسية للطبقات داخل[`Map`](../map/).
+إن `MapLayer` فئة أساسية للطبقات داخل [`Map`](../map/).
 
 ```csharp
 public abstract class MapLayer : IDisposable
@@ -16,19 +16,19 @@ public abstract class MapLayer : IDisposable
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | عتامة الطبقة . |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | شفافية الطبقة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose/)() | التخلص من الموارد. |
+| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose/)() | يحرّر الموارد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

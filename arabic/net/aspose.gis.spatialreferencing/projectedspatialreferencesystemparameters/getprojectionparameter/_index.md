@@ -1,20 +1,20 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.GetProjectionParameter
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters طريقة. يحصل على معلمة الإسقاط بالاسم المحدد.
+title: "ProjectedSpatialReferenceSystemParameters.GetProjectionParameter"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ProjectedSpatialReferenceSystemParameters. تحصل على معلمة الإسقاط ذات الاسم المحدد"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter/
 ---
 ## ProjectedSpatialReferenceSystemParameters.GetProjectionParameter method
 
-يحصل على معلمة الإسقاط بالاسم المحدد.
+يحصل على معامل الإسقاط بالاسم المحدد.
 
 ```csharp
 public double GetProjectionParameter(string parameterName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | parameterName | String | اسم المعلمة. |
 
@@ -24,15 +24,15 @@ public double GetProjectionParameter(string parameterName)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | اسم المعلمة فارغ. |
-| InvalidOperationException | لم يتم تعيين المعلمة بهذا الاسم. |
+| InvalidOperationException | المعلمة بهذا الاسم غير مضبوطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

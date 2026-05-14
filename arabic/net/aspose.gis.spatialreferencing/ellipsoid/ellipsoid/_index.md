@@ -1,32 +1,32 @@
 ---
-title: Ellipsoid.Ellipsoid
-second_title: Aspose.GIS لمرجع .NET API
-description: Ellipsoid البناء. إنشاء Ellipsoid جديد .
+title: "Ellipsoid.Ellipsoid"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Ellipsoid. ينشئ قطعة ناقصة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/ellipsoid/
 ---
 ## Ellipsoid constructor
 
-إنشاء Ellipsoid جديد .
+ينشئ Ellipsoid جديد.
 
 ```csharp
 public Ellipsoid(string name, double semiMajorAxis, double inverseFlattening, 
     Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم القطع الناقص. |
-| semiMajorAxis | Double | المحور شبه الرئيسي للقطع الناقص. |
-| inverseFlattening | Double | التسطيح العكسي للقطع الناقص. يجب أن تكون 0 لإنشاء شكل كروي. |
-| identifier | Identifier | معرف الشكل الإهليلجي. |
+| الاسم | String | اسم القطعة الناقصة. |
+| semiMajorAxis | Double | نصف المحور الرئيسي للشكل البيضاوي. |
+| inverseFlattening | Double | التسطح العكسي للقطعة الناقصة. يجب أن يكون 0 لإنشاء سفيرويد. |
+| معرّف | معرّف | معرف القطعة الناقصة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../../identifier/)
 * class [Ellipsoid](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
+* assembly [Aspose.GIS](../../../)
 
 

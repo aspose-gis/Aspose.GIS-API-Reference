@@ -1,48 +1,50 @@
 ---
-title: Geometry.SpatiallyEquals
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. يحدد ما إذا كانت هذه الهندسة مساوية مكانيًا لهندسة محددة.
+title: "Geometry.SpatiallyEquals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحدد ما إذا كانت هذه الهندسة مساوية مكانيًا لهندسة محددة."
 type: docs
 weight: 370
 url: /ar/net/aspose.gis.geometries/geometry/spatiallyequals/
 ---
 ## Geometry.SpatiallyEquals method
 
-يحدد ما إذا كانت هذه الهندسة مساوية مكانيًا لهندسة محددة.
+يحدد ما إذا كانت هذه الهندسة مكافئة مكانيًا لهندسة محددة.
 
 ```csharp
 public bool SpatiallyEquals(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "مساوية مكانيًا" للهندسة المحددة.`false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "مساوية مكانيًا" لهندسة محددة. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة المساواة من حيث مصفوفة تقاطع DE-9IM. وهي لا تعتمد على order للمكونات (على سبيل المثال ترتيب الحلقات الداخلية في المضلع) وقيم Z و M. في الأساس ، تختبر أن شكلين هندسيين يشغلان نفس "الفضاء" عند عرضهما على مساحة ثنائية الأبعاد. هذه الطريقة تعادل: راجع مواصفات ميزات OpenGIS البسيطة للحصول على مزيد من التفاصيل حول DE-9IM.
+تختبر هذه الطريقة المساواة من حيث مصفوفة تقاطع DE-9IM. لا تعتمد على ترتيب المكونات (مثل ترتيب الحلقات الداخلية في المضلع)، أو قيم Z و M. أساسًا، تختبر أن الهندستين تشغلان نفس "المساحة" عند إسقاطهما على الفضاء ثنائي الأبعاد. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "T*F**FFF*");
 ```
 
-### أنظر أيضا
+انظر مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM.
+
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

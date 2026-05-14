@@ -1,14 +1,14 @@
 ---
-title: SimpleLabeling.FontFamily
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. مجموعة الخطوط التي سيتم استخدامها لعرض النص. القيمة الافتراضية هي القيمة المعتمدة على النظام.
+title: "SimpleLabeling.FontFamily"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. عائلة الخط لاستخدامها في تصيير النص. القيمة الافتراضية تعتمد على النظام"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontfamily/
 ---
 ## SimpleLabeling.FontFamily property
 
-مجموعة الخطوط التي سيتم استخدامها لعرض النص. القيمة الافتراضية هي القيمة المعتمدة على النظام.
+عائلة الخط المستخدمة لعرض النص. القيمة الافتراضية تعتمد على النظام.
 
 ```csharp
 public string FontFamily { get; set; }
@@ -16,14 +16,14 @@ public string FontFamily { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

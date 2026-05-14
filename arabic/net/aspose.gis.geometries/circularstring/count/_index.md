@@ -1,23 +1,23 @@
 ---
-title: CircularString.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString ملكية. يحصل على عدد النقاط في ملفCircularString .
+title: "CircularString.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CircularString. يحصل على عدد النقاط في CircularString"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/circularstring/count/
 ---
 ## CircularString.Count property
 
-يحصل على عدد النقاط في ملف[`CircularString`](../) .
+يحصل على عدد النقاط في [`CircularString`](../).
 
 ```csharp
 public int Count { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: GeometryGenerator.GeometryGenerator
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryGenerator البناء. Default_Constructor
+title: "GeometryGenerator.GeometryGenerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GeometryGenerator. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/geometrygenerator/geometrygenerator/
 ---
 ## GeometryGenerator constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public GeometryGenerator()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeometryGenerator](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

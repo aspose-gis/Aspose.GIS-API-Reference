@@ -1,23 +1,23 @@
 ---
-title: EsriAsciiOptions.EsriAsciiOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: EsriAsciiOptions البناء. إنشاء مثيل جديد .
+title: "EsriAsciiOptions.EsriAsciiOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ EsriAsciiOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.esriascii/esriasciioptions/esriasciioptions/
 ---
 ## EsriAsciiOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public EsriAsciiOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EsriAsciiOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriAscii](../../esriasciioptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriAscii](../../esriasciioptions/)
+* assembly [Aspose.GIS](../../../)
 
 

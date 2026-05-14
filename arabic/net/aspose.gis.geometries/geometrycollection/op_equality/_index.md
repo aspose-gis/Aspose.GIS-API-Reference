@@ -1,32 +1,32 @@
 ---
-title: GeometryCollection.op_Equality
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection طريقة. تنفيذ عامل التشغيل  .
+title: "GeometryCollection.op_Equality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryCollection. تنفذ المشغل"
 type: docs
 weight: 230
 url: /ar/net/aspose.gis.geometries/geometrycollection/op_equality/
 ---
 ## GeometryCollection Equality operator
 
-تنفيذ عامل التشغيل == .
+ينفذ العامل ==.
 
 ```csharp
 public static bool operator ==(GeometryCollection a, GeometryCollection b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | GeometryCollection | المثال. |
-| b | GeometryCollection | المثيل B. |
+| a | GeometryCollection | الكائن A. |
+| b | GeometryCollection | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

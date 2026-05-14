@@ -1,23 +1,23 @@
 ---
-title: KmlFeatureStyle.KmlFeatureStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlFeatureStyle البناء. Default_Constructor
+title: "KmlFeatureStyle.KmlFeatureStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlFeatureStyle. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/kmlfeaturestyle/
 ---
 ## KmlFeatureStyle constructor
 
-Default_Constructor
+إنشاء نسخة جديدة.
 
 ```csharp
 public KmlFeatureStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlFeatureStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

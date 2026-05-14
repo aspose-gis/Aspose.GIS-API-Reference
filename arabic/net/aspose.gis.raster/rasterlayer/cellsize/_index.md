@@ -1,24 +1,24 @@
 ---
-title: RasterLayer.CellSize
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer ملكية. الحصول على حجم الخلية أو البكسل للنقطية.
+title: "RasterLayer.CellSize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterLayer. يحصل على حجم الخلية أو البكسل في الـ raster"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rasterlayer/cellsize/
 ---
 ## RasterLayer.CellSize property
 
-الحصول على حجم الخلية أو البكسل للنقطية.
+يحصل على حجم الخلية أو البكسل للراستر.
 
 ```csharp
 public abstract IRasterCellSize CellSize { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterCellSize](../../irastercellsize/)
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

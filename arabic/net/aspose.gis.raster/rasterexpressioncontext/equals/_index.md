@@ -1,55 +1,55 @@
 ---
-title: RasterExpressionContext.Equals
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterExpressionContext طريقة. يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+title: "RasterExpressionContext.Equals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterExpressionContext. تشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/rasterexpressioncontext/equals/
 ---
 ## Equals(RasterExpressionContext) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(RasterExpressionContext other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | RasterExpressionContext | كائن للمقارنة مع هذا الكائن. |
+| آخر | RasterExpressionContext | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن الحالي يساوي*other* معامل؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RasterExpressionContext](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterexpressioncontext/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterexpressioncontext/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Equals(object) {#equals_1}
 
-يشير إلى ما إذا كان هذا المثيل وكائن محدد متساويين.
+يشير إلى ما إذا كانت هذه النسخة والكائن المحدد متساويين.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الكائن المراد مقارنته بالمثيل الحالي. |
+| obj | Object | الكائن للمقارنة مع المثيل الحالي. |
 
 ### قيمة الإرجاع
 
-صحيح إذا*obj* وهذه الحالة من نفس النوع وتمثل نفس القيمة ؛ خلاف ذلك ، خطأ.
+صحيح إذا كان *obj* وهذا المثيل من نفس النوع ويمثلان نفس القيمة؛ وإلا، خطأ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RasterExpressionContext](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterexpressioncontext/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterexpressioncontext/)
+* assembly [Aspose.GIS](../../../)
 
 

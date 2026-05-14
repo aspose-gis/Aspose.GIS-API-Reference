@@ -1,27 +1,27 @@
 ---
-title: Polygon.HasM
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات M.
+title: "Polygon.HasM"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Polygon. تسترجع قيمة تشير إلى ما إذا كانت هذه المثيلة تحتوي على إحداثي M"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/polygon/hasm/
 ---
 ## Polygon.HasM property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات M.
+يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية M.
 
 ```csharp
 public override bool HasM { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان هذا المثال يحتوي على تنسيق M ؛ خلاف ذلك،`false` .
+`true` إذا كانت هذه العينة تحتوي على إحداثي M؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

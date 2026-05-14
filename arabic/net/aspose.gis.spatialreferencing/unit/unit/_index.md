@@ -1,30 +1,30 @@
 ---
-title: Unit.Unit
-second_title: Aspose.GIS لمرجع .NET API
-description: Unit البناء. إنشاء مثيل جديد .
+title: "Unit.Unit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Unit. أنشئ مثيلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/unit/unit/
 ---
 ## Unit constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public Unit(string name, double factor, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الوحدة. |
-| factor | Double | عامل إلى متر ، إذا كانت هذه وحدة طول ، أو راديان ، إذا كانت هذه وحدة زاوية. |
-| identifier | Identifier | معرّف الوحدة. |
+| الاسم | String | اسم الوحدة. |
+| عامل | Double | عامل إلى المتر، إذا كانت هذه وحدة طول، أو إلى الراديان، إذا كانت هذه وحدة زاوية. |
+| معرّف | معرّف | معرف الوحدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../../identifier/)
 * class [Unit](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../unit/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../unit/)
+* assembly [Aspose.GIS](../../../)
 
 

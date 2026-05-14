@@ -1,14 +1,14 @@
 ---
-title: Interface ICompoundCurve
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.ICompoundCurve واجهه المستخدم. منحنى يمثل سلسلة من المنحنيات المتجاورة بحيث يتم ضم المنحنيات المجاورة عند نقاط نهايتها.
+title: "الواجهة ICompoundCurve"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Geometries.ICompoundCurve واجهة. منحنى يمثل تسلسلًا من المنحنيات المتصلة بحيث تُربط المنحنيات المتجاورة عند نقاط نهايتها."
 type: docs
-weight: 970
+weight: 2750
 url: /ar/net/aspose.gis.geometries/icompoundcurve/
 ---
 ## ICompoundCurve interface
 
-منحنى يمثل سلسلة من المنحنيات المتجاورة بحيث يتم ضم المنحنيات المجاورة عند نقاط نهايتها.
+منحنى يمثل تسلسلًا من المنحنيات المتصلة بحيث يتم ربط المنحنيات المتجاورة عند نقاط نهايتها.
 
 ```csharp
 public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompoundCurve>
@@ -16,21 +16,21 @@ public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompo
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.geometries/icompoundcurve/count/) { get; } | الحصول على عدد المنحنيات في ملف`ICompoundCurve` . |
-| [Item](../../aspose.gis.geometries/icompoundcurve/item/) { get; } | يحصل على ملف[`ICurve`](../icurve/) في الفهرس المحدد. |
+| [Count](../../aspose.gis.geometries/icompoundcurve/count/) { get; } | يحصل على عدد المنحنيات في `ICompoundCurve`. |
+| [Item](../../aspose.gis.geometries/icompoundcurve/item/) { get; } | يحصل على الـ[`ICurve`](../icurve/) عند الفهرس المحدد. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToEditable](../../aspose.gis.geometries/icompoundcurve/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToEditable](../../aspose.gis.geometries/icompoundcurve/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../icurve/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

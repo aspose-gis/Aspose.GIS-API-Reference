@@ -1,24 +1,24 @@
 ---
-title: Drivers.OsmXml
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لتنسيق OSM XML .
+title: "Drivers.OsmXml"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل لتنسيق OSM XML"
 type: docs
-weight: 140
+weight: 180
 url: /ar/net/aspose.gis/drivers/osmxml/
 ---
 ## Drivers.OsmXml property
 
-برنامج تشغيل لتنسيق OSM XML .
+برنامج تشغيل لتنسيق OSM XML.
 
 ```csharp
 public static OsmXmlDriver OsmXml { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OsmXmlDriver](../../../aspose.gis.formats.osmxml/osmxmldriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

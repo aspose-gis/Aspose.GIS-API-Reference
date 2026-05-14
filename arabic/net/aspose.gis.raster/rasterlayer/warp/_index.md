@@ -1,40 +1,40 @@
 ---
-title: RasterLayer.Warp
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer طريقة. لف الطبقة النقطية بأخرى.
+title: "RasterLayer.Warp"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterLayer. تشوه طبقة الراستر إلى أخرى"
 type: docs
 weight: 210
 url: /ar/net/aspose.gis.raster/rasterlayer/warp/
 ---
 ## RasterLayer.Warp method
 
-لف الطبقة النقطية بأخرى.
+يشوه طبقة الراستر إلى أخرى.
 
 ```csharp
 public RasterLayer Warp(WarpOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | WarpOptions | خيارات لإجراء إعادة الإسقاط. |
+| الخيارات | WarpOptions | خيارات لإجراء إعادة الإسقاط. |
 
 ### قيمة الإرجاع
 
-طبقة الاعوجاج النقطية.
+طبقة الراستر المشوهة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | لا يمكن أن تكون الوسيطة فارغة. اسم المعلمة: الخيارات. |
-| ArgumentException | مصدر غير معروف نظام الإسناد المكاني. |
+| ArgumentNullException | المعامل لا يمكن أن يكون فارغًا. اسم المعامل: options. |
+| ArgumentException | نظام الإسناد المكاني للمصدر غير معروف. |
 | InvalidOperationException | لا يمكن أن تكون الطبقة الأصلية WarpRasterLayer أخرى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WarpOptions](../../warpoptions/)
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: MapGeneratorOptions.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: MapGeneratorOptions طريقة. استنساخ كائن لبعضه البعض .
+title: "MapGeneratorOptions.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة MapGeneratorOptions. استنساخ الكائن إلى آخر"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/clone/
 ---
 ## MapGeneratorOptions.Clone method
 
-استنساخ كائن لبعضه البعض .
+استنساخ الكائن إلى آخر.
 
 ```csharp
 public MapGeneratorOptions Clone()
@@ -16,12 +16,12 @@ public MapGeneratorOptions Clone()
 
 ### قيمة الإرجاع
 
-كائن استنساخ لبعضها البعض[`MapGeneratorOptions`](../).
+استنساخ الكائن إلى آخر [`MapGeneratorOptions`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

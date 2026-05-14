@@ -1,23 +1,23 @@
 ---
-title: CompoundSpatialReferenceSystem.IsCompound
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. عوائدtrue .
+title: "CompoundSpatialReferenceSystem.IsCompound"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. تُعيد true"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/iscompound/
 ---
 ## CompoundSpatialReferenceSystem.IsCompound property
 
-عوائد`true` .
+يرجع `true`.
 
 ```csharp
 public override bool IsCompound { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

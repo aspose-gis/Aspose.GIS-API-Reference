@@ -1,23 +1,23 @@
 ---
-title: GeoTiffOptions.GeoTiffOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoTiffOptions البناء. إنشاء مثيل جديد .
+title: "GeoTiffOptions.GeoTiffOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "GeoTiffOptions منشئ. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.geotiff/geotiffoptions/geotiffoptions/
 ---
 ## GeoTiffOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public GeoTiffOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeoTiffOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GeoTiff](../../geotiffoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoTiff](../../geotiffoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

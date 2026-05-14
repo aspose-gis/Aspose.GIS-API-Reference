@@ -1,24 +1,24 @@
 ---
-title: SimpleFill.HorizontalOffset
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill ملكية. يحدد الإزاحة الأفقية من موقع النقطة إلى الشكل المعروض.
+title: "SimpleFill.HorizontalOffset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleFill. تحدد الإزاحة الأفقية من موقع النقطة إلى الشكل المرسوم"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/horizontaloffset/
 ---
 ## SimpleFill.HorizontalOffset property
 
-يحدد الإزاحة الأفقية من موقع النقطة إلى الشكل المعروض.
+يحدد الإزاحة الأفقية من موقع نقطة إلى الشكل المرسوم.
 
 ```csharp
 public Measurement HorizontalOffset { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

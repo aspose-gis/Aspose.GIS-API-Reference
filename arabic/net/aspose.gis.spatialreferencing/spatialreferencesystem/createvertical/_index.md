@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.CreateVertical
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. إنشاء SRS عمودي .
+title: "SpatialReferenceSystem.CreateVertical"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. إنشاء SRS عمودي"
 type: docs
 weight: 390
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createvertical/
 ---
 ## SpatialReferenceSystem.CreateVertical method
 
-إنشاء SRS عمودي .
+إنشاء نظام إسناد عمودي.
 
 ```csharp
 public static VerticalSpatialReferenceSystem CreateVertical(string name, 
@@ -16,26 +16,26 @@ public static VerticalSpatialReferenceSystem CreateVertical(string name,
     Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم SRS. لو`null` . |
-| verticalDatum | VerticalDatum | مرجع لاستخدامه في SRS. |
-| verticalUnit | Unit | وحدة لاستخدامها في SRS. لو`null` و[`Meter`](../../unit/meter/) سوف تستخدم. |
-| verticalAxis | Axis | محور بالاتجاه "لأعلى" أو "لأسفل" لاستخدامه في SRS. لو`null` ، سيتم استخدام المحور مع الاتجاه الأعلى . |
-| identifier | Identifier | المعرف الذي سيتم إرفاقه بـ SRS. لن يؤدي إرفاق معرّف إلى تعديل معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
+| الاسم | String | اسم SRS. إذا كان `null`. |
+| verticalDatum | VerticalDatum | الـ Datum لاستخدامه في SRS. |
+| verticalUnit | Unit | الوحدة لاستخدامها في SRS. إذا كان `null`، سيتم استخدام [`Meter`](../../unit/meter/). |
+| verticalAxis | محور | محور باتجاه "أعلى" أو "أسفل"، لاستخدامه في SRS. إذا كان `null`، سيُستخدم محور باتجاه الأعلى. |
+| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
 
 ### قيمة الإرجاع
 
-SRS العمودي الجديد.
+SRS عمودي جديد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | *verticalAxis* الاتجاه ليس لأعلى أو لأسفل. |
-| ArgumentNullException | بعض المعلمات المطلوبة خالية. |
+| InvalidOperationException | اتجاه *verticalAxis* ليس أعلى أو أسفل. |
+| ArgumentNullException | بعض المعلمات المطلوبة قيمتها null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VerticalSpatialReferenceSystem](../../verticalspatialreferencesystem/)
 * class [VerticalDatum](../../verticaldatum/)
@@ -43,7 +43,7 @@ SRS العمودي الجديد.
 * class [Axis](../../axis/)
 * class [Identifier](../../identifier/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

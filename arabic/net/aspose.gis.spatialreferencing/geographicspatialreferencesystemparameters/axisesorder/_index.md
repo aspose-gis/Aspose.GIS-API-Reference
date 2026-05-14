@@ -1,14 +1,14 @@
 ---
-title: GeographicSpatialReferenceSystemParameters.AxisesOrder
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicSpatialReferenceSystemParameters ملكية. ترتيب المحاور. افتراضات إلىLongitudeLatitude .
+title: "GeographicSpatialReferenceSystemParameters.AxisesOrder"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicSpatialReferenceSystemParameters. ترتيب المحاور. الافتراضي هو LongitudeLatitude"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder/
 ---
 ## GeographicSpatialReferenceSystemParameters.AxisesOrder property
 
-ترتيب المحاور. افتراضات إلىLongitudeLatitude .
+ترتيب المحاور. الافتراضي هو LongitudeLatitude.
 
 ```csharp
 public GeographicAxisesOrder AxisesOrder { get; set; }
@@ -16,15 +16,15 @@ public GeographicAxisesOrder AxisesOrder { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | يتم طرحها في setter عندما لا تكون الوسيطة عضو تعداد صالح. |
+| ArgumentException | يُرمى في الدالة setter عندما لا يكون الوسيط عضوًا صالحًا في التعداد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeographicAxisesOrder](../../geographicaxisesorder/)
 * class [GeographicSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

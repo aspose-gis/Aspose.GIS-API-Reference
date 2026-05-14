@@ -1,14 +1,14 @@
 ---
-title: IGeometry.GetConvexHull
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. يحسب الهيكل المحدب لهذه الهندسة.
+title: "IGeometry.GetConvexHull"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. تحسب الغلاف المحدب لهذه الهندسة"
 type: docs
 weight: 220
 url: /ar/net/aspose.gis.geometries/igeometry/getconvexhull/
 ---
 ## IGeometry.GetConvexHull method
 
-يحسب الهيكل المحدب لهذه الهندسة.
+يحسب الغلاف المحدب لهذه الهندسة.
 
 ```csharp
 public IGeometry GetConvexHull()
@@ -16,12 +16,12 @@ public IGeometry GetConvexHull()
 
 ### قيمة الإرجاع
 
-شكل هندسي يمثل بدنًا محدبًا لهذه الهندسة . إذا لم يكن لهذه الهندسة أية نقاط ، فإن النتيجة هي[`Null`](../../geometry/null/) . إذا كانت هذه الهندسة تحتوي على نقطة واحدة فقط ، فإن النتيجة هي هذه النقطة . إذا كانت هذه الهندسة تحتوي على نقطتين فقط ، فإن النتيجة هي[`ILineString`](../../ilinestring/) بالنقاط . إذا كانت هذه الهندسة تحتوي على ثلاث نقاط أو أكثر ، تكون النتيجة[`ILinearRing`](../../ilinearring/) يمثل هيكل محدب حول جميع النقاط الهندسية.
+هندسة تمثل الغلاف المحدب لهذه الهندسة. إذا كانت هذه الهندسة لا تحتوي على نقاط فإن النتيجة هي [`Null`](../../geometry/null/). إذا كانت هذه الهندسة تحتوي على نقطة واحدة فقط فإن النتيجة هي تلك النقطة. إذا كانت هذه الهندسة تحتوي على نقطتين فقط فإن النتيجة هي [`ILineString`](../../ilinestring/) مع النقاط. إذا كانت هذه الهندسة تحتوي على ثلاث نقاط أو أكثر فإن النتيجة هي [`ILinearRing`](../../ilinearring/) التي تمثل غلافًا محدبًا حول جميع نقاط الهندسة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,28 +1,28 @@
 ---
-title: FeaturesSequence.Attributes
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence ملكية. يحصل على مجموعة السمات المخصصة للميزات الموجودة في هذاVectorLayer .
+title: "FeaturesSequence.Attributes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeaturesSequence. يحصل على مجموعة السمات المخصصة للميزات في هذا VectorLayer"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/featuressequence/attributes/
 ---
 ## FeaturesSequence.Attributes property
 
-يحصل على مجموعة السمات المخصصة للميزات الموجودة في هذا[`VectorLayer`](../../vectorlayer/) .
+يحصل على مجموعة السمات المخصصة للميزات في هذا [`VectorLayer`](../../vectorlayer/).
 
 ```csharp
 public abstract FeatureAttributeCollection Attributes { get; }
 ```
 
-### Property_Value
+### Property Value
 
 مجموعة السمات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttributeCollection](../../featureattributecollection/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

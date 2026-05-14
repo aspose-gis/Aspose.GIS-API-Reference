@@ -1,7 +1,7 @@
 ---
-title: FileGdbDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة.
+title: "FileGdbDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbDriver. يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات المتجهات"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/canopenlayers/
 public override bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

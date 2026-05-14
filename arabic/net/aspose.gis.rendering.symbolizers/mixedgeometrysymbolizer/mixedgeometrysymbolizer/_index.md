@@ -1,23 +1,23 @@
 ---
-title: MixedGeometrySymbolizer.MixedGeometrySymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: MixedGeometrySymbolizer البناء. Default_Constructor
+title: "MixedGeometrySymbolizer.MixedGeometrySymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MixedGeometrySymbolizer. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer constructor
 
-Default_Constructor
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public MixedGeometrySymbolizer()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MixedGeometrySymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../mixedgeometrysymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../mixedgeometrysymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

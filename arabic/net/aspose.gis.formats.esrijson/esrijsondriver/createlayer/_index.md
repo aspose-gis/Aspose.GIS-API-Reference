@@ -1,149 +1,149 @@
 ---
-title: EsriJsonDriver.CreateLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: EsriJsonDriver طريقة. ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+title: "EsriJsonDriver.CreateLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة EsriJsonDriver. ينشئ طبقة ويفتحها لإضافة ميزات جديدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.esrijson/esrijsondriver/createlayer/
 ---
 ## CreateLayer(string, EsriJsonOptions) {#createlayer_9}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public VectorLayer CreateLayer(string path, EsriJsonOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | EsriJsonOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | EsriJsonOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [EsriJsonOptions](../../esrijsonoptions/)
 * class [EsriJsonDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, EsriJsonOptions) {#createlayer_3}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, EsriJsonOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | EsriJsonOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | EsriJsonOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [EsriJsonOptions](../../esrijsonoptions/)
 * class [EsriJsonDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
     SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [EsriJsonDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, EsriJsonOptions, SpatialReferenceSystem) {#createlayer_4}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, EsriJsonOptions options, 
     SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | EsriJsonOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | EsriJsonOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
-| NotSupportedException | لا يدعم السائق نظام الإسناد المكاني. |
+| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [EsriJsonOptions](../../esrijsonoptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [EsriJsonDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,32 +1,32 @@
 ---
-title: ICurvePolygon.GetInteriorRing
-second_title: Aspose.GIS لمرجع .NET API
-description: ICurvePolygon طريقة. يحصل على الحلقة الداخلية بفهرسها.
+title: "ICurvePolygon.GetInteriorRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ICurvePolygon. تحصل على الحلقة الداخلية حسب فهرسها"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/icurvepolygon/getinteriorring/
 ---
 ## ICurvePolygon.GetInteriorRing method
 
-يحصل على الحلقة الداخلية بفهرسها.
+يحصل على الحلقة الداخلية حسب فهرستها.
 
 ```csharp
 public ICurve GetInteriorRing(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر. |
+| الفهرس | Int32 | الفهرس. |
 
 ### قيمة الإرجاع
 
-الحلقة الداخلية.
+قيمة الحلقة الداخلية
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * interface [ICurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../icurvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icurvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: LinearRing.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: LinearRing طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "LinearRing.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LinearRing. تحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/linearring/toeditable/
 ---
 ## LinearRing.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public LinearRing ToEditable()
@@ -16,12 +16,12 @@ public LinearRing ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearRing](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linearring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linearring/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,41 +1,41 @@
 ---
-title: Extent.GetTransformed
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. إرجاع مدى جديد في المحددSpatialReferenceSystem الذي يحتوي على هذا المدى.
+title: "Extent.GetTransformed"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تُرجع نطاقًا جديدًا في نظام الإسناد المكاني المحدد الذي يحتوي على هذا النطاق"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis/extent/gettransformed/
 ---
 ## Extent.GetTransformed method
 
-إرجاع مدى جديد في المحدد[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) الذي يحتوي على هذا المدى.
+تُرجع نطاقًا جديدًا في [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) المحدد الذي يحتوي على هذا النطاق.
 
 ```csharp
 public Extent GetTransformed(SpatialReferenceSystem targetSrs)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) للتحول إلى. |
+| targetSrs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) للتحويل إليه. |
 
 ### قيمة الإرجاع
 
-نتيجة التحول بهذا المدى إلى SRS المحدد.
+نتيجة تحويل هذا النطاق إلى نظام الإسناد المكاني (SRS) المحدد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null` . |
-| NotSupportedException | التحول إلى SRS المقدم غير مدعوم. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل التحول. |
-| InvalidOperationException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من هذا المدى`null` . |
+| ArgumentNullException | الوسيط هو `null`. |
+| NotSupportedException | التحويل إلى نظام الإسناد المكاني (SRS) المقدم غير مدعوم. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل التحويل. |
+| InvalidOperationException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,37 +1,37 @@
 ---
-title: FeaturesSequence.WhereSet
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. يختار الميزات مع مجموعة السمات.
+title: "FeaturesSequence.WhereSet"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. تختار العناصر التي لديها سمة مُحددة"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.gis/featuressequence/whereset/
 ---
 ## FeaturesSequence.WhereSet method
 
-يختار الميزات مع مجموعة السمات.
+يختار المعالم التي تم تعيين السمة لها.
 
 ```csharp
 public virtual FeaturesSequence WhereSet(string attributeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attributeName | String | السمة للتصفية حسب. |
+| attributeName | String | السمة التي يتم الترشيح بناءً عليها. |
 
 ### قيمة الإرجاع
 
-الميزات ذات قيمة السمة المحددة.
+العناصر ذات قيمة سمة مُحددة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل الميزات هذا. |
+| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل العناصر هذا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

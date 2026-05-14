@@ -1,24 +1,24 @@
 ---
-title: GeometryCollection.SpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection ملكية. يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصيةnull  هل SpatialReferenceSystem غير معروف . لن يؤدي تعيين SpatialReferenceSystem الجديد أي تحويل إحداثي  سيتغير المرجع فقط.
+title: "GeometryCollection.SpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeometryCollection. يحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية فارغة إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، فقط سيتغير المرجع."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geometries/geometrycollection/spatialreferencesystem/
 ---
 ## GeometryCollection.SpatialReferenceSystem property
 
-يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصية`null` ، هل SpatialReferenceSystem غير معروف . لن يؤدي تعيين SpatialReferenceSystem الجديد أي تحويل إحداثي ، سيتغير المرجع فقط.
+يحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية `null` إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، بل سيتغير المرجع فقط.
 
 ```csharp
 public override SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

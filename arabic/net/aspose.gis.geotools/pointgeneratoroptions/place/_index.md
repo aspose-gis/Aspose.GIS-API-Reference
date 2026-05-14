@@ -1,24 +1,24 @@
 ---
-title: PointGeneratorOptions.Place
-second_title: Aspose.GIS لمرجع .NET API
-description: PointGeneratorOptions ملكية. الوضع في الخلايا التي تم إنشاؤها. _
+title: "PointGeneratorOptions.Place"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "PointGeneratorOptions خاصية. وضع التوضع في الخلايا المولدة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/pointgeneratoroptions/place/
 ---
 ## PointGeneratorOptions.Place property
 
-الوضع في الخلايا التي تم إنشاؤها. _
+وضعية التوزيع في الخلايا المُولدة.
 
 ```csharp
 public GeneratorPlaces Place { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeneratorPlaces](../../generatorplaces/)
 * class [PointGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

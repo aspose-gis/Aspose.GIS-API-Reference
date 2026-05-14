@@ -1,34 +1,34 @@
 ---
-title: Class SldImportOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Sld.SldImportOptions فصل. خيارات لاستيراد ملف Styled Layer Descriptor Sld .
+title: "الفئة SldImportOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Sld.SldImportOptions. خيارات استيراد ملف وصف الطبقة المصممة Sld"
 type: docs
-weight: 1790
+weight: 4240
 url: /ar/net/aspose.gis.rendering.sld/sldimportoptions/
 ---
 ## SldImportOptions class
 
-خيارات لاستيراد ملف Styled Layer Descriptor (Sld) .
+خيارات استيراد ملف وصف الطبقة المنسقة (Sld).
 
 ```csharp
 public class SldImportOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SldImportOptions](sldimportoptions/)() | Default_Constructor |
+| [SldImportOptions](sldimportoptions/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LoadInternetResources](../../aspose.gis.rendering.sld/sldimportoptions/loadinternetresources/) { get; set; } | يحدد ما إذا كان Aspose.GIS مسموحًا به لتحميل المصادر من الإنترنت. إذا تم التعيين على`false`، لن يتم تحميل المخططات ذات URIs المطلقة التي لا تبدأ بـ "file: //" . الافتراضي هو`false` . |
+| [LoadInternetResources](../../aspose.gis.rendering.sld/sldimportoptions/loadinternetresources/) { get; set; } | يحدد ما إذا كان يُسمح لـ Aspose.GIS بتحميل المصادر من الإنترنت. إذا تم تعيينه إلى `false`، فإن المخططات ذات عناوين URI المطلقة التي لا تبدأ بـ 'file://' لن يتم تحميلها. القيمة الافتراضية هي `false`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Sld](../../aspose.gis.rendering.sld/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Sld](../../aspose.gis.rendering.sld/)
+* assembly [Aspose.GIS](../../)
 
 

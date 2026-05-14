@@ -1,24 +1,24 @@
 ---
-title: SimpleLabeling.FontStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. النمط المراد تطبيقه على النص .
+title: "SimpleLabeling.FontStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. النمط لتطبيقه على النص"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontstyle/
 ---
 ## SimpleLabeling.FontStyle property
 
-النمط المراد تطبيقه على النص .
+النمط المطبق على النص.
 
 ```csharp
 public FontStyle FontStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [FontStyle](../../fontstyle/)
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

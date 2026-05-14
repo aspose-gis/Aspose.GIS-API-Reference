@@ -1,30 +1,30 @@
 ---
-title: Class GisException
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GisException فصل. الاستثناء الذي يتم طرحه عند حدوث خطأ أثناء معالجة بيانات GIS .
+title: "الفئة GisException"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.GisException class. الاستثناء الذي يُرمى عندما يحدث خطأ أثناء معالجة بيانات GIS"
 type: docs
-weight: 1240
+weight: 3020
 url: /ar/net/aspose.gis/gisexception/
 ---
 ## GisException class
 
-الاستثناء الذي يتم طرحه عند حدوث خطأ أثناء معالجة بيانات GIS .
+الاستثناء الذي يُرمى عندما يحدث خطأ أثناء معالجة بيانات نظام المعلومات الجغرافية.
 
 ```csharp
 public class GisException : Exception
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GisException](gisexception/#constructor)() | يقوم بتهيئة مثيل جديد لملف`GisException` فئة . |
-| [GisException](gisexception/#constructor_1)(string) | يقوم بتهيئة مثيل جديد لملف`GisException` فئة . |
-| [GisException](gisexception/#constructor_2)(string, Exception) | يقوم بتهيئة مثيل جديد لملف`GisException` فئة . |
+| [GisException](gisexception/#constructor)() | يُنشئ مثلاً جديداً من الفئة `GisException`. |
+| [GisException](gisexception/#constructor_1)(string) | يُنشئ مثلاً جديداً من الفئة `GisException`. |
+| [GisException](gisexception/#constructor_2)(string, Exception) | يُنشئ مثلاً جديداً من الفئة `GisException`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

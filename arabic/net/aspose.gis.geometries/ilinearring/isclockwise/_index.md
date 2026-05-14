@@ -1,14 +1,14 @@
 ---
-title: ILinearRing.IsClockwise
-second_title: Aspose.GIS لمرجع .NET API
-description: ILinearRing طريقة. يحدد ما إذا كانت الحلقة بها ملف في اتجاه عقارب الساعة
+title: "ILinearRing.IsClockwise"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ILinearRing. تحدد ما إذا كان الحلقة تدور باتجاه عقارب الساعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/ilinearring/isclockwise/
 ---
 ## ILinearRing.IsClockwise method
 
-يحدد ما إذا كانت الحلقة بها ملف في اتجاه عقارب الساعة
+يحدد ما إذا كانت الحلقة لها دوران باتجاه عقارب الساعة
 
 ```csharp
 public bool IsClockwise()
@@ -16,12 +16,12 @@ public bool IsClockwise()
 
 ### قيمة الإرجاع
 
-`true` إذا في اتجاه عقارب الساعة خلاف ذلك`false`.
+`true` إذا كان باتجاه عقارب الساعة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILinearRing](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../ilinearring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ilinearring/)
+* assembly [Aspose.GIS](../../../)
 
 

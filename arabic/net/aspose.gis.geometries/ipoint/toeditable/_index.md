@@ -1,14 +1,14 @@
 ---
-title: IPoint.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: IPoint طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "IPoint.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IPoint. يحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/ipoint/toeditable/
 ---
 ## IPoint.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public Point ToEditable()
@@ -16,13 +16,13 @@ public Point ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../../point/)
 * interface [IPoint](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../ipoint/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

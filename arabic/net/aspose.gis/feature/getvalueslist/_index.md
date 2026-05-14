@@ -1,50 +1,51 @@
 ---
-title: Feature.GetValuesList
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. الحصول على قيم تسلسل السمات كقائمة.
+title: "Feature.GetValuesList"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تحصل على قيم تسلسل السمات كقائمة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/feature/getvalueslist/
 ---
 ## Feature.GetValuesList&lt;T&gt; method
 
-الحصول على قيم تسلسل السمات كقائمة.
+يحصل على قيم تسلسل السمات كقائمة.
 
 ```csharp
-public List<T> GetValuesList<T>(string attributeName, string separator)
+public List<T> GetValuesList<T>(string attributeName, string separator, int count = 0)
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | النوع المطلوب للقيم. |
 | attributeName | اسم السمة. |
-| separator | سلسلة تُستخدم لفصل اسم السمة وقيمة الفهرس للتسلسل. |
+| فاصل | سلسلة تُستخدم لفصل اسم السمة وقيمة الفهرس في التسلسل. |
+| عدد | عدد القيم التي يجب إرجاعها (القيم المفقودة تُملأ كقيمة null) |
 
 ### قيمة الإرجاع
 
-قائمة قيم السمات التي تسمي مختلفة حسب قيمة فهرس التسلسل.
+قائمة القيم للسمات التي تختلف أسماؤها حسب قيمة فهرس التسلسل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لم يتم تعيين قيمة هذه السمة لهذه الميزة. |
-| InvalidCastException | النوع المطلوب لا يتم تنفيذهIConvertible. |
-| InvalidCastException | قيمة السمة هي`null`، ولكن النوع المطلوب هو نوع القيمة. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+| InvalidCastException | النوع المطلوب لا يُطبق الواجهة IConvertible. |
+| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمي. |
 | FormatException | فشل التحويل لأن القيمة بتنسيق غير صحيح. |
 | OverflowException | فشل التحويل بسبب تجاوز السعة. |
 
-### ملاحظات
+## ملاحظات
 
-يستخدم هذا[`GetValue`](../getvalue/) للحصول على قيمة واحدة. لذلك ، تقوم هذه الطريقة بتحويل القيمة تلقائيًا إلى النوع المطلوب في معلمة النوع العام. إذا لم يتم العثور على السمة بالفهرس 0 ، فسيتم إنشاؤهاArgumentException .
+يستخدم هذا [`GetValue`](../getvalue/) للحصول على قيمة واحدة. لذا، تقوم هذه الطريقة بتحويل القيمة تلقائيًا إلى النوع المطلوب في معامل النوع العام. إذا لم يتم العثور على السمة ذات الفهرس 0 فستُنشئ استثناء ArgumentException.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

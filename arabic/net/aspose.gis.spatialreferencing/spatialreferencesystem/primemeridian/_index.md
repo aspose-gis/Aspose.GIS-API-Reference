@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.PrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. إرجاع خط الطول الأولي لهذا SRS.
+title: "SpatialReferenceSystem.PrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تُرجع خط الزوال الأساسي لهذا SRS"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/
 ---
 ## SpatialReferenceSystem.PrimeMeridian property
 
-إرجاع خط الطول الأولي لهذا SRS.
+يرجع prime meridian لهذا SRS.
 
 ```csharp
 public abstract PrimeMeridian PrimeMeridian { get; }
@@ -16,15 +16,15 @@ public abstract PrimeMeridian PrimeMeridian { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | لا يحتوي SRS هذا على خط الزوال الأولي.[`HasPrimeMeridian`](../hasprimemeridian/) |
+| InvalidOperationException | هذا SRS لا يحتوي على خط الزوال الأساسي. [`HasPrimeMeridian`](../hasprimemeridian/) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrimeMeridian](../../primemeridian/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

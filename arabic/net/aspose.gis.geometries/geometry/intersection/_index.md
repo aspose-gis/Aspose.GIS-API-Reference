@@ -1,7 +1,7 @@
 ---
-title: Geometry.Intersection
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. يبني تقاطعًا بين هذه الهندسة وهندسة محددة.
+title: "Geometry.Intersection"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تبني تقاطعًا بين هذا الشكل الهندسي وشكل هندسي محدد"
 type: docs
 weight: 270
 url: /ar/net/aspose.gis.geometries/geometry/intersection/
@@ -14,27 +14,27 @@ url: /ar/net/aspose.gis.geometries/geometry/intersection/
 public IGeometry Intersection(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة لحساب التقاطع معها. |
+| آخر | IGeometry | شكل هندسي لحساب التقاطع معه. |
 
 ### قيمة الإرجاع
 
-هندسة تمثل تقاطع هذه الهندسة ووسيطة. تحتوي هندسة النتيجة على مجموعة النقاط الموجودة في كل من هذه الهندسة والوسيطة.
+شكل هندسي يمثل تقاطع هذا الشكل الهندسي ومعطى. يحتوي الشكل الهندسي الناتج على مجموعة نقاط موجودة في كل من هذا الشكل الهندسي والمعطى.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *other* يكون`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | *other* هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

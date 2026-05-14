@@ -1,137 +1,137 @@
 ---
-title: FeaturesSequence.SaveTo
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. يحفظ تسلسل المعالم إلى طبقة.
+title: "FeaturesSequence.SaveTo"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. تحفظ تسلسل العناصر إلى الطبقة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/featuressequence/saveto/
 ---
 ## SaveTo(string, FileDriver) {#saveto_2}
 
-يحفظ تسلسل المعالم إلى طبقة.
+يحفظ تسلسل الميزات إلى الطبقة.
 
 ```csharp
 public void SaveTo(string destinationPath, FileDriver destinationDriver)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | destinationPath | String | المسار إلى طبقة الإخراج. |
 | destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | أي حجة`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| ArgumentNullException | أي وسيط هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileDriver](../../filedriver/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SaveTo(AbstractPath, FileDriver) {#saveto}
 
-يحفظ تسلسل المعالم إلى طبقة.
+يحفظ تسلسل الميزات إلى الطبقة.
 
 ```csharp
 public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | destinationPath | AbstractPath | المسار إلى طبقة الإخراج. |
 | destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SaveTo(string, FileDriver, SavingOptions) {#saveto_3}
 
-يحفظ تسلسل المعالم إلى طبقة.
+يحفظ تسلسل الميزات إلى الطبقة.
 
 ```csharp
 public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | destinationPath | String | المسار إلى طبقة الإخراج. |
 | destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
-| options | SavingOptions | خيارات لإجراء الحفظ. |
+| الخيارات | SavingOptions | خيارات عملية الحفظ. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
-| NotSupportedException | نظام الإسناد المكاني المحدد في*options* لا يدعمه*destinationDriver* . |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileDriver](../../filedriver/)
 * class [SavingOptions](../../savingoptions/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SaveTo(AbstractPath, FileDriver, SavingOptions) {#saveto_1}
 
-يحفظ تسلسل المعالم إلى طبقة.
+يحفظ تسلسل الميزات إلى الطبقة.
 
 ```csharp
 public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver, 
     SavingOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | destinationPath | AbstractPath | المسار إلى طبقة الإخراج. |
 | destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
-| options | SavingOptions | خيارات لإجراء الحفظ. |
+| الخيارات | SavingOptions | خيارات عملية الحفظ. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
-| NotSupportedException | نظام الإسناد المكاني المحدد في*options* لا يدعمه*destinationDriver* . |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [SavingOptions](../../savingoptions/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

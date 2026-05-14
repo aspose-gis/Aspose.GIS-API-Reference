@@ -1,40 +1,40 @@
 ---
-title: PostGisDriver.OpenDataset
-second_title: Aspose.GIS لمرجع .NET API
-description: PostGisDriver طريقة. يفتح مجموعة البيانات .
+title: "PostGisDriver.OpenDataset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة PostGisDriver. يفتح مجموعة البيانات"
 type: docs
-weight: 10
+weight: 30
 url: /ar/net/aspose.gis.formats.postgis/postgisdriver/opendataset/
 ---
 ## PostGisDriver.OpenDataset method
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public override Dataset OpenDataset(IDbConnection connection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| connection | IDbConnection | فتح الاتصال بقاعدة البيانات. |
+| الاتصال | IDbConnection | تم فتح الاتصال بقاعدة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../../aspose.gis/dataset/).
+مثال على [`Dataset`](../../../aspose.gis/dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الاتصال`null`. |
+| ArgumentNullException | الاتصال هو `null`. |
 | [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../../aspose.gis/dataset/)
 * class [PostGisDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.PostGis](../../postgisdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.PostGis](../../postgisdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

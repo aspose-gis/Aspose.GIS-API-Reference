@@ -1,23 +1,23 @@
 ---
-title: Measurement.Zero
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement ملكية. قياس الطول الصفري .
+title: "Measurement.Zero"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Measurement. قياس بطول صفر"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/measurement/zero/
 ---
 ## Measurement.Zero property
 
-قياس الطول الصفري .
+قياس بطول صفر.
 
 ```csharp
 public static Measurement Zero { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

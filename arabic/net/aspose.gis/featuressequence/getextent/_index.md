@@ -1,14 +1,14 @@
 ---
-title: FeaturesSequence.GetExtent
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. يحصل على المدى المكاني لهذه الطبقة.
+title: "FeaturesSequence.GetExtent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. تحصل على امتداد مكاني لهذه الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/featuressequence/getextent/
 ---
 ## FeaturesSequence.GetExtent method
 
-يحصل على المدى المكاني لهذه الطبقة.
+يحصل على الامتداد المكاني لهذه الطبقة.
 
 ```csharp
 public virtual Extent GetExtent()
@@ -16,19 +16,19 @@ public virtual Extent GetExtent()
 
 ### قيمة الإرجاع
 
-المدى المكاني لهذه الطبقة.
+امتداد مكاني لهذه الطبقة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم طرحها إذا تم فتح الطبقة للكتابة فقط. |
+| InvalidOperationException | يتم رميه إذا تم فتح الطبقة للكتابة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../../extent/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

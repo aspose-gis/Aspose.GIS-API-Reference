@@ -1,23 +1,23 @@
 ---
-title: SimpleFill.StrokeColor
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill ملكية. يحدد اللون والشفافية المعطاة للخط.
+title: "SimpleFill.StrokeColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleFill. تحدد اللون والشفافية المطبقة على الخط"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokecolor/
 ---
 ## SimpleFill.StrokeColor property
 
-يحدد اللون والشفافية المعطاة للخط.
+يحدد اللون والشفافية الممنوحين للخط.
 
 ```csharp
 public Color StrokeColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

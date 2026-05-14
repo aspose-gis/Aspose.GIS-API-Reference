@@ -1,23 +1,23 @@
 ---
-title: MultiBandColor.MultiBandColor
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiBandColor البناء. Default_Constructor
+title: "MultiBandColor.MultiBandColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MultiBandColor. يهيء مثيلاً جديدًا من الفئة MultiBandColor"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/multibandcolor/
 ---
 ## MultiBandColor constructor
 
-Default_Constructor
+يهيء مثيلاً جديدًا من الفئة [`MultiBandColor`](../).
 
 ```csharp
 public MultiBandColor()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiBandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

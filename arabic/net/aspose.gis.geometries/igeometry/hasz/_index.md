@@ -1,27 +1,27 @@
 ---
-title: IGeometry.HasZ
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+title: "IGeometry.HasZ"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IGeometry. تحصل على قيمة تشير إلى ما إذا كانت هذه العينة لها إحداثي Z"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/igeometry/hasz/
 ---
 ## IGeometry.HasZ property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية Z.
 
 ```csharp
 public bool HasZ { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان هذا المثال يحتوي على إحداثيات Z ؛ خلاف ذلك،`false` .
+`true` إذا كان لهذا الكائن إحداثيات Z؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

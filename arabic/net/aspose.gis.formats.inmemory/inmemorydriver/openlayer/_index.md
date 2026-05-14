@@ -1,35 +1,35 @@
 ---
-title: InMemoryDriver.OpenLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: InMemoryDriver طريقة. يفتح طبقة للقراءة .
+title: "InMemoryDriver.OpenLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة InMemoryDriver. يفتح طبقة للقراءة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.inmemory/inmemorydriver/openlayer/
 ---
 ## InMemoryDriver.OpenLayer method
 
-يفتح طبقة للقراءة .
+يفتح طبقة للقراءة.
 
 ```csharp
 public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [InMemoryDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* assembly [Aspose.GIS](../../../)
 
 

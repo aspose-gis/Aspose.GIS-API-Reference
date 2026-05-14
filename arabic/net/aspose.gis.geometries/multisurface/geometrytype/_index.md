@@ -1,28 +1,28 @@
 ---
-title: MultiSurface.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiSurface ملكية. يحصل على نوع الهندسة .
+title: "MultiSurface.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiSurface. تحصل على نوع الشكل الهندسي"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/multisurface/geometrytype/
 ---
 ## MultiSurface.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [MultiSurface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multisurface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multisurface/)
+* assembly [Aspose.GIS](../../../)
 
 

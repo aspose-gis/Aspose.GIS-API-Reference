@@ -1,41 +1,41 @@
 ---
-title: CircularString.Item
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString ملكية. يحصل أو يحدد ملفIPoint في الفهرس المحدد.
+title: "CircularString.Item"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CircularString. تحصل أو تعيّن الـ IPoint عند الفهرس المحدد"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/circularstring/item/
 ---
 ## CircularString indexer
 
-يحصل أو يحدد ملف[`IPoint`](../../ipoint/) في الفهرس المحدد.
+تحصل أو تُعيّن الـ [`IPoint`](../../ipoint/) عند الفهرس المحدد.
 
 ```csharp
 public IPoint this[int index] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| الفهرس | الفهرس. |
 
-### Property_Value
+### Property Value
 
-ملف[`IPoint`](../../ipoint/) .
+الـ [`IPoint`](../../ipoint/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق. |
-| ArgumentNullException | القيمة`null`. |
+| ArgumentNullException | القيمة هي `null`. |
 | ArgumentException | النقطة فارغة. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما لا`null` ولا تساوي بعضها البعض. |
+| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

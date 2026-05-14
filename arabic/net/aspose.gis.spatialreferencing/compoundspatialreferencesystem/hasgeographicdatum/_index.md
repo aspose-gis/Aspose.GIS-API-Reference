@@ -1,23 +1,23 @@
 ---
-title: CompoundSpatialReferenceSystem.HasGeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. يحتوي SRS المركب على بيانات جغرافية إذا كان أي من SRS الأساسي يحتوي على بيانات جغرافية.
+title: "CompoundSpatialReferenceSystem.HasGeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. يحتوي الـ SRS المركب على مرجع جغرافي إذا كان أي من الـ SRS الأساسي يحتوي على مرجع جغرافي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/hasgeographicdatum/
 ---
 ## CompoundSpatialReferenceSystem.HasGeographicDatum property
 
-يحتوي SRS المركب على بيانات جغرافية إذا كان أي من SRS الأساسي يحتوي على بيانات جغرافية.
+يحتوي الـ Compound SRS على datum جغرافي إذا كان أي من الـ SRS الأساسي يحتوي على datum جغرافي.
 
 ```csharp
 public override bool HasGeographicDatum { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

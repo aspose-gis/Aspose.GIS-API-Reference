@@ -1,14 +1,14 @@
 ---
-title: Interface IRasterCellSize
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.IRasterCellSize واجهه المستخدم. يصف حجم الخلية النقطية ومقياسها وتدويرها على الخريطة.
+title: "واجهة IRasterCellSize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Raster.IRasterCellSize. تصف مقياس الحجم ودوران خلية الراستر على الخريطة"
 type: docs
-weight: 1340
+weight: 3780
 url: /ar/net/aspose.gis.raster/irastercellsize/
 ---
 ## IRasterCellSize interface
 
-يصف حجم الخلية النقطية ومقياسها وتدويرها على الخريطة.
+يصف الحجم، المقياس والدوران لخلية الراستر على الخريطة.
 
 ```csharp
 public interface IRasterCellSize
@@ -16,18 +16,18 @@ public interface IRasterCellSize
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Height](../../aspose.gis.raster/irastercellsize/height/) { get; } | الحصول على ارتفاع الخلية أو البكسل ، ويكون دائمًا موجبًا. |
-| [ScaleX](../../aspose.gis.raster/irastercellsize/scalex/) { get; } | الحصول على مكون x للخلية أو عرض البكسل (مقياس x). |
-| [ScaleY](../../aspose.gis.raster/irastercellsize/scaley/) { get; } | الحصول على المكون ص للخلية أو ارتفاع البكسل (مقياس ص) ، سالب عادةً. |
-| [SkewX](../../aspose.gis.raster/irastercellsize/skewx/) { get; } | الحصول على مكون x للخلية أو ارتفاع البكسل (انحراف س). |
-| [SkewY](../../aspose.gis.raster/irastercellsize/skewy/) { get; } | الحصول على المكون ص للخلية أو عرض البكسل (انحراف ص). |
-| [Width](../../aspose.gis.raster/irastercellsize/width/) { get; } | الحصول على عرض الخلية أو البكسل ، ويكون موجبًا دائمًا. |
+| [Height](../../aspose.gis.raster/irastercellsize/height/) { get; } | يحصل على ارتفاع الخلية أو البكسل، دائمًا إيجابي. |
+| [ScaleX](../../aspose.gis.raster/irastercellsize/scalex/) { get; } | يحصل على المكوّن x لعرض الخلية أو البكسل (مقياس x). |
+| [ScaleY](../../aspose.gis.raster/irastercellsize/scaley/) { get; } | يحصل على المكوّن y لارتفاع الخلية أو البكسل (مقياس y)، عادةً سالب. |
+| [SkewX](../../aspose.gis.raster/irastercellsize/skewx/) { get; } | يحصل على المكوّن x لارتفاع الخلية أو البكسل (انحراف x). |
+| [SkewY](../../aspose.gis.raster/irastercellsize/skewy/) { get; } | يحصل على المكوّن y لعرض الخلية أو البكسل (انحراف y). |
+| [Width](../../aspose.gis.raster/irastercellsize/width/) { get; } | يحصل على عرض الخلية أو البكسل، دائمًا إيجابي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,37 +1,37 @@
 ---
-title: VectorLayer.ReplaceAt
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. استبدل ملفFeature في الفهرس المحدد.
+title: "VectorLayer.ReplaceAt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. استبدال Feature في الفهرس المحدد"
 type: docs
-weight: 170
+weight: 190
 url: /ar/net/aspose.gis/vectorlayer/replaceat/
 ---
 ## VectorLayer.ReplaceAt method
 
-استبدل ملف[`Feature`](../../feature/) في الفهرس المحدد.
+استبدل الـ [`Feature`](../../feature/) في الفهرس المحدد.
 
 ```csharp
 public virtual void ReplaceAt(int index, Feature feature)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس الميزة. |
-| feature | Feature | الميزة المراد ضبطها. |
+| الفهرس | Int32 | فهرس الـ feature. |
+| ميزة | Feature | الميزة التي سيتم تعيينها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم طرحها إذا كانت الطبقة غير قابلة للتحرير. |
+| InvalidOperationException | يتم رميه إذا كانت الطبقة غير قابلة للتحرير. |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../feature/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

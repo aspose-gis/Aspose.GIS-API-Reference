@@ -1,14 +1,14 @@
 ---
-title: ISurface.GetPointOnSurface
-second_title: Aspose.GIS لمرجع .NET API
-description: ISurface طريقة. البحث عن نقطة مضمونة أن تكون على هذا السطح.
+title: "ISurface.GetPointOnSurface"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ISurface. تجد نقطة مضمونة أن تكون على هذا السطح"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/isurface/getpointonsurface/
 ---
 ## ISurface.GetPointOnSurface method
 
-البحث عن نقطة مضمونة أن تكون على هذا السطح.
+يجد نقطة مضمونة أن تكون على هذا السطح.
 
 ```csharp
 public IPoint GetPointOnSurface()
@@ -16,13 +16,13 @@ public IPoint GetPointOnSurface()
 
 ### قيمة الإرجاع
 
-نقطة على هذا السطح. نقطة فارغة إذا لم يكن لهذا السطح داخلي.
+نقطة على هذا السطح. نقطة فارغة إذا لم يكن لهذا السطح داخل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * interface [ISurface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../isurface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../isurface/)
+* assembly [Aspose.GIS](../../../)
 
 

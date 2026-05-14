@@ -1,7 +1,7 @@
 ---
-title: Point.HasM
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. يحصل على قيمة تشير إلى ما إذا كان لهذا المثيل إحداثي M.
+title: "Point.HasM"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على إحداثي M"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/point/hasm/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.geometries/point/hasm/
 public override bool HasM { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان لهذا المثيل إحداثي M ؛ خلاف ذلك،`false` .
+`true` إذا كان هذا الكائن يحتوي على إحداثي M؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

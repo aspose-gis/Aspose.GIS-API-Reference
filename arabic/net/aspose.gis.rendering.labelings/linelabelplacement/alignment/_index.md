@@ -1,24 +1,24 @@
 ---
-title: LineLabelPlacement.Alignment
-second_title: Aspose.GIS لمرجع .NET API
-description: LineLabelPlacement ملكية. يحدد كيفية محاذاة التسمية مع المسار الخطي. الافتراضي هوParallel .
+title: "LineLabelPlacement.Alignment"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineLabelPlacement. تحدد كيفية محاذاة التسمية مع المسار الخطي. القيمة الافتراضية هي Parallel"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.labelings/linelabelplacement/alignment/
 ---
 ## LineLabelPlacement.Alignment property
 
-يحدد كيفية محاذاة التسمية مع المسار الخطي. الافتراضي هوParallel .
+يحدد كيفية محاذاة التسمية مع المسار الخطي. القيمة الافتراضية هي موازٍ.
 
 ```csharp
 public LineLabelAlignment Alignment { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineLabelAlignment](../../linelabelalignment/)
 * class [LineLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

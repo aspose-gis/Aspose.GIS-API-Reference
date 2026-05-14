@@ -1,23 +1,23 @@
 ---
-title: WarpOptions.WarpOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: WarpOptions البناء. Default_Constructor
+title: "WarpOptions.WarpOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ WarpOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/warpoptions/warpoptions/
 ---
 ## WarpOptions constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public WarpOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WarpOptions](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../warpoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

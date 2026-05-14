@@ -1,24 +1,24 @@
 ---
-title: Projection.AngularParametersUnit
-second_title: Aspose.GIS لمرجع .NET API
-description: Projection ملكية. الوحدة المستخدمة للمعلمات الزاوية .
+title: "Projection.AngularParametersUnit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Projection. الوحدة المستخدمة للمعاملات الزاوية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/projection/angularparametersunit/
 ---
 ## Projection.AngularParametersUnit property
 
-الوحدة المستخدمة للمعلمات الزاوية .
+الوحدة المستخدمة للمعلمات الزاوية.
 
 ```csharp
 public Unit AngularParametersUnit { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [Projection](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projection/)
+* assembly [Aspose.GIS](../../../)
 
 

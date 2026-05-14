@@ -1,14 +1,14 @@
 ---
-title: Class NullVectorSymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.NullVectorSymbolizer فصل. ملفNullSymbolizer لا يرسم شيئًا ويتخطى بشكل فعال عرض الهندسة التي يتم تطبيقها عليها.
+title: "الفئة NullVectorSymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.Symbolizers.NullVectorSymbolizer الفئة. لا يرسم NullSymbolizer شيئًا ويتخطى فعليًا رسم الشكل الهندسي الذي يُطبق عليه"
 type: docs
-weight: 1890
+weight: 4340
 url: /ar/net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/
 ---
 ## NullVectorSymbolizer class
 
-ملف`NullSymbolizer` لا يرسم شيئًا ويتخطى بشكل فعال عرض الهندسة التي يتم تطبيقها عليها.
+يقوم الـ `NullSymbolizer` بعدم رسم أي شيء ويتخطى فعليًا عملية عرض الهندسة التي يُطبّق عليها.
 
 ```csharp
 public class NullVectorSymbolizer : VectorSymbolizer
@@ -16,14 +16,14 @@ public class NullVectorSymbolizer : VectorSymbolizer
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance/) { get; } | الحصول على مثيل لـ`NullSymbolizer` . |
+| static [Instance](../../aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance/) { get; } | يحصل على مثيل من `NullSymbolizer`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

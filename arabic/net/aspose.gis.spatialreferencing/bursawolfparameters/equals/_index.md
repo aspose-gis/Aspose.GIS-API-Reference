@@ -1,7 +1,7 @@
 ---
-title: BursaWolfParameters.Equals
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters طريقة. يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي.
+title: "BursaWolfParameters.Equals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة BursaWolfParameters. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/equals/
@@ -14,42 +14,42 @@ url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/equals/
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الكائن مقارنة مع الكائن الحالي. |
+| obj | Object | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن المحدد يساوي الكائن الحالي ؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Equals(BursaWolfParameters) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(BursaWolfParameters other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | BursaWolfParameters | كائن للمقارنة مع هذا الكائن. |
+| آخر | BursaWolfParameters | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن الحالي يساوي*other* معامل؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

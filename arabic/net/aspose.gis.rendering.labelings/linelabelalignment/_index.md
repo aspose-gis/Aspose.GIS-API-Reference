@@ -1,9 +1,9 @@
 ---
-title: Enum LineLabelAlignment
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.LineLabelAlignment تعداد. يحدد كيفية محاذاة التسمية مع الخط.
+title: "تعداد LineLabelAlignment"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "تعداد Aspose.Gis.Rendering.Labelings.LineLabelAlignment. يحدد كيفية محاذاة التسمية مع الخط"
 type: docs
-weight: 1640
+weight: 4090
 url: /ar/net/aspose.gis.rendering.labelings/linelabelalignment/
 ---
 ## LineLabelAlignment enumeration
@@ -14,17 +14,17 @@ url: /ar/net/aspose.gis.rendering.labelings/linelabelalignment/
 public enum LineLabelAlignment
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Horizontal | `0` | لا محاذاة. التسمية أفقية. |
+| Horizontal | `0` | بدون محاذاة. التسمية أفقية. |
 | Parallel | `1` | التسمية موازية للخط. |
-| Curved | `2` | يتبع الملصق شكل الخط. |
+| Curved | `2` | التسمية تتبع شكل الخط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

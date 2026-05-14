@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.StrokeWidth
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill ملكية. يحدد عرض الخط.
+title: "SimpleFill.StrokeWidth"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleFill. تحدد عرض الخط"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokewidth/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokewidth/
 public Measurement StrokeWidth { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

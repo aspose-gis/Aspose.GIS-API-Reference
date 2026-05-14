@@ -1,14 +1,14 @@
 ---
-title: IGeometryCollection.GetPointOnSurface
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometryCollection طريقة. البحث عن نقطة مضمونة أن تكون على أحد الأسطح في هذه المجموعة .
+title: "IGeometryCollection.GetPointOnSurface"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometryCollection. تجد نقطة مضمونة أن تكون على أحد الأسطح في هذه المجموعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/igeometrycollection/getpointonsurface/
 ---
 ## IGeometryCollection.GetPointOnSurface method
 
-البحث عن نقطة مضمونة أن تكون على أحد الأسطح في هذه المجموعة .
+يجد نقطة مضمونة أن تكون على أحد الأسطح في هذه المجموعة.
 
 ```csharp
 public IPoint GetPointOnSurface()
@@ -16,13 +16,13 @@ public IPoint GetPointOnSurface()
 
 ### قيمة الإرجاع
 
-نقطة على أحد السطوح. نقطة فارغة إذا كانت هذه المجموعة لا تحتوي على أسطح أو كانت جميع الأسطح فارغة.
+نقطة على أحد الأسطح. نقطة فارغة إذا لم تحتوي هذه المجموعة على أسطح أو كانت جميع الأسطح فارغة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * interface [IGeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

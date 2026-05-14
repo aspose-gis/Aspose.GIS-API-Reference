@@ -1,14 +1,14 @@
 ---
-title: IGeometry.ReplacePolygonsByLines
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. الحصول على المضلعات ممثلة كخطوط لهذه الهندسة .
+title: "IGeometry.ReplacePolygonsByLines"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "IGeometry طريقة. يحصل على المضلعات الممثلة كخطوط لهذه الهندسة"
 type: docs
 weight: 300
 url: /ar/net/aspose.gis.geometries/igeometry/replacepolygonsbylines/
 ---
 ## IGeometry.ReplacePolygonsByLines method
 
-الحصول على المضلعات ممثلة كخطوط لهذه الهندسة .
+يحصل على المضلعات الممثلة كخطوط لهذه الهندسة.
 
 ```csharp
 public IGeometry ReplacePolygonsByLines()
@@ -16,18 +16,18 @@ public IGeometry ReplacePolygonsByLines()
 
 ### قيمة الإرجاع
 
-هندسة ليس لها أشكال هندسية مضلعة. يتم تطبيق التحويل التالي: Polygon s هي linearized (تتحول إلىLineStringس)MultiPolygon انضمت إلى sMultiLineStringس
+هندسة لا تحتوي على هندسات مضلعة. يتم تطبيق التحويلات التالية: يتم تحويل المضلعات إلى خطوط (تحويلها إلى LineStrings) ويتم دمج MultiPolygons في MultiLineStrings.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

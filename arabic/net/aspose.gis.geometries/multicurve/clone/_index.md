@@ -1,14 +1,14 @@
 ---
-title: MultiCurve.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiCurve طريقة. استنساخ هذا المثال .
+title: "MultiCurve.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة MultiCurve. تنشئ نسخة من هذا الكائن"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/multicurve/clone/
 ---
 ## MultiCurve.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [MultiCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multicurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multicurve/)
+* assembly [Aspose.GIS](../../../)
 
 

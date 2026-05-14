@@ -1,23 +1,23 @@
 ---
-title: KmlOptions.DocumentId
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlOptions ملكية. يُستخدم لتحديد معرف المستند الجذر node
+title: "KmlOptions.DocumentId"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlOptions. تُستخدم لتحديد معرف عقدة المستند الجذر"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.kml/kmloptions/documentid/
 ---
 ## KmlOptions.DocumentId property
 
-يُستخدم لتحديد معرف "المستند" الجذر node
+يُستخدم لتحديد معرّف العقدة الجذرية 'Document'
 
 ```csharp
 public string DocumentId { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../kmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

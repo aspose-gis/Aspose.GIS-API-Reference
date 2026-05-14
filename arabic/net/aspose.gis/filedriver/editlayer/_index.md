@@ -1,85 +1,85 @@
 ---
-title: FileDriver.EditLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver طريقة. يفتح طبقة للتحرير .
+title: "FileDriver.EditLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileDriver. تفتح طبقة للتحرير"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/filedriver/editlayer/
 ---
 ## EditLayer(string, DriverOptions) {#editlayer_1}
 
-يفتح طبقة للتحرير .
+يفتح طبقة للتحرير.
 
 ```csharp
 public VectorLayer EditLayer(string path, DriverOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## EditLayer(AbstractPath, DriverOptions) {#editlayer}
 
-يفتح طبقة للتحرير .
+يفتح طبقة للتحرير.
 
 ```csharp
 public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
-| NotSupportedException | لا يمكن للسائق تعديل الطبقات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| NotSupportedException | السائق لا يمكنه تحرير الطبقات. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### ملاحظات
+## ملاحظات
 
-يقوم السائق بإنشاء طبقة داخلية بكل الميزات. ولكن لدينا خيار استخدام مساحة القرص بدلاً من ذاكرة الوصول العشوائي . هناك برامج تشغيل لمزيد من الاستخدام الأمثل للموارد (انظر وثائق برنامج التشغيل المحدد) . كما يمكن للسائق تحرير طبقة إذا كان بإمكانه إنشاء الطبقات وفتحها.
+السائق ينشئ طبقة داخلية تحتوي على جميع العناصر. لكن لدينا خيار استخدام مساحة القرص بدلاً من الذاكرة العشوائية. هناك سائقون لاستخدام أكثر كفاءة للموارد (انظر وثائق السائق المحددة). كما يمكن للسائق تحرير طبقة إذا كان يستطيع إنشاء وفتح الطبقات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [AbstractPath](../../abstractpath/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

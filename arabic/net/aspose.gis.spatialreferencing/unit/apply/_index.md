@@ -1,31 +1,31 @@
 ---
-title: Unit.Apply
-second_title: Aspose.GIS لمرجع .NET API
-description: Unit طريقة. يحول الوسيطة إلى وحدة  كما هو موضح في هذا المثال.
+title: "Unit.Apply"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Unit. تحول الوسيط إلى الوحدة التي يصفها هذا المثيل"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/unit/apply/
 ---
 ## Unit.Apply method
 
-يحول الوسيطة إلى وحدة ، كما هو موضح في هذا المثال.
+يحول الوسيط إلى الوحدة التي يصفها هذا الكائن.
 
 ```csharp
 public double Apply(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة المراد تحويلها. يجب أن يكون بالتقدير الدائري أو بالمتر. |
+| قيمة | Double | القيمة للتحويل. يجب أن تكون بالراديان أو بالأمتار. |
 
 ### قيمة الإرجاع
 
-القيمة المحولة إلى هذه الوحدة.
+القيمة، محوّلة إلى هذه الوحدة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../unit/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../unit/)
+* assembly [Aspose.GIS](../../../)
 
 

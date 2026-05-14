@@ -1,23 +1,23 @@
 ---
-title: MultiLineString.MultiLineString
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiLineString البناء. يقوم بتهيئة مثيل جديد لملفMultiLineString فئة .
+title: "MultiLineString.MultiLineString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MultiLineString. يهيئ مثيلًا جديدًا من فئة MultiLineString."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/multilinestring/multilinestring/
 ---
 ## MultiLineString constructor
 
-يقوم بتهيئة مثيل جديد لملف[`MultiLineString`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`MultiLineString`](../).
 
 ```csharp
 public MultiLineString()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiLineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multilinestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multilinestring/)
+* assembly [Aspose.GIS](../../../)
 
 

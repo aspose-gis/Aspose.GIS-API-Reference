@@ -1,24 +1,24 @@
 ---
-title: KmlOptions.AutoId
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlOptions ملكية. إنشاء المعرفات تلقائيًا
+title: "KmlOptions.AutoId"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlOptions. توليد معرفات تلقائيًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml/kmloptions/autoid/
 ---
 ## KmlOptions.AutoId property
 
-إنشاء المعرفات تلقائيًا
+إنشاء معرفات تلقائيًا
 
 ```csharp
 public AutoIds AutoId { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AutoIds](../../../aspose.gis/autoids/)
 * class [KmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../kmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

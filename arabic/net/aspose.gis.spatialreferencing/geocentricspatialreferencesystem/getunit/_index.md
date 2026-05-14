@@ -1,38 +1,38 @@
 ---
-title: GeocentricSpatialReferenceSystem.GetUnit
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystem طريقة. احصل علىUnitالبعد .
+title: "GeocentricSpatialReferenceSystem.GetUnit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeocentricSpatialReferenceSystem. الحصول على وحدة البعد"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/getunit/
 ---
 ## GeocentricSpatialReferenceSystem.GetUnit method
 
-احصل على[`Unit`](../../unit/)البعد .
+احصل على [`Unit`](../../unit/) للبُعد.
 
 ```csharp
 public override Unit GetUnit(int dimension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dimension | Int32 | عدد البعد. |
+| البُعد | Int32 | عدد البُعد. |
 
 ### قيمة الإرجاع
 
-وحدة البعد.
+وحدة البُعد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension* أصغر من 0 أو أكبر أو يساوي[`DimensionsCount`](../dimensionscount/) |
+| ArgumentOutOfRangeException | *dimension* أقل من 0 أو أكبر أو يساوي [`DimensionsCount`](../dimensionscount/) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [GeocentricSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

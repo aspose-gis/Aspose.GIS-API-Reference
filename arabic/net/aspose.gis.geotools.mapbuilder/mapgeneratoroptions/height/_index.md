@@ -1,7 +1,7 @@
 ---
-title: MapGeneratorOptions.Height
-second_title: Aspose.GIS لمرجع .NET API
-description: MapGeneratorOptions ملكية. ارتفاع الخريطة عدد الصفوف.
+title: "MapGeneratorOptions.Height"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MapGeneratorOptions. ارتفاع عدد صفوف الخريطة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/height/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/height/
 public int Height { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

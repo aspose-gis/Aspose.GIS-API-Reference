@@ -1,23 +1,23 @@
 ---
-title: LineGeneratorOptions.Seed
-second_title: Aspose.GIS لمرجع .NET API
-description: LineGeneratorOptions ملكية. رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة.
+title: "LineGeneratorOptions.Seed"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineGeneratorOptions. رقم يُستخدم لحساب قيمة البذرة لتسلسل من الأعداد العشوائية الزائفة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools/linegeneratoroptions/seed/
 ---
 ## LineGeneratorOptions.Seed property
 
-رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة.
+رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة.
 
 ```csharp
 public int Seed { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

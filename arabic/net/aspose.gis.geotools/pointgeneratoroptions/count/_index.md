@@ -1,23 +1,23 @@
 ---
-title: PointGeneratorOptions.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: PointGeneratorOptions ملكية. عدد النقاط المطلوب إنشاؤها .
+title: "PointGeneratorOptions.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "PointGeneratorOptions خاصية. عدد النقاط لإنشائها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/pointgeneratoroptions/count/
 ---
 ## PointGeneratorOptions.Count property
 
-عدد النقاط المطلوب إنشاؤها .
+عدد النقاط التي سيتم إنشاؤها.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PointGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

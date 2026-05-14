@@ -1,56 +1,56 @@
 ---
-title: BursaWolfParameters.BursaWolfParameters
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters البناء. إنشاء مثيل جديد منBursaWolfParameters .
+title: "BursaWolfParameters.BursaWolfParameters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ BursaWolfParameters. ينشئ مثيلاً جديداً من BursaWolfParameters"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/bursawolfparameters/
 ---
 ## BursaWolfParameters(double, double, double) {#constructor}
 
-إنشاء مثيل جديد من[`BursaWolfParameters`](../) .
+ينشئ مثيلاً جديداً من [`BursaWolfParameters`](../).
 
 ```csharp
 public BursaWolfParameters(double dx, double dy, double dz)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Double | DX بالأمتار. |
-| dy | Double | دى بالأمتار. |
+| dx | Double | Dx بالأمتار. |
+| dy | Double | Dy بالأمتار. |
 | dz | Double | Dz بالأمتار. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## BursaWolfParameters(double, double, double, double, double, double, double) {#constructor_1}
 
-إنشاء مثيل جديد من[`BursaWolfParameters`](../) .
+ينشئ مثيلاً جديداً من [`BursaWolfParameters`](../).
 
 ```csharp
 public BursaWolfParameters(double dx, double dy, double dz, double rx, double ry, double rz, 
     double scale = 0m)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dx | Double | DX بالأمتار. |
-| dy | Double | دى بالأمتار. |
+| dx | Double | Dx بالأمتار. |
+| dy | Double | Dy بالأمتار. |
 | dz | Double | Dz بالأمتار. |
-| rx | Double | Rx في ثوان. |
-| ry | Double | راي في ثوان. |
+| rx | Double | Rx بالثواني. |
+| ry | Double | Ry بالثواني. |
 | rz | Double | Rz بالثواني. |
-| scale | Double | مقياس في أجزاء في المليون. |
+| scale | Double | المقياس بالأجزاء في المليون. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

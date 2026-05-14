@@ -1,27 +1,27 @@
 ---
-title: AbstractPath.Location
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath ملكية. يحصل على سلسلة تمثيل لموقع هذاAbstractPath .
+title: "AbstractPath.Location"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية AbstractPath. تحصل على تمثيل نصي لموقع هذا AbstractPath"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/abstractpath/location/
 ---
 ## AbstractPath.Location property
 
-يحصل على سلسلة تمثيل لموقع هذا`AbstractPath` .
+يحصل على تمثيل نصي لموقع هذا `AbstractPath`.
 
 ```csharp
 public abstract string Location { get; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-أي اثنين[`AbstractPath`](../) هذا يساوي`Location`يشير s إلى نفس الملف أو الدليل. يجب استخدام تمثيل السلسلة[`Separator`](../separator/) لفصل مستويات الدليل. كمثال ، بالنسبة إلى نظام الملفات المحلي ، يعد الموقع مسارًا لنظام الملفات ، ويمكن أن يكون بالنسبة إلى Azure blobs ، مسارًا إلى blob داخل حاوية blob .
+أي مسارين [`AbstractPath`](../) يساويان `Location`s يشيران إلى نفس الملف أو الدليل. يجب أن يستخدم التمثيل النصي [`Separator`](../separator/) لفصل مستويات الدليل. على سبيل المثال، في نظام الملفات المحلي يكون الموقع مسارًا في نظام الملفات، وفي Azure blobs يمكن أن يكون مسارًا إلى الـ blob داخل حاوية blob.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

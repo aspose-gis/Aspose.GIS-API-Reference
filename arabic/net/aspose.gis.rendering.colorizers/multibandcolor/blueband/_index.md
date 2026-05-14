@@ -1,24 +1,24 @@
 ---
-title: MultiBandColor.BlueBand
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiBandColor ملكية. يحدد المكون الأزرق لخطوط المسح لدينا.
+title: "MultiBandColor.BlueBand"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiBandColor. تحدد المكوّن الأزرق للراستر الخاص بنا"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/blueband/
 ---
 ## MultiBandColor.BlueBand property
 
-يحدد المكون الأزرق لخطوط المسح لدينا.
+يحدد المكوّن الأزرق للراستر الخاص بنا.
 
 ```csharp
 public BandColor BlueBand { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../../bandcolor/)
 * class [MultiBandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

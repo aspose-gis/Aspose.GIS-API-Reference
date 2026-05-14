@@ -1,23 +1,23 @@
 ---
-title: RasterMapResampling.RasterMapResampling
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterMapResampling البناء. Default_Constructor
+title: "RasterMapResampling.RasterMapResampling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ RasterMapResampling. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/rastermapresampling/rastermapresampling/
 ---
 ## RasterMapResampling constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public RasterMapResampling()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterMapResampling](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../rastermapresampling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../rastermapresampling/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,28 +1,28 @@
 ---
-title: LinearRing.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: LinearRing ملكية. يحصل على نوع الهندسة .
+title: "LinearRing.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LinearRing. تحصل على نوع الشكل الهندسي"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/linearring/geometrytype/
 ---
 ## LinearRing.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [LinearRing](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linearring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linearring/)
+* assembly [Aspose.GIS](../../../)
 
 

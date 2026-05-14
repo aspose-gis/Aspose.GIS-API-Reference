@@ -1,23 +1,23 @@
 ---
-title: PolygonGeneratorOptions.MinimumPolygonPoints
-second_title: Aspose.GIS لمرجع .NET API
-description: PolygonGeneratorOptions ملكية. الحد الأدنى لطول المضلع الناتج.
+title: "PolygonGeneratorOptions.MinimumPolygonPoints"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PolygonGeneratorOptions. الحد الأدنى لطول المضلع المُولد"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints/
 ---
 ## PolygonGeneratorOptions.MinimumPolygonPoints property
 
-الحد الأدنى لطول المضلع الناتج.
+الحد الأدنى لطول المضلع المُولد.
 
 ```csharp
 public int MinimumPolygonPoints { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

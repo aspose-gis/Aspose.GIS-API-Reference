@@ -1,40 +1,40 @@
 ---
-title: Geometry.Union
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. يوحد هذه الهندسة والهندسة المحددة.
+title: "Geometry.Union"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. توحد هذا الشكل مع شكل محدد"
 type: docs
-weight: 430
+weight: 440
 url: /ar/net/aspose.gis.geometries/geometry/union/
 ---
 ## Geometry.Union method
 
-يوحد هذه الهندسة والهندسة المحددة.
+يوحد هذا الشكل وشكلًا محددًا.
 
 ```csharp
 public IGeometry Union(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة تتحد معها. |
+| آخر | IGeometry | شكل للاتحاد معه. |
 
 ### قيمة الإرجاع
 
-هندسة تمثل اتحادًا لهذه الهندسة ووسيطة. تحتوي هندسة النتيجة على مجموعة النقاط الموجودة في هذه الهندسة أو في وسيطة.
+شكل يمثل اتحاد هذا الشكل مع وسيط. يحتوي الشكل الناتج على مجموعة نقاط موجودة في هذا الشكل أو في الوسيط.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *other* يكون`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | *other* هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

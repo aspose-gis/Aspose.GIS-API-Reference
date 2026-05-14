@@ -1,0 +1,22 @@
+---
+title: "BezierCurve.C2"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "BezierCurve خاصية."
+type: docs
+weight: 40
+url: /ar/net/aspose.gis.common/beziercurve/c2/
+---
+## BezierCurve.C2 property
+
+```csharp
+public Coordinate C2 { get; }
+```
+
+### انظر أيضًا
+
+* struct [Coordinate](../../coordinate/)
+* class [BezierCurve](../)
+* namespace [Aspose.Gis.Common](../../beziercurve/)
+* assembly [Aspose.GIS](../../../)
+
+

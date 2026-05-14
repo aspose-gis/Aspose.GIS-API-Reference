@@ -1,23 +1,23 @@
 ---
-title: StarGeneratorOptions.Seed
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions ملكية. رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة.
+title: "StarGeneratorOptions.Seed"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية StarGeneratorOptions. رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/seed/
 ---
 ## StarGeneratorOptions.Seed property
 
-رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة.
+رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة.
 
 ```csharp
 public int Seed { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

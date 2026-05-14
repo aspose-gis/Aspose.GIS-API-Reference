@@ -1,43 +1,43 @@
 ---
-title: Class RasterRect
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.RasterRect فصل. كتلة الخلايا النقطية .
+title: "الفئة RasterRect"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.RasterRect. كتلة من خلايا الرستر"
 type: docs
-weight: 1410
+weight: 3850
 url: /ar/net/aspose.gis.raster/rasterrect/
 ---
 ## RasterRect class
 
-كتلة الخلايا النقطية .
+كتلة من خلايا الراستر.
 
 ```csharp
 public class RasterRect
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RasterRect](rasterrect/)(int, int, int, int) | قم بإنشاء مثيل لـ`RasterRect` . |
+| [RasterRect](rasterrect/)(int, int, int, int) | أنشئ مثلاً من `RasterRect`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Height](../../aspose.gis.raster/rasterrect/height/) { get; } | يحصل على ارتفاع (عدد الصفوف). |
+| [Height](../../aspose.gis.raster/rasterrect/height/) { get; } | يحصل على الارتفاع (عدد الصفوف). |
 | [Width](../../aspose.gis.raster/rasterrect/width/) { get; } | يحصل على العرض (عدد الأعمدة). |
-| [X](../../aspose.gis.raster/rasterrect/x/) { get; } | الحصول على عمود البداية (تنسيق x). |
-| [Y](../../aspose.gis.raster/rasterrect/y/) { get; } | الحصول على صف البداية (إحداثيات ص). |
+| [X](../../aspose.gis.raster/rasterrect/x/) { get; } | يحصل على عمود البداية (الإحداثي x). |
+| [Y](../../aspose.gis.raster/rasterrect/y/) { get; } | يحصل على صف البداية (الإحداثي y). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterrect/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.raster/rasterrect/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

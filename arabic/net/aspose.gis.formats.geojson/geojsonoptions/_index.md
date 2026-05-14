@@ -1,57 +1,57 @@
 ---
-title: Class GeoJsonOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.GeoJson.GeoJsonOptions فصل. خيارات خاصة ببرنامج التشغيل لتنسيق GeoJSON .
+title: "الفئة GeoJsonOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.GeoJson.GeoJsonOptions. خيارات خاصة بالسائق لتنسيق GeoJSON"
 type: docs
-weight: 310
+weight: 1900
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/
 ---
 ## GeoJsonOptions class
 
-خيارات خاصة ببرنامج التشغيل لتنسيق GeoJSON .
+خيارات خاصة ببرنامج التشغيل لتنسيق GeoJSON.
 
 ```csharp
 public class GeoJsonOptions : DriverOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GeoJsonOptions](geojsonoptions/)() | إنشاء مثيل جديد . |
+| [GeoJsonOptions](geojsonoptions/)() | إنشاء نسخة جديدة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ArrayAsString](../../aspose.gis.formats.geojson/geojsonoptions/arrayasstring/) { get; set; } | ما إذا كان سيتم عرض مصفوفات JSon للسلاسل أو الأعداد الصحيحة أو القيم الحقيقية كسلسلة. |
+| [ArrayAsString](../../aspose.gis.formats.geojson/geojsonoptions/arrayasstring/) { get; set; } | ما إذا كان يجب كشف مصفوفات JSon من السلاسل أو الأعداد الصحيحة أو العشرية كسلسلة. |
 | [AttributesSkip](../../aspose.gis.formats.geojson/geojsonoptions/attributesskip/) { get; set; } | يتحكم في ترجمة السمات: نعم - تخطي جميع السمات |
-| [AutoId](../../aspose.gis.formats.geojson/geojsonoptions/autoid/) { get; set; } | إنشاء المعرفات تلقائيًا |
-| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring/) { get; set; } | تحديد ما إذا كان يتم إغلاق ملفLinearRing في كل هندسة. افتراضات إلى`false` . |
-| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints/) { get; set; } | لتحديد ما إذا كان سيتم إضافة نقطة جديدة في المنتصف لكل مقطع هندسي. افتراضات إلى`false` . |
-| [DateAsString](../../aspose.gis.formats.geojson/geojsonoptions/dateasstring/) { get; set; } | ما إذا كان سيتم عرض تاريخ / وقت / تاريخ - وقت JSon كسلسلة. |
-| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints/) { get; set; } | تحديد ما إذا كان يتم حذف النقاط القريبة في كل شكل هندسي. افتراضات إلى`false` . |
-| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance/) { get; set; } | يحدد المسافة لـ[`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints/) . افتراضات إلى`0` . |
-| [Description](../../aspose.gis.formats.geojson/geojsonoptions/description/) { get; set; } | الوصف على مستوى مجموعة المعالم (لإنشاء الطبقة) |
-| [GeometryAsCollection](../../aspose.gis.formats.geojson/geojsonoptions/geometryascollection/) { get; set; } | ترجمة التحكم في الأشكال الهندسية: نعم - التفاف الهندسات باستخدام GeometryCollection type |
-| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance/) { get; set; } | تفاوت لاستخدامه في تحديد الأشكال الهندسية للمنحنى الخطي. |
-| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel/) { get; set; } | أ[`PrecisionModel`](../../aspose.gis/precisionmodel/) التي سيتم تطبيقها على M إحداثيات عند إضافة الأشكال الهندسية إلى[`VectorLayer`](../../aspose.gis/vectorlayer/) أو عندما يتم قراءتها من[`VectorLayer`](../../aspose.gis/vectorlayer/) . القيمة الافتراضية هي[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
-| [Name](../../aspose.gis.formats.geojson/geojsonoptions/name/) { get; set; } | الاسم على مستوى مجموعة المعالم (لإنشاء الطبقة) |
-| [NestedPropertiesSeparator](../../aspose.gis.formats.geojson/geojsonoptions/nestedpropertiesseparator/) { get; set; } | الحصول على سلسلة أو تعيينها لفصل مكونات السمات المتداخلة. القيمة الافتراضية "_" . |
-| [ReadBoundingBoxes](../../aspose.gis.formats.geojson/geojsonoptions/readboundingboxes/) { get; set; } | يحدد ما إذا كان يجب قراءة المربعات المحيطة ("bbox") على أنها سمات تحمل اسم "bbox_0" أو "bbox_1" وما إلى ذلك القيمة الافتراضية هي`false` . ملف[`NestedPropertiesSeparator`](./nestedpropertiesseparator/) السلسلة المستخدمة في bbox_0 ، bbox_1 ، .. الأسماء . |
-| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments/) { get; set; } | لتحديد ما إذا كان سيتم حذف النقاط الموجودة على نفس المقطع في كل شكل هندسي. افتراضات إلى`false` . |
-| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance/) { get; set; } | يحدد المسافة لـ[`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments/) . افتراضات إلى`0` . |
-| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite/) { get; set; } | يحدد ما إذا كان يجب التحقق من صحة الأشكال الهندسية عند إضافتها إلى الطبقة. إذا تم التعيين على`true` و[`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) يتم استدعاؤها لكل هندسة _ عند إضافتها إلى الطبقة ، وإذا فشل التحقق من الصحة ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) يكون`false` ) ،[`GisException`](../../aspose.gis/gisexception/) تم القيت . |
-| [WriteBoundingBoxes](../../aspose.gis.formats.geojson/geojsonoptions/writeboundingboxes/) { get; set; } | يحدد ما إذا كان يجب تضمين معلومات كائنات GeoJSON في النطاق الإحداثي لأشكاله الهندسية . إذا تم الضبط على`true` ، يتم إنشاء عضو "bbox" لكل شكل هندسي (ليس فارغًا) عند إضافته إلى الطبقة . القيمة الافتراضية هي`false` . |
-| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines/) { get; set; } | لتحديد ما إذا كان مسموحًا بتحويل المضلع أو متعدد الأضلاع إلى خط مستقيم. افتراضات إلى`false` . |
-| [WriteUnsetAttribute](../../aspose.gis.formats.geojson/geojsonoptions/writeunsetattribute/) { get; set; } | ما إذا كان سيتم كتابة سمات غير محددة عن طريق إضافة قيمة "خالية" _ |
-| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel/) { get; set; } | أ[`PrecisionModel`](../../aspose.gis/precisionmodel/) التي سيتم تطبيقها على إحداثيات X و Y عند إضافة الأشكال الهندسية إلى[`VectorLayer`](../../aspose.gis/vectorlayer/) أو عندما يتم قراءتها من[`VectorLayer`](../../aspose.gis/vectorlayer/) . القيمة الافتراضية هي[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
-| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel/) { get; set; } | أ[`PrecisionModel`](../../aspose.gis/precisionmodel/) التي سيتم تطبيقها على Z إحداثيات عند إضافة الأشكال الهندسية إلى[`VectorLayer`](../../aspose.gis/vectorlayer/) أو عندما يتم قراءتها من[`VectorLayer`](../../aspose.gis/vectorlayer/) . القيمة الافتراضية هي[`Exact`](../../aspose.gis/precisionmodel/exact/) . |
+| [AutoId](../../aspose.gis.formats.geojson/geojsonoptions/autoid/) { get; set; } | إنشاء معرفات تلقائيًا |
+| [CloseLinearRing](../../aspose.gis/driveroptions/closelinearring/) { get; set; } | يحدد ما إذا كان يتم إغلاق LinearRing غير المغلقة في كل شكل هندسي. القيمة الافتراضية هي `false`. |
+| [CreateMidpoints](../../aspose.gis/driveroptions/createmidpoints/) { get; set; } | يحدد ما إذا كان يتم إضافة نقطة جديدة في الوسط لكل مقطع من الشكل الهندسي. القيمة الافتراضية هي `false`. |
+| [DateAsString](../../aspose.gis.formats.geojson/geojsonoptions/dateasstring/) { get; set; } | ما إذا كان يجب كشف تاريخ/وقت/تاريخ‑وقت JSon كسلسلة. |
+| [DeleteNearPoints](../../aspose.gis/driveroptions/deletenearpoints/) { get; set; } | يحدد ما إذا كان سيتم حذف النقاط القريبة في كل شكل. القيمة الافتراضية هي `false`. |
+| [DeleteNearPointsDistance](../../aspose.gis/driveroptions/deletenearpointsdistance/) { get; set; } | يحدد المسافة لـ [`DeleteNearPoints`](../../aspose.gis/driveroptions/deletenearpoints/). القيمة الافتراضية هي `0`. |
+| [Description](../../aspose.gis.formats.geojson/geojsonoptions/description/) { get; set; } | الوصف على مستوى مجموعة الميزات (لإنشاء الطبقة) |
+| [GeometryAsCollection](../../aspose.gis.formats.geojson/geojsonoptions/geometryascollection/) { get; set; } | التحكم في ترجمة الأشكال: نعم - غلف الأشكال بنوع GeometryCollection |
+| [LinearizationTolerance](../../aspose.gis/driveroptions/linearizationtolerance/) { get; set; } | قيمة تحمل تُستخدم لتقويم الأشكال المنحنية. |
+| [MPrecisionModel](../../aspose.gis/driveroptions/mprecisionmodel/) { get; set; } | نموذج [`PrecisionModel`](../../aspose.gis/precisionmodel/) سيُطبق على إحداثي M عندما تُضاف الأشكال إلى [`VectorLayer`](../../aspose.gis/vectorlayer/) أو عندما تُقرأ من [`VectorLayer`](../../aspose.gis/vectorlayer/). القيمة الافتراضية هي [`Exact`](../../aspose.gis/precisionmodel/exact/). |
+| [Name](../../aspose.gis.formats.geojson/geojsonoptions/name/) { get; set; } | الاسم على مستوى مجموعة الميزات (لإنشاء الطبقة) |
+| [NestedPropertiesSeparator](../../aspose.gis.formats.geojson/geojsonoptions/nestedpropertiesseparator/) { get; set; } | يحصل أو يعيّن سلسلة تُستخدم لفصل مكونات السمات المتداخلة. القيمة الافتراضية هي "_". |
+| [ReadBoundingBoxes](../../aspose.gis.formats.geojson/geojsonoptions/readboundingboxes/) { get; set; } | يحدد ما إذا كان يجب قراءة صناديق الحدود ('bbox') كسمات باسم 'bbox_0'، 'bbox_1'، إلخ. القيمة الافتراضية هي `false`. تُستخدم سلسلة [`NestedPropertiesSeparator`](./nestedpropertiesseparator/) في أسماء bbox_0، bbox_1،.. |
+| [SimplifySegments](../../aspose.gis/driveroptions/simplifysegments/) { get; set; } | يحدد ما إذا كان سيتم حذف النقاط الواقعة على نفس القطعة في كل شكل. القيمة الافتراضية هي `false`. |
+| [SimplifySegmentsDistance](../../aspose.gis/driveroptions/simplifysegmentsdistance/) { get; set; } | يحدد المسافة لـ [`SimplifySegments`](../../aspose.gis/driveroptions/simplifysegments/). القيمة الافتراضية هي `0`. |
+| [ValidateGeometriesOnWrite](../../aspose.gis/driveroptions/validategeometriesonwrite/) { get; set; } | يحدد ما إذا كان يجب التحقق من صحة الأشكال عند إضافتها إلى الطبقة. إذا تم تعيينه إلى `true`، يتم استدعاء [`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) لكل شكل عند إضافته إلى الطبقة، وإذا فشل التحقق ([`IsValid`](../../aspose.gis.geometries/geometry/isvalid/) هو `false`)، يتم رمي [`GisException`](../../aspose.gis/gisexception/). |
+| [WriteBoundingBoxes](../../aspose.gis.formats.geojson/geojsonoptions/writeboundingboxes/) { get; set; } | يحدد ما إذا كان يجب تضمين معلومات عن نطاق الإحداثيات لأشكال GeoJSON. إذا تم تعيينه إلى `true`، يتم إنشاء عضو "bbox" لكل شكل (ليس null) عند إضافته إلى الطبقة. القيمة الافتراضية هي `false`. |
+| [WritePolygonsAsLines](../../aspose.gis/driveroptions/writepolygonsaslines/) { get; set; } | يحدد ما إذا كان تحويل المضلع أو المضلع المتعدد إلى خط متعدد مسموحًا به. القيمة الافتراضية هي `false`. |
+| [WriteUnsetAttribute](../../aspose.gis.formats.geojson/geojsonoptions/writeunsetattribute/) { get; set; } | ما إذا كان يجب كتابة السمات غير المحددة بإضافة القيمة 'null' |
+| [XYPrecisionModel](../../aspose.gis/driveroptions/xyprecisionmodel/) { get; set; } | نموذج [`PrecisionModel`](../../aspose.gis/precisionmodel/) سيُطبق على إحداثيات X و Y عندما تُضاف الأشكال إلى [`VectorLayer`](../../aspose.gis/vectorlayer/) أو عندما تُقرأ من [`VectorLayer`](../../aspose.gis/vectorlayer/). القيمة الافتراضية هي [`Exact`](../../aspose.gis/precisionmodel/exact/). |
+| [ZPrecisionModel](../../aspose.gis/driveroptions/zprecisionmodel/) { get; set; } | نموذج [`PrecisionModel`](../../aspose.gis/precisionmodel/) سيُطبق على إحداثي Z عندما تُضاف الأشكال إلى [`VectorLayer`](../../aspose.gis/vectorlayer/) أو عندما تُقرأ من [`VectorLayer`](../../aspose.gis/vectorlayer/). القيمة الافتراضية هي [`Exact`](../../aspose.gis/precisionmodel/exact/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DriverOptions](../../aspose.gis/driveroptions/)
-* مساحة الاسم [Aspose.Gis.Formats.GeoJson](../../aspose.gis.formats.geojson/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../aspose.gis.formats.geojson/)
+* assembly [Aspose.GIS](../../)
 
 

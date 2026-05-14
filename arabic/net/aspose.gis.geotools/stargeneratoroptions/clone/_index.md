@@ -1,14 +1,14 @@
 ---
-title: StarGeneratorOptions.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions طريقة. استنساخ كائن لبعضه البعض .
+title: "StarGeneratorOptions.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة StarGeneratorOptions. استنساخ الكائن إلى آخر"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/clone/
 ---
 ## StarGeneratorOptions.Clone method
 
-استنساخ كائن لبعضه البعض .
+استنساخ الكائن إلى آخر.
 
 ```csharp
 public StarGeneratorOptions Clone()
@@ -16,12 +16,12 @@ public StarGeneratorOptions Clone()
 
 ### قيمة الإرجاع
 
-كائن استنساخ لبعضها البعض[`PolygonGeneratorOptions`](../../polygongeneratoroptions/).
+استنساخ الكائن إلى آخر [`PolygonGeneratorOptions`](../../polygongeneratoroptions/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: GeoJsonOptions.AutoId
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoJsonOptions ملكية. إنشاء المعرفات تلقائيًا
+title: "GeoJsonOptions.AutoId"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeoJsonOptions. توليد المعرفات تلقائيًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/autoid/
 ---
 ## GeoJsonOptions.AutoId property
 
-إنشاء المعرفات تلقائيًا
+إنشاء معرفات تلقائيًا
 
 ```csharp
 public AutoIds AutoId { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AutoIds](../../../aspose.gis/autoids/)
 * class [GeoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.PostGis
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.PostGis توفر مساحة الاسم فئات للعمل مع قاعدة بيانات PostGIS.
+title: "Aspose.Gis.Formats.PostGis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Formats.PostGis توفر فئات للعمل مع قاعدة بيانات PostGIS"
 type: docs
-weight: 170
+weight: 410
 url: /ar/net/aspose.gis.formats.postgis/
 ---
-`Aspose.Gis.Formats.PostGis` توفر مساحة الاسم فئات للعمل مع قاعدة بيانات PostGIS.
+`Aspose.Gis.Formats.PostGis` مساحة الاسم توفر فئات للعمل مع قاعدة بيانات PostGIS.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [PostGisDriver](./postgisdriver/) | برنامج تشغيل لقاعدة بيانات PostGIS . |
-| [PostGisOptions](./postgisoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق PostGis . في الوقت الحالي ، لا يوفر برنامج التشغيل خيارات قابلة للتخصيص. |
+| [PostGisDriver](./postgisdriver/) | برنامج تشغيل لقاعدة بيانات PostGIS. |
+| [PostGisOptions](./postgisoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق PostGis. في الوقت الحالي، لا يوفر برنامج التشغيل أي خيارات قابلة للتخصيص. |
 
 

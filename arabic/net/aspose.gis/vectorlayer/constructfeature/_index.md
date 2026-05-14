@@ -1,14 +1,14 @@
 ---
-title: VectorLayer.ConstructFeature
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. ينشئ لكن لا يضيف إلى الطبقة معلمًا جديدًا بسمات تطابق مجموعة سمات هذه الطبقة . عند الانتهاء من إعداد البيانات للمعلم  استخدمAdd لإضافة الميزة إلى الطبقة.
+title: "VectorLayer.ConstructFeature"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. ينشئ ولكن لا يضيف إلى الطبقة ميزة جديدة بسمات تتطابق مع مجموعة السمات لهذه الطبقة. عند الانتهاء من ضبط البيانات للميزة استخدم Add لإضافة الميزة إلى الطبقة"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/vectorlayer/constructfeature/
 ---
 ## VectorLayer.ConstructFeature method
 
-ينشئ (لكن لا يضيف إلى الطبقة) معلمًا جديدًا بسمات تطابق مجموعة سمات هذه الطبقة . عند الانتهاء من إعداد البيانات للمعلم ، استخدم[`Add`](../add/) لإضافة الميزة إلى الطبقة.
+ينشئ (ولكن لا يضيف إلى الطبقة) ميزة جديدة بسمات تتطابق مع مجموعة السمات لهذه الطبقة. عند الانتهاء من ضبط البيانات للميزة، استخدم [`Add`](../add/) لإضافة الميزة إلى الطبقة.
 
 ```csharp
 public Feature ConstructFeature()
@@ -18,15 +18,15 @@ public Feature ConstructFeature()
 
 ميزة جديدة.
 
-### ملاحظات
+## ملاحظات
 
-التغييرات في[`Attributes`](../attributes/) غير مسموح به بعد استدعاء هذه الطريقة .
+التغييرات على [`Attributes`](../attributes/) غير مسموح بها بعد استدعاء هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../feature/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

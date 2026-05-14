@@ -1,23 +1,23 @@
 ---
-title: KmlIconStyle.KmlIconStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlIconStyle البناء. Default_Constructor
+title: "KmlIconStyle.KmlIconStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlIconStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmliconstyle/kmliconstyle/
 ---
 ## KmlIconStyle constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlIconStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlIconStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmliconstyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmliconstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

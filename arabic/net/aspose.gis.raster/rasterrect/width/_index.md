@@ -1,7 +1,7 @@
 ---
-title: RasterRect.Width
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterRect ملكية. يحصل على العرض عدد الأعمدة.
+title: "RasterRect.Width"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterRect. تُرجع عدد أعمدة العرض"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rasterrect/width/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.raster/rasterrect/width/
 public int Width { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterRect](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterrect/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterrect/)
+* assembly [Aspose.GIS](../../../)
 
 

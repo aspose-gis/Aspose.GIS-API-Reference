@@ -1,23 +1,23 @@
 ---
-title: StarGeneratorOptions.MinimumStarVertex
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions ملكية. الحد الأدنى للرأس الخارجي للجانب الناتج.
+title: "StarGeneratorOptions.MinimumStarVertex"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية StarGeneratorOptions. الحد الأدنى للنقطة الخارجية للجانب المُولد"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/minimumstarvertex/
 ---
 ## StarGeneratorOptions.MinimumStarVertex property
 
-الحد الأدنى للرأس الخارجي للجانب الناتج.
+الحد الأدنى للنقطة الخارجية للجانب المُولد.
 
 ```csharp
 public int MinimumStarVertex { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

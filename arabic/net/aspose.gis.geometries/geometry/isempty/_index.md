@@ -1,27 +1,27 @@
 ---
-title: Geometry.IsEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+title: "Geometry.IsEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/geometry/isempty/
 ---
 ## Geometry.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا.
 
 ```csharp
 public virtual bool IsEmpty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كانت هذه الحالة فارغة ؛ خلاف ذلك،`false` .
+`true` إذا كان هذا الكائن فارغًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

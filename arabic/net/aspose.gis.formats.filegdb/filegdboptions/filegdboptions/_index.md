@@ -1,23 +1,23 @@
 ---
-title: FileGdbOptions.FileGdbOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbOptions البناء. إنشاء مثيل جديد .
+title: "FileGdbOptions.FileGdbOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ FileGdbOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/filegdboptions/
 ---
 ## FileGdbOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public FileGdbOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

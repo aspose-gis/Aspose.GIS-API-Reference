@@ -1,35 +1,35 @@
 ---
-title: Class RasterMapResampling
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.RasterMapResampling فصل. توضح هذه الفئة كيفية إعادة تشكيل طبقة نقطية عند عرض الخريطة.
+title: "فئة RasterMapResampling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.RasterMapResampling فئة. تصف هذه الفئة كيفية إعادة أخذ عينات طبقة نقطية عند عرض خريطة"
 type: docs
-weight: 1760
+weight: 4210
 url: /ar/net/aspose.gis.rendering/rastermapresampling/
 ---
 ## RasterMapResampling class
 
-توضح هذه الفئة كيفية إعادة تشكيل طبقة نقطية عند عرض الخريطة.
+تصف هذه الفئة كيفية إعادة أخذ عينات طبقة نقطية عند تصيير خريطة.
 
 ```csharp
 public class RasterMapResampling
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RasterMapResampling](rastermapresampling/)() | Default_Constructor |
+| [RasterMapResampling](rastermapresampling/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Height](../../aspose.gis.rendering/rastermapresampling/height/) { get; set; } | يحدد ارتفاع البيانات النقطية على الخريطة بالبكسل والأعمدة. إذا تم تعيين القيمة على 0 ، فسيتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي "0" . |
-| [Width](../../aspose.gis.rendering/rastermapresampling/width/) { get; set; } | يحدد عرض البيانات النقطية على الخريطة بالبكسل والأعمدة. إذا تم تعيين القيمة على 0 ، فسيتم حساب العرض تلقائيًا. القيمة الافتراضية هي "0" . |
+| [Height](../../aspose.gis.rendering/rastermapresampling/height/) { get; set; } | يحدد ارتفاع النقطية على الخريطة بالبكسل والأعمدة. إذا تم تعيين القيمة إلى 0، يتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي "0". |
+| [Width](../../aspose.gis.rendering/rastermapresampling/width/) { get; set; } | يحدد عرض النقطية على الخريطة بالبكسل والأعمدة. إذا تم تعيين القيمة إلى 0، يتم حساب العرض تلقائيًا. القيمة الافتراضية هي "0". |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

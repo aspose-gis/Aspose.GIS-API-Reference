@@ -1,33 +1,33 @@
 ---
-title: GeometryCollection.RemoveAt
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection طريقة. يزيل الشكل الهندسي المحدد من المجموعة.
+title: "GeometryCollection.RemoveAt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryCollection. تزيل الهندسة المحددة من المجموعة"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.geometries/geometrycollection/removeat/
 ---
 ## GeometryCollection.RemoveAt method
 
-يزيل الشكل الهندسي المحدد من المجموعة.
+يزيل الهندسة المحددة من المجموعة.
 
 ```csharp
 public void RemoveAt(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس الهندسة المراد إزالتها. |
+| الفهرس | Int32 | فهرس الهندسة المراد إزالتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

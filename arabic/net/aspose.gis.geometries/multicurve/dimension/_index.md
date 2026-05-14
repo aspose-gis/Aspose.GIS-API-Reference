@@ -1,24 +1,24 @@
 ---
-title: MultiCurve.Dimension
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiCurve ملكية. يحصل على البعد الطوبولوجي لهذاGeometry .
+title: "MultiCurve.Dimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiCurve. تحصل على البعد الطوبولوجي لهذه Geometry"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/multicurve/dimension/
 ---
 ## MultiCurve.Dimension property
 
-يحصل على البعد الطوبولوجي لهذا[`Geometry`](../../geometry/) .
+تحصل على البعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
 
 ```csharp
 public GeometryDimension Dimension { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryDimension](../../geometrydimension/)
 * class [MultiCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multicurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multicurve/)
+* assembly [Aspose.GIS](../../../)
 
 

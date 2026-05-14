@@ -1,14 +1,14 @@
 ---
-title: LabelPlacement.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: LabelPlacement طريقة. استنساخ هذا المثال.
+title: "LabelPlacement.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LabelPlacement. تنسخ هذه المثيلة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/labelplacement/clone/
 ---
 ## LabelPlacement.Clone method
 
-استنساخ هذا المثال.
+ينسخ هذا الكائن.
 
 ```csharp
 public abstract LabelPlacement Clone()
@@ -16,12 +16,12 @@ public abstract LabelPlacement Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Geometry.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "Geometry.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحصل على نسخة قابلة للتحرير من هذا الشكل."
 type: docs
 weight: 390
 url: /ar/net/aspose.gis.geometries/geometry/toeditable/
 ---
 ## ToEditable() {#toeditable}
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public Geometry ToEditable()
@@ -16,43 +16,43 @@ public Geometry ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## ToEditable&lt;T&gt;() {#toeditable_1}
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public T ToEditable<T>()
     where T : Geometry
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| T | نوع الهندسة المطلوب الحصول عليها. يجب أن يكون وريثًا لـ[`Geometry`](../) فئة . |
+| T | نوع الشكل المراد الحصول عليه. يجب أن يكون من الورثة من الفئة [`Geometry`](../). |
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة .
+نسخة قابلة للتحرير من هذه geometry.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidCastException | تعذر إرسال نسخة قابلة للتحرير من هذه الهندسة للكتابة*T* . |
+| InvalidCastException | غير قادر على تحويل نسخة قابلة للتحرير من هذا الشكل إلى النوع *T*. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

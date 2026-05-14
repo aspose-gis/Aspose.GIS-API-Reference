@@ -1,14 +1,14 @@
 ---
-title: CompoundCurve.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "CompoundCurve.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundCurve. تُعيد نسخة قابلة للتحرير من هذا الشكل"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/compoundcurve/toeditable/
 ---
 ## CompoundCurve.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public CompoundCurve ToEditable()
@@ -16,12 +16,12 @@ public CompoundCurve ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

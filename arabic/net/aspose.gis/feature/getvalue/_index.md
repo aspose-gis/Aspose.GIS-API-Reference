@@ -1,20 +1,57 @@
 ---
-title: Feature.GetValue
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. الحصول على قيمة سمة .
+title: "Feature.GetValue"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تحصل على قيمة سمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/feature/getvalue/
 ---
+## GetValue(string) {#getvalue}
+
+يحصل على قيمة سمة.
+
+```csharp
+public object GetValue(string attributeName)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| attributeName | String | اسم السمة. |
+
+### قيمة الإرجاع
+
+قيمة السمة.
+
+### استثناءات
+
+| استثناء | شرط |
+| --- | --- |
+| ArgumentNullException | اسم السمة هو `null`. |
+| ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+
+## ملاحظات
+
+إذا لم تكن الطبقة تتطلب أن تحتوي عناصرها على قيم لجميع السمات المعرفة للطبقة، قد تفشل هذه الطريقة مع InvalidOperationException عند طلب قيمة مفقودة. عند العمل مع مثل هذه الطبقات، يُنصح باستخدام [`GetValueOrDefault`](../getvalueordefault/).
+
+### انظر أيضًا
+
+* class [Feature](../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
 ## GetValue&lt;T&gt;(string) {#getvalue_1}
 
-الحصول على قيمة سمة .
+يحصل على قيمة سمة.
 
 ```csharp
 public T GetValue<T>(string attributeName)
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | النوع المطلوب للقيمة. |
 | attributeName | اسم السمة. |
@@ -25,62 +62,25 @@ public T GetValue<T>(string attributeName)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لم يتم تعيين قيمة هذه السمة لهذه الميزة. |
-| InvalidCastException | النوع المطلوب لا يتم تنفيذهIConvertible. |
-| InvalidCastException | قيمة السمة هي`null`، ولكن النوع المطلوب هو نوع القيمة. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+| InvalidCastException | النوع المطلوب لا يُطبق الواجهة IConvertible. |
+| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمي. |
 | FormatException | فشل التحويل لأن القيمة بتنسيق غير صحيح. |
 | OverflowException | فشل التحويل بسبب تجاوز السعة. |
 
-### ملاحظات
+## ملاحظات
 
-تقوم هذه الطريقة بتحويل القيمة تلقائيًا إلى النوع المطلوب في معلمة النوع العام. إذا لم تتطلب الطبقة أن تحتوي معالمها على قيم لجميع السمات المحددة للطبقة ، قد تفشل هذه الطريقة معInvalidOperationException عند طلب قيمة مفقودة . عند العمل مع هذه الطبقات ، ضع في اعتبارك استخدام[`GetValueOrDefault`](../getvalueordefault/) .
+هذه الطريقة تحول القيمة تلقائيًا إلى النوع المطلوب في معامل النوع العام. إذا لم تكن الطبقة تتطلب أن تحتوي عناصرها على قيم لجميع السمات المعرفة للطبقة، قد تفشل هذه الطريقة مع InvalidOperationException عند طلب قيمة مفقودة. عند العمل مع مثل هذه الطبقات، يُنصح باستخدام [`GetValueOrDefault`](../getvalueordefault/).
 
-### أنظر أيضا
-
-* class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
-
----
-
-## GetValue(string) {#getvalue}
-
-الحصول على قيمة سمة .
-
-```csharp
-public object GetValue(string attributeName)
-```
-
-| معامل | يكتب | وصف |
-| --- | --- | --- |
-| attributeName | String | اسم السمة. |
-
-### قيمة الإرجاع
-
-قيمة السمة.
-
-### استثناءات
-
-| استثناء | حالة |
-| --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
-| ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لم يتم تعيين قيمة هذه السمة لهذه الميزة. |
-
-### ملاحظات
-
-إذا لم تتطلب الطبقة أن تحتوي معالمها على قيم لجميع السمات المحددة للطبقة ، قد تفشل هذه الطريقة معInvalidOperationException عند طلب قيمة مفقودة . عند العمل مع هذه الطبقات ، ضع في اعتبارك استخدام[`GetValueOrDefault`](../getvalueordefault/) .
-
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

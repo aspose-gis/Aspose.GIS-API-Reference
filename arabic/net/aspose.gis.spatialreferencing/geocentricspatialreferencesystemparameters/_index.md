@@ -1,41 +1,41 @@
 ---
-title: Class GeocentricSpatialReferenceSystemParameters
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.GeocentricSpatialReferenceSystemParameters فصل. معلمات لإنشاء SRS مركزية الأرض. تحتوي المعلمات على قيم افتراضية معقولة  لذلك سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيينnull إلى أي معلمة  سيتم استخدام قيمة افتراضية.
+title: "الفئة GeocentricSpatialReferenceSystemParameters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.GeocentricSpatialReferenceSystemParameters. معلمات لإنشاء نظام إسناد جغرافي مركزي. تحتوي المعلمات على قيم افتراضية معقولة لذا سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيين null لأي معلمة سيتم استخدام القيمة الافتراضية."
 type: docs
-weight: 2100
+weight: 4550
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/
 ---
 ## GeocentricSpatialReferenceSystemParameters class
 
-معلمات لإنشاء SRS مركزية الأرض. تحتوي المعلمات على قيم افتراضية معقولة ، لذلك سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيين`null` إلى أي معلمة ، سيتم استخدام قيمة افتراضية.
+معلمات لإنشاء نظام إسناد جيوسنترى. المعلمات لها قيم افتراضية معقولة، لذا سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيين `null` لأي معلمة، سيتم استخدام القيمة الافتراضية.
 
 ```csharp
 public class GeocentricSpatialReferenceSystemParameters
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GeocentricSpatialReferenceSystemParameters](geocentricspatialreferencesystemparameters/)() | Default_Constructor |
+| [GeocentricSpatialReferenceSystemParameters](geocentricspatialreferencesystemparameters/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/) { get; set; } | ترتيب المحاور. افتراضات إلىXYZ . |
-| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum/) { get; set; } | بيانات SRS لمركز الأرض. الافتراضي هو[`Wgs84`](../geographicdatum/wgs84/) . |
-| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit/) { get; set; } | الوحدات التي سيتم استخدامها في SRS. افتراضات إلى[`Meter`](../unit/meter/) . |
-| [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name/) { get; set; } | اسم SRS لمركز الأرض. الافتراضي هو "بدون اسم" . |
-| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian/) { get; set; } | خط الطول الرئيسي لهذا SRS. الافتراضي هو[`Greenwich`](../primemeridian/greenwich/) . |
-| [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis/) { get; set; } | محور SRS لمركز الأرض يصف البعد "X" (المحور الذي يشير إلى خط الزوال الرئيسي). |
-| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis/) { get; set; } | محور SRS لمركز الأرض يصف البعد "Y" (المحور الذي يشير إلى اليسار أو إلى اليمين من المحور X على المستوى الاستوائي) . الإعدادات الافتراضية للمحور ذيEast الاتجاه. |
-| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis/) { get; set; } | محور SRS لمركز الأرض الذي يصف البعد "Z" (المحور الذي يشير إلى القطب الشمالي أو الجنوبي) . الإعدادات الافتراضية للمحور ذيNorth الاتجاه. |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/) { get; set; } | ترتيب المحاور. القيمة الافتراضية هي XYZ. |
+| [Datum](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/datum/) { get; set; } | نقطة الإسناد لنظام إسناد جغرافي مركزي. القيمة الافتراضية هي [`Wgs84`](../geographicdatum/wgs84/). |
+| [LinearUnit](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit/) { get; set; } | الوحدات المستخدمة في هذا النظام. القيمة الافتراضية هي [`Meter`](../unit/meter/). |
+| [Name](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name/) { get; set; } | اسم نظام إسناد جغرافي مركزي. القيمة الافتراضية هي "Unnamed". |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian/) { get; set; } | خط الطول الرئيسي لهذا النظام. القيمة الافتراضية هي [`Greenwich`](../primemeridian/greenwich/). |
+| [XAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis/) { get; set; } | محور نظام إسناد جغرافي مركزي الذي يصف البعد 'X' (المحور الذي يشير إلى خط الطول الرئيسي). |
+| [YAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis/) { get; set; } | محور نظام إسناد جغرافي مركزي الذي يصف البعد 'Y' (المحور الذي يشير إلى اليسار أو اليمين من محور X على المستوى الاستوائي). القيمة الافتراضية هي المحور باتجاه الشرق. |
+| [ZAxis](../../aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis/) { get; set; } | محور نظام إسناد جغرافي مركزي الذي يصف البعد 'Z' (المحور الذي يشير إلى القطب الشمالي أو الجنوبي). القيمة الافتراضية هي المحور باتجاه الشمال. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

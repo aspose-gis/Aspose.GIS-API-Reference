@@ -1,14 +1,14 @@
 ---
-title: WebTile.AsRaster
-second_title: Aspose.GIS لمرجع .NET API
-description: WebTile طريقة. يقدم محتوى التجانب كطبقة نقطية.
+title: "WebTile.AsRaster"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة WebTile. تعرض محتوى البلاطة كطبقة Raster"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster.web/webtile/asraster/
 ---
 ## WebTile.AsRaster method
 
-يقدم محتوى التجانب كطبقة نقطية.
+يعرض محتوى البلطة كطبقة رستر.
 
 ```csharp
 public abstract RasterLayer AsRaster()
@@ -16,13 +16,13 @@ public abstract RasterLayer AsRaster()
 
 ### قيمة الإرجاع
 
-النقطية.
+الـ Raster.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
 * class [WebTile](../)
-* مساحة الاسم [Aspose.Gis.Raster.Web](../../webtile/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster.Web](../../webtile/)
+* assembly [Aspose.GIS](../../../)
 
 

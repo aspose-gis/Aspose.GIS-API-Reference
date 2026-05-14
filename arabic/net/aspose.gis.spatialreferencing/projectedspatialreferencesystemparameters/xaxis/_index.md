@@ -1,14 +1,14 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.XAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters ملكية. المحور الذي يصف البعد X الأفقي. افتراضات للمحور باتجاه الشرق .
+title: "ProjectedSpatialReferenceSystemParameters.XAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystemParameters. المحور الذي يصف البعد الأفقي X. القيمة الافتراضية هي المحور المتجه نحو الشرق."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/
 ---
 ## ProjectedSpatialReferenceSystemParameters.XAxis property
 
-المحور الذي يصف البعد X (الأفقي). افتراضات للمحور باتجاه الشرق .
+المحور الذي يصف البُعد X (الأفقي). الافتراضي هو المحور باتجاه الشرق.
 
 ```csharp
 public Axis XAxis { get; set; }
@@ -16,15 +16,15 @@ public Axis XAxis { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | يتم إلقاؤه من واضع إذا لم يكن اتجاه المحورEast أوWest . |
+| ArgumentException | يُرمى من الدالة setter إذا كان اتجاه المحور ليس شرقًا أو غربًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../../axis/)
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

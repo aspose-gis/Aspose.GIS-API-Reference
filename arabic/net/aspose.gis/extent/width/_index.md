@@ -1,23 +1,23 @@
 ---
-title: Extent.Width
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent ملكية. عرض المدى.
+title: "Extent.Width"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Extent. عرض النطاق"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/extent/width/
 ---
 ## Extent.Width property
 
-عرض المدى.
+عرض الامتداد.
 
 ```csharp
 public double Width { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

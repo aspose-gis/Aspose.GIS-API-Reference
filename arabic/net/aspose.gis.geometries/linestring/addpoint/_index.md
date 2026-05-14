@@ -1,102 +1,102 @@
 ---
-title: LineString.AddPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. يضيف نقطة إلى نهاية السطر .
+title: "LineString.AddPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تضيف نقطة إلى نهاية الخط"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/linestring/addpoint/
 ---
 ## AddPoint(IPoint) {#addpoint}
 
-يضيف نقطة إلى نهاية السطر .
+يضيف نقطة إلى نهاية الخط.
 
 ```csharp
 public void AddPoint(IPoint point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | IPoint | النقطة التي يجب إضافتها. |
+| نقطة | IPoint | النقطة لإضافتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | الوسيطة فارغة (ملف[`IsEmpty`](../../igeometry/isempty/) يكون`true` ) . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما لا`null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | المعامل فارغ (دالة [`IsEmpty`](../../igeometry/isempty/) الخاصة به هي `true`). |
+| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AddPoint(double, double) {#addpoint_1}
 
-يضيف نقطة إلى نهاية السطر .
+يضيف نقطة إلى نهاية الخط.
 
 ```csharp
 public void AddPoint(double x, double y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AddPoint(double, double, double) {#addpoint_2}
 
-يضيف نقطة إلى نهاية السطر .
+يضيف نقطة إلى نهاية الخط.
 
 ```csharp
 public void AddPoint(double x, double y, double z)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
-| z | Double | قيمة الإحداثي ع. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
+| z | Double | القيمة لإحداثي Z. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AddPoint(double, double, double, double) {#addpoint_3}
 
-يضيف نقطة إلى نهاية السطر .
+يضيف نقطة إلى نهاية الخط.
 
 ```csharp
 public void AddPoint(double x, double y, double z, double m)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
-| z | Double | قيمة الإحداثي ع. |
-| m | Double | قيمة إحداثيات M. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
+| z | Double | القيمة لإحداثي Z. |
+| m | Double | القيمة لإحداثي M. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

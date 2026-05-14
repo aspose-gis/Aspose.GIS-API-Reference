@@ -1,7 +1,7 @@
 ---
-title: RasterCellSize.Width
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterCellSize ملكية. احسب عرض البكسل.
+title: "RasterCellSize.Width"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterCellSize. حساب عرض البكسل"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.raster/rastercellsize/width/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.raster/rastercellsize/width/
 public double Width { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

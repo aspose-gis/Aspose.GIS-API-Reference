@@ -1,23 +1,23 @@
 ---
-title: GeographicDatum.Etrs89
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicDatum ملكية. ETRS 89 datum.
+title: "GeographicDatum.Etrs89"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicDatum. مرجع ETRS 89"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/etrs89/
 ---
 ## GeographicDatum.Etrs89 property
 
-ETRS 89 datum.
+المرجع ETRS 89.
 
 ```csharp
 public static GeographicDatum Etrs89 { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

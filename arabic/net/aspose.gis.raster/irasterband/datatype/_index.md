@@ -1,24 +1,24 @@
 ---
-title: IRasterBand.DataType
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterBand ملكية. الحصول على نوع القيم المخزنة في كل خلية.
+title: "IRasterBand.DataType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IRasterBand. تُرجع نوع القيم المخزنة في كل خلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/irasterband/datatype/
 ---
 ## IRasterBand.DataType property
 
-الحصول على نوع القيم المخزنة في كل خلية.
+يحصل على نوع القيم المخزنة في كل خلية.
 
 ```csharp
 public BandTypes DataType { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BandTypes](../../bandtypes/)
 * interface [IRasterBand](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irasterband/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irasterband/)
+* assembly [Aspose.GIS](../../../)
 
 

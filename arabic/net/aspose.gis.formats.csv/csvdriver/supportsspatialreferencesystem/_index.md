@@ -1,36 +1,36 @@
 ---
-title: CsvDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvDriver طريقة. تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+title: "CsvDriver.SupportsSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CsvDriver. تحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.formats.csv/csvdriver/supportsspatialreferencesystem/
 ---
 ## CsvDriver.SupportsSpatialReferenceSystem method
 
-تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل.
 
 ```csharp
 public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان السائق يدعم نظام الإسناد المكاني المحدد.
+قيمة منطقية، تشير إلى ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق.
 
-### ملاحظات
+## ملاحظات
 
-بالنسبة إلى CSV ، فإن نظام الإسناد المكاني الوحيد المدعوم هو WGS84.
+بالنسبة إلى CSV، نظام الإحداثيات المكانية المدعوم الوحيد هو WGS84.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [CsvDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

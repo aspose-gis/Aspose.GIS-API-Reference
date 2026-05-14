@@ -1,7 +1,7 @@
 ---
-title: SimpleMarker.StrokeLineJoin
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker ملكية. يحدد كيفية عرض الخطوط عند تقاطع مقاطع الخط.
+title: "SimpleMarker.StrokeLineJoin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleMarker. تحدد كيفية عرض الخطوط عند تقاطع مقاطع الخط"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/strokelinejoin/
 public LineJoin StrokeLineJoin { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineJoin](../../../aspose.gis.rendering/linejoin/)
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

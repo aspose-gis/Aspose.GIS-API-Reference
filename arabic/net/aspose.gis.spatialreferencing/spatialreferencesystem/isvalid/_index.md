@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.IsValid
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. نفسValidate  ولكن لا تقم بإرجاع رسالة الخطأ.
+title: "SpatialReferenceSystem.IsValid"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. نفس Validate لكن لا تُرجع رسالة خطأ"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/isvalid/
 ---
 ## SpatialReferenceSystem.IsValid property
 
-نفس[`Validate`](../validate/) ، ولكن لا تقم بإرجاع رسالة الخطأ.
+نفس [`Validate`](../validate/)، لكن لا تُرجع رسالة خطأ.
 
 ```csharp
 public bool IsValid { get; }
@@ -16,12 +16,12 @@ public bool IsValid { get; }
 
 ### قيمة الإرجاع
 
-`true` إذا كانت SRS صالحة ،`false` خلاف ذلك.
+`true` إذا كان الـ SRS صالحًا، `false` غير ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

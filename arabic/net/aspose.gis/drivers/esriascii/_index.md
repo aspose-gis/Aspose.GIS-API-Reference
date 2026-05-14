@@ -1,24 +1,24 @@
 ---
-title: Drivers.EsriAscii
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لتنسيق البيانات النقطية Esri AscII .
+title: "Drivers.EsriAscii"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل لتنسيق Esri AscII النقطي"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.gis/drivers/esriascii/
 ---
 ## Drivers.EsriAscii property
 
-برنامج تشغيل لتنسيق البيانات النقطية Esri AscII .
+برنامج تشغيل لتنسيق Esri AscII النقطي.
 
 ```csharp
 public static EsriAsciiDriver EsriAscii { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EsriAsciiDriver](../../../aspose.gis.formats.esriascii/esriasciidriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

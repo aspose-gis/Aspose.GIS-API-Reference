@@ -1,14 +1,14 @@
 ---
-title: IGeometry.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. استنساخ هذا المثال .
+title: "IGeometry.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. تستنسخ هذه العينة"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/igeometry/clone/
 ---
 ## IGeometry.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public Geometry Clone()
@@ -16,13 +16,13 @@ public Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

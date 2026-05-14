@@ -1,39 +1,39 @@
 ---
-title: XyzTilesDriver.OpenLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzTilesDriver طريقة. يفتح مجموعة المربعات .
+title: "XyzTilesDriver.OpenLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة XyzTilesDriver. يفتح مجموعة البلاط"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.xyztile/xyztilesdriver/openlayer/
 ---
 ## XyzTilesDriver.OpenLayer method
 
-يفتح مجموعة المربعات .
+يفتح مجموعة البلاط.
 
 ```csharp
 public XyzTiles OpenLayer(XyzConnection connection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| connection | XyzConnection | اتصال لتنسيق XyzTiles. |
+| الاتصال | XyzConnection | اتصال لتنسيق XyzTiles. |
 
 ### قيمة الإرجاع
 
-مثال على[`XyzTiles`](../../xyztiles/).
+نسخة من [`XyzTiles`](../../xyztiles/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الاتصال`null`. |
+| ArgumentNullException | الاتصال هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XyzTiles](../../xyztiles/)
 * class [XyzConnection](../../xyzconnection/)
 * class [XyzTilesDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

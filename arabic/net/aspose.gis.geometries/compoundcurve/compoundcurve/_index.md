@@ -1,78 +1,78 @@
 ---
-title: CompoundCurve.CompoundCurve
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve البناء. يقوم بتهيئة مثيل جديد لملفCompoundCurve فئة .
+title: "CompoundCurve.CompoundCurve"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ CompoundCurve. يهيئ نسخة جديدة من فئة CompoundCurve"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/compoundcurve/compoundcurve/
 ---
 ## CompoundCurve() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CompoundCurve`](../) فئة .
+يهيئ نسخة جديدة من فئة [`CompoundCurve`](../).
 
 ```csharp
 public CompoundCurve()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CompoundCurve(IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`CompoundCurve`](../) فئة .
+يهيئ نسخة جديدة من فئة [`CompoundCurve`](../).
 
 ```csharp
 public CompoundCurve(IEnumerable<ICurve> curves)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| curves | IEnumerable`1 | جمع المنحنيات. |
+| منحنيات | IEnumerable`1 | مجموعة المنحنيات. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة أو أي من عناصرها`null`. |
-| ArgumentException | يوجد على الأقل نظامان غير فارغين للإسناد المكاني لا يتساوى أحدهما مع الآخر. |
+| ArgumentNullException | المعامل أو أي من عناصره هو `null`. |
+| ArgumentException | هناك نظاما إسناد مكاني غير فارغ على الأقل لا يتساويان مع بعضهما. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CompoundCurve(ICompoundCurve) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CompoundCurve`](../) فئة .
+يهيئ نسخة جديدة من فئة [`CompoundCurve`](../).
 
 ```csharp
 public CompoundCurve(ICompoundCurve other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | ICompoundCurve | السطر الآخر لنسخ البيانات منه. |
+| آخر | ICompoundCurve | الخط الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICompoundCurve](../../icompoundcurve/)
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

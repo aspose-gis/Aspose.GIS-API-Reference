@@ -1,28 +1,28 @@
 ---
-title: Class WebTiles
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.Web.WebTiles فصل. يوفر الوصول إلى مربعات الويب .
+title: "الفئة WebTiles"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.Web.WebTiles. توفر الوصول إلى بلاطات الويب"
 type: docs
-weight: 1450
+weight: 3890
 url: /ar/net/aspose.gis.raster.web/webtiles/
 ---
 ## WebTiles class
 
-يوفر الوصول إلى مربعات الويب .
+يوفر الوصول إلى تجزئات الويب.
 
 ```csharp
 public abstract class WebTiles : IDisposable
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Dispose](../../aspose.gis.raster.web/webtiles/dispose/)() | ينفذ المهام المحددة من قبل التطبيق والمرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
+| abstract [Dispose](../../aspose.gis.raster.web/webtiles/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المُدارة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster.Web](../../aspose.gis.raster.web/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster.Web](../../aspose.gis.raster.web/)
+* assembly [Aspose.GIS](../../)
 
 

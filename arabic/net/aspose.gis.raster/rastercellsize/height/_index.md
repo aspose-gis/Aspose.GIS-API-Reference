@@ -1,7 +1,7 @@
 ---
-title: RasterCellSize.Height
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterCellSize ملكية. احسب ارتفاع البكسل.
+title: "RasterCellSize.Height"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterCellSize. حساب ارتفاع البكسل"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/rastercellsize/height/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.raster/rastercellsize/height/
 public double Height { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

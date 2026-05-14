@@ -1,79 +1,81 @@
 ---
-title: IGeometry.Intersects
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. لتحديد ما إذا كانت هذه الهندسة تتقاطع مع حد معين.
+title: "IGeometry.Intersects"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. يحدد ما إذا كان هذا الشكل يتقاطع مع نطاق محدد"
 type: docs
 weight: 270
 url: /ar/net/aspose.gis.geometries/igeometry/intersects/
 ---
 ## Intersects(Extent) {#intersects}
 
-لتحديد ما إذا كانت هذه الهندسة تتقاطع مع حد معين.
+يحدد ما إذا كانت هذه الهندسة تتقاطع مع نطاق محدد.
 
 ```csharp
 public bool Intersects(Extent extent)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| extent | Extent | المدى. |
+| مدى | مدى | المدى. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة تتقاطع مع المدى ؛`false` خلاف ذلك.
+`true` إذا كان هذا الشكل يتقاطع مع المدى؛ `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [Intersects](../../../aspose.gis/extent/intersects/)
 * class [Extent](../../../aspose.gis/extent/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Intersects(IGeometry) {#intersects_1}
 
-لتحديد ما إذا كانت هذه الهندسة والهندسة المحددة تتقاطع.
+يحدد ما إذا كانت هذه الهندسة وهندسة محددة تتقاطع.
 
 ```csharp
 public bool Intersects(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "تتقاطع مكانيًا" مع هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كان هذا الشكل "يتقاطع مكانيًا" مع شكل آخر. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
 
-### ملاحظات
+## ملاحظات
 
-هذه الطريقة تعادل: هذا هو نفي[`Disjoint`](../disjoint/) . يرى[`Disjoint`](../disjoint/) لمزيد من التفاصيل.
+هذه الطريقة مكافئة لـ:
 
 ```csharp
 !this.Disjoint(other);
 ```
 
-### أنظر أيضا
+هذا هو نفي [`Disjoint`](../disjoint/). راجع [`Disjoint`](../disjoint/) لمزيد من التفاصيل.
+
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

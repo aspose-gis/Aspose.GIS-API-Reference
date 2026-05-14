@@ -1,23 +1,23 @@
 ---
-title: BursaWolfParameters.Null
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters ملكية. قيمة خاصة  تشير إلى أن المعلمات غير معروفة.
+title: "BursaWolfParameters.Null"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BursaWolfParameters. قيمة خاصة تشير إلى أن المعلمات غير معروفة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/null/
 ---
 ## BursaWolfParameters.Null property
 
-قيمة خاصة ، تشير إلى أن المعلمات غير معروفة.
+قيمة خاصة، تشير إلى أن المعلمات غير معروفة.
 
 ```csharp
 public static BursaWolfParameters Null { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

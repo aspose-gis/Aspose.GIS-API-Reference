@@ -1,32 +1,32 @@
 ---
-title: CompoundCurve.op_Inequality
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve طريقة. تنفذ عامل التشغيل  .
+title: "CompoundCurve.op_Inequality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundCurve. تنفذ العامل"
 type: docs
 weight: 210
 url: /ar/net/aspose.gis.geometries/compoundcurve/op_inequality/
 ---
 ## CompoundCurve Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفذ العامل !=.
 
 ```csharp
 public static bool operator !=(CompoundCurve a, CompoundCurve b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | CompoundCurve | المثال. |
-| b | CompoundCurve | المثيل B. |
+| a | CompoundCurve | الكائن A. |
+| b | CompoundCurve | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

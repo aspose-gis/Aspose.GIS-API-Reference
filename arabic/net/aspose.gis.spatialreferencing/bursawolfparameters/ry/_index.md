@@ -1,23 +1,23 @@
 ---
-title: BursaWolfParameters.Ry
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters ملكية. راي في ثوان.
+title: "BursaWolfParameters.Ry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BursaWolfParameters. Ry بالثواني"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/ry/
 ---
 ## BursaWolfParameters.Ry property
 
-راي في ثوان.
+Ry بالثواني.
 
 ```csharp
 public double Ry { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

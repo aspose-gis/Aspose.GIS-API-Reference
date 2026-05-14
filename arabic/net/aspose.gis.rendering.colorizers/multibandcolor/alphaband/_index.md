@@ -1,24 +1,24 @@
 ---
-title: MultiBandColor.AlphaBand
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiBandColor ملكية. يحدد مكون ألفا لخطوط المسح لدينا.
+title: "MultiBandColor.AlphaBand"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiBandColor. تحدد المكوّن ألفا للراستر الخاص بنا"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/alphaband/
 ---
 ## MultiBandColor.AlphaBand property
 
-يحدد مكون ألفا لخطوط المسح لدينا.
+يحدد المكوّن ألفا للراستر الخاص بنا.
 
 ```csharp
 public BandColor AlphaBand { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../../bandcolor/)
 * class [MultiBandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,31 +1,31 @@
 ---
-title: IRasterValues.EqualsNoData
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterValues طريقة. للتحقق مما إذا كانت القيمة تمثل الخلفية أو لا توجد بيانات في النطاق المحدد.
+title: "IRasterValues.EqualsNoData"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IRasterValues. تتحقق مما إذا كانت القيمة تمثل الخلفية أو عدم وجود بيانات في النطاق المحدد"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.raster/irastervalues/equalsnodata/
 ---
 ## IRasterValues.EqualsNoData method
 
-للتحقق مما إذا كانت القيمة تمثل الخلفية أو "لا توجد بيانات" في النطاق المحدد.
+يتحقق مما إذا كانت القيمة تمثل الخلفية أو 'no data' في الشريط المحدد.
 
 ```csharp
 public bool EqualsNoData(int bandIndex = 0)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bandIndex | Int32 | فهرس الفرقة. يبدأ الترقيم من 0. |
+| bandIndex | Int32 | فهرس النطاق. يبدأ الترقيم من 0. |
 
 ### قيمة الإرجاع
 
-إرجاع "صحيح" إذا كان يمثل الخلفية أو "لا توجد بيانات".
+أرجع 'true' إذا كانت تمثل الخلفية أو 'no data'.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterValues](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irastervalues/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastervalues/)
+* assembly [Aspose.GIS](../../../)
 
 

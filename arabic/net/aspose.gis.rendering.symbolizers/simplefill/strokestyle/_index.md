@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.StrokeStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill ملكية. يحدد كيفية رسم خطوط الرمز.
+title: "SimpleFill.StrokeStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleFill. تحدد كيفية رسم خطوط الرمز"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokestyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokestyle/
 public StrokeStyle StrokeStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StrokeStyle](../../../aspose.gis.rendering/strokestyle/)
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

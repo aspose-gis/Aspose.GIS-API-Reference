@@ -1,23 +1,23 @@
 ---
-title: RasterCellSize.ScaleY
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterCellSize ملكية. الحصول على أو تعيين مكون ص لارتفاع البكسل مقياس ص  سالب عادةً.
+title: "RasterCellSize.ScaleY"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterCellSize. تحصل أو تعين المكوّن y للارتفاع البكسل yscale عادةً سالب"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/rastercellsize/scaley/
 ---
 ## RasterCellSize.ScaleY property
 
-الحصول على أو تعيين مكون ص لارتفاع البكسل (مقياس ص) ، سالب عادةً.
+الحصول أو تعيين المكوّن y لارتفاع البكسل (y-scale)، عادةً سالب.
 
 ```csharp
 public double ScaleY { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

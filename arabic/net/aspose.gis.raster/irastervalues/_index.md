@@ -1,14 +1,14 @@
 ---
-title: Interface IRasterValues
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.IRasterValues واجهه المستخدم. يوفر الوصول إلى قيم النطاقات النقطية.
+title: "الواجهة IRasterValues"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Raster.IRasterValues. توفر الوصول إلى قيم أشرطة الرستر"
 type: docs
-weight: 1350
+weight: 3790
 url: /ar/net/aspose.gis.raster/irastervalues/
 ---
 ## IRasterValues interface
 
-يوفر الوصول إلى قيم النطاقات النقطية.
+يوفر الوصول إلى قيم أشرطة الراستر.
 
 ```csharp
 public interface IRasterValues
@@ -16,29 +16,29 @@ public interface IRasterValues
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Item](../../aspose.gis.raster/irastervalues/item/) { get; } | يحصل على قيمة النطاق كملف`double` اكتب . |
+| [Item](../../aspose.gis.raster/irastervalues/item/) { get; } | يحصل على قيمة الشريط كنوع `double`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AsBoolean](../../aspose.gis.raster/irastervalues/asboolean/)(int) | يحول بيانات النطاق المحدد إلى ملف`bool` القيمة . |
-| [AsByte](../../aspose.gis.raster/irastervalues/asbyte/)(int) | يحول بيانات النطاق المحدد إلى ملف`byte` القيمة . |
-| [AsDouble](../../aspose.gis.raster/irastervalues/asdouble/)(int) | يحول بيانات النطاق المحدد إلى ملف`double` القيمة . |
-| [AsFloat](../../aspose.gis.raster/irastervalues/asfloat/)(int) | يحول بيانات النطاق المحدد إلى ملف`float` القيمة . |
-| [AsInteger](../../aspose.gis.raster/irastervalues/asinteger/)(int) | يحول بيانات النطاق المحدد إلى ملف`int` القيمة . |
-| [AsLong](../../aspose.gis.raster/irastervalues/aslong/)(int) | يحول بيانات النطاق المحدد إلى ملف`long` القيمة . |
-| [AsRawBits](../../aspose.gis.raster/irastervalues/asrawbits/)() | احصل على وحدات بت خام لجميع قيم النطاقات . |
-| [AsShort](../../aspose.gis.raster/irastervalues/asshort/)(int) | يحول بيانات النطاق المحدد إلى ملف`short` القيمة . |
-| [EqualsNoData](../../aspose.gis.raster/irastervalues/equalsnodata/)(int) | للتحقق مما إذا كانت القيمة تمثل الخلفية أو "لا توجد بيانات" في النطاق المحدد. |
-| [GetDataType](../../aspose.gis.raster/irastervalues/getdatatype/)(int) | يحصل على نوع القيم . |
-| [IsNull](../../aspose.gis.raster/irastervalues/isnull/)(int) | للتحقق مما إذا تم تعيين قيمة البيانات النقطية في النطاق المحدد. |
+| [AsBoolean](../../aspose.gis.raster/irastervalues/asboolean/)(int) | يحوّل بيانات الشريط المحدد إلى قيمة `bool`. |
+| [AsByte](../../aspose.gis.raster/irastervalues/asbyte/)(int) | يحوّل بيانات الشريط المحدد إلى قيمة `byte`. |
+| [AsDouble](../../aspose.gis.raster/irastervalues/asdouble/)(int) | يحوّل بيانات الشريط المحدد إلى قيمة `double`. |
+| [AsFloat](../../aspose.gis.raster/irastervalues/asfloat/)(int) | يحوّل بيانات الشريط المحدد إلى قيمة `float`. |
+| [AsInteger](../../aspose.gis.raster/irastervalues/asinteger/)(int) | يحوّل بيانات الشريط المحدد إلى قيمة `int`. |
+| [AsLong](../../aspose.gis.raster/irastervalues/aslong/)(int) | يحوّل بيانات الشريط المحدد إلى قيمة `long`. |
+| [AsRawBits](../../aspose.gis.raster/irastervalues/asrawbits/)() | احصل على البتات الخام لجميع قيم الأشرطة. |
+| [AsShort](../../aspose.gis.raster/irastervalues/asshort/)(int) | يحوّل بيانات الشريط المحدد إلى قيمة `short`. |
+| [EqualsNoData](../../aspose.gis.raster/irastervalues/equalsnodata/)(int) | يتحقق مما إذا كانت القيمة تمثل الخلفية أو 'no data' في الشريط المحدد. |
+| [GetDataType](../../aspose.gis.raster/irastervalues/getdatatype/)(int) | يحصل على نوع القيم. |
+| [IsNull](../../aspose.gis.raster/irastervalues/isnull/)(int) | يتحقق مما إذا كانت قيمة الرستر مضبوطة في الشريط المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

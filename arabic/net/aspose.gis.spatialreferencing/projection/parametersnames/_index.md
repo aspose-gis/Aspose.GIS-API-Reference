@@ -1,23 +1,23 @@
 ---
-title: Projection.ParametersNames
-second_title: Aspose.GIS لمرجع .NET API
-description: Projection ملكية. الحصول على مجموعة لا حصر لها من أسماء المعلمات المعطاة لهذا الإسقاط
+title: "Projection.ParametersNames"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Projection. تحصل على مجموعة قابلة للتعداد من أسماء المعاملات المخصصة لهذا الإسقاط"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/projection/parametersnames/
 ---
 ## Projection.ParametersNames property
 
-الحصول على مجموعة لا حصر لها من أسماء المعلمات المعطاة لهذا الإسقاط
+يحصل على مجموعة قابلة للتعداد من أسماء المعلمات المخصصة لهذا الإسقاط
 
 ```csharp
 public IList<string> ParametersNames { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Projection](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projection/)
+* assembly [Aspose.GIS](../../../)
 
 

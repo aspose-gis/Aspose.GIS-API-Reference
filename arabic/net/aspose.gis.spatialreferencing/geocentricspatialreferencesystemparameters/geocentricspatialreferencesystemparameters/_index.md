@@ -1,23 +1,23 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.GeocentricSpatialReferenceSystemParameters
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystemParameters البناء. Default_Constructor
+title: "GeocentricSpatialReferenceSystemParameters.GeocentricSpatialReferenceSystemParameters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GeocentricSpatialReferenceSystemParameters. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/geocentricspatialreferencesystemparameters/
 ---
 ## GeocentricSpatialReferenceSystemParameters constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public GeocentricSpatialReferenceSystemParameters()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

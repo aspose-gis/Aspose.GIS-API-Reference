@@ -1,39 +1,39 @@
 ---
-title: IGeometry.Difference
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. يطرح هندسة محددة من هذه الهندسة .
+title: "IGeometry.Difference"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. تطرح هندسة محددة من هذه الهندسة"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.geometries/igeometry/difference/
 ---
 ## IGeometry.Difference method
 
-يطرح هندسة محددة من هذه الهندسة .
+يطرح هندسة محددة من هذه الهندسة.
 
 ```csharp
 public IGeometry Difference(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة لطرحها. |
+| آخر | IGeometry | شكل هندسي للطرح. |
 
 ### قيمة الإرجاع
 
-شكل هندسي يمثل اختلافًا في هذه الهندسة والوسيطة. تحتوي هندسة النتيجة على مجموعة النقاط الموجودة في هذه الهندسة ولكنها غير موجودة في وسيطة.
+شكل هندسي يمثل الفرق بين هذا الشكل الهندسي ومعامل. يحتوي الشكل الهندسي الناتج على مجموعة نقاط موجودة في هذا الشكل الهندسي ولكن غير موجودة في المعامل.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *other* يكون`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | *other* هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

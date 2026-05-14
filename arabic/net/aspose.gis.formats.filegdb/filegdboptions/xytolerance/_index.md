@@ -1,27 +1,27 @@
 ---
-title: FileGdbOptions.XYTolerance
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbOptions ملكية. التسامح X و Y التقاط .
+title: "FileGdbOptions.XYTolerance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbOptions. تحمل الالتقاط لمحوري X و Y"
 type: docs
-weight: 70
+weight: 100
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/xytolerance/
 ---
 ## FileGdbOptions.XYTolerance property
 
-التسامح X و Y التقاط .
+تحمل الالتقاط للمحاور X و Y.
 
 ```csharp
 public double? XYTolerance { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-هذا خيار إنشاء ولا يؤثر على القراءة . تتحكم هذه المعلمة في تفاوت الانطباق المستخدم لميزات ArcGIS المتقدمة . لا تؤثر على سلوك Aspose.GIS ، ولكن يمكن استخدامها بواسطة ArcGIS. وحدة المعلمة هي وحدة نظام الإسناد المكاني . إذا تم ضبطها على`null`، يتم استخدام الافتراضي. يعتمد الإعداد الافتراضي على نظام الإسناد المكاني ويساوي 0.000000008983153 درجة للأنظمة الجغرافية أو 0.001 مترًا للأنظمة المسقطة (يتم تحويل القيم إلى وحدات نظام الإسناد المكاني) . إذا كان نظام الإسناد المكاني غير معروف ، يكون الافتراضي هو 0.001.
+هذا خيار إنشاء ولا يؤثر على القراءة والتحرير. يتحكم هذا المعامل في تحمل الالتقاط المستخدم لميزات ArcGIS المتقدمة. لا يؤثر على سلوك Aspose.GIS، لكنه يمكن أن يستخدمه ArcGIS. وحدة المعامل هي وحدة نظام الإسناد المكاني. إذا تم تعيينه إلى `null`، يتم استخدام القيمة الافتراضية. القيمة الافتراضية تعتمد على نظام الإسناد المكاني وتساوي 0.000000008983153 درجة للأنظمة الجغرافية أو 0.001 متر للأنظمة الإسقاطية (يتم تحويل القيم إلى وحدات نظام الإسناد المكاني). إذا كان نظام الإسناد المكاني غير معروف فإن القيمة الافتراضية هي 0.001.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

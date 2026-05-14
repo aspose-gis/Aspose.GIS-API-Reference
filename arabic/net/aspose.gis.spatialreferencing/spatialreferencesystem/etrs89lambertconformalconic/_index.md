@@ -1,24 +1,24 @@
 ---
-title: SpatialReferenceSystem.Etrs89LambertConformalConic
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. ETRS 89 / Lambert Conformal Conic EPSG 3034 نظام الإسناد المكاني.
+title: "SpatialReferenceSystem.Etrs89LambertConformalConic"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. نظام الإحداثيات ETRS 89 / Lambert Conformal Conic EPSG3034"
 type: docs
 weight: 270
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/etrs89lambertconformalconic/
 ---
 ## SpatialReferenceSystem.Etrs89LambertConformalConic property
 
-ETRS 89 / Lambert Conformal Conic (EPSG: 3034) نظام الإسناد المكاني.
+ETRS 89 / Lambert Conformal Conic (EPSG:3034) نظام الإحداثيات.
 
 ```csharp
 public static ProjectedSpatialReferenceSystem Etrs89LambertConformalConic { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystem](../../projectedspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

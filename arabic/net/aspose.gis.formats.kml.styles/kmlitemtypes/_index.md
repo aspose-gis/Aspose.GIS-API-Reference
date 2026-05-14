@@ -1,31 +1,31 @@
 ---
-title: Enum KmlItemTypes
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlItemTypes تعداد. يحدد كيفية عرض KML الميزة ومحتوياتها كعناصر في عرض القائمة.
+title: "التعداد KmlItemTypes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Formats.Kml.Styles.KmlItemTypes. تحدد كيفية عرض kmlFeature ومحتوياته كعناصر في عرض القائمة"
 type: docs
-weight: 520
+weight: 2160
 url: /ar/net/aspose.gis.formats.kml.styles/kmlitemtypes/
 ---
 ## KmlItemTypes enumeration
 
-يحدد كيفية عرض KML: الميزة ومحتوياتها كعناصر في عرض القائمة.
+يحدد كيفية عرض kml:Feature ومحتوياته كعناصر في عرض القائمة.
 
 ```csharp
 public enum KmlItemTypes
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| RadioFolder | `0` | يجب أن يكون عنصر واحد فقط مرئيًا في كل مرة. |
-| Check | `1` | ترتبط الرؤية بخانة اختيار العنصر الخاص بها |
-| CheckHideChildren | `2` | استخدم مربع اختيار عادي للرؤية ولكن لا تعرض العناصر الفرعية للعنصر في عرض القائمة. |
-| CheckOffOnly | `3` | يمنع جعل جميع العناصر مرئية في وقت واحد — أي ، يمكن للمستخدم إيقاف تشغيل كل شيء في "مجموعة الحاوية" ولكن لا يمكنه تشغيل كل شيء في نفس الوقت. |
+| RadioFolder | `0` | يجب أن يكون عنصر واحد فقط مرئياً في كل مرة. |
+| Check | `1` | الظهور مرتبط بخانة الاختيار الخاصة بالعنصر |
+| CheckHideChildren | `2` | استخدم خانة اختيار عادية للظهور ولكن لا تعرض العناصر الفرعية للعنصر في عرض القائمة. |
+| CheckOffOnly | `3` | يمنع جعل جميع العناصر مرئية مرة واحدة — أي أن المستخدم يمكنه إيقاف تشغيل كل شيء في مجموعة الحاوية لكنه لا يمكنه تشغيل كل شيء في نفس الوقت. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

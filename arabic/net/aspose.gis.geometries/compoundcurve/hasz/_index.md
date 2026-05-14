@@ -1,27 +1,27 @@
 ---
-title: CompoundCurve.HasZ
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+title: "CompoundCurve.HasZ"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundCurve. تحصل على قيمة تُشير إلى ما إذا كان هذا الكائن يمتلك إحداثيات Z"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/compoundcurve/hasz/
 ---
 ## CompoundCurve.HasZ property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية Z.
 
 ```csharp
 public bool HasZ { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان هذا المثال يحتوي على إحداثيات Z ؛ خلاف ذلك،`false` .
+`true` إذا كان لهذا الكائن إحداثيات Z؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

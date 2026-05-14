@@ -1,23 +1,23 @@
 ---
-title: KmlListStyle.MaxSnippetLines
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlListStyle ملكية. يحدد الحد الأقصى لعدد الأسطر التي سيتم عرضها في عرض القائمة. القيمة الافتراضية هي 2.
+title: "KmlListStyle.MaxSnippetLines"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlListStyle. تحدد الحد الأقصى لعدد الأسطر لعرضها في عرض القائمة. القيمة الافتراضية هي 2"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/maxsnippetlines/
 ---
 ## KmlListStyle.MaxSnippetLines property
 
-يحدد الحد الأقصى لعدد الأسطر التي سيتم عرضها في عرض القائمة. القيمة الافتراضية هي "2".
+تحدد الحد الأقصى لعدد الأسطر التي تُعرض في عرض القائمة. القيمة الافتراضية هي '2'.
 
 ```csharp
 public int MaxSnippetLines { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlListStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlliststyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlliststyle/)
+* assembly [Aspose.GIS](../../../)
 
 

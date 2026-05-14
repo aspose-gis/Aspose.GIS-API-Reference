@@ -1,65 +1,65 @@
 ---
-title: VectorLayer.Add
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. يضيف معلمًا جديدًا إلى الطبقة  إذا كان مدعومًا من قبلVectorLayer سDriver .
+title: "VectorLayer.Add"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. يضيف ميزة جديدة إلى الطبقة إذا كان مدعومًا من قبل VectorLayers Driver"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/vectorlayer/add/
 ---
 ## Add(Feature) {#add}
 
-يضيف معلمًا جديدًا إلى الطبقة ، إذا كان مدعومًا من قبل[`VectorLayer`](../) س[`Driver`](../driver/) .
+يضيف ميزة جديدة إلى الطبقة، إذا كان مدعومًا من قبل [`VectorLayer`](../) الخاص بـ [`Driver`](../driver/).
 
 ```csharp
-public void Add(Feature feature)
+public virtual void Add(Feature feature)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| feature | Feature | الميزة المراد إضافتها. |
+| ميزة | Feature | الميزة التي سيتم إضافتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم طرحها إذا كانت الطبقة للقراءة فقط. |
+| InvalidOperationException | يتم إلقاؤه إذا كانت الطبقة للقراءة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../feature/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Add(Feature, IFeatureStyle) {#add_1}
 
-يضيف معلمًا جديدًا بالنمط المحدد إلى الطبقة ، إذا كان مدعومًا من قبل[`VectorLayer`](../) س[`Driver`](../driver/) .
+يضيف ميزة جديدة مع النمط المحدد إلى الطبقة، إذا كان مدعومًا من قبل [`VectorLayer`](../) الخاص بـ [`Driver`](../driver/).
 
 ```csharp
 public virtual void Add(Feature feature, IFeatureStyle style)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| feature | Feature | الميزة المراد إضافتها. |
-| style | IFeatureStyle | نمط الميزة. يستخدم`null` للإشارة إلى النمط المفقود. |
+| ميزة | Feature | الميزة التي سيتم إضافتها. |
+| نمط | IFeatureStyle | نمط الميزة. استخدم `null` للإشارة إلى عدم وجود نمط. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم طرحها إذا كانت الطبقة لا تدعم الأنماط أو كانت الطبقة للقراءة فقط. |
-| InvalidOperationException | يتم طرحها إذا كانت الطبقات القابلة للتحرير لا تدعم الأنماط. |
-| ArgumentException | يتم طرحه إذا كان النمط لا يتطابق مع نوع برنامج التشغيل. |
+| InvalidOperationException | يتم إلقاؤه إذا كانت الطبقة لا تدعم الأنماط أو كانت الطبقة للقراءة فقط. |
+| InvalidOperationException | يتم إلقاؤه إذا كانت الطبقات القابلة للتحرير لا تدعم الأنماط. |
+| ArgumentException | يتم إلقاؤه إذا كان النمط لا يتطابق مع نوع السائق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../feature/)
 * interface [IFeatureStyle](../../ifeaturestyle/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

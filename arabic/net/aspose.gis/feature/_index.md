@@ -1,14 +1,14 @@
 ---
-title: Class Feature
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Feature فصل. ميزة جغرافية تتكون من سمات هندسية ومعرفة من قبل المستخدم.
+title: "الفئة Feature"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Feature. ميزة جغرافية تتكون من شكل وسمات يحددها المستخدم"
 type: docs
-weight: 130
+weight: 1620
 url: /ar/net/aspose.gis/feature/
 ---
 ## Feature class
 
-ميزة جغرافية تتكون من سمات هندسية ومعرفة من قبل المستخدم.
+ميزة جغرافية مكوّنة من شكل هندسي وسمات معرفة من قبل المستخدم.
 
 ```csharp
 public class Feature
@@ -16,33 +16,33 @@ public class Feature
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Geometry](../../aspose.gis/feature/geometry/) { get; set; } | الحصول على هندسة الميزة أو تعيينها . لا يمكن ذلك`null` ، يستخدم[`Null`](../../aspose.gis.geometries/geometry/null/) للإشارة إلى الهندسة المفقودة. |
+| [Geometry](../../aspose.gis/feature/geometry/) { get; set; } | يحصل أو يعيّن شكل الميزة. لا يمكن أن يكون `null`، استخدم [`Null`](../../aspose.gis.geometries/geometry/null/) للدلالة على الشكل المفقود. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CopyValues](../../aspose.gis/feature/copyvalues/)(Feature) | ينسخ قيم السمات من ميزة أخرى . |
-| [GetValue](../../aspose.gis/feature/getvalue/#getvalue)(string) | الحصول على قيمة سمة . |
-| [GetValue&lt;T&gt;](../../aspose.gis/feature/getvalue/#getvalue_1)(string) | الحصول على قيمة سمة . |
-| [GetValueOrDefault](../../aspose.gis/feature/getvalueordefault/#getvalueordefault)(string, object) | يحصل على قيمة سمة ، أو[`DefaultValue`](../featureattribute/defaultvalue/) إذا كانت القيمة غير محددة أو`باطل` . |
-| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault/#getvalueordefault_1)(string) | يحصل على قيمة سمة ، أو[`DefaultValue`](../featureattribute/defaultvalue/) إذا كانت القيمة غير محددة أو`باطل` . |
-| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault/#getvalueordefault_2)(string, object) | يحصل على قيمة سمة ، أو[`DefaultValue`](../featureattribute/defaultvalue/) إذا كانت القيمة غير محددة أو`باطل` . |
-| [GetValues](../../aspose.gis/feature/getvalues/)(object[], object) | إرجاع قيم كافة السمات في مصفوفة. |
-| [GetValuesDump](../../aspose.gis/feature/getvaluesdump/)(object) | إرجاع قيم كافة السمات في مصفوفة. ضع في اعتبارك استخدام[`GetValues`](./getvalues/) طريقة لتجنب تخصيص الذاكرة الإضافية. |
-| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist/)(string, string) | الحصول على قيم تسلسل السمات كقائمة. |
-| [IsValueNull](../../aspose.gis/feature/isvaluenull/)(string) | تحديد ما إذا تم تعيين السمة المحددة بشكل صريح على`باطل` القيمة . |
-| [IsValueSet](../../aspose.gis/feature/isvalueset/)(string) | للتحقق مما إذا تم تعيين قيمة السمة في هذه الميزة. |
-| [SetValue&lt;T&gt;](../../aspose.gis/feature/setvalue/)(string, T) | يعين قيمة جديدة للسمة . |
-| [SetValueNull](../../aspose.gis/feature/setvaluenull/)(string) | لتعيين قيمة السمة إلى`باطل` . |
-| [SetValues](../../aspose.gis/feature/setvalues/)(object[]) | تعيين قيم جديدة لجميع السمات. ضع في اعتبارك أيضًا استخدام[`CopyValues`](./copyvalues/) طريقة لتبسيط قيم الإعداد في مكالمة واحدة. |
-| [UnsetValue](../../aspose.gis/feature/unsetvalue/)(string) | يزيل قيمة السمة من هذه الميزة . |
+| [CopyValues](../../aspose.gis/feature/copyvalues/)(Feature) | ينسخ قيم السمات من ميزة أخرى. |
+| [GetValue](../../aspose.gis/feature/getvalue/#getvalue)(string) | يحصل على قيمة سمة. |
+| [GetValue&lt;T&gt;](../../aspose.gis/feature/getvalue/#getvalue_1)(string) | يحصل على قيمة سمة. |
+| [GetValueOrDefault](../../aspose.gis/feature/getvalueordefault/#getvalueordefault)(string, object) | يحصل على قيمة سمة، أو [`DefaultValue`](../featureattribute/defaultvalue/) إذا لم تُحدد القيمة أو كانت `null`. |
+| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault/#getvalueordefault_1)(string) | يحصل على قيمة سمة، أو [`DefaultValue`](../featureattribute/defaultvalue/) إذا لم تُحدد القيمة أو كانت `null`. |
+| [GetValueOrDefault&lt;T&gt;](../../aspose.gis/feature/getvalueordefault/#getvalueordefault_2)(string, object) | يحصل على قيمة سمة، أو [`DefaultValue`](../featureattribute/defaultvalue/) إذا لم تُحدد القيمة أو كانت `null`. |
+| [GetValues](../../aspose.gis/feature/getvalues/)(object[], object) | يعيد القيم لجميع السمات في مصفوفة. |
+| [GetValuesDump](../../aspose.gis/feature/getvaluesdump/)(object) | يعيد القيم لجميع السمات في مصفوفة. يُنصح باستخدام طريقة [`GetValues`](./getvalues/) لتجنب تخصيص الذاكرة الإضافي. |
+| [GetValuesList&lt;T&gt;](../../aspose.gis/feature/getvalueslist/)(string, string, int) | يحصل على قيم تسلسل السمات كقائمة. |
+| [IsValueNull](../../aspose.gis/feature/isvaluenull/)(string) | يحدد ما إذا كانت السمة المحددة قد تم تعيينها صراحةً إلى القيمة `null`. |
+| [IsValueSet](../../aspose.gis/feature/isvalueset/)(string) | يفحص ما إذا كانت قيمة السمة مُعينة في هذه الميزة. |
+| [SetValue&lt;T&gt;](../../aspose.gis/feature/setvalue/)(string, T) | يضبط قيمة جديدة لسمة. |
+| [SetValueNull](../../aspose.gis/feature/setvaluenull/)(string) | يضبط قيمة السمة إلى `null`. |
+| [SetValues](../../aspose.gis/feature/setvalues/)(object[]) | يضبط قيمًا جديدة لجميع السمات. كما يُنصح باستخدام طريقة [`CopyValues`](./copyvalues/) لتبسيط تعيين القيم في استدعاء واحد. |
+| [UnsetValue](../../aspose.gis/feature/unsetvalue/)(string) | يزيل قيمة السمة من هذه الميزة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

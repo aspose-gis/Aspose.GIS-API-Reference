@@ -1,27 +1,27 @@
 ---
-title: WarpOptions.CellHeight
-second_title: Aspose.GIS لمرجع .NET API
-description: WarpOptions ملكية. يحدد ارتفاعًا جديدًا للخلية النقطية في الوحدات المستهدفة ذات المرجعية الجغرافية . إذا تم تعيين القيمة على 0 CellHeight يتم حسابها تلقائيًا. القيمة الافتراضية هي 0 .
+title: "WarpOptions.CellHeight"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية WarpOptions. تحدد ارتفاعًا جديدًا لخلية الراستر بوحدات الإحداثيات المستهدفة. إذا تم تعيين القيمة إلى 0 يتم حساب CellHeight تلقائيًا. القيمة الافتراضية هي 0"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/warpoptions/cellheight/
 ---
 ## WarpOptions.CellHeight property
 
-يحدد ارتفاعًا جديدًا للخلية النقطية (في الوحدات المستهدفة ذات المرجعية الجغرافية) . إذا تم تعيين القيمة على 0 ،`CellHeight` يتم حسابها تلقائيًا. القيمة الافتراضية هي "0" .
+يحدد ارتفاعًا جديدًا لخلية الراستر (بوحدات الإحداثيات المستهدفة). إذا تم تعيين القيمة إلى 0، يتم حساب `CellHeight` تلقائيًا. القيمة الافتراضية هي "0".
 
 ```csharp
 public double CellHeight { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-إذا تم تعيين ارتفاع الخلية على 0 ، فسيتم أخذ القيمة من ارتفاع الخلية الأصلي أو حسابها من[`Height`](../height/) . لاحظ أن`CellHeight` لا يمكن استخدامها مع[`Height`](../height/) .
+إذا تم تعيين ارتفاع الخلية إلى 0، سيتم أخذ القيمة من ارتفاع الخلية الأصلي أو حسابها من [`Height`](../height/). لاحظ أن `CellHeight` لا يمكن استخدامه مع [`Height`](../height/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WarpOptions](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../warpoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,27 +1,27 @@
 ---
-title: WarpOptions.Height
-second_title: Aspose.GIS لمرجع .NET API
-description: WarpOptions ملكية. يحدد ارتفاع الناتج النقطي بالبكسل والأعمدة. إذا تم تعيين القيمة على 0  فسيتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي 0 .
+title: "WarpOptions.Height"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية WarpOptions. تحدد ارتفاع الراستر الناتج بالبكسل والأعمدة. إذا تم تعيين القيمة إلى 0 يتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي 0"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.raster/warpoptions/height/
 ---
 ## WarpOptions.Height property
 
-يحدد ارتفاع الناتج النقطي بالبكسل والأعمدة. إذا تم تعيين القيمة على 0 ، فسيتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي "0" .
+يحدد ارتفاع رستر الإخراج بالبكسل والأعمدة. إذا تم ضبط القيمة على 0، يتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي \"0\".
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-إذا تم ضبط الارتفاع على 0 ، فسيتم أخذ القيمة من الارتفاع الأصلي أو حسابها منه[`CellHeight`](../cellheight/) . لاحظ أن`Height` لا يمكن استخدامها مع[`CellHeight`](../cellheight/) .
+إذا تم تعيين الارتفاع إلى 0، سيتم أخذ القيمة من الارتفاع الأصلي أو حسابها من [`CellHeight`](../cellheight/). لاحظ أن `Height` لا يمكن استخدامه مع [`CellHeight`](../cellheight/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WarpOptions](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../warpoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

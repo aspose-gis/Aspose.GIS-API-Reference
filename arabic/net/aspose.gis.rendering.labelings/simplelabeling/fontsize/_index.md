@@ -1,7 +1,7 @@
 ---
-title: SimpleLabeling.FontSize
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. حجم النص.
+title: "SimpleLabeling.FontSize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. حجم النص"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontsize/
@@ -16,15 +16,15 @@ public Measurement FontSize { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | القيمة ليست موجبة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,99 +1,99 @@
 ---
-title: EsriAsciiDriver.OpenLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: EsriAsciiDriver طريقة. يفتح الطبقة للقراءة .
+title: "EsriAsciiDriver.OpenLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة EsriAsciiDriver. يفتح الطبقة للقراءة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.esriascii/esriasciidriver/openlayer/
 ---
 ## OpenLayer(AbstractPath, RasterDriverOptions) {#openlayer_2}
 
-يفتح الطبقة للقراءة .
+يفتح الطبقة للقراءة.
 
 ```csharp
 public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | RasterDriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | RasterDriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات البيانات النقطية (انظر[`CanOpenLayers`](../canopenlayers/)). |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح طبقات الراستر (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [RasterDriverOptions](../../../aspose.gis/rasterdriveroptions/)
 * class [EsriAsciiDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriAscii](../../esriasciidriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriAscii](../../esriasciidriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(string, EsriAsciiOptions) {#openlayer_4}
 
-يفتح طبقة للقراءة .
+يفتح طبقة للقراءة.
 
 ```csharp
 public RasterLayer OpenLayer(string path, EsriAsciiOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | EsriAsciiOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | EsriAsciiOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
 * class [EsriAsciiOptions](../../esriasciioptions/)
 * class [EsriAsciiDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriAscii](../../esriasciidriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriAscii](../../esriasciidriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath, EsriAsciiOptions) {#openlayer_1}
 
-يفتح طبقة للقراءة .
+يفتح طبقة للقراءة.
 
 ```csharp
 public RasterLayer OpenLayer(AbstractPath path, EsriAsciiOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | EsriAsciiOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | EsriAsciiOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [EsriAsciiOptions](../../esriasciioptions/)
 * class [EsriAsciiDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriAscii](../../esriasciidriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriAscii](../../esriasciidriver/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: LabelingRule.Filter
-second_title: Aspose.GIS لمرجع .NET API
-description: LabelingRule ملكية. تحديد ما إذا كان يجب على قاعدة عامل التصفية تطبيق وضع العلامات على الميزة. إذا تم إرجاعهاtrue يتم استخدام العلامات  خلاف ذلك  يتم تخطي الميزة.
+title: "LabelingRule.Filter"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LabelingRule. تحدد ما إذا كان يجب أن يطبق filterrule التسمية على المعلم. إذا أعاد true تُستخدم التسمية وإلا يتم تخطي المعلم"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/filter/
 ---
 ## LabelingRule.Filter property
 
-تحديد ما إذا كان يجب على "قاعدة عامل التصفية" تطبيق وضع العلامات على الميزة. إذا تم إرجاعها`true` يتم استخدام العلامات ؛ خلاف ذلك ، يتم تخطي الميزة.
+يحدد ما إذا كان "filter-rule" يجب أن يطبق التصنيف على العنصر. إذا أرجع `true` يتم استخدام التصنيف؛ وإلا يتم تخطي العنصر.
 
 ```csharp
 public Func<Feature, bool> Filter { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [LabelingRule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

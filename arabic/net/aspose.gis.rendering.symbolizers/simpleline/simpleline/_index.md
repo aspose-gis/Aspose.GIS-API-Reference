@@ -1,49 +1,49 @@
 ---
-title: SimpleLine.SimpleLine
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLine البناء. إنشاء مثيل جديد .
+title: "SimpleLine.SimpleLine"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SimpleLine. ينشئ مثيلًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/simpleline/
 ---
 ## SimpleLine() {#constructor}
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public SimpleLine()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleLine(SimpleLine) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SimpleLine`](../) فئة .
+يُهيئ مثيلًا جديدًا من الفئة [`SimpleLine`](../).
 
 ```csharp
 public SimpleLine(SimpleLine other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SimpleLine | الأخرى[`SimpleLine`](../) لنسخ البيانات من. |
+| other | SimpleLine | الـ [`SimpleLine`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

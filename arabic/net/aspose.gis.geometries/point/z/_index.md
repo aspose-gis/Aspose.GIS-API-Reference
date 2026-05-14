@@ -1,14 +1,14 @@
 ---
-title: Point.Z
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. الحصول على أو تعيين قيمة للإحداثي z .
+title: "Point.Z"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. يحصل على أو يعيّن قيمة لإحداثي Z"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geometries/point/z/
 ---
 ## Point.Z property
 
-الحصول على أو تعيين قيمة للإحداثي z .
+يحصل أو يعيّن قيمة لإحداثي z.
 
 ```csharp
 public double Z { get; set; }
@@ -16,14 +16,14 @@ public double Z { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | لا تحتوي الهندسة على إحداثي Z. |
+| InvalidOperationException | الهندسة لا تحتوي على إحداثي Z. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

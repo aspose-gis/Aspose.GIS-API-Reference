@@ -1,32 +1,32 @@
 ---
-title: LabelingRule.CreateElseRule
-second_title: Aspose.GIS لمرجع .NET API
-description: LabelingRule طريقة. إنشاء قاعدة جديدة تطبق تصنيفًا على الميزة عندما لا تتطابق مع أي قاعدة تصفية .
+title: "LabelingRule.CreateElseRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LabelingRule. تنشئ قاعدة جديدة تطبق تسمية على المعلم كلما لم يتطابق مع أي قاعدة تصفية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/createelserule/
 ---
 ## LabelingRule.CreateElseRule method
 
-إنشاء قاعدة جديدة تطبق تصنيفًا على الميزة عندما لا تتطابق مع أي قاعدة تصفية .
+ينشئ قاعدة جديدة تطبق تصنيفًا على العنصر كلما لم يتطابق مع أي قاعدة تصفية.
 
 ```csharp
 public static LabelingRule CreateElseRule(Labeling labeling)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| labeling | Labeling | وضع العلامات للتطبيق. |
+| تسمية | التسمية | التسمية لتطبيقها. |
 
 ### قيمة الإرجاع
 
-كائن جديد LabelingRule.
+كائن LabelingRule جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Labeling](../../labeling/)
 * class [LabelingRule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

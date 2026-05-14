@@ -1,36 +1,36 @@
 ---
-title: OsmXmlDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: OsmXmlDriver طريقة. تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+title: "OsmXmlDriver.SupportsSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة OsmXmlDriver. تحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.osmxml/osmxmldriver/supportsspatialreferencesystem/
 ---
 ## OsmXmlDriver.SupportsSpatialReferenceSystem method
 
-تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل.
 
 ```csharp
 public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان السائق يدعم نظام الإسناد المكاني المحدد.
+قيمة منطقية، تشير إلى ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق.
 
-### ملاحظات
+## ملاحظات
 
-بالنسبة إلى OSM XML ، فإن نظام الإسناد المكاني الوحيد المدعوم هو WGS84.
+بالنسبة إلى OSM XML، نظام الإحداثيات المكانية الوحيد المدعوم هو WGS84.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [OsmXmlDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

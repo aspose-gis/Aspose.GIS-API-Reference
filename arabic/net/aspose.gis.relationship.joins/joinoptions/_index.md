@@ -1,38 +1,38 @@
 ---
-title: Class JoinOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Relationship.Joins.JoinOptions فصل. خيارات الانضمام للطبقات .
+title: "الفئة JoinOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Relationship.Joins.JoinOptions. خيارات دمج الطبقات"
 type: docs
-weight: 1480
+weight: 3930
 url: /ar/net/aspose.gis.relationship.joins/joinoptions/
 ---
 ## JoinOptions class
 
-خيارات الانضمام للطبقات .
+خيارات لدمج الطبقات.
 
 ```csharp
 public class JoinOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [JoinOptions](joinoptions/)() | إنشاء مثيل جديد . |
+| [JoinOptions](joinoptions/)() | إنشاء نسخة جديدة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ConditionComparer](../../aspose.gis.relationship.joins/joinoptions/conditioncomparer/) { get; set; } | يحدد الطريقة التي ترتبط بها ميزات طبقتين في استعلام عن طريق تحديد منطق لاستخدامه في مقارنة القيم من الميزات. |
-| [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename/) { get; set; } | يحدد اسم سمة للطبقة المرتبطة التي سيتم استخدام القيمة فيها[`ConditionComparer`](./conditioncomparer/). |
-| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames/) { get; set; } | يحدد قائمة بأسماء السمات المراد ضمها . إذا كان كذلك`null`أو فارغة ، سيتم ضم جميع سمات الطبقة المرتبطة. |
-| [JoinedAttributesPrefix](../../aspose.gis.relationship.joins/joinoptions/joinedattributesprefix/) { get; set; } | تحدد سلسلة بادئة لأسماء السمات المرتبطة. الافتراضي هو "انضم _" . |
-| [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename/) { get; set; } | يحدد اسم سمة للطبقة الرئيسية التي سيتم استخدام القيمة فيها[`ConditionComparer`](./conditioncomparer/). |
+| [ConditionComparer](../../aspose.gis.relationship.joins/joinoptions/conditioncomparer/) { get; set; } | يحدد الطريقة التي ترتبط بها ميزات طبقتين في استعلام عن طريق تحديد منطق يُستخدم في مقارنة القيم من الميزات. |
+| [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename/) { get; set; } | يحدد اسم سمة للطبقة المدمجة التي سيتم استخدام قيمتها في [`ConditionComparer`](./conditioncomparer/). |
+| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames/) { get; set; } | يحدد قائمة بأسماء السمات التي سيتم دمجها. إذا كانت `null` أو فارغة، سيتم دمج جميع سمات الطبقة المدمجة. |
+| [JoinedAttributesPrefix](../../aspose.gis.relationship.joins/joinoptions/joinedattributesprefix/) { get; set; } | يحدد سلسلة بادئة لأسماء السمات المدمجة. القيمة الافتراضية هي "joined_". |
+| [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename/) { get; set; } | يحدد اسم سمة للطبقة الرئيسية التي سيتم استخدام قيمتها في [`ConditionComparer`](./conditioncomparer/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Relationship.Joins](../../aspose.gis.relationship.joins/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Relationship.Joins](../../aspose.gis.relationship.joins/)
+* assembly [Aspose.GIS](../../)
 
 

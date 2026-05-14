@@ -1,14 +1,14 @@
 ---
-title: Feature.Geometry
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature ملكية. الحصول على هندسة الميزة أو تعيينها . لا يمكن ذلكnull  يستخدمNull للإشارة إلى الهندسة المفقودة.
+title: "Feature.Geometry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Feature. الحصول على أو تعيين هندسة الميزة. لا يمكن أن تكون null استخدم Null للإشارة إلى هندسة مفقودة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/feature/geometry/
 ---
 ## Feature.Geometry property
 
-الحصول على هندسة الميزة أو تعيينها . لا يمكن ذلك`null` ، يستخدم[`Null`](../../../aspose.gis.geometries/geometry/null/) للإشارة إلى الهندسة المفقودة.
+الحصول على أو تعيين هندسة الميزة. لا يمكن أن تكون `null`، استخدم [`Null`](../../../aspose.gis.geometries/geometry/null/) للإشارة إلى هندسة مفقودة.
 
 ```csharp
 public IGeometry Geometry { get; set; }
@@ -16,15 +16,15 @@ public IGeometry Geometry { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | القيمة`null`. |
+| ArgumentNullException | القيمة هي `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,0 +1,22 @@
+---
+title: "BufferLineSimplifier.SimplifyOutside"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "BufferLineSimplifier طريقة."
+type: docs
+weight: 30
+url: /ar/net/aspose.gis.topology.buffer/bufferlinesimplifier/simplifyoutside/
+---
+## BufferLineSimplifier.SimplifyOutside method
+
+```csharp
+public static Chain SimplifyOutside(Chain ring, double tolerance)
+```
+
+### انظر أيضًا
+
+* class [Chain](../../../aspose.gis.topology/chain/)
+* class [BufferLineSimplifier](../)
+* namespace [Aspose.Gis.Topology.Buffer](../../bufferlinesimplifier/)
+* assembly [Aspose.GIS](../../../)
+
+

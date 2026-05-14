@@ -1,31 +1,31 @@
 ---
-title: Measurement.Millimeters
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement طريقة. إرجاع مثيل جديد منقياس التي تمثل الطول بالميليمترات.
+title: "Measurement.Millimeters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Measurement. تُرجع نسخة جديدة من Measurement تمثل الطول بالمليمترات"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering/measurement/millimeters/
 ---
 ## Measurement.Millimeters method
 
-إرجاع مثيل جديد من`قياس` التي تمثل الطول بالميليمترات.
+يعيد نسخة جديدة من `Measurement` تمثل الطول بالمليمترات.
 
 ```csharp
 public static Measurement Millimeters(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | عدد المليمترات. |
+| قيمة | Double | عدد المليمترات. |
 
 ### قيمة الإرجاع
 
-مثيل جديد من`قياس` فصل.
+نسخة جديدة من الفئة `Measurement`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

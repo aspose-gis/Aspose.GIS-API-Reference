@@ -1,7 +1,7 @@
 ---
-title: SimpleLine.Width
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLine ملكية. يحدد عرض الخط.
+title: "SimpleLine.Width"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLine. تحدد عرض الخط"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/width/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/width/
 public Measurement Width { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

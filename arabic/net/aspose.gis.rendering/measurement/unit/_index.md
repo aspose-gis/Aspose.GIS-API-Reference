@@ -1,24 +1,24 @@
 ---
-title: Measurement.Unit
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement ملكية. وحدة قياس .
+title: "Measurement.Unit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Measurement. وحدة قياس"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.rendering/measurement/unit/
 ---
 ## Measurement.Unit property
 
-وحدة قياس .
+وحدة قياس.
 
 ```csharp
 public Unit Unit { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [Unit](../../unit/)
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

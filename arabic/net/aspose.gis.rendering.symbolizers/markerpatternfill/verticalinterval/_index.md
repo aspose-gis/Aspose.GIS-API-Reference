@@ -1,24 +1,24 @@
 ---
-title: MarkerPatternFill.VerticalInterval
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerPatternFill ملكية. يحدد الفاصل الرأسي بين العلامات.
+title: "MarkerPatternFill.VerticalInterval"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerPatternFill. تحدد الفاصل العمودي بين العلامات."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval/
 ---
 ## MarkerPatternFill.VerticalInterval property
 
-يحدد الفاصل الرأسي بين العلامات.
+يحدد الفاصل العمودي بين العلامات.
 
 ```csharp
 public Measurement VerticalInterval { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [MarkerPatternFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 

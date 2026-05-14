@@ -1,41 +1,41 @@
 ---
-title: Class MapGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.MapBuilder.MapGeneratorOptions فصل. خيارات من إنتاج الأشكال الهندسية على السطح أو المنطقة.
+title: "فئة MapGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.GeoTools.MapBuilder.MapGeneratorOptions. خيارات لإنشاء الأشكال الهندسية على السطح أو المنطقة"
 type: docs
-weight: 810
+weight: 2570
 url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
 ---
 ## MapGeneratorOptions class
 
-خيارات من إنتاج الأشكال الهندسية على السطح أو المنطقة.
+خيارات لإنتاج الأشكال الهندسية على السطح أو المنطقة.
 
 ```csharp
 public class MapGeneratorOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MapGeneratorOptions](mapgeneratoroptions/)() | Default_Constructor |
+| [MapGeneratorOptions](mapgeneratoroptions/)() | إنشاء كائن باستخدام الخيارات الافتراضية. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Height](../../aspose.gis.geotools.mapbuilder/mapgeneratoroptions/height/) { get; set; } | ارتفاع الخريطة (عدد الصفوف). |
 | [Width](../../aspose.gis.geotools.mapbuilder/mapgeneratoroptions/width/) { get; set; } | عرض الخريطة (عدد الأعمدة). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools.mapbuilder/mapgeneratoroptions/clone/)() | استنساخ كائن لبعضه البعض . |
+| [Clone](../../aspose.gis.geotools.mapbuilder/mapgeneratoroptions/clone/)() | استنساخ الكائن إلى آخر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools.MapBuilder](../../aspose.gis.geotools.mapbuilder/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../aspose.gis.geotools.mapbuilder/)
+* assembly [Aspose.GIS](../../)
 
 

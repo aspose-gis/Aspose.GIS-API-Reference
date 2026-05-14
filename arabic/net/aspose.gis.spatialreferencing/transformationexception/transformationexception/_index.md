@@ -1,64 +1,64 @@
 ---
-title: TransformationException.TransformationException
-second_title: Aspose.GIS لمرجع .NET API
-description: TransformationException البناء. إنشاء مثيل جديد .
+title: "TransformationException.TransformationException"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ TransformationException. أنشئ مثيلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/transformationexception/transformationexception/
 ---
 ## TransformationException() {#constructor}
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public TransformationException()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransformationException](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../transformationexception/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../transformationexception/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## TransformationException(string) {#constructor_1}
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public TransformationException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة خطأ. |
+| message | String | رسالة الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransformationException](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../transformationexception/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../transformationexception/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## TransformationException(string, Exception) {#constructor_2}
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public TransformationException(string message, Exception inner)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة خطأ. |
-| inner | Exception | استثناء داخلي |
+| message | String | رسالة الخطأ. |
+| inner | Exception | الاستثناء الداخلي |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TransformationException](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../transformationexception/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../transformationexception/)
+* assembly [Aspose.GIS](../../../)
 
 

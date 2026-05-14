@@ -1,27 +1,27 @@
 ---
-title: CurvePolygon.InteriorRingsCount
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon ملكية. يحصل على عدد الحلقات الداخلية .
+title: "CurvePolygon.InteriorRingsCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CurvePolygon. يحصل على عدد الحلقات الداخلية"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/curvepolygon/interiorringscount/
 ---
 ## CurvePolygon.InteriorRingsCount property
 
-يحصل على عدد الحلقات الداخلية .
+يحصل على عدد الحلقات الداخلية.
 
 ```csharp
 public int InteriorRingsCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الحلقات الداخلية .
+عدد الحلقات الداخلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

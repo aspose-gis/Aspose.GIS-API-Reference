@@ -1,23 +1,23 @@
 ---
-title: GeoJsonOptions.Description
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoJsonOptions ملكية. الوصف على مستوى مجموعة المعالم لإنشاء الطبقة
+title: "GeoJsonOptions.Description"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeoJsonOptions. الوصف على مستوى مجموعة الميزات لإنشاء الطبقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/description/
 ---
 ## GeoJsonOptions.Description property
 
-الوصف على مستوى مجموعة المعالم (لإنشاء الطبقة)
+الوصف على مستوى مجموعة الميزات (لإنشاء الطبقة)
 
 ```csharp
 public string Description { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

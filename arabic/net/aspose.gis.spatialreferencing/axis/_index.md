@@ -1,39 +1,39 @@
 ---
-title: Class Axis
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.Axis فصل. يصف المحور بعدًا واحدًا من SRS .
+title: "الفئة Axis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.Axis. المحور يصف بُعدًا واحدًا من SRS"
 type: docs
-weight: 2030
+weight: 4480
 url: /ar/net/aspose.gis.spatialreferencing/axis/
 ---
 ## Axis class
 
-يصف المحور بعدًا واحدًا من SRS .
+المحور يصف بُعدًا واحدًا من نظام الإسناد المكاني (SRS).
 
 ```csharp
 public class Axis
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Axis](axis/)(string, AxisDirection) | إنشاء مثيل جديد . |
+| [Axis](axis/)(string, AxisDirection) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Direction](../../aspose.gis.spatialreferencing/axis/direction/) { get; } | اتجاه هذا المحور. |
-| [IsEastWestAxis](../../aspose.gis.spatialreferencing/axis/iseastwestaxis/) { get; } | يكتشف ما إذا كان اتجاه المحور شرقًا أم غربًا. |
-| [IsNorthSouthAxis](../../aspose.gis.spatialreferencing/axis/isnorthsouthaxis/) { get; } | يكتشف ما إذا كان اتجاه المحور شمالًا أم جنوبيًا. |
-| [IsOtherAxis](../../aspose.gis.spatialreferencing/axis/isotheraxis/) { get; } | يكتشف ما إذا كان اتجاه المحور هذا غير ذلك. |
-| [IsUpDownAxis](../../aspose.gis.spatialreferencing/axis/isupdownaxis/) { get; } | يكتشف ما إذا كان اتجاه المحور لأعلى أو لأسفل. |
+| [IsEastWestAxis](../../aspose.gis.spatialreferencing/axis/iseastwestaxis/) { get; } | يكشف ما إذا كان اتجاه المحور شرقًا أو غربًا. |
+| [IsNorthSouthAxis](../../aspose.gis.spatialreferencing/axis/isnorthsouthaxis/) { get; } | يكشف ما إذا كان اتجاه المحور شمالًا أو جنوبًا. |
+| [IsOtherAxis](../../aspose.gis.spatialreferencing/axis/isotheraxis/) { get; } | يكشف ما إذا كان اتجاه هذا المحور هو آخر. |
+| [IsUpDownAxis](../../aspose.gis.spatialreferencing/axis/isupdownaxis/) { get; } | يكشف ما إذا كان اتجاه المحور أعلى أو أسفل. |
 | [Name](../../aspose.gis.spatialreferencing/axis/name/) { get; } | اسم هذا المحور. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: MapGeneratorOptions.Width
-second_title: Aspose.GIS لمرجع .NET API
-description: MapGeneratorOptions ملكية. عرض الخريطة عدد الأعمدة.
+title: "MapGeneratorOptions.Width"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MapGeneratorOptions. عرض عدد أعمدة الخريطة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/width/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/width/
 public int Width { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

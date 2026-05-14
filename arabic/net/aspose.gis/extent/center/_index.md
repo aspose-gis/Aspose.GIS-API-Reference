@@ -1,24 +1,24 @@
 ---
-title: Extent.Center
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent ملكية. مركز المدى.
+title: "Extent.Center"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Extent. مركز الامتداد"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/extent/center/
 ---
 ## Extent.Center property
 
-مركز المدى.
+مركز الامتداد.
 
 ```csharp
 public IPoint Center { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../../aspose.gis.geometries/ipoint/)
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

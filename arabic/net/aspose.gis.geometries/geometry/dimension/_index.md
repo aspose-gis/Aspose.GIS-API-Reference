@@ -1,24 +1,24 @@
 ---
-title: Geometry.Dimension
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. يحصل على البعد الطوبولوجي لهذاGeometry . إذا كان البعد غير معروف مثل GEOMETRYCOLLECTION فارغPoint تم إرجاعه .
+title: "Geometry.Dimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على البعد الطوبولوجي لهذا الشكل الهندسي. إذا كان البعد غير معروف، على سبيل المثال لمجموعة GEOMETRYCOLLECTION فارغة، يتم إرجاع Point."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/geometry/dimension/
 ---
 ## Geometry.Dimension property
 
-يحصل على البعد الطوبولوجي لهذا[`Geometry`](../) . إذا كان البعد غير معروف (مثل GEOMETRYCOLLECTION فارغ)Point تم إرجاعه .
+يحصل على البعد الطوبولوجي لهذا [`Geometry`](../). إذا كان البعد غير معروف (مثل مجموعة GEOMETRYCOLLECTION فارغة) يتم إرجاع Point.
 
 ```csharp
 public abstract GeometryDimension Dimension { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryDimension](../../geometrydimension/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

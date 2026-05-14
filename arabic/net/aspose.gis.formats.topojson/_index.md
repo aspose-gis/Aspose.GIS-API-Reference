@@ -1,19 +1,19 @@
 ---
-title: Aspose.Gis.Formats.TopoJson
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.TopoJson توفر مساحة الاسم فئات للعمل بتنسيق TopoJSON.
+title: "Aspose.Gis.Formats.TopoJson"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.TopoJson توفر فئات للعمل مع تنسيق TopoJSON"
 type: docs
-weight: 200
+weight: 450
 url: /ar/net/aspose.gis.formats.topojson/
 ---
-`Aspose.Gis.Formats.TopoJson` توفر مساحة الاسم فئات للعمل بتنسيق TopoJSON.
+`Aspose.Gis.Formats.TopoJson` مساحة الاسم توفر فئات للعمل مع تنسيق TopoJSON.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [TopoJsonDriver](./topojsondriver/) | برنامج تشغيل لتنسيق TopoJSON . |
-| [TopoJsonOptions](./topojsonoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق TopoJSON . |
-| [TopoJsonTransform](./topojsontransform/) | كائن تحويل يمكن استخدامه لقياس الإحداثيات عند كتابة ملف TopoJSON. |
+| [TopoJsonDriver](./topojsondriver/) | محرك لتنسيق TopoJSON. |
+| [TopoJsonOptions](./topojsonoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق TopoJSON. |
+| [TopoJsonTransform](./topojsontransform/) | كائن تحويل يمكن استخدامه لتكميم الإحداثيات عند كتابة ملف TopoJSON. |
 
 

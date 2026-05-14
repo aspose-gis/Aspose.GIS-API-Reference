@@ -1,23 +1,23 @@
 ---
-title: XyzTiles.Dispose
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzTiles طريقة. ينفذ المهام المحددة من قبل التطبيق والمرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+title: "XyzTiles.Dispose"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة XyzTiles. ينفّذ مهام محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.xyztile/xyztiles/dispose/
 ---
 ## XyzTiles.Dispose method
 
-ينفذ المهام المحددة من قبل التطبيق والمرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها.
+ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المُدارة.
 
 ```csharp
 public override void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XyzTiles](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
+* assembly [Aspose.GIS](../../../)
 
 

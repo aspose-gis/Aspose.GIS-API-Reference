@@ -1,23 +1,23 @@
 ---
-title: RasterLayer.Height
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer ملكية. الحصول على ارتفاع الخط النقطي بالبكسل. كما يُعرف أيضًا باسم عدد الصفوف.
+title: "RasterLayer.Height"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterLayer. تحصل على ارتفاع الراستر بالبكسل. كما يُعرف بعدد الصفوف"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.raster/rasterlayer/height/
 ---
 ## RasterLayer.Height property
 
-الحصول على ارتفاع الخط النقطي بالبكسل. كما يُعرف أيضًا باسم عدد الصفوف.
+يحصل على ارتفاع الراستر بالبكسل. كما يُعرف أيضًا بعدد الصفوف.
 
 ```csharp
 public abstract int Height { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

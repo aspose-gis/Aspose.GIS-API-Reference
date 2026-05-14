@@ -1,14 +1,14 @@
 ---
-title: CircularString.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "CircularString.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CircularString. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/circularstring/toeditable/
 ---
 ## CircularString.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public CircularString ToEditable()
@@ -16,12 +16,12 @@ public CircularString ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

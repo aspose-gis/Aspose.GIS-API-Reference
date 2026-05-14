@@ -1,7 +1,7 @@
 ---
-title: RuleBasedLabeling.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedLabeling ملكية. يحصل على عدد القواعد.
+title: "RuleBasedLabeling.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RuleBasedLabeling. يحصل على عدد القواعد"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/count/
@@ -18,10 +18,10 @@ public int Count { get; }
 
 عدد القواعد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RuleBasedLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

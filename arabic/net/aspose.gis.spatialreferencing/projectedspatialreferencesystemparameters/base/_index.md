@@ -1,24 +1,24 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.Base
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters ملكية. SRS الجغرافي الأساسي SRS الذي يتم تطبيق الإسقاط عليه . يجب عليك تعيين هذه الخاصية على لاnull لإنشاء SRS صالح  لا تحتوي هذه الخاصية على أي افتراضي.
+title: "ProjectedSpatialReferenceSystemParameters.Base"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystemParameters. نظام الإحداثيات الجغرافي الأساسي (SRS) الذي يُطبق عليه الإسقاط. يجب عليك تعيين هذه الخاصية إلى قيمة غير فارغة لإنشاء نظام إحداثيات صالح؛ هذه الخاصية لا تحتوي على أي قيمة افتراضية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base/
 ---
 ## ProjectedSpatialReferenceSystemParameters.Base property
 
-SRS الجغرافي الأساسي (SRS الذي يتم تطبيق الإسقاط عليه) . يجب عليك تعيين هذه الخاصية على "لا"`null` لإنشاء SRS صالح ، لا تحتوي هذه الخاصية على أي افتراضي.
+SRS الجغرافي الأساسي (SRS الذي يُطبق عليه الإسقاط). يجب عليك تعيين هذه الخاصية إلى قيمة غير `null` لإنشاء SRS صالح، هذه الخاصية لا تحتوي على أي قيمة افتراضية.
 
 ```csharp
 public GeographicSpatialReferenceSystem Base { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicSpatialReferenceSystem](../../geographicspatialreferencesystem/)
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

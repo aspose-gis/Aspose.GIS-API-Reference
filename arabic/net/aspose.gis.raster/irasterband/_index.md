@@ -1,14 +1,14 @@
 ---
-title: Interface IRasterBand
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.IRasterBand واجهه المستخدم. يحتوي على بيانات وصفية حول النطاق النقطي .
+title: "الواجهة IRasterBand"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Raster.IRasterBand. تحتوي على بيانات التعريف حول شريط رستر"
 type: docs
-weight: 1330
+weight: 3770
 url: /ar/net/aspose.gis.raster/irasterband/
 ---
 ## IRasterBand interface
 
-يحتوي على بيانات وصفية حول النطاق النقطي .
+يحتوي على بيانات تعريفية حول شريط الراستر.
 
 ```csharp
 public interface IRasterBand
@@ -16,13 +16,13 @@ public interface IRasterBand
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DataType](../../aspose.gis.raster/irasterband/datatype/) { get; } | الحصول على نوع القيم المخزنة في كل خلية. |
+| [DataType](../../aspose.gis.raster/irasterband/datatype/) { get; } | يحصل على نوع القيم المخزنة في كل خلية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

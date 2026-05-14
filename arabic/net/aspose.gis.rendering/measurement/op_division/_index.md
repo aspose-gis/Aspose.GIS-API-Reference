@@ -1,32 +1,32 @@
 ---
-title: Measurement.op_Division
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement طريقة. قسّم القياس حسب العامل .
+title: "Measurement.op_Division"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة القياس. قسّ القياس على العامل."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.rendering/measurement/op_division/
 ---
 ## Measurement Division operator
 
-قسّم القياس حسب العامل .
+قسّم القياس على العامل.
 
 ```csharp
 public static Measurement operator /(Measurement measurement, double factor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| measurement | Measurement | القياس لمضاعفة. |
-| factor | Double | عامل للقسمة على. |
+| قياس | القياس | القياس للضرب. |
+| عامل | Double | العامل للقسمة عليه. |
 
 ### قيمة الإرجاع
 
-قياس مع[`Value`](../value/) مقسومة على العامل.
+قياس مع [`Value`](../value/) مقسوم على العامل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

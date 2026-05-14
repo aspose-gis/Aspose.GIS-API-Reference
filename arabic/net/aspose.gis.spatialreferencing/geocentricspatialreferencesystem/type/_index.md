@@ -1,24 +1,24 @@
 ---
-title: GeocentricSpatialReferenceSystem.Type
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystem ملكية. عودةGeocentric .
+title: "GeocentricSpatialReferenceSystem.Type"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeocentricSpatialReferenceSystem. إرجاع Geocentric"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/type/
 ---
 ## GeocentricSpatialReferenceSystem.Type property
 
-عودةGeocentric .
+يرجع Geocentric.
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SpatialReferenceSystemType](../../spatialreferencesystemtype/)
 * class [GeocentricSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

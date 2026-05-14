@@ -1,24 +1,24 @@
 ---
-title: IdentifiableObject.Identifier
-second_title: Aspose.GIS لمرجع .NET API
-description: IdentifiableObject ملكية. معرّف هذا الكائن القابل للتحديد .
+title: "IdentifiableObject.Identifier"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IdentifiableObject. معرف هذا الكائن القابل للتحديد"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/identifiableobject/identifier/
 ---
 ## IdentifiableObject.Identifier property
 
-معرّف هذا الكائن القابل للتحديد .
+معرف هذا الكائن القابل للتعريف.
 
 ```csharp
 public Identifier Identifier { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../../identifier/)
 * class [IdentifiableObject](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifiableobject/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifiableobject/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: DriverOptions.CreateMidpoints
-second_title: Aspose.GIS لمرجع .NET API
-description: DriverOptions ملكية. لتحديد ما إذا كان سيتم إضافة نقطة جديدة في المنتصف لكل مقطع هندسي. افتراضات إلىfalse .
+title: "DriverOptions.CreateMidpoints"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية DriverOptions. تحدد ما إذا كان يتم إضافة نقطة جديدة في الوسط لكل مقطع من الشكل الهندسي. القيمة الافتراضية هي false"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/driveroptions/createmidpoints/
 ---
 ## DriverOptions.CreateMidpoints property
 
-لتحديد ما إذا كان سيتم إضافة نقطة جديدة في المنتصف لكل مقطع هندسي. افتراضات إلى`false` .
+يحدد ما إذا كان يتم إضافة نقطة جديدة في الوسط لكل مقطع من الشكل الهندسي. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool CreateMidpoints { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DriverOptions](../)
-* مساحة الاسم [Aspose.Gis](../../driveroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

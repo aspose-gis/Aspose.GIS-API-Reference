@@ -1,151 +1,151 @@
 ---
-title: FileDriver.OpenLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver طريقة. يفتح الطبقة للقراءة .
+title: "FileDriver.OpenLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileDriver. تفتح الطبقة للقراءة"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/filedriver/openlayer/
 ---
 ## OpenLayer(string) {#openlayer_2}
 
-يفتح الطبقة للقراءة .
+يفتح الطبقة للقراءة.
 
 ```csharp
 public VectorLayer OpenLayer(string path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
+| المسار | String | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات متجهية (انظر[`CanOpenLayers`](../canopenlayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath) {#openlayer}
 
-يفتح الطبقة للقراءة .
+يفتح الطبقة للقراءة.
 
 ```csharp
 public VectorLayer OpenLayer(AbstractPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
+| المسار | AbstractPath | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات متجهية (انظر[`CanOpenLayers`](../canopenlayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(string, DriverOptions) {#openlayer_3}
 
-يفتح الطبقة للقراءة .
+يفتح الطبقة للقراءة.
 
 ```csharp
 public VectorLayer OpenLayer(string path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات متجهية (انظر[`CanOpenLayers`](../canopenlayers/)). |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
 
-يفتح الطبقة للقراءة .
+يفتح الطبقة للقراءة.
 
 ```csharp
 public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح طبقات متجهية (انظر[`CanOpenLayers`](../canopenlayers/)). |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [AbstractPath](../../abstractpath/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

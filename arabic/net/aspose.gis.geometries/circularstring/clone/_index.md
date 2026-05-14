@@ -1,14 +1,14 @@
 ---
-title: CircularString.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString طريقة. استنساخ هذا المثال .
+title: "CircularString.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CircularString. تستنسخ هذا الكائن"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/circularstring/clone/
 ---
 ## CircularString.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

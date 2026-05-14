@@ -1,41 +1,41 @@
 ---
-title: Class SpatialReferenceSystemTransformation
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.SpatialReferenceSystemTransformation فصل. تحويل نظام الإسناد المكاني يحول الأشكال الهندسية من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف.
+title: "الفئة SpatialReferenceSystemTransformation"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.SpatialReferenceSystemTransformation. تحويل نظام الإسناد المكاني يحول الأشكال الهندسية من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف."
 type: docs
-weight: 2260
+weight: 4710
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/
 ---
 ## SpatialReferenceSystemTransformation class
 
-تحويل نظام الإسناد المكاني يحول الأشكال الهندسية من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف.
+تحويل نظام الإسناد المكاني يحول الأشكال الهندسية من نظام الإسناد المصدر إلى نظام الإسناد الهدف.
 
 ```csharp
 public class SpatialReferenceSystemTransformation
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SpatialReferenceSystemTransformation](spatialreferencesystemtransformation/)(SpatialReferenceSystem, SpatialReferenceSystem) | إنشاء مثيل جديد . |
+| [SpatialReferenceSystemTransformation](spatialreferencesystemtransformation/)(SpatialReferenceSystem, SpatialReferenceSystem) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Source](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/source/) { get; } | نظام الإسناد المكاني المصدر. |
-| [Target](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/target/) { get; } | نظام الإسناد المكاني المستهدف . |
+| [Target](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/target/) { get; } | نظام الإسناد المكاني الهدف. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Transform](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/)(IGeometry) | يحول الهندسة من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| [Transform](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/)(IGeometry) | يحول الشكل الهندسي من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

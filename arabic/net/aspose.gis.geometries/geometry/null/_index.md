@@ -1,24 +1,24 @@
 ---
-title: Geometry.Null
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. الحصول على مثيل للهندسة الخالية .
+title: "Geometry.Null"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. يحصل على نسخة من الشكل الفارغ"
 type: docs
-weight: 450
+weight: 460
 url: /ar/net/aspose.gis.geometries/geometry/null/
 ---
 ## Geometry.Null property
 
-الحصول على مثيل للهندسة الخالية .
+يحصل على مثيل من الشكل الهندسي الفارغ (null).
 
 ```csharp
 public static IGeometry Null { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

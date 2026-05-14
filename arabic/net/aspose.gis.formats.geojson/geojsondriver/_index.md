@@ -1,14 +1,14 @@
 ---
-title: Class GeoJsonDriver
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.GeoJson.GeoJsonDriver فصل. برنامج تشغيل لتنسيق GeoJSON .
+title: "الفئة GeoJsonDriver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.GeoJson.GeoJsonDriver. سائق لتنسيق GeoJSON"
 type: docs
-weight: 300
+weight: 1890
 url: /ar/net/aspose.gis.formats.geojson/geojsondriver/
 ---
 ## GeoJsonDriver class
 
-برنامج تشغيل لتنسيق GeoJSON .
+برنامج تشغيل لتنسيق GeoJSON.
 
 ```csharp
 public sealed class GeoJsonDriver : FileDriver
@@ -16,50 +16,50 @@ public sealed class GeoJsonDriver : FileDriver
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [CanCreateDatasets](../../aspose.gis.formats.geojson/geojsondriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان بإمكان برنامج التشغيل هذا إنشاء مجموعات بيانات. |
+| override [CanCreateDatasets](../../aspose.gis.formats.geojson/geojsondriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء مجموعات البيانات. |
 | override [CanCreateLayers](../../aspose.gis.formats.geojson/geojsondriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة. |
 | virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات. |
 | override [CanOpenLayers](../../aspose.gis.formats.geojson/geojsondriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath) | لإنشاء مجموعة بيانات . |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string) | لإنشاء مجموعة بيانات . |
-| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath, DriverOptions) | لإنشاء مجموعة بيانات . |
-| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string, DriverOptions) | لإنشاء مجموعة بيانات . |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath) | ينشئ مجموعة بيانات. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string) | ينشئ مجموعة بيانات. |
+| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath, DriverOptions) | ينشئ مجموعة بيانات. |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string, DriverOptions) | ينشئ مجموعة بيانات. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath) | ينشئ الطبقة ويفتحها للإلحاق. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string) | ينشئ الطبقة ويفتحها للإلحاق. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, DriverOptions) | ينشئ الطبقة ويفتحها للإلحاق. |
-| [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_3)(AbstractPath, GeoJsonOptions) | ينشئ طبقة ويفتحها لإضافة معالم جديدة . |
+| [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_3)(AbstractPath, GeoJsonOptions) | ينشئ طبقة ويفتحها لإضافة ميزات جديدة. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, SpatialReferenceSystem) | ينشئ الطبقة ويفتحها للإلحاق. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions) | ينشئ الطبقة ويفتحها للإلحاق. |
-| [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_9)(string, GeoJsonOptions) | ينشئ طبقة ويفتحها لإضافة معالم جديدة . |
+| [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_9)(string, GeoJsonOptions) | ينشئ طبقة ويفتحها لإضافة ميزات جديدة. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, SpatialReferenceSystem) | ينشئ الطبقة ويفتحها للإلحاق. |
-| override [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | ينشئ طبقة ويفتحها لإضافة معالم جديدة . |
-| [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_4)(AbstractPath, GeoJsonOptions, SpatialReferenceSystem) | ينشئ طبقة ويفتحها لإضافة معالم جديدة . |
+| override [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | ينشئ طبقة ويفتحها لإضافة ميزات جديدة. |
+| [CreateLayer](../../aspose.gis.formats.geojson/geojsondriver/createlayer/#createlayer_4)(AbstractPath, GeoJsonOptions, SpatialReferenceSystem) | ينشئ طبقة ويفتحها لإضافة ميزات جديدة. |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions, SpatialReferenceSystem) | ينشئ الطبقة ويفتحها للإلحاق. |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | يفتح طبقة للتحرير . |
-| [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | يفتح طبقة للتحرير . |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | يفتح مجموعة البيانات . |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string) | يفتح مجموعة البيانات . |
-| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath, DriverOptions) | يفتح مجموعة البيانات . |
-| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string, DriverOptions) | يفتح مجموعة البيانات . |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(AbstractPath) | يفتح الطبقة للقراءة . |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string) | يفتح الطبقة للقراءة . |
-| override [OpenLayer](../../aspose.gis.formats.geojson/geojsondriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | يفتح طبقة للقراءة . |
-| [OpenLayer](../../aspose.gis.formats.geojson/geojsondriver/openlayer/#openlayer_2)(AbstractPath, GeoJsonOptions) | يفتح طبقة للقراءة . |
-| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | يفتح الطبقة للقراءة . |
-| [OpenLayer](../../aspose.gis.formats.geojson/geojsondriver/openlayer/#openlayer_5)(string, GeoJsonOptions) | يفتح طبقة للقراءة . |
-| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.geojson/geojsondriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل. |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | يفتح طبقة للتحرير. |
+| [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | يفتح طبقة للتحرير. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | يفتح مجموعة البيانات. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string) | يفتح مجموعة البيانات. |
+| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath, DriverOptions) | يفتح مجموعة البيانات. |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string, DriverOptions) | يفتح مجموعة البيانات. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(AbstractPath) | يفتح الطبقة للقراءة. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string) | يفتح الطبقة للقراءة. |
+| override [OpenLayer](../../aspose.gis.formats.geojson/geojsondriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | يفتح طبقة للقراءة. |
+| [OpenLayer](../../aspose.gis.formats.geojson/geojsondriver/openlayer/#openlayer_2)(AbstractPath, GeoJsonOptions) | يفتح طبقة للقراءة. |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | يفتح الطبقة للقراءة. |
+| [OpenLayer](../../aspose.gis.formats.geojson/geojsondriver/openlayer/#openlayer_5)(string, GeoJsonOptions) | يفتح طبقة للقراءة. |
+| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.geojson/geojsondriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileDriver](../../aspose.gis/filedriver/)
-* مساحة الاسم [Aspose.Gis.Formats.GeoJson](../../aspose.gis.formats.geojson/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../aspose.gis.formats.geojson/)
+* assembly [Aspose.GIS](../../)
 
 

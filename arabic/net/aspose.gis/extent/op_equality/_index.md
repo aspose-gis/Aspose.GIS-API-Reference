@@ -1,32 +1,32 @@
 ---
-title: Extent.op_Equality
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. يطبق عامل التشغيل  .
+title: "Extent.op_Equality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تنفّذ عامل عدم المساواة."
 type: docs
 weight: 230
 url: /ar/net/aspose.gis/extent/op_equality/
 ---
 ## Extent Equality operator
 
-يطبق عامل التشغيل '==' .
+ينفّذ العامل '=='.
 
 ```csharp
 public static bool operator ==(Extent left, Extent right)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| left | Extent | الحجة الأولى. |
-| right | Extent | الحجة الثانية. |
+| اليسار | مدى | المعامل الأول. |
+| اليمين | مدى | المعامل الثاني. |
 
 ### قيمة الإرجاع
 
-تشير القيمة إلى تساوي الوسائط.
+قيمة تشير إلى ما إذا كانت الوسائط متساوية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

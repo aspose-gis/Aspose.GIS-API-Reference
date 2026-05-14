@@ -1,29 +1,29 @@
 ---
-title: Enum KmlColorModes
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlColorModes تعداد. يحدد صيغة اللون لعنصر رسومي.
+title: "تعداد KmlColorModes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "تعداد Aspose.Gis.Formats.Kml.Styles.KmlColorModes. يحدد وضع اللون لعنصر رسومي"
 type: docs
-weight: 440
+weight: 2080
 url: /ar/net/aspose.gis.formats.kml.styles/kmlcolormodes/
 ---
 ## KmlColorModes enumeration
 
-يحدد صيغة اللون لعنصر رسومي.
+يحدد وضع اللون لعنصر رسومي.
 
 ```csharp
 public enum KmlColorModes
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Normal | `0` | يحدد قيمة لون واحدة. |
-| Random | `1` | يُحدد لاستخدام قيمة لون عشوائية. |
+| Random | `1` | يحدد استخدام قيمة لون عشوائية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

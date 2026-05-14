@@ -1,34 +1,34 @@
 ---
-title: FeatureAttribute.Name
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute ملكية. الحصول على اسم السمة .
+title: "FeatureAttribute.Name"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttribute. يحصل على اسم الخاصية"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/featureattribute/name/
 ---
 ## FeatureAttribute.Name property
 
-الحصول على اسم السمة .
+يحصل على اسم السمة.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-اسم السمة .
+اسم الخاصية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
-| InvalidOperationException | السمة مؤمنة. |
+| ArgumentNullException | اسم السمة هو `null`. |
+| InvalidOperationException | الخاصية مقفلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

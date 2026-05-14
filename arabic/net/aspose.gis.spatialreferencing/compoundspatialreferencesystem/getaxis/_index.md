@@ -1,38 +1,38 @@
 ---
-title: CompoundSpatialReferenceSystem.GetAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem طريقة. احصل علىAxis الذي يصف البعد.
+title: "CompoundSpatialReferenceSystem.GetAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundSpatialReferenceSystem. احصل على المحور الذي يصف البُعد"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/getaxis/
 ---
 ## CompoundSpatialReferenceSystem.GetAxis method
 
-احصل على[`Axis`](../../axis/) الذي يصف البعد.
+احصل على [`Axis`](../../axis/) التي تصف البُعد.
 
 ```csharp
 public override Axis GetAxis(int dimension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dimension | Int32 | عدد البعد. |
+| البُعد | Int32 | عدد البُعد. |
 
 ### قيمة الإرجاع
 
-المحور الذي يصف البعد.
+Axis التي تصف البُعد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension* أصغر من 0 أو أكبر أو يساوي[`DimensionsCount`](../dimensionscount/) |
+| ArgumentOutOfRangeException | *dimension* أقل من 0 أو أكبر أو يساوي [`DimensionsCount`](../dimensionscount/) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../../axis/)
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

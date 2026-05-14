@@ -1,51 +1,103 @@
 ---
-title: InMemoryDriver.CreateLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: InMemoryDriver طريقة. ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+title: "InMemoryDriver.CreateLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة InMemoryDriver. تنشئ طبقة وتفتحها لإضافة ميزات جديدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.inmemory/inmemorydriver/createlayer/
 ---
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_3}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
     SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [InMemoryDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## CreateLayer(FeaturesSequence) {#createlayer_5}
+
+ينشئ طبقة من تسلسل الميزات ويفتحها لإضافة ميزات جديدة.
+
+```csharp
+public VectorLayer CreateLayer(FeaturesSequence featuresSequence)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| featuresSequence | FeaturesSequence | تسلسل الميزات. |
+
+### قيمة الإرجاع
+
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### انظر أيضًا
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [FeaturesSequence](../../../aspose.gis/featuressequence/)
+* class [InMemoryDriver](../)
+* namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## CreateLayer(SpatialReferenceSystem) {#createlayer_6}
+
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
+
+```csharp
+public VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSystem)
+```
+
+| معامل | نوع | الوصف |
+| --- | --- | --- |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+
+### قيمة الإرجاع
+
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+
+### انظر أيضًا
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [InMemoryDriver](../)
+* namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer() {#createlayer}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public VectorLayer CreateLayer()
@@ -53,13 +105,13 @@ public VectorLayer CreateLayer()
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [InMemoryDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.InMemory](../../inmemorydriver/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: CurvePolygon.GetPointOnSurface
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon طريقة. البحث عن نقطة مضمونة أن تكون على هذا المضلع المنحني.
+title: "CurvePolygon.GetPointOnSurface"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CurvePolygon. تجد نقطة مضمونة أن تكون على هذا المضلع المنحني"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/curvepolygon/getpointonsurface/
 ---
 ## CurvePolygon.GetPointOnSurface method
 
-البحث عن نقطة مضمونة أن تكون على هذا المضلع المنحني.
+يجد نقطة مضمونة أن تكون على هذا المضلع المنحني.
 
 ```csharp
 public override IPoint GetPointOnSurface()
@@ -20,15 +20,15 @@ public override IPoint GetPointOnSurface()
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | المضلع المنحني غير صالح بحيث لا يمكن إكمال العملية. |
+| InvalidOperationException | المضلع المنحني غير صالح بطريقة تجعل العملية لا يمكن إكمالها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

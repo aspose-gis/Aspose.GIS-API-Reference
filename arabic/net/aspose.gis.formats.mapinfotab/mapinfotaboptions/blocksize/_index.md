@@ -1,23 +1,23 @@
 ---
-title: MapInfoTabOptions.BlockSize
-second_title: Aspose.GIS لمرجع .NET API
-description: MapInfoTabOptions ملكية. حجم الكتلة لملفات  .map مضاعفات 512. القيم الافتراضية هي 16384. القيم الصالحة 512 إلى 32256.
+title: "MapInfoTabOptions.BlockSize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "MapInfoTabOptions property. حجم الكتلة لملفات .map وهو مضاعفات 512. القيمة الافتراضية 16384. القيم الصالحة من 512 إلى 32256"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotaboptions/blocksize/
 ---
 ## MapInfoTabOptions.BlockSize property
 
-حجم الكتلة لملفات "* .map" (مضاعفات 512). القيم الافتراضية هي 16384. القيم الصالحة: 512 إلى 32256.
+حجم الكتلة لملفات '*.map' (مضاعفات 512). القيمة الافتراضية 16384. القيم الصالحة: من 512 إلى 32256.
 
 ```csharp
 public int BlockSize { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoTabOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotaboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoTab](../../mapinfotaboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,41 +1,41 @@
 ---
-title: Class RasterBand
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.RasterBand فصل. يحتوي على بيانات حول النطاق النقطي .
+title: "الفئة RasterBand"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.RasterBand. تحتوي على بيانات حول شريط رستر"
 type: docs
-weight: 1360
+weight: 3800
 url: /ar/net/aspose.gis.raster/rasterband/
 ---
 ## RasterBand class
 
-يحتوي على بيانات حول النطاق النقطي .
+يحتوي على بيانات حول شريط الراستر.
 
 ```csharp
 public class RasterBand : IRasterBand
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RasterBand](rasterband/)(BandTypes) | قم بإنشاء مثيل لـ`RasterBand` . |
+| [RasterBand](rasterband/)(BandTypes) | إنشاء نسخة من `RasterBand`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DataType](../../aspose.gis.raster/rasterband/datatype/) { get; } | الحصول على نوع القيم المخزنة في كل خلية. |
+| [DataType](../../aspose.gis.raster/rasterband/datatype/) { get; } | يحصل على نوع القيم المخزنة في كل خلية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterband/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.raster/rasterband/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterBand](../irasterband/)
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

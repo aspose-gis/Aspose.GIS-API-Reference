@@ -1,27 +1,27 @@
 ---
-title: Identifier.AuthorityName
-second_title: Aspose.GIS لمرجع .NET API
-description: Identifier ملكية. اسم السلطة الذي أعطىAuthorityUniqueIdentifier .
+title: "Identifier.AuthorityName"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Identifier. اسم السلطة التي أعطت AuthorityUniqueIdentifier"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/identifier/authorityname/
 ---
 ## Identifier.AuthorityName property
 
-اسم السلطة الذي أعطى[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/) .
+اسم السلطة التي أعطت [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/).
 
 ```csharp
 public string AuthorityName { get; }
 ```
 
-### أمثلة
+## أمثلة
 
 EPSG
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifier/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

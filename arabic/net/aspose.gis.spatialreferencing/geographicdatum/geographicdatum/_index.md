@@ -1,40 +1,40 @@
 ---
-title: GeographicDatum.GeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicDatum البناء. إنشاء مثيل جديد .
+title: "GeographicDatum.GeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GeographicDatum. ينشئ مثالًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/geographicdatum/
 ---
 ## GeographicDatum constructor
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public GeographicDatum(string name, Ellipsoid ellipsoid, 
     BursaWolfParameters toWgs84Parameters = null, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم هذا المرجع. |
-| ellipsoid | Ellipsoid | الإليبسويد من هذا الإسناد. لا يمكن أن يكون فارغًا. |
-| toWgs84Parameters | BursaWolfParameters | المعلمات ، التي يمكن إعطاؤها لصيغة ذئب الجراب ، لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في مرجع WGS84. إذا كان هذا المرجع قريبًا من WGS84 وليس هناك حاجة للتحويل ، قم بتمرير معلمات ذئب الجراب مع تعيين جميع القيم على 0. إذا خالية ، سيتم تعيين ToWgs84 على[`IsNull`](../../bursawolfparameters/isnull/) المعلمات . |
-| identifier | Identifier | معرّف هذا الإسناد. |
+| الاسم | String | اسم هذا المرجع. |
+| ellipsoid | Ellipsoid | البيضاوي لهذا المرجع. لا يمكن أن يكون فارغًا. |
+| toWgs84Parameters | BursaWolfParameters | المعلمات التي يمكن إعطاؤها لصيغة bursa wolf لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في مرجع WGS84. إذا كان هذا المرجع قريبًا من WGS84 ولا يلزم تحويل، مرّر معلمات bursa wolf مع ضبط جميع القيم إلى 0. إذا كان فارغًا، سيتم ضبط ToWgs84 إلى معلمات [`IsNull`](../../bursawolfparameters/isnull/). |
+| معرّف | معرّف | معرف هذا المرجع. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | ellipsoid باطل. |
+| ArgumentNullException | البيضاوي فارغ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Ellipsoid](../../ellipsoid/)
 * class [BursaWolfParameters](../../bursawolfparameters/)
 * class [Identifier](../../identifier/)
 * class [GeographicDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

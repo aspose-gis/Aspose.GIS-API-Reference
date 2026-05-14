@@ -1,41 +1,41 @@
 ---
-title: Class SimplifySegmentsOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.SimplifySegmentsOptions فصل. خيارات لـSimplifySegments .
+title: "الفئة SimplifySegmentsOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.GeoTools.SimplifySegmentsOptions. خيارات لـ SimplifySegments"
 type: docs
-weight: 860
+weight: 2620
 url: /ar/net/aspose.gis.geotools/simplifysegmentsoptions/
 ---
 ## SimplifySegmentsOptions class
 
-خيارات لـ[`SimplifySegments`](../geometryoperations/simplifysegments/) .
+خيارات لـ [`SimplifySegments`](../geometryoperations/simplifysegments/).
 
 ```csharp
 public class SimplifySegmentsOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SimplifySegmentsOptions](simplifysegmentsoptions/#constructor)() | قم بإنشاء مثيل باستخدام حقول init افتراضيًا . |
-| [SimplifySegmentsOptions](simplifysegmentsoptions/#constructor_1)(SimplifySegmentsOptions) | إنشاء نسخة من المثيل`SimplifySegmentsOptions` . |
+| [SimplifySegmentsOptions](simplifysegmentsoptions/#constructor)() | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
+| [SimplifySegmentsOptions](simplifysegmentsoptions/#constructor_1)(SimplifySegmentsOptions) | إنشاء نسخة من المثيل `SimplifySegmentsOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance/) { get; set; } | معلمة الفحص هي نقطة بالقرب من قطعة خط. القيمة الافتراضية هي 0. |
+| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance/) { get; set; } | معامل الفحص هو النقطة القريبة من مقطع الخط. القيمة الافتراضية هي 0. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/simplifysegmentsoptions/clone/)() | إنشاء نسخة من الكائن . |
+| [Clone](../../aspose.gis.geotools/simplifysegmentsoptions/clone/)() | إنشاء نسخة من الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

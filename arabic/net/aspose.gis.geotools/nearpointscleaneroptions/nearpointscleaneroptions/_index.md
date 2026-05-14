@@ -1,43 +1,43 @@
 ---
-title: NearPointsCleanerOptions.NearPointsCleanerOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: NearPointsCleanerOptions البناء. قم بإنشاء مثيل باستخدام حقول init افتراضيًا .
+title: "NearPointsCleanerOptions.NearPointsCleanerOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ NearPointsCleanerOptions. إنشاء كائن مع الحقول الأولية بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/nearpointscleaneroptions/nearpointscleaneroptions/
 ---
 ## NearPointsCleanerOptions() {#constructor}
 
-قم بإنشاء مثيل باستخدام حقول init افتراضيًا .
+إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
 
 ```csharp
 public NearPointsCleanerOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NearPointsCleanerOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../nearpointscleaneroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../nearpointscleaneroptions/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## NearPointsCleanerOptions(NearPointsCleanerOptions) {#constructor_1}
 
-إنشاء نسخة من المثيل[`NearPointsCleanerOptions`](../) .
+إنشاء نسخة من الكائن [`NearPointsCleanerOptions`](../).
 
 ```csharp
 public NearPointsCleanerOptions(NearPointsCleanerOptions source)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| source | NearPointsCleanerOptions | كائن المصدر. |
+| المصدر | NearPointsCleanerOptions | كائن المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NearPointsCleanerOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../nearpointscleaneroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../nearpointscleaneroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

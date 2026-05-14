@@ -1,24 +1,24 @@
 ---
-title: VerticalSpatialReferenceSystem.Type
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem ملكية. عودةVertical .
+title: "VerticalSpatialReferenceSystem.Type"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VerticalSpatialReferenceSystem. تُعيد Vertical"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/type/
 ---
 ## VerticalSpatialReferenceSystem.Type property
 
-عودةVertical .
+إرجاع Vertical.
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SpatialReferenceSystemType](../../spatialreferencesystemtype/)
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

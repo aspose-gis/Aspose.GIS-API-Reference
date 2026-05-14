@@ -1,28 +1,28 @@
 ---
-title: LineString.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString ملكية. يحصل على نوع الهندسة .
+title: "LineString.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineString. تحصل على نوع الهندسة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/linestring/geometrytype/
 ---
 ## LineString.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

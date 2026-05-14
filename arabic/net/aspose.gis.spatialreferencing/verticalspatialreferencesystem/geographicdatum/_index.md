@@ -1,24 +1,24 @@
 ---
-title: VerticalSpatialReferenceSystem.GeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem ملكية. رمياتInvalidOperationException  نظرًا لأن Vertical SRS لا يحتوي على بيانات جغرافية.
+title: "VerticalSpatialReferenceSystem.GeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VerticalSpatialReferenceSystem. تُطلق InvalidOperationException لأن Vertical SRS لا يحتوي على مرجع جغرافي."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/geographicdatum/
 ---
 ## VerticalSpatialReferenceSystem.GeographicDatum property
 
-رمياتInvalidOperationException ، نظرًا لأن Vertical SRS لا يحتوي على بيانات جغرافية.
+يرمي InvalidOperationException، لأن نظام الإسناد المكاني العمودي لا يحتوي على مرجع جغرافي.
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../../geographicdatum/)
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

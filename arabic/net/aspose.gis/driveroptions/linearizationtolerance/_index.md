@@ -1,31 +1,31 @@
 ---
-title: DriverOptions.LinearizationTolerance
-second_title: Aspose.GIS لمرجع .NET API
-description: DriverOptions ملكية. تفاوت لاستخدامه في تحديد الأشكال الهندسية للمنحنى الخطي.
+title: "DriverOptions.LinearizationTolerance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية DriverOptions. قيمة تسامح تُستخدم لتقويم الأشكال الهندسية المنحنية"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/driveroptions/linearizationtolerance/
 ---
 ## DriverOptions.LinearizationTolerance property
 
-تفاوت لاستخدامه في تحديد الأشكال الهندسية للمنحنى الخطي.
+قيمة تحمل تُستخدم لتقويم الأشكال المنحنية.
 
 ```csharp
 public double LinearizationTolerance { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-التسامح لتمرير إلى[`ToLinearGeometry`](../../../aspose.gis.geometries/geometry/tolineargeometry/) قبل إضافة الأشكال الهندسية.
+قيمة التسامح التي تُمرَّر إلى [`ToLinearGeometry`](../../../aspose.gis.geometries/geometry/tolineargeometry/) قبل إضافة الأشكال الهندسية.
 
-### ملاحظات
+## ملاحظات
 
-هذه خيارات إنشاء - لا تؤثر على الفتح . إذا كان السائق لا يدعم الأشكال الهندسية غير الخطية ، فسيتم تحويلها تلقائيًا إلى شكل خطي . تحدد هذه الخاصية وسيطة لـ[`ToLinearGeometry`](../../../aspose.gis.geometries/geometry/tolineargeometry/) الطريقة المستخدمة للخطية .
+هذا خيار إنشاء - لا يؤثر على الفتح. إذا كان السائق لا يدعم الأشكال الهندسية غير الخطية، يتم تقويمها تلقائيًا. تحدد هذه الخاصية معاملًا لطريقة [`ToLinearGeometry`](../../../aspose.gis.geometries/geometry/tolineargeometry/) المستخدمة في التقويم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DriverOptions](../)
-* مساحة الاسم [Aspose.Gis](../../driveroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

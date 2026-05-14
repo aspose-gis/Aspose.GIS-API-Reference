@@ -1,23 +1,23 @@
 ---
-title: Extent.Normalize
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. المقايضاتXMin معXMax لوWidth سلبي و YMin معYMax لوHeight سلبي .
+title: "Extent.Normalize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تبدل XMin مع XMax إذا كان Width سالبًا و YMin مع YMax إذا كان Height سالبًا"
 type: docs
 weight: 200
 url: /ar/net/aspose.gis/extent/normalize/
 ---
 ## Extent.Normalize method
 
-المقايضات[`XMin`](../xmin/) مع[`XMax`](../xmax/) لو[`Width`](../width/) سلبي و [`YMin`](../ymin/) مع[`YMax`](../ymax/) لو[`Height`](../height/) سلبي .
+تبدل [`XMin`](../xmin/) مع [`XMax`](../xmax/) إذا كان [`Width`](../width/) سالبًا و [`YMin`](../ymin/) مع [`YMax`](../ymax/) إذا كان [`Height`](../height/) سالبًا.
 
 ```csharp
 public void Normalize()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

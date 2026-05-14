@@ -1,7 +1,7 @@
 ---
-title: BursaWolfParameters.Rz
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters ملكية. Rz بالثواني.
+title: "BursaWolfParameters.Rz"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BursaWolfParameters. Rz بالثواني"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/rz/
@@ -14,10 +14,10 @@ Rz بالثواني.
 public double Rz { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,31 +1,31 @@
 ---
-title: IRasterValues.AsFloat
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterValues طريقة. يحول بيانات النطاق المحدد إلى ملفfloat القيمة .
+title: "IRasterValues.AsFloat"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IRasterValues. تحول بيانات النطاق المحدد إلى قيمة عائمة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.raster/irastervalues/asfloat/
 ---
 ## IRasterValues.AsFloat method
 
-يحول بيانات النطاق المحدد إلى ملف`float` القيمة .
+يحوّل بيانات الشريط المحدد إلى قيمة `float`.
 
 ```csharp
 public float AsFloat(int bandIndex = 0)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bandIndex | Int32 | فهرس الفرقة. يبدأ الترقيم من 0. |
+| bandIndex | Int32 | فهرس النطاق. يبدأ الترقيم من 0. |
 
 ### قيمة الإرجاع
 
-القيمة المحولة.
+القيمة المحوّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterValues](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irastervalues/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastervalues/)
+* assembly [Aspose.GIS](../../../)
 
 

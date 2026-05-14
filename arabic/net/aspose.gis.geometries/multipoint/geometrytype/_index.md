@@ -1,28 +1,28 @@
 ---
-title: MultiPoint.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiPoint ملكية. يحصل على نوع الهندسة .
+title: "MultiPoint.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiPoint. تحصل على نوع الشكل"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/multipoint/geometrytype/
 ---
 ## MultiPoint.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [MultiPoint](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multipoint/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

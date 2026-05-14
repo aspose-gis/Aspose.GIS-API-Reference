@@ -1,23 +1,23 @@
 ---
-title: Extent.YMax
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent ملكية. الحد الأقصى لقيمة الإحداثي ص.
+title: "Extent.YMax"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Extent. القيمة القصوى لإحداثي Y"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/extent/ymax/
 ---
 ## Extent.YMax property
 
-الحد الأقصى لقيمة الإحداثي ص.
+القيمة القصوى لإحداثي Y.
 
 ```csharp
 public double YMax { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

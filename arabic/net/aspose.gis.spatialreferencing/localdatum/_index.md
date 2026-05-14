@@ -1,9 +1,9 @@
 ---
-title: Class LocalDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.LocalDatum فصل. يشير إلى الطريقة المستخدمة للقياسات في نظام الإسناد المكاني المحلي.
+title: "الفئة LocalDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.LocalDatum. تشير إلى الطريقة المستخدمة للقياسات في نظام إسناد مكاني محلي."
 type: docs
-weight: 2170
+weight: 4620
 url: /ar/net/aspose.gis.spatialreferencing/localdatum/
 ---
 ## LocalDatum class
@@ -14,31 +14,31 @@ url: /ar/net/aspose.gis.spatialreferencing/localdatum/
 public class LocalDatum : IdentifiableObject
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LocalDatum](localdatum/)(string, int, Identifier) | إنشاء مثيل جديد . |
+| [LocalDatum](localdatum/)(string, int, Identifier) | إنشاء نسخة جديدة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [DatumType](../../aspose.gis.spatialreferencing/localdatum/datumtype/) { get; } | رقم صحيح يشير إلى طريقة القياس التي تم استخدامها. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف الكائنات هذا هو معرف EPSG - قم بإرجاع الكود الخاص به. خلاف ذلك - إرجاع -1 . |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرّف هذا الكائن القابل للتحديد . |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن . |
+| [DatumType](../../aspose.gis.spatialreferencing/localdatum/datumtype/) { get; } | عدد صحيح، يشير إلى طريقة القياس التي تم استخدامها. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IdentifiableObject](../identifiableobject/)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

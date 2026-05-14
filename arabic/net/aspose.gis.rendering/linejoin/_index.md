@@ -1,9 +1,9 @@
 ---
-title: Enum LineJoin
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.LineJoin تعداد. يحدد كيفية عرض الخطوط عند تقاطعات مقاطع الخط.
+title: "تعداد LineJoin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.LineJoin enum. يحدد كيفية عرض الخطوط عند تقاطع مقاطع الخط."
 type: docs
-weight: 1710
+weight: 4160
 url: /ar/net/aspose.gis.rendering/linejoin/
 ---
 ## LineJoin enumeration
@@ -14,17 +14,17 @@ url: /ar/net/aspose.gis.rendering/linejoin/
 public enum LineJoin
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Miter | `0` | زاوية حادة. |
-| Round | `1` | الركن الدائري. |
+| Round | `1` | زاوية مستديرة. |
 | Bevel | `2` | زاوية قطرية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

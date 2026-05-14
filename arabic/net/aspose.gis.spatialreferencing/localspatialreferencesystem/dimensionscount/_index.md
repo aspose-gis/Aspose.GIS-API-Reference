@@ -1,23 +1,23 @@
 ---
-title: LocalSpatialReferenceSystem.DimensionsCount
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalSpatialReferenceSystem ملكية. عدد الأبعاد في SRS.
+title: "LocalSpatialReferenceSystem.DimensionsCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LocalSpatialReferenceSystem. عدد الأبعاد في هذا SRS."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/dimensionscount/
 ---
 ## LocalSpatialReferenceSystem.DimensionsCount property
 
-عدد الأبعاد في SRS.
+عدد الأبعاد في هذا الـ SRS.
 
 ```csharp
 public override int DimensionsCount { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LocalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

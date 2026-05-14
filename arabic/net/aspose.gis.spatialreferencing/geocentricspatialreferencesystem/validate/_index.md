@@ -1,31 +1,31 @@
 ---
-title: GeocentricSpatialReferenceSystem.Validate
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystem طريقة. تحديد ما إذا كان SRS هذا صالحًا. يرىValidate لوصف الصلاحية.
+title: "GeocentricSpatialReferenceSystem.Validate"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeocentricSpatialReferenceSystem. تحديد ما إذا كان هذا SRS صالحًا. راجع Validate للحصول على وصف الصلاحية"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/validate/
 ---
 ## GeocentricSpatialReferenceSystem.Validate method
 
-تحديد ما إذا كان SRS هذا صالحًا. يرى[`Validate`](../../spatialreferencesystem/validate/) لوصف الصلاحية.
+تحديد ما إذا كان هذا SRS صالحًا. راجع [`Validate`](../../spatialreferencesystem/validate/) للحصول على وصف الصلاحية.
 
 ```csharp
 public override bool Validate(out string errorMessage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| errorMessage | String& | وصف البطلان (إذا كانت النتيجة`false`) |
+| errorMessage | String& | وصف عدم الصلاحية (إذا كانت النتيجة `false`) |
 
 ### قيمة الإرجاع
 
-إذا كان هذا SRS صالحًا -`true` ، خلاف ذلك -`false`.
+إذا كان هذا SRS صالحًا - `true`، وإلا - `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeocentricSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

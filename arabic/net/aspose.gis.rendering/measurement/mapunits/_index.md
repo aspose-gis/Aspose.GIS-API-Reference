@@ -1,31 +1,31 @@
 ---
-title: Measurement.MapUnits
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement طريقة. إرجاع مثيل جديد منقياس التي تمثل الطول في الخرائط وحدات الإسناد المكاني.
+title: "Measurement.MapUnits"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بوحدات إسناد الفضاء للخرائط"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering/measurement/mapunits/
 ---
 ## Measurement.MapUnits method
 
-إرجاع مثيل جديد من`قياس` التي تمثل الطول في الخرائط وحدات الإسناد المكاني.
+يعيد نسخة جديدة من `Measurement` تمثل الطول بوحدات الإشارة المكانية للخرائط.
 
 ```csharp
 public static Measurement MapUnits(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | عدد الوحدات. |
+| قيمة | Double | عدد الوحدات. |
 
 ### قيمة الإرجاع
 
-مثيل جديد من`قياس` فصل.
+نسخة جديدة من الفئة `Measurement`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

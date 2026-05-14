@@ -1,7 +1,7 @@
 ---
-title: TopoJsonDriver.CanCreateLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة.
+title: "TopoJsonDriver.CanCreateLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية TopoJsonDriver. تحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه إنشاء طبقات متجهة."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.topojson/topojsondriver/cancreatelayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.topojson/topojsondriver/cancreatelayers/
 public override bool CanCreateLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان هذا المحرك يمكنه إنشاء طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه إنشاء طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsondriver/)
+* assembly [Aspose.GIS](../../../)
 
 

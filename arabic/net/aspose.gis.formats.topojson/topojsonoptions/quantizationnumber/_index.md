@@ -1,14 +1,14 @@
 ---
-title: TopoJsonOptions.QuantizationNumber
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonOptions ملكية. يحدد رقم التكمية لاستخدامه في تحديد الإحداثيات وترميز دلتا في الإخراج TopoJSON.
+title: "TopoJsonOptions.QuantizationNumber"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية TopoJsonOptions. تحدد رقم الكم لتستخدمه في تقليل دقة الإحداثيات وترميز الفواصل للأقواس في TopoJSON الناتج."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.topojson/topojsonoptions/quantizationnumber/
 ---
 ## TopoJsonOptions.QuantizationNumber property
 
-يحدد رقم التكمية لاستخدامه في تحديد الإحداثيات وترميز دلتا في الإخراج TopoJSON.
+يحدد رقم التكميم لاستخدامه في تكميم الإحداثيات وترميز الفروقات للأقواس في TopoJSON الناتج.
 
 ```csharp
 public int? QuantizationNumber { get; set; }
@@ -16,18 +16,18 @@ public int? QuantizationNumber { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الوسيطة أقل من اثنين . |
+| ArgumentOutOfRangeException | الوسيط أقل من اثنين. |
 
-### ملاحظات
+## ملاحظات
 
-هذا خيار كتابة - لا يؤثر على القراءة . هذا الخيار خاص بشكل متبادل مع[`Transform`](../transform/) - واحد فقط من هذين الخيارين لا يمكن أن يكون كذلك`null` . إذا لم يكن الأمر كذلك`null` - يتم تكميم إحداثيات الخرج TopoJSON وتكون الأقواس مشفرة على شكل دلتا برقم تكمي محدد. يحدد رقم التكميم الحد الأقصى لعدد القيم التي يمكن التعبير عنها لكل بُعد في الإحداثيات الكمية الناتجة ؛ عادةً ما يتم اختيار قوة عشرة`null` .
+هذا خيار كتابة - لا يؤثر على القراءة. هذا الخيار متعارض مع [`Transform`](../transform/) - لا يمكن أن يكون أحد هذين الخيارين غير `null`. إذا لم يكن هذا `null` - يتم تقليل دقة إحداثيات TopoJSON وتشفير الأقواس بالفرق باستخدام رقم الكم المحدد. رقم الكم يحدد الحد الأقصى لعدد القيم القابلة للتعبير عنها لكل بُعد في الإحداثيات المُكمّدة الناتجة؛ عادةً ما يُختار أساس عشرة. القيمة الافتراضية هي `null`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

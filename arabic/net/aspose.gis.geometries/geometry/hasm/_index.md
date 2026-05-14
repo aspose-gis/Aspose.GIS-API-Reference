@@ -1,27 +1,27 @@
 ---
-title: Geometry.HasM
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات M.
+title: "Geometry.HasM"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية M."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/geometry/hasm/
 ---
 ## Geometry.HasM property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات M.
+يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية M.
 
 ```csharp
 public virtual bool HasM { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان هذا المثال يحتوي على تنسيق M ؛ خلاف ذلك،`false` .
+`true` إذا كانت هذه العينة تحتوي على إحداثي M؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

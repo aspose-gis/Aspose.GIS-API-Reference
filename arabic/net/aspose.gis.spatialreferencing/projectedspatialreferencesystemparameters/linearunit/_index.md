@@ -1,24 +1,24 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.LinearUnit
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters ملكية. الوحدات التي سيتم استخدامها في SRS. الافتراضي هوMeter .
+title: "ProjectedSpatialReferenceSystemParameters.LinearUnit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystemParameters. الوحدات المستخدمة في هذا النظام. القيمة الافتراضية هي Meter."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit/
 ---
 ## ProjectedSpatialReferenceSystemParameters.LinearUnit property
 
-الوحدات التي سيتم استخدامها في SRS. الافتراضي هو[`Meter`](../../unit/meter/) .
+الوحدات المستخدمة في هذا النظام. القيمة الافتراضية هي [`Meter`](../../unit/meter/).
 
 ```csharp
 public Unit LinearUnit { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

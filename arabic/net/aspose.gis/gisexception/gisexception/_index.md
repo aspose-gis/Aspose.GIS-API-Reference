@@ -1,64 +1,64 @@
 ---
-title: GisException.GisException
-second_title: Aspose.GIS لمرجع .NET API
-description: GisException البناء. يقوم بتهيئة مثيل جديد لملفGisException فئة .
+title: "GisException.GisException"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GisException. يهيئ مثيلًا جديدًا من الفئة GisException"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/gisexception/gisexception/
 ---
 ## GisException() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`GisException`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`GisException`](../).
 
 ```csharp
 public GisException()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GisException](../)
-* مساحة الاسم [Aspose.Gis](../../gisexception/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../gisexception/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## GisException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`GisException`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`GisException`](../).
 
 ```csharp
 public GisException(string message)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة التي تصف الخطأ. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GisException](../)
-* مساحة الاسم [Aspose.Gis](../../gisexception/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../gisexception/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## GisException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`GisException`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`GisException`](../).
 
 ```csharp
 public GisException(string message, Exception inner)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | message | String | الرسالة التي تصف الخطأ. |
-| inner | Exception | الاستثناء هو سبب الاستثناء الحالي. |
+| inner | Exception | الاستثناء الذي هو سبب الاستثناء الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GisException](../)
-* مساحة الاسم [Aspose.Gis](../../gisexception/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../gisexception/)
+* assembly [Aspose.GIS](../../../)
 
 

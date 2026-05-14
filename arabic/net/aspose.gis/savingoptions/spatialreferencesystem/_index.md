@@ -1,28 +1,28 @@
 ---
-title: SavingOptions.SpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: SavingOptions ملكية. خيارات خاصة ببرنامج التشغيل لطبقة الإخراج.
+title: "SavingOptions.SpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SavingOptions. خيارات خاصة بالسائق للطبقة الناتجة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/savingoptions/spatialreferencesystem/
 ---
 ## SavingOptions.SpatialReferenceSystem property
 
-خيارات خاصة ببرنامج التشغيل لطبقة الإخراج.
+خيارات خاصة بالسائق للطبقة الناتجة.
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-إذا لم يتم تحديدها`SpatialReferenceSystem` من تسلسل ميزات الإدخال.
+إذا لم يتم تحديد `SpatialReferenceSystem`، يتم استخدام نظام الإحداثيات الخاص بتسلسل الميزات المدخلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [SavingOptions](../)
-* مساحة الاسم [Aspose.Gis](../../savingoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../savingoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

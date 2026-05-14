@@ -1,9 +1,9 @@
 ---
-title: VectorLayer.Convert
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. تحويل طبقة إلى تنسيق مختلف.
+title: "VectorLayer.Convert"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. تحويل طبقة إلى تنسيق مختلف"
 type: docs
-weight: 200
+weight: 220
 url: /ar/net/aspose.gis/vectorlayer/convert/
 ---
 ## Convert(string, FileDriver, string, FileDriver) {#convert_2}
@@ -15,25 +15,25 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
     FileDriver destinationDriver)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | sourcePath | String | المسار إلى الطبقة التي سيتم تحويلها. |
-| sourceDriver | FileDriver | محرك التنسيق للطبقة المصدر. |
-| destinationPath | String | المسار إلى الطبقة التي سيتم إنشاؤها نتيجة للتحويل. |
-| destinationDriver | FileDriver | محرك التنسيق للطبقة الوجهة. |
+| sourceDriver | FileDriver | سائق التنسيق للطبقة المصدر. |
+| destinationPath | String | المسار إلى الطبقة التي سيتم إنشاؤها نتيجةً للتحويل. |
+| destinationDriver | FileDriver | سائق التنسيق للطبقة الوجهة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | كلا المسارين هو`null`. |
+| ArgumentNullException | إحدى المسارات هي `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileDriver](../../filedriver/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -46,26 +46,26 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
     AbstractPath destinationPath, FileDriver destinationDriver)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | sourcePath | AbstractPath | المسار إلى الطبقة التي سيتم تحويلها. |
-| sourceDriver | FileDriver | محرك التنسيق للطبقة المصدر. |
-| destinationPath | AbstractPath | المسار إلى الطبقة التي سيتم إنشاؤها نتيجة للتحويل. |
-| destinationDriver | FileDriver | محرك التنسيق للطبقة الوجهة. |
+| sourceDriver | FileDriver | سائق التنسيق للطبقة المصدر. |
+| destinationPath | AbstractPath | المسار إلى الطبقة التي سيتم إنشاؤها نتيجةً للتحويل. |
+| destinationDriver | FileDriver | سائق التنسيق للطبقة الوجهة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | كلا المسارين هو`null`. |
+| ArgumentNullException | إحدى المسارات هي `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -78,32 +78,32 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
     FileDriver destinationDriver, ConversionOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | sourcePath | String | المسار إلى الطبقة التي سيتم تحويلها. |
-| sourceDriver | FileDriver | محرك التنسيق للطبقة المصدر. |
-| destinationPath | String | المسار إلى الطبقة التي سيتم إنشاؤها نتيجة للتحويل. |
-| destinationDriver | FileDriver | محرك التنسيق للطبقة الوجهة. |
-| options | ConversionOptions | خيارات لإجراء التحويل. |
+| sourceDriver | FileDriver | سائق التنسيق للطبقة المصدر. |
+| destinationPath | String | المسار إلى الطبقة التي سيتم إنشاؤها نتيجةً للتحويل. |
+| destinationDriver | FileDriver | سائق التنسيق للطبقة الوجهة. |
+| الخيارات | ConversionOptions | خيارات إجراء التحويل. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | كلا المسارين هو`null`. |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | نظام الإسناد المكاني المحدد في*options* لا يدعمه*destinationDriver* . |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| ArgumentNullException | إحدى المسارات هي `null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileDriver](../../filedriver/)
 * class [ConversionOptions](../../conversionoptions/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -116,32 +116,32 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
     AbstractPath destinationPath, FileDriver destinationDriver, ConversionOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | sourcePath | AbstractPath | المسار إلى الطبقة التي سيتم تحويلها. |
-| sourceDriver | FileDriver | محرك التنسيق للطبقة المصدر. |
-| destinationPath | AbstractPath | المسار إلى الطبقة التي سيتم إنشاؤها نتيجة للتحويل. |
-| destinationDriver | FileDriver | محرك التنسيق للطبقة الوجهة. |
-| options | ConversionOptions | خيارات لإجراء التحويل. |
+| sourceDriver | FileDriver | سائق التنسيق للطبقة المصدر. |
+| destinationPath | AbstractPath | المسار إلى الطبقة التي سيتم إنشاؤها نتيجةً للتحويل. |
+| destinationDriver | FileDriver | سائق التنسيق للطبقة الوجهة. |
+| الخيارات | ConversionOptions | خيارات إجراء التحويل. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | كلا المسارين هو`null`. |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | نظام الإسناد المكاني المحدد في*options* لا يدعمه*destinationDriver* . |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المعالم من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف. |
+| ArgumentNullException | إحدى المسارات هي `null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [ConversionOptions](../../conversionoptions/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

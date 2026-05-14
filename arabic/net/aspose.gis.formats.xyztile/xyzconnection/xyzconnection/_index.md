@@ -1,27 +1,27 @@
 ---
-title: XyzConnection.XyzConnection
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzConnection البناء. إنشاء مثيل جديد منXyzConnection .
+title: "XyzConnection.XyzConnection"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ XyzConnection. إنشاء نسخة جديدة من XyzConnection"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.xyztile/xyzconnection/xyzconnection/
 ---
 ## XyzConnection constructor
 
-إنشاء مثيل جديد من[`XyzConnection`](../) .
+إنشاء نسخة جديدة من [`XyzConnection`](../).
 
 ```csharp
 public XyzConnection(string urlTemplate)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| urlTemplate | String | قالب عنوان URL لخادم التجانب. يحتوي هذا القالب على عناصر نائبة {z} و {x} و {y}. |
+| urlTemplate | String | قالب URL لخادم البلاط. يحتوي هذا القالب على عناصر نائبة {z} و {x} و {y}. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XyzConnection](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyzconnection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyzconnection/)
+* assembly [Aspose.GIS](../../../)
 
 

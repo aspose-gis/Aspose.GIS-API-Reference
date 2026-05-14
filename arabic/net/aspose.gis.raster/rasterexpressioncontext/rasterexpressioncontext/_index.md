@@ -1,28 +1,28 @@
 ---
-title: RasterExpressionContext.RasterExpressionContext
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterExpressionContext البناء. قم بإنشاء مثيل لـRasterExpressionContext
+title: "RasterExpressionContext.RasterExpressionContext"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ RasterExpressionContext. أنشئ مثيلاً من RasterExpressionContext"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/rasterexpressioncontext/rasterexpressioncontext/
 ---
 ## RasterExpressionContext constructor
 
-قم بإنشاء مثيل لـ[`RasterExpressionContext`](../)
+أنشئ مثيلاً من [`RasterExpressionContext`](../)
 
 ```csharp
 public RasterExpressionContext(int cellX, int cellY)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| cellX | Int32 | قيمة العمود (إحداثي س). |
-| cellY | Int32 | قيمة الصف (إحداثي ص). |
+| cellX | Int32 | قيمة العمود (x-coordinate). |
+| cellY | Int32 | قيمة الصف (y-coordinate). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RasterExpressionContext](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterexpressioncontext/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterexpressioncontext/)
+* assembly [Aspose.GIS](../../../)
 
 

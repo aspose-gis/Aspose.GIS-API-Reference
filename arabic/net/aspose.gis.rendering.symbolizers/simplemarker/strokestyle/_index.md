@@ -1,7 +1,7 @@
 ---
-title: SimpleMarker.StrokeStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker ملكية. يحدد كيفية رسم خطوط الرمز.
+title: "SimpleMarker.StrokeStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleMarker. تحدد كيفية رسم خطوط الرمز"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/strokestyle/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/strokestyle/
 public StrokeStyle StrokeStyle { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [StrokeStyle](../../../aspose.gis.rendering/strokestyle/)
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

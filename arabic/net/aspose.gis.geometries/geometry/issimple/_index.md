@@ -1,23 +1,23 @@
 ---
-title: Geometry.IsSimple
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثال بسيطًا من وجهة نظر SFA.
+title: "Geometry.IsSimple"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كان هذا الكائن بسيطًا من منظور SFA."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/geometry/issimple/
 ---
 ## Geometry.IsSimple property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثال بسيطًا من وجهة نظر SFA.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن بسيطًا من منظور SFA.
 
 ```csharp
 public bool IsSimple { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

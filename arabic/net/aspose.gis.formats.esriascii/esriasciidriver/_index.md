@@ -1,14 +1,14 @@
 ---
-title: Class EsriAsciiDriver
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.EsriAscii.EsriAsciiDriver فصل. برنامج تشغيل لشبكة Esri ASCII .
+title: "الفئة EsriAsciiDriver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.EsriAscii.EsriAsciiDriver. سائق لتنسيق Esri ASCII Grid"
 type: docs
-weight: 210
+weight: 1800
 url: /ar/net/aspose.gis.formats.esriascii/esriasciidriver/
 ---
 ## EsriAsciiDriver class
 
-برنامج تشغيل لشبكة Esri ASCII .
+محرك لتنسيق Esri ASCII Grid.
 
 ```csharp
 public class EsriAsciiDriver : RasterDriver
@@ -16,25 +16,25 @@ public class EsriAsciiDriver : RasterDriver
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.esriascii/esriasciidriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات البيانات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.esriascii/esriasciidriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(AbstractPath) | يفتح الطبقة للقراءة . |
-| [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string) | يفتح الطبقة للقراءة . |
-| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_1)(AbstractPath, EsriAsciiOptions) | يفتح طبقة للقراءة . |
-| override [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_2)(AbstractPath, RasterDriverOptions) | يفتح الطبقة للقراءة . |
-| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_4)(string, EsriAsciiOptions) | يفتح طبقة للقراءة . |
-| [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string, RasterDriverOptions) | يفتح الطبقة للقراءة . |
+| [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(AbstractPath) | يفتح الطبقة للقراءة. |
+| [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string) | يفتح الطبقة للقراءة. |
+| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_1)(AbstractPath, EsriAsciiOptions) | يفتح طبقة للقراءة. |
+| override [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_2)(AbstractPath, RasterDriverOptions) | يفتح الطبقة للقراءة. |
+| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_4)(string, EsriAsciiOptions) | يفتح طبقة للقراءة. |
+| [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string, RasterDriverOptions) | يفتح الطبقة للقراءة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterDriver](../../aspose.gis/rasterdriver/)
-* مساحة الاسم [Aspose.Gis.Formats.EsriAscii](../../aspose.gis.formats.esriascii/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.EsriAscii](../../aspose.gis.formats.esriascii/)
+* assembly [Aspose.GIS](../../)
 
 

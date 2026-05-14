@@ -1,23 +1,23 @@
 ---
-title: JoinOptions.JoinedAttributesPrefix
-second_title: Aspose.GIS لمرجع .NET API
-description: JoinOptions ملكية. تحدد سلسلة بادئة لأسماء السمات المرتبطة. الافتراضي هو انضم _ .
+title: "JoinOptions.JoinedAttributesPrefix"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية JoinOptions. تحدد سلسلة بادئة لأسماء السمات المدمجة. القيمة الافتراضية هي joined_"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.relationship.joins/joinoptions/joinedattributesprefix/
 ---
 ## JoinOptions.JoinedAttributesPrefix property
 
-تحدد سلسلة بادئة لأسماء السمات المرتبطة. الافتراضي هو "انضم _" .
+يحدد سلسلة بادئة لأسماء السمات المدمجة. القيمة الافتراضية هي "joined_".
 
 ```csharp
 public string JoinedAttributesPrefix { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JoinOptions](../)
-* مساحة الاسم [Aspose.Gis.Relationship.Joins](../../joinoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Relationship.Joins](../../joinoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

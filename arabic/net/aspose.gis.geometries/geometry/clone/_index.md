@@ -1,14 +1,14 @@
 ---
-title: Geometry.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. استنساخ هذا المثال .
+title: "Geometry.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تنسخ هذه الحالة"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/geometry/clone/
 ---
 ## Geometry.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public abstract Geometry Clone()
@@ -16,12 +16,12 @@ public abstract Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

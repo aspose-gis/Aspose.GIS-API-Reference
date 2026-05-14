@@ -1,23 +1,23 @@
 ---
-title: GeocentricSpatialReferenceSystem.DimensionsCount
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystem ملكية. إرجاع 3  نظرًا لأن SRS هو دائمًا ثلاثي الأبعاد.
+title: "GeocentricSpatialReferenceSystem.DimensionsCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeocentricSpatialReferenceSystem. إرجاع 3 لأن SRS الجيوسنترى دائمًا ثلاثي الأبعاد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/dimensionscount/
 ---
 ## GeocentricSpatialReferenceSystem.DimensionsCount property
 
-إرجاع 3 ، نظرًا لأن SRS هو دائمًا ثلاثي الأبعاد.
+يرجع 3، لأن geocentric SRS دائمًا ما يكون ثلاثي الأبعاد.
 
 ```csharp
 public override int DimensionsCount { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeocentricSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: RasterBand.DataType
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterBand ملكية. الحصول على نوع القيم المخزنة في كل خلية.
+title: "RasterBand.DataType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterBand. يحصل على نوع القيم المخزنة في كل خلية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/rasterband/datatype/
 ---
 ## RasterBand.DataType property
 
-الحصول على نوع القيم المخزنة في كل خلية.
+يحصل على نوع القيم المخزنة في كل خلية.
 
 ```csharp
 public BandTypes DataType { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [BandTypes](../../bandtypes/)
 * class [RasterBand](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterband/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterband/)
+* assembly [Aspose.GIS](../../../)
 
 

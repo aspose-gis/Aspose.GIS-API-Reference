@@ -1,14 +1,14 @@
 ---
-title: Class Labeling
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.Labeling فصل. فئة الجذر المجردة للتسميات  الفئات التي تصف كيفية وضع الملصقات على الميزات.
+title: "الفئة Labeling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.Labelings.Labeling. الفئة الجذرية المجردة لفئات التسمية التي تصف كيفية وضع التسميات على العناصر."
 type: docs
-weight: 1620
+weight: 4070
 url: /ar/net/aspose.gis.rendering.labelings/labeling/
 ---
 ## Labeling class
 
-فئة الجذر المجردة للتسميات ، الفئات التي تصف كيفية وضع الملصقات على الميزات.
+الفئة الجذرية المجردة للتسميات، الفئات التي تصف كيفية وضع التسميات على الميزات.
 
 ```csharp
 public abstract class Labeling
@@ -16,13 +16,13 @@ public abstract class Labeling
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.labelings/labeling/null/) { get; } | يحصل على مثيل[`NullLabeling`](../nulllabeling/) . |
+| static [Null](../../aspose.gis.rendering.labelings/labeling/null/) { get; } | يحصل على مثيل من [`NullLabeling`](../nulllabeling/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

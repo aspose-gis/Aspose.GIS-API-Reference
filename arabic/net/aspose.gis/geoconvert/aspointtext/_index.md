@@ -1,61 +1,61 @@
 ---
-title: GeoConvert.AsPointText
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoConvert طريقة. إرجاع الموضع المحسوب كسلسلة بالتنسيق المحدد.
+title: "GeoConvert.AsPointText"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeoConvert. تُرجع الموضع المحسوب كسلسلة نصية بالتنسيق المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/geoconvert/aspointtext/
 ---
 ## AsPointText(double, double, PointFormats) {#aspointtext_1}
 
-إرجاع الموضع المحسوب كسلسلة بالتنسيق المحدد.
+يعيد الموضع المحسوب كسلسلة في الصيغة المحددة.
 
 ```csharp
 public static string AsPointText(double latitude, double longitude, PointFormats format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| latitude | Double | خط العرض الموقف. |
-| longitude | Double | موقف خط الطول. |
-| format | PointFormats | شكل النتيجة. |
+| latitude | Double | خط عرض الموضع. |
+| longitude | Double | خط طول الموضع. |
+| التنسيق | PointFormats | تنسيق النتيجة. |
 
 ### قيمة الإرجاع
 
-الموضع كسلسلة.
+الموضع كسلسلة نصية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [PointFormats](../../pointformats/)
 * class [GeoConvert](../)
-* مساحة الاسم [Aspose.Gis](../../geoconvert/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../geoconvert/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AsPointText(IPoint, PointFormats) {#aspointtext}
 
-إرجاع الموضع المحسوب كسلسلة بالتنسيق المحدد.
+يعيد الموضع المحسوب كسلسلة في الصيغة المحددة.
 
 ```csharp
 public static string AsPointText(IPoint point, PointFormats format)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | IPoint | كائن IPoint. |
-| format | PointFormats | شكل النتيجة. |
+| نقطة | IPoint | كائن IPoint. |
+| التنسيق | PointFormats | تنسيق النتيجة. |
 
 ### قيمة الإرجاع
 
-الموضع كسلسلة.
+الموضع كسلسلة نصية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../../aspose.gis.geometries/ipoint/)
 * enum [PointFormats](../../pointformats/)
 * class [GeoConvert](../)
-* مساحة الاسم [Aspose.Gis](../../geoconvert/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../geoconvert/)
+* assembly [Aspose.GIS](../../../)
 
 

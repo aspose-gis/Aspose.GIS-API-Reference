@@ -1,7 +1,7 @@
 ---
-title: RuleBasedLabeling.Item
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedLabeling ملكية. يحصل على القاعدة في الفهرس المحدد.
+title: "RuleBasedLabeling.Item"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RuleBasedLabeling. يحصل على القاعدة في الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/item/
@@ -14,19 +14,19 @@ url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/item/
 public LabelingRule this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس الصفري للقاعدة للحصول عليها. |
+| الفهرس | الفهرس الصفري للقاعدة المطلوب الحصول عليها. |
 
 ### قيمة الإرجاع
 
 القاعدة في الفهرس المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelingRule](../../labelingrule/)
 * class [RuleBasedLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

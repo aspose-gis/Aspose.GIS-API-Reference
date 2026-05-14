@@ -1,24 +1,24 @@
 ---
-title: RasterMapLayer.Resampling
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterMapLayer ملكية. يحدد خيارات الالتواء للطبقة على الخريطة.
+title: "RasterMapLayer.Resampling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterMapLayer. تحدد خيارات التشويه للطبقة على الخريطة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering/rastermaplayer/resampling/
 ---
 ## RasterMapLayer.Resampling property
 
-يحدد خيارات الالتواء للطبقة على الخريطة.
+يحدد خيارات التشويه للطبقة على الخريطة.
 
 ```csharp
 public RasterMapResampling Resampling { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterMapResampling](../../rastermapresampling/)
 * class [RasterMapLayer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../rastermaplayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../rastermaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

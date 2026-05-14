@@ -1,23 +1,23 @@
 ---
-title: RuleBasedSymbolizer.RuleBasedSymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedSymbolizer البناء. Default_Constructor
+title: "RuleBasedSymbolizer.RuleBasedSymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ RuleBasedSymbolizer. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/rulebasedsymbolizer/
 ---
 ## RuleBasedSymbolizer constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public RuleBasedSymbolizer()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RuleBasedSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

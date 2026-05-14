@@ -1,24 +1,24 @@
 ---
-title: LabelingRule.Labeling
-second_title: Aspose.GIS لمرجع .NET API
-description: LabelingRule ملكية. وضع العلامات للتطبيق على الميزة.
+title: "LabelingRule.Labeling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LabelingRule. التسمية لتطبيقها على المعلم"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/labeling/
 ---
 ## LabelingRule.Labeling property
 
-وضع العلامات للتطبيق على الميزة.
+التصنيف لتطبيقه على العنصر.
 
 ```csharp
 public Labeling Labeling { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Labeling](../../labeling/)
 * class [LabelingRule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

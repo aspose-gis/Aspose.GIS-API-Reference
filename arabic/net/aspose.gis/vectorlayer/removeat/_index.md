@@ -1,35 +1,35 @@
 ---
-title: VectorLayer.RemoveAt
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. قم بإزالة ملفFeature في الفهرس المحدد.
+title: "VectorLayer.RemoveAt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. إزالة الـ Feature عند الفهرس المحدد"
 type: docs
-weight: 160
+weight: 180
 url: /ar/net/aspose.gis/vectorlayer/removeat/
 ---
 ## VectorLayer.RemoveAt method
 
-قم بإزالة ملف[`Feature`](../../feature/) في الفهرس المحدد.
+إزالة الـ [`Feature`](../../feature/) عند الفهرس المحدد.
 
 ```csharp
 public virtual void RemoveAt(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس الميزة. |
+| الفهرس | Int32 | فهرس الـ feature. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم طرحها إذا كانت الطبقة غير قابلة للتحرير. |
+| InvalidOperationException | يتم رميه إذا كانت الطبقة غير قابلة للتحرير. |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

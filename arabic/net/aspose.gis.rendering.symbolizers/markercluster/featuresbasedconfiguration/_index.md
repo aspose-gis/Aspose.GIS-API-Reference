@@ -1,28 +1,28 @@
 ---
-title: MarkerCluster.FeaturesBasedConfiguration
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerCluster ملكية. رد اتصال يُستخدم لتكوين هذا الرمز قبل عرض مركز الكتلة.
+title: "MarkerCluster.FeaturesBasedConfiguration"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerCluster. رد نداء يُستخدم لتكوين هذا الرموز قبل عرض مركز التجمع"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration/
 ---
 ## MarkerCluster.FeaturesBasedConfiguration property
 
-رد اتصال يُستخدم لتكوين هذا الرمز قبل عرض مركز الكتلة.
+استدعاء رد نداء يُستخدم لتكوين هذا المُرمّز قبل رسم مركز المجموعة.
 
 ```csharp
 public Action<IEnumerable<Feature>, MarkerCluster> FeaturesBasedConfiguration { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-يتم استدعاء رد الاتصال هذا قبل تقديم كل مركز كتلة. يقبل ميزات على وشك أن يتم تقديمها ونسخة من هذا الرمز. من خلال تغيير خصائص الاستنساخ ، من الممكن تحديث سلوك رمز الاستنساخ بناءً على سمات الميزات.
+يتم استدعاء رد النداء هذا قبل عرض كل مركز تجميع. وهو يقبل ميزات على وشك العرض ونسخة مستنسخة من هذا symbolizer. من خلال تغيير خصائص النسخة المستنسخة، يمكن تحديث سلوك symbolizer بناءً على سمات الميزات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [MarkerCluster](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
+* assembly [Aspose.GIS](../../../)
 
 

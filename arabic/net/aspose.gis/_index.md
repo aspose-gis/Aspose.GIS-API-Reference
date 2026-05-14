@@ -1,56 +1,57 @@
 ---
-title: Aspose.Gis
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis توفر مساحة الاسم فئات لإنشاء وتحويل وتعديل بيانات GIS.
+title: "Aspose.Gis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis توفر فئات لإنشاء وتحويل وتعديل بيانات GIS"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/
 ---
-`Aspose.Gis` توفر مساحة الاسم فئات لإنشاء وتحويل وتعديل بيانات GIS.
+`Aspose.Gis` مساحة الاسم توفر فئات لإنشاء وتحويل وتعديل بيانات GIS.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [AbstractPath](./abstractpath/) | أن`AbstractPath` هي فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام ملفات ، مثل نظام ملفات محلي ، أو تخزين ملفات بعيد أو أرشيف مضغوط ، من بين أمور أخرى. |
-| [AttributesConverterActions](./attributesconverteractions/) | إجراءات اختيارية بسمات الطبقة الوجهة . |
-| [ConversionOptions](./conversionoptions/) | خيارات لتحويل البيانات بين التنسيقات . |
-| [DatabaseDriver](./databasedriver/) | برنامج تشغيل لتنسيق قاعدة بيانات محددة. |
-| [DatabaseDriverOptions](./databasedriveroptions/) | خيارات أ[`DatabaseDriver`](../aspose.gis/databasedriver/) . |
-| [Dataset](./dataset/) | مجموعة البيانات هي مجموعة[`VectorLayer`](../aspose.gis/vectorlayer/) مثيلات . |
-| [Driver](./driver/) | فئة أساسية للسائقين لبيانات GIS . |
-| [DriverOptions](./driveroptions/) | خيارات أ[`Driver`](../aspose.gis/driver/) . |
-| [Drivers](./drivers/) | برامج تشغيل لجميع التنسيقات المدعومة . |
-| [Extent](./extent/) | مربع إحاطة مكانية ثنائية الأبعاد. |
-| [Feature](./feature/) | ميزة جغرافية تتكون من سمات هندسية ومعرفة من قبل المستخدم. |
-| [FeatureAttribute](./featureattribute/) | سمة من سمات ملف[`Feature`](../aspose.gis/feature/) . |
-| [FeatureAttributeCollection](./featureattributecollection/) | أ[`FeatureAttributeCollection`](../aspose.gis/featureattributecollection/) يحدد السمات المتاحة لـ[`Feature`](../aspose.gis/feature/) . |
-| [FeaturesSequence](./featuressequence/) | [`FeaturesSequence`](../aspose.gis/featuressequence/) يمثل مجموعة من الميزات المتجهة. |
-| [FeatureStyle](./featurestyle/) | فئة الجذر المجردة للتسلسل الهرمي لأنماط الميزة. |
-| [FileDriver](./filedriver/) | برنامج تشغيل خاص بتنسيق مستند إلى ملف . |
-| [GeoConvert](./geoconvert/) | تحويل الإحداثيات من / إلى التنسيقات المختلفة. |
-| [GisException](./gisexception/) | الاستثناء الذي يتم طرحه عند حدوث خطأ أثناء معالجة بيانات GIS . |
-| [License](./license/) | يوفر طرقًا لترخيص المكون. |
-| [Metered](./metered/) | يوفر طرقًا لتعيين المفتاح المقنن . |
-| [NumericFormat](./numericformat/) | [`NumericFormat`](../aspose.gis/numericformat/) تُستخدم لتنسيق الأنواع الرقمية الشائعة في النص. |
-| [PrecisionModel](./precisionmodel/) | [`PrecisionModel`](../aspose.gis/precisionmodel/) يحدد عددًا من الأرقام المهمة في إحداثي. |
-| [RasterDriver](./rasterdriver/) | برنامج تشغيل لتنسيق معين قائم على البيانات النقطية. |
-| [RasterDriverOptions](./rasterdriveroptions/) | خيارات أ[`RasterDriver`](../aspose.gis/rasterdriver/) . |
-| [SavingOptions](./savingoptions/) | خيارات للحفظ[`FeaturesSequence`](../aspose.gis/featuressequence/) إلى ملف . |
-| [VectorLayer](./vectorlayer/) | يمثل طبقة متجه . الطبقة المتجهة هي مجموعة من المعالم الجغرافية ، مخزنة في ملف. |
-## واجهات
+| [AbstractPath](./abstractpath/) | الـ `AbstractPath` هو فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام الملفات، مثل نظام ملفات محلي، أو تخزين ملفات بعيد، أو أرشيف ZIP، من بين أمور أخرى. |
+| [AttributesConverterActions](./attributesconverteractions/) | إجراءات اختيارية مع سمات طبقة الوجهة. |
+| [ConversionOptions](./conversionoptions/) | خيارات تحويل البيانات بين الصيغ. |
+| [DatabaseDriver](./databasedriver/) | برنامج تشغيل لتنسيق قائم على قاعدة بيانات محددة. |
+| [DatabaseDriverOptions](./databasedriveroptions/) | خيارات للـ [`DatabaseDriver`](../aspose.gis/databasedriver/). |
+| [Dataset](./dataset/) | مجموعة البيانات هي مجموعة من مثيلات [`VectorLayer`](../aspose.gis/vectorlayer/). |
+| [Driver](./driver/) | فئة أساسية لسواقات بيانات GIS. |
+| [DriverOptions](./driveroptions/) | خيارات لـ [`Driver`](../aspose.gis/driver/). |
+| [Drivers](./drivers/) | محركات لجميع الصيغ المدعومة. |
+| [Extent](./extent/) | صندوق حدود فضائي ثنائي الأبعاد. |
+| [Feature](./feature/) | ميزة جغرافية مكوّنة من شكل هندسي وسمات معرفة من قبل المستخدم. |
+| [FeatureAttribute](./featureattribute/) | سمة لـ [`Feature`](../aspose.gis/feature/). |
+| [FeatureAttributeCollection](./featureattributecollection/) | يحدد [`FeatureAttributeCollection`](../aspose.gis/featureattributecollection/) ما هي السمات المتاحة لـ [`Feature`](../aspose.gis/feature/). |
+| [FeaturesSequence](./featuressequence/) | يمثل [`FeaturesSequence`](../aspose.gis/featuressequence/) مجموعة من الميزات المتجهية. |
+| [FeatureStyle](./featurestyle/) | الفئة الجذرية المجردة لتسلسل أنماط المميزات. |
+| [FileDriver](./filedriver/) | محرك لتنسيق يعتمد على ملف محدد. |
+| [GeoConvert](./geoconvert/) | يحوّل الإحداثيات إلى/من الصيغ المختلفة. |
+| [GisException](./gisexception/) | الاستثناء الذي يُرمى عندما يحدث خطأ أثناء معالجة بيانات نظام المعلومات الجغرافية. |
+| [License](./license/) | يوفر طرقًا لتفعيل الترخيص للمكوّن. |
+| [Metered](./metered/) | يوفر طرقًا لتعيين المفتاح المقيس. |
+| [MultiStreamPath](./multistreampath/) | هذه الفئة تعمل مع الصيغ التي تحتوي على عدة ملفات. |
+| [NumericFormat](./numericformat/) | يُستخدم [`NumericFormat`](../aspose.gis/numericformat/) لتنسيق الأنواع الرقمية الشائعة في النص. |
+| [PrecisionModel](./precisionmodel/) | يحدد [`PrecisionModel`](../aspose.gis/precisionmodel/) عدد الأرقام ذات الدلالة في الإحداثي. |
+| [RasterDriver](./rasterdriver/) | محرك لتنسيق يعتمد على raster محدد. |
+| [RasterDriverOptions](./rasterdriveroptions/) | خيارات لـ [`RasterDriver`](../aspose.gis/rasterdriver/). |
+| [SavingOptions](./savingoptions/) | خيارات حفظ [`FeaturesSequence`](../aspose.gis/featuressequence/) إلى ملف. |
+| [VectorLayer](./vectorlayer/) | يمثل طبقة متجهية. الطبقة المتجهية هي مجموعة من الميزات الجغرافية، مخزنة في ملف. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
 | [IAttributesConverter](./iattributesconverter/) | محول مخصص لسمات الطبقة. |
-| [IFeatureStyle](./ifeaturestyle/) | فئة جذر الواجهة للتسلسل الهرمي لأنماط الميزة. |
+| [IFeatureStyle](./ifeaturestyle/) | الفئة الجذرية للواجهة لتسلسل أنماط الميزة. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [AttributeDataType](./attributedatatype/) | نوع البيانات لسمة الميزة . |
-| [AutoIds](./autoids/) | إنشاء المعرفات تلقائيًا . |
-| [PointFormats](./pointformats/) | [`PointFormats`](../aspose.gis/pointformats/) تستخدم لتحويل الإحداثيات في النص. |
-| [SpatialReferenceSystemMode](./spatialreferencesystemmode/) | يحدد وضع نظام الإسناد المكاني (SRS) للكتابة في database إذا كان SRS غير معروف. |
+| [AttributeDataType](./attributedatatype/) | نوع البيانات لسمة الميزة. |
+| [AutoIds](./autoids/) | إنشاء معرفات تلقائيًا. |
+| [PointFormats](./pointformats/) | يُستخدم [`PointFormats`](../aspose.gis/pointformats/) لتحويل الإحداثيات في النص. |
+| [SpatialReferenceSystemMode](./spatialreferencesystemmode/) | يحدد وضع كتابة نظام الإسناد المكاني (SRS) في قاعدة البيانات إذا كان SRS غير معروف. |
 
 

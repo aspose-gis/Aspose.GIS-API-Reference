@@ -1,14 +1,14 @@
 ---
-title: Class ProjectedSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystem فصل. SRS المتوقع هو نتيجة لتطبيق إسقاط على SRS الجغرافي . يمكن أن يكون SRS المسقط ثنائي الأبعاد أو ثلاثي الأبعاد . إذا كان SRS المسقط ثلاثي الأبعاد  فهو في الواقع SRS مركب من ثنائي الأبعاد مسقط SRS وبُعد رأسي أحادي البعد SRS.
+title: "الفئة ProjectedSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystem. نظام الإحداثيات الإسقاطي Projected SRS هو نتيجة تطبيق إسقاط على نظام الإحداثيات الجغرافي geographic SRS. يمكن أن يكون نظام الإحداثيات الإسقاطي ثنائي الأبعاد أو ثلاثي الأبعاد. إذا كان نظام الإحداثيات الإسقاطي ثلاثيًا الأبعاد، فهو في الواقع نظام إحداثيات مركب يتكون من نظام إحداثيات إسقاطي ثنائي الأبعاد ونظام إحداثيات عمودي أحادي البعد vertical SRS."
 type: docs
-weight: 2220
+weight: 4670
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/
 ---
 ## ProjectedSpatialReferenceSystem class
 
-SRS المتوقع هو نتيجة لتطبيق إسقاط على SRS الجغرافي . يمكن أن يكون SRS المسقط ثنائي الأبعاد أو ثلاثي الأبعاد . إذا كان SRS المسقط ثلاثي الأبعاد ، فهو في الواقع SRS مركب من ثنائي الأبعاد مسقط SRS وبُعد رأسي أحادي البعد SRS.
+نظام الإسناد الإسقاطي هو نتيجة تطبيق إسقاط على نظام إسناد جغرافي. يمكن أن يكون نظام إسناد إسقاطي ثنائي الأبعاد أو ثلاثي الأبعاد. إذا كان نظام الإسناد الإسقاطي ثلاثيًا الأبعاد، فهو في الواقع نظام إسناد مركب يتكون من نظام إسناد إسقاطي ثنائي الأبعاد ونظام إسناد عمودي أحادي البعد.
 
 ```csharp
 public abstract class ProjectedSpatialReferenceSystem : SpatialReferenceSystem
@@ -16,49 +16,49 @@ public abstract class ProjectedSpatialReferenceSystem : SpatialReferenceSystem
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [AngularUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/angularunit/) { get; } | وحدة ، تُستخدم للقيم الزاوية في SRS وللمعلمات الزاوية لـ[`Projection`](./projection/) . تطابق الوحدة الزاوية من[`Base`](./base/) . |
-| virtual [AsCompound](../../aspose.gis.spatialreferencing/spatialreferencesystem/ascompound/) { get; } | إرجاع تحويل SRS هذا إلى[`CompoundSpatialReferenceSystem`](../compoundspatialreferencesystem/) . استخدم[`IsCompound`](../spatialreferencesystem/iscompound/) لمعرفة ما إذا كان التحويل ممكنًا. |
-| virtual [AsGeocentric](../../aspose.gis.spatialreferencing/spatialreferencesystem/asgeocentric/) { get; } | إرجاع تحويل SRS هذا إلى[`GeocentricSpatialReferenceSystem`](../geocentricspatialreferencesystem/) . استخدم[`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
-| virtual [AsGeographic](../../aspose.gis.spatialreferencing/spatialreferencesystem/asgeographic/) { get; } | إرجاع تحويل SRS هذا إلى[`GeographicSpatialReferenceSystem`](../geographicspatialreferencesystem/) . استخدم[`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
-| virtual [AsLocal](../../aspose.gis.spatialreferencing/spatialreferencesystem/aslocal/) { get; } | إرجاع تحويل SRS هذا إلى[`LocalSpatialReferenceSystem`](../localspatialreferencesystem/) . استخدم[`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
-| [AsProjected](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/asprojected/) { get; } | إرجاع هذا . |
-| virtual [AsVertical](../../aspose.gis.spatialreferencing/spatialreferencesystem/asvertical/) { get; } | إرجاع تحويل SRS هذا إلى[`VerticalSpatialReferenceSystem`](../verticalspatialreferencesystem/) . استخدم[`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
-| abstract [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/axisesorder/) { get; } | ترتيب المحاور في SRS. إذا لم يكن SRS هذا صالحًا وله اتجاهات محاور خاطئة ،Invalid تم إرجاعه . |
-| abstract [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/base/) { get; } | جغرافي SRS إليها[`Projection`](./projection/) تم تطبيقه للحصول على SRS. |
-| abstract [DimensionsCount](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/dimensionscount/) { get; } | يتم حساب أبعاد المرتجعات في SRS. بالنسبة إلى SRS المتوقع ، يمكن أن يكون هذا: اثنان - إذا كان هذا هو SRS الإسقاط الفردي . ثلاثة - إذا كان هذا هو SRS المركب ، والذي يتكون من SRS أحادي وثنائي الأبعاد ومتوقع SRS وعمودي ، يضيف بعدًا ثالثًا. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف الكائنات هذا هو معرف EPSG - قم بإرجاع الكود الخاص به. خلاف ذلك - إرجاع -1 . |
-| abstract [GeographicDatum](../../aspose.gis.spatialreferencing/spatialreferencesystem/geographicdatum/) { get; } | إرجاع البيانات الجغرافية لهذا SRS. |
-| [HasGeographicDatum](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasgeographicdatum/) { get; } | العوائد صحيحة ، نظرًا لأن SRS المتوقع لها دائمًا خط الزوال الأولي. |
-| [HasPrimeMeridian](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasprimemeridian/) { get; } | العوائد صحيحة ، نظرًا لأن SRS المتوقع لها دائمًا خط الزوال الأولي. |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرّف هذا الكائن القابل للتحديد . |
-| virtual [IsCompound](../../aspose.gis.spatialreferencing/spatialreferencesystem/iscompound/) { get; } | إرجاع ما إذا كان SRS مركبًا (اتحاد اثنين من SRS) . تعتبر مجموعات SRS التالية في SRS المركب صالحة: Geographic SRS + Vertical SRS ، في هذه الحالة سيكون نوع SRS المركبGeographic . SRS + عمودي SRS ، في هذه الحالة سيكون نوع SRS المركبProjected . إذا اختلفت مجموعة SRS ، فسيكون نوع SRS المركبUnknown . |
-| [IsSingle](../../aspose.gis.spatialreferencing/spatialreferencesystem/issingle/) { get; } | إرجاع ما إذا كانت SRS هذه مفردة (وليست اتحادًا بين اثنين من SRS) . |
-| [IsValid](../../aspose.gis.spatialreferencing/spatialreferencesystem/isvalid/) { get; } | نفس[`Validate`](../spatialreferencesystem/validate/) ، ولكن لا تقم بإرجاع رسالة الخطأ. |
-| abstract [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/linearunit/) { get; } | الوحدة المستخدمة للأبعاد الخطية في SRS والمعلمات الخطية لـ[`Projection`](./projection/) . |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن . |
-| abstract [PrimeMeridian](../../aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/) { get; } | إرجاع خط الطول الأولي لهذا SRS. |
-| abstract [Projection](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/projection/) { get; } | الإسقاط الذي تم تطبيقه عليه[`Base`](./base/) للحصول على هذا SRS. |
-| [Type](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/type/) { get; } | عوائدProjected . |
+| abstract [AngularUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/angularunit/) { get; } | الوحدة المستخدمة للقيم الزاوية في هذا SRS وللمعلمات الزاوية لـ [`Projection`](./projection/). تتطابق مع الوحدة الزاوية لـ [`Base`](./base/). |
+| virtual [AsCompound](../../aspose.gis.spatialreferencing/spatialreferencesystem/ascompound/) { get; } | يعيد هذا نظام الإسناد المكاني محولًا إلى [`CompoundSpatialReferenceSystem`](../compoundspatialreferencesystem/). استخدم [`IsCompound`](../spatialreferencesystem/iscompound/) لمعرفة ما إذا كان التحويل ممكنًا. |
+| virtual [AsGeocentric](../../aspose.gis.spatialreferencing/spatialreferencesystem/asgeocentric/) { get; } | يعيد هذا نظام الإسناد المكاني محولًا إلى [`GeocentricSpatialReferenceSystem`](../geocentricspatialreferencesystem/). استخدم [`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
+| virtual [AsGeographic](../../aspose.gis.spatialreferencing/spatialreferencesystem/asgeographic/) { get; } | يعيد هذا نظام الإسناد المكاني محولًا إلى [`GeographicSpatialReferenceSystem`](../geographicspatialreferencesystem/). استخدم [`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
+| virtual [AsLocal](../../aspose.gis.spatialreferencing/spatialreferencesystem/aslocal/) { get; } | يعيد هذا نظام الإسناد المكاني محولًا إلى [`LocalSpatialReferenceSystem`](../localspatialreferencesystem/). استخدم [`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
+| [AsProjected](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/asprojected/) { get; } | إرجاع هذا. |
+| virtual [AsVertical](../../aspose.gis.spatialreferencing/spatialreferencesystem/asvertical/) { get; } | يرجع هذا SRS محوَّلًا إلى [`VerticalSpatialReferenceSystem`](../verticalspatialreferencesystem/). استخدم [`Type`](../spatialreferencesystem/type/) لمعرفة ما إذا كان التحويل ممكنًا. |
+| abstract [AxisesOrder](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/axisesorder/) { get; } | ترتيب المحاور في هذا SRS. إذا لم يكن هذا SRS صالحًا وكان لديه اتجاهات محاور خاطئة، يتم إرجاع Invalid. |
+| abstract [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/base/) { get; } | SRS الجغرافي الذي تم تطبيق [`Projection`](./projection/) عليه للحصول على هذا SRS. |
+| abstract [DimensionsCount](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/dimensionscount/) { get; } | يرجع عدد الأبعاد في هذا SRS. بالنسبة إلى SRS المُسقَّط يمكن أن يكون: اثنان - إذا كان هذا SRS مسقَّطًا واحدًا. ثلاثة - إذا كان هذا SRS مركبًا، يتكون من SRS مسقَّط أحادي البعد ثنائي الأبعاد و SRS عمودي، مما يضيف البعد الثالث. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| abstract [GeographicDatum](../../aspose.gis.spatialreferencing/spatialreferencesystem/geographicdatum/) { get; } | يرجع datum الجغرافي لهذا SRS. |
+| [HasGeographicDatum](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasgeographicdatum/) { get; } | يرجع true، لأن SRS المُسقَّط دائمًا ما يكون له prime meridian. |
+| [HasPrimeMeridian](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasprimemeridian/) { get; } | يرجع true، لأن SRS المُسقَّط دائمًا ما يكون له prime meridian. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
+| virtual [IsCompound](../../aspose.gis.spatialreferencing/spatialreferencesystem/iscompound/) { get; } | يعيد ما إذا كان هذا نظام الإسناد المكاني مركبًا (اتحاد نظامين إسناد مكاني). تُعتبر التركيبات التالية لنظام الإسناد المكاني في النظام المركب صالحة: نظام إسناد مكاني جغرافي + نظام إسناد مكاني عمودي، في هذه الحالة سيكون نوع النظام المركب جغرافيًا. نظام إسناد مكاني إسقاطي + نظام إسناد مكاني عمودي، في هذه الحالة سيكون نوع النظام المركب إسقاطيًا. إذا اختلفت تركيبة الأنظمة، سيكون نوع النظام المركب غير معروف. |
+| [IsSingle](../../aspose.gis.spatialreferencing/spatialreferencesystem/issingle/) { get; } | يعيد ما إذا كان هذا نظام الإسناد المكاني منفردًا (ليس اتحاد نظامين إسناد مكاني). |
+| [IsValid](../../aspose.gis.spatialreferencing/spatialreferencesystem/isvalid/) { get; } | نفس ما يفعله [`Validate`](../spatialreferencesystem/validate/)، لكن لا يُعيد رسالة الخطأ. |
+| abstract [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/linearunit/) { get; } | الوحدة المستخدمة للأبعاد الخطية في هذا SRS وللمعاملات الخطية لـ [`Projection`](./projection/). |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
+| abstract [PrimeMeridian](../../aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/) { get; } | يرجع prime meridian لهذا SRS. |
+| abstract [Projection](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/projection/) { get; } | الإسقاط الذي تم تطبيقه على [`Base`](./base/) للحصول على هذا SRS. |
+| [Type](../../aspose.gis.spatialreferencing/projectedspatialreferencesystem/type/) { get; } | يرجع Projected. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateTransformationTo](../../aspose.gis.spatialreferencing/spatialreferencesystem/createtransformationto/)(SpatialReferenceSystem) | ينشئ التحول من هذا`نظام المرجع المكاني` إلى آخر`نظام المرجع المكاني` . |
-| [ExportToWkt](../../aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/)() | إرجاع تمثيل SRS كسلسلة WKT. ستطابق سلسلة WKT الناتجة مواصفات OGC 01-009 ، والتي تسمى عادةً "WKT1" . |
-| abstract [GetAxis](../../aspose.gis.spatialreferencing/spatialreferencesystem/getaxis/)(int) | احصل على[`Axis`](../axis/) الذي يصف البعد. |
-| abstract [GetUnit](../../aspose.gis.spatialreferencing/spatialreferencesystem/getunit/)(int) | احصل على[`Unit`](../unit/)البعد . |
-| virtual [IsEquivalent](../../aspose.gis.spatialreferencing/spatialreferencesystem/isequivalent/)(SpatialReferenceSystem) | يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى. . |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
-| [TryCreateTransformationTo](../../aspose.gis.spatialreferencing/spatialreferencesystem/trycreatetransformationto/)(SpatialReferenceSystem, out SpatialReferenceSystemTransformation) | ينشئ التحول من هذا`نظام المرجع المكاني` إلى آخر`نظام المرجع المكاني` . |
-| abstract [Validate](../../aspose.gis.spatialreferencing/spatialreferencesystem/validate/)(out string) | تحديد ما إذا كان SRS هذا صالحًا. |
+| [CreateTransformationTo](../../aspose.gis.spatialreferencing/spatialreferencesystem/createtransformationto/)(SpatialReferenceSystem) | ينشئ تحويلًا من هذا `SpatialReferenceSystem` إلى `SpatialReferenceSystem` آخر. |
+| [ExportToWkt](../../aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/)() | يرجع تمثيل هذا SRS كسلسلة WKT. سلسلة WKT الناتجة ستطابق مواصفة OGC 01-009، عادةً تُسمى "WKT1". |
+| abstract [GetAxis](../../aspose.gis.spatialreferencing/spatialreferencesystem/getaxis/)(int) | احصل على [`Axis`](../axis/) الذي يصف البُعد. |
+| abstract [GetUnit](../../aspose.gis.spatialreferencing/spatialreferencesystem/getunit/)(int) | احصل على [`Unit`](../unit/) للبُعد. |
+| virtual [IsEquivalent](../../aspose.gis.spatialreferencing/spatialreferencesystem/isequivalent/)(SpatialReferenceSystem) | يكشف ما إذا كان هذا SRS مكافئًا لـ SRS آخر. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| [TryCreateTransformationTo](../../aspose.gis.spatialreferencing/spatialreferencesystem/trycreatetransformationto/)(SpatialReferenceSystem, out SpatialReferenceSystemTransformation) | ينشئ تحويلًا من هذا `SpatialReferenceSystem` إلى `SpatialReferenceSystem` آخر. |
+| abstract [Validate](../../aspose.gis.spatialreferencing/spatialreferencesystem/validate/)(out string) | تحديد ما إذا كان هذا SRS صالحًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../spatialreferencesystem/)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

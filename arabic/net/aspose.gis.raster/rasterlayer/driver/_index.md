@@ -1,24 +1,24 @@
 ---
-title: RasterLayer.Driver
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer ملكية. يحصل على ملفDriver الذي أدى إلى إنشاء هذه الطبقة.
+title: "RasterLayer.Driver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterLayer. تحصل على السائق (Driver) الذي أنشأ هذه الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/rasterlayer/driver/
 ---
 ## RasterLayer.Driver property
 
-يحصل على ملف`Driver` الذي أدى إلى إنشاء هذه الطبقة.
+تحصل على `Driver` الذي أنشأ هذه الطبقة.
 
 ```csharp
 public abstract Driver Driver { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Driver](../../../aspose.gis/driver/)
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

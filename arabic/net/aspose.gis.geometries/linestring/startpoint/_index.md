@@ -1,14 +1,14 @@
 ---
-title: LineString.StartPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString ملكية. إرجاع نسخة من نقطة البداية للمنحنى.
+title: "LineString.StartPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineString. تُرجع نسخة من نقطة البداية للمنحنى"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geometries/linestring/startpoint/
 ---
 ## LineString.StartPoint property
 
-إرجاع نسخة من نقطة البداية للمنحنى.
+يعيد نسخة من نقطة البداية للمنحنى.
 
 ```csharp
 public override IPoint StartPoint { get; }
@@ -16,15 +16,15 @@ public override IPoint StartPoint { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الهندسة فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

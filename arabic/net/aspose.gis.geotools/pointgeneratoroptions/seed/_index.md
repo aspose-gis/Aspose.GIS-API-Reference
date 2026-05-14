@@ -1,23 +1,23 @@
 ---
-title: PointGeneratorOptions.Seed
-second_title: Aspose.GIS لمرجع .NET API
-description: PointGeneratorOptions ملكية. رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة.
+title: "PointGeneratorOptions.Seed"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "PointGeneratorOptions خاصية. رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools/pointgeneratoroptions/seed/
 ---
 ## PointGeneratorOptions.Seed property
 
-رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة.
+رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة.
 
 ```csharp
 public int Seed { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PointGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

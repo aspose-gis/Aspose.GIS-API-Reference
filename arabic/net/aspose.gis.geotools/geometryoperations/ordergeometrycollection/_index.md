@@ -1,32 +1,32 @@
 ---
-title: GeometryOperations.OrderGeometryCollection
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryOperations طريقة. ترتيب التجميع الهندسي حسب النوع إلى أربع مجموعات نقطة وخط ومضلع ونوع آخر
+title: "GeometryOperations.OrderGeometryCollection"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryOperations. ترتيب مجموعة الهندسة حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر)"
 type: docs
-weight: 40
+weight: 80
 url: /ar/net/aspose.gis.geotools/geometryoperations/ordergeometrycollection/
 ---
 ## GeometryOperations.OrderGeometryCollection method
 
-ترتيب التجميع الهندسي حسب النوع إلى أربع مجموعات (نقطة وخط ومضلع ونوع آخر)
+ترتيب مجموعة الأشكال الهندسية حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر)
 
 ```csharp
 public static IGeometry OrderGeometryCollection(IGeometry geometry)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | جمع الهندسة للطلب |
+| هندسة | IGeometry | مجموعة الهندسة للترتيب |
 
 ### قيمة الإرجاع
 
-تحتوي المجموعة على أربع مجموعات (نقطة ، خط ، مضلع ونوع آخر)
+المجموعة تحتوي على أربع مجموعات (نقطة، خط، مضلع ونوع آخر)
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [GeometryOperations](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../geometryoperations/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geometryoperations/)
+* assembly [Aspose.GIS](../../../)
 
 

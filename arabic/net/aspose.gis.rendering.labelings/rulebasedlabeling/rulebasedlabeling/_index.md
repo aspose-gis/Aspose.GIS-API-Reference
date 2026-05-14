@@ -1,23 +1,23 @@
 ---
-title: RuleBasedLabeling.RuleBasedLabeling
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedLabeling البناء. Default_Constructor
+title: "RuleBasedLabeling.RuleBasedLabeling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ RuleBasedLabeling. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/rulebasedlabeling/
 ---
 ## RuleBasedLabeling constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public RuleBasedLabeling()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RuleBasedLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

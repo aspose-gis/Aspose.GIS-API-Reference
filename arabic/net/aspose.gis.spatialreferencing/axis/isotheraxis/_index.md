@@ -1,23 +1,23 @@
 ---
-title: Axis.IsOtherAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: Axis ملكية. يكتشف ما إذا كان اتجاه المحور هذا غير ذلك.
+title: "Axis.IsOtherAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Axis. يكتشف ما إذا كان اتجاه هذا المحور آخر"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/axis/isotheraxis/
 ---
 ## Axis.IsOtherAxis property
 
-يكتشف ما إذا كان اتجاه المحور هذا غير ذلك.
+يكشف ما إذا كان اتجاه هذا المحور هو آخر.
 
 ```csharp
 public bool IsOtherAxis { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../axis/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../axis/)
+* assembly [Aspose.GIS](../../../)
 
 

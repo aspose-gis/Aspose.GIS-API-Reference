@@ -1,30 +1,30 @@
 ---
-title: Interface ILineString
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.ILineString واجهه المستخدم. منحنى متعدد الرؤوس باستيفاء خطي بين النقاط.
+title: "الواجهة ILineString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Geometries.ILineString الواجهة. منحنى متعدد الرؤوس مع استيفاء خطي بين النقاط"
 type: docs
-weight: 1020
+weight: 2800
 url: /ar/net/aspose.gis.geometries/ilinestring/
 ---
 ## ILineString interface
 
-منحنى متعدد الرؤوس باستيفاء خطي بين النقاط.
+منحنى متعدد الرؤوس مع استيفاء خطي بين النقاط.
 
 ```csharp
 public interface ILineString : ICurve, IEquatable<ILineString>, IReadOnlyList<IPoint>
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToEditable](../../aspose.gis.geometries/ilinestring/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToEditable](../../aspose.gis.geometries/ilinestring/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../icurve/)
 * interface [IPoint](../ipoint/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

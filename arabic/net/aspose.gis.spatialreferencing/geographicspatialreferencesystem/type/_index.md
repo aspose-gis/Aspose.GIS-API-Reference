@@ -1,24 +1,24 @@
 ---
-title: GeographicSpatialReferenceSystem.Type
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicSpatialReferenceSystem ملكية. عوائدGeographic .
+title: "GeographicSpatialReferenceSystem.Type"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicSpatialReferenceSystem. تُرجع Geographic"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/type/
 ---
 ## GeographicSpatialReferenceSystem.Type property
 
-عوائدGeographic .
+يرجع جغرافي.
 
 ```csharp
 public SpatialReferenceSystemType Type { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SpatialReferenceSystemType](../../spatialreferencesystemtype/)
 * class [GeographicSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

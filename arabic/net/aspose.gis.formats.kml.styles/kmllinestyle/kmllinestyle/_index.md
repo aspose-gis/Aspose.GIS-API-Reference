@@ -1,23 +1,23 @@
 ---
-title: KmlLineStyle.KmlLineStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlLineStyle البناء. Default_Constructor
+title: "KmlLineStyle.KmlLineStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlLineStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmllinestyle/kmllinestyle/
 ---
 ## KmlLineStyle constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlLineStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlLineStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmllinestyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmllinestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

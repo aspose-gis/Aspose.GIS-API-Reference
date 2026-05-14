@@ -1,23 +1,23 @@
 ---
-title: LineGeneratorOptions.LineGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: LineGeneratorOptions البناء. Default_Constructor
+title: "LineGeneratorOptions.LineGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ LineGeneratorOptions. إنشاء مثال مع الحقول الأولية بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/linegeneratoroptions/linegeneratoroptions/
 ---
 ## LineGeneratorOptions constructor
 
-Default_Constructor
+إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
 
 ```csharp
 public LineGeneratorOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

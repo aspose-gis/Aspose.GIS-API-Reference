@@ -1,23 +1,23 @@
 ---
-title: SimpleLabeling.LabelAttribute
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. اسم السمة المراد استخدامه كمصدر للتسميات. إذا تجاهلتهاLabelExpression تم تعيينه. إماLabelAttribute أوLabelExpression يجب تعيينها قبل التقديم  InvalidOperationException يتم طرحها بخلاف ذلك.
+title: "SimpleLabeling.LabelAttribute"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. اسم السمة لاستخدامه كمصدر للتسميات. يتم تجاهله إذا تم تعيين LabelExpression. يجب تعيين إما LabelAttribute أو LabelExpression قبل التصيير، وإلا يتم رمي InvalidOperationException"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/labelattribute/
 ---
 ## SimpleLabeling.LabelAttribute property
 
-اسم السمة المراد استخدامه كمصدر للتسميات. إذا تجاهلتها[`LabelExpression`](../labelexpression/) تم تعيينه. إما`LabelAttribute` أو[`LabelExpression`](../labelexpression/) يجب تعيينها قبل التقديم ؛ InvalidOperationException يتم طرحها بخلاف ذلك.
+اسم السمة لاستخدامه كمصدر للتسميات. يتم تجاهله إذا تم تعيين [`LabelExpression`](../labelexpression/). يجب تعيين إما `LabelAttribute` أو [`LabelExpression`](../labelexpression/) قبل التصيير؛ يتم رمي InvalidOperationException وإلا.
 
 ```csharp
 public string LabelAttribute { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

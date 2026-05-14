@@ -1,14 +1,14 @@
 ---
-title: IMultiSurface.ToLinearGeometry
-second_title: Aspose.GIS لمرجع .NET API
-description: IMultiSurface طريقة. الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضيتسامح .
+title: "IMultiSurface.ToLinearGeometry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IMultiSurface. تحصل على نسخة تقريبية أو مكافئة غير منحنية لهذا الشكل الهندسي باستخدام التسامح الافتراضي"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/imultisurface/tolineargeometry/
 ---
 ## ToLinearGeometry() {#tolineargeometry}
 
-الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضي`تسامح` .
+يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` الافتراضي.
 
 ```csharp
 public IMultiPolygon ToLinearGeometry()
@@ -16,51 +16,51 @@ public IMultiPolygon ToLinearGeometry()
 
 ### قيمة الإرجاع
 
-أ[`IMultiPolygon`](../../imultipolygon/) التي تقترب أو تعادل هذا[`IMultiSurface`](../). هذا ما يعادل`ToLinearGeometry` with افتراضي`تسامح` . تقصير`تسامح` تعتمد قيمة s على[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) من هذه الهندسة:  بالنسبة لـ SRS Tolerance المتوقع هو 0.001 متر (بوحدات SRS) بالنسبة لـ SRS Tolerance الجغرافي هو`1e-5` درجات (بوحدات SRS) بالنسبة إلى غير معروف SRS Tolerance هو`1e-5` لمزيد من التفاصيل حول ماهية التحويلات المطبقة ، يرجى الرجوع إلى`ToLinearGeometry` المواصفات .
+‏[`IMultiPolygon`](../../imultipolygon/) تقريبية أو مكافئة لهذا [`IMultiSurface`](../). هذه هي المكافئة لـ `ToLinearGeometry` مع `tolerance` الافتراضية. قيمة `tolerance` الافتراضية تعتمد على [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) لهذا الشكل الهندسي:  بالنسبة إلى نظام الإحداثيات المُسقَّط (SRS) يكون التسامح 0.001 متر (بوحدات SRS)  بالنسبة إلى نظام الإحداثيات الجغرافي (SRS) يكون التسامح `1e-5` درجة (بوحدات SRS)  بالنسبة إلى نظام إحداثيات غير معروف يكون التسامح `1e-5` للحصول على مزيد من التفاصيل حول التحويلات المطبقة راجع مواصفات `ToLinearGeometry`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | هذه الهندسة غير صالحة من هذا القبيل ، ولا يمكن إتمام هذه العملية . |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IMultiPolygon](../../imultipolygon/)
 * interface [IMultiSurface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../imultisurface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../imultisurface/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## ToLinearGeometry(double) {#tolineargeometry_1}
 
-الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام المحدد`تسامح` .
+يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` المحدد.
 
 ```csharp
 public IMultiPolygon ToLinearGeometry(double tolerance)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tolerance | Double | ملف`تسامح`ليستخدم. النتيجة مضمونة أن تكون أقل من`تسامح` بعيدًا عن الهندسة المنحنية ، ما لم يتجاوز عدد النقاط المطلوبة لخطية الشكل الهندسي الحد الأقصى لكل ربع ، يساوي حاليًا 10000 نقطة. |
+| التسامح | Double | قيمة `tolerance` للاستخدام. النتيجة مضمونة أن تكون أقل من `tolerance` بعيدًا عن الهندسة المنحنية، ما لم يتجاوز عدد النقاط المطلوبة لتقويم الهندسة الحد الأقصى لكل ربع، وهو حاليًا يساوي 10000 نقطة. |
 
 ### قيمة الإرجاع
 
-أ[`IMultiPolygon`](../../imultipolygon/) التي تقترب أو تعادل هذا[`IMultiSurface`](../) :  إذا كان هذا الكائن[`IMultiPolygon`](../../imultipolygon/) النتيجة نفسها تكون مكافئة لهذا الكائن إذا لم يكن هذا الكائن[`IMultiPolygon`](../../imultipolygon/) - جميع الأسطح مستقيمة وجديدة`متعدد المضلع` تم إنشاؤه
+‏[`IMultiPolygon`](../../imultipolygon/) تقريبية أو مكافئة لهذا [`IMultiSurface`](../):  إذا كان هذا الكائن هو نفسه [`IMultiPolygon`](../../imultipolygon/) فإن النتيجة مكافئة لهذا الكائن. إذا لم يكن هذا الكائن [`IMultiPolygon`](../../imultipolygon/) - يتم تحويل جميع الأسطح إلى خطية ويتم إنشاء `IMultiPolygon` جديد
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | `تسامح` أصغر من أو يساوي`0` . |
-| InvalidOperationException | هذه الهندسة غير صالحة من هذا القبيل ، ولا يمكن إتمام هذه العملية . |
+| ArgumentOutOfRangeException | `tolerance` أقل من أو يساوي `0`. |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IMultiPolygon](../../imultipolygon/)
 * interface [IMultiSurface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../imultisurface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../imultisurface/)
+* assembly [Aspose.GIS](../../../)
 
 

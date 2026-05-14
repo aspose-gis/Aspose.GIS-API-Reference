@@ -1,7 +1,7 @@
 ---
-title: Unit.Degree
-second_title: Aspose.GIS لمرجع .NET API
-description: Unit ملكية. احصل على الوحدة التي تمثل الدرجات.
+title: "Unit.Degree"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Unit. احصل على الوحدة التي تمثل الدرجات"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/unit/degree/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.spatialreferencing/unit/degree/
 public static Unit Degree { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../unit/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../unit/)
+* assembly [Aspose.GIS](../../../)
 
 

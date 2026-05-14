@@ -1,20 +1,20 @@
 ---
-title: Feature.GetValueOrDefault
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. يحصل على قيمة سمة  أوDefaultValue إذا كانت القيمة غير محددة أوباطل .
+title: "Feature.GetValueOrDefault"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. الحصول على قيمة سمة أو DefaultValue إذا كانت القيمة غير مُحددة أو null."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/feature/getvalueordefault/
 ---
 ## GetValueOrDefault&lt;T&gt;(string) {#getvalueordefault_1}
 
-يحصل على قيمة سمة ، أو[`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير محددة أو`باطل` .
+الحصول على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
 
 ```csharp
 public T GetValueOrDefault<T>(string attributeName)
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | النوع المطلوب للقيمة. |
 | attributeName | اسم السمة. |
@@ -25,41 +25,41 @@ public T GetValueOrDefault<T>(string attributeName)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لم يتم تعيين قيمة هذه السمة لهذه الميزة. |
-| InvalidCastException | النوع المطلوب لا يتم تنفيذهIConvertible. |
-| InvalidCastException | قيمة السمة هي`null`، ولكن النوع المطلوب هو نوع القيمة. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+| InvalidCastException | النوع المطلوب لا يُطبق الواجهة IConvertible. |
+| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمي. |
 | FormatException | فشل التحويل لأن القيمة بتنسيق غير صحيح. |
 | OverflowException | فشل التحويل بسبب تجاوز السعة. |
 
-### ملاحظات
+## ملاحظات
 
-تقوم هذه الطريقة بتحويل القيمة تلقائيًا إلى النوع المطلوب في معلمة النوع العام.
+هذه الطريقة تحول القيمة تلقائيًا إلى النوع المطلوب في معامل النوع العام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## GetValueOrDefault(string, object) {#getvalueordefault}
 
-يحصل على قيمة سمة ، أو[`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير محددة أو`باطل` .
+الحصول على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
 
 ```csharp
 public object GetValueOrDefault(string attributeName, object defaultValue = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | attributeName | String | اسم السمة. |
-| defaultValue | Object | القيمة المراد إرجاعها إذا كانت قيمة السمة مفقودة. القيمة الافتراضية هي`null` . |
+| defaultValue | Object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة. القيمة الافتراضية هي `null`. |
 
 ### قيمة الإرجاع
 
@@ -67,34 +67,34 @@ public object GetValueOrDefault(string attributeName, object defaultValue = null
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لم يتم تعيين قيمة هذه السمة لهذه الميزة. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## GetValueOrDefault&lt;T&gt;(string, object) {#getvalueordefault_2}
 
-يحصل على قيمة سمة ، أو[`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير محددة أو`باطل` .
+الحصول على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
 
 ```csharp
 public T GetValueOrDefault<T>(string attributeName, object defaultValue)
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | النوع المطلوب للقيمة. |
 | attributeName | اسم السمة. |
-| defaultValue | القيمة المراد إرجاعها إذا كانت قيمة السمة مفقودة. |
+| defaultValue | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة. |
 
 ### قيمة الإرجاع
 
@@ -102,25 +102,25 @@ public T GetValueOrDefault<T>(string attributeName, object defaultValue)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لم يتم تعيين قيمة هذه السمة لهذه الميزة. |
-| InvalidCastException | النوع المطلوب لا يتم تنفيذهIConvertible. |
-| InvalidCastException | قيمة السمة هي`null`، ولكن النوع المطلوب هو نوع القيمة. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+| InvalidCastException | النوع المطلوب لا يُطبق الواجهة IConvertible. |
+| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمي. |
 | FormatException | فشل التحويل لأن القيمة بتنسيق غير صحيح. |
 | OverflowException | فشل التحويل بسبب تجاوز السعة. |
 
-### ملاحظات
+## ملاحظات
 
-تقوم هذه الطريقة بتحويل القيمة تلقائيًا إلى النوع المطلوب في معلمة النوع العام.
+هذه الطريقة تحول القيمة تلقائيًا إلى النوع المطلوب في معامل النوع العام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

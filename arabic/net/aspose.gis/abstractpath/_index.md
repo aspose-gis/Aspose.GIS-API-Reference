@@ -1,14 +1,14 @@
 ---
-title: Class AbstractPath
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.AbstractPath فصل. أنAbstractPath هي فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام ملفات  مثل نظام ملفات محلي  أو تخزين ملفات بعيد أو أرشيف مضغوط  من بين أمور أخرى.
+title: "الفئة AbstractPath"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.AbstractPath. الـ AbstractPath هو فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام الملفات مثل نظام ملفات محلي أو تخزين ملفات بعيد أو أرشيف ZIP من بين أمور أخرى"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/abstractpath/
 ---
 ## AbstractPath class
 
-أن`AbstractPath` هي فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام ملفات ، مثل نظام ملفات محلي ، أو تخزين ملفات بعيد أو أرشيف مضغوط ، من بين أمور أخرى.
+الـ `AbstractPath` هو فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام الملفات، مثل نظام ملفات محلي، أو تخزين ملفات بعيد، أو أرشيف ZIP، من بين أمور أخرى.
 
 ```csharp
 public abstract class AbstractPath
@@ -16,34 +16,34 @@ public abstract class AbstractPath
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Location](../../aspose.gis/abstractpath/location/) { get; } | يحصل على سلسلة تمثيل لموقع هذا`AbstractPath` . |
-| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | يحصل على حرف فاصل يستخدم لفصل مستويات الدليل لملف[`Location`](./location/) خيط. |
+| abstract [Location](../../aspose.gis/abstractpath/location/) { get; } | يحصل على تمثيل نصي لموقع هذا `AbstractPath`. |
+| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | يحصل على حرف الفاصل المستخدم لفصل مستويات الدليل في سلسلة [`Location`](./location/). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath/)(string) | ينشئ ملف`AbstractPath` يمثل موقعًا على نظام الملفات المحلي. |
-| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | ينشئ ملف`AbstractPath` منStream . |
-| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | يجمع هذا`AbstractPath` بمكونات المسار المحددة. |
-| abstract [Delete](../../aspose.gis/abstractpath/delete/)() | يحذف الملف المشار إليه بهذا المسار. |
-| [GetExtension](../../aspose.gis/abstractpath/getextension/)() | إرجاع امتداد هذا`AbstractPath` . |
-| [GetFileName](../../aspose.gis/abstractpath/getfilename/)() | يقوم بإرجاع اسم الملف وامتداده`AbstractPath` . |
-| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | يقوم بإرجاع اسم الملف الخاص بهذا`AbstractPath` بدون الامتداد . |
-| abstract [IsFile](../../aspose.gis/abstractpath/isfile/)() | الحصول على قيمة تشير إلى ما إذا كان هذا المسار يشير إلى ملف موجود يمكن فتحه للقراءة. |
-| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory/)() | إرجاع المسارات الموجودة داخل هذا`AbstractPath` ، إذا كان دليلًا . |
-| abstract [Open](../../aspose.gis/abstractpath/open/)(FileAccess) | يفتح هذا`AbstractPath`كملف . |
-| virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | إرجاع ملف`AbstractPath` مع امتداد الملف تغير إلى القيمة المحددة. |
+| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath/)(string) | ينشئ `AbstractPath` يمثل موقعًا على نظام الملفات المحلي. |
+| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | ينشئ `AbstractPath` من تدفق. |
+| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | يجمع هذا `AbstractPath` مع مكونات المسار المحددة. |
+| abstract [Delete](../../aspose.gis/abstractpath/delete/)() | يحذف ملفًا يشير إليه هذا المسار. |
+| [GetExtension](../../aspose.gis/abstractpath/getextension/)() | يعيد امتداد هذا `AbstractPath`. |
+| [GetFileName](../../aspose.gis/abstractpath/getfilename/)() | يعيد اسم الملف وامتداده لهذا `AbstractPath`. |
+| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | يعيد اسم الملف لهذا `AbstractPath` بدون الامتداد. |
+| abstract [IsFile](../../aspose.gis/abstractpath/isfile/)() | يحصل على قيمة تشير إلى ما إذا كان هذا المسار يشير إلى ملف موجود يمكن فتحه للقراءة. |
+| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory/)() | يعيد المسارات الموجودة داخل هذا `AbstractPath`، إذا كان دليلًا. |
+| abstract [Open](../../aspose.gis/abstractpath/open/)(FileAccess) | يفتح هذا `AbstractPath` كملف. |
+| virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | يعيد `AbstractPath` جديدًا مع تغيير امتداد الملف إلى القيمة المحددة. |
 
-### ملاحظات
+## ملاحظات
 
-أن`AbstractPath` قد تحدد موقعًا على نظام ملفات محلي ، أو موقعًا على نظام ملفات بعيد أو وحدة تخزين خارجية مثل وحدة تخزين Azure Blob ، وما إلى ذلك. قد يشير الموقع إلى كائنات شبيهة بالملف موجودة أو غير موجودة ، أو كائنات تشبه الدليل ، أو يكون لها أي معنى آخر معقول بالنسبة للبيئة التي تنتمي إليها. كمثال ، ملف`AbstractPath` يمكن للوارث الذي يمثل موقعًا على نظام الملفات المحلي أن يشير إلى ملف أو دليل أو ملف موجود في نظام الملفات لم يتم إنشاؤه بعد. من أجل توفير تخزين جديد يشبه نظام الملفات لـ`Aspose.GIS`، يجب على المرء أن يرث هذه class وأن ينفذ أساليبها المجردة.
+قد يحدد `AbstractPath` موقعًا على نظام ملفات محلي، أو موقعًا على نظام ملفات بعيد، أو تخزينًا خارجيًا مثل تخزين Azure Blob، وما إلى ذلك. قد يشير الموقع إلى كائنات شبيهة بالملف أو الدليل موجودة أو غير موجودة، أو قد يكون له أي معنى آخر معقول للبيئة التي ينتمي إليها. على سبيل المثال، يمكن للوارث من `AbstractPath` الذي يمثل موقعًا على نظام الملفات المحلي أن يشير إلى ملف موجود أو دليل، أو إلى مكان في نظام الملفات لم يتم إنشاؤه بعد. لجعل تخزينًا شبيهًا بنظام الملفات متاحًا لـ `Aspose.GIS`، يجب وراثة هذه الفئة وتنفيذ طرقها المجردة.
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

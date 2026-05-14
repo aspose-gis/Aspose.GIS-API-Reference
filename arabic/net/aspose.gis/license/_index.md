@@ -1,35 +1,35 @@
 ---
-title: Class License
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.License فصل. يوفر طرقًا لترخيص المكون.
+title: "فئة الترخيص"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.License. توفر طرقًا لترخيص المكوّن."
 type: docs
-weight: 1270
+weight: 3410
 url: /ar/net/aspose.gis/license/
 ---
 ## License class
 
-يوفر طرقًا لترخيص المكون.
+يوفر طرقًا لتفعيل الترخيص للمكوّن.
 
 ```csharp
 public class License
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [License](license/)() | Default_Constructor |
+| [License](license/)() | يُهيئ نسخة جديدة من هذه الفئة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SetLicense](../../aspose.gis/license/setlicense/#setlicense)(Stream) | تراخيص المكون . |
-| [SetLicense](../../aspose.gis/license/setlicense/#setlicense_1)(string) | تراخيص المكون . |
+| [SetLicense](../../aspose.gis/license/setlicense/#setlicense)(Stream) | يرخص المكوّن. |
+| [SetLicense](../../aspose.gis/license/setlicense/#setlicense_1)(string) | يرخص المكوّن. |
 
-### أمثلة
+## أمثلة
 
-في هذا المثال ، سيتم إجراء محاولة للعثور على ملف ترخيص يسمى MyLicense.lic في المجلد الذي يحتوي على المكون ، في المجلد الذي يحتوي على التجميع الاستدعاء ، في مجلد تجميع الإدخال ثم في الموارد المضمنة للتجميع المتصل.
+في هذا المثال، سيُحاول العثور على ملف ترخيص باسم MyLicense.lic في المجلد الذي يحتوي على المكوّن، وفي المجلد الذي يحتوي على التجميع المستدعي، وفي مجلد التجميع الرئيسي، ثم في الموارد المدمجة للتجميع المستدعي.
 
 ```csharp
 [C#]
@@ -44,9 +44,16 @@ Dim license As license = New license
 License.SetLicense("MyLicense.lic")
 ```
 
-### أنظر أيضا
+ملف jar المكوّن:
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+```csharp
+License license = new License();
+license.setLicense("MyLicense.lic");
+```
+
+### انظر أيضًا
+
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

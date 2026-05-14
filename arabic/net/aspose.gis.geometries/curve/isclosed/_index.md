@@ -1,23 +1,23 @@
 ---
-title: Curve.IsClosed
-second_title: Aspose.GIS لمرجع .NET API
-description: Curve ملكية. الحصول على قيم تشير إلى ما إذا كان المنحنى مغلقًا. يتم إغلاق المنحنى إذا كانت نقطة بدايته مساوية لنقطة النهاية.
+title: "Curve.IsClosed"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Curve. تحصل على قيمة تشير إلى ما إذا كان المنحنى مغلقًا. يكون المنحنى مغلقًا إذا كانت نقطة البداية مساوية لنقطة النهاية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/curve/isclosed/
 ---
 ## Curve.IsClosed property
 
-الحصول على قيم تشير إلى ما إذا كان المنحنى مغلقًا. يتم إغلاق المنحنى إذا كانت نقطة بدايته مساوية لنقطة النهاية.
+يحصل على قيمة تشير إلى ما إذا كان المنحنى مغلقاً. يكون المنحنى مغلقاً إذا كانت نقطة البداية مساوية لنقطة النهاية.
 
 ```csharp
 public bool IsClosed { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Curve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curve/)
+* assembly [Aspose.GIS](../../../)
 
 

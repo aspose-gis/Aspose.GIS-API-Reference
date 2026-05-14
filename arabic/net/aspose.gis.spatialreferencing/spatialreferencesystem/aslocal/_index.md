@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.AsLocal
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. إرجاع تحويل SRS هذا إلىLocalSpatialReferenceSystem . استخدمType لمعرفة ما إذا كان التحويل ممكنًا.
+title: "SpatialReferenceSystem.AsLocal"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تُعيد هذا الـ SRS محولًا إلى LocalSpatialReferenceSystem. استخدم Type لمعرفة ما إذا كان التحويل ممكنًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/aslocal/
 ---
 ## SpatialReferenceSystem.AsLocal property
 
-إرجاع تحويل SRS هذا إلى[`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/) . استخدم[`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
+تُعيد هذا الـ SRS محولًا إلى [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/). استخدم [`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
 
 ```csharp
 public virtual LocalSpatialReferenceSystem AsLocal { get; }
@@ -16,15 +16,15 @@ public virtual LocalSpatialReferenceSystem AsLocal { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | التحويل غير ممكن . |
+| InvalidOperationException | التحويل غير ممكن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LocalSpatialReferenceSystem](../../localspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

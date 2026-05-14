@@ -1,27 +1,27 @@
 ---
-title: RasterLayer.BandCount
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer ملكية. الحصول على عدد النطاقات في طبقة البيانات النقطية.
+title: "RasterLayer.BandCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterLayer. يحصل على عدد القنوات في طبقة الـ raster"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/rasterlayer/bandcount/
 ---
 ## RasterLayer.BandCount property
 
-الحصول على عدد النطاقات في طبقة البيانات النقطية.
+يحصل على عدد القنوات في طبقة الراستر.
 
 ```csharp
 public abstract int BandCount { get; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-دائمًا ما ترجع البيانات النقطية أحادية النطاق القيمة "1".
+دائمًا ما يُرجع raster أحادي القناة القيمة '1'.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

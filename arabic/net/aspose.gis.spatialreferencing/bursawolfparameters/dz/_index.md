@@ -1,7 +1,7 @@
 ---
-title: BursaWolfParameters.Dz
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters ملكية. Dz بالأمتار.
+title: "BursaWolfParameters.Dz"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BursaWolfParameters. Dz بالأمتار"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/dz/
@@ -14,10 +14,10 @@ Dz بالأمتار.
 public double Dz { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

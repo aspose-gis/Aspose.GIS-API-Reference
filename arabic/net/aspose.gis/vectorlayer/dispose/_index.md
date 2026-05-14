@@ -1,23 +1,23 @@
 ---
-title: VectorLayer.Dispose
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. يقوم بإصدار الموارد المستخدمة بواسطة ملفVectorLayer .
+title: "VectorLayer.Dispose"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. يحرر الموارد المستخدمة بواسطة VectorLayer"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis/vectorlayer/dispose/
 ---
 ## VectorLayer.Dispose method
 
-يقوم بإصدار الموارد المستخدمة بواسطة ملف[`VectorLayer`](../) .
+يحرر الموارد المستخدمة بواسطة [`VectorLayer`](../).
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

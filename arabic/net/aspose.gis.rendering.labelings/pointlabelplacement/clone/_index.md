@@ -1,14 +1,14 @@
 ---
-title: PointLabelPlacement.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: PointLabelPlacement طريقة. استنساخ هذا المثال.
+title: "PointLabelPlacement.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة PointLabelPlacement. تستنسخ هذا المثيل"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/clone/
 ---
 ## PointLabelPlacement.Clone method
 
-استنساخ هذا المثال.
+ينسخ هذا الكائن.
 
 ```csharp
 public override LabelPlacement Clone()
@@ -16,13 +16,13 @@ public override LabelPlacement Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelPlacement](../../labelplacement/)
 * class [PointLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

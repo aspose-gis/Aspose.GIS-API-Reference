@@ -1,27 +1,27 @@
 ---
-title: SpatialReferenceSystem.IsSingle
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. إرجاع ما إذا كانت SRS هذه مفردة وليست اتحادًا بين اثنين من SRS .
+title: "SpatialReferenceSystem.IsSingle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تُرجع ما إذا كان هذا SRS منفردًا وليس اتحادًا بين SRSين."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/issingle/
 ---
 ## SpatialReferenceSystem.IsSingle property
 
-إرجاع ما إذا كانت SRS هذه مفردة (وليست اتحادًا بين اثنين من SRS) .
+يعيد ما إذا كان هذا نظام الإسناد المكاني منفردًا (ليس اتحاد نظامين إسناد مكاني).
 
 ```csharp
 public bool IsSingle { get; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-في WKT ، هذا هو أي نظام إحداثي ، باستثناء COMPD_CS.
+في WKT، هذا أي نظام إحداثيات، باستثناء COMPD_CS.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,27 +1,27 @@
 ---
-title: Point.HasZ
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+title: "Point.HasZ"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على إحداثي Z"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/point/hasz/
 ---
 ## Point.HasZ property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z.
+يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية Z.
 
 ```csharp
 public override bool HasZ { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان هذا المثال يحتوي على إحداثيات Z ؛ خلاف ذلك،`false` .
+`true` إذا كان لهذا الكائن إحداثيات Z؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

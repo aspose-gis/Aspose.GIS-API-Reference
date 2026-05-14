@@ -1,14 +1,14 @@
 ---
-title: Class RasterLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.RasterLayer فصل. يمثل طبقة نقطية.
+title: "الفئة RasterLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.RasterLayer. تمثل طبقة رستر"
 type: docs
-weight: 1390
+weight: 3830
 url: /ar/net/aspose.gis.raster/rasterlayer/
 ---
 ## RasterLayer class
 
-يمثل طبقة نقطية.
+يمثل طبقة راستر.
 
 ```csharp
 public abstract class RasterLayer : IDisposable
@@ -16,39 +16,39 @@ public abstract class RasterLayer : IDisposable
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [BandCount](../../aspose.gis.raster/rasterlayer/bandcount/) { get; } | الحصول على عدد النطاقات في طبقة البيانات النقطية. |
-| [Bounds](../../aspose.gis.raster/rasterlayer/bounds/) { get; } | يحصل على الحدود النقطية. |
-| abstract [CellSize](../../aspose.gis.raster/rasterlayer/cellsize/) { get; } | الحصول على حجم الخلية أو البكسل للنقطية. |
-| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver/) { get; } | يحصل على ملف[`Driver`](./driver/) الذي أدى إلى إنشاء هذه الطبقة. |
-| abstract [Height](../../aspose.gis.raster/rasterlayer/height/) { get; } | الحصول على ارتفاع الخط النقطي بالبكسل. كما يُعرف أيضًا باسم عدد الصفوف. |
-| abstract [NoDataValues](../../aspose.gis.raster/rasterlayer/nodatavalues/) { get; } | يحصل على القيم التي تمثل الخلفية أو "لا توجد بيانات" للخطوط النقطية . |
-| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem/) { get; } | يحصل على نظام الإسناد المكاني للخطوط النقطية. يمكن أن يكون`null` إذا كان غير معروف. |
-| abstract [UpperLeftX](../../aspose.gis.raster/rasterlayer/upperleftx/) { get; } | الحصول على إحداثيات x للركن الأيسر العلوي النقطية. |
-| abstract [UpperLeftY](../../aspose.gis.raster/rasterlayer/upperlefty/) { get; } | الحصول على إحداثيات y للركن الأيسر العلوي للنقطية. |
-| abstract [Width](../../aspose.gis.raster/rasterlayer/width/) { get; } | الحصول على عرض البيانات النقطية بالبكسل. كما يُعرف أيضًا باسم عدد الأعمدة. |
+| abstract [BandCount](../../aspose.gis.raster/rasterlayer/bandcount/) { get; } | يحصل على عدد القنوات في طبقة الراستر. |
+| [Bounds](../../aspose.gis.raster/rasterlayer/bounds/) { get; } | يحصل على حدود الراستر. |
+| abstract [CellSize](../../aspose.gis.raster/rasterlayer/cellsize/) { get; } | يحصل على حجم الخلية أو البكسل للراستر. |
+| abstract [Driver](../../aspose.gis.raster/rasterlayer/driver/) { get; } | يحصل على [`Driver`](./driver/) الذي أنشأ هذه الطبقة. |
+| abstract [Height](../../aspose.gis.raster/rasterlayer/height/) { get; } | يحصل على ارتفاع الراستر بالبكسل. كما يُعرف أيضًا بعدد الصفوف. |
+| abstract [NoDataValues](../../aspose.gis.raster/rasterlayer/nodatavalues/) { get; } | يحصل على القيم التي تمثل الخلفية أو 'لا بيانات' للراستر. |
+| abstract [SpatialReferenceSystem](../../aspose.gis.raster/rasterlayer/spatialreferencesystem/) { get; } | يحصل على نظام الإحداثيات المكانية للراستر. يمكن أن يكون `null` إذا كان غير معروف. |
+| abstract [UpperLeftX](../../aspose.gis.raster/rasterlayer/upperleftx/) { get; } | يحصل على إحداثي x للزاوية العليا اليسرى للراستر. |
+| abstract [UpperLeftY](../../aspose.gis.raster/rasterlayer/upperlefty/) { get; } | يحصل على إحداثي y للزاوية العليا اليسرى للراستر. |
+| abstract [Width](../../aspose.gis.raster/rasterlayer/width/) { get; } | يحصل على عرض الراستر بالبكسل. كما يُعرف أيضًا بعدد الأعمدة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop_1)(double[]) | يقطع الطبقة النقطية باستخدام قناع النطاق) . |
-| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop)(IGeometry, double[]) | يقطع طبقة البيانات النقطية باستخدام نموذج الشكل (وقناع النطاق) . |
-| [Dispose](../../aspose.gis.raster/rasterlayer/dispose/)() | يحرر الموارد المستخدمة من قبل`RasterLayer` . |
-| abstract [GetBand](../../aspose.gis.raster/rasterlayer/getband/)(int) | يحصل على النطاق حسب الفهرس المحدد . |
-| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent/)() | تحسب المدى المكاني لهذه الطبقة. |
-| [GetSpatialPoint](../../aspose.gis.raster/rasterlayer/getspatialpoint/)(int, int) | تحويل العمود والصف المحددين إلى الإحداثي المكاني. |
-| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics/)(int, bool) | احسب إحصائيات موجزة تتكون من العدد ، المجموع ، المتوسط ، الحد الأدنى ، الحد الأقصى |
-| [GetValues](../../aspose.gis.raster/rasterlayer/getvalues/)(int, int) | يقرأ القيم الموجودة في الخلية المحددة. |
-| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump/)(RasterRect) | يقرأ القيم الموجودة في الكتلة المحددة كمصفوفة ذات بُعد واحد. |
-| [GetValuesOnExpression](../../aspose.gis.raster/rasterlayer/getvaluesonexpression/)(RasterRect, RasterReadExpression) | يقرأ ويعالج قيم النطاق في تعبير. |
-| override [ToString](../../aspose.gis.raster/rasterlayer/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
-| [Warp](../../aspose.gis.raster/rasterlayer/warp/)(WarpOptions) | لف الطبقة النقطية بأخرى. |
+| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop_1)(double[]) | يقص طبقة الراستر باستخدام قناع القناة). |
+| [Crop](../../aspose.gis.raster/rasterlayer/crop/#crop)(IGeometry, double[]) | يقص طبقة الراستر باستخدام شكل (و قناع القناة). |
+| [Dispose](../../aspose.gis.raster/rasterlayer/dispose/)() | يطلق الموارد المستخدمة من قبل `RasterLayer`. |
+| abstract [GetBand](../../aspose.gis.raster/rasterlayer/getband/)(int) | يحصل على قناة بالمؤشر المحدد. |
+| virtual [GetExtent](../../aspose.gis.raster/rasterlayer/getextent/)() | يحسب الامتداد المكاني لهذه الطبقة. |
+| [GetSpatialPoint](../../aspose.gis.raster/rasterlayer/getspatialpoint/)(int, int) | يحوّل العمود والصف المحددين إلى الإحداثيات المكانية. |
+| [GetStatistics](../../aspose.gis.raster/rasterlayer/getstatistics/)(int, bool) | احسب الإحصاءات الملخصة التي تتضمن العدد، المجموع، المتوسط، الحد الأدنى، الحد الأقصى. |
+| [GetValues](../../aspose.gis.raster/rasterlayer/getvalues/)(int, int) | يقرأ القيم في الخلية المحددة. |
+| [GetValuesDump](../../aspose.gis.raster/rasterlayer/getvaluesdump/)(RasterRect) | يقرأ القيم في الكتلة المحددة كمصفوفة ذات بعد واحد. |
+| [GetValuesOnExpression](../../aspose.gis.raster/rasterlayer/getvaluesonexpression/)(RasterRect, RasterReadExpression) | يقرأ ويعالج قيم القناة في تعبير. |
+| override [ToString](../../aspose.gis.raster/rasterlayer/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| [Warp](../../aspose.gis.raster/rasterlayer/warp/)(WarpOptions) | يشوه طبقة الراستر إلى أخرى. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,22 +1,22 @@
 ---
-title: NumericFormat.Flat
-second_title: Aspose.GIS لمرجع .NET API
-description: NumericFormat طريقة. تحويل رقم إلى نص ذي نقطة ثابتة بدون تدوين علمي.
+title: "NumericFormat.Flat"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة NumericFormat. تقوم بتحويل رقم إلى نص بنقطة ثابتة دون صيغة علمية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/numericformat/flat/
 ---
 ## NumericFormat.Flat method
 
-تحويل رقم إلى نص ذي نقطة ثابتة بدون تدوين علمي.
+يحول عددًا إلى نص ثابت النقطة دون استخدام الصيغة العلمية.
 
 ```csharp
 public static NumericFormat Flat(int significantDigits)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| significantDigits | Int32 | عدد الخانات ذات الدلالة. أقصى دقة متوفرة هي "308" |
+| significantDigits | Int32 | عدد الأرقام المهمة. الحد الأقصى المتاح للدقة هو "308" |
 
 ### قيمة الإرجاع
 
@@ -24,18 +24,18 @@ public static NumericFormat Flat(int significantDigits)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | عدد الأرقام المعنوية أقل من 0 أو أكثر من 308. |
+| ArgumentOutOfRangeException | عدد الأرقام المهمة أقل من 0 أو أكثر من 308. |
 
-### ملاحظات
+## ملاحظات
 
-يقوم الكود الداخلي بإنشاء سلاسل رقمية لـ WKT عبر: قرار التنسيق. toString ("0. ## .."، CultureInfo.InvariantCulture).
+يقوم الكود داخليًا بإنشاء سلاسل أرقام لـ WKT عبر: coordinate.ToString("0.##..", CultureInfo.InvariantCulture) decision.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NumericFormat](../)
-* مساحة الاسم [Aspose.Gis](../../numericformat/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../numericformat/)
+* assembly [Aspose.GIS](../../../)
 
 

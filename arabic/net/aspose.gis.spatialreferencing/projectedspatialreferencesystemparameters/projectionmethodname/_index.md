@@ -1,23 +1,23 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.ProjectionMethodName
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters ملكية. اسم طريقة الإسقاط. لا يوجد افتراضي ويجب عليك تعيين هذه المعلمة على لاnull القيمة  منذ SRS المتوقع بدون اسم إسقاط غير مجدية.
+title: "ProjectedSpatialReferenceSystemParameters.ProjectionMethodName"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystemParameters. اسم طريقة الإسقاط. لا توجد قيمة افتراضية ويجب عليك تعيين هذه المعلمة إلى قيمة غير فارغة لأن نظام إحداثيات مُسقط بدون اسم طريقة إسقاط لا فائدة منه."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname/
 ---
 ## ProjectedSpatialReferenceSystemParameters.ProjectionMethodName property
 
-اسم طريقة الإسقاط. لا يوجد افتراضي ويجب عليك تعيين هذه المعلمة على لا`null` القيمة ، منذ SRS المتوقع بدون اسم إسقاط غير مجدية.
+اسم طريقة الإسقاط. لا توجد قيمة افتراضية ويجب عليك تعيين هذا المعامل إلى قيمة غير `null`، لأن SRS المُسقَّط بدون اسم طريقة إسقاط لا فائدة منه.
 
 ```csharp
 public string ProjectionMethodName { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

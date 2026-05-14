@@ -1,40 +1,40 @@
 ---
-title: Class KmlFeatureStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle فصل. تؤثر الأنماط على كيفية تقديم الهندسة . يتم ترميز أنماط Ths في قسم المستند ولها معرف فريد لكل نمط . تُعرف هذه الأنماط باسم الأنماط المشتركة في مواصفات kml.
+title: "الفئة KmlFeatureStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle. الأنماط تؤثر على طريقة عرض الهندسة. يتم ترميز هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه الأنماط بالأنماط المشتركة في مواصفة kml"
 type: docs
-weight: 470
+weight: 2110
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/
 ---
 ## KmlFeatureStyle class
 
-تؤثر الأنماط على كيفية تقديم الهندسة . يتم ترميز أنماط Ths في قسم المستند ولها معرف فريد لكل نمط . تُعرف هذه الأنماط باسم "الأنماط المشتركة" في مواصفات kml.
+تؤثر الأنماط على طريقة عرض الهندسة. تُشفّر هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه باسم 'الأنماط المشتركة' في مواصفة kml.
 
 ```csharp
 public class KmlFeatureStyle : FeatureStyle
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlFeatureStyle](kmlfeaturestyle/)() | Default_Constructor |
+| [KmlFeatureStyle](kmlfeaturestyle/)() | إنشاء نسخة جديدة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Balloon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/balloon/) { get; set; } | يحدد كيفية رسم بالون الوصف الخاص بالعلامات الموضعية . Use`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` . |
-| [Icon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/icon/) { get; set; } | يحدد كيفية رسم رموز العلامات الموضعية للنقاط . Use`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` . |
-| [Label](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/label/) { get; set; } | يحدد كيفية رسم عناوين الميزة . Use`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` . |
-| [Line](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/line/) { get; set; } | يحدد نمط الرسم (اللون ، ووضع اللون ، وعرض الخط) لجميع أشكال الخطوط الهندسية . Use`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` . |
-| [List](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/list/) { get; set; } | يحدد كيفية عرض الميزة في عرض القائمة`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` . |
-| [Polygon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/polygon/) { get; set; } | يحدد نمط الرسم لجميع المضلعات ، بما في ذلك قذف المضلع وانبثاق الخطوط.`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` . |
+| [Balloon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/balloon/) { get; set; } | تحدد كيفية رسم فقاعة الوصف للعلامات. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`. |
+| [Icon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/icon/) { get; set; } | تحدد كيفية رسم الأيقونات للعلامات النقطية. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`. |
+| [Label](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/label/) { get; set; } | تحدد كيفية رسم تسميات العنصر. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`. |
+| [Line](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/line/) { get; set; } | تحدد نمط الرسم (اللون، وضع اللون، وعرض الخط) لجميع أشكال الخط. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`. |
+| [List](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/list/) { get; set; } | تحدد كيفية عرض العنصر في عرض القائمة. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`. |
+| [Polygon](../../aspose.gis.formats.kml.styles/kmlfeaturestyle/polygon/) { get; set; } | تحدد نمط الرسم لجميع المضلعات، بما في ذلك استخراج المضلعات واستخراج الخطوط. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureStyle](../../aspose.gis/featurestyle/)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

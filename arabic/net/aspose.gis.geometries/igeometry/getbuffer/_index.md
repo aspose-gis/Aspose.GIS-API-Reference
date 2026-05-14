@@ -1,39 +1,39 @@
 ---
-title: IGeometry.GetBuffer
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. حساب منطقة عازلة حول هذه الهندسة .
+title: "IGeometry.GetBuffer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "IGeometry طريقة. يحسب منطقة العازلة حول هذه الهندسة"
 type: docs
 weight: 200
 url: /ar/net/aspose.gis.geometries/igeometry/getbuffer/
 ---
 ## IGeometry.GetBuffer method
 
-حساب منطقة عازلة حول هذه الهندسة .
+يحسب منطقة عازلة حول هذه الهندسة.
 
 ```csharp
 public IGeometry GetBuffer(double distance, int quadrantSegments = 30)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| distance | Double | عرض منطقة المخزن المؤقت (بوحدات الإسناد المكاني). |
-| quadrantSegments | Int32 | عدد المقاطع المستخدمة لتقريب 90 درجة من الانحناء . كلما زاد هذا الرقم ، يتم إنتاج تقريب أفضل للمنحنيات. الافتراضي هو 30. |
+| المسافة | Double | عرض منطقة العازلة (بوحدات الإشارة المكانية). |
+| quadrantSegments | Int32 | عدد القطاعات المستخدمة لتقريب انحناء 90 درجة. كلما كان هذا العدد أكبر، كلما كان تقريب المنحنيات أفضل. القيمة الافتراضية هي 30. |
 
 ### قيمة الإرجاع
 
-شكل هندسي يمثل جميع النقاط الواقعة ضمن مسافة محددة من هذه الهندسة . نوع النتيجة إما[`Null`](../../geometry/null/) و[`IPolygon`](../../ipolygon/) أو[`IMultiPolygon`](../../imultipolygon/) .
+هندسة تمثل جميع النقاط التي تقع ضمن مسافة محددة من هذه الهندسة. نوع النتيجة يكون إما [`Null`](../../geometry/null/)، [`IPolygon`](../../ipolygon/) أو [`IMultiPolygon`](../../imultipolygon/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | هذه الهندسة غير صالحة بحيث لا يمكن إتمام العملية. |
-| ArgumentOutOfRangeException | المقاطع الرباعية أقل أو تساوي 0. |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentOutOfRangeException | عدد قطاعات الربع أقل من أو يساوي 0. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

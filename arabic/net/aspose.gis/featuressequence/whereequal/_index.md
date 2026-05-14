@@ -1,39 +1,39 @@
 ---
-title: FeaturesSequence.WhereEqual
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. يختار المعالم ذات قيمة السمة التي تساوي القيمة المقدمة.
+title: "FeaturesSequence.WhereEqual"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. تختار العناصر ذات قيمة السمة مساوية للقيمة المقدمة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/featuressequence/whereequal/
 ---
 ## FeaturesSequence.WhereEqual&lt;T&gt; method
 
-يختار المعالم ذات قيمة السمة التي تساوي القيمة المقدمة.
+يختار المعالم التي تكون قيمة السمة مساوية للقيمة المقدمة.
 
 ```csharp
 public virtual FeaturesSequence WhereEqual<T>(string attributeName, T value)
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| T | نوع القيمة المراد المقارنة بها. |
-| attributeName | السمة للتصفية حسب. |
-| value | قيمة للمقارنة بها. |
+| T | نوع القيمة للمقارنة ضدها. |
+| attributeName | السمة التي يتم الترشيح بناءً عليها. |
+| قيمة | القيمة للمقارنة ضدها. |
 
 ### قيمة الإرجاع
 
-المعالم ذات قيمة السمة تساوي القيمة المقدمة.
+العناصر ذات قيمة السمة مساوية للقيمة المقدمة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل الميزات هذا. |
+| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل العناصر هذا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

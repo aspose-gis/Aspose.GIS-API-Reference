@@ -1,22 +1,22 @@
 ---
-title: FeatureAttributeCollection.Item
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttributeCollection ملكية. يحصل أو يحدد ملفFeatureAttribute في الفهرس المحدد.
+title: "FeatureAttributeCollection.Item"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttributeCollection. تحصل أو تعيين FeatureAttribute في الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/featureattributecollection/item/
 ---
 ## FeatureAttributeCollection indexer (1 of 2)
 
-يحصل أو يحدد ملف[`FeatureAttribute`](../../featureattribute/) في الفهرس المحدد.
+تحصل أو تعيين [`FeatureAttribute`](../../featureattribute/) في الفهرس المحدد.
 
 ```csharp
 public FeatureAttribute this[int index] { get; set; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس الصفري للسمة المراد الحصول عليها أو تعيينها. |
+| الفهرس | الفهرس الصفري للسمة للحصول عليها أو تعيينها. |
 
 ### قيمة الإرجاع
 
@@ -24,47 +24,47 @@ public FeatureAttribute this[int index] { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الفهرس خارج النطاق. |
+| ArgumentOutOfRangeException | المؤشر خارج النطاق. |
 | InvalidOperationException | محاولة تعديل مجموعة مقفلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../../featureattribute/)
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## FeatureAttributeCollection indexer (2 of 2)
 
-يحصل أو يحدد ملف[`FeatureAttribute`](../../featureattribute/) باسم محدد.
+تحصل أو تعيين [`FeatureAttribute`](../../featureattribute/) بالاسم المحدد.
 
 ```csharp
 public FeatureAttribute this[string name] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم السمات. |
+| الاسم | اسم السمات. |
 
 ### قيمة الإرجاع
 
-السمة بالاسم المحدد ، أو`null` إذا لم يتم العثور عليه.
+السمة بالاسم المحدد، أو `null` إذا لم تُعثر عليها.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../../featureattribute/)
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

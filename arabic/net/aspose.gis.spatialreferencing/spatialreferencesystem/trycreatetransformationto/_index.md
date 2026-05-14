@@ -1,37 +1,37 @@
 ---
-title: SpatialReferenceSystem.TryCreateTransformationTo
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. ينشئ التحول من هذانظام المرجع المكاني إلى آخرنظام المرجع المكاني .
+title: "SpatialReferenceSystem.TryCreateTransformationTo"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. تنشئ تحويلًا من هذا SpatialReferenceSystem إلى SpatialReferenceSystem آخر"
 type: docs
 weight: 230
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatetransformationto/
 ---
 ## SpatialReferenceSystem.TryCreateTransformationTo method
 
-ينشئ التحول من هذا`نظام المرجع المكاني` إلى آخر`نظام المرجع المكاني` .
+ينشئ تحويلًا من هذا `SpatialReferenceSystem` إلى `SpatialReferenceSystem` آخر.
 
 ```csharp
 public bool TryCreateTransformationTo(SpatialReferenceSystem targetSrs, 
     out SpatialReferenceSystemTransformation value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | اخر`نظام المرجع المكاني`. |
-| value | SpatialReferenceSystemTransformation& | عندما تعود هذه الطرق`true` يحتوي على تحويل. خلاف ذلك ، يحتوي على`null` . |
+| targetSrs | SpatialReferenceSystem | آخر `SpatialReferenceSystem`. |
+| قيمة | SpatialReferenceSystemTransformation& | عند إرجاع هذه الطريقة `true`، يحتوي على تحويل؛ وإلا، يحتوي على `null`. |
 
 ### قيمة الإرجاع
 
-التحول من هذا`نظام المرجع المكاني` إلى آخر`نظام المرجع المكاني`.
+تحويل من هذا `SpatialReferenceSystem` إلى `SpatialReferenceSystem` آخر.
 
-`true` إذا تم إنشاء التحول بنجاح ؛`false` خلاف ذلك.
+`true` إذا تم إنشاء التحويل بنجاح؛ `false` خلاف ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [CreateTransformationTo](../createtransformationto/)
 * class [SpatialReferenceSystemTransformation](../../spatialreferencesystemtransformation/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

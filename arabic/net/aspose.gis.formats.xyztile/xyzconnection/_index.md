@@ -1,9 +1,9 @@
 ---
-title: Class XyzConnection
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.XyzTile.XyzConnection فصل. اتصال لتنسيق XyzTiles.
+title: "فئة XyzConnection"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Formats.XyzTile.XyzConnection. اتصال لتنسيق XyzTiles"
 type: docs
-weight: 730
+weight: 2400
 url: /ar/net/aspose.gis.formats.xyztile/xyzconnection/
 ---
 ## XyzConnection class
@@ -14,21 +14,21 @@ url: /ar/net/aspose.gis.formats.xyztile/xyzconnection/
 public class XyzConnection
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XyzConnection](xyzconnection/)(string) | إنشاء مثيل جديد من`XyzConnection` . |
+| [XyzConnection](xyzconnection/)(string) | إنشاء نسخة جديدة من `XyzConnection`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Url](../../aspose.gis.formats.xyztile/xyzconnection/url/) { get; } | نموذج عنوان URL . |
+| [Url](../../aspose.gis.formats.xyztile/xyzconnection/url/) { get; } | قالب URL. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
+* assembly [Aspose.GIS](../../)
 
 

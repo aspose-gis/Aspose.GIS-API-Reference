@@ -1,31 +1,31 @@
 ---
-title: VectorLayer.Equals
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. تحديد ما إذا كان الكائن المحدد يساوي الكائن الحالي.
+title: "VectorLayer.Equals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis/vectorlayer/equals/
 ---
 ## VectorLayer.Equals method
 
-تحديد ما إذا كان الكائن المحدد يساوي الكائن الحالي.
+يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الكائن مقارنة مع الكائن الحالي. |
+| obj | Object | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن المحدد يساوي الكائن الحالي ؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

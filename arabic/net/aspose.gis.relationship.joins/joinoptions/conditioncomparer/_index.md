@@ -1,31 +1,31 @@
 ---
-title: JoinOptions.ConditionComparer
-second_title: Aspose.GIS لمرجع .NET API
-description: JoinOptions ملكية. يحدد الطريقة التي ترتبط بها ميزات طبقتين في استعلام عن طريق تحديد منطق لاستخدامه في مقارنة القيم من الميزات.
+title: "JoinOptions.ConditionComparer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية JoinOptions. تحدد طريقة ارتباط ميزات طبقتين في استعلام عن طريق تحديد منطق يُستخدم في مقارنة القيم من الميزات"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.relationship.joins/joinoptions/conditioncomparer/
 ---
 ## JoinOptions.ConditionComparer property
 
-يحدد الطريقة التي ترتبط بها ميزات طبقتين في استعلام عن طريق تحديد منطق لاستخدامه في مقارنة القيم من الميزات.
+يحدد الطريقة التي ترتبط بها ميزات طبقتين في استعلام عن طريق تحديد منطق يُستخدم في مقارنة القيم من الميزات.
 
 ```csharp
 public IEqualityComparer<object> ConditionComparer { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-بشكل افتراضي ، يحدد ما إذا كان هناك كائنان متساويين:
+بشكل افتراضي، يحدد ما إذا كان الكائنان متساويين:
 
 ```csharp
 EqualityComparer<object>.Default;  
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JoinOptions](../)
-* مساحة الاسم [Aspose.Gis.Relationship.Joins](../../joinoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Relationship.Joins](../../joinoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

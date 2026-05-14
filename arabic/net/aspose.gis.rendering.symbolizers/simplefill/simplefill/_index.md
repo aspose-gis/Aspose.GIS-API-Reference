@@ -1,49 +1,49 @@
 ---
-title: SimpleFill.SimpleFill
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill البناء. إنشاء مثيل جديد .
+title: "SimpleFill.SimpleFill"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SimpleFill. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/simplefill/
 ---
 ## SimpleFill() {#constructor}
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public SimpleFill()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleFill(SimpleFill) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SimpleFill`](../) فئة .
+يُهيئ نسخة جديدة من الفئة [`SimpleFill`](../).
 
 ```csharp
 public SimpleFill(SimpleFill other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SimpleFill | الأخرى[`SimpleFill`](../) لنسخ البيانات من. |
+| other | SimpleFill | الـ [`SimpleFill`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

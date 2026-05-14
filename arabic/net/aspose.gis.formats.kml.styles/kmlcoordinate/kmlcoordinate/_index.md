@@ -1,23 +1,23 @@
 ---
-title: KmlCoordinate.KmlCoordinate
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlCoordinate البناء. Default_Constructor
+title: "KmlCoordinate.KmlCoordinate"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlCoordinate. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmlcoordinate/kmlcoordinate/
 ---
 ## KmlCoordinate constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlCoordinate()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlCoordinate](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlcoordinate/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlcoordinate/)
+* assembly [Aspose.GIS](../../../)
 
 

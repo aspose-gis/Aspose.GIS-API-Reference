@@ -1,28 +1,32 @@
 ---
-title: ICurvePolygon.ExteriorRing
-second_title: Aspose.GIS لمرجع .NET API
-description: ICurvePolygon ملكية. يحصل على الحلقة الخارجية .
+title: "ICurvePolygon.ExteriorRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ICurvePolygon. تحصل على الحلقة الخارجية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/icurvepolygon/exteriorring/
 ---
 ## ICurvePolygon.ExteriorRing property
 
-يحصل على الحلقة الخارجية .
+يحصل على الحلقة الخارجية.
 
 ```csharp
 public ICurve ExteriorRing { get; }
 ```
 
-### Property_Value
+### قيمة الإرجاع
 
-الحلقة الخارجية .
+الحلقة الخارجية.
 
-### أنظر أيضا
+### Property Value
+
+الحلقة الخارجية.
+
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * interface [ICurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../icurvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icurvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,74 +1,74 @@
 ---
-title: RasterImageMarker.RasterImageMarker
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterImageMarker البناء. يقوم بتهيئة مثيل جديد لملفRasterImageMarker فصل.
+title: "RasterImageMarker.RasterImageMarker"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ RasterImageMarker. يهيئ نسخة جديدة من فئة RasterImageMarker"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/rasterimagemarker/
 ---
 ## RasterImageMarker(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`RasterImageMarker`](../) فصل.
+يهيئ نسخة جديدة من الفئة [`RasterImageMarker`](../).
 
 ```csharp
 public RasterImageMarker(string imagePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| imagePath | String | مسار الملف. |
+| imagePath | String | المسار إلى الملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImageMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## RasterImageMarker(AbstractPath) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`RasterImageMarker`](../) فصل.
+يهيئ نسخة جديدة من الفئة [`RasterImageMarker`](../).
 
 ```csharp
 public RasterImageMarker(AbstractPath imagePath)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| imagePath | AbstractPath | مسار الملف. |
+| imagePath | AbstractPath | المسار إلى الملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [RasterImageMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## RasterImageMarker(RasterImageMarker) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`RasterImageMarker`](../) فصل.
+يهيئ نسخة جديدة من الفئة [`RasterImageMarker`](../).
 
 ```csharp
 public RasterImageMarker(RasterImageMarker other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | RasterImageMarker | الأخرى[`RasterImageMarker`](../) لنسخ البيانات من. |
+| other | RasterImageMarker | الـ [`RasterImageMarker`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImageMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

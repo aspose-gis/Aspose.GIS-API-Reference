@@ -1,56 +1,56 @@
 ---
-title: Ellipsoid.IsEquivalent
-second_title: Aspose.GIS لمرجع .NET API
-description: Ellipsoid طريقة. يحدد ما إذا كان الشكلان البيضاويان متساويين. إذا كان الشكل البيضاوي A يعادل الشكل البيضاوي B  فسيكون لهما نفس المحور شبه الرئيسي والتسوية العكسية.
+title: "Ellipsoid.IsEquivalent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Ellipsoid. تحدد ما إذا كان الإهليلجان متكافئين. إذا كان الإهليلج A متكافئًا مع الإهليلج B فإنهما يمتلكان نفس المحور شبه الرئيسي والانحدار العكسي"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/isequivalent/
 ---
 ## IsEquivalent(Ellipsoid, Ellipsoid)
 
-يحدد ما إذا كان الشكلان البيضاويان متساويين. إذا كان الشكل البيضاوي A يعادل الشكل البيضاوي B ، فسيكون لهما نفس المحور شبه الرئيسي والتسوية العكسية.
+يحدد ما إذا كان الشكلان البيضاويان متكافئين. إذا كان الشكل البيضاوي A متكافئًا مع الشكل البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي وتسطح العكسي.
 
 ```csharp
 public static bool IsEquivalent(Ellipsoid ellipsoid1, Ellipsoid ellipsoid2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| ellipsoid1 | Ellipsoid | أول قطع ناقص. |
-| ellipsoid2 | Ellipsoid | الشكل الإهليلجي الثاني. |
+| ellipsoid1 | Ellipsoid | الإهليلج الأول. |
+| ellipsoid2 | Ellipsoid | الإهليلج الثاني. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان جهازي إهليلجي متكافئين.
+قيمة منطقية، تشير إلى ما إذا كان الإهليلجان متكافئين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Ellipsoid](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## IsEquivalent(Ellipsoid)
 
-يحدد ما إذا كان الشكلان البيضاويان متساويين. إذا كان الشكل البيضاوي A يعادل الشكل البيضاوي B ، فسيكون لهما نفس المحور شبه الرئيسي والتسوية العكسية.
+يحدد ما إذا كان الشكلان البيضاويان متكافئين. إذا كان الشكل البيضاوي A متكافئًا مع الشكل البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي وتسطح العكسي.
 
 ```csharp
 public bool IsEquivalent(Ellipsoid other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | Ellipsoid | أشكال بيضاوية أخرى. |
+| آخر | Ellipsoid | الإهليلج الآخر. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان جهازي إهليلجي متكافئين.
+قيمة منطقية، تشير إلى ما إذا كان الإهليلجان متكافئين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Ellipsoid](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
+* assembly [Aspose.GIS](../../../)
 
 

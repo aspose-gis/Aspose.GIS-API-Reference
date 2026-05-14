@@ -1,30 +1,30 @@
 ---
-title: Enum SpatialReferenceSystemMode
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferenceSystemMode تعداد. يحدد وضع نظام الإسناد المكاني SRS للكتابة في database إذا كان SRS غير معروف.
+title: "تعداد SpatialReferenceSystemMode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.SpatialReferenceSystemMode تعداد. يحدد وضع كتابة نظام الإحداثيات المرجعي SRS في قاعدة البيانات إذا كان SRS غير معروف"
 type: docs
-weight: 2020
+weight: 4470
 url: /ar/net/aspose.gis/spatialreferencesystemmode/
 ---
 ## SpatialReferenceSystemMode enumeration
 
-يحدد وضع نظام الإسناد المكاني (SRS) للكتابة في database إذا كان SRS غير معروف.
+يحدد وضع كتابة نظام الإسناد المكاني (SRS) في قاعدة البيانات إذا كان SRS غير معروف.
 
 ```csharp
 public enum SpatialReferenceSystemMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| ThrowException | `0` | قم بطرح الاستثناءات إذا كانت SRS غير معروفة لقاعدة البيانات. |
-| WriteInSystemTable | `1` | اكتب معلومات SRS في جدول النظام إذا كانت SRS غير معروفة لقاعدة البيانات. |
-| SetupToZero | `2` | قم بإعداد SRID الخاص بشكل هندسي على "صفر" إذا كان SRS غير معروف لقاعدة البيانات. |
+| ThrowException | `0` | إلقاء استثناءات إذا كان SRS غير معروف لقاعدة البيانات. |
+| WriteInSystemTable | `1` | كتابة معلومات SRS في جدول النظام إذا كان SRS غير معروف لقاعدة البيانات. |
+| SetupToZero | `2` | إعداد SRID للجيومتري إلى 'zero' إذا كان SRS غير معروف لقاعدة البيانات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

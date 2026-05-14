@@ -1,14 +1,14 @@
 ---
-title: CompoundCurve.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve طريقة. استنساخ هذا المثال .
+title: "CompoundCurve.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundCurve. تستنسخ هذا الكائن"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/compoundcurve/clone/
 ---
 ## CompoundCurve.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

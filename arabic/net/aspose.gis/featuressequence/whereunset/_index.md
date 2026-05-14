@@ -1,31 +1,31 @@
 ---
-title: FeaturesSequence.WhereUnset
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. يختار الميزات حيث لم يتم تعيين السمة المحددة.
+title: "FeaturesSequence.WhereUnset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. يحدد الميزات حيث السمة المحددة غير مُعيَّنة"
 type: docs
-weight: 170
+weight: 180
 url: /ar/net/aspose.gis/featuressequence/whereunset/
 ---
 ## FeaturesSequence.WhereUnset method
 
-يختار الميزات حيث لم يتم تعيين السمة المحددة.
+يختار المعالم حيث السمة المحددة غير مُعينة.
 
 ```csharp
 public virtual FeaturesSequence WhereUnset(string attributeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attributeName | String | السمة للتصفية حسب. |
+| attributeName | String | السمة التي يتم الترشيح بناءً عليها. |
 
 ### قيمة الإرجاع
 
-الميزات ذات قيمة السمة غير المحددة.
+ميزات ذات قيمة سمة غير مُعيَّنة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

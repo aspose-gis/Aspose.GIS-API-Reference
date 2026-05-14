@@ -1,14 +1,14 @@
 ---
-title: IGeometry.GetCentroid
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. يحسب النقطه الوسطى لهذه الهندسة.
+title: "IGeometry.GetCentroid"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. تحسب مركز الثقل لهذه الهندسة"
 type: docs
 weight: 210
 url: /ar/net/aspose.gis.geometries/igeometry/getcentroid/
 ---
 ## IGeometry.GetCentroid method
 
-يحسب النقطه الوسطى لهذه الهندسة.
+يحسب مركز الثقل لهذه الهندسة.
 
 ```csharp
 public IPoint GetCentroid()
@@ -16,13 +16,13 @@ public IPoint GetCentroid()
 
 ### قيمة الإرجاع
 
-النقطه الوسطى لهذه الهندسة. إذا كانت هذه الهندسة فارغة ، يتم إرجاع نقطة فارغة . النقطه الوسطى تساوي النقطه الوسطى لأعلى أبعاد هندسية في هذه الهندسة (على سبيل المثال ، إذا تم تضمين كل من النقاط والخطوط في الهندسة ، فإن الخطوط تساهم فقط في النقطه الوسطى) .
+مركز الثقل لهذه الهندسة. إذا كانت هذه الهندسة فارغة يتم إرجاع نقطة فارغة. مركز الثقل يساوي مركز الثقل لأعلى أبعاد الهندسات في هذه الهندسة (مثلاً إذا كانت النقاط والخطوط موجودة في الهندسة، فإن الخطوط فقط تساهم في مركز الثقل).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

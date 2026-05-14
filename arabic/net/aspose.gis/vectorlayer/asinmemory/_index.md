@@ -1,14 +1,14 @@
 ---
-title: VectorLayer.AsInMemory
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. قم بإنشاء نسخة طبق الأصل بتنسيق InMemory.
+title: "VectorLayer.AsInMemory"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. إنشاء نسخة من الطبقة بصيغة InMemory"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/vectorlayer/asinmemory/
 ---
 ## VectorLayer.AsInMemory method
 
-قم بإنشاء نسخة طبق الأصل بتنسيق InMemory.
+أنشئ نسخة من الطبقة بصيغة InMemory.
 
 ```csharp
 public VectorLayer AsInMemory()
@@ -18,10 +18,10 @@ public VectorLayer AsInMemory()
 
 طبقة InMemory.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

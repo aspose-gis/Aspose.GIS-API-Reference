@@ -1,32 +1,32 @@
 ---
-title: CompoundSpatialReferenceSystem.IsEquivalent
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem طريقة. يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى. .
+title: "CompoundSpatialReferenceSystem.IsEquivalent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundSpatialReferenceSystem. يكتشف ما إذا كان هذا النظام المرجعي المكاني مكافئًا لنظام مرجعي مكاني آخر."
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/isequivalent/
 ---
 ## CompoundSpatialReferenceSystem.IsEquivalent method
 
-يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى. .
+يكشف ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
 ```csharp
 public override bool IsEquivalent(SpatialReferenceSystem other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SpatialReferenceSystem | SRS أخرى. |
+| آخر | SpatialReferenceSystem | SRS آخر. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى.
+قيمة bool، تُشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: KmlListStyle.ItemType
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlListStyle ملكية. يحدد كيفية عرض مجلد kml ومحتوياته كعناصر في عرض القائمة. القيمة الافتراضية هيCheck .
+title: "KmlListStyle.ItemType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlListStyle. تحدد كيف سيتم عرض kmlFolder ومحتوياته كعناصر في عرض القائمة. القيمة الافتراضية هي Check"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/itemtype/
 ---
 ## KmlListStyle.ItemType property
 
-يحدد كيفية عرض مجلد kml ومحتوياته كعناصر في عرض القائمة. القيمة الافتراضية هيCheck .
+تحدد كيفية عرض kml:Folder ومحتوياته كعناصر في عرض القائمة. القيمة الافتراضية هي Check.
 
 ```csharp
 public KmlItemTypes ItemType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [KmlItemTypes](../../kmlitemtypes/)
 * class [KmlListStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlliststyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlliststyle/)
+* assembly [Aspose.GIS](../../../)
 
 

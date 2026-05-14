@@ -1,34 +1,34 @@
 ---
-title: VectorLayer.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer ملكية. يحصل على نوع الشكل الهندسي للطبقة.
+title: "VectorLayer.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VectorLayer. تحصل على نوع الهندسة للطبقة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/vectorlayer/geometrytype/
 ---
 ## VectorLayer.GeometryType property
 
-يحصل على نوع الشكل الهندسي للطبقة.
+يحصل على نوع الهندسة للطبقة.
 
 ```csharp
 public abstract GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم طرحها إذا تم فتح الطبقة للكتابة فقط. |
+| InvalidOperationException | يتم رميه إذا تم فتح الطبقة للكتابة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../../aspose.gis.geometries/geometrytype/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,9 +1,9 @@
 ---
-title: Class SimpleLine
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.SimpleLine فصل. رمز خط بسيط.
+title: "الفئة SimpleLine"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.SimpleLine. رمز خط بسيط."
 type: docs
-weight: 1950
+weight: 4400
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/
 ---
 ## SimpleLine class
@@ -14,37 +14,37 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/
 public class SimpleLine : VectorSymbolizer
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SimpleLine](simpleline/#constructor)() | إنشاء مثيل جديد . |
-| [SimpleLine](simpleline/#constructor_1)(SimpleLine) | يقوم بتهيئة مثيل جديد لملف`SimpleLine` فئة . |
+| [SimpleLine](simpleline/#constructor)() | ينشئ مثيلًا جديدًا. |
+| [SimpleLine](simpleline/#constructor_1)(SimpleLine) | ينشئ مثيلاً جديداً للفئة `SimpleLine`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle/) { get; set; } | يحدد كيفية تجسيد الأسطر في نهاياتها. |
-| [Color](../../aspose.gis.rendering.symbolizers/simpleline/color/) { get; set; } | يحدد اللون والشفافية المعطاة للخط. |
-| [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset/) { get; set; } | يحدد المسافة من بداية السطر إلى بداية نمط الشرطة. |
-| [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern/) { get; set; } | يحدد مصفوفة من المسافات التي تحدد أطوال الشرطات والمسافات المتناوبة في الخطوط المتقطعة. |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration/) { get; set; } | رد اتصال يتم استخدامه لتكوين هذا الرمز قبل عرض ميزة. |
+| [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle/) { get; set; } | يحدد كيفية تصيير الخطوط عند نهاياتها. |
+| [Color](../../aspose.gis.rendering.symbolizers/simpleline/color/) { get; set; } | يحدد اللون والشفافية الممنوحين للخط. |
+| [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset/) { get; set; } | يحدد المسافة من بداية الخط إلى بداية نمط الشرط. |
+| [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern/) { get; set; } | يحدد مصفوفة من المسافات التي تحدد أطوال الشرط والمسافات المتناوبة في الخطوط المتقطعة. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration/) { get; set; } | دالة استدعاء تُستخدم لتكوين هذا symbolizer قبل عرض ميزة. |
 | [LineJoin](../../aspose.gis.rendering.symbolizers/simpleline/linejoin/) { get; set; } | يحدد كيفية عرض الخطوط عند تقاطع مقاطع الخط. |
-| [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset/) { get; set; } | يحدد الإزاحة من السطر الأصلي. بالنسبة للمسافة الموجبة ، ستكون الإزاحة في الجانب الأيسر من خط الإدخال (بالنسبة لاتجاه الخط) . بالنسبة للمسافة السالبة ستكون في الجانب الأيمن. |
+| [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset/) { get; set; } | يحدد الإزاحة من الخط الأصلي. للمسافة الموجبة ستكون الإزاحة على الجانب الأيسر من الخط المدخل (بالنسبة إلى اتجاه الخط). للمسافة السالبة ستكون على الجانب الأيمن. |
 | [Style](../../aspose.gis.rendering.symbolizers/simpleline/style/) { get; set; } | يحدد كيفية رسم خطوط الرمز. |
 | [Width](../../aspose.gis.rendering.symbolizers/simpleline/width/) { get; set; } | يحدد عرض الخط. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.rendering.symbolizers/simpleline/clone/)() | استنساخ هذا المثال . |
+| [Clone](../../aspose.gis.rendering.symbolizers/simpleline/clone/)() | ينسخ هذا الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Class RasterColorizer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Colorizers.RasterColorizer فصل. فئة الجذر المجردة للملون التي تعرض خطوط المسح .
+title: "الفئة RasterColorizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.Colorizers.RasterColorizer فئة. الفئة الجذرية المجردة للمُلوّن الذي يُظهر رستر"
 type: docs
-weight: 1530
+weight: 3980
 url: /ar/net/aspose.gis.rendering.colorizers/rastercolorizer/
 ---
 ## RasterColorizer class
 
-فئة الجذر المجردة للملون التي تعرض خطوط المسح .
+الفئة الجذرية المجردة للمُلوّن الذي يعرض راستر.
 
 ```csharp
 public abstract class RasterColorizer
@@ -16,13 +16,13 @@ public abstract class RasterColorizer
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null/) { get; } | ملف[`NullColorizer`](../nullcolorizer/) لا يرسم شيئًا ويتخطى بشكل فعال عرض الخلايا التي يتم تطبيقه عليها. |
+| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null/) { get; } | ال [`NullColorizer`](../nullcolorizer/) لا يرسم شيئًا ويتخطى فعليًا تصيير الخلايا التي يُطبق عليها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
+* assembly [Aspose.GIS](../../)
 
 

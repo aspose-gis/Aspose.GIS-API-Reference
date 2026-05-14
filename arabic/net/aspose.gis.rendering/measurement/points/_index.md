@@ -1,31 +1,31 @@
 ---
-title: Measurement.Points
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement طريقة. إرجاع مثيل جديد منقياس التي تمثل الطول بالنقاط.
+title: "Measurement.Points"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بالنقاط"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.rendering/measurement/points/
 ---
 ## Measurement.Points method
 
-إرجاع مثيل جديد من`قياس` التي تمثل الطول بالنقاط.
+يعيد نسخة جديدة من `Measurement` تمثل الطول بالنقاط.
 
 ```csharp
 public static Measurement Points(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | عدد النقاط. |
+| قيمة | Double | عدد النقاط. |
 
 ### قيمة الإرجاع
 
-مثيل جديد من`قياس` فصل.
+نسخة جديدة من الفئة `Measurement`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

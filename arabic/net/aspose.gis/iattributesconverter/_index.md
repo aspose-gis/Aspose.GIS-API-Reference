@@ -1,9 +1,9 @@
 ---
-title: Interface IAttributesConverter
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.IAttributesConverter واجهه المستخدم. محول مخصص لسمات الطبقة.
+title: "الواجهة IAttributesConverter"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.IAttributesConverter. محول مخصص لسمات الطبقة"
 type: docs
-weight: 1250
+weight: 3030
 url: /ar/net/aspose.gis/iattributesconverter/
 ---
 ## IAttributesConverter interface
@@ -14,15 +14,15 @@ url: /ar/net/aspose.gis/iattributesconverter/
 public interface IAttributesConverter
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute/)(FeatureAttribute, AttributesConverterActions) | يضبط أ[`FeatureAttribute`](../featureattribute/) حسب الضرورة للطبقة المستهدفة. |
+| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute/)(FeatureAttribute, AttributesConverterActions) | يضبط [`FeatureAttribute`](../featureattribute/) حسب الحاجة للطبقة المستهدفة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

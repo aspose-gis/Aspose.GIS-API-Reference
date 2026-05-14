@@ -1,82 +1,84 @@
 ---
-title: Geometry.Within
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. لتحديد ما إذا كانت هذه الهندسة ضمن نطاق محدد.
+title: "Geometry.Within"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحدد ما إذا كانت هذه الهندسة داخل نطاق محدد"
 type: docs
-weight: 440
+weight: 450
 url: /ar/net/aspose.gis.geometries/geometry/within/
 ---
 ## Within(Extent) {#within}
 
-لتحديد ما إذا كانت هذه الهندسة ضمن نطاق محدد.
+يحدد ما إذا كان هذا الشكل داخل نطاق محدد.
 
 ```csharp
 public bool Within(Extent extent)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| extent | Extent | المدى. |
+| مدى | مدى | المدى. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة ضمن المدى ؛`false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة داخل النطاق؛ `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [Contains](../../../aspose.gis/extent/contains/)
 * class [Extent](../../../aspose.gis/extent/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Within(IGeometry) {#within_1}
 
-لتحديد ما إذا كانت هذه الهندسة ضمن هندسة محددة.
+يحدد ما إذا كان هذا الشكل داخل شكل محدد.
 
 ```csharp
 public bool Within(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "مكانيًا ضمن" هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "موجودة مكانيًا" داخل هندسة أخرى. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت إحدى الأشكال الهندسية ضمن أخرى من حيث مصفوفة تقاطع DE-9IM . توجد هندسة واحدة داخل أخرى ، إذا كانت هناك هندسة أخرى تحتوي على كل نقطة من الأشكال الهندسية والأشكال الهندسية تقاطع التصميمات الداخلية. هذه الطريقة تعادل: راجع مواصفات ميزات OpenGIS البسيطة للحصول على مزيد من التفاصيل حول DE-9IM وعلاقة "مكانيًا داخل".
+تختبر هذه الطريقة ما إذا كانت هندسة واحدة داخل أخرى من حيث مصفوفة تقاطع DE-9IM. تكون الهندسة داخل أخرى إذا كانت الهندسة الأخرى تحتوي على كل نقطة من الهندسة وتتقاطع داخليات الهندستين. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "T*F**F***");
 ```
 
-### أنظر أيضا
+انظر مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة "موجودة مكانيًا".
+
+### انظر أيضًا
 
 * method [SpatiallyContains](../../igeometry/spatiallycontains/)
 * method [CoveredBy](../../igeometry/coveredby/)
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

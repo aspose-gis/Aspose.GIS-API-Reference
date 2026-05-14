@@ -1,29 +1,31 @@
 ---
-title: Class PostGisDriver
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.PostGis.PostGisDriver فصل. برنامج تشغيل لقاعدة بيانات PostGIS .
+title: "الفئة PostGisDriver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.PostGis.PostGisDriver. مشغل لقاعدة بيانات PostGIS"
 type: docs
-weight: 640
+weight: 2290
 url: /ar/net/aspose.gis.formats.postgis/postgisdriver/
 ---
 ## PostGisDriver class
 
-برنامج تشغيل لقاعدة بيانات PostGIS .
+برنامج تشغيل لقاعدة بيانات PostGIS.
 
 ```csharp
 public class PostGisDriver : DatabaseDriver
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [OpenDataset](../../aspose.gis.formats.postgis/postgisdriver/opendataset/)(IDbConnection) | يفتح مجموعة البيانات . |
+| [FromDefinition](../../aspose.gis.formats.postgis/postgisdriver/fromdefinition/)(string) | يسمح ببدء عملية تكوين مصدر البيانات [`IFromDefinitionDataSource`](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/) لمزيد من العمل معه. |
+| [FromQuery](../../aspose.gis.formats.postgis/postgisdriver/fromquery/)(string) | تكوين مصدر البيانات لاستعلامات قاعدة بيانات مخصصة. |
+| override [OpenDataset](../../aspose.gis.formats.postgis/postgisdriver/opendataset/)(IDbConnection) | يفتح مجموعة البيانات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DatabaseDriver](../../aspose.gis/databasedriver/)
-* مساحة الاسم [Aspose.Gis.Formats.PostGis](../../aspose.gis.formats.postgis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.PostGis](../../aspose.gis.formats.postgis/)
+* assembly [Aspose.GIS](../../)
 
 

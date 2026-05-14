@@ -1,14 +1,14 @@
 ---
-title: LineString.EndPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString ملكية. إرجاع نسخة من نقطة نهاية المنحنى.
+title: "LineString.EndPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineString. تُرجع نسخة من نقطة النهاية للمنحنى"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/linestring/endpoint/
 ---
 ## LineString.EndPoint property
 
-إرجاع نسخة من نقطة نهاية المنحنى.
+يعيد نسخة من نقطة النهاية للمنحنى.
 
 ```csharp
 public override IPoint EndPoint { get; }
@@ -16,15 +16,15 @@ public override IPoint EndPoint { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الهندسة فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

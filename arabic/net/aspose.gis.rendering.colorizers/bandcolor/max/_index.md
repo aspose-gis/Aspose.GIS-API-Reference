@@ -1,7 +1,7 @@
 ---
-title: BandColor.Max
-second_title: Aspose.GIS لمرجع .NET API
-description: BandColor ملكية. يحدد القيمة القصوى.
+title: "BandColor.Max"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BandColor. تحدد القيمة القصوى"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/max/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/max/
 public double Max { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

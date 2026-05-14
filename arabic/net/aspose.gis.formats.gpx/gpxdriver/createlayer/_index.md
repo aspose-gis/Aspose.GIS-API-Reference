@@ -1,149 +1,149 @@
 ---
-title: GpxDriver.CreateLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: GpxDriver طريقة. ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+title: "GpxDriver.CreateLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GpxDriver. تنشئ طبقة وتفتحها لإضافة ميزات جديدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.gpx/gpxdriver/createlayer/
 ---
 ## CreateLayer(string, GpxOptions) {#createlayer_9}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public VectorLayer CreateLayer(string path, GpxOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | GpxOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | GpxOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [GpxOptions](../../gpxoptions/)
 * class [GpxDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, GpxOptions) {#createlayer_3}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, GpxOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | GpxOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | GpxOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [GpxOptions](../../gpxoptions/)
 * class [GpxDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, DriverOptions, SpatialReferenceSystem) {#createlayer_2}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options, 
     SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [GpxDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(AbstractPath, GpxOptions, SpatialReferenceSystem) {#createlayer_4}
 
-ينشئ طبقة ويفتحها لإضافة معالم جديدة .
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 ```csharp
 public VectorLayer CreateLayer(AbstractPath path, GpxOptions options, 
     SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | GpxOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | GpxOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
-| NotSupportedException | لا يدعم السائق نظام الإسناد المكاني. |
+| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [GpxOptions](../../gpxoptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [GpxDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

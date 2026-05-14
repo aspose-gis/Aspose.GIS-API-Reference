@@ -1,27 +1,27 @@
 ---
-title: Geometry.HasCurveGeometry
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه الهندسة عبارة عن هندسة منحنية غير خطية أو تحتوي عليها.
+title: "Geometry.HasCurveGeometry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كان هذا الشكل الهندسي هو أو يحتوي على curve غير خطي."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/geometry/hascurvegeometry/
 ---
 ## Geometry.HasCurveGeometry property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه الهندسة عبارة عن هندسة منحنية (غير خطية) أو تحتوي عليها.
+يحصل على قيمة تشير إلى ما إذا كانت هذه الهندسة أو تحتوي على هندسة منحنية (غير خطية).
 
 ```csharp
 public virtual bool HasCurveGeometry { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`false` إذا كانت هذه الهندسة وكل الأشكال الهندسية التي تحتويها خطية ؛ خلاف ذلك،`true` .
+`false` إذا كان هذا الشكل وجميع الأشكال التي يحتويها خطية؛ وإلا، `true`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

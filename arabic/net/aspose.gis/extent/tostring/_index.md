@@ -1,14 +1,14 @@
 ---
-title: Extent.ToString
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. إرجاع سلسلة تمثل الكائن الحالي.
+title: "Extent.ToString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تُرجع سلسلة تمثل الكائن الحالي."
 type: docs
 weight: 220
 url: /ar/net/aspose.gis/extent/tostring/
 ---
 ## Extent.ToString method
 
-إرجاع سلسلة تمثل الكائن الحالي.
+يعيد سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -18,10 +18,10 @@ public override string ToString()
 
 سلسلة تمثل الكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

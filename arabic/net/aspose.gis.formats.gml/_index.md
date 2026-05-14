@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.Gml
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Gml توفر مساحة الاسم فئات للعمل بتنسيق GML.
+title: "Aspose.Gis.Formats.Gml"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Formats.Gml توفر فئات للعمل مع تنسيق GML"
 type: docs
-weight: 90
+weight: 300
 url: /ar/net/aspose.gis.formats.gml/
 ---
-`Aspose.Gis.Formats.Gml` توفر مساحة الاسم فئات للعمل بتنسيق GML.
+`Aspose.Gis.Formats.Gml` مساحة الاسم توفر فئات للعمل مع صيغة GML.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [GmlDriver](./gmldriver/) | برنامج تشغيل لتنسيق GML . |
-| [GmlOptions](./gmloptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق GML . |
+| [GmlDriver](./gmldriver/) | برنامج تشغيل لتنسيق GML. |
+| [GmlOptions](./gmloptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق GML. |
 
 

@@ -1,23 +1,23 @@
 ---
-title: TopoJsonOptions.TopoJsonOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonOptions البناء. إنشاء مثيل جديد .
+title: "TopoJsonOptions.TopoJsonOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ TopoJsonOptions. إنشاء نسخة جديدة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.topojson/topojsonoptions/topojsonoptions/
 ---
 ## TopoJsonOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public TopoJsonOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

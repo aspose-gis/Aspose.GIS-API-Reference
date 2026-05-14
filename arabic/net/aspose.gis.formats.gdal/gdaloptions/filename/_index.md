@@ -1,23 +1,23 @@
 ---
-title: GdalOptions.FileName
-second_title: Aspose.GIS لمرجع .NET API
-description: GdalOptions ملكية. اسم التطبيق المراد بدء تشغيله
+title: "GdalOptions.FileName"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GdalOptions. اسم التطبيق للبدء"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.gdal/gdaloptions/filename/
 ---
 ## GdalOptions.FileName property
 
-اسم التطبيق المراد بدء تشغيله
+اسم التطبيق للبدء
 
 ```csharp
 public string FileName { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GdalOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GDAL](../../gdaloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GDAL](../../gdaloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

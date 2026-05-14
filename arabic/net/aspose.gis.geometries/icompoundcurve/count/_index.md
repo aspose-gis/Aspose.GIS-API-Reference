@@ -1,23 +1,23 @@
 ---
-title: ICompoundCurve.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: ICompoundCurve ملكية. الحصول على عدد المنحنيات في ملفICompoundCurve .
+title: "ICompoundCurve.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ICompoundCurve. يحصل على عدد المنحنيات في ICompoundCurve"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/icompoundcurve/count/
 ---
 ## ICompoundCurve.Count property
 
-الحصول على عدد المنحنيات في ملف[`ICompoundCurve`](../) .
+يحصل على عدد المنحنيات في [`ICompoundCurve`](../).
 
 ```csharp
 public int Count { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../icompoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icompoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

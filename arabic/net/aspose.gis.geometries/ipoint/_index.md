@@ -1,14 +1,14 @@
 ---
-title: Interface IPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.IPoint واجهه المستخدم. موقع واحد في مساحة إحداثيات .
+title: "الواجهة IPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Geometries.IPoint. موقع واحد في فضاء الإحداثيات."
 type: docs
-weight: 1090
+weight: 2870
 url: /ar/net/aspose.gis.geometries/ipoint/
 ---
 ## IPoint interface
 
-موقع واحد في مساحة إحداثيات .
+موقع واحد في فضاء الإحداثيات.
 
 ```csharp
 public interface IPoint : IEquatable<IPoint>, IGeometry
@@ -16,23 +16,23 @@ public interface IPoint : IEquatable<IPoint>, IGeometry
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [M](../../aspose.gis.geometries/ipoint/m/) { get; } | يحصل على إحداثيات m . |
-| [X](../../aspose.gis.geometries/ipoint/x/) { get; } | يحصل على إحداثيات س . |
-| [Y](../../aspose.gis.geometries/ipoint/y/) { get; } | يحصل على إحداثيات y . |
-| [Z](../../aspose.gis.geometries/ipoint/z/) { get; } | الحصول على تنسيق z . |
+| [M](../../aspose.gis.geometries/ipoint/m/) { get; } | يحصل على إحداثي m. |
+| [X](../../aspose.gis.geometries/ipoint/x/) { get; } | يحصل على إحداثي x. |
+| [Y](../../aspose.gis.geometries/ipoint/y/) { get; } | يحصل على إحداثي y. |
+| [Z](../../aspose.gis.geometries/ipoint/z/) { get; } | يحصل على إحداثي z. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToEditable](../../aspose.gis.geometries/ipoint/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToEditable](../../aspose.gis.geometries/ipoint/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../igeometry/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

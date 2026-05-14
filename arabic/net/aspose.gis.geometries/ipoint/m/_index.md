@@ -1,23 +1,23 @@
 ---
-title: IPoint.M
-second_title: Aspose.GIS لمرجع .NET API
-description: IPoint ملكية. يحصل على إحداثيات m .
+title: "IPoint.M"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IPoint. يحصل على إحداثي m"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/ipoint/m/
 ---
 ## IPoint.M property
 
-يحصل على إحداثيات m .
+يحصل على إحداثي m.
 
 ```csharp
 public double M { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../ipoint/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

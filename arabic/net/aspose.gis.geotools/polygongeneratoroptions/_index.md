@@ -1,45 +1,45 @@
 ---
-title: Class PolygonGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.PolygonGeneratorOptions فصل. خيارات من خطوط الإنتاج على السطح أو المنطقة .
+title: "الفئة PolygonGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.GeoTools.PolygonGeneratorOptions. خيارات لإنتاج الخطوط على السطح أو المنطقة"
 type: docs
-weight: 850
+weight: 2610
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/
 ---
 ## PolygonGeneratorOptions class
 
-خيارات من خطوط الإنتاج على السطح أو المنطقة .
+خيارات إنشاء خطوط على السطح أو المنطقة.
 
 ```csharp
 public class PolygonGeneratorOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PolygonGeneratorOptions](polygongeneratoroptions/)() | Default_Constructor |
+| [PolygonGeneratorOptions](polygongeneratoroptions/)() | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.geotools/polygongeneratoroptions/count/) { get; set; } | عدد المضلعات المراد إنشاؤها . |
-| [MaximumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints/) { get; set; } | الحد الأقصى لطول المضلع الناتج. |
-| [MinimumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints/) { get; set; } | الحد الأدنى لطول المضلع الناتج. |
-| [Place](../../aspose.gis.geotools/polygongeneratoroptions/place/) { get; set; } | الوضع في الخلايا التي تم إنشاؤها. _ |
-| [Seed](../../aspose.gis.geotools/polygongeneratoroptions/seed/) { get; set; } | رقم يستخدم لحساب القيمة الأولية لسلسلة من الأرقام العشوائية الزائفة. |
+| [Count](../../aspose.gis.geotools/polygongeneratoroptions/count/) { get; set; } | عدد المضلعات التي سيتم إنشاؤها. |
+| [MaximumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints/) { get; set; } | الحد الأقصى لطول المضلع المُولد. |
+| [MinimumPolygonPoints](../../aspose.gis.geotools/polygongeneratoroptions/minimumpolygonpoints/) { get; set; } | الحد الأدنى لطول المضلع المُولد. |
+| [Place](../../aspose.gis.geotools/polygongeneratoroptions/place/) { get; set; } | وضعية التوزيع في الخلايا المُولدة. |
+| [Seed](../../aspose.gis.geotools/polygongeneratoroptions/seed/) { get; set; } | رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/polygongeneratoroptions/clone/)() | استنساخ كائن لبعضه البعض . |
-| override [ToString](../../aspose.gis.geotools/polygongeneratoroptions/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| [Clone](../../aspose.gis.geotools/polygongeneratoroptions/clone/)() | استنساخ الكائن إلى آخر. |
+| override [ToString](../../aspose.gis.geotools/polygongeneratoroptions/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

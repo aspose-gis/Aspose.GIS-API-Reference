@@ -1,23 +1,23 @@
 ---
-title: GpxOptions.GpxOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: GpxOptions البناء. إنشاء مثيل جديد .
+title: "GpxOptions.GpxOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GpxOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.gpx/gpxoptions/gpxoptions/
 ---
 ## GpxOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public GpxOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GpxOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

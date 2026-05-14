@@ -1,53 +1,53 @@
 ---
-title: Class BursaWolfParameters
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.BursaWolfParameters فصل. فئة تحتوي على معلمات صيغة BursaWolf للتحويل إلى مرجع آخر.
+title: "الفئة BursaWolfParameters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.BursaWolfParameters. فئة تحتوي على معلمات صيغة BursaWolf للتحويل إلى نظام إسناد آخر."
 type: docs
-weight: 2050
+weight: 4500
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/
 ---
 ## BursaWolfParameters class
 
-فئة تحتوي على معلمات صيغة Bursa-Wolf للتحويل إلى مرجع آخر.
+فئة تحتوي على معلمات صيغة بورسا-وولف لتحويل إلى معيار آخر.
 
 ```csharp
 public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BursaWolfParameters](bursawolfparameters/#constructor)(double, double, double) | إنشاء مثيل جديد من`BursaWolfParameters` . |
-| [BursaWolfParameters](bursawolfparameters/#constructor_1)(double, double, double, double, double, double, double) | إنشاء مثيل جديد من`BursaWolfParameters` . |
+| [BursaWolfParameters](bursawolfparameters/#constructor)(double, double, double) | ينشئ نسخة جديدة من `BursaWolfParameters`. |
+| [BursaWolfParameters](bursawolfparameters/#constructor_1)(double, double, double, double, double, double, double) | ينشئ نسخة جديدة من `BursaWolfParameters`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null/) { get; } | قيمة خاصة ، تشير إلى أن المعلمات غير معروفة. |
-| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx/) { get; } | DX بالأمتار. |
-| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy/) { get; } | دى بالأمتار. |
+| static [Null](../../aspose.gis.spatialreferencing/bursawolfparameters/null/) { get; } | قيمة خاصة، تشير إلى أن المعلمات غير معروفة. |
+| [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx/) { get; } | Dx بالأمتار. |
+| [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy/) { get; } | Dy بالأمتار. |
 | [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz/) { get; } | Dz بالأمتار. |
-| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull/) { get; } | حدد ما إذا كان هذا المثيل أم لا[`Null`](./null/) . |
-| [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx/) { get; } | Rx في ثوان. |
-| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry/) { get; } | راي في ثوان. |
+| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull/) { get; } | حدد ما إذا كانت هذه النسخة هي [`Null`](./null/). |
+| [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx/) { get; } | Rx بالثواني. |
+| [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry/) { get; } | Ry بالثواني. |
 | [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz/) { get; } | Rz بالثواني. |
-| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale/) { get; } | مقياس في أجزاء في المليون. |
+| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale/) { get; } | المقياس بالأجزاء في المليون. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals)(BursaWolfParameters) | يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع. |
+| [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals)(BursaWolfParameters) | يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع. |
 | override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals_1)(object) | يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي. |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | بمثابة وظيفة التجزئة الافتراضية. |
-| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality/) | تنفيذ عامل التشغيل == . |
-| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/) | تنفذ عامل التشغيل! = . |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | يعمل كدالة التجزئة الافتراضية. |
+| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality/) | ينفذ العامل ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/) | ينفذ العامل !=. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

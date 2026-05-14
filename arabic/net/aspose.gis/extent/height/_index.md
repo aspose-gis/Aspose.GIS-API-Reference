@@ -1,23 +1,23 @@
 ---
-title: Extent.Height
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent ملكية. ارتفاع المدى.
+title: "Extent.Height"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Extent. ارتفاع الامتداد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/extent/height/
 ---
 ## Extent.Height property
 
-ارتفاع المدى.
+ارتفاع الامتداد.
 
 ```csharp
 public double Height { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

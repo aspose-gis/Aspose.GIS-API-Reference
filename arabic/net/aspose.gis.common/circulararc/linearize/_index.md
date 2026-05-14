@@ -1,0 +1,38 @@
+---
+title: "CircularArc.Linearize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "CircularArc طريقة."
+type: docs
+weight: 200
+url: /ar/net/aspose.gis.common/circulararc/linearize/
+---
+## Linearize(List&lt;Coordinate&gt;, double, bool) {#linearize}
+
+```csharp
+public void Linearize(List<Coordinate> result, double tolerance, bool addEndpoints)
+```
+
+### انظر أيضًا
+
+* struct [Coordinate](../../coordinate/)
+* struct [CircularArc](../)
+* namespace [Aspose.Gis.Common](../../circulararc/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## Linearize(List&lt;Coordinate&gt;, double, bool, out int) {#linearize_1}
+
+```csharp
+public void Linearize(List<Coordinate> result, double tolerance, bool addEndpoints, 
+    out int indexOfMid)
+```
+
+### انظر أيضًا
+
+* struct [Coordinate](../../coordinate/)
+* struct [CircularArc](../)
+* namespace [Aspose.Gis.Common](../../circulararc/)
+* assembly [Aspose.GIS](../../../)
+
+

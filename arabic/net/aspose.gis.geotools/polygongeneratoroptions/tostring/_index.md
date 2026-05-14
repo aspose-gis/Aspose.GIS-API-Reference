@@ -1,14 +1,14 @@
 ---
-title: PolygonGeneratorOptions.ToString
-second_title: Aspose.GIS لمرجع .NET API
-description: PolygonGeneratorOptions طريقة. إرجاع سلسلة تمثل الكائن الحالي.
+title: "PolygonGeneratorOptions.ToString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة PolygonGeneratorOptions. تُرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/tostring/
 ---
 ## PolygonGeneratorOptions.ToString method
 
-إرجاع سلسلة تمثل الكائن الحالي.
+يعيد سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -18,10 +18,10 @@ public override string ToString()
 
 سلسلة تمثل الكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

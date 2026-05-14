@@ -1,23 +1,23 @@
 ---
-title: JoinOptions.JoinOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: JoinOptions البناء. إنشاء مثيل جديد .
+title: "JoinOptions.JoinOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ JoinOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.relationship.joins/joinoptions/joinoptions/
 ---
 ## JoinOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public JoinOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [JoinOptions](../)
-* مساحة الاسم [Aspose.Gis.Relationship.Joins](../../joinoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Relationship.Joins](../../joinoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

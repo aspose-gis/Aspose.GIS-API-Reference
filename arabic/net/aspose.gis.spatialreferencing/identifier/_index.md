@@ -1,59 +1,61 @@
 ---
-title: Class Identifier
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.Identifier فصل. يمثل معرّفًا  مرجعًا للوصف الخارجي لكائن . إذا قمت بإنشاء SRS من WKT Identifier يتوافق مع الكلمة الرئيسية AUTHORITY .
+title: "الفئة Identifier"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.Identifier. تمثل معرفًا مرجعًا للوصف الخارجي لكائن. إذا قمت بإنشاء نظام إسناد مكاني (SRS) من WKT فإن Identifier يتطابق مع كلمة AUTHORITY المفتاحية"
 type: docs
-weight: 2160
+weight: 4610
 url: /ar/net/aspose.gis.spatialreferencing/identifier/
 ---
 ## Identifier class
 
-يمثل معرّفًا - مرجعًا للوصف الخارجي لكائن . إذا قمت بإنشاء SRS من WKT ،`Identifier` يتوافق مع الكلمة الرئيسية "AUTHORITY" .
+تمثل معرفًا - مرجعًا للوصف الخارجي لكائن. إذا قمت بإنشاء نظام إسناد مكاني (SRS) من WKT، `Identifier` يتطابق مع كلمة "AUTHORITY" المفتاحية.
 
 ```csharp
 public class Identifier : IEquatable<Identifier>
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Identifier](identifier/)(string, string) | إنشاء مثيل جديد . |
+| [Identifier](identifier/)(string, string) | إنشاء نسخة جديدة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AuthorityName](../../aspose.gis.spatialreferencing/identifier/authorityname/) { get; } | اسم السلطة الذي أعطى[`AuthorityUniqueIdentifier`](./authorityuniqueidentifier/) . |
-| [AuthorityUniqueIdentifier](../../aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/) { get; } | طريقة فريدة لتمثيل كائن داخل ملف[`AuthorityName`](./authorityname/) . |
+| [AuthorityName](../../aspose.gis.spatialreferencing/identifier/authorityname/) { get; } | اسم السلطة التي أعطت [`AuthorityUniqueIdentifier`](./authorityuniqueidentifier/). |
+| [AuthorityUniqueIdentifier](../../aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/) { get; } | طريقة فريدة لتمثيل كائن داخل [`AuthorityName`](./authorityname/). |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg/)(int) | إنشاء معرّف جديد يمثل معرّف EPSG مع التعليمات البرمجية*epsgCode* . |
-| [Equals](../../aspose.gis.spatialreferencing/identifier/equals/#equals)(Identifier) | يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع. |
+| static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg/)(int) | ينشئ معرفًا جديدًا يمثل معرف EPSG بالرمز *epsgCode*. |
+| [Equals](../../aspose.gis.spatialreferencing/identifier/equals/#equals)(Identifier) | يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع. |
 | override [Equals](../../aspose.gis.spatialreferencing/identifier/equals/#equals_1)(object) | يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي. |
-| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode/)() | إذا كان هذا الكائن يمثل معرف EPSG صالحًا (على سبيل المثال - اسم الاستناد هو "EPSG" والمعرف الفريد الاستنادي هو عدد صحيح) -_ قم بإعادته. خلاف ذلك - إرجاع -1 . |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode/)() | بمثابة وظيفة التجزئة الافتراضية. |
-| [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality/) | تنفيذ عامل التشغيل == . |
-| [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality/) | تنفذ عامل التشغيل! = . |
+| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode/)() | إذا كان هذا الكائن يمثل معرف EPSG صالح (مثال: - اسم السلطة هو "EPSG" والمعرف الفريد للسلطة هو عدد صحيح) - أرجعه. وإلا - أرجع -1. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode/)() | يعمل كدالة التجزئة الافتراضية. |
+| [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality/) | ينفذ العامل ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality/) | ينفذ العامل !=. |
 
-### أمثلة
+## أمثلة
 
-يحتوي نظام الإسناد المكاني WGS 84 على كود EPSG 4326 ، لذلك قد يحتوي على المعرف: WGS 84 Ellipsoid لها كود EPSG 7030 ، وقد تحتوي على المعرف:
+نظام الإسناد المكاني WGS 84 لديه رمز EPSG 4326، لذا قد يحتوي على معرف:
 
 ```csharp
 new  {  = "EPSG",  = 4326 };
 ```
 
+القطب الأرضي WGS 84 لديه رمز EPSG 7030، وقد يحتوي على معرف:
+
 ```csharp
 new  {  = "EPSG",  = 7030 };
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

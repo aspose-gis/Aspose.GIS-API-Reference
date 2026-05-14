@@ -1,17 +1,17 @@
 ---
-title: Aspose.Gis.Rendering.Formats.Svg
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Svg توفر مساحة الاسم فئات للعمل بتنسيق SVG.
+title: "Aspose.Gis.Rendering.Formats.Svg"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Formats.Svg توفر فئات للعمل مع تنسيق SVG"
 type: docs
-weight: 330
+weight: 710
 url: /ar/net/aspose.gis.rendering.formats.svg/
 ---
-`Aspose.Gis.Formats.Svg` توفر مساحة الاسم فئات للعمل بتنسيق SVG.
+`Aspose.Gis.Formats.Svg` مساحة الاسم توفر فئات للعمل مع تنسيق SVG.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [SvgRenderer](./svgrenderer/) | أ[`Renderer`](../aspose.gis.rendering/renderer/) هذا يجعل[`Map`](../aspose.gis.rendering/map/) في ملف SVG. |
+| [SvgRenderer](./svgrenderer/) | أداة [`Renderer`](../aspose.gis.rendering/renderer/) التي تُحول [`Map`](../aspose.gis.rendering/map/) إلى ملف SVG. |
 
 

@@ -1,23 +1,23 @@
 ---
-title: PolygonGeneratorOptions.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: PolygonGeneratorOptions ملكية. عدد المضلعات المراد إنشاؤها .
+title: "PolygonGeneratorOptions.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "PolygonGeneratorOptions خاصية. عدد المضلعات لإنشائها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/count/
 ---
 ## PolygonGeneratorOptions.Count property
 
-عدد المضلعات المراد إنشاؤها .
+عدد المضلعات التي سيتم إنشاؤها.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

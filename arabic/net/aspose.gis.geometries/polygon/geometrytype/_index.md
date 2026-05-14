@@ -1,28 +1,28 @@
 ---
-title: Polygon.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon ملكية. يحصل على نوع الهندسة .
+title: "Polygon.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Polygon. تحصل على نوع الهندسة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/polygon/geometrytype/
 ---
 ## Polygon.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

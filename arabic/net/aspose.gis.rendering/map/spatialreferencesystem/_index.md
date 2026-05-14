@@ -1,14 +1,14 @@
 ---
-title: Map.SpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: Map ملكية. SpatialReferenceSystem من الخريطة.
+title: "Map.SpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Map. SpatialReferenceSystem للخريطة."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.rendering/map/spatialreferencesystem/
 ---
 ## Map.SpatialReferenceSystem property
 
-`SpatialReferenceSystem` من الخريطة.
+`SpatialReferenceSystem` للخريطة.
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
@@ -16,16 +16,16 @@ public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | القيمة ليست كذلكProjected أوGeographic . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | القيمة ليست مُسقطة أو جغرافية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

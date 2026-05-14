@@ -1,32 +1,32 @@
 ---
-title: IPolygon.GetInteriorRing
-second_title: Aspose.GIS لمرجع .NET API
-description: IPolygon طريقة. يحصل على الحلقة الداخلية بفهرسها.
+title: "IPolygon.GetInteriorRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IPolygon. تحصل على الحلقة الداخلية حسب فهرستها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/ipolygon/getinteriorring/
 ---
 ## IPolygon.GetInteriorRing method
 
-يحصل على الحلقة الداخلية بفهرسها.
+يحصل على الحلقة الداخلية حسب فهرستها.
 
 ```csharp
 public ILinearRing GetInteriorRing(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | مؤشر. |
+| الفهرس | Int32 | الفهرس. |
 
 ### قيمة الإرجاع
 
 الحلقة الداخلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILinearRing](../../ilinearring/)
 * interface [IPolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../ipolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ipolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

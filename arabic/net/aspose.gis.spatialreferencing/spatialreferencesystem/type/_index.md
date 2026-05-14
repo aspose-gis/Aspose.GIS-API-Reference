@@ -1,24 +1,24 @@
 ---
-title: SpatialReferenceSystem.Type
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. يحصل على نوع SRS هذا  انظرSpatialReferenceSystemType .
+title: "SpatialReferenceSystem.Type"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تحصل على نوع هذا الـ SRS؛ انظر SpatialReferenceSystemType"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/type/
 ---
 ## SpatialReferenceSystem.Type property
 
-يحصل على نوع SRS هذا ، انظر[`SpatialReferenceSystemType`](../../spatialreferencesystemtype/) .
+تحصل على نوع هذا الـ SRS، انظر [`SpatialReferenceSystemType`](../../spatialreferencesystemtype/).
 
 ```csharp
 public abstract SpatialReferenceSystemType Type { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SpatialReferenceSystemType](../../spatialreferencesystemtype/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

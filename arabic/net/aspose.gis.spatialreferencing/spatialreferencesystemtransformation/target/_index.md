@@ -1,24 +1,24 @@
 ---
-title: SpatialReferenceSystemTransformation.Target
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystemTransformation ملكية. نظام الإسناد المكاني المستهدف .
+title: "SpatialReferenceSystemTransformation.Target"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystemTransformation. نظام الإسناد المكاني الهدف"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/target/
 ---
 ## SpatialReferenceSystemTransformation.Target property
 
-نظام الإسناد المكاني المستهدف .
+نظام الإسناد المكاني الهدف.
 
 ```csharp
 public SpatialReferenceSystem Target { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [SpatialReferenceSystemTransformation](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,34 +1,34 @@
 ---
-title: Enum StrokeStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.StrokeStyle تعداد. يحدد نمط ضربة الفرشاة .
+title: "تعداد StrokeStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.StrokeStyle تعداد. يحدد نمط الخط"
 type: docs
-weight: 1800
+weight: 4250
 url: /ar/net/aspose.gis.rendering/strokestyle/
 ---
 ## StrokeStyle enumeration
 
-يحدد نمط ضربة الفرشاة .
+يحدد نمط الحد.
 
 ```csharp
 public enum StrokeStyle
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Solid | `0` | يحدد خطًا عاديًا. |
-| None | `1` | يحدد ، أنه لا ينبغي رسم أي خط. |
-| Dash | `2` | يحدد خط الشرطة. |
-| Dot | `3` | يحدد خطًا منقطًا. |
-| DashDot | `4` | يحدد النقاط والشرطات البديلة. |
-| DashDotDot | `5` | يحدد خط شرطة-نقطة-نقطة. |
-| Custom | `6` | خط نمط شرطة مخصص. |
+| None | `1` | يحدد أنه لا يجب رسم أي خط. |
+| Dash | `2` | يحدد خطًا متقطعًا. |
+| Dot | `3` | يحدد خطًا منقّطًا. |
+| DashDot | `4` | يحدد نقاطًا وشرطات متبادلة. |
+| DashDotDot | `5` | يحدد خطًا من نوع شرطة-نقطة-نقطة. |
+| Custom | `6` | خط بنمط شرطة مخصص. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,45 +1,45 @@
 ---
-title: Class PrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.PrimeMeridian فصل. يمثل PrimeMeridian خط الزوال الذي عنده يتم تعريف خط الطول ليكون 0.
+title: "الفئة PrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.PrimeMeridian. تمثل PrimeMeridian خط طول يتم تعريفه على أنه 0."
 type: docs
-weight: 2200
+weight: 4650
 url: /ar/net/aspose.gis.spatialreferencing/primemeridian/
 ---
 ## PrimeMeridian class
 
-يمثل PrimeMeridian خط الزوال الذي عنده يتم تعريف خط الطول ليكون 0.
+خط الزوال الأساسي يمثل خط طول تُعرّف فيه قيمة الطول بـ 0.
 
 ```csharp
 public class PrimeMeridian : IdentifiableObject
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PrimeMeridian](primemeridian/)(string, double, Identifier) | يخلق مثيل جديد. |
+| [PrimeMeridian](primemeridian/)(string, double, Identifier) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Greenwich](../../aspose.gis.spatialreferencing/primemeridian/greenwich/) { get; } | خط الطول غرينتش . |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف الكائنات هذا هو معرف EPSG - قم بإرجاع الكود الخاص به. خلاف ذلك - إرجاع -1 . |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرّف هذا الكائن القابل للتحديد . |
-| [Longitude](../../aspose.gis.spatialreferencing/primemeridian/longitude/) { get; } | المسافة من خط الطول غرينتش إلى خط الزوال الرئيسي بالدرجات. |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن . |
+| static [Greenwich](../../aspose.gis.spatialreferencing/primemeridian/greenwich/) { get; } | خط غرينتش. |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
+| [Longitude](../../aspose.gis.spatialreferencing/primemeridian/longitude/) { get; } | المسافة من خط غرينتش إلى خط الزوال الأساسي بالدرجات. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IdentifiableObject](../identifiableobject/)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

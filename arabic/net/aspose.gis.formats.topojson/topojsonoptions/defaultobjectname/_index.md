@@ -1,27 +1,27 @@
 ---
-title: TopoJsonOptions.DefaultObjectName
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonOptions ملكية. اسم الكائن حيث يتم وضع الميزات افتراضيًا .
+title: "TopoJsonOptions.DefaultObjectName"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية TopoJsonOptions. اسم الكائن الذي تُوضع فيه الميزات بشكل افتراضي."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.topojson/topojsonoptions/defaultobjectname/
 ---
 ## TopoJsonOptions.DefaultObjectName property
 
-اسم الكائن حيث يتم وضع الميزات افتراضيًا .
+اسم الكائن حيث تُوضع الميزات افتراضيًا.
 
 ```csharp
 public string DefaultObjectName { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-هذا خيار كتابة - لا يؤثر على القراءة . قد يحتوي TopoJSON على أي عدد من الكائنات المسماة. كل كائن يمكن أن يحتوي على ميزات متعددة. من أجل تحديد الكائن الذي تريد وضع ميزتك فيه ، استخدم [`ObjectNameAttribute`](../objectnameattribute/) property. إذا كانت السمة بالاسم[`ObjectNameAttribute`](../objectnameattribute/) يكون`null`أو unset for بعض الميزات ، تتم إضافة هذه الميزة للكائن بالاسم`DefaultObjectName` . إذا كانت السمة بالاسم[`ObjectNameAttribute`](../objectnameattribute/) غير موجود في[`Attributes`](../../../aspose.gis/vectorlayer/attributes/) ، يتم وضع جميع الميزات في كائن بالاسم[`ObjectNameAttribute`](../objectnameattribute/) . القيمة الافتراضية "غير مسمى" .
+هذا خيار كتابة - لا يؤثر على القراءة. يمكن أن يحتوي TopoJSON على أي عدد من الكائنات المسماة. كل كائن من هذا النوع يمكنه احتواء عدة ميزات. لتحديد الكائن الذي تُوضع فيه ميزتك، استخدم خاصية [`ObjectNameAttribute`](../objectnameattribute/). إذا كانت السمة ذات الاسم [`ObjectNameAttribute`](../objectnameattribute/) `null` أو غير محددة لبعض الميزة، تُضاف هذه الميزة إلى الكائن الذي اسمه `DefaultObjectName`. إذا لم تكن السمة ذات الاسم [`ObjectNameAttribute`](../objectnameattribute/) موجودة في مجموعة [`Attributes`](../../../aspose.gis/vectorlayer/attributes/)، تُوضع جميع الميزات في كائن يحمل الاسم [`ObjectNameAttribute`](../objectnameattribute/). القيمة الافتراضية هي "unnamed".
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

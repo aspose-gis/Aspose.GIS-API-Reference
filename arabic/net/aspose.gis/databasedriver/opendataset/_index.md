@@ -1,40 +1,40 @@
 ---
-title: DatabaseDriver.OpenDataset
-second_title: Aspose.GIS لمرجع .NET API
-description: DatabaseDriver طريقة. يفتح مجموعة البيانات .
+title: "DatabaseDriver.OpenDataset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة DatabaseDriver. تفتح مجموعة البيانات"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/databasedriver/opendataset/
 ---
 ## DatabaseDriver.OpenDataset method
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public abstract Dataset OpenDataset(IDbConnection connection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| connection | IDbConnection | فتح الاتصال بقاعدة البيانات. |
+| الاتصال | IDbConnection | تم فتح الاتصال بقاعدة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الاتصال`null`. |
+| ArgumentNullException | الاتصال هو `null`. |
 | [GisException](../../gisexception/) | خطأ في قراءة مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [DatabaseDriver](../)
-* مساحة الاسم [Aspose.Gis](../../databasedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../databasedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

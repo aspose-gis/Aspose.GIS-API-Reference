@@ -1,33 +1,33 @@
 ---
-title: Geometry.RoundZ
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. تنسق الجولات Z إلى عدد محدد من الأرقام الكسرية.
+title: "Geometry.RoundZ"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تقرب إحداثية Z إلى عدد محدد من الأرقام العشرية"
 type: docs
 weight: 340
 url: /ar/net/aspose.gis.geometries/geometry/roundz/
 ---
 ## Geometry.RoundZ method
 
-تنسق الجولات Z إلى عدد محدد من الأرقام الكسرية.
+يقرب إحداثي Z إلى عدد محدد من الأرقام العشرية.
 
 ```csharp
 public void RoundZ(int digits)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| digits | Int32 | عدد الكسور. |
+| أرقام | Int32 | عدد الأرقام العشرية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | *digits* أقل من 0 أو أكبر من 15. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

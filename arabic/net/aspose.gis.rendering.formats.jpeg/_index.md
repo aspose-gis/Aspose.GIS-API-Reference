@@ -1,17 +1,17 @@
 ---
-title: Aspose.Gis.Rendering.Formats.Jpeg
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Jpeg توفر مساحة الاسم فئات للعمل بتنسيق JPEG.
+title: "Aspose.Gis.Rendering.Formats.Jpeg"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.Jpeg توفر فئات للعمل مع تنسيق JPEG."
 type: docs
-weight: 310
+weight: 690
 url: /ar/net/aspose.gis.rendering.formats.jpeg/
 ---
-`Aspose.Gis.Formats.Jpeg` توفر مساحة الاسم فئات للعمل بتنسيق JPEG.
+`Aspose.Gis.Formats.Jpeg` مساحة الاسم توفر فئات للعمل مع تنسيق JPEG.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [JpegRenderer](./jpegrenderer/) | أ[`Renderer`](../aspose.gis.rendering/renderer/) هذا يجعل[`Map`](../aspose.gis.rendering/map/) في ملف JPEG. |
+| [JpegRenderer](./jpegrenderer/) | مكوّن [`Renderer`](../aspose.gis.rendering/renderer/) الذي يُحوّل [`Map`](../aspose.gis.rendering/map/) إلى ملف JPEG. |
 
 

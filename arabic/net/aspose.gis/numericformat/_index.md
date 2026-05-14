@@ -1,9 +1,9 @@
 ---
-title: Class NumericFormat
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.NumericFormat فصل. NumericFormat تُستخدم لتنسيق الأنواع الرقمية الشائعة في النص.
+title: "الفئة NumericFormat"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.NumericFormat. تُستخدم NumericFormat لتنسيق الأنواع الرقمية الشائعة في النص"
 type: docs
-weight: 1290
+weight: 3440
 url: /ar/net/aspose.gis/numericformat/
 ---
 ## NumericFormat class
@@ -16,24 +16,24 @@ public abstract class NumericFormat
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [RoundTrip](../../aspose.gis/numericformat/roundtrip/) { get; } | تحويل ومحاولة التأكد من أن القيمة الرقمية التي يتم تحويلها إلى سلسلة يتم تحليلها مرة أخرى إلى نفس القيمة الرقمية. |
+| static [RoundTrip](../../aspose.gis/numericformat/roundtrip/) { get; } | يحول ويحاول التأكد من أن القيمة الرقمية التي تم تحويلها إلى سلسلة يتم تحليلها مرة أخرى إلى نفس القيمة الرقمية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Flat](../../aspose.gis/numericformat/flat/)(int) | تحويل رقم إلى نص ذي نقطة ثابتة بدون تدوين علمي. |
-| static [General](../../aspose.gis/numericformat/general/)(int) | تحويل رقم إلى رقم مضغوط بدرجة أكبر إما للنقطة الثابتة أو الترميز العلمي ، اعتمادًا على نوع الرقم وما إذا كان محدد الدقة موجودًا أم لا. يوصى باستخدامه. |
+| static [Flat](../../aspose.gis/numericformat/flat/)(int) | يحول عددًا إلى نص ثابت النقطة دون استخدام الصيغة العلمية. |
+| static [General](../../aspose.gis/numericformat/general/)(int) | يحول عددًا إلى الشكل الأكثر اختصارًا إما ثابت النقطة أو الصيغة العلمية، اعتمادًا على نوع العدد وما إذا كان محدد الدقة موجودًا. يُنصح باستخدامه. |
 
-### ملاحظات
+## ملاحظات
 
-هناك ثلاثة أنواع من ملفات`NumericFormat` :  عام - نقطة ثابتة أو تدوين علمي. بعض الأرقام مهمة. RoundTrip - نقطة ثابتة أو تدوين علمي. الحد الأقصى من الأرقام كبير. تدوين ثابت - نقطة ثابتة. بعض الأرقام مهمة. أ`NumericFormat` يمكن ضبطها على[`IGeometry`](../../aspose.gis.geometries/igeometry/) عبر[`AsText`](../../aspose.gis.geometries/igeometry/astext/) لتحديد التنسيق الرقمي عند ترجمة الهندسة إلى تمثيلها للنص المعروف جيدًا (WKT).
+هناك ثلاثة أنواع من `NumericFormat`: عام - ثابت النقطة أو الصيغة العلمية. بعض الأرقام ذات أهمية. RoundTrip - ثابت النقطة أو الصيغة العلمية. الحد الأقصى للأرقام ذات أهمية. Flat - صيغة ثابت النقطة. بعض الأرقام ذات أهمية. يمكن تعيين `NumericFormat` إلى [`IGeometry`](../../aspose.gis.geometries/igeometry/) عبر [`AsText`](../../aspose.gis.geometries/igeometry/astext/) لتحديد تنسيق الأرقام عند تحويل الشكل إلى تمثيله النصي المعروف (WKT).
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

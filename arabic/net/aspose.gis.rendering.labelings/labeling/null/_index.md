@@ -1,24 +1,24 @@
 ---
-title: Labeling.Null
-second_title: Aspose.GIS لمرجع .NET API
-description: Labeling ملكية. يحصل على مثيلNullLabeling .
+title: "Labeling.Null"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Labeling. تحصل على مثيل من NullLabeling"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/labeling/null/
 ---
 ## Labeling.Null property
 
-يحصل على مثيل[`NullLabeling`](../../nulllabeling/) .
+تحصل على مثيل من [`NullLabeling`](../../nulllabeling/).
 
 ```csharp
 public static NullLabeling Null { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NullLabeling](../../nulllabeling/)
 * class [Labeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labeling/)
+* assembly [Aspose.GIS](../../../)
 
 

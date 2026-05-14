@@ -1,27 +1,27 @@
 ---
-title: PrecisionModel.IsRounding
-second_title: Aspose.GIS لمرجع .NET API
-description: PrecisionModel ملكية. الحصول على قيمة تشير إلى ما إذا كان نموذج الدقة هذا يتم تقريبه.
+title: "PrecisionModel.IsRounding"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PrecisionModel. تُعيد قيمة تُشير إلى ما إذا كان نموذج الدقة هذا تقريبيًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/precisionmodel/isrounding/
 ---
 ## PrecisionModel.IsRounding property
 
-الحصول على قيمة تشير إلى ما إذا كان نموذج الدقة هذا يتم تقريبه.
+يحصل على قيمة تشير إلى ما إذا كان نموذج الدقة هذا يستخدم التقريب.
 
 ```csharp
 public bool IsRounding { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان هذا النموذج الدقيق مستديرًا ؛`false` خلاف ذلك.
+`true` إذا كان نموذج الدقة هذا تقريبيًا؛ `false` غير ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../)
-* مساحة الاسم [Aspose.Gis](../../precisionmodel/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../precisionmodel/)
+* assembly [Aspose.GIS](../../../)
 
 

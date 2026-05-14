@@ -1,23 +1,23 @@
 ---
-title: PrecisionModel.Exact
-second_title: Aspose.GIS لمرجع .NET API
-description: PrecisionModel ملكية. إرجاع نموذج الدقة الدقيق . وفقًا لنموذج الدقة الدقيق  تكون جميع الأرقام في القيمة المزدوجة مهمة .
+title: "PrecisionModel.Exact"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PrecisionModel. تُعيد نموذج دقة دقيق. وفقًا لنموذج الدقة الدقيق، جميع الأرقام في قيمة مزدوجة تكون مهمة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/precisionmodel/exact/
 ---
 ## PrecisionModel.Exact property
 
-إرجاع نموذج الدقة الدقيق . وفقًا لنموذج الدقة الدقيق ، تكون جميع الأرقام في القيمة المزدوجة مهمة .
+يرجع نموذج دقة دقيق. وفقًا لنموذج الدقة الدقيق جميع الأرقام في قيمة مزدوجة ذات دلالة.
 
 ```csharp
 public static PrecisionModel Exact { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../)
-* مساحة الاسم [Aspose.Gis](../../precisionmodel/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../precisionmodel/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,28 +1,28 @@
 ---
-title: Class LabelPlacement
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.LabelPlacement فصل. يحدد وضع الملصق كيفية وضع الملصقات نسبيًا في هندسة الميزة.
+title: "فئة LabelPlacement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.Labelings.LabelPlacement. يحدد وضع التسمية كيف يتم وضع التسميات نسبياً إلى هندسة المعالم"
 type: docs
-weight: 1610
+weight: 4060
 url: /ar/net/aspose.gis.rendering.labelings/labelplacement/
 ---
 ## LabelPlacement class
 
-يحدد وضع الملصق كيفية وضع الملصقات نسبيًا في هندسة الميزة.
+تحديد موضع التسمية يوضح كيفية وضع التسميات بالنسبة لهندسة الميزة.
 
 ```csharp
 public abstract class LabelPlacement
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Clone](../../aspose.gis.rendering.labelings/labelplacement/clone/)() | استنساخ هذا المثال. |
+| abstract [Clone](../../aspose.gis.rendering.labelings/labelplacement/clone/)() | ينسخ هذا الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

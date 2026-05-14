@@ -1,31 +1,31 @@
 ---
-title: Measurement.Inches
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement طريقة. إرجاع مثيل جديد منقياس التي تمثل الطول بالبوصة.
+title: "Measurement.Inches"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بالبوصات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering/measurement/inches/
 ---
 ## Measurement.Inches method
 
-إرجاع مثيل جديد من`قياس` التي تمثل الطول بالبوصة.
+يعيد نسخة جديدة من `Measurement` تمثل الطول بالبوصة.
 
 ```csharp
 public static Measurement Inches(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | عدد البوصات. |
+| قيمة | Double | عدد البوصات. |
 
 ### قيمة الإرجاع
 
-مثيل جديد من`قياس` فصل.
+نسخة جديدة من الفئة `Measurement`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Interface ICurve
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.ICurve واجهه المستخدم. أICurve عبارة عن سلسلة من النقاط.
+title: "الواجهة ICurve"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Geometries.ICurve واجهة. واجهة لنوع ICurve هي تسلسل من النقاط"
 type: docs
-weight: 980
+weight: 2760
 url: /ar/net/aspose.gis.geometries/icurve/
 ---
 ## ICurve interface
 
-أ`ICurve` عبارة عن سلسلة من النقاط.
+واجهة لنوع ICurve `ICurve` هي تسلسل من النقاط.
 
 ```csharp
 public interface ICurve : IGeometry
@@ -16,24 +16,24 @@ public interface ICurve : IGeometry
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [EndPoint](../../aspose.gis.geometries/icurve/endpoint/) { get; } | إرجاع نسخة من نقطة نهاية المنحنى. |
-| [IsClosed](../../aspose.gis.geometries/icurve/isclosed/) { get; } | الحصول على قيم تشير إلى ما إذا كان المنحنى مغلقًا . يتم إغلاق المنحنى إذا كانت نقطة البداية الخاصة به مساوية لنقطة النهاية . |
-| [StartPoint](../../aspose.gis.geometries/icurve/startpoint/) { get; } | إرجاع نسخة من نقطة البداية للمنحنى. |
+| [EndPoint](../../aspose.gis.geometries/icurve/endpoint/) { get; } | يعيد نسخة من نقطة النهاية للمنحنى. |
+| [IsClosed](../../aspose.gis.geometries/icurve/isclosed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان المنحنى مغلقاً. يكون المنحنى مغلقاً إذا كانت نقطة البداية مساوية لنقطة النهاية. |
+| [StartPoint](../../aspose.gis.geometries/icurve/startpoint/) { get; } | يعيد نسخة من نقطة البداية للمنحنى. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToEditable](../../aspose.gis.geometries/icurve/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
-| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry/#tolineargeometry)() | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضي`تسامح` . |
-| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry/#tolineargeometry_1)(double) | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام المحدد`تسامح` . |
+| [ToEditable](../../aspose.gis.geometries/icurve/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry/#tolineargeometry)() | يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` الافتراضي. |
+| [ToLinearGeometry](../../aspose.gis.geometries/icurve/tolineargeometry/#tolineargeometry_1)(double) | يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../igeometry/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

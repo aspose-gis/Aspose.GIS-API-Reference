@@ -1,24 +1,24 @@
 ---
-title: VectorMapLayer.FeaturesSequence
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorMapLayer ملكية. تسلسل الميزات الذي يمثله هذاVectorMapLayer .
+title: "VectorMapLayer.FeaturesSequence"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VectorMapLayer. تسلسل الميزات الممثلة بواسطة هذا VectorMapLayer."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/vectormaplayer/featuressequence/
 ---
 ## VectorMapLayer.FeaturesSequence property
 
-تسلسل الميزات الذي يمثله هذا`VectorMapLayer` .
+تسلسل الميزات الممثل بواسطة هذا `VectorMapLayer`.
 
 ```csharp
 public FeaturesSequence FeaturesSequence { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../../../aspose.gis/featuressequence/)
 * class [VectorMapLayer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

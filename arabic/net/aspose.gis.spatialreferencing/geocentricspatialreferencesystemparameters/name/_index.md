@@ -1,23 +1,23 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.Name
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystemParameters ملكية. اسم SRS لمركز الأرض. الافتراضي هو بدون اسم .
+title: "GeocentricSpatialReferenceSystemParameters.Name"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeocentricSpatialReferenceSystemParameters. اسم نظام الإسناد المكاني المركزي. الافتراضي هو Unnamed"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name/
 ---
 ## GeocentricSpatialReferenceSystemParameters.Name property
 
-اسم SRS لمركز الأرض. الافتراضي هو "بدون اسم" .
+اسم نظام إسناد جغرافي مركزي. القيمة الافتراضية هي "Unnamed".
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

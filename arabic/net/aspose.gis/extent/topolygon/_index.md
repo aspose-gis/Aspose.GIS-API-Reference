@@ -1,14 +1,14 @@
 ---
-title: Extent.ToPolygon
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. تحويل هذا المدى إلى مضلع مستطيل يمثله.
+title: "Extent.ToPolygon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تحوّل هذا Extent إلى مضلع مستطيل يمثلّه."
 type: docs
 weight: 210
 url: /ar/net/aspose.gis/extent/topolygon/
 ---
 ## Extent.ToPolygon method
 
-تحويل هذا المدى إلى مضلع مستطيل يمثله.
+يحوّل هذا النطاق إلى مضلع مستطيل يمثلّه.
 
 ```csharp
 public Polygon ToPolygon()
@@ -16,13 +16,13 @@ public Polygon ToPolygon()
 
 ### قيمة الإرجاع
 
-مستطيل[`Polygon`](../../../aspose.gis.geometries/polygon/)الذي يمثل هذا المدى. بالنسبة للنطاقات غير الصالحة ، يتم إرجاع مضلع فارغ.
+مضلع مستطيل [`Polygon`](../../../aspose.gis.geometries/polygon/) يمثل هذا Extent. بالنسبة إلى Extents غير صالحة يتم إرجاع مضلع فارغ.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../../../aspose.gis.geometries/polygon/)
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,52 +1,53 @@
 ---
-title: Class VectorMapLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.VectorMapLayer فصل. طبقة بالداخلMap التي تمثل بيانات طبقة متجه.
+title: "الفئة VectorMapLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.VectorMapLayer. طبقة داخل الخريطة تمثل بيانات طبقة متجهة"
 type: docs
-weight: 2000
+weight: 4450
 url: /ar/net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
 
-طبقة بالداخل[`Map`](../map/) التي تمثل بيانات طبقة متجه.
+طبقة داخل [`Map`](../map/) تمثل بيانات طبقة متجهة.
 
 ```csharp
 public class VectorMapLayer : MapLayer
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorMapLayer](vectormaplayer/#constructor)(FeaturesSequence) | إنشاء مثيل جديد برمز افتراضي. |
-| [VectorMapLayer](vectormaplayer/#constructor_1)(FeaturesSequence, VectorSymbolizer) | إنشاء مثيل جديد برمز افتراضي. |
-| [VectorMapLayer](vectormaplayer/#constructor_5)(VectorLayer, bool) | إنشاء مثيل جديد برمز افتراضي. |
-| [VectorMapLayer](vectormaplayer/#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling) | إنشاء مثيل جديد برمز افتراضي. |
-| [VectorMapLayer](vectormaplayer/#constructor_4)(VectorLayer, VectorSymbolizer, bool) | إنشاء مثيل جديد . |
-| [VectorMapLayer](vectormaplayer/#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, bool) | إنشاء مثيل جديد . |
+| [VectorMapLayer](vectormaplayer/#constructor)(FeaturesSequence) | ينشئ نسخة جديدة مع الرمز الافتراضي. |
+| [VectorMapLayer](vectormaplayer/#constructor_1)(FeaturesSequence, VectorSymbolizer) | ينشئ نسخة جديدة مع الرمز الافتراضي. |
+| [VectorMapLayer](vectormaplayer/#constructor_6)(VectorLayer, bool) | ينشئ نسخة جديدة مع الرمز الافتراضي. |
+| [VectorMapLayer](vectormaplayer/#constructor_5)(VectorLayer, VectorSymbolizer, bool) | ينشئ مثيلًا جديدًا. |
+| [VectorMapLayer](vectormaplayer/#constructor_2)(FeaturesSequence, VectorSymbolizer, Labeling, SpatialReferenceSystem) | ينشئ نسخة جديدة مع الرمز الافتراضي. |
+| [VectorMapLayer](vectormaplayer/#constructor_4)(VectorLayer, VectorSymbolizer, Labeling, bool) | ينشئ مثيلًا جديدًا. |
+| [VectorMapLayer](vectormaplayer/#constructor_3)(VectorLayer, VectorSymbolizer, Labeling, SpatialReferenceSystem, bool) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence/) { get; } | تسلسل الميزات الذي يمثله هذا`VectorMapLayer` . |
+| [FeaturesSequence](../../aspose.gis.rendering/vectormaplayer/featuressequence/) { get; } | تسلسل الميزات الممثل بواسطة هذا `VectorMapLayer`. |
 | [Labeling](../../aspose.gis.rendering/vectormaplayer/labeling/) { get; set; } | يحدد خيارات الالتواء لطبقة الخريطة. |
-| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | عتامة الطبقة . |
-| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer/) { get; set; } | Symbolizer لاستخدامه في عرض ميزات الطبقة. |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | شفافية الطبقة. |
+| [Symbolizer](../../aspose.gis.rendering/vectormaplayer/symbolizer/) { get; set; } | الرمز المستخدم لتصوير ميزات الطبقة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose/)() | التخلص من الموارد . |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld)(AbstractPath, SldImportOptions) | يستورد النمط من ملف واصف الطبقة الأنماط الموجود في المسار المحدد. |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld_1)(string, SldImportOptions) | يستورد النمط من ملف واصف الطبقة الأنماط الموجود في المسار المحدد. |
-| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring/)(string, SldImportOptions) | استيراد النمط من سلسلة واصف الطبقة المحددة . |
+| override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose/)() | يحرّر الموارد. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld)(AbstractPath, SldImportOptions) | يستورد النمط من ملف Styled Layer Descriptor الموجود في المسار المحدد. |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld_1)(string, SldImportOptions) | يستورد النمط من ملف Styled Layer Descriptor الموجود في المسار المحدد. |
+| [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring/)(string, SldImportOptions) | يستورد النمط من سلسلة Styled Layer Descriptor المحددة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapLayer](../maplayer/)
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: SpatialReferenceSystem.Etrs89LambertAzimuthalEqualArea
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. نظام الإسناد المكاني ETRS 89 / ETRS Lambert Azimuthal Equal Area EPSG 3035.
+title: "SpatialReferenceSystem.Etrs89LambertAzimuthalEqualArea"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. نظام الإحداثيات ETRS 89 / ETRS Lambert Azimuthal Equal Area EPSG3035"
 type: docs
 weight: 260
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/etrs89lambertazimuthalequalarea/
 ---
 ## SpatialReferenceSystem.Etrs89LambertAzimuthalEqualArea property
 
-نظام الإسناد المكاني ETRS 89 / ETRS Lambert Azimuthal Equal Area (EPSG: 3035).
+ETRS 89 / ETRS Lambert Azimuthal Equal Area (EPSG:3035) نظام الإحداثيات.
 
 ```csharp
 public static ProjectedSpatialReferenceSystem Etrs89LambertAzimuthalEqualArea { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystem](../../projectedspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

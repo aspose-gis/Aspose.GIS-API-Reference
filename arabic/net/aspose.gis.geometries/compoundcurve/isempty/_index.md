@@ -1,27 +1,27 @@
 ---
-title: CompoundCurve.IsEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+title: "CompoundCurve.IsEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundCurve. يحصل على قيمة تشير إلى ما إذا كانت هذه الحالة فارغة"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/compoundcurve/isempty/
 ---
 ## CompoundCurve.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا.
 
 ```csharp
 public override bool IsEmpty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كانت هذه الحالة فارغة ؛ خلاف ذلك،`false` .
+`true` إذا كان هذا الكائن فارغًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

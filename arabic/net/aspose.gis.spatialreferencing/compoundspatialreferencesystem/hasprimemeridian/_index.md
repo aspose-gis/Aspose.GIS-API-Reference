@@ -1,23 +1,23 @@
 ---
-title: CompoundSpatialReferenceSystem.HasPrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. يحتوي SRS المركب على خط الزوال الرئيسي إذا كان أي من SRS الأساسي به خط زوال رئيسي.
+title: "CompoundSpatialReferenceSystem.HasPrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. يحتوي نظام الإسناد المكاني المركب على خط طول رئيسي إذا كان أي من الأنظمة المرجعية المكانيّة الأساسية يحتوي على خط طول رئيسي"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/hasprimemeridian/
 ---
 ## CompoundSpatialReferenceSystem.HasPrimeMeridian property
 
-يحتوي SRS المركب على خط الزوال الرئيسي إذا كان أي من SRS الأساسي به خط زوال رئيسي.
+يحتوي الـ Compound SRS على خط الزوال الرئيسي إذا كان أي من الـ SRS الأساسي يحتوي على خط الزوال الرئيسي.
 
 ```csharp
 public override bool HasPrimeMeridian { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

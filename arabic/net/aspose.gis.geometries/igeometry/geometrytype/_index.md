@@ -1,28 +1,28 @@
 ---
-title: IGeometry.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry ملكية. يحصل على نوع الهندسة .
+title: "IGeometry.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IGeometry. يحصل على نوع الشكل"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/igeometry/geometrytype/
 ---
 ## IGeometry.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

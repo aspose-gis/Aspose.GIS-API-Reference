@@ -1,14 +1,14 @@
 ---
-title: Point.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: Point طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "Point.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Point. تعمل كدالة التجزئة الافتراضية"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/point/gethashcode/
 ---
 ## Point.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

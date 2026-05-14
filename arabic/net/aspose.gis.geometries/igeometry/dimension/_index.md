@@ -1,24 +1,24 @@
 ---
-title: IGeometry.Dimension
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry ملكية. يحصل على البعد الطوبولوجي لهذاIGeometry . إذا كان البعد غير معروف مثل GEOMETRYCOLLECTION فارغPoint تم إرجاعه .
+title: "IGeometry.Dimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IGeometry. تحصل على البعد الطوبولوجي لهذا IGeometry. إذا كان البعد غير معروف، على سبيل المثال لمجموعة GEOMETRYCOLLECTION فارغة، يتم إرجاع Point"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/igeometry/dimension/
 ---
 ## IGeometry.Dimension property
 
-يحصل على البعد الطوبولوجي لهذا[`IGeometry`](../) . إذا كان البعد غير معروف (مثل GEOMETRYCOLLECTION فارغ)Point تم إرجاعه .
+تحصل على البعد الطوبولوجي لهذا [`IGeometry`](../). إذا كان البعد غير معروف (على سبيل المثال لمجموعة GEOMETRYCOLLECTION فارغة) يتم إرجاع Point.
 
 ```csharp
 public GeometryDimension Dimension { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryDimension](../../geometrydimension/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

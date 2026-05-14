@@ -1,30 +1,30 @@
 ---
-title: Enum GeographicAxisesOrder
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.GeographicAxisesOrder تعداد. يمثل ترتيب المحاور في SRS الجغرافي .
+title: "التعداد GeographicAxisesOrder"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.SpatialReferencing.GeographicAxisesOrder. يمثل ترتيب المحاور في نظام الإحداثيات الجغرافي geographic SRS."
 type: docs
-weight: 2110
+weight: 4560
 url: /ar/net/aspose.gis.spatialreferencing/geographicaxisesorder/
 ---
 ## GeographicAxisesOrder enumeration
 
-يمثل ترتيب المحاور في SRS الجغرافي .
+يمثل ترتيب المحاور في نظام الإحداثيات المرجعية الجغرافية.
 
 ```csharp
 public enum GeographicAxisesOrder
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Invalid | `-1` | SRS الجغرافي غير صالح ولا يمكن تحديد ترتيب المحاور. |
-| LongitudeLatitude | `0` | الترتيب هو (خط الطول وخط العرض) . |
-| LatitudeLongitude | `1` | الترتيب هو (خط العرض وخط الطول) . |
+| Invalid | `-1` | نظام الإحداثيات الجغرافي (Geographic SRS) غير صالح ولا يمكن تحديد ترتيب المحاور. |
+| LongitudeLatitude | `0` | الترتيب هو (Longitude, Latitude). |
+| LatitudeLongitude | `1` | الترتيب هو (Latitude, Longitude). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

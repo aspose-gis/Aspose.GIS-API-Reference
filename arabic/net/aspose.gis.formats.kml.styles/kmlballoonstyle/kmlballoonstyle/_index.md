@@ -1,23 +1,23 @@
 ---
-title: KmlBalloonStyle.KmlBalloonStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlBalloonStyle البناء. Default_Constructor
+title: "KmlBalloonStyle.KmlBalloonStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlBalloonStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmlballoonstyle/kmlballoonstyle/
 ---
 ## KmlBalloonStyle constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlBalloonStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlBalloonStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlballoonstyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlballoonstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

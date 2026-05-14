@@ -1,42 +1,42 @@
 ---
-title: Feature.GetValuesDump
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. إرجاع قيم كافة السمات في مصفوفة. ضع في اعتبارك استخدامGetValues طريقة لتجنب تخصيص الذاكرة الإضافية.
+title: "Feature.GetValuesDump"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تُرجع القيم لجميع السمات في مصفوفة. يُنصح باستخدام طريقة GetValues لتجنب تخصيص الذاكرة الإضافي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/feature/getvaluesdump/
 ---
 ## Feature.GetValuesDump method
 
-إرجاع قيم كافة السمات في مصفوفة. ضع في اعتبارك استخدام[`GetValues`](../getvalues/) طريقة لتجنب تخصيص الذاكرة الإضافية.
+تُرجع القيم لجميع السمات في مصفوفة. يُنصح باستخدام طريقة [`GetValues`](../getvalues/) لتجنب تخصيص الذاكرة الإضافي.
 
 ```csharp
 public object[] GetValuesDump(object defaultValue = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| defaultValue | Object | القيمة المطلوب عرضها إذا كانت قيمة السمة مفقودة (غير محددة). القيمة الافتراضية هي`null`. جرب استخدام "DBNull.Value "لفصل" unset "و"`null` القيم . |
+| defaultValue | Object | القيمة التي يجب إرجاعها إذا كانت قيمة السمة مفقودة (غير مُعيَّنة). القيمة الافتراضية هي `null`. يُنصح باستخدام 'DBNull.Value' للفصل بين القيم 'unset' و '`null`'. |
 
 ### قيمة الإرجاع
 
-مصفوفة جديدة لنسخ قيم السمات إليها.
+مصفوفة جديدة سيتم نسخ قيم السمات إليها.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| InvalidOperationException | السمة غير مؤمنة. |
+| ArgumentNullException | الوسيط هو `null`. |
+| InvalidOperationException | السمة غير مقفلة. |
 
-### ملاحظات
+## ملاحظات
 
-يتم نسخ سمات قيم الميزة في مصفوفة القيم التي تم تمريرها كمعامل . بالنسبة للسمات ذات القيمة غير المحددة ، يتم إرجاع معلمة "unsetValue" المحددة.
+يتم نسخ قيم السمات للميزة إلى مصفوفة القيم التي يتم تمريرها كمعامل. بالنسبة للسمات ذات القيمة غير المُعيَّنة، يتم إرجاع المعامل 'unsetValue' المحدد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

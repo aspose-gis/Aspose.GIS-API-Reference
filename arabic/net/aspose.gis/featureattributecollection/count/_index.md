@@ -1,27 +1,27 @@
 ---
-title: FeatureAttributeCollection.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttributeCollection ملكية. يحصل على عدد السمات في ملفFeature .
+title: "FeatureAttributeCollection.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttributeCollection. تحصل على عدد السمات في عنصر Feature."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/featureattributecollection/count/
 ---
 ## FeatureAttributeCollection.Count property
 
-يحصل على عدد السمات في ملف[`Feature`](../../feature/) .
+يحصل على عدد السمات في [`Feature`](../../feature/).
 
 ```csharp
 public int Count { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد السمات في ملف[`Feature`](../../feature/) .
+The number of attributes in a [`Feature`](../../feature/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

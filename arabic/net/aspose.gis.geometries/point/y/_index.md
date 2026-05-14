@@ -1,23 +1,23 @@
 ---
-title: Point.Y
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. الحصول على أو تعيين قيمة للإحداثي y .
+title: "Point.Y"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. تحصل أو تعيّن قيمة لإحداثي y"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/point/y/
 ---
 ## Point.Y property
 
-الحصول على أو تعيين قيمة للإحداثي y .
+يحصل أو يعيّن قيمة لإحداثي y.
 
 ```csharp
 public double Y { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

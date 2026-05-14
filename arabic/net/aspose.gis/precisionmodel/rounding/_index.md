@@ -1,45 +1,45 @@
 ---
-title: PrecisionModel.Rounding
-second_title: Aspose.GIS لمرجع .NET API
-description: PrecisionModel طريقة. إرجاع نموذج دقة التقريب . وفقًا لنموذج التقريب الدقيق  يكون عدد الأرقام محدودًا فقط .
+title: "PrecisionModel.Rounding"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة PrecisionModel. تُرجِع نموذج دقة تقريبي. وفقًا لنموذج الدقة التقريبي، عدد محدود فقط من الأرقام يكون مهمًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/precisionmodel/rounding/
 ---
 ## PrecisionModel.Rounding method
 
-إرجاع نموذج دقة التقريب . وفقًا لنموذج التقريب الدقيق ، يكون عدد الأرقام محدودًا فقط .
+يرجع نموذج دقة تقريبي. وفقًا لنموذج الدقة التقريبي فقط عدد محدود من الأرقام ذات دلالة.
 
 ```csharp
 public static PrecisionModel Rounding(int significantDigits)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| significantDigits | Int32 | عدد الخانات ذات الدلالة. |
+| significantDigits | Int32 | عدد الأرقام المهمة. |
 
 ### قيمة الإرجاع
 
-نموذج التقريب الدقيق.
+نموذج دقة التقريب.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | عدد الأرقام المعنوية أقل من 0 أو أكثر من 15. |
+| ArgumentOutOfRangeException | عدد الأرقام المهمة أقل من 0 أو أكثر من 15. |
 
-### ملاحظات
+## ملاحظات
 
-عند تطبيقه على إحداثي ، يتم استخدام الكود التالي لتقليل الدقة:
+عند تطبيقه على إحداثي، يُستخدم الشيفرة التالية لتقليل الدقة:
 
 ```csharp
 double rounded = Math.Round(value, significantDigits);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../)
-* مساحة الاسم [Aspose.Gis](../../precisionmodel/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../precisionmodel/)
+* assembly [Aspose.GIS](../../../)
 
 

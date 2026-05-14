@@ -1,49 +1,51 @@
 ---
-title: Geometry.Disjoint
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. لتحديد ما إذا كانت هذه الهندسة منفصلة عن هندسة محددة.
+title: "Geometry.Disjoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحدد ما إذا كان هذا الشكل الهندسي منفصلًا عن شكل هندسي محدد."
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/geometry/disjoint/
 ---
 ## Geometry.Disjoint method
 
-لتحديد ما إذا كانت هذه الهندسة منفصلة عن هندسة محددة.
+يحدد ما إذا كانت هذه الهندسة منفصلة عن هندسة محددة.
 
 ```csharp
 public bool Disjoint(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "منفصلة مكانيًا" عن هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كان هذا الشكل الهندسي "منفصل مكانيًا" عن شكل هندسي آخر. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت الأشكال الهندسية مفككة من حيث مصفوفة تقاطع DE-9IM. بشكل أساسي ، تختبر عدم وجود نقاط مشتركة بين شكلين هندسيين. هذه الطريقة تعادل: راجع مواصفات ميزات OpenGIS البسيطة للحصول على مزيد من التفاصيل حول DE-9IM.
+هذه الطريقة تختبر ما إذا كانت الأشكال الهندسية منفصلة من حيث مصفوفة تقاطع DE-9IM. أساسًا، تختبر أن الشكلين لا يملكان نقاطًا مشتركة. هذه الطريقة تعادل:
 
 ```csharp
 this.Relate(other, "FF*FF****");
 ```
 
-### أنظر أيضا
+انظر مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM.
+
+### انظر أيضًا
 
 * method [Intersects](../../igeometry/intersects/)
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

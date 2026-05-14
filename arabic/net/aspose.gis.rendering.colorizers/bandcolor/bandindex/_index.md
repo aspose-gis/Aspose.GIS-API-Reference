@@ -1,7 +1,7 @@
 ---
-title: BandColor.BandIndex
-second_title: Aspose.GIS لمرجع .NET API
-description: BandColor ملكية. يحدد فهرس النطاق. يبدأ الترقيم من 0.
+title: "BandColor.BandIndex"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BandColor. تحدد فهرس النطاق. يبدأ الترقيم من 0"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/bandindex/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/bandindex/
 public int BandIndex { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

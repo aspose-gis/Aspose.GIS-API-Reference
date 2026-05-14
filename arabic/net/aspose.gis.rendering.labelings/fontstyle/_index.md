@@ -1,33 +1,33 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.FontStyle تعداد. تحديد النمط الذي سيتم تطبيقه على النص .
+title: "تعداد FontStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "تعداد Aspose.Gis.Rendering.Labelings.FontStyle. يحدد النمط الذي سيُطبق على النص"
 type: docs
-weight: 1600
+weight: 4050
 url: /ar/net/aspose.gis.rendering.labelings/fontstyle/
 ---
 ## FontStyle enumeration
 
-تحديد النمط الذي سيتم تطبيقه على النص .
+يحدد النمط الذي سيُطبق على النص.
 
 ```csharp
 [Flags]
 public enum FontStyle
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Regular | `0` | نص عادي. |
-| Bold | `1` | نص عريض. |
+| Bold | `1` | نص غامق. |
 | Italic | `2` | نص مائل. |
 | Underline | `4` | نص مسطر. |
-| Strikeout | `8` | نص بخط يتوسطه خط. |
+| Strikeout | `8` | نص بخط عبر الوسط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

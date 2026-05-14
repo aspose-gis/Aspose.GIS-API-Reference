@@ -1,14 +1,14 @@
 ---
-title: Geometry.GetExtent
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. حساب وإرجاع مدى محيط لهذه الهندسة .
+title: "Geometry.GetExtent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحسب وتعيد نطاقًا محيطًا لهذا الشكل الهندسي"
 type: docs
 weight: 250
 url: /ar/net/aspose.gis.geometries/geometry/getextent/
 ---
 ## Geometry.GetExtent method
 
-حساب وإرجاع مدى محيط لهذه الهندسة .
+يحسب ويعيد نطاقًا محيطًا لهذه الهندسة.
 
 ```csharp
 public Extent GetExtent()
@@ -16,13 +16,13 @@ public Extent GetExtent()
 
 ### قيمة الإرجاع
 
-مدى إحاطة لهذه الهندسة.
+نطاق محيط لهذا الشكل الهندسي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../../../aspose.gis/extent/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

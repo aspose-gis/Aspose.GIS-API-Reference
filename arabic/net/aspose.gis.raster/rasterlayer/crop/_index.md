@@ -1,72 +1,72 @@
 ---
-title: RasterLayer.Crop
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer طريقة. يقطع طبقة البيانات النقطية باستخدام نموذج الشكل وقناع النطاق .
+title: "RasterLayer.Crop"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterLayer. تقص طبقة الراستر باستخدام شكل وشبكة قنوات"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.raster/rasterlayer/crop/
 ---
 ## Crop(IGeometry, double[]) {#crop}
 
-يقطع طبقة البيانات النقطية باستخدام نموذج الشكل (وقناع النطاق) .
+يقص طبقة الراستر باستخدام شكل (و قناع القناة).
 
 ```csharp
 public RasterLayer Crop(IGeometry geometry, double[] masks = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | تمثل الهندسة شكل الشكل. |
-| masks | Double[] | قناع لطبقة المحاصيل |
+| هندسة | IGeometry | Geometry تم تمثيل الشكل. |
+| أقنعة | Double[] | قناع لطبقة القص |
 
 ### قيمة الإرجاع
 
-الطبقة النقطية المقطوعة. إذا لم يتم العثور على تقاطعات العودة`null`.
+طبقة الراستر المقصوصة. إذا لم يتم العثور على تقاطعات تُعيد `null`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | لا يمكن أن تكون الوسيطة فارغة. اسم المعلمة: الهندسة. |
-| NotSupportedException | لا يمكن أن تختلف الوسيطة عن المضلع أو السطح. اسم المعلمة: الهندسة. |
-| InvalidOperationException | لا يمكن أن تكون الطبقة الأصلية CropRasterLayer آخر. |
-| [GisException](../../../aspose.gis/gisexception/) | خطأ أثناء اقتصاص الطبقة. |
+| ArgumentNullException | المعامل لا يمكن أن يكون فارغًا. اسم المعامل: geometry. |
+| NotSupportedException | المعامل لا يمكن أن يكون مختلفًا عن مضلع أو سطح. اسم المعامل: geometry. |
+| InvalidOperationException | الطبقة الأصلية لا يمكن أن تكون CropRasterLayer أخرى. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ أثناء قص الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Crop(double[]) {#crop_1}
 
-يقطع الطبقة النقطية باستخدام قناع النطاق) .
+يقص طبقة الراستر باستخدام قناع القناة).
 
 ```csharp
 public RasterLayer Crop(double[] masks)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| masks | Double[] | قناع لطبقة المحاصيل |
+| أقنعة | Double[] | قناع لطبقة القص |
 
 ### قيمة الإرجاع
 
-الطبقة النقطية المقطوعة. إذا لم يتم العثور على تقاطعات العودة`null`.
+طبقة الراستر المقصوصة. إذا لم يتم العثور على تقاطعات تُعيد `null`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException |  |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

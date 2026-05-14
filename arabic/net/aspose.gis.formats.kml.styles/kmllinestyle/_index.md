@@ -1,37 +1,37 @@
 ---
-title: Class KmlLineStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlLineStyle فصل. يحدد كيفية رسم اسم kml AbstractFeatureGroup في العرض الجغرافي.
+title: "الفئة KmlLineStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlLineStyle. تحدد كيفية رسم اسم kmlAbstractFeatureGroup في العرض الجغرافي"
 type: docs
-weight: 540
+weight: 2180
 url: /ar/net/aspose.gis.formats.kml.styles/kmllinestyle/
 ---
 ## KmlLineStyle class
 
-يحدد كيفية رسم اسم kml: AbstractFeatureGroup في العرض الجغرافي.
+يحدد كيفية رسم اسم kml:AbstractFeatureGroup في العرض الجغرافي.
 
 ```csharp
 public class KmlLineStyle : KmlAbstractColorStyle
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlLineStyle](kmllinestyle/)() | Default_Constructor |
+| [KmlLineStyle](kmllinestyle/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون عنصر الرسم. القيمة الافتراضيةWhite . |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد صيغة اللون لعنصر الرسوم. القيمة الافتراضية: عادي. |
-| [Width](../../aspose.gis.formats.kml.styles/kmllinestyle/width/) { get; set; } | عرض الخط بالبكسل. القيمة الافتراضية هي "1". |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| [Width](../../aspose.gis.formats.kml.styles/kmllinestyle/width/) { get; set; } | عرض الخط بالبكسل. القيمة الافتراضية هي '1'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlAbstractColorStyle](../kmlabstractcolorstyle/)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

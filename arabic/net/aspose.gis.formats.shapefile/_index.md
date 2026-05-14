@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.Shapefile
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats. شكل توفر مساحة الاسم فئات للعمل بتنسيق Shapefile.
+title: "Aspose.Gis.Formats.Shapefile"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.Shapefile توفر فئات للعمل مع تنسيق Shapefile"
 type: docs
-weight: 180
+weight: 420
 url: /ar/net/aspose.gis.formats.shapefile/
 ---
-`Aspose.Gis.Formats. شكل` توفر مساحة الاسم فئات للعمل بتنسيق Shapefile.
+`Aspose.Gis.Formats.Shapefile` مساحة الاسم توفر فئات للعمل مع تنسيق Shapefile.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [ShapefileDriver](./shapefiledriver/) | برنامج تشغيل للتنسيق Shapefile . |
-| [ShapefileOptions](./shapefileoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق Shapefile . في الوقت الحالي ، لا يوفر برنامج التشغيل خيارات قابلة للتخصيص. |
+| [ShapefileDriver](./shapefiledriver/) | محرك لتنسيق Shapefile. |
+| [ShapefileOptions](./shapefileoptions/) | خيارات خاصة بالمحرك لتنسيق Shapefile. في الوقت الحالي، لا يقدم المحرك أي خيارات قابلة للتخصيص. |
 
 

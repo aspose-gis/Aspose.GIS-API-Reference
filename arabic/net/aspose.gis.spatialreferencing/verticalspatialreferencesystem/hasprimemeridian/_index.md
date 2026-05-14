@@ -1,23 +1,23 @@
 ---
-title: VerticalSpatialReferenceSystem.HasPrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem ملكية. عوائدfalse  نظرًا لأن Vertical SRS لا يحتوي على خط الزوال الأولي.
+title: "VerticalSpatialReferenceSystem.HasPrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VerticalSpatialReferenceSystem. تُعيد false لأن Vertical SRS لا يحتوي على خط طول رئيسي."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/hasprimemeridian/
 ---
 ## VerticalSpatialReferenceSystem.HasPrimeMeridian property
 
-عوائد`false` ، نظرًا لأن Vertical SRS لا يحتوي على خط الزوال الأولي.
+يعيد `false`، لأن نظام الإسناد المكاني العمودي لا يحتوي على خط طول أساسي.
 
 ```csharp
 public override bool HasPrimeMeridian { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

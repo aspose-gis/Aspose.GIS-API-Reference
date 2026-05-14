@@ -1,41 +1,41 @@
 ---
-title: Class NearPointsCleanerOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.NearPointsCleanerOptions فصل. خيارات حذف النقاط القريبة جدًا من بعضها البعض.
+title: "الفئة NearPointsCleanerOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.GeoTools.NearPointsCleanerOptions. خيارات لحذف النقاط التي تكون قريبة جدًا من بعضها البعض"
 type: docs
-weight: 830
+weight: 2590
 url: /ar/net/aspose.gis.geotools/nearpointscleaneroptions/
 ---
 ## NearPointsCleanerOptions class
 
-خيارات حذف النقاط القريبة جدًا من بعضها البعض.
+خيارات حذف النقاط التي تكون قريبة جدًا من بعضها.
 
 ```csharp
 public class NearPointsCleanerOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [NearPointsCleanerOptions](nearpointscleaneroptions/#constructor)() | قم بإنشاء مثيل باستخدام حقول init افتراضيًا . |
-| [NearPointsCleanerOptions](nearpointscleaneroptions/#constructor_1)(NearPointsCleanerOptions) | إنشاء نسخة من المثيل`NearPointsCleanerOptions` . |
+| [NearPointsCleanerOptions](nearpointscleaneroptions/#constructor)() | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
+| [NearPointsCleanerOptions](nearpointscleaneroptions/#constructor_1)(NearPointsCleanerOptions) | إنشاء نسخة من الكائن `NearPointsCleanerOptions`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance/) { get; set; } | معلمة الفحص هي نقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0. |
+| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance/) { get; set; } | معامل للتحقق ما إذا كانت النقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/nearpointscleaneroptions/clone/)() | إنشاء نسخة من الكائن . |
+| [Clone](../../aspose.gis.geotools/nearpointscleaneroptions/clone/)() | إنشاء نسخة من الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

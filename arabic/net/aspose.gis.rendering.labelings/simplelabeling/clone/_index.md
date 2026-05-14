@@ -1,14 +1,14 @@
 ---
-title: SimpleLabeling.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling طريقة. استنساخ هذا المثال .
+title: "SimpleLabeling.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SimpleLabeling. تنسخ هذه المثيلة"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/clone/
 ---
 ## SimpleLabeling.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public SimpleLabeling Clone()
@@ -16,12 +16,12 @@ public SimpleLabeling Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

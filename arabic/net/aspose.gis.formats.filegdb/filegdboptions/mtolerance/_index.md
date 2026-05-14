@@ -1,27 +1,27 @@
 ---
-title: FileGdbOptions.MTolerance
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbOptions ملكية. M التسامح الانجذاب .
+title: "FileGdbOptions.MTolerance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbOptions. تسامح الالتقاط M."
 type: docs
-weight: 50
+weight: 80
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/mtolerance/
 ---
 ## FileGdbOptions.MTolerance property
 
-M التسامح الانجذاب .
+تحمل الالتقاط للمحور M.
 
 ```csharp
 public double? MTolerance { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-هذا خيار إنشاء ولا يؤثر على القراءة . تتحكم هذه المعلمة في تفاوت الانطباق المستخدم لميزات ArcGIS المتقدمة . لا تؤثر على سلوك Aspose.GIS ، ولكن يمكن استخدامها بواسطة ArcGIS. وحدة المعلمة هي وحدة نظام الإسناد المكاني . إذا تم ضبطها على`null` ، يتم استخدام الافتراضي. الافتراضي هو 0.001.
+هذا خيار إنشاء ولا يؤثر على القراءة والتحرير. يتحكم هذا المعامل في تحمل الالتقاط المستخدم لميزات ArcGIS المتقدمة. لا يؤثر على سلوك Aspose.GIS، لكنه يمكن أن يستخدمه ArcGIS. وحدة المعامل هي وحدة نظام الإسناد المكاني. إذا تم تعيينه إلى `null`، يتم استخدام القيمة الافتراضية. القيمة الافتراضية هي 0.001.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

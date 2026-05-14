@@ -1,37 +1,37 @@
 ---
-title: RasterLayer.GetSpatialPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer طريقة. تحويل العمود والصف المحددين إلى الإحداثي المكاني.
+title: "RasterLayer.GetSpatialPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterLayer. تقوم بتحويل العمود والصف المحددين إلى الإحداثيات المكانية"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.raster/rasterlayer/getspatialpoint/
 ---
 ## RasterLayer.GetSpatialPoint method
 
-تحويل العمود والصف المحددين إلى الإحداثي المكاني.
+يحوّل العمود والصف المحددين إلى الإحداثيات المكانية.
 
 ```csharp
 public IPoint GetSpatialPoint(int cellX, int cellY)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| cellX | Int32 | قيمة العمود (إحداثيات س). يبدأ الترقيم من 0. |
-| cellY | Int32 | قيمة الصف (إحداثيات ص). يبدأ الترقيم من 0. |
+| cellX | Int32 | القيمة للعمود (إحداثي X). يبدأ الترقيم من 0. |
+| cellY | Int32 | القيمة للصف (إحداثي Y). يبدأ الترقيم من 0. |
 
 ### قيمة الإرجاع
 
-لعرض إحداثي x للركن الأيسر العلوي بعمود وصف.
+تُرجع إحداثي x للزاوية العليا اليسرى بناءً على العمود والصف.
 
-### ملاحظات
+## ملاحظات
 
-إذا تم تمرير أي من المعلمتين خارج نطاق البعد الخاص بالمؤشر النقطي ، فإنه سيعيد الإحداثيات خارج نطاق البيانات النقطية على افتراض أن شبكة البيانات النقطية قابلة للتطبيق خارج حدود البيانات النقطية.
+إذا تم تمرير أي من المعاملين خارج نطاق البُعد المقابل للراستر، فستُرجع إحداثيات خارج الراستر بافتراض أن شبكة الراستر قابلة للتطبيق خارج حدود الراستر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../../aspose.gis.geometries/ipoint/)
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

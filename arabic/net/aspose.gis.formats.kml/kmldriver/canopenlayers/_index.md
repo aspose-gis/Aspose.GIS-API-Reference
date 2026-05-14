@@ -1,7 +1,7 @@
 ---
-title: KmlDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة.
+title: "KmlDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlDriver. تحصل على قيمة تشير إلى ما إذا كان هذا البرنامج قادرًا على فتح طبقات المتجهات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml/kmldriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.kml/kmldriver/canopenlayers/
 public override bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../kmldriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

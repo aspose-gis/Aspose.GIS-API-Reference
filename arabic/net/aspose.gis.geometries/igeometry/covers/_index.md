@@ -1,49 +1,49 @@
 ---
-title: IGeometry.Covers
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. تحديد ما إذا كانت هذه الهندسة تغطي شكلًا هندسيًا محددًا.
+title: "IGeometry.Covers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "IGeometry طريقة. يحدد ما إذا كانت هذه الهندسة تغطي هندسة محددة"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/igeometry/covers/
 ---
 ## IGeometry.Covers method
 
-تحديد ما إذا كانت هذه الهندسة تغطي شكلًا هندسيًا محددًا.
+يحدد ما إذا كانت هذه الهندسة تغطي هندسة محددة.
 
 ```csharp
 public bool Covers(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "تغطي مكانيًا" هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "تغطي مكانيًا" هندسة أخرى. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت إحدى الأشكال الهندسية تغطي أخرى من حيث مصفوفة تقاطع DE-9IM.[`SpatiallyContains`](../spatiallycontains/) ، ولكن يعود`true` في كثير من الأحيان ، لأنه لا يميز بين النقاط الداخلية والحدودية. لذلك ، إذا كانت الهندسة A تقع على حد geometry B ،[`SpatiallyContains`](../spatiallycontains/) عائدات`false` ، بينما ترجع هذه الطريقة`true`. هذه الطريقة تعادل:
+تختبر هذه الطريقة ما إذا كانت هندسة واحدة تغطي أخرى وفقًا لمصفوفة تقاطع DE-9IM. تغطي هندسة واحدة أخرى إذا كانت تحتوي على كل نقطة من الهندسة الأخرى. هذه الطريقة مشابهة لـ [`SpatiallyContains`](../spatiallycontains/)، لكنها تُعيد `true` في كثير من الأحيان، لأنها لا تفرق بين النقاط الداخلية ونقاط الحدود. لذا، إذا كانت الهندسة A تقع على حد الهندسة B، فإن [`SpatiallyContains`](../spatiallycontains/) تُعيد `false`، بينما تُعيد هذه الطريقة `true`. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "T*****FF*") || this.Relate(other, "*T****FF*") || this.Relate(other, "***T**FF*) || this.Relate(other, "***T*FF*");
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [SpatiallyContains](../spatiallycontains/)
 * method [CoveredBy](../coveredby/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

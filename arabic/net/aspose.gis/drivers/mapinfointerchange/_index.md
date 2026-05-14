@@ -1,24 +1,24 @@
 ---
-title: Drivers.MapInfoInterchange
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لـ MapInfo Interchange Format.
+title: "Drivers.MapInfoInterchange"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل لتنسيق MapInfo Interchange"
 type: docs
-weight: 120
+weight: 160
 url: /ar/net/aspose.gis/drivers/mapinfointerchange/
 ---
 ## Drivers.MapInfoInterchange property
 
-برنامج تشغيل لـ MapInfo Interchange Format.
+برنامج تشغيل لتنسيق MapInfo Interchange.
 
 ```csharp
 public static MapInfoInterchangeDriver MapInfoInterchange { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoInterchangeDriver](../../../aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

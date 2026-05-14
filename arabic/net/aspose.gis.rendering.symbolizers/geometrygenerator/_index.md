@@ -1,36 +1,36 @@
 ---
-title: Class GeometryGenerator
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.GeometryGenerator فصل. تزيين رمز لتعديل هندسة الميزة قبل التقديم.
+title: "الفئة GeometryGenerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.GeometryGenerator. زين رمزًا لتعديل هندسة المميزات قبل العرض"
 type: docs
-weight: 1810
+weight: 4260
 url: /ar/net/aspose.gis.rendering.symbolizers/geometrygenerator/
 ---
 ## GeometryGenerator class
 
-تزيين رمز لتعديل هندسة الميزة قبل التقديم.
+تزيين مُرمّز لتعديل هندسة الميزة قبل العرض.
 
 ```csharp
 public class GeometryGenerator : VectorSymbolizer
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GeometryGenerator](geometrygenerator/)() | Default_Constructor |
+| [GeometryGenerator](geometrygenerator/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Expression](../../aspose.gis.rendering.symbolizers/geometrygenerator/expression/) { get; set; } | يوفر طريقة لاستبدال هندسة المعالم بأخرى معدلة لمرمز . الافتراضي هو`null` (استخدم هندسة الميزة كما هي) . |
-| [Symbolizer](../../aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/) { get; set; } | يحدد رمزًا لتطبيقه على الهندسة المعدلة. الافتراضي هو`NullVectorSymbolizer` . |
+| [Expression](../../aspose.gis.rendering.symbolizers/geometrygenerator/expression/) { get; set; } | يوفر طريقة لاستبدال هندسة الميزة بأخرى تم تعديلها لرمز. القيمة الافتراضية هي `null` (استخدم هندسة الميزة كما هي). |
+| [Symbolizer](../../aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/) { get; set; } | يحدد رمزًا لتطبيقه على الهندسة المعدلة. القيمة الافتراضية هي `NullVectorSymbolizer`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

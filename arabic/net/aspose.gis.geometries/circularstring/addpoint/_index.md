@@ -1,7 +1,7 @@
 ---
-title: CircularString.AddPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString طريقة. يضيف نقطة إلى نهاية السلسلة الدائرية.
+title: "CircularString.AddPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CircularString. يضيف نقطة إلى نهاية السلسلة الدائرية"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/circularstring/addpoint/
@@ -14,24 +14,24 @@ url: /ar/net/aspose.gis.geometries/circularstring/addpoint/
 public void AddPoint(IPoint point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | IPoint | النقطة التي يجب إضافتها. |
+| نقطة | IPoint | النقطة لإضافتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | الوسيطة فارغة (ملف[`IsEmpty`](../../igeometry/isempty/) يكون`true` ) . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما لا`null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | المعامل فارغ (دالة [`IsEmpty`](../../igeometry/isempty/) الخاصة به هي `true`). |
+| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -43,16 +43,16 @@ public void AddPoint(IPoint point)
 public void AddPoint(double x, double y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -64,17 +64,17 @@ public void AddPoint(double x, double y)
 public void AddPoint(double x, double y, double z)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
-| z | Double | قيمة الإحداثي ع. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
+| z | Double | القيمة لإحداثي Z. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -86,17 +86,17 @@ public void AddPoint(double x, double y, double z)
 public void AddPoint(double x, double y, double z, double m)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
-| z | Double | قيمة الإحداثي ع. |
-| m | Double | قيمة إحداثيات M. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
+| z | Double | القيمة لإحداثي Z. |
+| m | Double | القيمة لإحداثي M. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

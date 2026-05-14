@@ -1,14 +1,14 @@
 ---
-title: Map.Padding
-second_title: Aspose.GIS لمرجع .NET API
-description: Map ملكية. تحديد المساحة المتروكة لإضافتها إلى الحد .
+title: "Map.Padding"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Map. تحدد الحشو لإضافته إلى الامتداد."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering/map/padding/
 ---
 ## Map.Padding property
 
-تحديد المساحة المتروكة لإضافتها إلى الحد .
+يحدد الحشو لإضافته إلى الامتداد.
 
 ```csharp
 public Measurement Padding { get; set; }
@@ -16,15 +16,15 @@ public Measurement Padding { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | القيمة سالبة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../measurement/)
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

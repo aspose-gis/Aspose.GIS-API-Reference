@@ -1,14 +1,14 @@
 ---
-title: IRasterValues.AsRawBits
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterValues طريقة. احصل على وحدات بت خام لجميع قيم النطاقات .
+title: "IRasterValues.AsRawBits"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IRasterValues. احصل على البتات الخام لجميع قيم النطاقات"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.raster/irastervalues/asrawbits/
 ---
 ## IRasterValues.AsRawBits method
 
-احصل على وحدات بت خام لجميع قيم النطاقات .
+احصل على البتات الخام لجميع قيم الأشرطة.
 
 ```csharp
 public BitArray AsRawBits()
@@ -18,10 +18,10 @@ public BitArray AsRawBits()
 
 البتات الخام.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterValues](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irastervalues/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastervalues/)
+* assembly [Aspose.GIS](../../../)
 
 

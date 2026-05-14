@@ -1,31 +1,31 @@
 ---
-title: Class Metered
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Metered فصل. يوفر طرقًا لتعيين المفتاح المقنن .
+title: "الفئة Metered"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Metered. توفر طرقاً لتعيين المفتاح المتعقب."
 type: docs
-weight: 1280
+weight: 3420
 url: /ar/net/aspose.gis/metered/
 ---
 ## Metered class
 
-يوفر طرقًا لتعيين المفتاح المقنن .
+يوفر طرقًا لتعيين المفتاح المقيس.
 
 ```csharp
 public class Metered
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit/)() | يحصل على ائتمان الاستهلاك |
+| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit/)() | يحصل على رصيد الاستهلاك |
 | static [GetConsumptionQuantity](../../aspose.gis/metered/getconsumptionquantity/)() | يحصل على حجم ملف الاستهلاك |
-| static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey/)() | يزيل ترخيص الإعداد السابق |
-| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey/)(string, string) | مجموعات المفاتيح العامة والخاصة التي تم قياسها |
+| static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey/)() | يزيل الترخيص الذي تم إعداده مسبقاً |
+| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey/)(string, string) | يضبط المفتاح العام والخاص المتعقب |
 
-### أمثلة
+## أمثلة
 
-في هذا المثال ، ستُبذل محاولة لتعيين المفتاح العام والخاص الذي تم قياسه
+في هذا المثال، سيتم محاولة تعيين المفتاح العام والخاص المتعقب
 
 ```csharp
 [C#]
@@ -38,9 +38,15 @@ Metered.SetMeteredKey("PublicKey", "PrivateKey");
 Metered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-### أنظر أيضا
+ملف jar المكوّن:
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+```csharp
+Metered.setMeteredKey("PublicKey", "PrivateKey");
+```
+
+### انظر أيضًا
+
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

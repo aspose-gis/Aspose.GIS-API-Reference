@@ -1,31 +1,31 @@
 ---
-title: Unit.Deapply
-second_title: Aspose.GIS لمرجع .NET API
-description: Unit طريقة. يحول الوسيطة من الوحدة  الموصوفة في هذا المثال  إلى راديان أو متر.
+title: "Unit.Deapply"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Unit. تحول الوسيط من الوحدة التي يصفها هذا المثيل إلى الراديان أو الأمتار"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/unit/deapply/
 ---
 ## Unit.Deapply method
 
-يحول الوسيطة من الوحدة ، الموصوفة في هذا المثال ، إلى راديان أو متر.
+يحول الوسيط من الوحدة التي يصفها هذا الكائن إلى راديان أو أمتار.
 
 ```csharp
 public double Deapply(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة المراد تحويلها. |
+| قيمة | Double | القيمة للتحويل. |
 
 ### قيمة الإرجاع
 
-القيمة المحولة إلى راديان أو أمتار.
+القيمة محوّلة إلى الراديان أو الأمتار.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../unit/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../unit/)
+* assembly [Aspose.GIS](../../../)
 
 
