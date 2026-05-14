@@ -1,35 +1,35 @@
 ---
-title: Class KmlAbstractColorStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlAbstractColorStyle فصل. يوفر عناصر لتعيين لون وصيغة الألوان لأنواع الأنماط المشتقة منها.
+title: "الفئة KmlAbstractColorStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlAbstractColorStyle. توفر عناصر لتحديد اللون ووضع اللون لأنواع الأنماط التي تُشتق منها."
 type: docs
-weight: 420
+weight: 2060
 url: /ar/net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/
 ---
 ## KmlAbstractColorStyle class
 
-يوفر عناصر لتعيين لون وصيغة الألوان لأنواع الأنماط المشتقة منها.
+يوفر عناصر لتحديد اللون ووضع اللون لأنواع الأنماط التي تُستمد منه.
 
 ```csharp
 public class KmlAbstractColorStyle
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlAbstractColorStyle](kmlabstractcolorstyle/)() | Default_Constructor |
+| [KmlAbstractColorStyle](kmlabstractcolorstyle/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون عنصر الرسم. القيمة الافتراضيةWhite . |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد صيغة اللون لعنصر الرسوم. القيمة الافتراضية: عادي. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

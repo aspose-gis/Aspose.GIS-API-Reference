@@ -1,14 +1,14 @@
 ---
-title: Class RasterStatistics
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.RasterStatistics فصل. إحصائيات أي طبقة نقطية.
+title: "الفئة RasterStatistics"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.RasterStatistics. الإحصائيات لأي طبقة رستر"
 type: docs
-weight: 1420
+weight: 3860
 url: /ar/net/aspose.gis.raster/rasterstatistics/
 ---
 ## RasterStatistics class
 
-إحصائيات أي طبقة نقطية.
+الإحصاءات لأي طبقة راستر.
 
 ```csharp
 public class RasterStatistics
@@ -16,23 +16,23 @@ public class RasterStatistics
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.raster/rasterstatistics/count/) { get; } | عدد الخلايا أو وحدات البكسل المحسوبة لإحصائيات الملخص. |
-| [Max](../../aspose.gis.raster/rasterstatistics/max/) { get; } | الحد الأقصى لقيمة الخلايا المحسوبة أو قيم البكسل . |
-| [Mean](../../aspose.gis.raster/rasterstatistics/mean/) { get; } | الوسط الحسابي لجميع الخلايا أو قيم البكسل المعدودة. |
-| [Min](../../aspose.gis.raster/rasterstatistics/min/) { get; } | الحد الأدنى لقيمة الخلايا المحسوبة أو قيم البكسل . |
-| [Sum](../../aspose.gis.raster/rasterstatistics/sum/) { get; } | مجموع كل الخلايا المحسوبة أو قيم البكسل . |
+| [Count](../../aspose.gis.raster/rasterstatistics/count/) { get; } | عدد الخلايا أو البكسلات التي تم عدّها للإحصائيات الملخّصة. |
+| [Max](../../aspose.gis.raster/rasterstatistics/max/) { get; } | القيمة القصوى للخلايا أو قيم البكسل التي تم عدّها. |
+| [Mean](../../aspose.gis.raster/rasterstatistics/mean/) { get; } | المتوسط الحسابي لجميع الخلايا أو قيم البكسل التي تم عدّها. |
+| [Min](../../aspose.gis.raster/rasterstatistics/min/) { get; } | القيمة الدنيا للخلايا أو قيم البكسل التي تم عدّها. |
+| [Sum](../../aspose.gis.raster/rasterstatistics/sum/) { get; } | مجموع جميع الخلايا أو قيم البكسل التي تم عدّها. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterstatistics/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.raster/rasterstatistics/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

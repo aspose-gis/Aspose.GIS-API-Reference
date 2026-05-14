@@ -1,14 +1,14 @@
 ---
-title: LineLabelPlacement.MaxAngleDelta
-second_title: Aspose.GIS لمرجع .NET API
-description: LineLabelPlacement ملكية. عند استخدامها مع ملفاتCurvedيضبط الحد الأقصى للزاوية بالدرجات بين 2 حرفًا متتاليًا في تسمية منحنية. الافتراضي هو 25.
+title: "LineLabelPlacement.MaxAngleDelta"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineLabelPlacement. عند استخدامها مع Curved تحدد الحد الأقصى للزاوية بالدرجات بين حرفين متتاليين في ملصق منحني. القيمة الافتراضية هي 25"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.labelings/linelabelplacement/maxangledelta/
 ---
 ## LineLabelPlacement.MaxAngleDelta property
 
-عند استخدامها مع ملفاتCurvedيضبط الحد الأقصى للزاوية بالدرجات بين 2 حرفًا متتاليًا في تسمية منحنية. الافتراضي هو 25.
+عند الاستخدام مع Curved يحدد الحد الأقصى للزاوية بالدرجات بين حرفين متتاليين في تسمية منحنية. القيمة الافتراضية هي 25.
 
 ```csharp
 public double MaxAngleDelta { get; set; }
@@ -16,14 +16,14 @@ public double MaxAngleDelta { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | القيمة سالبة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

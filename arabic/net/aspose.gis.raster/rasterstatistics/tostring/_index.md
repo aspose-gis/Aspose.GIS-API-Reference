@@ -1,14 +1,14 @@
 ---
-title: RasterStatistics.ToString
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterStatistics طريقة. إرجاع سلسلة تمثل الكائن الحالي.
+title: "RasterStatistics.ToString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterStatistics. تُعيد سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.raster/rasterstatistics/tostring/
 ---
 ## RasterStatistics.ToString method
 
-إرجاع سلسلة تمثل الكائن الحالي.
+يعيد سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -18,10 +18,10 @@ public override string ToString()
 
 سلسلة تمثل الكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterStatistics](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterstatistics/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterstatistics/)
+* assembly [Aspose.GIS](../../../)
 
 

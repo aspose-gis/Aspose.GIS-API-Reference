@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.StrokeLineJoin
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill ملكية. يحدد كيفية عرض الخطوط عند تقاطع مقاطع الخط.
+title: "SimpleFill.StrokeLineJoin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleFill. تحدد كيفية رسم الخطوط عند تقاطع مقاطع الخط"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokelinejoin/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokelinejoin/
 public LineJoin StrokeLineJoin { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [LineJoin](../../../aspose.gis.rendering/linejoin/)
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,41 +1,41 @@
 ---
-title: Feature.CopyValues
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. ينسخ قيم السمات من ميزة أخرى .
+title: "Feature.CopyValues"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تنسخ قيم السمات من عنصر آخر"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/feature/copyvalues/
 ---
 ## Feature.CopyValues method
 
-ينسخ قيم السمات من ميزة أخرى .
+ينسخ قيم السمات من ميزة أخرى.
 
 ```csharp
 public void CopyValues(Feature inputFeature)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| inputFeature | Feature | الميزة لنسخ القيم من. |
+| inputFeature | Feature | العنصر الذي تُنسخ القيم منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | قيمة الإدخال خالية ولا يمكن أن تكون السمة في هذه الميزة خالية. |
-| [GisException](../../gisexception/) | السمة لها نفس الاسم لكن أنواع بيانات مختلفة في المعالم. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | القيمة المدخلة هي null ولا يمكن أن تكون السمة في هذا العنصر null. |
+| [GisException](../../gisexception/) | الخاصية لها نفس الاسم ولكن أنواع بيانات مختلفة في الميزات. |
 
-### ملاحظات
+## ملاحظات
 
-هذه الطريقة تنسخ السمات ذات الأسماء المطابقة فقط.
+هذه الطريقة تنسخ فقط الخصائص ذات الأسماء المتطابقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,27 +1,27 @@
 ---
-title: LineString.IsEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+title: "LineString.IsEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineString. تحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/linestring/isempty/
 ---
 ## LineString.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا.
 
 ```csharp
 public override bool IsEmpty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كانت هذه الحالة فارغة ؛ خلاف ذلك،`false` .
+`true` إذا كان هذا الكائن فارغًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

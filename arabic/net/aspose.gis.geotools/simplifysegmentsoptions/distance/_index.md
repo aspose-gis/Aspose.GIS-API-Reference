@@ -1,23 +1,23 @@
 ---
-title: SimplifySegmentsOptions.Distance
-second_title: Aspose.GIS لمرجع .NET API
-description: SimplifySegmentsOptions ملكية. معلمة الفحص هي نقطة بالقرب من قطعة خط. القيمة الافتراضية هي 0.
+title: "SimplifySegmentsOptions.Distance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimplifySegmentsOptions. المعامل للتحقق هو النقطة القريبة من مقطع الخط. القيمة الافتراضية هي 0"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/simplifysegmentsoptions/distance/
 ---
 ## SimplifySegmentsOptions.Distance property
 
-معلمة الفحص هي نقطة بالقرب من قطعة خط. القيمة الافتراضية هي 0.
+معامل الفحص هو النقطة القريبة من مقطع الخط. القيمة الافتراضية هي 0.
 
 ```csharp
 public double Distance { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimplifySegmentsOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: RasterStatistics.Max
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterStatistics ملكية. الحد الأقصى لقيمة الخلايا المحسوبة أو قيم البكسل .
+title: "RasterStatistics.Max"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterStatistics. القيمة القصوى للخلايا أو قيم البكسل التي تم عدّها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/rasterstatistics/max/
 ---
 ## RasterStatistics.Max property
 
-الحد الأقصى لقيمة الخلايا المحسوبة أو قيم البكسل .
+القيمة القصوى للخلايا أو قيم البكسل التي تم عدّها.
 
 ```csharp
 public double? Max { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterStatistics](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterstatistics/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterstatistics/)
+* assembly [Aspose.GIS](../../../)
 
 

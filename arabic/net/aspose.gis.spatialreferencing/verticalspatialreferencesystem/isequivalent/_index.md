@@ -1,32 +1,32 @@
 ---
-title: VerticalSpatialReferenceSystem.IsEquivalent
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem طريقة. يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى. .
+title: "VerticalSpatialReferenceSystem.IsEquivalent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VerticalSpatialReferenceSystem. تُحدد ما إذا كان هذا SRS مكافئًا لـ SRS آخر."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/isequivalent/
 ---
 ## VerticalSpatialReferenceSystem.IsEquivalent method
 
-يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى. .
+يكشف ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
 ```csharp
 public override bool IsEquivalent(SpatialReferenceSystem other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SpatialReferenceSystem | SRS أخرى. |
+| آخر | SpatialReferenceSystem | SRS آخر. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى.
+قيمة bool، تُشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

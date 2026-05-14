@@ -1,7 +1,7 @@
 ---
-title: PointLabelPlacement.Rotation
-second_title: Aspose.GIS لمرجع .NET API
-description: PointLabelPlacement ملكية. يحدد دوران التسمية بالدرجات.
+title: "PointLabelPlacement.Rotation"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PointLabelPlacement. تحدد دوران الملصق بالدرجات"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/rotation/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/rotation/
 public double Rotation { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PointLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

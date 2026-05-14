@@ -1,23 +1,23 @@
 ---
-title: RasterLayer.UpperLeftX
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer ملكية. الحصول على إحداثيات x للركن الأيسر العلوي النقطية.
+title: "RasterLayer.UpperLeftX"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterLayer. تحصل على إحداثي x للزاوية العلوية اليسرى للراستر"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.raster/rasterlayer/upperleftx/
 ---
 ## RasterLayer.UpperLeftX property
 
-الحصول على إحداثيات x للركن الأيسر العلوي النقطية.
+يحصل على إحداثي x للزاوية العليا اليسرى للراستر.
 
 ```csharp
 public abstract double UpperLeftX { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,34 +1,34 @@
 ---
-title: Class KmlIconResource
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlIconResource فصل. يحدد موقع مورد الرمز
+title: "الفئة KmlIconResource"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlIconResource. تحدد موقع مورد الأيقونة"
 type: docs
-weight: 480
+weight: 2120
 url: /ar/net/aspose.gis.formats.kml.styles/kmliconresource/
 ---
 ## KmlIconResource class
 
-يحدد موقع مورد الرمز
+يحدد موقع مورد الأيقونة
 
 ```csharp
 public class KmlIconResource
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlIconResource](kmliconresource/)() | Default_Constructor |
+| [KmlIconResource](kmliconresource/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href/) { get; set; } | يحدد موقع المورد كعنوان URL . القيمة الافتراضية هي`null` يعني أن href لا شيء. |
+| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href/) { get; set; } | تحدد موقع المورد كعنوان URL. القيمة الافتراضية هي `null` تعني عدم وجود href. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

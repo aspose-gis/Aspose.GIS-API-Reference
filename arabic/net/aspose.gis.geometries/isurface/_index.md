@@ -1,32 +1,32 @@
 ---
-title: Interface ISurface
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.ISurface واجهه المستخدم. أISurface هو كائن هندسي ثنائي الأبعاد.
+title: "الواجهة ISurface"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Geometries.ISurface الواجهة. ISurface هو كائن هندسي ثنائي الأبعاد"
 type: docs
-weight: 1110
+weight: 2890
 url: /ar/net/aspose.gis.geometries/isurface/
 ---
 ## ISurface interface
 
-أ`ISurface` هو كائن هندسي ثنائي الأبعاد.
+الـ `ISurface` هو كائن هندسي ثنائي الأبعاد.
 
 ```csharp
 public interface ISurface : IGeometry
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GetPointOnSurface](../../aspose.gis.geometries/isurface/getpointonsurface/)() | البحث عن نقطة مضمونة أن تكون على هذا السطح. |
-| [ToEditable](../../aspose.gis.geometries/isurface/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
-| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry)() | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضي`تسامح` . |
-| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry_1)(double) | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام المحدد`تسامح` . |
+| [GetPointOnSurface](../../aspose.gis.geometries/isurface/getpointonsurface/)() | يجد نقطة مضمونة أن تكون على هذا السطح. |
+| [ToEditable](../../aspose.gis.geometries/isurface/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry)() | يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` الافتراضي. |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry_1)(double) | يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` المحدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../igeometry/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

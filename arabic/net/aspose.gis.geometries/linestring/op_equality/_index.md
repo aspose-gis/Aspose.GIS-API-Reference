@@ -1,32 +1,32 @@
 ---
-title: LineString.op_Equality
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. تنفيذ عامل التشغيل  .
+title: "LineString.op_Equality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تنفذ المشغل"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/linestring/op_equality/
 ---
 ## LineString Equality operator
 
-تنفيذ عامل التشغيل == .
+ينفذ العامل ==.
 
 ```csharp
 public static bool operator ==(LineString a, LineString b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | LineString | المثال. |
-| b | LineString | المثيل B. |
+| a | LineString | الكائن A. |
+| b | LineString | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

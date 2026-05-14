@@ -1,14 +1,14 @@
 ---
-title: CircularString.StartPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString ملكية. إرجاع نسخة من نقطة البداية للمنحنى.
+title: "CircularString.StartPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CircularString. تُرجع نسخة من نقطة البداية للمنحنى"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/circularstring/startpoint/
 ---
 ## CircularString.StartPoint property
 
-إرجاع نسخة من نقطة البداية للمنحنى.
+يعيد نسخة من نقطة البداية للمنحنى.
 
 ```csharp
 public override IPoint StartPoint { get; }
@@ -16,15 +16,15 @@ public override IPoint StartPoint { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الهندسة فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

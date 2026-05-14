@@ -1,7 +1,7 @@
 ---
-title: SimpleMarker.StrokeWidth
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker ملكية. يحدد عرض الخط.
+title: "SimpleMarker.StrokeWidth"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleMarker. تحدد عرض الخط."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/strokewidth/
@@ -16,15 +16,15 @@ public Measurement StrokeWidth { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | القيمة أقل من الصفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

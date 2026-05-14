@@ -1,27 +1,27 @@
 ---
-title: FileGdbCoordinatePrecisionGrid.MOrigin
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbCoordinatePrecisionGrid ملكية. الحصول على أو تحديد أصل إحداثيات M. إذا تم التعيين علىnull الافتراضي هو المستخدم.
+title: "FileGdbCoordinatePrecisionGrid.MOrigin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعيين أصل إحداثي M. إذا تم تعيينها إلى null يتم استخدام القيمة الافتراضية"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.MOrigin property
 
-الحصول على أو تحديد أصل إحداثيات M. إذا تم التعيين على`null` الافتراضي هو المستخدم.
+يحصل أو يضبط أصل إحداثية M. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
 
 ```csharp
 public double? MOrigin { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
 القيمة الافتراضية هي -1e5.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbCoordinatePrecisionGrid](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: SimpleMarker.StrokeColor
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker ملكية. يحدد اللون والشفافية المعطاة للخط.
+title: "SimpleMarker.StrokeColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleMarker. تحدد اللون والشفافية المطبقة على الخط."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/strokecolor/
 ---
 ## SimpleMarker.StrokeColor property
 
-يحدد اللون والشفافية المعطاة للخط.
+يحدد اللون والشفافية الممنوحين للخط.
 
 ```csharp
 public Color StrokeColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

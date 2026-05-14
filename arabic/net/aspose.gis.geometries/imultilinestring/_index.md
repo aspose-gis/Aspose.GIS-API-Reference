@@ -1,29 +1,29 @@
 ---
-title: Interface IMultiLineString
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.IMultiLineString واجهه المستخدم. أMultiLineString هو بعد واحدGeometryCollection التي تكون عناصرهاLineString s.
+title: "الواجهة IMultiLineString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Geometries.IMultiLineString. الـ MultiLineString هو GeometryCollection أحادي البعد تكون عناصره LineStrings"
 type: docs
-weight: 1050
+weight: 2830
 url: /ar/net/aspose.gis.geometries/imultilinestring/
 ---
 ## IMultiLineString interface
 
-أ[`MultiLineString`](../multilinestring/) هو بعد واحد[`GeometryCollection`](../geometrycollection/) التي تكون عناصرها[`LineString`](../linestring/) s.
+الـ [`MultiLineString`](../multilinestring/) هو [`GeometryCollection`](../geometrycollection/) أحادي البعد تكون عناصره [`LineString`](../linestring/)s.
 
 ```csharp
 public interface IMultiLineString : IMultiCurve
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToEditable](../../aspose.gis.geometries/imultilinestring/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToEditable](../../aspose.gis.geometries/imultilinestring/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IMultiCurve](../imulticurve/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

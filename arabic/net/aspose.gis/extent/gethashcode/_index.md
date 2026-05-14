@@ -1,14 +1,14 @@
 ---
-title: Extent.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "Extent.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تعمل كدالة التجزئة الافتراضية"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis/extent/gethashcode/
 ---
 ## Extent.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

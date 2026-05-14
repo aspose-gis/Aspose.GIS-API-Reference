@@ -1,107 +1,107 @@
 ---
-title: Extent.Contains
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. لتحديد ما إذا كان هذا النطاق يحتوي على إحداثي محدد بواسطة الوسيطات.
+title: "Extent.Contains"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تحدد ما إذا كان هذا الامتداد يحتوي على إحداثي محدد بالوسائط"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis/extent/contains/
 ---
 ## Contains(double, double) {#contains_2}
 
-لتحديد ما إذا كان هذا النطاق يحتوي على إحداثي محدد بواسطة الوسيطات.
+يحدد ما إذا كان هذا الامتداد يحتوي على إحداثي معرف بالوسائط.
 
 ```csharp
 public bool Contains(double x, double y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | X للإحداثيات. |
-| y | Double | Y للإحداثيات. |
+| x | Double | X للإحداثي. |
+| y | Double | Y للإحداثي. |
 
 ### قيمة الإرجاع
 
-القيمة ، تشير إلى ما إذا كان التنسيق داخل المربع المحيط.
+قيمة تشير إلى ما إذا كان الإحداثي داخل صندوق الحدود.
 
-### ملاحظات
+## ملاحظات
 
-الإحداثيات الموجودة في حدود هذا[`Extent`](../) are الواردة في هذا[`Extent`](../) .
+الإحداثيات الموجودة على حدود هذا [`Extent`](../) تُعتبر محتواة في هذا [`Extent`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Contains(Extent) {#contains}
 
-لتحديد ما إذا كان هذا النطاق يحتوي على الوسيطة.
+يحدد ما إذا كان هذا الامتداد يحتوي على الوسيط.
 
 ```csharp
 public bool Contains(Extent extent)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| extent | Extent | مدى آخر. |
+| مدى | مدى | نطاق آخر. |
 
 ### قيمة الإرجاع
 
-القيمة ، تشير إلى ما إذا كان هذا المدى يحتوي على الوسيطة.
+قيمة تشير إلى ما إذا كان هذا الامتداد يحتوي على الوسيط.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من هذا المدى والحجة كلاهما ليس كذلك`null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
 
-### ملاحظات
+## ملاحظات
 
-الإحداثيات الموجودة في حدود هذا[`Extent`](../) are الواردة في هذا[`Extent`](../) . لهذا السبب ، تعتبر النطاقات المتساوية لتحتوي على بعضها البعض.
+الإحداثيات الموجودة على حدود هذا [`Extent`](../) تُعتبر محتواة في هذا [`Extent`](../). لهذا السبب، تُعتبر الامتدادات المتساوية محتواة بعضها البعض.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Contains(IGeometry) {#contains_1}
 
-لتحديد ما إذا كان هذا النطاق يحتوي على الوسيطة.
+يحدد ما إذا كان هذا الامتداد يحتوي على الوسيط.
 
 ```csharp
 public bool Contains(IGeometry geometry)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | هندسة لاختبار الاحتواء. |
+| هندسة | IGeometry | هندسة لاختبار الاحتواء. |
 
 ### قيمة الإرجاع
 
-القيمة ، تشير إلى ما إذا كان هذا المدى يحتوي على الوسيطة.
+قيمة تشير إلى ما إذا كان هذا الامتداد يحتوي على الوسيط.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من هذا المدى والحجة كلاهما ليس كذلك`null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
 
-### ملاحظات
+## ملاحظات
 
-الإحداثيات الموجودة في حدود هذا[`Extent`](../) are الواردة في هذا[`Extent`](../) .
+الإحداثيات الموجودة على حدود هذا [`Extent`](../) تُعتبر محتواة في هذا [`Extent`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

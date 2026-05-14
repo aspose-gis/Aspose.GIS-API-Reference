@@ -1,14 +1,14 @@
 ---
-title: MultiSurface.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiSurface طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "MultiSurface.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة MultiSurface. تحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/multisurface/toeditable/
 ---
 ## MultiSurface.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public MultiSurface ToEditable()
@@ -16,12 +16,12 @@ public MultiSurface ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiSurface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multisurface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multisurface/)
+* assembly [Aspose.GIS](../../../)
 
 

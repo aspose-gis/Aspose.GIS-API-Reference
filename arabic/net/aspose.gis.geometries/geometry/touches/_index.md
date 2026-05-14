@@ -1,48 +1,50 @@
 ---
-title: Geometry.Touches
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. لتحديد ما إذا كانت هذه الهندسة ولمسة هندسية محددة.
+title: "Geometry.Touches"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحدد ما إذا كانت هذه الهندسة وهندسة محددة تلامس"
 type: docs
-weight: 420
+weight: 430
 url: /ar/net/aspose.gis.geometries/geometry/touches/
 ---
 ## Geometry.Touches method
 
-لتحديد ما إذا كانت هذه الهندسة ولمسة هندسية محددة.
+يحدد ما إذا كان هذا الشكل وشكل محدد يلامسان بعضهما.
 
 ```csharp
 public bool Touches(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "تلامس مكانيًا" هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "تلامس مكانيًا" هندسة أخرى. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت الأشكال الهندسية تلامس بعضها البعض من حيث مصفوفة تقاطع DE-9IM. يتلامس شكلان هندسيان إذا كان بينهما نقطة حد واحدة مشتركة على الأقل ، ولكن لا توجد نقاط داخلية . أي: اثنان[`LineString`](../../linestring/)يلمس بعضهما البعض إذا كانا يشتركان في نقطة نهاية ، لكنهما لا يتشاركان في مقطع ، مضلعان يتلامسان إذا كانا يتشاركان في جزء من الحلقة الخارجية أو الداخلية ، ولكن لا تتداخل الأجزاء الداخلية بينهما. هذه الطريقة تعادل: راجع مواصفات ميزات OpenGIS البسيطة للحصول على مزيد من التفاصيل حول DE-9IM وعلاقة "اللمسات المكانية".
+تختبر هذه الطريقة ما إذا كانت الهندسات تلامس بعضها البعض من حيث مصفوفة تقاطع DE-9IM. تلامس الهندستان بعضها إذا كان لديهما على الأقل نقطة حد مشتركة، ولكن لا نقاط داخلية. أي أن: يلامس اثنان من [`LineString`](../../linestring/) بعضهما إذا شاركا نقطة نهائية، ولكن لا يشتركان في مقطع، وتلامس مضلعان إذا شاركا جزءًا من الحلقة الخارجية أو الداخلية، ولكن لا تتداخل داخلاتهما. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "FT*******") || this.Relate(other, "F**T*****") || this.Relate(other, "F***T****");
 ```
 
-### أنظر أيضا
+انظر مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة "التلامس المكاني".
+
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

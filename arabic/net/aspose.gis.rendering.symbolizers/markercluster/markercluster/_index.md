@@ -1,60 +1,60 @@
 ---
-title: MarkerCluster.MarkerCluster
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerCluster البناء. يقوم بتهيئة مثيل جديد لملفMarkerCluster فئة .
+title: "MarkerCluster.MarkerCluster"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MarkerCluster. يهيئ مثيلاً جديداً من فئة MarkerCluster"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/markercluster/
 ---
 ## MarkerCluster(Measurement) {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`MarkerCluster`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`MarkerCluster`](../).
 
 ```csharp
 public MarkerCluster(Measurement distance)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| distance | Measurement | يحدد المسافة التي تجمع أقرب نقطة. |
+| المسافة | القياس | يحدد المسافة التي تجمع أقرب النقاط. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الوسيطة أقل من أو تساوي الصفر. |
+| ArgumentOutOfRangeException | الوسيط أقل من أو يساوي الصفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [MarkerCluster](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## MarkerCluster(MarkerCluster) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`MarkerCluster`](../) فئة .
+يهيئ مثيلاً جديداً من الفئة [`MarkerCluster`](../).
 
 ```csharp
 public MarkerCluster(MarkerCluster other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | MarkerCluster | الأخرى[`MarkerCluster`](../) لنسخ البيانات من. |
+| other | MarkerCluster | الـ [`MarkerCluster`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MarkerCluster](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markercluster/)
+* assembly [Aspose.GIS](../../../)
 
 

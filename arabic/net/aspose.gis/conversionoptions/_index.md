@@ -1,37 +1,37 @@
 ---
-title: Class ConversionOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.ConversionOptions فصل. خيارات لتحويل البيانات بين التنسيقات .
+title: "الفئة ConversionOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.ConversionOptions class. خيارات تحويل البيانات بين الصيغ"
 type: docs
-weight: 50
+weight: 1400
 url: /ar/net/aspose.gis/conversionoptions/
 ---
 ## ConversionOptions class
 
-خيارات لتحويل البيانات بين التنسيقات .
+خيارات تحويل البيانات بين الصيغ.
 
 ```csharp
 public class ConversionOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ConversionOptions](conversionoptions/)() | Default_Constructor |
+| [ConversionOptions](conversionoptions/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AttributesConverter](../../aspose.gis/conversionoptions/attributesconverter/) { get; set; } | محول مخصص للسمات. يسمح لنا بإعادة تسمية سمات الوجهة أو استبعادها . إذا لم يكن كذلك`null`، يتم استدعاؤها لكل سمة من سمات الطبقة المصدر ومن المتوقع تغييرها إذا لزم الأمر. |
-| [DestinationDriverOptions](../../aspose.gis/conversionoptions/destinationdriveroptions/) { get; set; } | خيارات خاصة ببرنامج التشغيل للطبقة الوجهة . |
-| [DestinationSpatialReferenceSystem](../../aspose.gis/conversionoptions/destinationspatialreferencesystem/) { get; set; } | نظام الإسناد المكاني لتعيين طبقة الوجهة. |
-| [SourceDriverOptions](../../aspose.gis/conversionoptions/sourcedriveroptions/) { get; set; } | خيارات خاصة ببرنامج التشغيل للطبقة المصدر. |
+| [AttributesConverter](../../aspose.gis/conversionoptions/attributesconverter/) { get; set; } | محول مخصص للسمات. يسمح لنا بإعادة تسمية أو استبعاد سمات الوجهة. إذا لم يكن `null`، يتم استدعاؤه لكل سمة في طبقة المصدر ومن المتوقع أن يغيّرها إذا لزم الأمر. |
+| [DestinationDriverOptions](../../aspose.gis/conversionoptions/destinationdriveroptions/) { get; set; } | خيارات خاصة بالسائق للطبقة الوجهة. |
+| [DestinationSpatialReferenceSystem](../../aspose.gis/conversionoptions/destinationspatialreferencesystem/) { get; set; } | نظام الإشارة المكانية لتعيينه للطبقة الوجهة. |
+| [SourceDriverOptions](../../aspose.gis/conversionoptions/sourcedriveroptions/) { get; set; } | خيارات خاصة بالسائق للطبقة المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

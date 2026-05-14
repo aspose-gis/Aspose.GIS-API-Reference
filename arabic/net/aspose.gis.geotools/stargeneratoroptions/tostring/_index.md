@@ -1,14 +1,14 @@
 ---
-title: StarGeneratorOptions.ToString
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions طريقة. إرجاع سلسلة تمثل الكائن الحالي.
+title: "StarGeneratorOptions.ToString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة StarGeneratorOptions. تُرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/tostring/
 ---
 ## StarGeneratorOptions.ToString method
 
-إرجاع سلسلة تمثل الكائن الحالي.
+يعيد سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -18,10 +18,10 @@ public override string ToString()
 
 سلسلة تمثل الكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

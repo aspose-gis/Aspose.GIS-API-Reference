@@ -1,14 +1,14 @@
 ---
-title: CircularString.EndPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString ملكية. إرجاع نسخة من نقطة نهاية المنحنى.
+title: "CircularString.EndPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CircularString. تُرجع نسخة من نقطة النهاية للمنحنى"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/circularstring/endpoint/
 ---
 ## CircularString.EndPoint property
 
-إرجاع نسخة من نقطة نهاية المنحنى.
+يعيد نسخة من نقطة النهاية للمنحنى.
 
 ```csharp
 public override IPoint EndPoint { get; }
@@ -16,15 +16,15 @@ public override IPoint EndPoint { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الهندسة فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,32 +1,32 @@
 ---
-title: GeometryOperations.CloseLinearRing
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryOperations طريقة. لإغلاق المقاطع الهندسية في الحلقات إذا لزم الأمر.
+title: "GeometryOperations.CloseLinearRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryOperations. تغلق المقاطع الهندسية في الحلقات إذا لزم الأمر"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.gis.geotools/geometryoperations/closelinearring/
 ---
 ## GeometryOperations.CloseLinearRing method
 
-لإغلاق المقاطع الهندسية في الحلقات إذا لزم الأمر.
+يغلق المقاطع الهندسية في الحلقات إذا لزم الأمر.
 
 ```csharp
 public static IGeometry CloseLinearRing(IGeometry geometry)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | هندسة الإغلاق. |
+| هندسة | IGeometry | الجيومتري للإغلاق. |
 
 ### قيمة الإرجاع
 
-الهندسة بعد الإغلاق.
+الجيومتري بعد الإغلاق.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [GeometryOperations](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../geometryoperations/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geometryoperations/)
+* assembly [Aspose.GIS](../../../)
 
 

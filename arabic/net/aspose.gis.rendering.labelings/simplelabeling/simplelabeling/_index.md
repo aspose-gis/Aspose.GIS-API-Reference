@@ -1,69 +1,69 @@
 ---
-title: SimpleLabeling.SimpleLabeling
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling البناء. يقوم بتهيئة مثيل جديد لملفSimpleLabeling فئة .
+title: "SimpleLabeling.SimpleLabeling"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SimpleLabeling. يهيئ مثيلًا جديدًا من الفئة SimpleLabeling"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/simplelabeling/
 ---
 ## SimpleLabeling() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`SimpleLabeling`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`SimpleLabeling`](../).
 
 ```csharp
 public SimpleLabeling()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleLabeling(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`SimpleLabeling`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`SimpleLabeling`](../).
 
 ```csharp
 public SimpleLabeling(string labelAttribute)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| labelAttribute | String | اسم السمة المراد استخدامه كمصدر للتسميات. |
+| labelAttribute | String | اسم السمة لاستخدامه كمصدر للتسميات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleLabeling(SimpleLabeling) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`SimpleLabeling`](../) فئة .
+يهيئ مثيلًا جديدًا من الفئة [`SimpleLabeling`](../).
 
 ```csharp
 public SimpleLabeling(SimpleLabeling other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SimpleLabeling | الأخرى[`SimpleLabeling`](../) لنسخ البيانات من. |
+| other | SimpleLabeling | الـ[`SimpleLabeling`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

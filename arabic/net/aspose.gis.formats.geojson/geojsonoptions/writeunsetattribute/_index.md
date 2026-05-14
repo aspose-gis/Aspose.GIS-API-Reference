@@ -1,23 +1,23 @@
 ---
-title: GeoJsonOptions.WriteUnsetAttribute
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoJsonOptions ملكية. ما إذا كان سيتم كتابة سمات غير محددة عن طريق إضافة قيمة خالية _
+title: "GeoJsonOptions.WriteUnsetAttribute"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeoJsonOptions. ما إذا كان يجب كتابة السمات غير المحددة بإضافة قيمة null"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/writeunsetattribute/
 ---
 ## GeoJsonOptions.WriteUnsetAttribute property
 
-ما إذا كان سيتم كتابة سمات غير محددة عن طريق إضافة قيمة "خالية" _
+ما إذا كان يجب كتابة السمات غير المحددة بإضافة القيمة 'null'
 
 ```csharp
 public bool WriteUnsetAttribute { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

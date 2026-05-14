@@ -1,40 +1,40 @@
 ---
-title: Projection.GetParameterValue
-second_title: Aspose.GIS لمرجع .NET API
-description: Projection طريقة. يحصل على معلمة بالاسم المحدد لهذا الإسقاط.
+title: "Projection.GetParameterValue"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Projection. تحصل على المعامل بالاسم المحدد لهذا الإسقاط"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/projection/getparametervalue/
 ---
 ## Projection.GetParameterValue method
 
-يحصل على معلمة بالاسم المحدد لهذا الإسقاط.
+يحصل على المعلمة ذات الاسم المحدد لهذا الإسقاط.
 
 ```csharp
 public double GetParameterValue(string name, ParameterType type = ParameterType.Other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم المعلمة. |
-| type | ParameterType | نوع المعلمة . يحدد عامل الوحدة الذي سيتم إلغاء تطبيقه: إذا كان النوع هوLinear ثم[`LinearParametersUnit`](../linearparametersunit/) سيتم إلغاء تطبيقه وستكون النتيجة بالأمتار . إذا كان النوعAngular ثم[`AngularParametersUnit`](../angularparametersunit/) سيتم إلغاء تطبيقه وستكون النتيجة بالتقدير الدائري . إذا كان النوعOtherسيتم إرجاع قيمة المعلمة "كما هي" . |
+| الاسم | String | اسم المعلمة. |
+| type | ParameterType | نوع المعامل. يحدد عامل الوحدة الذي سيتم إلغاء تطبيقه: إذا كان النوع Linear فإن [`LinearParametersUnit`](../linearparametersunit/) سيتم إلغاء تطبيقه وستكون النتيجة بالمتر. إذا كان النوع Angular فإن [`AngularParametersUnit`](../angularparametersunit/) سيتم إلغاء تطبيقه وستكون النتيجة بالراديان. إذا كان النوع Other فستُعاد قيمة المعامل كما هي. |
 
 ### قيمة الإرجاع
 
-معلمة بالاسم المحدد.
+معامل بالاسم المحدد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الوسيطة باطلة. |
-| InvalidOperationException | لا توجد معلمة بهذا الاسم. |
+| ArgumentNullException | المعطى فارغ. |
+| InvalidOperationException | لا يوجد معامل بهذا الاسم. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [ParameterType](../../parametertype/)
 * class [Projection](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projection/)
+* assembly [Aspose.GIS](../../../)
 
 

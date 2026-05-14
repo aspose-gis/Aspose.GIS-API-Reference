@@ -1,33 +1,33 @@
 ---
-title: VectorLayer.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer ملكية. الحصول على عدد المعالم في هذه الطبقة .
+title: "VectorLayer.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VectorLayer. الحصول على عدد الـ features في هذه الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/vectorlayer/count/
 ---
 ## VectorLayer.Count property
 
-الحصول على عدد المعالم في هذه الطبقة .
+يحصل على عدد الميزات في هذه الطبقة.
 
 ```csharp
 public virtual int Count { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد المعالم في هذه الطبقة .
+عدد الـ features في هذه الطبقة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم طرحها إذا تم فتح الطبقة للكتابة فقط. |
+| InvalidOperationException | يتم رميه إذا تم فتح الطبقة للكتابة فقط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

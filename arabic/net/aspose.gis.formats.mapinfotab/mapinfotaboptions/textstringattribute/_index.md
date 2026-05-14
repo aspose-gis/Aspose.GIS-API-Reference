@@ -1,27 +1,27 @@
 ---
-title: MapInfoTabOptions.TextStringAttribute
-second_title: Aspose.GIS لمرجع .NET API
-description: MapInfoTabOptions ملكية. يحدد اسم السمة التي تمثل نص كائن رسومي نص.
+title: "MapInfoTabOptions.TextStringAttribute"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "MapInfoTabOptions property. تحدد اسم السمة التي تمثل نص الكائن الرسومي Text"
 type: docs
-weight: 30
+weight: 40
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotaboptions/textstringattribute/
 ---
 ## MapInfoTabOptions.TextStringAttribute property
 
-يحدد اسم السمة التي تمثل نص كائن رسومي "نص".
+يحدد اسم السمة التي تمثل نص الكائن الرسومي 'Text'.
 
 ```csharp
 public string TextStringAttribute { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-يحدد تنسيق علامة التبويب MapInfo كائنًا رسوميًا من النوع "نص" . يمثل الكائن الرسومي "نص" تسمية على الخريطة. نقوم بتصدير الكائنات الرسومية "نصية" كـ أ[`Feature`](../../../aspose.gis/feature/) مع[`Polygon`](../../../aspose.gis.geometries/polygon/) الشكل الهندسي الذي يحد التسمية. يتم تصدير نص الملصق بتنسيق[`FeatureAttribute`](../../../aspose.gis/featureattribute/) . تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي`"سلسلة نصية"` .
+MapInfo Tab Format يحدد كائنًا رسوميًا من النوع 'Text'. الكائن الرسومي 'Text' يمثل تسمية على الخريطة. نقوم بتصدير كائنات 'Text' الرسومية كـ [`Feature`](../../../aspose.gis/feature/) مع هندسة [`Polygon`](../../../aspose.gis.geometries/polygon/) التي تحدد حدود التسمية. يتم تصدير نص التسمية كـ [`FeatureAttribute`](../../../aspose.gis/featureattribute/). تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي `"textstring"`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoTabOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotaboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoTab](../../mapinfotaboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

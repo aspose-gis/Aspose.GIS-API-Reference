@@ -1,79 +1,79 @@
 ---
-title: Geometry.FromBinary
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. ينشئ شكلًا هندسيًا من تمثيله الثنائي المعروف جيدًا.
+title: "Geometry.FromBinary"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تنشئ شكلًا هندسيًا من تمثيله WellKnown Binary"
 type: docs
-weight: 460
+weight: 470
 url: /ar/net/aspose.gis.geometries/geometry/frombinary/
 ---
 ## FromBinary(byte[]) {#frombinary}
 
-ينشئ شكلًا هندسيًا من تمثيله الثنائي المعروف جيدًا.
+ينشئ شكلاً هندسياً من تمثيله الثنائي المعروف (Well-Known Binary).
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| wkb | Byte[] | تمثيل ثنائي معروف للهندسة. |
+| wkb | Byte[] | تمثيل Well-Known Binary لشكل هندسي. |
 
 ### قيمة الإرجاع
 
-تمثل الحجة الهندسة.
+شكل هندسي ممثل بالمعطى.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الوسيطة باطلة. |
-| NotSupportedException | تمثل الوسيطة شكلًا هندسيًا لنوع غير مدعوم. |
-| FormatException | الوسيطة ليست ثنائية معروفة جيدًا. |
+| ArgumentNullException | المعطى فارغ. |
+| NotSupportedException | المعطى يمثل شكلًا هندسيًا من نوع غير مدعوم. |
+| FormatException | المعامل ليس Well-Known Binary صالحًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## FromBinary(byte[], SpatialReferenceSystem) {#frombinary_1}
 
-ينشئ شكلًا هندسيًا من تمثيله الثنائي المعروف جيدًا.
+ينشئ شكلاً هندسياً من تمثيله الثنائي المعروف (Well-Known Binary).
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| wkb | Byte[] | تمثيل ثنائي معروف للهندسة. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني المراد تخصيصه للهندسة. |
+| wkb | Byte[] | تمثيل Well-Known Binary لشكل هندسي. |
+| spatialReferenceSystem | SpatialReferenceSystem | Spatial Reference System لتعيينه إلى الشكل الهندسي. |
 
 ### قيمة الإرجاع
 
-تمثل الحجة الهندسة.
+شكل هندسي ممثل بالمعطى.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الوسيطة باطلة. |
-| NotSupportedException | تمثل الوسيطة شكلًا هندسيًا لنوع غير مدعوم. |
-| FormatException | الوسيطة ليست ثنائية معروفة جيدًا. |
+| ArgumentNullException | المعطى فارغ. |
+| NotSupportedException | المعطى يمثل شكلًا هندسيًا من نوع غير مدعوم. |
+| FormatException | المعامل ليس Well-Known Binary صالحًا. |
 
-### ملاحظات
+## ملاحظات
 
-في حالة وجود وحدات بايت إضافية بعد الهندسة أFormatException تم طرح استثناء.
+إذا كان هناك بايتات إضافية بعد الشكل الهندسي، يتم إلقاء استثناء FormatException.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

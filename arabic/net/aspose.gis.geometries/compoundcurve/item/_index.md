@@ -1,38 +1,38 @@
 ---
-title: CompoundCurve.Item
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve ملكية. يحصل على ملفICurve في الفهرس المحدد.
+title: "CompoundCurve.Item"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundCurve. تحصل على الـ ICurve عند الفهرس المحدد"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/compoundcurve/item/
 ---
 ## CompoundCurve indexer
 
-يحصل على ملف[`ICurve`](../../icurve/) في الفهرس المحدد.
+يحصل على [`ICurve`](../../icurve/) عند الفهرس المحدد.
 
 ```csharp
 public ICurve this[int index] { get; }
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| index | مؤشر. |
+| الفهرس | الفهرس. |
 
-### Property_Value
+### Property Value
 
-ملف[`ICurve`](../../icurve/) .
+الـ [`ICurve`](../../icurve/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

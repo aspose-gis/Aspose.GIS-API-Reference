@@ -1,46 +1,46 @@
 ---
-title: Class PointLabelPlacement
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.PointLabelPlacement فصل. وضع ملصق النقاط يضع الملصقات بالقرب من مراكز الهندسة.
+title: "الفئة PointLabelPlacement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.Labelings.PointLabelPlacement. يضع وضع تسمية النقاط التسميات بالقرب من مراكز الأشكال الهندسية."
 type: docs
-weight: 1680
+weight: 4130
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/
 ---
 ## PointLabelPlacement class
 
-وضع ملصق النقاط يضع الملصقات بالقرب من مراكز الهندسة.
+موضع تسمية النقاط يضع التسميات بالقرب من مراكز الأشكال الهندسية.
 
 ```csharp
 public class PointLabelPlacement : LabelPlacement
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [PointLabelPlacement](pointlabelplacement/#constructor)() | يخلق مثيل جديد. |
-| [PointLabelPlacement](pointlabelplacement/#constructor_1)(PointLabelPlacement) | يخلق مثيل جديد. |
+| [PointLabelPlacement](pointlabelplacement/#constructor)() | ينشئ مثيلًا جديدًا. |
+| [PointLabelPlacement](pointlabelplacement/#constructor_1)(PointLabelPlacement) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [HorizontalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontalanchorpoint/) { get; set; } | يحدد أي جانب من التسمية سيتم محاذاته أفقيًا مع موقع النقطة. |
-| [HorizontalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset/) { get; set; } | يحدد إزاحة أفقية من موقع نقطة إلى نقطة ربط التسميات. |
+| [HorizontalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontalanchorpoint/) { get; set; } | يحدد أي جانب من التسمية سيُمحاذى أفقيًا مع موقع النقطة. |
+| [HorizontalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset/) { get; set; } | يحدد الإزاحة الأفقية من موقع النقطة إلى نقطة ارتكاز التسمية. |
 | [Rotation](../../aspose.gis.rendering.labelings/pointlabelplacement/rotation/) { get; set; } | يحدد دوران التسمية بالدرجات. |
-| [VerticalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/verticalanchorpoint/) { get; set; } | يحدد أي جانب من التسمية سيتم محاذاته عموديًا مع موقع النقطة. |
-| [VerticalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset/) { get; set; } | يحدد إزاحة رأسية من موقع نقطة إلى نقطة ربط التسميات. |
+| [VerticalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/verticalanchorpoint/) { get; set; } | يحدد أي جانب من التسمية سيُمحاذى عموديًا مع موقع النقطة. |
+| [VerticalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset/) { get; set; } | يحدد الإزاحة العمودية من موقع النقطة إلى نقطة ارتكاز التسمية. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.gis.rendering.labelings/pointlabelplacement/clone/)() | استنساخ هذا المثال. |
+| override [Clone](../../aspose.gis.rendering.labelings/pointlabelplacement/clone/)() | ينسخ هذا الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelPlacement](../labelplacement/)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

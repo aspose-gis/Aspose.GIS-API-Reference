@@ -1,14 +1,14 @@
 ---
-title: Identifier.GetEpsgCode
-second_title: Aspose.GIS لمرجع .NET API
-description: Identifier طريقة. إذا كان هذا الكائن يمثل معرف EPSG صالحًا على سبيل المثال  اسم الاستناد هو EPSG والمعرف الفريد الاستنادي هو عدد صحيح _ قم بإعادته. خلاف ذلك  إرجاع 1 .
+title: "Identifier.GetEpsgCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Identifier. إذا كان هذا الكائن يمثل معرف EPSG صالحًا، على سبيل المثال اسم السلطة هو EPSG ومعرف السلطة الفريد هو عدد صحيح، أعده. وإلا أعد 1"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/identifier/getepsgcode/
 ---
 ## Identifier.GetEpsgCode method
 
-إذا كان هذا الكائن يمثل معرف EPSG صالحًا (على سبيل المثال - اسم الاستناد هو "EPSG" والمعرف الفريد الاستنادي هو عدد صحيح) -_ قم بإعادته. خلاف ذلك - إرجاع -1 .
+إذا كان هذا الكائن يمثل معرف EPSG صالح (مثال: - اسم السلطة هو "EPSG" والمعرف الفريد للسلطة هو عدد صحيح) - أرجعه. وإلا - أرجع -1.
 
 ```csharp
 public int GetEpsgCode()
@@ -16,12 +16,12 @@ public int GetEpsgCode()
 
 ### قيمة الإرجاع
 
-معرف EPSG الذي يمثله هذا الكائن. إذا كان هذا الكائن لا يمثل معرف EPSG - فقم بإرجاع -1.
+معرف EPSG الممثل بهذا الكائن. إذا لم يمثل هذا الكائن معرف EPSG - أعد -1.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifier/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

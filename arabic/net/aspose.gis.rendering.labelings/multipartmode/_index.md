@@ -1,30 +1,30 @@
 ---
-title: Enum MultipartMode
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.MultipartMode تعداد. يحدد كيفية عرض التسميات للمعالم التي تحتوي على أشكال هندسية متعددة الأجزاء.
+title: "التعداد MultipartMode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Rendering.Labelings.MultipartMode. يحدد كيفية عرض التسميات للعناصر التي تحتوي على أشكال هندسية متعددة الأجزاء."
 type: docs
-weight: 1660
+weight: 4110
 url: /ar/net/aspose.gis.rendering.labelings/multipartmode/
 ---
 ## MultipartMode enumeration
 
-يحدد كيفية عرض التسميات للمعالم التي تحتوي على أشكال هندسية متعددة الأجزاء.
+يحدد كيفية عرض التسميات للميزات التي تحتوي على أشكال متعددة الأجزاء.
 
 ```csharp
 public enum MultipartMode
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| All | `0` | يضع علامة بالقرب من كل جزء من الهندسة طالما توجد مساحة بالقرب من الجزء . |
-| Any | `1` | يضع تسمية واحدة للهندسة بأكملها. |
-| Largest | `2` | يضع تسمية للجزء الأكبر من الهندسة طالما أن هناك مساحة للتسمية . |
+| All | `0` | يضع تسمية بالقرب من كل جزء من الشكل الهندسي طالما هناك مساحة بالقرب من الجزء. |
+| Any | `1` | يضع تسمية واحدة لكامل الشكل الهندسي. |
+| Largest | `2` | يضع تسمية للجزء الأكبر من الشكل الهندسي طالما توجد مساحة للتسمية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

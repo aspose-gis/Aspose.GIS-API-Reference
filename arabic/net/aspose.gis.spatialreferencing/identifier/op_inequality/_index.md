@@ -1,32 +1,32 @@
 ---
-title: Identifier.op_Inequality
-second_title: Aspose.GIS لمرجع .NET API
-description: Identifier طريقة. تنفذ عامل التشغيل  .
+title: "Identifier.op_Inequality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Identifier. تنفّذ المشغل"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/identifier/op_inequality/
 ---
 ## Identifier Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفذ العامل !=.
 
 ```csharp
 public static bool operator !=(Identifier a, Identifier b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | Identifier | المثال. |
-| b | Identifier | المثيل B. |
+| a | معرّف | الكائن A. |
+| b | معرّف | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifier/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

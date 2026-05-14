@@ -1,49 +1,49 @@
 ---
-title: IGeometry.CoveredBy
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. لتحديد ما إذا كانت هذه الهندسة مغطاة بهندسة محددة.
+title: "IGeometry.CoveredBy"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. يحدد ما إذا كان هذا الشكل مغطىً بواسطة شكل محدد"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/igeometry/coveredby/
 ---
 ## IGeometry.CoveredBy method
 
-لتحديد ما إذا كانت هذه الهندسة مغطاة بهندسة محددة.
+يحدد ما إذا كانت هذه الهندسة مغطاة بواسطة هندسة محددة.
 
 ```csharp
 public bool CoveredBy(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true`إذا كانت هذه الهندسة "مغطاة مكانيًا" بهندسة أخرى.`false` خلاف ذلك.
+`true` إذا كان هذا الشكل "مغطى مكانيًا" بواسطة شكل آخر. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت إحدى الأشكال الهندسية مغطاة بأخرى من حيث مصفوفة تقاطع DE-9IM. هذه الطريقة تعادل:
+تختبر هذه الطريقة ما إذا كان شكل ما مغطىً بآخر وفقًا لمصفوفة تقاطع DE-9IM. هذه الطريقة مكافئة لـ:
 
 ```csharp
 other.Covers(this);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [SpatiallyContains](../spatiallycontains/)
 * method [Covers](../covers/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

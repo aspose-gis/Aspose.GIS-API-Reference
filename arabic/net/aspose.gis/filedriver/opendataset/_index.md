@@ -1,151 +1,151 @@
 ---
-title: FileDriver.OpenDataset
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver طريقة. يفتح مجموعة البيانات .
+title: "FileDriver.OpenDataset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileDriver. تفتح مجموعة البيانات"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/filedriver/opendataset/
 ---
 ## OpenDataset(string) {#opendataset_2}
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public Dataset OpenDataset(string path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار إلى مجموعة البيانات. |
+| المسار | String | المسار إلى مجموعة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في قراءة مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenDataset(AbstractPath) {#opendataset}
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public Dataset OpenDataset(AbstractPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | المسار إلى مجموعة البيانات. |
+| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في قراءة مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenDataset(string, DriverOptions) {#opendataset_3}
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public Dataset OpenDataset(string path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار إلى مجموعة البيانات. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى مجموعة البيانات. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في قراءة مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenDataset(AbstractPath, DriverOptions) {#opendataset_1}
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | المسار إلى مجموعة البيانات. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في قراءة مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [AbstractPath](../../abstractpath/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

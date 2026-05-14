@@ -1,23 +1,23 @@
 ---
-title: CurvePolygon.SetEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon طريقة. يجعل هذاGeometry فارغ .
+title: "CurvePolygon.SetEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CurvePolygon. تجعل هذه الهندسة فارغة"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.geometries/curvepolygon/setempty/
 ---
 ## CurvePolygon.SetEmpty method
 
-يجعل هذا[`Geometry`](../../geometry/) فارغ .
+يجعل هذا الـ[`Geometry`](../../geometry/) فارغًا.
 
 ```csharp
 public override void SetEmpty()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

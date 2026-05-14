@@ -1,14 +1,14 @@
 ---
-title: CircularString.GetEnumerator
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString طريقة. إرجاع عداد يتكرر خلال المجموعة.
+title: "CircularString.GetEnumerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CircularString. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/circularstring/getenumerator/
 ---
 ## CircularString.GetEnumerator method
 
-إرجاع عداد يتكرر خلال المجموعة.
+يعيد عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<IPoint> GetEnumerator()
@@ -16,13 +16,13 @@ public IEnumerator<IPoint> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يمكن استخدامه للتكرار خلال المجموعة.
+عداد يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

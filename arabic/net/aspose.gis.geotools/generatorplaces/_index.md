@@ -1,29 +1,29 @@
 ---
-title: Enum GeneratorPlaces
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.GeneratorPlaces تعداد. يصف أماكن الكائن باستخدام ملفGeoGenerator .
+title: "التعداد GeneratorPlaces"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.GeoTools.GeneratorPlaces. يصف أماكن الكائن المستخدمة بواسطة GeoGenerator"
 type: docs
-weight: 770
+weight: 2450
 url: /ar/net/aspose.gis.geotools/generatorplaces/
 ---
 ## GeneratorPlaces enumeration
 
-يصف أماكن الكائن باستخدام ملف[`GeoGenerator`](../geogenerator/) .
+يصف أماكن الكائن المستخدمة بواسطة [`GeoGenerator`](../geogenerator/).
 
 ```csharp
 public enum GeneratorPlaces
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Random | `0` | الأماكن بشكل عشوائي. |
+| Random | `0` | الأماكن عشوائيًا. |
 | Regular | `1` | الأماكن في المراكز |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

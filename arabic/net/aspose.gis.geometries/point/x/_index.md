@@ -1,23 +1,23 @@
 ---
-title: Point.X
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. الحصول على أو تعيين قيمة للإحداثي x .
+title: "Point.X"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. تحصل أو تعيّن قيمة لإحداثي x"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/point/x/
 ---
 ## Point.X property
 
-الحصول على أو تعيين قيمة للإحداثي x .
+يحصل أو يعيّن قيمة لإحداثي x.
 
 ```csharp
 public double X { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

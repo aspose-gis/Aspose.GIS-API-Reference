@@ -1,41 +1,41 @@
 ---
-title: Class MarkerPatternFill
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.MarkerPatternFill فصل. رمز تعبئة نمط العلامة .
+title: "الفئة MarkerPatternFill"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.MarkerPatternFill. مُرمّز تعبئة نمط العلامة."
 type: docs
-weight: 1860
+weight: 4310
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/
 ---
 ## MarkerPatternFill class
 
-رمز تعبئة نمط العلامة .
+مُرمّز تعبئة نمط العلامة.
 
 ```csharp
 public class MarkerPatternFill : VectorSymbolizer
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [MarkerPatternFill](markerpatternfill/#constructor)() | يقوم بتهيئة مثيل جديد لملف`MarkerPatternFill` فئة . |
-| [MarkerPatternFill](markerpatternfill/#constructor_1)(MarkerPatternFill) | يقوم بتهيئة مثيل جديد لملف`MarkerPatternFill` فئة . |
+| [MarkerPatternFill](markerpatternfill/#constructor)() | ينشئ مثلاً جديداً من الفئة `MarkerPatternFill`. |
+| [MarkerPatternFill](markerpatternfill/#constructor_1)(MarkerPatternFill) | ينشئ مثلاً جديداً من الفئة `MarkerPatternFill`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerpatternfill/featurebasedconfiguration/) { get; set; } | رد اتصال يتم استخدامه لتكوين هذا الرمز قبل عرض ميزة. |
-| [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement/) { get; set; } | يحدد الإزاحة الأفقية للعلامات الموجودة في خط أفقي زوجي. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerpatternfill/featurebasedconfiguration/) { get; set; } | دالة استدعاء تُستخدم لتكوين هذا symbolizer قبل عرض ميزة. |
+| [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement/) { get; set; } | يحدد الإزاحة الأفقية للعلامات في الخط الأفقي الزوجي. |
 | [HorizontalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval/) { get; set; } | يحدد الفاصل الأفقي بين العلامات. |
-| [Marker](../../aspose.gis.rendering.symbolizers/markerpatternfill/marker/) { get; set; } | يحدد رمز العلامة للتعبئة. |
-| [VerticalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/) { get; set; } | يحدد الإزاحة الرأسية للعلامات الموجودة في خط عمودي زوجي. |
-| [VerticalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval/) { get; set; } | يحدد الفاصل الرأسي بين العلامات. |
+| [Marker](../../aspose.gis.rendering.symbolizers/markerpatternfill/marker/) { get; set; } | يحدد مُرمّز العلامة للتعبئة. |
+| [VerticalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/) { get; set; } | يحدد الإزاحة العمودية للعلامات في الخط العمودي الزوجي. |
+| [VerticalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval/) { get; set; } | يحدد الفاصل العمودي بين العلامات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

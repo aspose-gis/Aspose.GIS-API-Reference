@@ -1,23 +1,23 @@
 ---
-title: IRasterCellSize.ScaleY
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterCellSize ملكية. الحصول على المكون ص للخلية أو ارتفاع البكسل مقياس ص  سالب عادةً.
+title: "IRasterCellSize.ScaleY"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IRasterCellSize. الحصول على المكوّن y لارتفاع الخلية أو البكسل yscale عادةً سالب"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/irastercellsize/scaley/
 ---
 ## IRasterCellSize.ScaleY property
 
-الحصول على المكون ص للخلية أو ارتفاع البكسل (مقياس ص) ، سالب عادةً.
+يحصل على المكوّن y لارتفاع الخلية أو البكسل (مقياس y)، عادةً سالب.
 
 ```csharp
 public double ScaleY { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

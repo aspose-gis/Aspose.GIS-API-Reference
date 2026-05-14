@@ -1,31 +1,31 @@
 ---
-title: Class GeoGenerator
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.GeoGenerator فصل. مولد النقاط العشوائية والخطوط والمضلعات على مستويات معينة.
+title: "الفئة GeoGenerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.GeoTools.GeoGenerator. مولد لنقاط وخطوط ومضلعات عشوائية على المستويات المحددة"
 type: docs
-weight: 780
+weight: 2480
 url: /ar/net/aspose.gis.geotools/geogenerator/
 ---
 ## GeoGenerator class
 
-مولد النقاط العشوائية والخطوط والمضلعات على مستويات معينة.
+مولد نقاط وخطوط ومضلعات عشوائية على مستويات معينة.
 
 ```csharp
 public static class GeoGenerator
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [ProduceLines](../../aspose.gis.geotools/geogenerator/producelines/)(Extent, LineGeneratorOptions) | ينشئ ILineString Enumerator جديدًا بعدد معين من العناصر العشوائية ، وكلها في نطاق معين. |
-| static [ProducePoints](../../aspose.gis.geotools/geogenerator/producepoints/)(Extent, PointGeneratorOptions) | ينشئ مصفوفة من النقاط تنتمي إلى المنطقة المحددة. |
-| static [ProducePolygons](../../aspose.gis.geotools/geogenerator/producepolygons/)(Extent, PolygonGeneratorOptions) | إنشاء عدّاد IPolygon جديد مع عدد معين من العناصر العشوائية ، وكلها ضمن نطاق معين. |
-| static [ProduceStars](../../aspose.gis.geotools/geogenerator/producestars/)(Extent, StarGeneratorOptions) | ينشئ مصفوفة من النجوم ، كلهم ضمن نطاق معين. |
+| static [ProduceLines](../../aspose.gis.geotools/geogenerator/producelines/)(Extent, LineGeneratorOptions) | إنشاء عداد ILineString جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق معين. |
+| static [ProducePoints](../../aspose.gis.geotools/geogenerator/producepoints/)(Extent, PointGeneratorOptions) | إنشاء مصفوفة من النقاط التي تنتمي إلى المنطقة المحددة. |
+| static [ProducePolygons](../../aspose.gis.geotools/geogenerator/producepolygons/)(Extent, PolygonGeneratorOptions) | إنشاء عداد IPolygon جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق معين. |
+| static [ProduceStars](../../aspose.gis.geotools/geogenerator/producestars/)(Extent, StarGeneratorOptions) | إنشاء مصفوفة من النجوم، جميعها ضمن نطاق معين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

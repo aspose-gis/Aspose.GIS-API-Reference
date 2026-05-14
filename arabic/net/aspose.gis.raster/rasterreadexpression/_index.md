@@ -1,30 +1,30 @@
 ---
-title: Delegate RasterReadExpression
-second_title: Aspose.GIS لمرجع .NET API
-description: يمثل المفوض الذي يقرأ التعبير.
+title: "المندوب RasterReadExpression"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "يمثل مندوبًا يقرأ التعبير"
 type: docs
-weight: 1400
+weight: 3840
 url: /ar/net/aspose.gis.raster/rasterreadexpression/
 ---
 ## RasterReadExpression delegate
 
-يمثل المفوض الذي يقرأ التعبير.
+يمثل مفوضًا، يقرأ التعبير.
 
 ```csharp
 public delegate void RasterReadExpression(RasterExpressionContext context, 
     IRasterValues rasterValues);
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| context | RasterExpressionContext | سياق القيمة. |
-| rasterValues | IRasterValues | قيم القراءة. |
+| السياق | RasterExpressionContext | سياق القيمة. |
+| rasterValues | IRasterValues | القيم المقروءة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RasterExpressionContext](../rasterexpressioncontext/)
 * interface [IRasterValues](../irastervalues/)
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

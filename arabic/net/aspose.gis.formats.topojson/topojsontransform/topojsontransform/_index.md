@@ -1,36 +1,36 @@
 ---
-title: TopoJsonTransform.TopoJsonTransform
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonTransform البناء. إنشاء مثيل جديد منTopoJsonTransform .
+title: "TopoJsonTransform.TopoJsonTransform"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ TopoJsonTransform. إنشاء نسخة جديدة من TopoJsonTransform"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.topojson/topojsontransform/topojsontransform/
 ---
 ## TopoJsonTransform constructor
 
-إنشاء مثيل جديد من[`TopoJsonTransform`](../) .
+إنشاء نسخة جديدة من [`TopoJsonTransform`](../).
 
 ```csharp
 public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, double yScale)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| xTranslate | Double | ترجمة تنطبق على إحداثيات س. |
-| yTranslate | Double | ترجمة تنطبق على إحداثيات ص. |
-| xScale | Double | مقياس لتطبيقه على إحداثيات س. |
-| yScale | Double | مقياس للتطبيق على إحداثيات ص. |
+| xTranslate | Double | التحويل لتطبيقه على إحداثي X. |
+| yTranslate | Double | التحويل لتطبيقه على إحداثي Y. |
+| xScale | Double | المقياس لتطبيقه على إحداثي X. |
+| yScale | Double | المقياس لتطبيقه على إحداثي Y. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | أحد المقاييس يساوي 0. |
+| ArgumentException | إحدى القيم المقياسية تساوي 0. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonTransform](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
+* assembly [Aspose.GIS](../../../)
 
 

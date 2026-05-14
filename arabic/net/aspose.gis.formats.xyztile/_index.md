@@ -1,19 +1,19 @@
 ---
-title: Aspose.Gis.Formats.XyzTile
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.XyzTile توفر مساحة الاسم فئات للعمل بتنسيق XyzTile.
+title: "Aspose.Gis.Formats.XyzTile"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.XyzTile توفر فئات للعمل مع تنسيق XyzTile."
 type: docs
-weight: 210
+weight: 470
 url: /ar/net/aspose.gis.formats.xyztile/
 ---
-`Aspose.Gis.Formats.XyzTile` توفر مساحة الاسم فئات للعمل بتنسيق XyzTile.
+`Aspose.Gis.Formats.XyzTile` مساحة الاسم توفر فئات للعمل مع تنسيق XyzTile.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
 | [XyzConnection](./xyzconnection/) | اتصال لتنسيق XyzTiles. |
-| [XyzTiles](./xyztiles/) | توفر XyzTiles الوصول إلى ملفاتXyzTile الكائنات . |
-| [XyzTilesDriver](./xyztilesdriver/) | برنامج تشغيل لخرائط الويب المكسوة بالبلاط XYZ. |
+| [XyzTiles](./xyztiles/) | توفر XyzTiles إمكانية الوصول إلى كائنات XyzTile. |
+| [XyzTilesDriver](./xyztilesdriver/) | محرك لخرائط الويب المتقطعة XYZ. |
 
 

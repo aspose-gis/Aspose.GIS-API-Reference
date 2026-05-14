@@ -1,24 +1,24 @@
 ---
-title: SpatialReferenceSystem.Osgb36
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. OSGB 36 EPSG 4277 نظام الإسناد المكاني.
+title: "SpatialReferenceSystem.Osgb36"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. نظام الإحداثيات OSGB 36 EPSG4277"
 type: docs
 weight: 290
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/osgb36/
 ---
 ## SpatialReferenceSystem.Osgb36 property
 
-OSGB 36 (EPSG: 4277) نظام الإسناد المكاني.
+OSGB 36 (EPSG:4277) نظام الإحداثيات.
 
 ```csharp
 public static GeographicSpatialReferenceSystem Osgb36 { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicSpatialReferenceSystem](../../geographicspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

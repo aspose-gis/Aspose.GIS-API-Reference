@@ -1,29 +1,29 @@
 ---
-title: Measurement.Measurement
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement البناء. إنشاء مثيل جديد .
+title: "Measurement.Measurement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Measurement. يُنشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/measurement/measurement/
 ---
 ## Measurement constructor
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public Measurement(double value, Unit unit)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | رقم يشير إلى طول القياس. |
-| unit | Unit | وحدة قياس. |
+| قيمة | Double | رقم يشير إلى طول القياس. |
+| وحدة | وحدة | وحدة قياس. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [Unit](../../unit/)
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

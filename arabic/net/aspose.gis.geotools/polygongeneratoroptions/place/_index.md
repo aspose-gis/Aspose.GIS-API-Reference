@@ -1,24 +1,24 @@
 ---
-title: PolygonGeneratorOptions.Place
-second_title: Aspose.GIS لمرجع .NET API
-description: PolygonGeneratorOptions ملكية. الوضع في الخلايا التي تم إنشاؤها. _
+title: "PolygonGeneratorOptions.Place"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "PolygonGeneratorOptions خاصية. وضع التوضع في الخلايا المولدة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/place/
 ---
 ## PolygonGeneratorOptions.Place property
 
-الوضع في الخلايا التي تم إنشاؤها. _
+وضعية التوزيع في الخلايا المُولدة.
 
 ```csharp
 public GeneratorPlaces Place { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeneratorPlaces](../../generatorplaces/)
 * class [PolygonGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

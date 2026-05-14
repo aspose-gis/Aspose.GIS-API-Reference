@@ -1,23 +1,23 @@
 ---
-title: XyzConnection.Url
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzConnection ملكية. نموذج عنوان URL .
+title: "XyzConnection.Url"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية XyzConnection. قالب URL"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.xyztile/xyzconnection/url/
 ---
 ## XyzConnection.Url property
 
-نموذج عنوان URL .
+قالب URL.
 
 ```csharp
 public string Url { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XyzConnection](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyzconnection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyzconnection/)
+* assembly [Aspose.GIS](../../../)
 
 

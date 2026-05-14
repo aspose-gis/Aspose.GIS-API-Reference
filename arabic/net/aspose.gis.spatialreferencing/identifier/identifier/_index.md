@@ -1,34 +1,34 @@
 ---
-title: Identifier.Identifier
-second_title: Aspose.GIS لمرجع .NET API
-description: Identifier البناء. إنشاء مثيل جديد .
+title: "Identifier.Identifier"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Identifier. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/identifier/identifier/
 ---
 ## Identifier constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public Identifier(string authorityName, string authorityUniqueIdentifier)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| authorityName | String | [`AuthorityName`](../authorityname/) . |
-| authorityUniqueIdentifier | String | [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/) . |
+| authorityName | String | [`AuthorityName`](../authorityname/). |
+| authorityUniqueIdentifier | String | [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *authorityName* أو*authorityUniqueIdentifier* يكون`null` . |
+| ArgumentNullException | *authorityName* أو *authorityUniqueIdentifier* هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifier/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

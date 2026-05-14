@@ -1,7 +1,7 @@
 ---
-title: MarkerPatternFill.HorizontalInterval
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerPatternFill ملكية. يحدد الفاصل الأفقي بين العلامات.
+title: "MarkerPatternFill.HorizontalInterval"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerPatternFill. تحدد الفاصل الأفقي بين العلامات."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterv
 public Measurement HorizontalInterval { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [MarkerPatternFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 

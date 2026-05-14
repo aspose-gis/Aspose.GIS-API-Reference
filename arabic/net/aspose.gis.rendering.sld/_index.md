@@ -1,17 +1,17 @@
 ---
-title: Aspose.Gis.Rendering.Sld
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Sld توفر مساحة الاسم فئات لتكوين استيراد SLD.
+title: "Aspose.Gis.Rendering.Sld"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Rendering.Sld توفر فئات لتكوين استيراد SLD"
 type: docs
-weight: 350
+weight: 730
 url: /ar/net/aspose.gis.rendering.sld/
 ---
-`Aspose.Gis.Rendering.Sld` توفر مساحة الاسم فئات لتكوين استيراد SLD.
+مساحة الاسم `Aspose.Gis.Rendering.Sld` توفر فئات لتكوين استيراد SLD.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [SldImportOptions](./sldimportoptions/) | خيارات لاستيراد ملف Styled Layer Descriptor (Sld) . |
+| [SldImportOptions](./sldimportoptions/) | خيارات استيراد ملف وصف الطبقة المنسقة (Sld). |
 
 

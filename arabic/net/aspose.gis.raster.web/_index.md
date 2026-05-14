@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Raster.Web
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.Webتوفر مساحة الاسم فئات للعمل مع تزييف الويب.
+title: "Aspose.Gis.Raster.Web"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Raster.Web توفر فئات للعمل مع تشويه الويب"
 type: docs
-weight: 260
+weight: 640
 url: /ar/net/aspose.gis.raster.web/
 ---
-`Aspose.Gis.Raster.Web`توفر مساحة الاسم فئات للعمل مع تزييف الويب.
+`Aspose.Gis.Raster.Web` مساحة الاسم توفر فئات للعمل مع التشويه على الويب.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [WebTile](./webtile/) | نموذج بلاط الويب المجرد. |
-| [WebTiles](./webtiles/) | يوفر الوصول إلى مربعات الويب . |
+| [WebTile](./webtile/) | نموذج تجزئة الويب المجرد. |
+| [WebTiles](./webtiles/) | يوفر الوصول إلى تجزئات الويب. |
 
 

@@ -1,78 +1,78 @@
 ---
-title: CircularString.CircularString
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString البناء. يقوم بتهيئة مثيل جديد لملفCircularString فئة .
+title: "CircularString.CircularString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ CircularString. يهيئ نسخة جديدة من فئة CircularString"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/circularstring/circularstring/
 ---
 ## CircularString() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CircularString`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`CircularString`](../).
 
 ```csharp
 public CircularString()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CircularString(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`CircularString`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`CircularString`](../).
 
 ```csharp
 public CircularString(IEnumerable<IPoint> collection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| collection | IEnumerable`1 | جمع النقاط. |
+| مجموعة | IEnumerable`1 | مجموعة النقاط. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| InvalidOperationException | أي نقطة فارغة (لها[`IsEmpty`](../../igeometry/isempty/) يكون`true`). |
+| ArgumentNullException | الوسيط هو `null`. |
+| InvalidOperationException | أي نقطة فارغة (‏[`IsEmpty`](../../igeometry/isempty/) لها `true`). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CircularString(ICircularString) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CircularString`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`CircularString`](../).
 
 ```csharp
 public CircularString(ICircularString other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | ICircularString | السلسلة الأخرى لنسخ البيانات منها. |
+| آخر | ICircularString | السلسلة الأخرى لنسخ البيانات منها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICircularString](../../icircularstring/)
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: LocalSpatialReferenceSystem.Unit
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalSpatialReferenceSystem ملكية. وحدة SRS.
+title: "LocalSpatialReferenceSystem.Unit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LocalSpatialReferenceSystem. وحدة هذا SRS."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/unit/
 ---
 ## LocalSpatialReferenceSystem.Unit property
 
-وحدة SRS.
+وحدة هذا SRS.
 
 ```csharp
 public Unit Unit { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [LocalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

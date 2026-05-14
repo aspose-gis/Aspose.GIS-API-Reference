@@ -1,23 +1,23 @@
 ---
-title: VerticalSpatialReferenceSystem.AsVertical
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem ملكية. إرجاع SRS.
+title: "VerticalSpatialReferenceSystem.AsVertical"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VerticalSpatialReferenceSystem. تُعيد هذا SRS."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/asvertical/
 ---
 ## VerticalSpatialReferenceSystem.AsVertical property
 
-إرجاع SRS.
+يعيد هذا نظام الإسناد المكاني.
 
 ```csharp
 public override VerticalSpatialReferenceSystem AsVertical { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

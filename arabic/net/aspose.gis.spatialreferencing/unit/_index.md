@@ -1,49 +1,49 @@
 ---
-title: Class Unit
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.Unit فصل. تمثل وحدة القياس .
+title: "الفئة Unit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.Unit. تمثل وحدة قياس"
 type: docs
-weight: 2290
+weight: 4740
 url: /ar/net/aspose.gis.spatialreferencing/unit/
 ---
 ## Unit class
 
-تمثل وحدة القياس .
+يمثل وحدة القياس.
 
 ```csharp
 public class Unit : IdentifiableObject
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Unit](unit/)(string, double, Identifier) | إنشاء مثيل جديد . |
+| [Unit](unit/)(string, double, Identifier) | إنشاء نسخة جديدة. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | static [Degree](../../aspose.gis.spatialreferencing/unit/degree/) { get; } | احصل على الوحدة التي تمثل الدرجات. |
-| static [Meter](../../aspose.gis.spatialreferencing/unit/meter/) { get; } | احصل على وحدة تمثل الأمتار. |
+| static [Meter](../../aspose.gis.spatialreferencing/unit/meter/) { get; } | احصل على الوحدة التي تمثل الأمتار. |
 | static [Radian](../../aspose.gis.spatialreferencing/unit/radian/) { get; } | احصل على الوحدة التي تمثل الراديان. |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف الكائنات هذا هو معرف EPSG - قم بإرجاع الكود الخاص به. خلاف ذلك - إرجاع -1 . |
-| [Factor](../../aspose.gis.spatialreferencing/unit/factor/) { get; } | عامل إلى متر ، إذا كانت هذه وحدة طول ، عامل راديان ، إذا كانت هذه وحدة زاوية . |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرّف هذا الكائن القابل للتحديد . |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن . |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| [Factor](../../aspose.gis.spatialreferencing/unit/factor/) { get; } | عامل إلى المتر إذا كانت هذه وحدة طول، وعامل إلى الراديان إذا كانت وحدة زاوية. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Apply](../../aspose.gis.spatialreferencing/unit/apply/)(double) | يحول الوسيطة إلى وحدة ، كما هو موضح في هذا المثال. |
-| [Deapply](../../aspose.gis.spatialreferencing/unit/deapply/)(double) | يحول الوسيطة من الوحدة ، الموصوفة في هذا المثال ، إلى راديان أو متر. |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| [Apply](../../aspose.gis.spatialreferencing/unit/apply/)(double) | يحول الوسيط إلى الوحدة التي يصفها هذا الكائن. |
+| [Deapply](../../aspose.gis.spatialreferencing/unit/deapply/)(double) | يحول الوسيط من الوحدة التي يصفها هذا الكائن إلى راديان أو أمتار. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [IdentifiableObject](../identifiableobject/)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

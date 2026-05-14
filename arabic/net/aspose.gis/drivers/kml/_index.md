@@ -1,24 +1,24 @@
 ---
-title: Drivers.Kml
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لتنسيق KML .
+title: "Drivers.Kml"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. سائق لتنسيق KML"
 type: docs
-weight: 110
+weight: 150
 url: /ar/net/aspose.gis/drivers/kml/
 ---
 ## Drivers.Kml property
 
-برنامج تشغيل لتنسيق KML .
+برنامج تشغيل لتنسيق KML.
 
 ```csharp
 public static KmlDriver Kml { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlDriver](../../../aspose.gis.formats.kml/kmldriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

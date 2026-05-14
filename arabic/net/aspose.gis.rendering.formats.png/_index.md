@@ -1,17 +1,17 @@
 ---
-title: Aspose.Gis.Rendering.Formats.Png
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Png توفر مساحة الاسم فئات للعمل بتنسيق PNG.
+title: "Aspose.Gis.Rendering.Formats.Png"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.Png توفر فئات للعمل مع تنسيق PNG"
 type: docs
-weight: 320
+weight: 700
 url: /ar/net/aspose.gis.rendering.formats.png/
 ---
-`Aspose.Gis.Formats.Png` توفر مساحة الاسم فئات للعمل بتنسيق PNG.
+`Aspose.Gis.Formats.Png` مساحة الاسم توفر فئات للعمل مع تنسيق PNG.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [PngRenderer](./pngrenderer/) | أ[`Renderer`](../aspose.gis.rendering/renderer/) هذا يجعل[`Map`](../aspose.gis.rendering/map/) في ملف PNG. |
+| [PngRenderer](./pngrenderer/) | أداة [`Renderer`](../aspose.gis.rendering/renderer/) التي تقوم بعرض [`Map`](../aspose.gis.rendering/map/) في ملف PNG. |
 
 

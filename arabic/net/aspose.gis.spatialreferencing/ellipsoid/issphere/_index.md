@@ -1,23 +1,23 @@
 ---
-title: Ellipsoid.IsSphere
-second_title: Aspose.GIS لمرجع .NET API
-description: Ellipsoid ملكية. يكتشف ما إذا كان هذا الشكل الإهليلجي كرة أم لا.
+title: "Ellipsoid.IsSphere"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Ellipsoid. يكتشف ما إذا كانت هذه القطعة الناقصة كرة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/issphere/
 ---
 ## Ellipsoid.IsSphere property
 
-يكتشف ما إذا كان هذا الشكل الإهليلجي كرة أم لا.
+يكشف ما إذا كان هذا ellipsoid كرة.
 
 ```csharp
 public bool IsSphere { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Ellipsoid](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../ellipsoid/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,81 +1,81 @@
 ---
-title: FeaturesSequence.WhereIntersects
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. ترشيح المعالم بناءً على اتحاد كل الأشكال الهندسية في تسلسل المعالم الأخرى.
+title: "FeaturesSequence.WhereIntersects"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. تقوم بترشيح العناصر بناءً على اتحاد جميع الأشكال الهندسية في تسلسل العناصر الآخر"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/featuressequence/whereintersects/
 ---
 ## WhereIntersects(FeaturesSequence) {#whereintersects_1}
 
-ترشيح المعالم بناءً على اتحاد كل الأشكال الهندسية في تسلسل المعالم الأخرى.
+يفلتر المعالم بناءً على اتحاد جميع الأشكال الهندسية في تسلسل المعالم الأخرى.
 
 ```csharp
 public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sequence | FeaturesSequence | تسلسل الميزات الأخرى. |
+| تسلسل | FeaturesSequence | تسلسل العناصر الآخر. |
 
 ### قيمة الإرجاع
 
-الميزات التي تتقاطع مع اتحاد كل الأشكال الهندسية في تسلسل الميزات الأخرى.
+العناصر التي تتقاطع مع اتحاد جميع الأشكال الهندسية في تسلسل العناصر الآخر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## WhereIntersects(IGeometry) {#whereintersects_2}
 
-ترشيح الميزات بناءً على الهندسة المتوفرة.
+يفلتر المعالم بناءً على الشكل الهندسي المقدم.
 
 ```csharp
 public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | هندسة التصفية. |
+| هندسة | IGeometry | الجيومتري للترشيح. |
 
 ### قيمة الإرجاع
 
-الميزات التي تتقاطع مع الهندسة المتوفرة.
+العناصر التي تتقاطع مع الشكل الهندسي المقدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## WhereIntersects(Extent) {#whereintersects}
 
-ترشيح الميزات على أساس المدى.
+يفلتر المعالم بناءً على النطاق.
 
 ```csharp
 public virtual FeaturesSequence WhereIntersects(Extent extent)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| extent | Extent | مدى التصفية. |
+| مدى | مدى | الامتداد للترشيح. |
 
 ### قيمة الإرجاع
 
-الميزات التي تتقاطع مع الهندسة المتوفرة.
+العناصر التي تتقاطع مع الشكل الهندسي المقدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../../extent/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

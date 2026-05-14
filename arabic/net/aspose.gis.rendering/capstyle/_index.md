@@ -1,30 +1,30 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.CapStyle تعداد. يحدد كيفية تجسيد الأسطر في نهاياتها.
+title: "تعداد CapStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "تعداد Aspose.Gis.Rendering.CapStyle. يحدد كيفية تصوير الخطوط عند نهاياتها"
 type: docs
-weight: 1490
+weight: 3940
 url: /ar/net/aspose.gis.rendering/capstyle/
 ---
 ## CapStyle enumeration
 
-يحدد كيفية تجسيد الأسطر في نهاياتها.
+يحدد كيفية تصيير الخطوط عند نهاياتها.
 
 ```csharp
 public enum CapStyle
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Butt | `0` | حافة مربعة حادة. |
-| Round | `1` | حافة مدورة. |
-| Square | `2` | حافة مربعة ممدود قليلاً. |
+| Round | `1` | حافة مستديرة. |
+| Square | `2` | حافة مربعة ممدودة قليلاً. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

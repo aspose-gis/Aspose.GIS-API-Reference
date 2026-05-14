@@ -1,23 +1,23 @@
 ---
-title: TopoJsonTransform.XTranslate
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonTransform ملكية. ترجم للتطبيق على إحداثيات X.
+title: "TopoJsonTransform.XTranslate"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية TopoJsonTransform. الترجمة لتطبيقها على إحداثي X"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.topojson/topojsontransform/xtranslate/
 ---
 ## TopoJsonTransform.XTranslate property
 
-ترجم للتطبيق على إحداثيات X.
+التحويل لتطبيقه على إحداثي X.
 
 ```csharp
 public double XTranslate { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonTransform](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
+* assembly [Aspose.GIS](../../../)
 
 

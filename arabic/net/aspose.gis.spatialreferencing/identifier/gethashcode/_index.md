@@ -1,14 +1,14 @@
 ---
-title: Identifier.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: Identifier طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "Identifier.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Identifier. تعمل كدالة التجزئة الافتراضية"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/identifier/gethashcode/
 ---
 ## Identifier.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifier/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: FeatureAttribute.Lock
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute طريقة. قفل هذه السمة .
+title: "FeatureAttribute.Lock"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeatureAttribute. تقفل هذه الخاصية"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.gis/featureattribute/lock/
 ---
 ## FeatureAttribute.Lock method
 
-قفل هذه السمة .
+يقفل هذه السمة.
 
 ```csharp
 public void Lock()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

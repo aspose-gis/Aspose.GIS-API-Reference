@@ -1,90 +1,90 @@
 ---
-title: CsvDriver.OpenLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvDriver طريقة. يفتح طبقة للقراءة .
+title: "CsvDriver.OpenLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CsvDriver. تفتح طبقة للقراءة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.csv/csvdriver/openlayer/
 ---
 ## OpenLayer(string, CsvOptions) {#openlayer_5}
 
-يفتح طبقة للقراءة .
+يفتح طبقة للقراءة.
 
 ```csharp
 public VectorLayer OpenLayer(string path, CsvOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | CsvOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | CsvOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [CsvOptions](../../csvoptions/)
 * class [CsvDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
 
-يفتح طبقة للقراءة .
+يفتح طبقة للقراءة.
 
 ```csharp
 public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [CsvDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath, CsvOptions) {#openlayer_2}
 
-يفتح طبقة للقراءة .
+يفتح طبقة للقراءة.
 
 ```csharp
 public VectorLayer OpenLayer(AbstractPath path, CsvOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | CsvOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | CsvOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [CsvOptions](../../csvoptions/)
 * class [CsvDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

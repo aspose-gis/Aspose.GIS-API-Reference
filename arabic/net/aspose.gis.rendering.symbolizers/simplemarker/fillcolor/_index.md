@@ -1,7 +1,7 @@
 ---
-title: SimpleMarker.FillColor
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker ملكية. يحدد اللون والشفافية للتعبئة.
+title: "SimpleMarker.FillColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleMarker. تحدد اللون والشفافية للتعبئة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/fillcolor/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/fillcolor/
 public Color FillColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

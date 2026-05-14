@@ -1,36 +1,42 @@
 ---
-title: Class GeometryOperations
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.GeoTools.GeometryOperations فصل. توفر فئة العمليات الهندسية خوارزميات معالجة جغرافية إضافية لأشكال هندسية.
+title: "فئة GeometryOperations"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.GeometryOperations. توفر فئة عمليات الهندسة خوارزميات معالجة جغرافية إضافية للأشكال الهندسية"
 type: docs
-weight: 790
+weight: 2490
 url: /ar/net/aspose.gis.geotools/geometryoperations/
 ---
 ## GeometryOperations class
 
-توفر فئة العمليات الهندسية خوارزميات معالجة جغرافية إضافية لأشكال هندسية.
+فئة عمليات الهندسة توفر خوارزميات معالجة جغرافية إضافية للأشكال الهندسية.
 
 ```csharp
 public static class GeometryOperations
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [CloseLinearRing](../../aspose.gis.geotools/geometryoperations/closelinearring/)(IGeometry) | لإغلاق المقاطع الهندسية في الحلقات إذا لزم الأمر. |
-| static [CreateMidpoints](../../aspose.gis.geotools/geometryoperations/createmidpoints/)(IGeometry) | إنشاء نقاط وسط بإضافة نقطة جديدة في المنتصف لكل مقطع . |
-| static [DeleteNearPoints](../../aspose.gis.geotools/geometryoperations/deletenearpoints/)(IGeometry, NearPointsCleanerOptions) | احذف النقاط القريبة جدًا من بعضها البعض. |
-| static [OrderGeometryCollection](../../aspose.gis.geotools/geometryoperations/ordergeometrycollection/)(IGeometry) | ترتيب التجميع الهندسي حسب النوع إلى أربع مجموعات (نقطة وخط ومضلع ونوع آخر) |
-| static [SimplifySegments](../../aspose.gis.geotools/geometryoperations/simplifysegments/)(IGeometry, SimplifySegmentsOptions) | حذف النقاط الموجودة على نفس المقطع . |
+| static [BuildCenterline](../../aspose.gis.geotools/geometryoperations/buildcenterline/#buildcenterline_1)(IEnumerable&lt;Point&gt;) | بناء مخطط الخط المركزي لمجموعة من النقاط (المواقع) |
+| static [BuildCenterline](../../aspose.gis.geotools/geometryoperations/buildcenterline/#buildcenterline)(Polygon) | بناء مخطط الخط المركزي للمضلع |
+| static [CloseLinearRing](../../aspose.gis.geotools/geometryoperations/closelinearring/)(IGeometry) | يغلق المقاطع الهندسية في الحلقات إذا لزم الأمر. |
+| static [CreateMidpoints](../../aspose.gis.geotools/geometryoperations/createmidpoints/)(IGeometry) | إنشاء نقاط وسط عن طريق إضافة نقطة جديدة في الوسط لكل مقطع. |
+| static [DeleteNearPoints](../../aspose.gis.geotools/geometryoperations/deletenearpoints/)(IGeometry, NearPointsCleanerOptions) | حذف النقاط التي تكون قريبة جدًا من بعضها البعض. |
+| static [ExtractGeometryCollection](../../aspose.gis.geotools/geometryoperations/extractgeometrycollection/)(VectorLayer) | استخراج مجموعة الأشكال الهندسية من الطبقة |
+| static [GetCenterlineLength](../../aspose.gis.geotools/geometryoperations/getcenterlinelength/#getcenterlinelength_1)(IEnumerable&lt;Point&gt;) | الحصول على طول الخط المركزي |
+| static [GetCenterlineLength](../../aspose.gis.geotools/geometryoperations/getcenterlinelength/#getcenterlinelength)(Polygon) | الحصول على طول الخط المركزي |
+| static [MakeVoronoiGraph](../../aspose.gis.geotools/geometryoperations/makevoronoigraph/)(IEnumerable&lt;IPoint&gt;) | بناء مخطط "فورونوي" لمجموعة من النقاط (المواقع) |
+| static [OrderGeometryCollection](../../aspose.gis.geotools/geometryoperations/ordergeometrycollection/)(IGeometry) | ترتيب مجموعة الأشكال الهندسية حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر) |
+| static [SimplifySegments](../../aspose.gis.geotools/geometryoperations/simplifysegments/)(IGeometry, SimplifySegmentsOptions) | حذف النقاط الواقعة على نفس المقطع. |
 
-### ملاحظات
+## ملاحظات
 
-خوارزميات أخرى يمكنك أن تجدها في طرق[`Geometry`](../../aspose.gis.geometries/geometry/)
+خوارزميات أخرى يمكنك العثور عليها في طرق [`Geometry`](../../aspose.gis.geometries/geometry/)
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

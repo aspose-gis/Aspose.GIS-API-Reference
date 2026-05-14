@@ -1,29 +1,29 @@
 ---
-title: Interface IMultiPolygon
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.IMultiPolygon واجهه المستخدم. أIMultiPolygon هو أحادي البعد IGeometryCollection من العناصرIPolygon s.
+title: "الواجهة IMultiPolygon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Geometries.IMultiPolygon. IMultiPolygon هي IGeometryCollection أحادية البعد تكون عناصرها IPolygons."
 type: docs
-weight: 1070
+weight: 2850
 url: /ar/net/aspose.gis.geometries/imultipolygon/
 ---
 ## IMultiPolygon interface
 
-أ`IMultiPolygon` هو أحادي البعد [`IGeometryCollection`](../igeometrycollection/) من العناصر[`IPolygon`](../ipolygon/) s.
+`IMultiPolygon` هي [`IGeometryCollection`](../igeometrycollection/) أحادية البعد تكون عناصرها [`IPolygon`](../ipolygon/)s.
 
 ```csharp
 public interface IMultiPolygon : IMultiSurface
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [ToEditable](../../aspose.gis.geometries/imultipolygon/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToEditable](../../aspose.gis.geometries/imultipolygon/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IMultiSurface](../imultisurface/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

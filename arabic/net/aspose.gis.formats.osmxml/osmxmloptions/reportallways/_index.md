@@ -1,23 +1,23 @@
 ---
-title: OsmXmlOptions.ReportAllWays
-second_title: Aspose.GIS لمرجع .NET API
-description: OsmXmlOptions ملكية. قم بالإبلاغ عن جميع الطرق باعتبارها ميزات  حتى إذا لم يكن لديهم أي علامات مهمة أو ليس لديهم أي عقد.
+title: "OsmXmlOptions.ReportAllWays"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية OsmXmlOptions. الإبلاغ عن جميع الطرق كميزات حتى إذا لم كانت لديها أي وسوم مهمة أو أي عقد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.osmxml/osmxmloptions/reportallways/
 ---
 ## OsmXmlOptions.ReportAllWays property
 
-قم بالإبلاغ عن جميع الطرق باعتبارها ميزات ، حتى إذا لم يكن لديهم أي علامات مهمة أو ليس لديهم أي عقد.
+الإبلاغ عن جميع الطرق كميزات، حتى إذا لم تكن لديها أي وسوم مهمة أو أي عقد.
 
 ```csharp
 public bool ReportAllWays { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OsmXmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.OsmXml](../../osmxmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.OsmXml](../../osmxmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

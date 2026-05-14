@@ -1,24 +1,24 @@
 ---
-title: WarpOptions.DefaultSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: WarpOptions ملكية. يحدد قيمة للمرجع المكاني للمصدر إذا كان مفقودًا.
+title: "WarpOptions.DefaultSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية WarpOptions. تحدد قيمة للإشارة المكانية المصدر إذا كانت مفقودة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/warpoptions/defaultspatialreferencesystem/
 ---
 ## WarpOptions.DefaultSpatialReferenceSystem property
 
-يحدد قيمة للمرجع المكاني للمصدر إذا كان مفقودًا.
+يحدد قيمة للإشارة المكانية المصدر إذا كانت مفقودة.
 
 ```csharp
 public SpatialReferenceSystem DefaultSpatialReferenceSystem { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [WarpOptions](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../warpoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

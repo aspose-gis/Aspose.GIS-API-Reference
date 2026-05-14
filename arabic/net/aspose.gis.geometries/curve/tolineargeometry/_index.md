@@ -1,14 +1,14 @@
 ---
-title: Curve.ToLinearGeometry
-second_title: Aspose.GIS لمرجع .NET API
-description: Curve طريقة. الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضيتسامح .
+title: "Curve.ToLinearGeometry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Curve. تحصل على نسخة تقريبية أو مكافئة غير منحنية لهذا الشكل الهندسي باستخدام التسامح الافتراضي"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/curve/tolineargeometry/
 ---
 ## ToLinearGeometry() {#tolineargeometry_2}
 
-الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضي`تسامح` .
+يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` الافتراضي.
 
 ```csharp
 public ILineString ToLinearGeometry()
@@ -16,51 +16,51 @@ public ILineString ToLinearGeometry()
 
 ### قيمة الإرجاع
 
-أ[`ILineString`](../../ilinestring/) الذي يقارب أو يكافئ هذا المنحنى . هذا ما يعادل[`ToLinearGeometry`](../../icurve/tolineargeometry/) with افتراضي`تسامح` . تقصير`تسامح` تعتمد قيمة s على[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) من هذه الهندسة:  بالنسبة لـ SRS Tolerance المتوقع هو 0.001 متر (بوحدات SRS) بالنسبة لـ SRS Tolerance الجغرافي هو`1e-5` درجات (بوحدات SRS) بالنسبة إلى غير معروف SRS Tolerance هو`1e-5` لمزيد من التفاصيل حول ماهية التحويلات المطبقة ، يرجى الرجوع إلى[`ToLinearGeometry`](../../icurve/tolineargeometry/) المواصفات .
+[`ILineString`](../../ilinestring/) التي تقرب أو تعادل هذا المنحنى. هذا هو المكافئ لـ [`ToLinearGeometry`](../../icurve/tolineargeometry/) مع `tolerance` الافتراضي. قيمة `tolerance` الافتراضية تعتمد على [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) لهذا الشكل الهندسي:  لـ SRS المُسقَّط يكون التسامح 0.001 متر (بوحدات SRS)  لـ SRS الجغرافي يكون التسامح `1e-5` درجة (بوحدات SRS)  لـ SRS غير معروف يكون التسامح `1e-5` لمزيد من التفاصيل حول التحويلات المطبقة راجع مواصفات [`ToLinearGeometry`](../../icurve/tolineargeometry/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | هذه الهندسة غير صالحة من هذا القبيل ، ولا يمكن إتمام هذه العملية . |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILineString](../../ilinestring/)
 * class [Curve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curve/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## ToLinearGeometry(double) {#tolineargeometry_3}
 
-الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام المحدد`تسامح` .
+يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` المحدد.
 
 ```csharp
 public ILineString ToLinearGeometry(double tolerance)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tolerance | Double | ملف`تسامح`ليستخدم. النتيجة مضمونة أن تكون أقل من`تسامح` بعيدًا عن الهندسة المنحنية ، ما لم يتجاوز عدد النقاط المطلوبة لخطية الشكل الهندسي الحد الأقصى لكل ربع ، يساوي حاليًا 10000 نقطة. |
+| التسامح | Double | قيمة `tolerance` للاستخدام. النتيجة مضمونة أن تكون أقل من `tolerance` بعيدًا عن الهندسة المنحنية، ما لم يتجاوز عدد النقاط المطلوبة لتقويم الهندسة الحد الأقصى لكل ربع، وهو حاليًا يساوي 10000 نقطة. |
 
 ### قيمة الإرجاع
 
-أ[`ILineString`](../../ilinestring/) التي تقارب هذا المنحنى أو مكافئته:  إذا كان هذا الكائن[`ILineString`](../../ilinestring/) النتيجة نفسها تعادل هذا الكائن إذا كان هذا الكائن[`ICircularString`](../../icircularstring/) والنتيجة هي سلسلة دائرية خطية مع المحدد*tolerance* إذا كان هذا الكائن[`ICompoundCurve`](../../icompoundcurve/) - جميع المنحنيات منه خطية ثم يتم ضمها[`ILineString`](../../ilinestring/)
+[`ILineString`](../../ilinestring/) التي تقرب أو تعادل هذا المنحنى: إذا كان هذا الكائن هو [`ILineString`](../../ilinestring/) نفسه فإن النتيجة تعادل هذا الكائن. إذا كان هذا الكائن هو [`ICircularString`](../../icircularstring/) فإن النتيجة هي السلسلة الدائرية المُخطَّطة بالتسامح المحدد *tolerance*. إذا كان هذا الكائن هو [`ICompoundCurve`](../../icompoundcurve/) - جميع المنحنيات منه تُخطَّط ثم تُدمج في [`ILineString`](../../ilinestring/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | `تسامح` أصغر من أو يساوي`0` . |
-| InvalidOperationException | هذه الهندسة غير صالحة من هذا القبيل ، ولا يمكن إتمام هذه العملية . |
+| ArgumentOutOfRangeException | `tolerance` أقل من أو يساوي `0`. |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILineString](../../ilinestring/)
 * class [Curve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curve/)
+* assembly [Aspose.GIS](../../../)
 
 

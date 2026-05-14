@@ -1,35 +1,35 @@
 ---
-title: Enum FillStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.FillStyle تعداد. يحدد نمط التعبئة .
+title: "تعداد FillStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.FillStyle تعداد. يحدد نمط تعبئة."
 type: docs
-weight: 1550
+weight: 4000
 url: /ar/net/aspose.gis.rendering/fillstyle/
 ---
 ## FillStyle enumeration
 
-يحدد نمط التعبئة .
+يحدد نمط التعبئة.
 
 ```csharp
 public enum FillStyle
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Solid | `0` | ملء الصلبة. |
-| None | `1` | لا تملأ. |
+| Solid | `0` | تعبئة صلبة. |
+| None | `1` | لا تقم بالتعبئة. |
 | HorizontalHatch | `2` | نمط من الخطوط الأفقية. |
 | VerticalHatch | `3` | نمط من الخطوط العمودية. |
-| CrossHatch | `4` | نمط من الخطوط الأفقية والعمودية التي تتقاطع. |
-| ForwardDiagonalHatch | `5` | نمط من الخطوط على قطري من أعلى اليسار إلى أسفل اليمين. |
-| BackwardDiagonalHatch | `6` | نمط من الخطوط على قطري من أعلى اليمين إلى أسفل اليسار. |
-| DiagonalCrossHatch | `7` | نمط من خطوط قطرية متقاطعة. |
+| CrossHatch | `4` | نمط من الخطوط الأفقية والعمودية المتقاطعة. |
+| ForwardDiagonalHatch | `5` | نمط من الخطوط على القطر من الأعلى اليسار إلى الأسفل اليمين. |
+| BackwardDiagonalHatch | `6` | نمط من الخطوط على القطر من الأعلى اليمين إلى الأسفل اليسار. |
+| DiagonalCrossHatch | `7` | نمط من الخطوط القطرية المتشابكة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,116 +1,116 @@
 ---
-title: Point.Point
-second_title: Aspose.GIS لمرجع .NET API
-description: Point البناء. يقوم بتهيئة مثيل جديد لملفPoint فئة .
+title: "Point.Point"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Point. يهيئ كائنًا جديدًا من فئة Point"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/point/point/
 ---
 ## Point() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`Point`](../).
 
 ```csharp
 public Point()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Point(double, double) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`Point`](../).
 
 ```csharp
 public Point(double x, double y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Point(double, double, double) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`Point`](../).
 
 ```csharp
 public Point(double x, double y, double z)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
-| z | Double | قيمة الإحداثي ع. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
+| z | Double | القيمة لإحداثي Z. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Point(double, double, double, double) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`Point`](../).
 
 ```csharp
 public Point(double x, double y, double z, double m)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | قيمة إحداثيات س. |
-| y | Double | قيمة الإحداثي ص. |
-| z | Double | قيمة الإحداثي ع. |
-| m | Double | قيمة إحداثيات M. |
+| x | Double | القيمة لإحداثي X. |
+| y | Double | القيمة لإحداثي Y. |
+| z | Double | القيمة لإحداثي Z. |
+| m | Double | القيمة لإحداثي M. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Point(IPoint) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Point`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`Point`](../).
 
 ```csharp
 public Point(IPoint other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IPoint | الأخرى[`IPoint`](../../ipoint/) لنسخ البيانات من. |
+| other | IPoint | الـ [`IPoint`](../../ipoint/) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

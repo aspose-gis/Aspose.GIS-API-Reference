@@ -1,34 +1,38 @@
 ---
-title: Polygon.ExteriorRing
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon ملكية. يحصل على الحلقة الخارجية .
+title: "Polygon.ExteriorRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Polygon. تحصل على الحلقة الخارجية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/polygon/exteriorring/
 ---
 ## Polygon.ExteriorRing property
 
-يحصل على الحلقة الخارجية .
+يحصل على الحلقة الخارجية.
 
 ```csharp
 public ILinearRing ExteriorRing { get; set; }
 ```
 
-### Property_Value
+### قيمة الإرجاع
 
-الحلقة الخارجية .
+الحلقة الخارجية. تُعيد [`ILinearRing`](../../ilinearring/)
+
+### Property Value
+
+الحلقة الخارجية. تُعيد [`ILinearRing`](../../ilinearring/)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما لا`null` ولا تساوي بعضها البعض. |
+| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILinearRing](../../ilinearring/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

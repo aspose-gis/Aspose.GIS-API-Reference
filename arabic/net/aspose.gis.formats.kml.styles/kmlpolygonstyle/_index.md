@@ -1,38 +1,38 @@
 ---
-title: Class KmlPolygonStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlPolygonStyle فصل. يحدد نمط الرسم للمضلع  بما في ذلك المضلع والجزء المبثوق من kml مضلع أو LineString.
+title: "الفئة KmlPolygonStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlPolygonStyle. تحدد نمط الرسم لمضلع بما في ذلك المضلع والجزء المستخرج من kmlPolygon أو LineString"
 type: docs
-weight: 560
+weight: 2200
 url: /ar/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/
 ---
 ## KmlPolygonStyle class
 
-يحدد نمط الرسم للمضلع ، بما في ذلك المضلع والجزء المبثوق من kml: مضلع أو LineString.
+يحدد نمط الرسم لـ Polygon، بما في ذلك Polygon والجزء المستخرج من kml:Polygon أو LineString.
 
 ```csharp
 public class KmlPolygonStyle : KmlAbstractColorStyle
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlPolygonStyle](kmlpolygonstyle/)() | Default_Constructor |
+| [KmlPolygonStyle](kmlpolygonstyle/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون عنصر الرسم. القيمة الافتراضيةWhite . |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد صيغة اللون لعنصر الرسوم. القيمة الافتراضية: عادي. |
-| [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill/) { get; set; } | يحدد ما إذا كان سيتم تعبئة المضلع أم لا. القيمة الافتراضية هي`true`. |
-| [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline/) { get; set; } | يحدد ما إذا كان سيتم رسم مخطط تفصيلي للمضلع أم لا. القيمة الافتراضية هي`true`. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill/) { get; set; } | تحدد ما إذا كان سيتم تعبئة المضلع. القيمة الافتراضية هي `true`. |
+| [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline/) { get; set; } | تحدد ما إذا كان سيتم تحديد حدود المضلع. القيمة الافتراضية هي `true`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlAbstractColorStyle](../kmlabstractcolorstyle/)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

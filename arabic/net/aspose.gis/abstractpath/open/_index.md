@@ -1,35 +1,35 @@
 ---
-title: AbstractPath.Open
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath طريقة. يفتح هذاAbstractPathكملف .
+title: "AbstractPath.Open"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة AbstractPath. تفتح هذا AbstractPath كملف"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis/abstractpath/open/
 ---
 ## AbstractPath.Open method
 
-يفتح هذا`AbstractPath`كملف .
+يفتح هذا `AbstractPath` كملف.
 
 ```csharp
 public abstract Stream Open(FileAccess access)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| access | FileAccess | تحدد مجموعة فرعية من العمليات التي يمكن إجراؤها على ملفStream. |
+| الوصول | FileAccess | يحدد مجموعة فرعية من العمليات التي يمكن إجراؤها على الـ Stream. |
 
 ### قيمة الإرجاع
 
-أStream فتح مع المحددFileAccess .
+دفق تم فتحه باستخدام FileAccess المحدد.
 
-### ملاحظات
+## ملاحظات
 
-إذا*access* لديه العلمWrite تعيين ، والملف غير موجود ، يجب على الوارث إنشائه. أن`AbstractPath` يمكن فتحه عدة مرات بواسطة`Aspose.GIS` . هذا مطلوب لقراءة file بشكل مستقل مع تيارات متعددة. لا يجب تخزين النتيجة مؤقتًا بل يجب إعادة جديدةStream في كل مرة تسمى هذه الطريقة .
+إذا كان *access* يحتوي على علامة Write مُفعَّلة، ولم يكن الملف موجودًا، يجب على المُورِّث إنشاءه. يمكن فتح `AbstractPath` عدة مرات بواسطة `Aspose.GIS`. هذا مطلوب لقراءة ملف بشكل مستقل باستخدام تدفقات متعددة. لا ينبغي عليك تخزين النتيجة مؤقتًا بل يجب إرجاع تدفق جديد في كل مرة يتم فيها استدعاء هذه الطريقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: LineString.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. استنساخ هذا المثال .
+title: "LineString.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تنسخ هذا الكائن"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/linestring/clone/
 ---
 ## LineString.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

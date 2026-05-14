@@ -1,39 +1,39 @@
 ---
-title: Enum BandTypes
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.BandTypes تعداد. أنواع النطاق النقطي .
+title: "تعداد BandTypes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "تعداد Aspose.Gis.Raster.BandTypes. أنواع شريط الراستر"
 type: docs
-weight: 1320
+weight: 3760
 url: /ar/net/aspose.gis.raster/bandtypes/
 ---
 ## BandTypes enumeration
 
-أنواع النطاق النقطي .
+أنواع شريط الراستر.
 
 ```csharp
 public enum BandTypes
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| RawBits | `0` | نوع النطاق غير معروف. يرى[`AsRawBits`](../irastervalues/asrawbits/) من أجل القيم. |
-| Bit | `1` | 1 بت. يُعرف باسمBoolean . |
-| SByte | `2` | 8 بت توقيع عدد صحيح. يُعرف باسمSByte . |
-| Byte | `3` | 8 بت عدد صحيح بدون إشارة. يُعرف باسمByte . |
-| Short | `4` | 16 بت توقيع عدد صحيح. يُعرف باسمInt16 . |
-| UShort | `5` | عدد صحيح بدون إشارة 16 بت. يُعرف باسمUInt16 . |
-| Integer | `6` | 32 بت عدد صحيح. يُعرف باسمInt32 . |
-| UInteger | `7` | 32 بت عدد صحيح بدون إشارة. يُعرف باسمUInt32 . |
-| Long | `8` | 64 بت عدد صحيح. يُعرف باسمInt64 . |
-| ULong | `9` | 64 بت عدد صحيح بدون إشارة. يُعرف باسمUInt64 . |
-| Float | `10` | تعويم 64 بت. يطفو. يُعرف باسمSingle . |
-| Double | `11` | تعويم 64 بت. يُعرف باسمDouble . |
+| RawBits | `0` | نوع شريط غير معروف. راجع [`AsRawBits`](../irastervalues/asrawbits/) للقيم. |
+| Bit | `1` | 1-بت. يُعرف بأنه Boolean. |
+| SByte | `2` | عدد صحيح موقع 8-بت. يُعرف بأنه SByte. |
+| Byte | `3` | عدد صحيح غير موقع 8-بت. يُعرف بأنه Byte. |
+| Short | `4` | عدد صحيح موقع 16-بت. يُعرف بأنه Int16. |
+| UShort | `5` | عدد صحيح غير موقع 16-بت. يُعرف بأنه UInt16. |
+| Integer | `6` | عدد صحيح 32-بت. يُعرف بأنه Int32. |
+| UInteger | `7` | عدد صحيح غير موقع 32-بت. يُعرف بأنه UInt32. |
+| Long | `8` | عدد صحيح 64-بت. يُعرف باسم Int64. |
+| ULong | `9` | عدد صحيح غير موقع 64-بت. يُعرف باسم UInt64. |
+| Float | `10` | عدد عشري عائم 64-بت. float. يُعرف باسم Single. |
+| Double | `11` | عدد عشري عائم 64-بت. يُعرف باسم Double. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

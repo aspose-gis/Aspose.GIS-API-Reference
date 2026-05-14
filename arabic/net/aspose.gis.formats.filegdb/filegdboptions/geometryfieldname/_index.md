@@ -1,14 +1,14 @@
 ---
-title: FileGdbOptions.GeometryFieldName
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbOptions ملكية. اسم حقل الهندسة .
+title: "FileGdbOptions.GeometryFieldName"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbOptions. اسم حقل الهندسة"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/geometryfieldname/
 ---
 ## FileGdbOptions.GeometryFieldName property
 
-اسم حقل الهندسة .
+اسم حقل الهندسة.
 
 ```csharp
 public string GeometryFieldName { get; set; }
@@ -16,18 +16,18 @@ public string GeometryFieldName { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | القيمة ليست اسم حقل صالحًا. يجب أن يكون اسم الحقل الصالح:  لا تكن`null` وليس فارغًاابدأ بحرف لاتيني أو شرطة سفليةتحتوي فقط على أحرف لاتينية أو أرقام أو شرطات سفلية |
+| ArgumentException | القيمة ليست اسم حقل صالح. يجب أن يكون اسم الحقل الصالح: غير `null` وغير فارغ، يبدأ بحرف لاتيني أو شرطة سفلية، يحتوي فقط على أحرف لاتينية أو أرقام أو شرطات سفلية |
 
-### ملاحظات
+## ملاحظات
 
-هذا خيار إنشاء ولا يؤثر على القراءة. يحدد اسم حقل الهندسة (العمود) . افتراضيات على "SHAPE" . إذا كانت هناك أية سمة في[`Attributes`](../../../aspose.gis/vectorlayer/attributes/) اسم يساوي قيمة هذه الخاصية ، ثم يتم إعادة تسمية هذه السمة.
+هذا خيار إنشاء ولا يؤثر على القراءة والتحرير. يحدد اسم حقل الهندسة (العمود). القيمة الافتراضية هي "SHAPE". إذا كان أي سمة في [`Attributes`](../../../aspose.gis/vectorlayer/attributes/) لها اسم يساوي قيمة هذه الخاصية، فسيتم إعادة تسمية تلك السمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,32 +1,32 @@
 ---
-title: CurvePolygon.op_Equality
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon طريقة. تنفيذ عامل التشغيل  .
+title: "CurvePolygon.op_Equality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CurvePolygon. تنفذ المشغل"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.geometries/curvepolygon/op_equality/
 ---
 ## CurvePolygon Equality operator
 
-تنفيذ عامل التشغيل == .
+ينفذ العامل ==.
 
 ```csharp
 public static bool operator ==(CurvePolygon a, CurvePolygon b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | CurvePolygon | المثال. |
-| b | CurvePolygon | المثيل B. |
+| a | CurvePolygon | الكائن A. |
+| b | CurvePolygon | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

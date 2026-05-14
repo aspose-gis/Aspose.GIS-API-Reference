@@ -1,23 +1,23 @@
 ---
-title: SpatialReferenceSystem.HasPrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. إرجاع ما إذا كان SRS يحتوي على خط طول أولي . ينطبق هذا على كل SRS الجغرافي والمتوقع والمركز الأرضي
+title: "SpatialReferenceSystem.HasPrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تُرجع ما إذا كان لهذا SRS خط الزوال الرئيسي. هذا صحيح لكل SRS جغرافي مسقط ومركزي."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/hasprimemeridian/
 ---
 ## SpatialReferenceSystem.HasPrimeMeridian property
 
-إرجاع ما إذا كان SRS يحتوي على خط طول أولي . ينطبق هذا على كل SRS الجغرافي والمتوقع والمركز الأرضي
+يعيد ما إذا كان لهذا SRS خط طول رئيسي. هذا صحيح لكل SRS جغرافي أو مسقّط أو مركزي.
 
 ```csharp
 public abstract bool HasPrimeMeridian { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

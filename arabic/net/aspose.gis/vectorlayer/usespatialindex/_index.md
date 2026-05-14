@@ -1,68 +1,68 @@
 ---
-title: VectorLayer.UseSpatialIndex
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. يتم تحميل الفهرس المكاني لتسريع التصفية حسب قيمة السمات في طرق التصفية مثلWhereIntersects وNearestTo. في حالة عدم وجود الفهرس يقوم بإنشائه أولاً. يستخدمforceRebuild لفرض إعادة إنشاء الفهرس.
+title: "VectorLayer.UseSpatialIndex"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. يحمل الفهرس المكاني لتسريع الترشيح حسب قيمة السمات في طرق الفلترة مثل WhereIntersects و NearestTo. إذا لم يكن الفهرس موجودًا ينشئه أولاً. استخدم forceRebuild لإجبار إعادة إنشاء الفهرس"
 type: docs
-weight: 190
+weight: 210
 url: /ar/net/aspose.gis/vectorlayer/usespatialindex/
 ---
 ## UseSpatialIndex(string, bool) {#usespatialindex_1}
 
-يتم تحميل الفهرس المكاني لتسريع التصفية حسب قيمة السمات في طرق التصفية مثل[`WhereIntersects`](../../featuressequence/whereintersects/) و[`NearestTo`](../nearestto/). في حالة عدم وجود الفهرس يقوم بإنشائه أولاً. يستخدم*forceRebuild* لفرض إعادة إنشاء الفهرس.
+يقوم بتحميل الفهرس المكاني لتسريع الترشيح حسب قيمة السمات في طرق الفلترة مثل [`WhereIntersects`](../../featuressequence/whereintersects/) و [`NearestTo`](../nearestto/). إذا لم يكن الفهرس موجودًا يتم إنشاؤه أولاً. استخدم *forceRebuild* لإجبار إعادة إنشاء الفهرس.
 
 ```csharp
 public void UseSpatialIndex(string indexPath, bool forceRebuild = false)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | indexPath | String | المسار إلى ملف الفهرس. |
-| forceRebuild | Boolean | ما إذا كان سيتم إعادة إنشاء الفهرس حتى لو كان موجودًا بالفعل. |
+| forceRebuild | Boolean | ما إذا كان يجب إعادة إنشاء الفهرس حتى وإن كان موجودًا بالفعل. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المسار هو`null`. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| InvalidOperationException | تم تحميل الفهرس المكاني بالفعل لهذه الطبقة. |
+| ArgumentNullException | المسار هو `null`. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| InvalidOperationException | الفهرس المكاني محمّل بالفعل لهذه الطبقة. |
 | [GisException](../../gisexception/) | الملف موجود وليس ملف فهرس مكاني تم إنشاؤه بواسطة Aspose.GIS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## UseSpatialIndex(AbstractPath, bool) {#usespatialindex}
 
-يتم تحميل الفهرس المكاني لتسريع التصفية حسب قيمة السمات في طرق التصفية مثل[`WhereIntersects`](../../featuressequence/whereintersects/) و[`NearestTo`](../nearestto/). في حالة عدم وجود الفهرس يقوم بإنشائه أولاً. يستخدم*forceRebuild* لفرض إعادة إنشاء الفهرس.
+يقوم بتحميل الفهرس المكاني لتسريع الترشيح حسب قيمة السمات في طرق الفلترة مثل [`WhereIntersects`](../../featuressequence/whereintersects/) و [`NearestTo`](../nearestto/). إذا لم يكن الفهرس موجودًا يتم إنشاؤه أولاً. استخدم *forceRebuild* لإجبار إعادة إنشاء الفهرس.
 
 ```csharp
 public virtual void UseSpatialIndex(AbstractPath indexPath, bool forceRebuild = false)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | indexPath | AbstractPath | المسار إلى ملف الفهرس. |
-| forceRebuild | Boolean | ما إذا كان سيتم إعادة إنشاء الفهرس حتى لو كان موجودًا بالفعل. |
+| forceRebuild | Boolean | ما إذا كان يجب إعادة إنشاء الفهرس حتى وإن كان موجودًا بالفعل. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المسار هو`null`. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| InvalidOperationException | تم تحميل الفهرس المكاني بالفعل لهذه الطبقة. |
+| ArgumentNullException | المسار هو `null`. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| InvalidOperationException | الفهرس المكاني محمّل بالفعل لهذه الطبقة. |
 | [GisException](../../gisexception/) | الملف موجود وليس ملف فهرس مكاني تم إنشاؤه بواسطة Aspose.GIS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../../abstractpath/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

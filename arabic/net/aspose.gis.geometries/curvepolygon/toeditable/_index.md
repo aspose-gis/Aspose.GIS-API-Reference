@@ -1,14 +1,14 @@
 ---
-title: CurvePolygon.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "CurvePolygon.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CurvePolygon. تحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.geometries/curvepolygon/toeditable/
 ---
 ## CurvePolygon.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public CurvePolygon ToEditable()
@@ -16,12 +16,12 @@ public CurvePolygon ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: FileGdbDriver.CanOpenDatasets
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات.
+title: "FileGdbDriver.CanOpenDatasets"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbDriver. يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح مجموعات البيانات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/canopendatasets/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/canopendatasets/
 public override bool CanOpenDatasets { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح مجموعات البيانات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

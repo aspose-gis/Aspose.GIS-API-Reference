@@ -1,44 +1,44 @@
 ---
-title: Class LineLabelPlacement
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.LineLabelPlacement فصل. وضع تسمية الخط يضع التسميات على طول الخط.
+title: "الفئة LineLabelPlacement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.Labelings.LineLabelPlacement. يضع وضع تسمية الخط التسميات على طول الخط."
 type: docs
-weight: 1650
+weight: 4100
 url: /ar/net/aspose.gis.rendering.labelings/linelabelplacement/
 ---
 ## LineLabelPlacement class
 
-وضع تسمية الخط يضع التسميات على طول الخط.
+موضع تسمية الخط يضع التسميات على طول الخط.
 
 ```csharp
 public class LineLabelPlacement : LabelPlacement
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LineLabelPlacement](linelabelplacement/#constructor)() | يخلق مثيل جديد. |
-| [LineLabelPlacement](linelabelplacement/#constructor_1)(LineLabelPlacement) | يخلق مثيل جديد. |
+| [LineLabelPlacement](linelabelplacement/#constructor)() | ينشئ مثيلًا جديدًا. |
+| [LineLabelPlacement](linelabelplacement/#constructor_1)(LineLabelPlacement) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Alignment](../../aspose.gis.rendering.labelings/linelabelplacement/alignment/) { get; set; } | يحدد كيفية محاذاة التسمية مع المسار الخطي. الافتراضي هوParallel . |
-| [MaxAngleDelta](../../aspose.gis.rendering.labelings/linelabelplacement/maxangledelta/) { get; set; } | عند استخدامها مع ملفاتCurvedيضبط الحد الأقصى للزاوية بالدرجات بين 2 حرفًا متتاليًا في تسمية منحنية. الافتراضي هو 25. |
-| [Offset](../../aspose.gis.rendering.labelings/linelabelplacement/offset/) { get; set; } | الإزاحة من المسار الخطي. إزاحة القيم الموجبة إلى يسار السطر والسالبة إلى اليمين. الافتراضي هو 0. |
+| [Alignment](../../aspose.gis.rendering.labelings/linelabelplacement/alignment/) { get; set; } | يحدد كيفية محاذاة التسمية مع المسار الخطي. القيمة الافتراضية هي موازٍ. |
+| [MaxAngleDelta](../../aspose.gis.rendering.labelings/linelabelplacement/maxangledelta/) { get; set; } | عند الاستخدام مع Curved يحدد الحد الأقصى للزاوية بالدرجات بين حرفين متتاليين في تسمية منحنية. القيمة الافتراضية هي 25. |
+| [Offset](../../aspose.gis.rendering.labelings/linelabelplacement/offset/) { get; set; } | الإزاحة من المسار الخطي. القيم الموجبة تُزيح إلى يسار الخط، والقيم السالبة إلى اليمين. القيمة الافتراضية هي 0. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Clone](../../aspose.gis.rendering.labelings/linelabelplacement/clone/)() | استنساخ هذا المثال . |
+| override [Clone](../../aspose.gis.rendering.labelings/linelabelplacement/clone/)() | ينسخ هذا الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelPlacement](../labelplacement/)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

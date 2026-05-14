@@ -1,14 +1,14 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.XAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystemParameters ملكية. محور SRS لمركز الأرض يصف البعد X المحور الذي يشير إلى خط الزوال الرئيسي.
+title: "GeocentricSpatialReferenceSystemParameters.XAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeocentricSpatialReferenceSystemParameters. المحور في نظام الإحداثيات المرجعي الجيوسنترى الذي يصف محور البعد X الذي يشير إلى خط الطول الرئيسي"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis/
 ---
 ## GeocentricSpatialReferenceSystemParameters.XAxis property
 
-محور SRS لمركز الأرض يصف البعد "X" (المحور الذي يشير إلى خط الزوال الرئيسي).
+محور نظام إسناد جغرافي مركزي الذي يصف البعد 'X' (المحور الذي يشير إلى خط الطول الرئيسي).
 
 ```csharp
 public Axis XAxis { get; set; }
@@ -16,15 +16,15 @@ public Axis XAxis { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | اتجاه المحور ليس كذلكOther . |
+| ArgumentException | اتجاه المحور ليس Other. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../../axis/)
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

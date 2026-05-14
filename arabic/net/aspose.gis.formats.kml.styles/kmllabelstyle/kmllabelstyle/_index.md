@@ -1,23 +1,23 @@
 ---
-title: KmlLabelStyle.KmlLabelStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlLabelStyle البناء. Default_Constructor
+title: "KmlLabelStyle.KmlLabelStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlLabelStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmllabelstyle/kmllabelstyle/
 ---
 ## KmlLabelStyle constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlLabelStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlLabelStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmllabelstyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmllabelstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: CompoundSpatialReferenceSystem.PrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. قم بإرجاع خط الطول الأولي لهذا SRS. إذا كان كلاهماHead وTail لديك خط الزوال الرئيسي  إرجاع خط الزوال الرئيسي للرأس.
+title: "CompoundSpatialReferenceSystem.PrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. إرجاع خط الزوال الأساسي لهذا الـ SRS. إذا كان كل من Head و Tail يحتويان على خط الزوال الأساسي - إرجاع خط الزوال الأساسي للـ Head"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/primemeridian/
 ---
 ## CompoundSpatialReferenceSystem.PrimeMeridian property
 
-قم بإرجاع خط الطول الأولي لهذا SRS. إذا كان كلاهما[`Head`](../head/) و[`Tail`](../tail/) لديك خط الزوال الرئيسي - إرجاع خط الزوال الرئيسي للرأس.
+إرجاع خط الزوال الأساسي لهذا الـ SRS. إذا كان كل من [`Head`](../head/) و [`Tail`](../tail/) يحتويان على خط الزوال الأساسي - إرجاع خط الزوال الأساسي للـ Head.
 
 ```csharp
 public override PrimeMeridian PrimeMeridian { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrimeMeridian](../../primemeridian/)
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

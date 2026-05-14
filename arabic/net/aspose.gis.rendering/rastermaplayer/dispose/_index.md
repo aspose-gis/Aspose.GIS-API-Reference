@@ -1,23 +1,23 @@
 ---
-title: RasterMapLayer.Dispose
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterMapLayer طريقة. التخلص من الموارد.
+title: "RasterMapLayer.Dispose"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterMapLayer. تحرّر الموارد"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering/rastermaplayer/dispose/
 ---
 ## RasterMapLayer.Dispose method
 
-التخلص من الموارد.
+يحرّر الموارد.
 
 ```csharp
 public override void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterMapLayer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../rastermaplayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../rastermaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

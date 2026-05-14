@@ -1,24 +1,24 @@
 ---
-title: MarkerPatternFill.Marker
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerPatternFill ملكية. يحدد رمز العلامة للتعبئة.
+title: "MarkerPatternFill.Marker"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerPatternFill. تحدد الـmarker symbolizer للتعبئة."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/marker/
 ---
 ## MarkerPatternFill.Marker property
 
-يحدد رمز العلامة للتعبئة.
+يحدد مُرمّز العلامة للتعبئة.
 
 ```csharp
 public VectorSymbolizer Marker { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [MarkerPatternFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 

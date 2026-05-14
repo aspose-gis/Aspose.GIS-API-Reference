@@ -1,36 +1,36 @@
 ---
-title: FileGdbDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbDriver طريقة. تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+title: "FileGdbDriver.SupportsSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileGdbDriver. تحدد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من السائق"
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/supportsspatialreferencesystem/
 ---
 ## FileGdbDriver.SupportsSpatialReferenceSystem method
 
-تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل.
 
 ```csharp
 public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان السائق يدعم نظام الإسناد المكاني المحدد.
+قيمة منطقية، تشير إلى ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق.
 
-### ملاحظات
+## ملاحظات
 
-تدعم قاعدة البيانات الجغرافية لملف ESRI جميع أنظمة الإسناد المكاني.
+قاعدة بيانات ESRI File Geodatabase تدعم جميع أنظمة الإسناد المكاني.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [FileGdbDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,31 +1,31 @@
 ---
-title: Measurement.Pixels
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement طريقة. إرجاع مثيل جديد منقياس التي تمثل الطول بالبكسل.
+title: "Measurement.Pixels"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بوحدات البكسل"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering/measurement/pixels/
 ---
 ## Measurement.Pixels method
 
-إرجاع مثيل جديد من`قياس` التي تمثل الطول بالبكسل.
+يعيد نسخة جديدة من `Measurement` تمثل الطول بالبكسل.
 
 ```csharp
 public static Measurement Pixels(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | عدد البكسل. |
+| قيمة | Double | عدد البكسلات. |
 
 ### قيمة الإرجاع
 
-مثيل جديد من`قياس` فصل.
+نسخة جديدة من الفئة `Measurement`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

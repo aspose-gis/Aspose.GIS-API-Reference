@@ -1,24 +1,24 @@
 ---
-title: Drivers.GeoJson
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لتنسيق GeoJSON .
+title: "Drivers.GeoJson"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل لتنسيق GeoJSON"
 type: docs
-weight: 60
+weight: 70
 url: /ar/net/aspose.gis/drivers/geojson/
 ---
 ## Drivers.GeoJson property
 
-برنامج تشغيل لتنسيق GeoJSON .
+برنامج تشغيل لتنسيق GeoJSON.
 
 ```csharp
 public static GeoJsonDriver GeoJson { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeoJsonDriver](../../../aspose.gis.formats.geojson/geojsondriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

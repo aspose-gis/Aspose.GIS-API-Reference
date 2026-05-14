@@ -1,40 +1,40 @@
 ---
-title: Class GeographicSpatialReferenceSystemParameters
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.GeographicSpatialReferenceSystemParameters فصل. معلمات لإنشاء SRS الجغرافي . تحتوي المعلمات على قيم افتراضية معقولة  لذلك سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيينnull إلى أي معلمة  سيتم استخدام قيمة افتراضية.
+title: "الفئة GeographicSpatialReferenceSystemParameters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.SpatialReferencing.GeographicSpatialReferenceSystemParameters. المعلمات لإنشاء SRS جغرافي. تحتوي المعلمات على قيم افتراضية معقولة لذا سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيين null لأي معلمة سيتم استخدام القيمة الافتراضية."
 type: docs
-weight: 2140
+weight: 4590
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/
 ---
 ## GeographicSpatialReferenceSystemParameters class
 
-معلمات لإنشاء SRS الجغرافي . تحتوي المعلمات على قيم افتراضية معقولة ، لذلك سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيين`null` إلى أي معلمة ، سيتم استخدام قيمة افتراضية.
+معلمات لإنشاء نظام إسناد جغرافي. المعلمات لها قيم افتراضية معقولة، لذا سيتعين عليك تعيين بعضها فقط. إذا قمت بتعيين `null` لأي معلمة، سيتم استخدام القيمة الافتراضية.
 
 ```csharp
 public class GeographicSpatialReferenceSystemParameters
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GeographicSpatialReferenceSystemParameters](geographicspatialreferencesystemparameters/)() | Default_Constructor |
+| [GeographicSpatialReferenceSystemParameters](geographicspatialreferencesystemparameters/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AngularUnit](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit/) { get; set; } | الوحدات التي سيتم استخدامها في SRS. الافتراضي هو[`Degree`](../unit/degree/) . |
-| [AxisesOrder](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder/) { get; set; } | ترتيب المحاور. افتراضات إلىLongitudeLatitude . |
-| [Datum](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum/) { get; set; } | بيانات SRS الجغرافية. الافتراضي هو[`Wgs84`](../geographicdatum/wgs84/) . |
-| [LatitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/latitudeaxis/) { get; set; } | المحور الذي يصف خط العرض. الافتراضيات هي محور باتجاه الشمال . |
-| [LongitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/longitudeaxis/) { get; set; } | المحور الذي يصف خط الطول. الافتراضي هو المحور باتجاه الشرق . |
-| [Name](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/name/) { get; set; } | اسم SRS الجغرافي. الافتراضي هو "بدون اسم" . |
-| [PrimeMeridian](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/primemeridian/) { get; set; } | خط الطول الرئيسي لهذا SRS. الافتراضي هو[`Greenwich`](../primemeridian/greenwich/) . |
+| [AngularUnit](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/angularunit/) { get; set; } | الوحدات المستخدمة في هذا SRS. الافتراضي هو [`Degree`](../unit/degree/). |
+| [AxisesOrder](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder/) { get; set; } | ترتيب المحاور. الافتراضي هو LongitudeLatitude. |
+| [Datum](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum/) { get; set; } | المرجع الجغرافي لـ SRS. الافتراضي هو [`Wgs84`](../geographicdatum/wgs84/). |
+| [LatitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/latitudeaxis/) { get; set; } | المحور الذي يصف خط العرض. الافتراضي هو محور باتجاه الشمال. |
+| [LongitudeAxis](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/longitudeaxis/) { get; set; } | المحور الذي يصف خط الطول. الافتراضي هو محور باتجاه الشرق. |
+| [Name](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/name/) { get; set; } | اسم الـ SRS الجغرافي. الافتراضي هو "Unnamed". |
+| [PrimeMeridian](../../aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/primemeridian/) { get; set; } | خط الطول الرئيسي لهذا النظام. القيمة الافتراضية هي [`Greenwich`](../primemeridian/greenwich/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

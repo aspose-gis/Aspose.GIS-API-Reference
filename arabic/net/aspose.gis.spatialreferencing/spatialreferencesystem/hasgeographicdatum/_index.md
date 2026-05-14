@@ -1,23 +1,23 @@
 ---
-title: SpatialReferenceSystem.HasGeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. تحديد ما إذا كان SRS يحتوي على بيانات جغرافية.
+title: "SpatialReferenceSystem.HasGeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تحدد ما إذا كان هذا الـ SRS يحتوي على مرجع جغرافي. هذا صحيح لكل نظام إحداثيات جغرافي إسقاطي ومركزي."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/hasgeographicdatum/
 ---
 ## SpatialReferenceSystem.HasGeographicDatum property
 
-تحديد ما إذا كان SRS يحتوي على بيانات جغرافية.
+يحدد ما إذا كان لهذا SRS مرجع جغرافي. هذا صحيح لكل SRS جغرافي أو مسقّط أو مركزي.
 
 ```csharp
 public abstract bool HasGeographicDatum { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

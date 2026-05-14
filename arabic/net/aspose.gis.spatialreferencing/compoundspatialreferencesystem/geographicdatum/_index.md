@@ -1,24 +1,24 @@
 ---
-title: CompoundSpatialReferenceSystem.GeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. قم بإرجاع البيانات الجغرافية لهذا SRS. إذا كان كلاهماHead وTail لديك مسند جغرافي  قم بإرجاع البيانات الجغرافية للرأس .
+title: "CompoundSpatialReferenceSystem.GeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. إرجاع المرجع الجغرافي لهذا الـ SRS. إذا كان كل من Head و Tail يحتويان على مرجع جغرافي - إرجاع المرجع الجغرافي للـ Head"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/geographicdatum/
 ---
 ## CompoundSpatialReferenceSystem.GeographicDatum property
 
-قم بإرجاع البيانات الجغرافية لهذا SRS. إذا كان كلاهما[`Head`](../head/) و[`Tail`](../tail/) لديك مسند جغرافي - قم بإرجاع البيانات الجغرافية للرأس .
+إرجاع البيانات الجغرافية لهذا النظام المرجعي المكاني. إذا كان كل من [`Head`](../head/) و[`Tail`](../tail/) يحتويان على بيانات جغرافية - إرجاع البيانات الجغرافية للـ head.
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../../geographicdatum/)
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

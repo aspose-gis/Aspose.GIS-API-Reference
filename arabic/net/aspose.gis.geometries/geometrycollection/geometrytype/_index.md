@@ -1,28 +1,28 @@
 ---
-title: GeometryCollection.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection ملكية. يحصل على نوع الهندسة .
+title: "GeometryCollection.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeometryCollection. تحصل على نوع الهندسة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/geometrycollection/geometrytype/
 ---
 ## GeometryCollection.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

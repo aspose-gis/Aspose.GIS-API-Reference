@@ -1,24 +1,24 @@
 ---
-title: WarpOptions.TargetExtent
-second_title: Aspose.GIS لمرجع .NET API
-description: WarpOptions ملكية. يحدد حدود طبقة البيانات النقطية للالتواء . إذا تم الضبط علىnull  يتم حساب المدى أثناء الالتواء لتضمين جميع الخلايا من البيانات النقطية.
+title: "WarpOptions.TargetExtent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية WarpOptions. تحدد حدود طبقة الراستر التي سيتم تشويهها. إذا تم تعيينها إلى null يتم حساب الامتداد أثناء التشويه لتضمين جميع الخلايا من الراستر"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.raster/warpoptions/targetextent/
 ---
 ## WarpOptions.TargetExtent property
 
-يحدد حدود طبقة البيانات النقطية للالتواء . إذا تم الضبط على`null` ، يتم حساب المدى أثناء الالتواء لتضمين جميع الخلايا من البيانات النقطية.
+يحدد حدود طبقة الرستر للتشويه. إذا تم ضبطها على `null`، يتم حساب الامتداد أثناء التشويه لتضمين جميع الخلايا من الرستر.
 
 ```csharp
 public Extent TargetExtent { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../../../aspose.gis/extent/)
 * class [WarpOptions](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../warpoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

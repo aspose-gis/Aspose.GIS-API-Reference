@@ -1,7 +1,7 @@
 ---
-title: MarkerLine.RotateMarkers
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerLine ملكية. يحدد ما إذا كان يجب تدوير العلامات على طول الخط.
+title: "MarkerLine.RotateMarkers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerLine. تحدد ما إذا كان يجب تدوير العلامات على طول الخط"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering.symbolizers/markerline/rotatemarkers/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.rendering.symbolizers/markerline/rotatemarkers/
 public bool RotateMarkers { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MarkerLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
+* assembly [Aspose.GIS](../../../)
 
 

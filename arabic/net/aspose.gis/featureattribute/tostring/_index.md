@@ -1,14 +1,14 @@
 ---
-title: FeatureAttribute.ToString
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute طريقة. إرجاع سلسلة تمثل الكائن الحالي.
+title: "FeatureAttribute.ToString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeatureAttribute. تُرجع سلسلة تمثل الكائن الحالي"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.gis/featureattribute/tostring/
 ---
 ## FeatureAttribute.ToString method
 
-إرجاع سلسلة تمثل الكائن الحالي.
+يعيد سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -18,10 +18,10 @@ public override string ToString()
 
 سلسلة تمثل الكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

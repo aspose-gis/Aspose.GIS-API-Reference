@@ -1,23 +1,23 @@
 ---
-title: KmlListStyle.KmlListStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlListStyle البناء. Default_Constructor
+title: "KmlListStyle.KmlListStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlListStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/kmlliststyle/
 ---
 ## KmlListStyle constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlListStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlListStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlliststyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlliststyle/)
+* assembly [Aspose.GIS](../../../)
 
 

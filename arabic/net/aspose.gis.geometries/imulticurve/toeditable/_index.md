@@ -1,14 +1,14 @@
 ---
-title: IMultiCurve.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: IMultiCurve طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "IMultiCurve.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IMultiCurve. يحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/imulticurve/toeditable/
 ---
 ## IMultiCurve.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public MultiCurve ToEditable()
@@ -16,13 +16,13 @@ public MultiCurve ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiCurve](../../multicurve/)
 * interface [IMultiCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../imulticurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../imulticurve/)
+* assembly [Aspose.GIS](../../../)
 
 

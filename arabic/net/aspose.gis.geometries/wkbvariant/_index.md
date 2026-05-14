@@ -1,30 +1,30 @@
 ---
-title: Enum WkbVariant
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.WkbVariant تعداد. متغير المعروف جيدًا ثنائي
+title: "تعداد WkbVariant"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "تعداد Aspose.Gis.Geometries.WkbVariant. المتغيّر الخاص بـ WellKnown Binary"
 type: docs
-weight: 1220
+weight: 3000
 url: /ar/net/aspose.gis.geometries/wkbvariant/
 ---
 ## WkbVariant enumeration
 
-متغير المعروف جيدًا ثنائي
+الصيغة من Well-Known Binary
 
 ```csharp
 public enum WkbVariant
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SimpleFeatureAccessOutdated | `0` | ثنائي معروف متوافق مع مواصفات الوصول إلى الميزة البسيطة ، الإصدار 1.1. |
-| Iso | `1` | ثنائي معروف متوافق مع معيار ISO "حزم الوسائط المتعددة والتطبيق SQL - الجزء 3: المكاني" و مواصفات الوصول إلى الميزة البسيطة ، الإصدار 1.2. |
-| ExtendedPostGis | `2` | متغير ثنائي موسع معروف جيدًا تم تصميمه بواسطة PostGIS والذي يقوم بتصدير معرف نظام الإسناد المكاني (رمز EPSG) . |
+| SimpleFeatureAccessOutdated | `0` | Well-Known Binary المتوافق مع مواصفة Simple Feature Access، الإصدار 1.1. |
+| Iso | `1` | Well-Known Binary المتوافق مع المعيار ISO "SQL Multimedia and application packages - Part 3: Spatial" ومواصفة Simple Feature Access، الإصدار 1.2. |
+| ExtendedPostGis | `2` | متغيّر Extended Well-Known Binary المصمم بواسطة PostGIS والذي يصدر معرف نظام الإحداثيات المرجعي (كود EPSG). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

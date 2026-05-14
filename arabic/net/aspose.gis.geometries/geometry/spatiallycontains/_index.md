@@ -1,50 +1,50 @@
 ---
-title: Geometry.SpatiallyContains
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. لتحديد ما إذا كانت هذه الهندسة تحتوي مكانيًا على هندسة محددة.
+title: "Geometry.SpatiallyContains"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحدد ما إذا كان هذا الشكل الهندسي يحتوي مكانيًا على شكل هندسي محدد."
 type: docs
 weight: 360
 url: /ar/net/aspose.gis.geometries/geometry/spatiallycontains/
 ---
 ## Geometry.SpatiallyContains method
 
-لتحديد ما إذا كانت هذه الهندسة تحتوي مكانيًا على هندسة محددة.
+يحدد ما إذا كانت هذه الهندسة تحتوي مكانيًا على هندسة محددة.
 
 ```csharp
 public bool SpatiallyContains(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true`إذا كانت هذه الهندسة "تحتوي مكانيًا" على هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كان هذا الشكل الهندسي "يحتوي مكانيًا" على شكل هندسي آخر. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت هندسة ما تحتوي على أخرى من حيث مصفوفة تقاطع DE-9IM. هذه الطريقة تعادل:
+هذه الطريقة تختبر ما إذا كان شكل هندسي يحتوي على آخر من حيث مصفوفة تقاطع DE-9IM. هذه الطريقة تعادل:
 
 ```csharp
 other.Within(this);
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [Within](../../igeometry/within/)
 * method [Covers](../../igeometry/covers/)
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

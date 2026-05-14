@@ -1,30 +1,30 @@
 ---
-title: Enum AutoIds
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.AutoIds تعداد. إنشاء المعرفات تلقائيًا .
+title: "التعداد AutoIds"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.AutoIds. إنشاء معرفات تلقائيًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/autoids/
 ---
 ## AutoIds enumeration
 
-إنشاء المعرفات تلقائيًا .
+إنشاء معرفات تلقائيًا.
 
 ```csharp
 public enum AutoIds
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | إخفاء معرّفات السيارات. |
-| Number | `1` | زيادة الرقم التعريفي. |
-| Guid | `2` | إنشاء معرّفات الدليل. |
+| None | `0` | إخفاء المعرفات التلقائية. |
+| Number | `1` | زيادة معرفات الأرقام. |
+| Guid | `2` | إنشاء معرفات GUID. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,33 +1,33 @@
 ---
-title: Enum MarkerShapeType
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.MarkerShapeType تعداد. نوع شكل العلامة .
+title: "التعداد MarkerShapeType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Rendering.Symbolizers.MarkerShapeType. نوع الشكل للعلامة."
 type: docs
-weight: 1870
+weight: 4320
 url: /ar/net/aspose.gis.rendering.symbolizers/markershapetype/
 ---
 ## MarkerShapeType enumeration
 
-نوع شكل العلامة .
+نوع الشكل للعلامة.
 
 ```csharp
 public enum MarkerShapeType
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Circle | `0` | شكل دائري. |
+| Circle | `0` | شكل دائرة. |
 | Triangle | `1` | شكل مثلث. |
 | Square | `2` | شكل مربع. |
 | Star | `3` | شكل نجمة. |
-| Cross | `4` | عبر الشكل. |
-| X | `5` | شكل الحرف "X". |
+| Cross | `4` | شكل صليب. |
+| X | `5` | شكل حرف 'X'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: GmlOptions.GmlOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: GmlOptions البناء. إنشاء مثيل جديد .
+title: "GmlOptions.GmlOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GmlOptions. إنشاء مثيل جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.gml/gmloptions/gmloptions/
 ---
 ## GmlOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public GmlOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gml](../../gmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gml](../../gmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

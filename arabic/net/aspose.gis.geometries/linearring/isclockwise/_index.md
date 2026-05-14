@@ -1,14 +1,14 @@
 ---
-title: LinearRing.IsClockwise
-second_title: Aspose.GIS لمرجع .NET API
-description: LinearRing طريقة. يحدد ما إذا كانت الحلقة متعرجة في اتجاه عقارب الساعة.
+title: "LinearRing.IsClockwise"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LinearRing. تحدد ما إذا كان الحلقة تدور باتجاه عقارب الساعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/linearring/isclockwise/
 ---
 ## LinearRing.IsClockwise method
 
-يحدد ما إذا كانت الحلقة متعرجة في اتجاه عقارب الساعة.
+يحدد ما إذا كانت الحلقة لها دوران باتجاه عقارب الساعة.
 
 ```csharp
 public bool IsClockwise()
@@ -16,16 +16,16 @@ public bool IsClockwise()
 
 ### قيمة الإرجاع
 
-`true` إذا في اتجاه عقارب الساعة خلاف ذلك`false`.
+`true` إذا كان باتجاه عقارب الساعة؛ وإلا `false`.
 
-### ملاحظات
+## ملاحظات
 
-إذا كانت الحلقة الخطية غير صالحة (على سبيل المثال هي متقاطعة ذاتيًا) ، تكون نتيجة الوظيفة غير محددة.
+إذا كان الحلقة الخطية غير صالحة (على سبيل المثال إذا كانت تتقاطع مع نفسها)، فإن نتيجة الدالة تكون غير معرفة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearRing](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linearring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linearring/)
+* assembly [Aspose.GIS](../../../)
 
 

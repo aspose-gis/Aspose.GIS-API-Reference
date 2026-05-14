@@ -1,14 +1,14 @@
 ---
-title: WebTile.AsPath
-second_title: Aspose.GIS لمرجع .NET API
-description: WebTile طريقة. يعرض محتوى اللوحة على هيئة عنوان Url أو مسار لملف.
+title: "WebTile.AsPath"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة WebTile. تعرض محتوى البلطة كعنوان URL أو مسار إلى ملف."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster.web/webtile/aspath/
 ---
 ## WebTile.AsPath method
 
-يعرض محتوى اللوحة على هيئة عنوان Url أو مسار لملف.
+يعرض محتوى البلطة كعنوان URL أو مسار إلى ملف.
 
 ```csharp
 public abstract string AsPath()
@@ -16,12 +16,12 @@ public abstract string AsPath()
 
 ### قيمة الإرجاع
 
-عنوان Url أو المسار إلى ملف
+عنوان URL أو مسار إلى ملف
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WebTile](../)
-* مساحة الاسم [Aspose.Gis.Raster.Web](../../webtile/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster.Web](../../webtile/)
+* assembly [Aspose.GIS](../../../)
 
 

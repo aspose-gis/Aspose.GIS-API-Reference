@@ -1,23 +1,23 @@
 ---
-title: GeocentricSpatialReferenceSystem.HasPrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystem ملكية. عودةtrue  نظرًا لأن SRS مركزية الأرض يكون دائمًا خط الزوال الرئيسي.
+title: "GeocentricSpatialReferenceSystem.HasPrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeocentricSpatialReferenceSystem. إرجاع true لأن SRS الجيوسنترى دائمًا يحتوي على خط الزوال الرئيسي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/hasprimemeridian/
 ---
 ## GeocentricSpatialReferenceSystem.HasPrimeMeridian property
 
-عودة`true` ، نظرًا لأن SRS مركزية الأرض يكون دائمًا خط الزوال الرئيسي.
+يرجع `true`، لأن geocentric SRS دائمًا ما يكون له prime meridian.
 
 ```csharp
 public override bool HasPrimeMeridian { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeocentricSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

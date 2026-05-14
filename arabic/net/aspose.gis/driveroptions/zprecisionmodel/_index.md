@@ -1,24 +1,24 @@
 ---
-title: DriverOptions.ZPrecisionModel
-second_title: Aspose.GIS لمرجع .NET API
-description: DriverOptions ملكية. أPrecisionModel التي سيتم تطبيقها على Z إحداثيات عند إضافة الأشكال الهندسية إلىVectorLayer أو عندما يتم قراءتها منVectorLayer . القيمة الافتراضية هيExact .
+title: "DriverOptions.ZPrecisionModel"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية DriverOptions. نموذج الدقة PrecisionModel الذي سيُطبق على إحداثي Z عندما تُضاف الأشكال الهندسية إلى VectorLayer أو عندما تُقرأ من VectorLayer. القيمة الافتراضية هي Exact"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis/driveroptions/zprecisionmodel/
 ---
 ## DriverOptions.ZPrecisionModel property
 
-أ[`PrecisionModel`](../../precisionmodel/) التي سيتم تطبيقها على Z إحداثيات عند إضافة الأشكال الهندسية إلى[`VectorLayer`](../../vectorlayer/) أو عندما يتم قراءتها من[`VectorLayer`](../../vectorlayer/) . القيمة الافتراضية هي[`Exact`](../../precisionmodel/exact/) .
+نموذج الدقة [`PrecisionModel`](../../precisionmodel/) الذي سيُطبق على إحداثي Z عندما تُضاف الأشكال الهندسية إلى [`VectorLayer`](../../vectorlayer/) أو عندما تُقرأ من [`VectorLayer`](../../vectorlayer/). القيمة الافتراضية هي [`Exact`](../../precisionmodel/exact/).
 
 ```csharp
 public PrecisionModel ZPrecisionModel { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../../precisionmodel/)
 * class [DriverOptions](../)
-* مساحة الاسم [Aspose.Gis](../../driveroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

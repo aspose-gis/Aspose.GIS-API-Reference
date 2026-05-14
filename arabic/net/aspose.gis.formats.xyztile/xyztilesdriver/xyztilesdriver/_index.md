@@ -1,23 +1,23 @@
 ---
-title: XyzTilesDriver.XyzTilesDriver
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzTilesDriver البناء. Default_Constructor
+title: "XyzTilesDriver.XyzTilesDriver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ XyzTilesDriver. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.xyztile/xyztilesdriver/xyztilesdriver/
 ---
 ## XyzTilesDriver constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public XyzTilesDriver()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [XyzTilesDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

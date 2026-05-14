@@ -1,34 +1,34 @@
 ---
-title: XyzTiles.GetTiles
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzTiles طريقة. تحميل المربعات بواسطة مربع الإحاطة المكاني ومستوى التكبير / التصغير.
+title: "XyzTiles.GetTiles"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة XyzTiles. يحمل البلاط وفقًا لمربع الحد المكاني ومستوى التكبير"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.xyztile/xyztiles/gettiles/
 ---
 ## XyzTiles.GetTiles method
 
-تحميل المربعات بواسطة مربع الإحاطة المكاني ومستوى التكبير / التصغير.
+يحمّل البلاط وفقًا لمربع الحد المكاني ومستوى التكبير.
 
 ```csharp
 public IEnumerable<WebTile> GetTiles(int zoom, Extent extent)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| zoom | Int32 | مستوى التكبير لتحميل البلاط. أعلى مستوى للتكبير هو 0. معظم مزودي التجانب لديهم حوالي 22 مستوى تكبير كحد أقصى. |
-| extent | Extent | الصندوق المحيط لتحميل البلاط. سيتم استخدام الإسناد المكاني Wgs84 في حالة فقده. |
+| تكبير | Int32 | مستوى التكبير لتحميل البلاط. أعلى مستوى تكبير هو 0. معظم مزودي البلاط لديهم حوالي 22 مستوى تكبير كحد أقصى. |
+| مدى | مدى | مربع الحد لتحميل البلاط. سيتم استخدام مرجع الفضاء Wgs84 إذا تم فقدانه. |
 
 ### قيمة الإرجاع
 
 بلاط الويب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WebTile](../../../aspose.gis.raster.web/webtile/)
 * class [Extent](../../../aspose.gis/extent/)
 * class [XyzTiles](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
+* assembly [Aspose.GIS](../../../)
 
 

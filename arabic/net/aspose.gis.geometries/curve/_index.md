@@ -1,14 +1,14 @@
 ---
-title: Class Curve
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.Curve فصل. أCurve عبارة عن سلسلة من النقاط.
+title: "الفئة Curve"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Geometries.Curve. Curve هي تسلسل من النقاط."
 type: docs
-weight: 900
+weight: 2680
 url: /ar/net/aspose.gis.geometries/curve/
 ---
 ## Curve class
 
-أ`Curve` عبارة عن سلسلة من النقاط.
+`Curve` هي تسلسل من النقاط.
 
 ```csharp
 public abstract class Curve : Geometry, ICurve
@@ -16,76 +16,77 @@ public abstract class Curve : Geometry, ICurve
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CoordinateDimension](../../aspose.gis.geometries/geometry/coordinatedimension/) { get; } | الحصول على عدد أبعاد الإحداثي لهذا[`Geometry`](../geometry/) . |
-| [Dimension](../../aspose.gis.geometries/curve/dimension/) { get; } | يحصل على البعد الطوبولوجي لهذا[`Geometry`](../geometry/) . |
-| abstract [EndPoint](../../aspose.gis.geometries/curve/endpoint/) { get; } | إرجاع نسخة من نقطة نهاية المنحنى. |
-| abstract [GeometryType](../../aspose.gis.geometries/geometry/geometrytype/) { get; } | يحصل على نوع الهندسة . |
-| virtual [HasCurveGeometry](../../aspose.gis.geometries/geometry/hascurvegeometry/) { get; } | الحصول على قيمة تشير إلى ما إذا كانت هذه الهندسة عبارة عن هندسة منحنية (غير خطية) أو تحتوي عليها. |
-| virtual [HasM](../../aspose.gis.geometries/geometry/hasm/) { get; set; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات M. |
-| virtual [HasZ](../../aspose.gis.geometries/geometry/hasz/) { get; set; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يحتوي على إحداثيات Z. |
-| [IsClosed](../../aspose.gis.geometries/curve/isclosed/) { get; } | الحصول على قيم تشير إلى ما إذا كان المنحنى مغلقًا. يتم إغلاق المنحنى إذا كانت نقطة بدايته مساوية لنقطة النهاية. |
-| virtual [IsEmpty](../../aspose.gis.geometries/geometry/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا. |
-| [IsSimple](../../aspose.gis.geometries/geometry/issimple/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثال بسيطًا من وجهة نظر SFA. |
-| [IsValid](../../aspose.gis.geometries/geometry/isvalid/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا المثيل صالحًا. |
-| abstract [SpatialReferenceSystem](../../aspose.gis.geometries/geometry/spatialreferencesystem/) { get; set; } | يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصية`null` ، هل SpatialReferenceSystem غير معروف . لن يؤدي تعيين SpatialReferenceSystem الجديد أي تحويل إحداثي ، سيتغير المرجع فقط. |
-| abstract [StartPoint](../../aspose.gis.geometries/curve/startpoint/) { get; } | إرجاع نسخة من نقطة البداية للمنحنى. |
+| [CoordinateDimension](../../aspose.gis.geometries/geometry/coordinatedimension/) { get; } | يحصل على عدد أبعاد الإحداثيات لهذا [`Geometry`](../geometry/). |
+| [Dimension](../../aspose.gis.geometries/curve/dimension/) { get; } | يحصل على البعد الطوبولوجي لهذا [`Geometry`](../geometry/). |
+| abstract [EndPoint](../../aspose.gis.geometries/curve/endpoint/) { get; } | يعيد نسخة من نقطة النهاية للمنحنى. |
+| abstract [GeometryType](../../aspose.gis.geometries/geometry/geometrytype/) { get; } | يحصل على نوع الهندسة. |
+| virtual [HasCurveGeometry](../../aspose.gis.geometries/geometry/hascurvegeometry/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه الهندسة أو تحتوي على هندسة منحنية (غير خطية). |
+| virtual [HasM](../../aspose.gis.geometries/geometry/hasm/) { get; set; } | يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية M. |
+| virtual [HasZ](../../aspose.gis.geometries/geometry/hasz/) { get; set; } | يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية Z. |
+| [IsClosed](../../aspose.gis.geometries/curve/isclosed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان المنحنى مغلقاً. يكون المنحنى مغلقاً إذا كانت نقطة البداية مساوية لنقطة النهاية. |
+| virtual [IsEmpty](../../aspose.gis.geometries/geometry/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا. |
+| [IsSimple](../../aspose.gis.geometries/geometry/issimple/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن بسيطًا من منظور SFA. |
+| [IsValid](../../aspose.gis.geometries/geometry/isvalid/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن صالحًا. |
+| abstract [SpatialReferenceSystem](../../aspose.gis.geometries/geometry/spatialreferencesystem/) { get; set; } | يحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية `null` إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، بل سيتغير المرجع فقط. |
+| abstract [StartPoint](../../aspose.gis.geometries/curve/startpoint/) { get; } | يعيد نسخة من نقطة البداية للمنحنى. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AsBinary](../../aspose.gis.geometries/geometry/asbinary/)() | تترجم هذه الهندسة إلى تمثيلها الثنائي المعروف جيدًا. |
-| [AsBinary](../../aspose.gis.geometries/geometry/asbinary/)(WkbVariant) | تترجم هذه الهندسة إلى تمثيلها الثنائي المعروف جيدًا. |
-| [AsImage](../../aspose.gis.geometries/geometry/asimage/)(Measurement, Measurement, Renderer, VectorSymbolizer) | قم بتصدير هذه الهندسة إلى تمثيل صورة . |
-| [AsImage](../../aspose.gis.geometries/geometry/asimage/)(AbstractPath, Measurement, Measurement, Renderer, VectorSymbolizer) | قم بتصدير هذه الهندسة إلى تمثيل صورة . |
-| [AsImage](../../aspose.gis.geometries/geometry/asimage/)(string, Measurement, Measurement, Renderer, VectorSymbolizer) | قم بتصدير هذه الهندسة إلى تمثيل صورة . |
-| [AsText](../../aspose.gis.geometries/geometry/astext/)() | تترجم هذه الهندسة إلى تمثيلها النصي المعروف جيدًا. |
-| [AsText](../../aspose.gis.geometries/geometry/astext/)(WktVariant) | تترجم هذه الهندسة إلى تمثيلها النصي المعروف جيدًا. |
-| [AsText](../../aspose.gis.geometries/geometry/astext/)(WktVariant, NumericFormat) | تترجم هذه الهندسة إلى تمثيلها النصي المعروف جيدًا. |
-| abstract [Clone](../../aspose.gis.geometries/geometry/clone/)() | استنساخ هذا المثال . |
-| [CoveredBy](../../aspose.gis.geometries/geometry/coveredby/)(IGeometry) | لتحديد ما إذا كانت هذه الهندسة مغطاة بهندسة محددة. |
-| [Covers](../../aspose.gis.geometries/geometry/covers/)(IGeometry) | تحديد ما إذا كانت هذه الهندسة تغطي شكلًا هندسيًا محددًا. |
-| [Crosses](../../aspose.gis.geometries/geometry/crosses/)(IGeometry) | تحديد ما إذا كانت هذه الهندسة مع تقاطع هندسي محدد. |
-| [Difference](../../aspose.gis.geometries/geometry/difference/)(IGeometry) | يطرح هندسة محددة من هذه الهندسة . |
-| [Disjoint](../../aspose.gis.geometries/geometry/disjoint/)(IGeometry) | لتحديد ما إذا كانت هذه الهندسة منفصلة عن هندسة محددة. |
-| [GetArea](../../aspose.gis.geometries/geometry/getarea/)() | حساب مساحة هذه الهندسة . |
-| [GetBuffer](../../aspose.gis.geometries/geometry/getbuffer/)(double, int) | حساب منطقة عازلة حول هذه الهندسة . |
-| [GetCentroid](../../aspose.gis.geometries/geometry/getcentroid/)() | يحسب النقطه الوسطى لهذه الهندسة. |
-| [GetConvexHull](../../aspose.gis.geometries/geometry/getconvexhull/)() | يحسب الهيكل المحدب لهذه الهندسة. |
-| [GetDistanceTo](../../aspose.gis.geometries/geometry/getdistanceto/)(IGeometry) | حساب الحد الأدنى للمسافة بين هذه الهندسة والهندسة المحددة. |
-| [GetExtent](../../aspose.gis.geometries/geometry/getextent/)() | حساب وإرجاع مدى محيط لهذه الهندسة . |
-| [GetLength](../../aspose.gis.geometries/geometry/getlength/)() | حساب طول هذه الهندسة . |
+| [AsBinary](../../aspose.gis.geometries/geometry/asbinary/)() | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary. |
+| [AsBinary](../../aspose.gis.geometries/geometry/asbinary/)(WkbVariant) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary. |
+| [AsImage](../../aspose.gis.geometries/geometry/asimage/)(Measurement, Measurement, Renderer, VectorSymbolizer) | يصدّر هذه الهندسة إلى تمثيل صورة. |
+| [AsImage](../../aspose.gis.geometries/geometry/asimage/)(AbstractPath, Measurement, Measurement, Renderer, VectorSymbolizer) | يصدّر هذه الهندسة إلى تمثيل صورة. |
+| [AsImage](../../aspose.gis.geometries/geometry/asimage/)(string, Measurement, Measurement, Renderer, VectorSymbolizer) | يصدّر هذه الهندسة إلى تمثيل صورة. |
+| [AsText](../../aspose.gis.geometries/geometry/astext/)() | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text. |
+| [AsText](../../aspose.gis.geometries/geometry/astext/)(WktVariant) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text. |
+| [AsText](../../aspose.gis.geometries/geometry/astext/)(WktVariant, NumericFormat) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text. |
+| abstract [Clone](../../aspose.gis.geometries/geometry/clone/)() | ينسخ هذا الكائن. |
+| [CoveredBy](../../aspose.gis.geometries/geometry/coveredby/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة مغطاة بواسطة هندسة محددة. |
+| [Covers](../../aspose.gis.geometries/geometry/covers/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة تغطي هندسة محددة. |
+| [Crosses](../../aspose.gis.geometries/geometry/crosses/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة وهندسة محددة تتقاطع. |
+| [Difference](../../aspose.gis.geometries/geometry/difference/)(IGeometry) | يطرح هندسة محددة من هذه الهندسة. |
+| [Disjoint](../../aspose.gis.geometries/geometry/disjoint/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة منفصلة عن هندسة محددة. |
+| [GetArea](../../aspose.gis.geometries/geometry/getarea/)() | يحسب مساحة هذه الهندسة. |
+| [GetBuffer](../../aspose.gis.geometries/geometry/getbuffer/)(double, int) | يحسب منطقة عازلة حول هذه الهندسة. |
+| [GetCentroid](../../aspose.gis.geometries/geometry/getcentroid/)() | يحسب مركز الثقل لهذه الهندسة. |
+| [GetConvexHull](../../aspose.gis.geometries/geometry/getconvexhull/)() | يحسب الغلاف المحدب لهذه الهندسة. |
+| [GetDistanceTo](../../aspose.gis.geometries/geometry/getdistanceto/)(IGeometry) | يحسب الحد الأدنى للمسافة بين هذه الهندسة وهندسة محددة. |
+| [GetExtent](../../aspose.gis.geometries/geometry/getextent/)() | يحسب ويعيد نطاقًا محيطًا لهذه الهندسة. |
+| [GetLength](../../aspose.gis.geometries/geometry/getlength/)() | يحسب طول هذه الهندسة. |
 | [Intersection](../../aspose.gis.geometries/geometry/intersection/)(IGeometry) | يبني تقاطعًا بين هذه الهندسة وهندسة محددة. |
-| [Intersects](../../aspose.gis.geometries/geometry/intersects/)(Extent) | لتحديد ما إذا كانت هذه الهندسة تتقاطع مع حد معين. |
-| [Intersects](../../aspose.gis.geometries/geometry/intersects/)(IGeometry) | لتحديد ما إذا كانت هذه الهندسة والهندسة المحددة تتقاطع. |
-| [Overlaps](../../aspose.gis.geometries/geometry/overlaps/)(IGeometry) | تحديد ما إذا كان هذا الشكل الهندسي يتداخل مع شكل هندسي محدد. |
-| [Relate](../../aspose.gis.geometries/geometry/relate/)(IGeometry, string) | لتحديد ما إذا كانت مصفوفة تقاطع DE-9IM لهذه الهندسة والأشكال الهندسية المحددة تتطابق مع النمط المقدم. |
-| [ReplacePolygonsByLines](../../aspose.gis.geometries/geometry/replacepolygonsbylines/)() | الحصول على المضلعات ممثلة كخطوط لهذه الهندسة . |
-| abstract [Reverse](../../aspose.gis.geometries/curve/reverse/)() | يعكس هذا المنحنى . |
-| [RoundM](../../aspose.gis.geometries/geometry/roundm/)(int) | تنسق الجولات M لعدد محدد من الأرقام الكسرية. |
-| [RoundXY](../../aspose.gis.geometries/geometry/roundxy/)(int) | إحداثيات الدورتين X و Y لعدد محدد من الكسور. |
-| [RoundZ](../../aspose.gis.geometries/geometry/roundz/)(int) | تنسق الجولات Z إلى عدد محدد من الأرقام الكسرية. |
-| virtual [SetEmpty](../../aspose.gis.geometries/geometry/setempty/)() | يجعل هذا[`Geometry`](../geometry/) فارغ . |
-| [SpatiallyContains](../../aspose.gis.geometries/geometry/spatiallycontains/)(IGeometry) | لتحديد ما إذا كانت هذه الهندسة تحتوي مكانيًا على هندسة محددة. |
-| [SpatiallyEquals](../../aspose.gis.geometries/geometry/spatiallyequals/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة مساوية مكانيًا لهندسة محددة. |
-| [SymDifference](../../aspose.gis.geometries/geometry/symdifference/)(IGeometry) | يُنشئ فرقًا متماثلًا بين هذه الهندسة والهندسة المحددة . |
-| [ToEditable](../../aspose.gis.geometries/curve/toeditable/#toeditable)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. (2 methods) |
-| [ToEditable&lt;T&gt;](../../aspose.gis.geometries/geometry/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
-| [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/#tolineargeometry_2)() | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضي`تسامح` . (2 methods) |
-| [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/#tolineargeometry_3)(double) | الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام المحدد`تسامح` . (2 methods) |
-| override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
-| [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | لتحديد ما إذا كانت هذه الهندسة ولمسة هندسية محددة. |
-| [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | يوحد هذه الهندسة والهندسة المحددة. |
-| [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | لتحديد ما إذا كانت هذه الهندسة ضمن نطاق محدد. |
-| [Within](../../aspose.gis.geometries/geometry/within/)(IGeometry) | لتحديد ما إذا كانت هذه الهندسة ضمن هندسة محددة. |
+| [Intersects](../../aspose.gis.geometries/geometry/intersects/)(Extent) | يحدد ما إذا كانت هذه الهندسة تتقاطع مع نطاق محدد. |
+| [Intersects](../../aspose.gis.geometries/geometry/intersects/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة وهندسة محددة تتقاطع. |
+| [Overlaps](../../aspose.gis.geometries/geometry/overlaps/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة تتداخل مع هندسة محددة. |
+| [Relate](../../aspose.gis.geometries/geometry/relate/)(IGeometry, string) | يحدد ما إذا كانت مصفوفة تقاطع DE-9IM لهذه الهندسة وهندسة محددة تطابق النمط المقدم. |
+| [ReplacePolygonsByLines](../../aspose.gis.geometries/geometry/replacepolygonsbylines/)() | يحصل على المضلعات الممثلة كخطوط لهذه الهندسة. |
+| abstract [Reverse](../../aspose.gis.geometries/curve/reverse/)() | يعكس هذا المنحنى. |
+| [RoundM](../../aspose.gis.geometries/geometry/roundm/)(int) | يقرب إحداثي M إلى عدد محدد من الأرقام العشرية. |
+| [RoundXY](../../aspose.gis.geometries/geometry/roundxy/)(int) | يقرب إحداثيات X و Y إلى عدد محدد من الأرقام العشرية. |
+| [RoundZ](../../aspose.gis.geometries/geometry/roundz/)(int) | يقرب إحداثي Z إلى عدد محدد من الأرقام العشرية. |
+| virtual [SetEmpty](../../aspose.gis.geometries/geometry/setempty/)() | يجعل هذا [`Geometry`](../geometry/) فارغًا. |
+| [SpatiallyContains](../../aspose.gis.geometries/geometry/spatiallycontains/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة تحتوي مكانيًا على هندسة محددة. |
+| [SpatiallyEquals](../../aspose.gis.geometries/geometry/spatiallyequals/)(IGeometry) | يحدد ما إذا كانت هذه الهندسة مكافئة مكانيًا لهندسة محددة. |
+| [SymDifference](../../aspose.gis.geometries/geometry/symdifference/)(IGeometry) | يبني فرقًا متماثلًا بين هذه الهندسة وهندسة محددة. |
+| [ToEditable](../../aspose.gis.geometries/curve/toeditable/#toeditable)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. (طريقتان) |
+| [ToEditable&lt;T&gt;](../../aspose.gis.geometries/geometry/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
+| [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/#tolineargeometry_2)() | يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذا الشكل باستخدام `tolerance` الافتراضي. (طريقتان) |
+| [ToLinearGeometry](../../aspose.gis.geometries/curve/tolineargeometry/#tolineargeometry_3)(double) | يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذا الشكل باستخدام `tolerance` المحدد. (طريقتان) |
+| override [ToString](../../aspose.gis.geometries/geometry/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| [ToSvg](../../aspose.gis.geometries/geometry/tosvg/)(Extent) | يترجم هذا الشكل إلى تمثيل Svg. |
+| [Touches](../../aspose.gis.geometries/geometry/touches/)(IGeometry) | يحدد ما إذا كان هذا الشكل وشكل محدد يلامسان بعضهما. |
+| [Union](../../aspose.gis.geometries/geometry/union/)(IGeometry) | يوحد هذا الشكل وشكلًا محددًا. |
+| [Within](../../aspose.gis.geometries/geometry/within/)(Extent) | يحدد ما إذا كان هذا الشكل داخل نطاق محدد. |
+| [Within](../../aspose.gis.geometries/geometry/within/)(IGeometry) | يحدد ما إذا كان هذا الشكل داخل شكل محدد. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../geometry/)
 * interface [ICurve](../icurve/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

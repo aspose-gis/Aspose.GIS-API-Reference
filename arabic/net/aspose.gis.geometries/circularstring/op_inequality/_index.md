@@ -1,32 +1,32 @@
 ---
-title: CircularString.op_Inequality
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString طريقة. تنفذ عامل التشغيل  .
+title: "CircularString.op_Inequality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CircularString. ينفذ المشغل"
 type: docs
 weight: 210
 url: /ar/net/aspose.gis.geometries/circularstring/op_inequality/
 ---
 ## CircularString Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفذ العامل !=.
 
 ```csharp
 public static bool operator !=(CircularString a, CircularString b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | CircularString | المثال. |
-| b | CircularString | المثيل B. |
+| a | CircularString | الكائن A. |
+| b | CircularString | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

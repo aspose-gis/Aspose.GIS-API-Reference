@@ -1,23 +1,23 @@
 ---
-title: LocalSpatialReferenceSystem.AsLocal
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalSpatialReferenceSystem ملكية. إرجاع هذا .
+title: "LocalSpatialReferenceSystem.AsLocal"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LocalSpatialReferenceSystem. إرجاع هذا."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/aslocal/
 ---
 ## LocalSpatialReferenceSystem.AsLocal property
 
-إرجاع هذا .
+إرجاع هذا.
 
 ```csharp
 public override LocalSpatialReferenceSystem AsLocal { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LocalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

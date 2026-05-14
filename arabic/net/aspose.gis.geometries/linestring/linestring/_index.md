@@ -1,78 +1,78 @@
 ---
-title: LineString.LineString
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString البناء. يقوم بتهيئة مثيل جديد لملفLineString فئة .
+title: "LineString.LineString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ LineString. يهيئ نسخة جديدة من فئة LineString"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/linestring/linestring/
 ---
 ## LineString() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LineString`](../) فئة .
+يهيئ نسخة جديدة من فئة [`LineString`](../).
 
 ```csharp
 public LineString()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LineString(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`LineString`](../) فئة .
+يهيئ نسخة جديدة من فئة [`LineString`](../).
 
 ```csharp
 public LineString(IEnumerable<IPoint> collection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| collection | IEnumerable`1 | جمع النقاط. |
+| مجموعة | IEnumerable`1 | مجموعة النقاط. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | أي نقطة فارغة (لها[`IsEmpty`](../../igeometry/isempty/) يكون`true`). |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | أي نقطة فارغة (‏[`IsEmpty`](../../igeometry/isempty/) لها `true`). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LineString(ILineString) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LineString`](../) فئة .
+يهيئ نسخة جديدة من فئة [`LineString`](../).
 
 ```csharp
 public LineString(ILineString other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | ILineString | السطر الآخر لنسخ البيانات منه. |
+| آخر | ILineString | الخط الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILineString](../../ilinestring/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

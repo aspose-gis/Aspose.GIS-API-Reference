@@ -1,34 +1,34 @@
 ---
-title: XyzTiles.GetTile
-second_title: Aspose.GIS لمرجع .NET API
-description: XyzTiles طريقة. يتم تحميل المربع المحدد.
+title: "XyzTiles.GetTile"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة XyzTiles. يحمل البلاط المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.xyztile/xyztiles/gettile/
 ---
 ## XyzTiles.GetTile method
 
-يتم تحميل المربع المحدد.
+يحمّل البلاطة المحددة.
 
 ```csharp
 public WebTile GetTile(int zoom, int x, int y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| zoom | Int32 | مستوى التكبير لتحميل البلاط. أعلى مستوى للتكبير هو 0. معظم مزودي التجانب لديهم حوالي 22 مستوى تكبير كحد أقصى. |
+| تكبير | Int32 | مستوى التكبير لتحميل البلاط. أعلى مستوى تكبير هو 0. معظم مزودي البلاط لديهم حوالي 22 مستوى تكبير كحد أقصى. |
 | x | Int32 | عمود x للبلاط. |
-| y | Int32 | صف ص للبلاط. |
+| y | Int32 | صف y للبلاط. |
 
 ### قيمة الإرجاع
 
 بلاط الويب.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WebTile](../../../aspose.gis.raster.web/webtile/)
 * class [XyzTiles](../)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
+* assembly [Aspose.GIS](../../../)
 
 

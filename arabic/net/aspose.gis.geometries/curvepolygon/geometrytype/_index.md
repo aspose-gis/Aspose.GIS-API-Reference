@@ -1,28 +1,28 @@
 ---
-title: CurvePolygon.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon ملكية. يحصل على نوع الهندسة .
+title: "CurvePolygon.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CurvePolygon. تحصل على نوع الشكل الهندسي"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/curvepolygon/geometrytype/
 ---
 ## CurvePolygon.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

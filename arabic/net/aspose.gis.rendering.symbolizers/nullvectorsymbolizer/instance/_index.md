@@ -1,23 +1,23 @@
 ---
-title: NullVectorSymbolizer.Instance
-second_title: Aspose.GIS لمرجع .NET API
-description: NullVectorSymbolizer ملكية. الحصول على مثيل لـNullSymbolizer .
+title: "NullVectorSymbolizer.Instance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية NullVectorSymbolizer. تحصل على نسخة من NullSymbolizer"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/instance/
 ---
 ## NullVectorSymbolizer.Instance property
 
-الحصول على مثيل لـ`NullSymbolizer` .
+يحصل على مثيل من `NullSymbolizer`.
 
 ```csharp
 public static NullVectorSymbolizer Instance { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NullVectorSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../nullvectorsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../nullvectorsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

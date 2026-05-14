@@ -1,27 +1,27 @@
 ---
-title: CsvOptions.ColumnZ
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvOptions ملكية. الحصول على أو تحديد اسم العمود الذي يحتوي على قيمة إحداثيات Z. الافتراضي هوnull .
+title: "CsvOptions.ColumnZ"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CsvOptions. تحصل أو تعيين اسم العمود الذي يحتوي على قيمة إحداثي Z. القيمة الافتراضية هي null"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.csv/csvoptions/columnz/
 ---
 ## CsvOptions.ColumnZ property
 
-الحصول على أو تحديد اسم العمود الذي يحتوي على قيمة إحداثيات Z. الافتراضي هو`null` .
+يحصل أو يعيّن اسم العمود الذي يحتوي على قيمة إحداثي Z. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string ColumnZ { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-إذا كانت قيمة العمود`null` أو`empty string` سيتم استبعاده من الهندسة.
+إذا كانت قيمة العمود `null` أو `empty string` فسيتم استبعادها من الهندسة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

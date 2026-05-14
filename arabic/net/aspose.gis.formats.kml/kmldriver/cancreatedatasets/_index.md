@@ -1,27 +1,27 @@
 ---
-title: KmlDriver.CanCreateDatasets
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان بإمكان برنامج التشغيل هذا إنشاء مجموعات بيانات.
+title: "KmlDriver.CanCreateDatasets"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlDriver. يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه إنشاء مجموعات بيانات"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml/kmldriver/cancreatedatasets/
 ---
 ## KmlDriver.CanCreateDatasets property
 
-يحصل على قيمة تشير إلى ما إذا كان بإمكان برنامج التشغيل هذا إنشاء مجموعات بيانات.
+يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء مجموعات البيانات.
 
 ```csharp
 public override bool CanCreateDatasets { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه إنشاء مجموعات بيانات ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه إنشاء مجموعات بيانات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../kmldriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

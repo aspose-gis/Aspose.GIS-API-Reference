@@ -1,14 +1,14 @@
 ---
-title: FeatureAttributeCollection.GetEnumerator
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttributeCollection طريقة. إرجاع عداد يتكرر خلال المجموعة.
+title: "FeatureAttributeCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeatureAttributeCollection. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/featureattributecollection/getenumerator/
 ---
 ## FeatureAttributeCollection.GetEnumerator method
 
-إرجاع عداد يتكرر خلال المجموعة.
+يعيد عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<FeatureAttribute> GetEnumerator()
@@ -16,13 +16,13 @@ public IEnumerator<FeatureAttribute> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يمكن استخدامه للتكرار خلال المجموعة.
+عداد يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../../featureattribute/)
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

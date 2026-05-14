@@ -1,31 +1,31 @@
 ---
-title: Identifier.Epsg
-second_title: Aspose.GIS لمرجع .NET API
-description: Identifier طريقة. إنشاء معرّف جديد يمثل معرّف EPSG مع التعليمات البرمجيةepsgCode .
+title: "Identifier.Epsg"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Identifier. تنشئ Identifier جديد يمثل معرف EPSG بالرمز epsgCode"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/identifier/epsg/
 ---
 ## Identifier.Epsg method
 
-إنشاء معرّف جديد يمثل معرّف EPSG مع التعليمات البرمجية*epsgCode* .
+ينشئ معرفًا جديدًا يمثل معرف EPSG بالرمز *epsgCode*.
 
 ```csharp
 public static Identifier Epsg(int epsgCode)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| epsgCode | Int32 | كود Epsg. |
+| epsgCode | Int32 | رمز EPSG. |
 
 ### قيمة الإرجاع
 
-معرّف جديد بـ[`AuthorityName`](../authorityname/) "EPSG" و[`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/)*epsgCode* . إذا*epsgCode* أقل من 0 - العودة`null` ؛
+معرف جديد مع [`AuthorityName`](../authorityname/) "EPSG" و [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/)*epsgCode*. إذا كان *epsgCode* أقل من 0 - أعد `null`;
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../identifier/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

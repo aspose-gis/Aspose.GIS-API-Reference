@@ -1,49 +1,49 @@
 ---
-title: MarkerLine.MarkerLine
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerLine البناء. يقوم بتهيئة مثيل جديد لملفMarkerLine فئة .
+title: "MarkerLine.MarkerLine"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MarkerLine. يهيئ نسخة جديدة من فئة MarkerLine"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/markerline/markerline/
 ---
 ## MarkerLine() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`MarkerLine`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`MarkerLine`](../).
 
 ```csharp
 public MarkerLine()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MarkerLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## MarkerLine(MarkerLine) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`MarkerLine`](../) فئة .
+يهيئ نسخة جديدة من الفئة [`MarkerLine`](../).
 
 ```csharp
 public MarkerLine(MarkerLine other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | MarkerLine | الأخرى[`MarkerLine`](../) لنسخ البيانات من. |
+| other | MarkerLine | الـ [`MarkerLine`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MarkerLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
+* assembly [Aspose.GIS](../../../)
 
 

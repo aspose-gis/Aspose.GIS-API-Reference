@@ -1,33 +1,33 @@
 ---
-title: SpatialReferenceSystem.TryCreateFromWkt
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. ينشئ ملفًا جديدًانظام المرجع المكاني استنادًا إلى سلسلة WKT نص معروف جيدًا.
+title: "SpatialReferenceSystem.TryCreateFromWkt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. تنشئ SpatialReferenceSystem جديدة بناءً على سلسلة نصية WKT WellKnown Text"
 type: docs
 weight: 410
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatefromwkt/
 ---
 ## SpatialReferenceSystem.TryCreateFromWkt method
 
-ينشئ ملفًا جديدًا`نظام المرجع المكاني` استنادًا إلى سلسلة WKT (نص معروف جيدًا).
+ينشئ `SpatialReferenceSystem` جديدًا بناءً على سلسلة WKT (نص معروف جيدًا).
 
 ```csharp
 public static bool TryCreateFromWkt(string wkt, out SpatialReferenceSystem value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | wkt | String | سلسلة WKT. |
-| value | SpatialReferenceSystem& | عندما تعود هذه الطرق`true` ، يحتوي على SRS تم إنشاؤه من WKT ؛ وإلا ، يحتوي على`null` . |
+| قيمة | SpatialReferenceSystem& | عند إرجاع هذه الطريقة `true`، يحتوي على SRS تم إنشاؤه من WKT؛ وإلا، يحتوي على `null`. |
 
 ### قيمة الإرجاع
 
-`true` إذا تم إنشاء SRS بنجاح ؛`false` خلاف ذلك.
+`true` إذا تم إنشاء الـ SRS بنجاح؛ `false` خلاف ذلك.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [CreateFromWkt](../createfromwkt/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,42 +1,42 @@
 ---
-title: GeoGenerator.ProducePoints
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoGenerator طريقة. ينشئ مصفوفة من النقاط تنتمي إلى المنطقة المحددة.
+title: "GeoGenerator.ProducePoints"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeoGenerator. تنشئ مصفوفة من النقاط التابعة للمنطقة المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/geogenerator/producepoints/
 ---
 ## GeoGenerator.ProducePoints method
 
-ينشئ مصفوفة من النقاط تنتمي إلى المنطقة المحددة.
+إنشاء مصفوفة من النقاط التي تنتمي إلى المنطقة المحددة.
 
 ```csharp
 public static IEnumerable<IGeometry> ProducePoints(Extent rect, PointGeneratorOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Extent | منطقة محددة (انظر[`حد`](../../../aspose.gis/extent/)). |
-| options | PointGeneratorOptions | خيارات إنشاء النقاط (انظر[`PointGeneratorOptions`](../../pointgeneratoroptions/)). |
+| rect | Extent | المنطقة المحددة (انظر [`Extent`](../../../aspose.gis/extent/)). |
+| options | PointGeneratorOptions | خيارات إنشاء النقاط (انظر [`PointGeneratorOptions`](../../pointgeneratoroptions/)). |
 
 ### قيمة الإرجاع
 
-مجموعة من النقاط (انظر تعداد[`IGeometry`](../../../aspose.gis.geometries/igeometry/)).
+مصفوفة من النقاط (انظر تعداد [`IGeometry`](../../../aspose.gis.geometries/igeometry/)).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن يكون عدد النقاط مبشرة ثم واحدة. |
-| NullReferenceException | يجب أن يكون للمدى قيمة (لا تكون فارغة). |
+| ArgumentOutOfRangeException | يجب أن يكون عدد النقاط أكبر من واحد |
+| NullReferenceException | يجب أن يكون للنطاق قيمة (لا يكون NULL). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [Extent](../../../aspose.gis/extent/)
 * class [PointGeneratorOptions](../../pointgeneratoroptions/)
 * class [GeoGenerator](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../geogenerator/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geogenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,44 +1,44 @@
 ---
-title: Struct RasterExpressionContext
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.RasterExpressionContext هيكل. تصف هذه الفئة سياق القيمة عندما يقرأ النطاق النقطي.
+title: "الهيكل RasterExpressionContext"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الهيكل Aspose.Gis.Raster.RasterExpressionContext. هذه الفئة تصف سياق القيمة عند قراءة شريط رستر"
 type: docs
-weight: 1380
+weight: 3820
 url: /ar/net/aspose.gis.raster/rasterexpressioncontext/
 ---
 ## RasterExpressionContext structure
 
-تصف هذه الفئة سياق القيمة عندما يقرأ النطاق النقطي.
+هذه الفئة تصف سياق القيمة عندما تقرأ شريط الراستر.
 
 ```csharp
 public struct RasterExpressionContext : IEquatable<RasterExpressionContext>
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RasterExpressionContext](rasterexpressioncontext/)(int, int) | قم بإنشاء مثيل لـ`RasterExpressionContext` |
+| [RasterExpressionContext](rasterexpressioncontext/)(int, int) | إنشاء كائن من `RasterExpressionContext` |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CellX](../../aspose.gis.raster/rasterexpressioncontext/cellx/) { get; } | الحصول على أو تحديد قيمة العمود (إحداثي س). يبدأ الترقيم من 0. |
-| [CellY](../../aspose.gis.raster/rasterexpressioncontext/celly/) { get; } | الحصول على أو تحديد قيمة الصف (إحداثيات ص). يبدأ الترقيم من 0. |
+| [CellX](../../aspose.gis.raster/rasterexpressioncontext/cellx/) { get; } | الحصول أو تعيين قيمة العمود (الإحداثي x). يبدأ الترقيم من 0. |
+| [CellY](../../aspose.gis.raster/rasterexpressioncontext/celly/) { get; } | الحصول أو تعيين قيمة الصف (الإحداثي y). يبدأ الترقيم من 0. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals_1)(object) | يشير إلى ما إذا كان هذا المثيل وكائن محدد متساويين. |
-| [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals)(RasterExpressionContext) | يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع. |
-| override [GetHashCode](../../aspose.gis.raster/rasterexpressioncontext/gethashcode/)() | إرجاع رمز التجزئة لهذه الحالة. |
-| override [ToString](../../aspose.gis.raster/rasterexpressioncontext/tostring/)() | إرجاع اسم النوع المؤهل بالكامل لهذا المثيل. |
+| override [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals_1)(object) | يشير إلى ما إذا كانت هذه النسخة والكائن المحدد متساويين. |
+| [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals)(RasterExpressionContext) | يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع. |
+| override [GetHashCode](../../aspose.gis.raster/rasterexpressioncontext/gethashcode/)() | يرجع رمز التجزئة لهذه النسخة. |
+| override [ToString](../../aspose.gis.raster/rasterexpressioncontext/tostring/)() | يرجع الاسم الكامل للنوع لهذه النسخة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

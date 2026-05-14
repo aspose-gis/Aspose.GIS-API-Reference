@@ -1,23 +1,23 @@
 ---
-title: SimpleLine.Color
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLine ملكية. يحدد اللون والشفافية المعطاة للخط.
+title: "SimpleLine.Color"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLine. تحدد اللون والشفافية المطبقة على الخط"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/color/
 ---
 ## SimpleLine.Color property
 
-يحدد اللون والشفافية المعطاة للخط.
+يحدد اللون والشفافية الممنوحين للخط.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

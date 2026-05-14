@@ -1,60 +1,62 @@
 ---
-title: Class Map
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Map فصل. الخريطة عبارة عن مجموعة من الطبقات التي يمكن عرضها فوق بعضها البعض عبرRenderer .
+title: "الفئة Map"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Map. الـ Map هي مجموعة من الطبقات يمكن تصييرها فوق بعضها البعض عبر Renderer"
 type: docs
-weight: 1720
+weight: 4170
 url: /ar/net/aspose.gis.rendering/map/
 ---
 ## Map class
 
-الخريطة عبارة عن مجموعة من الطبقات التي يمكن عرضها فوق بعضها البعض عبر[`Renderer`](../renderer/) .
+الـ Map هي مجموعة من الطبقات يمكن تصييرها فوق بعضها البعض عبر [`Renderer`](../renderer/).
 
 ```csharp
 public class Map : IDisposable, IReadOnlyList<MapLayer>
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Map](map/)(Measurement, Measurement) | إنشاء مثيل جديد لملف`خريطة` فئة . |
+| [Map](map/#constructor)() | ينشئ نسخة جديدة من الفئة `Map`. |
+| [Map](map/#constructor_1)(Measurement, Measurement) | ينشئ نسخة جديدة من الفئة `Map`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.rendering/map/backgroundcolor/) { get; set; } | لون خلفية الخريطة. افتراضات إلىTransparent . |
+| [BackgroundColor](../../aspose.gis.rendering/map/backgroundcolor/) { get; set; } | لون الخلفية للخريطة. القيمة الافتراضية هي شفاف. |
 | [Count](../../aspose.gis.rendering/map/count/) { get; } | يحصل على عدد الطبقات في الخريطة. |
-| [Extent](../../aspose.gis.rendering/map/extent/) { get; set; } | يحدد حدود الخريطة للعرض . إذا تم التعيين على`null` ، يتم حساب المدى أثناء العرض لتضمين كل الأشكال الهندسية في كل الطبقات. |
-| [Height](../../aspose.gis.rendering/map/height/) { get; set; } | الارتفاع المرئي للخريطة. |
-| [Item](../../aspose.gis.rendering/map/item/) { get; } | يحصل على الطبقة في الفهرس المحدد. |
-| [Padding](../../aspose.gis.rendering/map/padding/) { get; set; } | تحديد المساحة المتروكة لإضافتها إلى الحد . |
-| [Resolution](../../aspose.gis.rendering/map/resolution/) { get; set; } | الدقة المطلوب استخدامها لعرض هذه الخريطة والتحويل بينها[`Measurement`](../measurement/) . الافتراضي هو 96. |
-| [SpatialReferenceSystem](../../aspose.gis.rendering/map/spatialreferencesystem/) { get; set; } | [`SpatialReferenceSystem`](./spatialreferencesystem/) من الخريطة. |
-| [Width](../../aspose.gis.rendering/map/width/) { get; set; } | العرض المرئي للخريطة. |
+| [Extent](../../aspose.gis.rendering/map/extent/) { get; set; } | يحدد حدود الخريطة لتصيرها. إذا تم تعيينه إلى `null`، يتم حساب الامتداد أثناء التصيير لتضمين جميع الأشكال في جميع الطبقات. |
+| [Height](../../aspose.gis.rendering/map/height/) { get; set; } | الارتفاع البصري للخريطة. |
+| [Item](../../aspose.gis.rendering/map/item/) { get; } | يحصل على الطبقة عند الفهرس المحدد. |
+| [Padding](../../aspose.gis.rendering/map/padding/) { get; set; } | يحدد الحشو لإضافته إلى الامتداد. |
+| [Resolution](../../aspose.gis.rendering/map/resolution/) { get; set; } | الدقة المستخدمة لتصير هذه الخريطة وللتحويل بين [`Measurement`](../measurement/). القيمة الافتراضية هي 96. |
+| [SpatialReferenceSystem](../../aspose.gis.rendering/map/spatialreferencesystem/) { get; set; } | [`SpatialReferenceSystem`](./spatialreferencesystem/) للخريطة. |
+| [Width](../../aspose.gis.rendering/map/width/) { get; set; } | العرض البصري للخريطة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.gis.rendering/map/add/#add)(FeaturesSequence) | ينشئ ويضيف ملف[`VectorMapLayer`](../vectormaplayer/) على الخريطة. يتم تقديم الطبقات بترتيب إضافي. |
-| [Add](../../aspose.gis.rendering/map/add/#add_4)(MapLayer) | يضيف طبقة إلى الخريطة. يتم تقديم الطبقات بترتيب إضافي. |
-| [Add](../../aspose.gis.rendering/map/add/#add_1)(FeaturesSequence, VectorSymbolizer) | ينشئ ويضيف ملف[`VectorMapLayer`](../vectormaplayer/) على الخريطة. يتم تقديم الطبقات بترتيب إضافي. |
-| [Add](../../aspose.gis.rendering/map/add/#add_7)(VectorLayer, bool) | ينشئ ملف[`VectorMapLayer`](../vectormaplayer/) مع رمز افتراضي وإضافته إلى الخريطة. يتم تقديم الطبقات بترتيب إضافي. |
-| [Add](../../aspose.gis.rendering/map/add/#add_2)(FeaturesSequence, VectorSymbolizer, Labeling) | ينشئ ويضيف ملف[`VectorMapLayer`](../vectormaplayer/) على الخريطة. يتم تقديم الطبقات بترتيب إضافي. |
-| [Add](../../aspose.gis.rendering/map/add/#add_3)(RasterLayer, RasterColorizer, bool) | ينشئ ملف[`RasterMapLayer`](../rastermaplayer/) مع الملون الافتراضي وإضافته إلى الخريطة. |
-| [Add](../../aspose.gis.rendering/map/add/#add_6)(VectorLayer, VectorSymbolizer, bool) | ينشئ ويضيف ملف[`VectorMapLayer`](../vectormaplayer/) على الخريطة. يتم تقديم الطبقات بترتيب إضافي. |
-| [Add](../../aspose.gis.rendering/map/add/#add_5)(VectorLayer, VectorSymbolizer, Labeling, bool) | ينشئ ويضيف ملف[`VectorMapLayer`](../vectormaplayer/) على الخريطة. يتم تقديم الطبقات بترتيب إضافي. |
-| [Dispose](../../aspose.gis.rendering/map/dispose/)() | التخلص من الموارد. |
-| [GetEnumerator](../../aspose.gis.rendering/map/getenumerator/)() | تُرجع عدادًا يتكرر عبر الطبقات في الخريطة. |
-| [Render](../../aspose.gis.rendering/map/render/#render)(AbstractPath, Renderer) | يتم عرض الخريطة في ملف. |
-| [Render](../../aspose.gis.rendering/map/render/#render_1)(string, Renderer) | يتم عرض الخريطة في ملف. |
+| [Add](../../aspose.gis.rendering/map/add/#add)(FeaturesSequence) | ينشئ ويضيف [`VectorMapLayer`](../vectormaplayer/) إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_4)(MapLayer) | يضيف طبقة إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_1)(FeaturesSequence, VectorSymbolizer) | ينشئ ويضيف [`VectorMapLayer`](../vectormaplayer/) إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_8)(VectorLayer, bool) | ينشئ [`VectorMapLayer`](../vectormaplayer/) مع المُرمّز الافتراضي ويضيفه إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_2)(FeaturesSequence, VectorSymbolizer, Labeling) | ينشئ ويضيف [`VectorMapLayer`](../vectormaplayer/) إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_3)(RasterLayer, RasterColorizer, bool) | ينشئ [`RasterMapLayer`](../rastermaplayer/) مع المُلوّن الافتراضي ويضيفه إلى الخريطة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_7)(VectorLayer, VectorSymbolizer, bool) | ينشئ ويضيف [`VectorMapLayer`](../vectormaplayer/) إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_6)(VectorLayer, VectorSymbolizer, Labeling, bool) | ينشئ ويضيف [`VectorMapLayer`](../vectormaplayer/) إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Add](../../aspose.gis.rendering/map/add/#add_5)(VectorLayer, VectorSymbolizer, Labeling, SpatialReferenceSystem, bool) | ينشئ ويضيف [`VectorMapLayer`](../vectormaplayer/) إلى الخريطة. يتم تصيير الطبقات بترتيب الإضافة. |
+| [Dispose](../../aspose.gis.rendering/map/dispose/)() | يحرّر الموارد. |
+| [GetEnumerator](../../aspose.gis.rendering/map/getenumerator/)() | يعيد عدّادًا يتنقل عبر الطبقات في الخريطة. |
+| [Render](../../aspose.gis.rendering/map/render/#render)(AbstractPath, Renderer) | يصير الخريطة إلى ملف. |
+| [Render](../../aspose.gis.rendering/map/render/#render_1)(string, Renderer) | يصير الخريطة إلى ملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapLayer](../maplayer/)
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

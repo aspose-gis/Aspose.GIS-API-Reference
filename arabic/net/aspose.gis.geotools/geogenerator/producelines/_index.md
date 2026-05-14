@@ -1,42 +1,42 @@
 ---
-title: GeoGenerator.ProduceLines
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoGenerator طريقة. ينشئ ILineString Enumerator جديدًا بعدد معين من العناصر العشوائية  وكلها في نطاق معين.
+title: "GeoGenerator.ProduceLines"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeoGenerator. تنشئ مُعدد ILineString جديد بعدد محدد من العناصر العشوائية جميعها داخل نطاق محدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/geogenerator/producelines/
 ---
 ## GeoGenerator.ProduceLines method
 
-ينشئ ILineString Enumerator جديدًا بعدد معين من العناصر العشوائية ، وكلها في نطاق معين.
+إنشاء عداد ILineString جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق معين.
 
 ```csharp
 public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | Extent | منطقة محددة (انظر[`حد`](../../../aspose.gis/extent/)) |
-| options | LineGeneratorOptions | خيارات إنشاء الخط (انظر[`LineGeneratorOptions`](../../linegeneratoroptions/)) |
+| rect | Extent | المنطقة المحددة (انظر [`Extent`](../../../aspose.gis/extent/)) |
+| options | LineGeneratorOptions | خيارات إنشاء الخطوط (انظر [`LineGeneratorOptions`](../../linegeneratoroptions/)) |
 
 ### قيمة الإرجاع
 
-صفيف من الخطوط (انظر تعداد[`سلسلة ILine`](../../../aspose.gis.geometries/ilinestring/))
+مصفوفة من الخطوط (انظر تعداد [`ILineString`](../../../aspose.gis.geometries/ilinestring/))
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن يكون عدد الخطوط مبشرة ثم واحد. |
-| NullReferenceException | يجب أن يحتوي النطاق على قيمة (يجب ألا يكون NULL) |
+| ArgumentOutOfRangeException | يجب أن يكون عدد الخطوط أكبر من واحد |
+| NullReferenceException | يجب أن يكون للنطاق قيمة (لا يكون NULL) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILineString](../../../aspose.gis.geometries/ilinestring/)
 * class [Extent](../../../aspose.gis/extent/)
 * class [LineGeneratorOptions](../../linegeneratoroptions/)
 * class [GeoGenerator](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../geogenerator/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geogenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

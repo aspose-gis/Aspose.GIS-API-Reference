@@ -1,7 +1,7 @@
 ---
-title: LineString.Equals
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي.
+title: "LineString.Equals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/linestring/equals/
@@ -14,43 +14,43 @@ url: /ar/net/aspose.gis.geometries/linestring/equals/
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الكائن مقارنة مع الكائن الحالي. |
+| obj | Object | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن المحدد يساوي الكائن الحالي ؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Equals(ILineString) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(ILineString other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | ILineString | كائن للمقارنة مع هذا الكائن. |
+| آخر | ILineString | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن الحالي يساوي*other* معامل؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILineString](../../ilinestring/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

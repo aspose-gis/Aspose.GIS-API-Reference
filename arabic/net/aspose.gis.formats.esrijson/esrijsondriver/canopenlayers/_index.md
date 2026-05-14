@@ -1,7 +1,7 @@
 ---
-title: EsriJsonDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: EsriJsonDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة.
+title: "EsriJsonDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية EsriJsonDriver. يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات متجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.esrijson/esrijsondriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.esrijson/esrijsondriver/canopenlayers/
 public override bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [EsriJsonDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
+* assembly [Aspose.GIS](../../../)
 
 

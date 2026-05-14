@@ -1,14 +1,14 @@
 ---
-title: Extent.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. استنساخ هذا المثال .
+title: "Extent.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تنسخ هذه المثيلة"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/extent/clone/
 ---
 ## Extent.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public Extent Clone()
@@ -16,12 +16,12 @@ public Extent Clone()
 
 ### قيمة الإرجاع
 
-استنساخ من هذا المثال.
+نسخة من هذه المثيلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

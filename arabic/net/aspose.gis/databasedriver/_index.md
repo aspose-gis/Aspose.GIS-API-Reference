@@ -1,29 +1,29 @@
 ---
-title: Class DatabaseDriver
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.DatabaseDriver فصل. برنامج تشغيل لتنسيق قاعدة بيانات محددة.
+title: "الفئة DatabaseDriver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.DatabaseDriver. برنامج تشغيل لتنسيق يعتمد على قاعدة بيانات محددة"
 type: docs
-weight: 60
+weight: 1410
 url: /ar/net/aspose.gis/databasedriver/
 ---
 ## DatabaseDriver class
 
-برنامج تشغيل لتنسيق قاعدة بيانات محددة.
+برنامج تشغيل لتنسيق قائم على قاعدة بيانات محددة.
 
 ```csharp
 public abstract class DatabaseDriver : Driver
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [OpenDataset](../../aspose.gis/databasedriver/opendataset/)(IDbConnection) | يفتح مجموعة البيانات . |
+| abstract [OpenDataset](../../aspose.gis/databasedriver/opendataset/)(IDbConnection) | يفتح مجموعة البيانات. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Driver](../driver/)
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

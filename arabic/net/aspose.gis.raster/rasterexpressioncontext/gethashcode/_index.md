@@ -1,14 +1,14 @@
 ---
-title: RasterExpressionContext.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterExpressionContext طريقة. إرجاع رمز التجزئة لهذه الحالة.
+title: "RasterExpressionContext.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterExpressionContext. تُرجع رمز التجزئة لهذا المثيل"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.raster/rasterexpressioncontext/gethashcode/
 ---
 ## RasterExpressionContext.GetHashCode method
 
-إرجاع رمز التجزئة لهذه الحالة.
+يرجع رمز التجزئة لهذه النسخة.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-عدد صحيح مُوقَّع 32 بت يمثل رمز التجزئة لهذه الحالة.
+عدد صحيح موقع 32‑بت هو رمز التجزئة لهذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RasterExpressionContext](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterexpressioncontext/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterexpressioncontext/)
+* assembly [Aspose.GIS](../../../)
 
 

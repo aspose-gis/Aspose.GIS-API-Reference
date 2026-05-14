@@ -1,14 +1,14 @@
 ---
-title: Curve.StartPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: Curve ملكية. إرجاع نسخة من نقطة البداية للمنحنى.
+title: "Curve.StartPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Curve. تُرجع نسخة من نقطة البداية للمنحنى."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/curve/startpoint/
 ---
 ## Curve.StartPoint property
 
-إرجاع نسخة من نقطة البداية للمنحنى.
+يعيد نسخة من نقطة البداية للمنحنى.
 
 ```csharp
 public abstract IPoint StartPoint { get; }
@@ -16,15 +16,15 @@ public abstract IPoint StartPoint { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الهندسة فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [Curve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curve/)
+* assembly [Aspose.GIS](../../../)
 
 

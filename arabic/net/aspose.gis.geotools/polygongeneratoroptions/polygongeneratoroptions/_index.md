@@ -1,23 +1,23 @@
 ---
-title: PolygonGeneratorOptions.PolygonGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: PolygonGeneratorOptions البناء. Default_Constructor
+title: "PolygonGeneratorOptions.PolygonGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "PolygonGeneratorOptions منشئ. إنشاء نسخة مع حقول التهيئة بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/polygongeneratoroptions/
 ---
 ## PolygonGeneratorOptions constructor
 
-Default_Constructor
+إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
 
 ```csharp
 public PolygonGeneratorOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

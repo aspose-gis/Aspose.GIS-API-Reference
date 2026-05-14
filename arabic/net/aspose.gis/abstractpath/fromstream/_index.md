@@ -1,35 +1,35 @@
 ---
-title: AbstractPath.FromStream
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath طريقة. ينشئ ملفAbstractPath منStream .
+title: "AbstractPath.FromStream"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة AbstractPath. تُنشئ AbstractPath من تدفق"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/abstractpath/fromstream/
 ---
 ## AbstractPath.FromStream method
 
-ينشئ ملف[`AbstractPath`](../) منStream .
+ينشئ [`AbstractPath`](../) من تدفق.
 
 ```csharp
 public static AbstractPath FromStream(Stream stream)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | دفق لإنشاء ملف[`AbstractPath`](../) من.`Aspose.GIS` لا يتخلص من الدفق. |
+| stream | Stream | تدفق لإنشاء [`AbstractPath`](../) منه. لا يقوم `Aspose.GIS` بتحرير (dispose) التدفق. |
 
 ### قيمة الإرجاع
 
-مثيل[`AbstractPath`](../) مع المحددStream كمحتواه.
+مثيل من [`AbstractPath`](../) يحتوي على التدفق المحدد كمحتواه.
 
-### ملاحظات
+## ملاحظات
 
-هذه الطريقة مفيدة لتمرير دفق من البيانات بتنسيق ملف واحد (مثل GeoJSON أو KML) إلى الطرق التي تتوقع[`AbstractPath`](../) .
+هذه الطريقة مفيدة لتمرير تدفق بيانات بصيغة ملف واحد (مثل GeoJSON أو KML) إلى الطرق التي تتوقع [`AbstractPath`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

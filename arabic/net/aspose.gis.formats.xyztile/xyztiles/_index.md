@@ -1,37 +1,37 @@
 ---
-title: Class XyzTiles
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.XyzTile.XyzTiles فصل. توفر XyzTiles الوصول إلى ملفاتXyzTile الكائنات .
+title: "فئة XyzTiles"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Formats.XyzTile.XyzTiles فئة. توفر XyzTiles إمكانية الوصول إلى كائنات XyzTile"
 type: docs
-weight: 740
+weight: 2410
 url: /ar/net/aspose.gis.formats.xyztile/xyztiles/
 ---
 ## XyzTiles class
 
-توفر XyzTiles الوصول إلى ملفاتXyzTile الكائنات .
+توفر XyzTiles إمكانية الوصول إلى كائنات XyzTile.
 
 ```csharp
 public sealed class XyzTiles : WebTiles
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XyzTiles](xyztiles/)(XyzConnection) | قم بإنشاء مثيل لـ`XyzTiles` . |
+| [XyzTiles](xyztiles/)(XyzConnection) | إنشاء نسخة من `XyzTiles`. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [Dispose](../../aspose.gis.formats.xyztile/xyztiles/dispose/)() | ينفذ المهام المحددة من قبل التطبيق والمرتبطة بتحرير الموارد غير المُدارة أو تحريرها أو إعادة تعيينها. |
-| [GetTile](../../aspose.gis.formats.xyztile/xyztiles/gettile/)(int, int, int) | يتم تحميل المربع المحدد. |
-| [GetTiles](../../aspose.gis.formats.xyztile/xyztiles/gettiles/)(int, Extent) | تحميل المربعات بواسطة مربع الإحاطة المكاني ومستوى التكبير / التصغير. |
+| override [Dispose](../../aspose.gis.formats.xyztile/xyztiles/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المُدارة. |
+| [GetTile](../../aspose.gis.formats.xyztile/xyztiles/gettile/)(int, int, int) | يحمّل البلاطة المحددة. |
+| [GetTiles](../../aspose.gis.formats.xyztile/xyztiles/gettiles/)(int, Extent) | يحمّل البلاط وفقًا لمربع الحد المكاني ومستوى التكبير. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [WebTiles](../../aspose.gis.raster.web/webtiles/)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
+* assembly [Aspose.GIS](../../)
 
 

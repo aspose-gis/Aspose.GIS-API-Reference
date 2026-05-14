@@ -1,30 +1,30 @@
 ---
-title: Interface ILinearRing
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.ILinearRing واجهه المستخدم. حلقة متعددة الرؤوس .
+title: "الواجهة ILinearRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.Geometries.ILinearRing. حلقة متعددة الرؤوس"
 type: docs
-weight: 1030
+weight: 2810
 url: /ar/net/aspose.gis.geometries/ilinearring/
 ---
 ## ILinearRing interface
 
-حلقة متعددة الرؤوس .
+حلقة متعددة الرؤوس.
 
 ```csharp
 public interface ILinearRing : ILineString
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [IsClockwise](../../aspose.gis.geometries/ilinearring/isclockwise/)() | يحدد ما إذا كانت الحلقة بها ملف في اتجاه عقارب الساعة |
-| [ToEditable](../../aspose.gis.geometries/ilinearring/toeditable/)() | الحصول على نسخة قابلة للتحرير من هذه الهندسة. |
+| [IsClockwise](../../aspose.gis.geometries/ilinearring/isclockwise/)() | يحدد ما إذا كانت الحلقة لها دوران باتجاه عقارب الساعة |
+| [ToEditable](../../aspose.gis.geometries/ilinearring/toeditable/)() | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILineString](../ilinestring/)
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

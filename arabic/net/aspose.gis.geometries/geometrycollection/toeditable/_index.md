@@ -1,14 +1,14 @@
 ---
-title: GeometryCollection.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "GeometryCollection.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryCollection. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 210
 url: /ar/net/aspose.gis.geometries/geometrycollection/toeditable/
 ---
 ## GeometryCollection.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public GeometryCollection ToEditable()
@@ -16,12 +16,12 @@ public GeometryCollection ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

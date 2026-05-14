@@ -1,19 +1,19 @@
 ---
-title: Aspose.Gis.Formats.FileGdb
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.FileGdbتوفر مساحة الاسم فئات للعمل مع تنسيق قاعدة البيانات الجغرافية لملف ESRI.
+title: "Aspose.Gis.Formats.FileGdb"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Formats.FileGdb توفر فئات للعمل مع تنسيق قاعدة بيانات ESRI File Geodatabase."
 type: docs
-weight: 50
+weight: 250
 url: /ar/net/aspose.gis.formats.filegdb/
 ---
-`Aspose.Gis.Formats.FileGdb`توفر مساحة الاسم فئات للعمل مع تنسيق قاعدة البيانات الجغرافية لملف ESRI.
+`Aspose.Gis.Formats.FileGdb` مساحة الاسم توفر فئات للعمل مع صيغة قاعدة بيانات ESRI File Geodatabase.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
 | [FileGdbCoordinatePrecisionGrid](./filegdbcoordinateprecisiongrid/) | شبكة دقة إحداثيات داخل طبقة FileGDB. |
-| [FileGdbDriver](./filegdbdriver/) | برنامج تشغيل لتنسيق قاعدة البيانات الجغرافية لملف ESRI. |
-| [FileGdbOptions](./filegdboptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق FileGDB . |
+| [FileGdbDriver](./filegdbdriver/) | برنامج تشغيل لتنسيق قاعدة بيانات ESRI File Geodatabase. |
+| [FileGdbOptions](./filegdboptions/) | خيارات خاصة بالسائق لتنسيق FileGDB. |
 
 

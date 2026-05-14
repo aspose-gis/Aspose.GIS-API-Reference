@@ -1,28 +1,28 @@
 ---
-title: Point.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. يحصل على نوع الهندسة .
+title: "Point.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. يحصل على نوع الهندسة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/point/geometrytype/
 ---
 ## Point.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: IRasterCellSize.SkewX
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterCellSize ملكية. الحصول على مكون x للخلية أو ارتفاع البكسل انحراف س.
+title: "IRasterCellSize.SkewX"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IRasterCellSize. الحصول على المكوّن x لارتفاع الخلية أو البكسل xskew"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/irastercellsize/skewx/
 ---
 ## IRasterCellSize.SkewX property
 
-الحصول على مكون x للخلية أو ارتفاع البكسل (انحراف س).
+يحصل على المكوّن x لارتفاع الخلية أو البكسل (انحراف x).
 
 ```csharp
 public double SkewX { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

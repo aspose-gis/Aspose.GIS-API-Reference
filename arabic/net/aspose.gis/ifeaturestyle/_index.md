@@ -1,22 +1,22 @@
 ---
-title: Interface IFeatureStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.IFeatureStyle واجهه المستخدم. فئة جذر الواجهة للتسلسل الهرمي لأنماط الميزة.
+title: "واجهة IFeatureStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "واجهة Aspose.Gis.IFeatureStyle. الفئة الجذرية للواجهة في تسلسل أنماط المميزات."
 type: docs
-weight: 1260
+weight: 3040
 url: /ar/net/aspose.gis/ifeaturestyle/
 ---
 ## IFeatureStyle interface
 
-فئة جذر الواجهة للتسلسل الهرمي لأنماط الميزة.
+الفئة الجذرية للواجهة لتسلسل أنماط الميزة.
 
 ```csharp
 public interface IFeatureStyle
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

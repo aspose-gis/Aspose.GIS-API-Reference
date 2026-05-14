@@ -1,24 +1,24 @@
 ---
-title: LineGeneratorOptions.Place
-second_title: Aspose.GIS لمرجع .NET API
-description: LineGeneratorOptions ملكية. الوضع في الخلايا التي تم إنشاؤها. _
+title: "LineGeneratorOptions.Place"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineGeneratorOptions. وضعية التحديد في الخلايا المُولدة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/linegeneratoroptions/place/
 ---
 ## LineGeneratorOptions.Place property
 
-الوضع في الخلايا التي تم إنشاؤها. _
+وضعية التوزيع في الخلايا المُولدة.
 
 ```csharp
 public GeneratorPlaces Place { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeneratorPlaces](../../generatorplaces/)
 * class [LineGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

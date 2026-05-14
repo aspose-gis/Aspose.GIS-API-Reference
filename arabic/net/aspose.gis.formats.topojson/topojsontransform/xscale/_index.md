@@ -1,23 +1,23 @@
 ---
-title: TopoJsonTransform.XScale
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonTransform ملكية. مقياس للتطبيق على إحداثيات X.
+title: "TopoJsonTransform.XScale"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية TopoJsonTransform. المقياس لتطبيقه على إحداثي X"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.topojson/topojsontransform/xscale/
 ---
 ## TopoJsonTransform.XScale property
 
-مقياس للتطبيق على إحداثيات X.
+المقياس لتطبيقه على إحداثي X.
 
 ```csharp
 public double XScale { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonTransform](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
+* assembly [Aspose.GIS](../../../)
 
 

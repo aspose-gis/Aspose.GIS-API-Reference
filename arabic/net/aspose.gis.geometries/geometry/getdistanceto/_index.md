@@ -1,39 +1,39 @@
 ---
-title: Geometry.GetDistanceTo
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. حساب الحد الأدنى للمسافة بين هذه الهندسة والهندسة المحددة.
+title: "Geometry.GetDistanceTo"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحسب الحد الأدنى للمسافة بين هذا الشكل الهندسي وشكل هندسي محدد"
 type: docs
 weight: 240
 url: /ar/net/aspose.gis.geometries/geometry/getdistanceto/
 ---
 ## Geometry.GetDistanceTo method
 
-حساب الحد الأدنى للمسافة بين هذه الهندسة والهندسة المحددة.
+يحسب الحد الأدنى للمسافة بين هذه الهندسة وهندسة محددة.
 
 ```csharp
 public double GetDistanceTo(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة لإيجاد المسافة. |
+| آخر | IGeometry | شكل هندسي لإيجاد المسافة إليه. |
 
 ### قيمة الإرجاع
 
-إذا لم يكن كلا الشكلين الهندسيين كذلك[`IsEmpty`](../isempty/) - المسافة بين أقرب النقاط من الأشكال الهندسية . إذا كانت هناك هندسة واحدة على الأقل فارغة ، يتم إرجاع -1 .
+إذا لم يكن كلا الشكلين الهندسيين [`IsEmpty`](../isempty/) - تكون المسافة بين أقرب نقطتين من الشكلين. إذا كان أحد الشكلين على الأقل فارغًا يتم إرجاع -1.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

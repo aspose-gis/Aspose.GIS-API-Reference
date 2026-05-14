@@ -1,14 +1,14 @@
 ---
-title: LineString.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "LineString.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تعمل كدالة التجزئة الافتراضية"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/linestring/gethashcode/
 ---
 ## LineString.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

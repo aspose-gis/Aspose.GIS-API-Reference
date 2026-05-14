@@ -1,120 +1,120 @@
 ---
-title: FileGdbDriver.OpenDataset
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbDriver طريقة. يفتح مجموعة البيانات .
+title: "FileGdbDriver.OpenDataset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileGdbDriver. يفتح مجموعة البيانات"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/opendataset/
 ---
 ## OpenDataset(string, FileGdbOptions) {#opendataset_5}
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public Dataset OpenDataset(string path, FileGdbOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار إلى مجموعة البيانات. |
-| options | FileGdbOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى مجموعة البيانات. |
+| الخيارات | FileGdbOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../../aspose.gis/dataset/).
+مثال على [`Dataset`](../../../aspose.gis/dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة الطبقة من مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../../aspose.gis/dataset/)
 * class [FileGdbOptions](../../filegdboptions/)
 * class [FileGdbDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenDataset(AbstractPath, DriverOptions) {#opendataset_1}
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public override Dataset OpenDataset(AbstractPath path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | المسار إلى مجموعة البيانات. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../../aspose.gis/dataset/).
+مثال على [`Dataset`](../../../aspose.gis/dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة الطبقة من مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../../aspose.gis/dataset/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [FileGdbDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenDataset(AbstractPath, FileGdbOptions) {#opendataset_2}
 
-يفتح مجموعة البيانات .
+يفتح مجموعة البيانات.
 
 ```csharp
 public Dataset OpenDataset(AbstractPath path, FileGdbOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | المسار إلى مجموعة البيانات. |
-| options | FileGdbOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
+| الخيارات | FileGdbOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../../aspose.gis/dataset/).
+مثال على [`Dataset`](../../../aspose.gis/dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة الطبقة من مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../../aspose.gis/dataset/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [FileGdbOptions](../../filegdboptions/)
 * class [FileGdbDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

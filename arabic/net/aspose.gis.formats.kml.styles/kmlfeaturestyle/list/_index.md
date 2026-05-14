@@ -1,24 +1,24 @@
 ---
-title: KmlFeatureStyle.List
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlFeatureStyle ملكية. يحدد كيفية عرض الميزة في عرض القائمةnull للإشارة إلى نمط مفقود. القيمة الافتراضية هيnull .
+title: "KmlFeatureStyle.List"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlFeatureStyle. تحدد كيفية عرض الميزة في عرض القائمة. استخدم null للإشارة إلى نمط مفقود. القيمة الافتراضية هي null"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/list/
 ---
 ## KmlFeatureStyle.List property
 
-يحدد كيفية عرض الميزة في عرض القائمة`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` .
+تحدد كيفية عرض العنصر في عرض القائمة. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`.
 
 ```csharp
 public KmlListStyle List { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlListStyle](../../kmlliststyle/)
 * class [KmlFeatureStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

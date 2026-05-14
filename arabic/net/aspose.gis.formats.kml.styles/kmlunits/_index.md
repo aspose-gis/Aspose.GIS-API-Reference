@@ -1,30 +1,30 @@
 ---
-title: Enum KmlUnits
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlUnits تعداد. يحدد وحدات نظام إحداثيات الصورة.
+title: "التعداد KmlUnits"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Formats.Kml.Styles.KmlUnits. يحدد الوحدات لنظام إحداثيات الصورة"
 type: docs
-weight: 570
+weight: 2210
 url: /ar/net/aspose.gis.formats.kml.styles/kmlunits/
 ---
 ## KmlUnits enumeration
 
-يحدد وحدات نظام إحداثيات الصورة.
+يحدد الوحدات لنظام إحداثيات الصورة.
 
 ```csharp
 public enum KmlUnits
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Pixels | `0` | يشير إلى قيمة x بالبكسل. |
-| Fraction | `1` | يشير إلى أن قيمة x جزء من الرمز. |
-| InsetPixels | `2` | يشير إلى المسافة البادئة من الحافة اليمنى للرمز. |
+| Fraction | `1` | يشير إلى أن قيمة x هي جزء من الأيقونة. |
+| InsetPixels | `2` | يشير إلى المسافة من الحافة اليمنى للأيقونة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

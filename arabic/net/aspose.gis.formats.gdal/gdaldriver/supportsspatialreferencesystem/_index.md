@@ -1,36 +1,36 @@
 ---
-title: GdalDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: GdalDriver طريقة. تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+title: "GdalDriver.SupportsSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GdalDriver. تحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.gdal/gdaldriver/supportsspatialreferencesystem/
 ---
 ## GdalDriver.SupportsSpatialReferenceSystem method
 
-تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل.
 
 ```csharp
 public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان السائق يدعم نظام الإسناد المكاني المحدد.
+قيمة منطقية، تشير إلى ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق.
 
-### ملاحظات
+## ملاحظات
 
-بالنسبة إلى GDAL ، فإن نظام الإسناد المكاني الوحيد المدعوم هو WGS84.
+بالنسبة إلى GDAL، نظام الإحداثيات المكانية الوحيد المدعوم هو WGS84.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [GdalDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.GDAL](../../gdaldriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GDAL](../../gdaldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

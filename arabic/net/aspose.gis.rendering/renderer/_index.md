@@ -1,29 +1,29 @@
 ---
-title: Class Renderer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Renderer فصل. فئة أساسية للعارضين.
+title: "فئة Renderer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.Renderer class. فئة أساسية للمُعَرضات."
 type: docs
-weight: 1770
+weight: 4220
 url: /ar/net/aspose.gis.rendering/renderer/
 ---
 ## Renderer class
 
-فئة أساسية للعارضين.
+فئة أساسية للمُصَيِّرين.
 
 ```csharp
 public abstract class Renderer
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render/#render)(Map, AbstractPath) | خريطة Renders . |
-| [Render](../../aspose.gis.rendering/renderer/render/#render_1)(Map, string) | خريطة Renders . |
+| [Render](../../aspose.gis.rendering/renderer/render/#render)(Map, AbstractPath) | يعرض الخريطة. |
+| [Render](../../aspose.gis.rendering/renderer/render/#render_1)(Map, string) | يعرض الخريطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

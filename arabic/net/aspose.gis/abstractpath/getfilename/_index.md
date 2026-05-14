@@ -1,14 +1,14 @@
 ---
-title: AbstractPath.GetFileName
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath طريقة. يقوم بإرجاع اسم الملف وامتدادهAbstractPath .
+title: "AbstractPath.GetFileName"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة AbstractPath. تُرجع اسم الملف وامتداده لهذا AbstractPath"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/abstractpath/getfilename/
 ---
 ## AbstractPath.GetFileName method
 
-يقوم بإرجاع اسم الملف وامتداده[`AbstractPath`](../) .
+تُرجع اسم الملف وامتداده لهذا [`AbstractPath`](../).
 
 ```csharp
 public string GetFileName()
@@ -16,16 +16,16 @@ public string GetFileName()
 
 ### قيمة الإرجاع
 
-الأحرف بعد الأخير[`Separator`](../separator/) حرف في[`Location`](../location/) . إذا كان the الحرف الأخير هو[`Separator`](../separator/) حرف ، يتم إرجاع سلسلة فارغة. إذا لم يكن هناك أي [`Separator`](../separator/) الشخصيات في[`Location`](../location/) ، ال[`Location`](../location/) يتم إرجاع نفسها .
+الأحرف التي تلي آخر حرف [`Separator`](../separator/) في الـ[`Location`](../location/). إذا كان الحرف الأخير هو حرف [`Separator`](../separator/)، يتم إرجاع سلسلة فارغة. إذا لم يكن هناك أحرف [`Separator`](../separator/) في الـ[`Location`](../location/)، يتم إرجاع الـ[`Location`](../location/) نفسه.
 
-### أمثلة
+## أمثلة
 
-للحصول على`AbstractPath` مع[`Location`](../location/) يساوي`"/directory/file.txt"` و[`Separator`](../separator/) يساوي`/ '` ، تعود هذه الطريقة`"file.txt"` .
+بالنسبة إلى `AbstractPath` مع [`Location`](../location/) يساوي `"/directory/file.txt"` و[`Separator`](../separator/) يساوي `'/'`، تُرجع هذه الطريقة `"file.txt"`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

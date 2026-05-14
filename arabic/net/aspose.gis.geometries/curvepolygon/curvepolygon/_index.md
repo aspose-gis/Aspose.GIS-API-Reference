@@ -1,78 +1,78 @@
 ---
-title: CurvePolygon.CurvePolygon
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon البناء. يقوم بتهيئة مثيل جديد لملفCurvePolygon فئة .
+title: "CurvePolygon.CurvePolygon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ CurvePolygon. يهيئ كائنًا جديدًا من فئة CurvePolygon"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/curvepolygon/curvepolygon/
 ---
 ## CurvePolygon() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`CurvePolygon`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`CurvePolygon`](../).
 
 ```csharp
 public CurvePolygon()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CurvePolygon(ICurve) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`CurvePolygon`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`CurvePolygon`](../).
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | exteriorRing | ICurve | الحلقة الخارجية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CurvePolygon(ICurve, IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`CurvePolygon`](../) فئة .
+يهيئ كائنًا جديدًا من الفئة [`CurvePolygon`](../).
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing, IEnumerable<ICurve> interiorRings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | exteriorRing | ICurve | الحلقة الخارجية. |
 | interiorRings | IEnumerable`1 | الحلقات الداخلية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Map.Width
-second_title: Aspose.GIS لمرجع .NET API
-description: Map ملكية. العرض المرئي للخريطة.
+title: "Map.Width"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Map. العرض البصري للخريطة."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.rendering/map/width/
 ---
 ## Map.Width property
 
-العرض المرئي للخريطة.
+العرض البصري للخريطة.
 
 ```csharp
 public Measurement Width { get; set; }
@@ -16,16 +16,16 @@ public Measurement Width { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | [`Unit`](../../measurement/unit/) من القيمةMapUnits أوMetersOnEarth . |
-| ArgumentOutOfRangeException | القيمة سالبة أو صفر. |
+| ArgumentException | [`Unit`](../../measurement/unit/) للقيمة هو MapUnits أو MetersOnEarth. |
+| ArgumentOutOfRangeException | القيمة سلبية أو صفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../measurement/)
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: OsmXmlDriver.CanCreateLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: OsmXmlDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة.
+title: "OsmXmlDriver.CanCreateLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية OsmXmlDriver. يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه إنشاء طبقات متجهة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.osmxml/osmxmldriver/cancreatelayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.osmxml/osmxmldriver/cancreatelayers/
 public override bool CanCreateLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان هذا المحرك يمكنه إنشاء طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه إنشاء طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OsmXmlDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.OsmXml](../../osmxmldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

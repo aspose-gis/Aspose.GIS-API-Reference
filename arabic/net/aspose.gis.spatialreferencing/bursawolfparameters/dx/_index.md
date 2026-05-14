@@ -1,23 +1,23 @@
 ---
-title: BursaWolfParameters.Dx
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters ملكية. DX بالأمتار.
+title: "BursaWolfParameters.Dx"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BursaWolfParameters. Dx بالأمتار"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/dx/
 ---
 ## BursaWolfParameters.Dx property
 
-DX بالأمتار.
+Dx بالأمتار.
 
 ```csharp
 public double Dx { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

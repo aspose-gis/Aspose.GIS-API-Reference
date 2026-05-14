@@ -1,24 +1,24 @@
 ---
-title: GeographicSpatialReferenceSystem.AngularUnit
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicSpatialReferenceSystem ملكية. وحدة  تستخدم للأبعاد الزاوية  في SRS.
+title: "GeographicSpatialReferenceSystem.AngularUnit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicSpatialReferenceSystem. الوحدة المستخدمة للأبعاد الزاوية في هذا SRS"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/angularunit/
 ---
 ## GeographicSpatialReferenceSystem.AngularUnit property
 
-وحدة ، تستخدم للأبعاد الزاوية ، في SRS.
+الوحدة، المستخدمة للأبعاد الزاوية، في هذا النظام الإحداثي (SRS).
 
 ```csharp
 public abstract Unit AngularUnit { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [GeographicSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

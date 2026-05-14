@@ -1,63 +1,63 @@
 ---
-title: VectorLayer.CopyAttributes
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. نسخ سمات أخرىVectorLayer لهذا واحد .
+title: "VectorLayer.CopyAttributes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. تنسخ سمات VectorLayer أخرى إلى هذه"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/vectorlayer/copyattributes/
 ---
 ## CopyAttributes(FeaturesSequence) {#copyattributes}
 
-نسخ سمات أخرى[`VectorLayer`](../) لهذا واحد .
+ينسخ سمات [`VectorLayer`](../) أخرى إلى هذه.
 
 ```csharp
 public void CopyAttributes(FeaturesSequence featuresSequence)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | تسلسل الميزات لنسخ السمات من. |
+| featuresSequence | FeaturesSequence | تسلسل الميزات لنسخ السمات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | طبقة الإدخال هي`null`. |
+| ArgumentNullException | الطبقة المدخلة هي `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../../featuressequence/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CopyAttributes(FeaturesSequence, IAttributesConverter) {#copyattributes_1}
 
-نسخ سمات أخرى[`VectorLayer`](../) لهذا واحد .
+ينسخ سمات [`VectorLayer`](../) أخرى إلى هذه.
 
 ```csharp
 public void CopyAttributes(FeaturesSequence featuresSequence, IAttributesConverter converter)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | تسلسل الميزات لنسخ السمات من. |
-| converter | IAttributesConverter | مثال على العرف[`IAttributesConverter`](../../iattributesconverter/) من شأنها معالجة السمات واحدة تلو الأخرى. |
+| featuresSequence | FeaturesSequence | تسلسل الميزات لنسخ السمات منه. |
+| converter | IAttributesConverter | مثال من [`IAttributesConverter`](../../iattributesconverter/) المخصص الذي سيعالج السمات واحدةً تلو الأخرى. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | طبقة الإدخال هي`null`. |
+| ArgumentNullException | الطبقة المدخلة هي `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../../featuressequence/)
 * interface [IAttributesConverter](../../iattributesconverter/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

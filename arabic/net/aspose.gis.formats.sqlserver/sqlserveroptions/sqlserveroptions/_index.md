@@ -1,23 +1,23 @@
 ---
-title: SqlServerOptions.SqlServerOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: SqlServerOptions البناء. إنشاء مثيل جديد .
+title: "SqlServerOptions.SqlServerOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SqlServerOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.sqlserver/sqlserveroptions/sqlserveroptions/
 ---
 ## SqlServerOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public SqlServerOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SqlServerOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.SqlServer](../../sqlserveroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.SqlServer](../../sqlserveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

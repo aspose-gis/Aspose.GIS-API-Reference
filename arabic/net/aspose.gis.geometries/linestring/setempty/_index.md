@@ -1,23 +1,23 @@
 ---
-title: LineString.SetEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. يجعل هذاGeometry فارغ .
+title: "LineString.SetEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تجعل هذا الـGeometry فارغًا"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.geometries/linestring/setempty/
 ---
 ## LineString.SetEmpty method
 
-يجعل هذا[`Geometry`](../../geometry/) فارغ .
+يجعل هذا الـ[`Geometry`](../../geometry/) فارغًا.
 
 ```csharp
 public override void SetEmpty()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

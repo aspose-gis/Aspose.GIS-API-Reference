@@ -1,24 +1,24 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.PrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: GeocentricSpatialReferenceSystemParameters ملكية. خط الطول الرئيسي لهذا SRS. الافتراضي هوGreenwich .
+title: "GeocentricSpatialReferenceSystemParameters.PrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeocentricSpatialReferenceSystemParameters. خط الطول الرئيسي لهذا النظام. الافتراضي هو Greenwich"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/primemeridian/
 ---
 ## GeocentricSpatialReferenceSystemParameters.PrimeMeridian property
 
-خط الطول الرئيسي لهذا SRS. الافتراضي هو[`Greenwich`](../../primemeridian/greenwich/) .
+خط الطول الرئيسي لهذا النظام. الافتراضي هو [`Greenwich`](../../primemeridian/greenwich/).
 
 ```csharp
 public PrimeMeridian PrimeMeridian { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrimeMeridian](../../primemeridian/)
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

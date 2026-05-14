@@ -1,14 +1,14 @@
 ---
-title: RuleBasedSymbolizer.GetEnumerator
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedSymbolizer طريقة. إرجاع عداد يتكرر خلال القواعد.
+title: "RuleBasedSymbolizer.GetEnumerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RuleBasedSymbolizer. تُرجع عدّادًا يتنقل عبر القواعد"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/getenumerator/
 ---
 ## RuleBasedSymbolizer.GetEnumerator method
 
-إرجاع عداد يتكرر خلال القواعد.
+يعيد عدّادًا يتنقل عبر القواعد.
 
 ```csharp
 public IEnumerator<Rule> GetEnumerator()
@@ -16,13 +16,13 @@ public IEnumerator<Rule> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يمكن استخدامه للتكرار خلال القواعد.
+عدّاد يمكن استخدامه للتنقل عبر القواعد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rule](../../rule/)
 * class [RuleBasedSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: GeographicSpatialReferenceSystemParameters.Datum
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicSpatialReferenceSystemParameters ملكية. بيانات SRS الجغرافية. الافتراضي هوWgs84 .
+title: "GeographicSpatialReferenceSystemParameters.Datum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicSpatialReferenceSystemParameters. مرجع النظام الجغرافي. الافتراضي هو Wgs84"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum/
 ---
 ## GeographicSpatialReferenceSystemParameters.Datum property
 
-بيانات SRS الجغرافية. الافتراضي هو[`Wgs84`](../../geographicdatum/wgs84/) .
+مرجع النظام الجغرافي. الافتراضي هو [`Wgs84`](../../geographicdatum/wgs84/).
 
 ```csharp
 public GeographicDatum Datum { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../../geographicdatum/)
 * class [GeographicSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

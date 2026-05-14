@@ -1,14 +1,14 @@
 ---
-title: FileGdbOptions.ObjectIdFieldName
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbOptions ملكية. اسم حقل معرف الكائن .
+title: "FileGdbOptions.ObjectIdFieldName"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbOptions. اسم حقل معرف الكائن"
 type: docs
-weight: 60
+weight: 90
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/objectidfieldname/
 ---
 ## FileGdbOptions.ObjectIdFieldName property
 
-اسم حقل معرف الكائن .
+اسم حقل معرف الكائن.
 
 ```csharp
 public string ObjectIdFieldName { get; set; }
@@ -16,18 +16,18 @@ public string ObjectIdFieldName { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | القيمة ليست اسم حقل صالحًا. يجب أن يكون اسم الحقل الصالح:  لا تكن`null` وليس فارغًاابدأ بحرف لاتيني أو شرطة سفليةتحتوي فقط على أحرف لاتينية أو أرقام أو شرطات سفلية |
+| ArgumentException | القيمة ليست اسم حقل صالح. يجب أن يكون اسم الحقل الصالح: غير `null` وغير فارغ، يبدأ بحرف لاتيني أو شرطة سفلية، يحتوي فقط على أحرف لاتينية أو أرقام أو شرطات سفلية |
 
-### ملاحظات
+## ملاحظات
 
-هذا خيار إنشاء ولا يؤثر على القراءة. يحدد اسم حقل معرف الكائن (العمود) . افتراضيات إلى "OBJECTID" . إذا كانت هناك أي سمة في[`Attributes`](../../../aspose.gis/vectorlayer/attributes/) اسم يساوي قيمة هذه الخاصية ، ثم يتم إعادة تسمية هذه السمة.
+هذا خيار إنشاء ولا يؤثر على القراءة والتحرير. يحدد اسم حقل معرف الكائن (العمود). القيمة الافتراضية هي "OBJECTID". إذا كان أي سمة في [`Attributes`](../../../aspose.gis/vectorlayer/attributes/) لها اسم يساوي قيمة هذه الخاصية، فسيتم إعادة تسمية تلك السمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

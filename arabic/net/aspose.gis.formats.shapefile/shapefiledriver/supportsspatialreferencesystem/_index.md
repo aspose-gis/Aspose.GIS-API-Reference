@@ -1,36 +1,36 @@
 ---
-title: ShapefileDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: ShapefileDriver طريقة. تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+title: "ShapefileDriver.SupportsSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ShapefileDriver. تحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق"
 type: docs
-weight: 70
+weight: 60
 url: /ar/net/aspose.gis.formats.shapefile/shapefiledriver/supportsspatialreferencesystem/
 ---
 ## ShapefileDriver.SupportsSpatialReferenceSystem method
 
-تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل.
 
 ```csharp
 public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان السائق يدعم نظام الإسناد المكاني المحدد.
+قيمة منطقية، تشير إلى ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق.
 
-### ملاحظات
+## ملاحظات
 
-بالنسبة إلى Shapefile ، يتم دعم أي SRS. يمتلك Shapefile أيضًا وضع تحرير الطبقة الأمثل.
+بالنسبة لملف Shapefile، يتم دعم أي نظام إحداثيات (SRS). كما أن Shapefile يحتوي على وضع تحرير طبقة أكثر كفاءة خاص به.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [ShapefileDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
+* assembly [Aspose.GIS](../../../)
 
 

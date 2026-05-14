@@ -1,23 +1,23 @@
 ---
-title: IGeometry.IsValid
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل صالحًا.
+title: "IGeometry.IsValid"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IGeometry. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن صالحًا"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/igeometry/isvalid/
 ---
 ## IGeometry.IsValid property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل صالحًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن صالحًا.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

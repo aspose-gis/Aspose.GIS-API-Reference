@@ -1,52 +1,56 @@
 ---
-title: Geometry.Overlaps
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. تحديد ما إذا كان هذا الشكل الهندسي يتداخل مع شكل هندسي محدد.
+title: "Geometry.Overlaps"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحدد ما إذا كانت هذه الهندسة تتداخل مع هندسة محددة"
 type: docs
 weight: 290
 url: /ar/net/aspose.gis.geometries/geometry/overlaps/
 ---
 ## Geometry.Overlaps method
 
-تحديد ما إذا كان هذا الشكل الهندسي يتداخل مع شكل هندسي محدد.
+يحدد ما إذا كانت هذه الهندسة تتداخل مع هندسة محددة.
 
 ```csharp
 public bool Overlaps(IGeometry other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IGeometry | هندسة. |
+| آخر | IGeometry | هندسة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "تتداخل مكانيًا" مع هندسة أخرى.`false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "تتداخل مكانيًا" مع هندسة أخرى. `false` خلاف ذلك.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | إحدى الأشكال الهندسية غير صالحة بحيث لا يمكن إنهاء العملية . |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من الأشكال الهندسية غير متكافئة . يمكنك استخدام[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) من أجل تحويل الأشكال الهندسية إلى نفس النظام المرجعي spatial . |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
 
-### ملاحظات
+## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت الأشكال الهندسية متداخلة من حيث مصفوفة تقاطع DE-9IM. يتداخل شكلان هندسيان إذا كان بينهما بعض وليس كل النقاط الداخلية المشتركة وكان تقاطع الأشكال الهندسية له نفس أبعاد الأشكال الهندسية نفسها. لشخصينPoint هندسة أو اثنتينSurface الأشكال الهندسية تعادل هذه الطريقة _: لشخصينLine الأشكال الهندسية تعادل هذه الطريقة: لشكلين هندسيين بدون تساوي[`Dimension`](../../igeometry/dimension/) هذه الطريقة تعود دائما`false`. راجع مواصفات ميزات OpenGIS البسيطة للحصول على مزيد من التفاصيل حول DE-9IM وعلاقة "التداخل المكاني".
+تختبر هذه الطريقة ما إذا كانت الهندسات تتداخل وفقًا لمصفوفة تقاطع DE-9IM. تتداخل هندستان إذا كان لديهما بعض نقاط الداخلية المشتركة ولكن ليس كلها، وكان تقاطع الهندسات له نفس البعد مثل الهندسات نفسها. بالنسبة لهندستين من نوع Point أو هندستين من نوع Surface تكون هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "T*T***T**");
 ```
 
+بالنسبة لهندستين من نوع Line تكون هذه الطريقة مكافئة لـ:
+
 ```csharp
 this.Relate(other, "1*T***T**");
 ```
 
-### أنظر أيضا
+لهندستين ذات [`Dimension`](../../igeometry/dimension/) غير متساوية، تُعيد هذه الطريقة دائمًا `false`. راجع مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة "تتداخل مكانيًا".
+
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

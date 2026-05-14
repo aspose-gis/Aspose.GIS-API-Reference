@@ -1,23 +1,23 @@
 ---
-title: CompoundCurve.Reverse
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve طريقة. يعكس ذلكCompoundCurve . أي  ترتيب عكسي للمنحنيات وكل منحنى داخل هذا المنحنى المركب.
+title: "CompoundCurve.Reverse"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundCurve. تعكس هذا CompoundCurve. أي عكس ترتيب المنحنيات وكل منحنى داخل هذا المركب."
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.geometries/compoundcurve/reverse/
 ---
 ## CompoundCurve.Reverse method
 
-يعكس ذلك[`CompoundCurve`](../) . أي - ترتيب عكسي للمنحنيات وكل منحنى داخل هذا المنحنى المركب.
+يعكس هذا [`CompoundCurve`](../). أي عكس ترتيب المنحنيات وكل منحنى داخل هذا المركب.
 
 ```csharp
 public override void Reverse()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

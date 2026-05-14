@@ -1,40 +1,40 @@
 ---
-title: SpatialReferenceSystem.CreateTransformationTo
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. ينشئ التحول من هذانظام المرجع المكاني إلى آخرنظام المرجع المكاني .
+title: "SpatialReferenceSystem.CreateTransformationTo"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. تنشئ تحويلًا من هذا SpatialReferenceSystem إلى SpatialReferenceSystem آخر"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createtransformationto/
 ---
 ## SpatialReferenceSystem.CreateTransformationTo method
 
-ينشئ التحول من هذا`نظام المرجع المكاني` إلى آخر`نظام المرجع المكاني` .
+ينشئ تحويلًا من هذا `SpatialReferenceSystem` إلى `SpatialReferenceSystem` آخر.
 
 ```csharp
 public SpatialReferenceSystemTransformation CreateTransformationTo(SpatialReferenceSystem targetSrs)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | اخر`نظام المرجع المكاني`. |
+| targetSrs | SpatialReferenceSystem | آخر `SpatialReferenceSystem`. |
 
 ### قيمة الإرجاع
 
-التحول من هذا`نظام المرجع المكاني` إلى آخر`نظام المرجع المكاني`.
+تحويل من هذا `SpatialReferenceSystem` إلى `SpatialReferenceSystem` آخر.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | التحول بين هذا`نظام المرجع المكاني` والوسيطة غير مدعومة . يمكن أن يحدث هذا ، لأن أحد التوقعات غير مدعوم ، أو أن أحد الأنظمة[`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem/) أو _[`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/) . |
-| [TransformationException](../../transformationexception/) | فشل إنشاء التحويل بسبب وجود معلمات خاطئة بالداخل`نظام المرجع المكاني` . |
+| NotSupportedException | التحويل بين هذا `SpatialReferenceSystem` والوسيط غير مدعوم. قد يحدث هذا لأن أحد الإسقاطات غير مدعوم، أو أحد الأنظمة هو [`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem/) أو [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/). |
+| [TransformationException](../../transformationexception/) | فشل إنشاء التحويل بسبب معلمات غير صحيحة داخل `SpatialReferenceSystem`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [TryCreateTransformationTo](../trycreatetransformationto/)
 * class [SpatialReferenceSystemTransformation](../../spatialreferencesystemtransformation/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

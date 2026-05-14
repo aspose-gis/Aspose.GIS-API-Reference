@@ -1,14 +1,14 @@
 ---
-title: BursaWolfParameters.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "BursaWolfParameters.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة BursaWolfParameters. تعمل كدالة التجزئة الافتراضية"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/
 ---
 ## BursaWolfParameters.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,16 +16,16 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### ملاحظات
+## ملاحظات
 
-نظرًا لأن Equals من هذه الفئة تستخدم مقارنة المضاعفات مع دلتا ، لا شيء أفضل من ذلك ، يمكن استخدام ثابت لهذه الطريقة. ننصحك بعدم استخدام كائنات من هذه الفئة كمفاتيح في جدول التجزئة ، لتجنب معرّف الأداء 2s.
+نظرًا لأن Equals في هذه الفئة يستخدم مقارنة القيم العشرية مع دلتا، لا يمكن استخدام شيء أفضل من ثابت لهذه الطريقة. يُنصح بعدم استخدام كائنات هذه الفئة كمفاتيح في جدول التجزئة لتجنب فقدان الأداء losidentifier2s.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

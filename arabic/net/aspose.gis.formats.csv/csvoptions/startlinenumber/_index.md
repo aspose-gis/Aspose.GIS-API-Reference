@@ -1,23 +1,23 @@
 ---
-title: CsvOptions.StartLineNumber
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvOptions ملكية. الحصول على أو تعيين رقم سطر على أساس الصفر والذي سيكون أولًا عند قراءة البيانات. القيمة الافتراضية هي 0.
+title: "CsvOptions.StartLineNumber"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CsvOptions. تحصل أو تعيين رقم سطر يبدأ من الصفر يكون الأول عند قراءة البيانات. القيمة الافتراضية هي 0"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.formats.csv/csvoptions/startlinenumber/
 ---
 ## CsvOptions.StartLineNumber property
 
-الحصول على أو تعيين رقم سطر على أساس الصفر والذي سيكون أولًا عند قراءة البيانات. القيمة الافتراضية هي 0.
+يحصل أو يعيّن رقم السطر (بدءًا من الصفر) الذي سيكون الأول عند قراءة البيانات. القيمة الافتراضية هي 0.
 
 ```csharp
 public int StartLineNumber { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

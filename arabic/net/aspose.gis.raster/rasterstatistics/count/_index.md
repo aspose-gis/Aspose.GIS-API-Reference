@@ -1,23 +1,23 @@
 ---
-title: RasterStatistics.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterStatistics ملكية. عدد الخلايا أو وحدات البكسل المحسوبة لإحصائيات الملخص.
+title: "RasterStatistics.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterStatistics. عدد الخلايا أو البكسلات التي تم عدّها للإحصاءات الملخصة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/rasterstatistics/count/
 ---
 ## RasterStatistics.Count property
 
-عدد الخلايا أو وحدات البكسل المحسوبة لإحصائيات الملخص.
+عدد الخلايا أو البكسلات التي تم عدّها للإحصائيات الملخّصة.
 
 ```csharp
 public double? Count { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterStatistics](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterstatistics/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterstatistics/)
+* assembly [Aspose.GIS](../../../)
 
 

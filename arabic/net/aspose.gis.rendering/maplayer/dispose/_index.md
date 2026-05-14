@@ -1,23 +1,23 @@
 ---
-title: MapLayer.Dispose
-second_title: Aspose.GIS لمرجع .NET API
-description: MapLayer طريقة. التخلص من الموارد.
+title: "MapLayer.Dispose"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة MapLayer. تُحرّر الموارد."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/maplayer/dispose/
 ---
 ## MapLayer.Dispose method
 
-التخلص من الموارد.
+يحرّر الموارد.
 
 ```csharp
 public abstract void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapLayer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../maplayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../maplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

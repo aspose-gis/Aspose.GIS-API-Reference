@@ -1,14 +1,14 @@
 ---
-title: CircularString.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "CircularString.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CircularString. تعمل كدالة تجزئة افتراضية"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.geometries/circularstring/gethashcode/
 ---
 ## CircularString.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: Extent.XMin
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent ملكية. الحد الأدنى لقيمة إحداثي X.
+title: "Extent.XMin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Extent. الحد الأدنى لقيمة إحداثي X"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/extent/xmin/
 ---
 ## Extent.XMin property
 
-الحد الأدنى لقيمة إحداثي X.
+القيمة الدنيا لإحداثي X.
 
 ```csharp
 public double XMin { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

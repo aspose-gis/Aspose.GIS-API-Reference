@@ -1,7 +1,7 @@
 ---
-title: Point.Equals
-second_title: Aspose.GIS لمرجع .NET API
-description: Point طريقة. يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي.
+title: "Point.Equals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Point. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/point/equals/
@@ -14,43 +14,43 @@ url: /ar/net/aspose.gis.geometries/point/equals/
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الكائن مقارنة مع الكائن الحالي. |
+| obj | Object | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن المحدد يساوي الكائن الحالي ؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Equals(IPoint) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(IPoint other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IPoint | كائن للمقارنة مع هذا الكائن. |
+| آخر | IPoint | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن الحالي يساوي*other* معامل؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

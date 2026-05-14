@@ -1,14 +1,14 @@
 ---
-title: PolygonGeneratorOptions.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: PolygonGeneratorOptions طريقة. استنساخ كائن لبعضه البعض .
+title: "PolygonGeneratorOptions.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "PolygonGeneratorOptions طريقة. استنساخ الكائن إلى آخر"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/clone/
 ---
 ## PolygonGeneratorOptions.Clone method
 
-استنساخ كائن لبعضه البعض .
+استنساخ الكائن إلى آخر.
 
 ```csharp
 public PolygonGeneratorOptions Clone()
@@ -16,12 +16,12 @@ public PolygonGeneratorOptions Clone()
 
 ### قيمة الإرجاع
 
-كائن استنساخ لبعضها البعض[`PolygonGeneratorOptions`](../).
+استنساخ الكائن إلى آخر [`PolygonGeneratorOptions`](../).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PolygonGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

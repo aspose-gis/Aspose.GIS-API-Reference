@@ -1,23 +1,23 @@
 ---
-title: BursaWolfParameters.Scale
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters ملكية. مقياس في أجزاء في المليون.
+title: "BursaWolfParameters.Scale"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BursaWolfParameters. المقياس بالأجزاء في المليون"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/scale/
 ---
 ## BursaWolfParameters.Scale property
 
-مقياس في أجزاء في المليون.
+المقياس بالأجزاء في المليون.
 
 ```csharp
 public double Scale { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

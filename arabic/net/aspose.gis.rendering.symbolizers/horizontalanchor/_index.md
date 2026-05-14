@@ -1,30 +1,30 @@
 ---
-title: Enum HorizontalAnchor
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.HorizontalAnchor تعداد. يحدد الجانب المراد محاذاته أفقيًا.
+title: "تعداد HorizontalAnchor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.Symbolizers.HorizontalAnchor تعداد. يحدد الجانب الذي يجب محاذاته أفقيًا"
 type: docs
-weight: 1820
+weight: 4270
 url: /ar/net/aspose.gis.rendering.symbolizers/horizontalanchor/
 ---
 ## HorizontalAnchor enumeration
 
-يحدد الجانب المراد محاذاته أفقيًا.
+يحدد الجانب الذي يُمحاذى أفقياً.
 
 ```csharp
 public enum HorizontalAnchor
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Center | `0` | يحدد أن المراكز ستتم محاذاتها. |
-| Left | `1` | يحدد أنه سيتم محاذاة الجوانب اليسرى. |
+| Center | `0` | يحدد أن المراكز سيتم محاذاتها. |
+| Left | `1` | يحدد أن الجوانب اليسرى سيتم محاذاتها. |
 | Right | `2` | يحدد أن الجوانب اليمنى سيتم محاذاتها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

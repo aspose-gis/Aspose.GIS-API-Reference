@@ -1,51 +1,51 @@
 ---
-title: Struct Measurement
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Measurement هيكل. رقم يشير إلى قياس العرض .
+title: "بنية Measurement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "بنية Aspose.Gis.Rendering.Measurement. رقم يشير إلى قياس العرض"
 type: docs
-weight: 1740
+weight: 4190
 url: /ar/net/aspose.gis.rendering/measurement/
 ---
 ## Measurement structure
 
-رقم يشير إلى قياس العرض .
+رقم يشير إلى قياس التصيير.
 
 ```csharp
 public struct Measurement
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Measurement](measurement/)(double, Unit) | إنشاء مثيل جديد . |
+| [Measurement](measurement/)(double, Unit) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Zero](../../aspose.gis.rendering/measurement/zero/) { get; } | قياس الطول الصفري . |
-| [Unit](../../aspose.gis.rendering/measurement/unit/) { get; } | وحدة قياس . |
-| [Value](../../aspose.gis.rendering/measurement/value/) { get; } | رقم يشير إلى طول القياس . |
+| static [Zero](../../aspose.gis.rendering/measurement/zero/) { get; } | قياس بطول صفر. |
+| [Unit](../../aspose.gis.rendering/measurement/unit/) { get; } | وحدة قياس. |
+| [Value](../../aspose.gis.rendering/measurement/value/) { get; } | رقم يشير إلى طول القياس. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Inches](../../aspose.gis.rendering/measurement/inches/)(double) | إرجاع مثيل جديد من`قياس` التي تمثل الطول بالبوصة. |
-| static [MapUnits](../../aspose.gis.rendering/measurement/mapunits/)(double) | إرجاع مثيل جديد من`قياس` التي تمثل الطول في الخرائط وحدات الإسناد المكاني. |
-| static [MetersOnEarth](../../aspose.gis.rendering/measurement/metersonearth/)(double) | إرجاع مثيل جديد من`قياس` التي تمثل الطول بالأمتار على الأرض . |
-| static [Millimeters](../../aspose.gis.rendering/measurement/millimeters/)(double) | إرجاع مثيل جديد من`قياس` التي تمثل الطول بالميليمترات. |
-| static [Pixels](../../aspose.gis.rendering/measurement/pixels/)(double) | إرجاع مثيل جديد من`قياس` التي تمثل الطول بالبكسل. |
-| static [Points](../../aspose.gis.rendering/measurement/points/)(double) | إرجاع مثيل جديد من`قياس` التي تمثل الطول بالنقاط. |
-| override [ToString](../../aspose.gis.rendering/measurement/tostring/)() | إرجاع هذا المثيل بعد تحويله إلى سلسلة. |
-| [operator /](../../aspose.gis.rendering/measurement/op_division/) | قسّم القياس حسب العامل . |
-| [implicit operator](../../aspose.gis.rendering/measurement/op_implicit/) | إرجاع مثيل جديد من`قياس` التي تمثل الطول بالبكسل. |
-| [operator *](../../aspose.gis.rendering/measurement/op_multiply/) | ضرب القياس حسب العامل . |
+| static [Inches](../../aspose.gis.rendering/measurement/inches/)(double) | يعيد نسخة جديدة من `Measurement` تمثل الطول بالبوصة. |
+| static [MapUnits](../../aspose.gis.rendering/measurement/mapunits/)(double) | يعيد نسخة جديدة من `Measurement` تمثل الطول بوحدات الإشارة المكانية للخرائط. |
+| static [MetersOnEarth](../../aspose.gis.rendering/measurement/metersonearth/)(double) | يعيد نسخة جديدة من `Measurement` تمثل الطول بالأمتار على الأرض. |
+| static [Millimeters](../../aspose.gis.rendering/measurement/millimeters/)(double) | يعيد نسخة جديدة من `Measurement` تمثل الطول بالمليمترات. |
+| static [Pixels](../../aspose.gis.rendering/measurement/pixels/)(double) | يعيد نسخة جديدة من `Measurement` تمثل الطول بالبكسل. |
+| static [Points](../../aspose.gis.rendering/measurement/points/)(double) | يعيد نسخة جديدة من `Measurement` تمثل الطول بالنقاط. |
+| override [ToString](../../aspose.gis.rendering/measurement/tostring/)() | يعيد هذه النسخة محوّلة إلى سلسلة. |
+| [operator /](../../aspose.gis.rendering/measurement/op_division/) | قسّم القياس على العامل. |
+| [implicit operator](../../aspose.gis.rendering/measurement/op_implicit/) | يعيد نسخة جديدة من `Measurement` تمثل الطول بالبكسل. |
+| [operator *](../../aspose.gis.rendering/measurement/op_multiply/) | يضرب القياس في العامل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

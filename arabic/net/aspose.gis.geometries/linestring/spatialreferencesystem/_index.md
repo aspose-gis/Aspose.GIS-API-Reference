@@ -1,24 +1,24 @@
 ---
-title: LineString.SpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString ملكية. يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصيةnull  إذا لم يتم ضبط SpatialReferenceSystem . لن يؤدي تعيين SpatialReferenceSystem جديد أي تحويل إحداثي  سيتغير المرجع فقط.
+title: "LineString.SpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineString. تحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية `null` إذا لم يتم تعيين SpatialReferenceSystem. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، بل سيتغير المرجع فقط"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/linestring/spatialreferencesystem/
 ---
 ## LineString.SpatialReferenceSystem property
 
-يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصية`null` ، إذا لم يتم ضبط SpatialReferenceSystem . لن يؤدي تعيين SpatialReferenceSystem جديد أي تحويل إحداثي ، سيتغير المرجع فقط.
+يحصل على SpatialReferenceSystem لهذا المثيل. يمكن أن تكون هذه الخاصية `null` إذا لم يتم تعيين SpatialReferenceSystem. تعيين SpatialReferenceSystem جديد لن يقوم بأي تحويل إحداثيات، فقط سيتغير المرجع.
 
 ```csharp
 public SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

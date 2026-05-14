@@ -1,14 +1,14 @@
 ---
-title: GeometryCollection.GetEnumerator
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection طريقة. إرجاع عداد يتكرر خلال المجموعة.
+title: "GeometryCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryCollection. تُرجع عدّادًا يتنقل عبر المجموعة."
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/geometrycollection/getenumerator/
 ---
 ## GeometryCollection.GetEnumerator method
 
-إرجاع عداد يتكرر خلال المجموعة.
+يعيد عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<IGeometry> GetEnumerator()
@@ -16,13 +16,13 @@ public IEnumerator<IGeometry> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يمكن استخدامه للتكرار خلال المجموعة.
+عداد يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

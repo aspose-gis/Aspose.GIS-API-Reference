@@ -1,14 +1,14 @@
 ---
-title: SimpleMarker.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker طريقة. استنساخ هذا المثال .
+title: "SimpleMarker.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SimpleMarker. تستنسخ هذه النسخة."
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/clone/
 ---
 ## SimpleMarker.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public SimpleMarker Clone()
@@ -16,12 +16,12 @@ public SimpleMarker Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

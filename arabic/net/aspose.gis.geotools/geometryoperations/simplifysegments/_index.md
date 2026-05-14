@@ -1,34 +1,34 @@
 ---
-title: GeometryOperations.SimplifySegments
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryOperations طريقة. حذف النقاط الموجودة على نفس المقطع .
+title: "GeometryOperations.SimplifySegments"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryOperations. حذف النقاط الواقعة على نفس القطعة"
 type: docs
-weight: 50
+weight: 90
 url: /ar/net/aspose.gis.geotools/geometryoperations/simplifysegments/
 ---
 ## GeometryOperations.SimplifySegments method
 
-حذف النقاط الموجودة على نفس المقطع .
+حذف النقاط الواقعة على نفس المقطع.
 
 ```csharp
 public static IGeometry SimplifySegments(IGeometry geometry, SimplifySegmentsOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | الهندسة لحذف النقطة الزائدة |
-| options | SimplifySegmentsOptions | خيارات لحذف النقطة الإضافية |
+| هندسة | IGeometry | الهندسة لحذف النقطة الزائدة |
+| الخيارات | SimplifySegmentsOptions | خيارات حذف النقطة الزائدة |
 
 ### قيمة الإرجاع
 
-الهندسة بعد حذف النقطة الإضافية
+الهندسة بعد حذف النقطة الزائدة
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [SimplifySegmentsOptions](../../simplifysegmentsoptions/)
 * class [GeometryOperations](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../geometryoperations/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geometryoperations/)
+* assembly [Aspose.GIS](../../../)
 
 

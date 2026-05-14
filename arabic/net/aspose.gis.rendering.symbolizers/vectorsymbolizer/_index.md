@@ -1,14 +1,14 @@
 ---
-title: Class VectorSymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.VectorSymbolizer فصل. فئة الجذر المجردة للرموز التي تعرض ميزات المتجه.
+title: "الفئة VectorSymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.VectorSymbolizer. الفئة الجذرية المجردة للمُرمّزين الذين يصيرون ميزات المتجه."
 type: docs
-weight: 1970
+weight: 4420
 url: /ar/net/aspose.gis.rendering.symbolizers/vectorsymbolizer/
 ---
 ## VectorSymbolizer class
 
-فئة الجذر المجردة للرموز التي تعرض ميزات المتجه.
+الفئة الجذرية المجردة للرموز التي تعرض ميزات المتجهات.
 
 ```csharp
 public abstract class VectorSymbolizer
@@ -16,13 +16,13 @@ public abstract class VectorSymbolizer
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.symbolizers/vectorsymbolizer/null/) { get; } | ملف[`NullVectorSymbolizer`](../nullvectorsymbolizer/) لا يرسم شيئًا ويتخطى بشكل فعال عرض الهندسة التي يتم تطبيقها عليها. |
+| static [Null](../../aspose.gis.rendering.symbolizers/vectorsymbolizer/null/) { get; } | ال[`NullVectorSymbolizer`](../nullvectorsymbolizer/) لا يرسم شيئًا ويتخطى فعليًا تصيير الشكل الهندسي الذي يُطبق عليه. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

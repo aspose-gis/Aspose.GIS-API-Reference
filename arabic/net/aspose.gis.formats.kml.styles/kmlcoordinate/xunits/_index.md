@@ -1,24 +1,24 @@
 ---
-title: KmlCoordinate.XUnits
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlCoordinate ملكية. الوحدات التي يتم فيها تحديد قيمة X. القيمة الافتراضية هيFraction .
+title: "KmlCoordinate.XUnits"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlCoordinate. الوحدات التي يُحدّد بها قيمة X. القيمة الافتراضية هي Fraction"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmlcoordinate/xunits/
 ---
 ## KmlCoordinate.XUnits property
 
-الوحدات التي يتم فيها تحديد قيمة X. القيمة الافتراضية هيFraction .
+الوحدات التي يُحدَّد بها قيمة X. القيمة الافتراضية هي Fraction.
 
 ```csharp
 public KmlUnits XUnits { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [KmlUnits](../../kmlunits/)
 * class [KmlCoordinate](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlcoordinate/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlcoordinate/)
+* assembly [Aspose.GIS](../../../)
 
 

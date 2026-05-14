@@ -1,24 +1,24 @@
 ---
-title: Geometry.SpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصيةnull  هل SpatialReferenceSystem غير معروف . لن يؤدي تعيين SpatialReferenceSystem الجديد أي تحويل إحداثي  سيتغير المرجع فقط.
+title: "Geometry.SpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على SpatialReferenceSystem لهذه الحالة. يمكن أن تكون هذه الخاصية `null` إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، فقط سيتغير المرجع."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geometries/geometry/spatialreferencesystem/
 ---
 ## Geometry.SpatialReferenceSystem property
 
-يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصية`null` ، هل SpatialReferenceSystem غير معروف . لن يؤدي تعيين SpatialReferenceSystem الجديد أي تحويل إحداثي ، سيتغير المرجع فقط.
+يحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية `null` إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، بل سيتغير المرجع فقط.
 
 ```csharp
 public abstract SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

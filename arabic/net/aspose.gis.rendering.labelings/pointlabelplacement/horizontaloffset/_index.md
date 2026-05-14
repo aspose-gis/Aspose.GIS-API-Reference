@@ -1,24 +1,24 @@
 ---
-title: PointLabelPlacement.HorizontalOffset
-second_title: Aspose.GIS لمرجع .NET API
-description: PointLabelPlacement ملكية. يحدد إزاحة أفقية من موقع نقطة إلى نقطة ربط التسميات.
+title: "PointLabelPlacement.HorizontalOffset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PointLabelPlacement. تحدد الإزاحة الأفقية من موقع النقطة إلى نقطة ارتكاز الملصقات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset/
 ---
 ## PointLabelPlacement.HorizontalOffset property
 
-يحدد إزاحة أفقية من موقع نقطة إلى نقطة ربط التسميات.
+يحدد الإزاحة الأفقية من موقع النقطة إلى نقطة ارتكاز التسمية.
 
 ```csharp
 public Measurement HorizontalOffset { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [PointLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

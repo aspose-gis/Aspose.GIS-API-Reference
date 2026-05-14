@@ -1,23 +1,23 @@
 ---
-title: AttributesConverterActions.AttributesConverterActions
-second_title: Aspose.GIS لمرجع .NET API
-description: AttributesConverterActions البناء. Default_Constructor
+title: "AttributesConverterActions.AttributesConverterActions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ AttributesConverterActions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/attributesconverteractions/attributesconverteractions/
 ---
 ## AttributesConverterActions constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public AttributesConverterActions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AttributesConverterActions](../)
-* مساحة الاسم [Aspose.Gis](../../attributesconverteractions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../attributesconverteractions/)
+* assembly [Aspose.GIS](../../../)
 
 

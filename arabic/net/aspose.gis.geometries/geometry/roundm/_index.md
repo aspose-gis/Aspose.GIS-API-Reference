@@ -1,33 +1,33 @@
 ---
-title: Geometry.RoundM
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. تنسق الجولات M لعدد محدد من الأرقام الكسرية.
+title: "Geometry.RoundM"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تقرب إحداثي M إلى عدد محدد من الأرقام العشرية."
 type: docs
 weight: 320
 url: /ar/net/aspose.gis.geometries/geometry/roundm/
 ---
 ## Geometry.RoundM method
 
-تنسق الجولات M لعدد محدد من الأرقام الكسرية.
+يقرب إحداثي M إلى عدد محدد من الأرقام العشرية.
 
 ```csharp
 public void RoundM(int digits)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| digits | Int32 | عدد الكسور. |
+| أرقام | Int32 | عدد الأرقام العشرية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | *digits* أقل من 0 أو أكبر من 15. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

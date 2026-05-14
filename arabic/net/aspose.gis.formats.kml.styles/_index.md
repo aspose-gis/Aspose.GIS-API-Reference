@@ -1,36 +1,36 @@
 ---
-title: Aspose.Gis.Formats.Kml.Styles
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml. Styles توفر مساحة الاسم فئات للعمل مع أنماط KML .
+title: "Aspose.Gis.Formats.Kml.Styles"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.Kml.Styles توفر فئات للعمل مع أنماط KML."
 type: docs
-weight: 130
+weight: 360
 url: /ar/net/aspose.gis.formats.kml.styles/
 ---
-`Aspose.Gis.Formats.Kml. Styles` توفر مساحة الاسم فئات للعمل مع أنماط KML .
+`Aspose.Gis.Formats.Kml.Styles` مساحة الاسم توفر فئات للعمل مع أنماط KML.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [KmlAbstractColorStyle](./kmlabstractcolorstyle/) | يوفر عناصر لتعيين لون وصيغة الألوان لأنواع الأنماط المشتقة منها. |
-| [KmlBalloonStyle](./kmlballoonstyle/) | يحدد كيفية رسم بالون الوصف. |
+| [KmlAbstractColorStyle](./kmlabstractcolorstyle/) | يوفر عناصر لتحديد اللون ووضع اللون لأنواع الأنماط التي تُستمد منه. |
+| [KmlBalloonStyle](./kmlballoonstyle/) | يحدد كيفية رسم فقاعة الوصف. |
 | [KmlCoordinate](./kmlcoordinate/) | يحدد نظام إحداثيات الصورة. |
-| [KmlFeatureStyle](./kmlfeaturestyle/) | تؤثر الأنماط على كيفية تقديم الهندسة . يتم ترميز أنماط Ths في قسم المستند ولها معرف فريد لكل نمط . تُعرف هذه الأنماط باسم "الأنماط المشتركة" في مواصفات kml. |
-| [KmlIconResource](./kmliconresource/) | يحدد موقع مورد الرمز |
-| [KmlIconStyle](./kmliconstyle/) | يحدد كيفية رموز kml: العلامات الموضعية و kml: PhotoOverlay مع kml: هندسة النقاط يتم رسمها في قائمة مستعرض Earth وطرق العرض الجغرافية . |
-| [KmlItemIcon](./kmlitemicon/) | يحدد موقع مورد رمز في قائمة. |
+| [KmlFeatureStyle](./kmlfeaturestyle/) | تؤثر الأنماط على طريقة عرض الهندسة. تُشفّر هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه باسم 'الأنماط المشتركة' في مواصفة kml. |
+| [KmlIconResource](./kmliconresource/) | يحدد موقع مورد الأيقونة |
+| [KmlIconStyle](./kmliconstyle/) | يحدد كيفية رسم الأيقونات لـ kml:Placemarks و kml:PhotoOverlay مع هندسة kml:Point في قائمة وعروض المتصفح الأرضية. |
+| [KmlItemIcon](./kmlitemicon/) | يحدد موقع مورد الأيقونة في القائمة. |
 | [KmlLabelStyle](./kmllabelstyle/) | يحدد كيفية رسم التسمية في العرض الجغرافي. |
-| [KmlLineStyle](./kmllinestyle/) | يحدد كيفية رسم اسم kml: AbstractFeatureGroup في العرض الجغرافي. |
-| [KmlListStyle](./kmlliststyle/) | يحدد كيفية عرض المعالم في عرض القائمة. |
-| [KmlPolygonStyle](./kmlpolygonstyle/) | يحدد نمط الرسم للمضلع ، بما في ذلك المضلع والجزء المبثوق من kml: مضلع أو LineString. |
+| [KmlLineStyle](./kmllinestyle/) | يحدد كيفية رسم اسم kml:AbstractFeatureGroup في العرض الجغرافي. |
+| [KmlListStyle](./kmlliststyle/) | يحدد كيفية عرض Feature في عرض القائمة. |
+| [KmlPolygonStyle](./kmlpolygonstyle/) | يحدد نمط الرسم لـ Polygon، بما في ذلك Polygon والجزء المستخرج من kml:Polygon أو LineString. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [KmlColorModes](./kmlcolormodes/) | يحدد صيغة اللون لعنصر رسومي. |
-| [KmlDisplayModes](./kmldisplaymodes/) | يتحكم في ما إذا كان سيتم عرض العنصر أو إخفاؤه. |
-| [KmlItemIconStates](./kmlitemiconstates/) | تحدد الحالة الحالية لـ kml: NetworkLink أو kml: Folder. |
-| [KmlItemTypes](./kmlitemtypes/) | يحدد كيفية عرض KML: الميزة ومحتوياتها كعناصر في عرض القائمة. |
-| [KmlUnits](./kmlunits/) | يحدد وحدات نظام إحداثيات الصورة. |
+| [KmlColorModes](./kmlcolormodes/) | يحدد وضع اللون لعنصر رسومي. |
+| [KmlDisplayModes](./kmldisplaymodes/) | يتحكم فيما إذا كان العنصر معروضًا أم مخفيًا. |
+| [KmlItemIconStates](./kmlitemiconstates/) | يحدد الحالة الحالية لـ kml:NetworkLink أو kml:Folder. |
+| [KmlItemTypes](./kmlitemtypes/) | يحدد كيفية عرض kml:Feature ومحتوياته كعناصر في عرض القائمة. |
+| [KmlUnits](./kmlunits/) | يحدد الوحدات لنظام إحداثيات الصورة. |
 
 

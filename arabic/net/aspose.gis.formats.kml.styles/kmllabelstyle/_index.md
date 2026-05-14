@@ -1,9 +1,9 @@
 ---
-title: Class KmlLabelStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlLabelStyle فصل. يحدد كيفية رسم التسمية في العرض الجغرافي.
+title: "الفئة KmlLabelStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlLabelStyle. تحدد كيفية رسم التسمية في العرض الجغرافي"
 type: docs
-weight: 530
+weight: 2170
 url: /ar/net/aspose.gis.formats.kml.styles/kmllabelstyle/
 ---
 ## KmlLabelStyle class
@@ -14,24 +14,24 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmllabelstyle/
 public class KmlLabelStyle : KmlAbstractColorStyle
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlLabelStyle](kmllabelstyle/)() | Default_Constructor |
+| [KmlLabelStyle](kmllabelstyle/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون عنصر الرسم. القيمة الافتراضيةWhite . |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد صيغة اللون لعنصر الرسوم. القيمة الافتراضية: عادي. |
-| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale/) { get; set; } | يحدد عامل مقياس ليتم تطبيقه على التسمية. القيمة الافتراضية هي "1". |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale/) { get; set; } | يحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي '1'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlAbstractColorStyle](../kmlabstractcolorstyle/)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

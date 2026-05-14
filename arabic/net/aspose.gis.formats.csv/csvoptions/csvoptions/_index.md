@@ -1,23 +1,23 @@
 ---
-title: CsvOptions.CsvOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvOptions البناء. إنشاء مثيل جديد .
+title: "CsvOptions.CsvOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ CsvOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.csv/csvoptions/csvoptions/
 ---
 ## CsvOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public CsvOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,61 +1,61 @@
 ---
-title: FeatureAttributeCollection.Remove
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttributeCollection طريقة. يزيل السمة من المجموعة .
+title: "FeatureAttributeCollection.Remove"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeatureAttributeCollection. تزيل السمة من المجموعة"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/featureattributecollection/remove/
 ---
 ## Remove(string) {#remove_1}
 
-يزيل السمة من المجموعة .
+يزيل الخاصية من المجموعة.
 
 ```csharp
 public void Remove(string name)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم السمة. |
+| الاسم | String | اسم السمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| InvalidOperationException | المجموعة مؤمنة. |
+| ArgumentNullException | الوسيط هو `null`. |
+| InvalidOperationException | المجموعة مقفلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Remove(int) {#remove}
 
-يزيل السمة من المجموعة .
+يزيل الخاصية من المجموعة.
 
 ```csharp
 public void Remove(int index)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس السمة. |
+| الفهرس | Int32 | فهرس السمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | المجموعة مؤمنة. |
-| ArgumentOutOfRangeException | الفهرس خارج النطاق. |
+| InvalidOperationException | المجموعة مقفلة. |
+| ArgumentOutOfRangeException | المؤشر خارج النطاق. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

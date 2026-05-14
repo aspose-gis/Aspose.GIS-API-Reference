@@ -1,14 +1,14 @@
 ---
-title: MapLayer.Opacity
-second_title: Aspose.GIS لمرجع .NET API
-description: MapLayer ملكية. عتامة الطبقة .
+title: "MapLayer.Opacity"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MapLayer. شفافية الطبقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/maplayer/opacity/
 ---
 ## MapLayer.Opacity property
 
-عتامة الطبقة .
+شفافية الطبقة.
 
 ```csharp
 public double Opacity { get; set; }
@@ -16,14 +16,14 @@ public double Opacity { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الوسيطة أقل من 0 أو أكبر من 1. |
+| ArgumentOutOfRangeException | الوسيط أصغر من 0 أو أكبر من 1. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapLayer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../maplayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../maplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

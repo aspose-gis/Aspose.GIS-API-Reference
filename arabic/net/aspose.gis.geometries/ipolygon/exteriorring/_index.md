@@ -1,28 +1,32 @@
 ---
-title: IPolygon.ExteriorRing
-second_title: Aspose.GIS لمرجع .NET API
-description: IPolygon ملكية. يحصل على الحلقة الخارجية .
+title: "IPolygon.ExteriorRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IPolygon. يحصل على الحلقة الخارجية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/ipolygon/exteriorring/
 ---
 ## IPolygon.ExteriorRing property
 
-يحصل على الحلقة الخارجية .
+يحصل على الحلقة الخارجية.
 
 ```csharp
 public ILinearRing ExteriorRing { get; }
 ```
 
-### Property_Value
+### قيمة الإرجاع
 
-الحلقة الخارجية .
+الحلقة الخارجية.
 
-### أنظر أيضا
+### Property Value
+
+الحلقة الخارجية.
+
+### انظر أيضًا
 
 * interface [ILinearRing](../../ilinearring/)
 * interface [IPolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../ipolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ipolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

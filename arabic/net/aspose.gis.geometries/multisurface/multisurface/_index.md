@@ -1,23 +1,23 @@
 ---
-title: MultiSurface.MultiSurface
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiSurface البناء. يقوم بتهيئة مثيل جديد لملفMultiSurface فئة .
+title: "MultiSurface.MultiSurface"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MultiSurface. يهيئ نسخة جديدة من فئة MultiSurface"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/multisurface/multisurface/
 ---
 ## MultiSurface constructor
 
-يقوم بتهيئة مثيل جديد لملف[`MultiSurface`](../) فئة .
+يهيئ نسخة جديدة من فئة [`MultiSurface`](../).
 
 ```csharp
 public MultiSurface()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiSurface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multisurface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multisurface/)
+* assembly [Aspose.GIS](../../../)
 
 

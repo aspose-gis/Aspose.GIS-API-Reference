@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.Csv
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Csv توفر مساحة الاسم فئات للعمل بتنسيق CSV.
+title: "Aspose.Gis.Formats.Csv"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.Csv توفر فئات للعمل مع تنسيق CSV"
 type: docs
-weight: 20
+weight: 190
 url: /ar/net/aspose.gis.formats.csv/
 ---
-`Aspose.Gis.Formats.Csv` توفر مساحة الاسم فئات للعمل بتنسيق CSV.
+`Aspose.Gis.Formats.Csv` مساحة الاسم توفر فئات للعمل مع صيغة CSV.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [CsvDriver](./csvdriver/) | برنامج تشغيل لتنسيق CSV . |
-| [CsvOptions](./csvoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق CSV . |
+| [CsvDriver](./csvdriver/) | محرك لتنسيق CSV. |
+| [CsvOptions](./csvoptions/) | خيارات خاصة بالمحرك لتنسيق CSV. |
 
 

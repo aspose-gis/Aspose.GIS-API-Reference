@@ -1,14 +1,14 @@
 ---
-title: Surface.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: Surface طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "Surface.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Surface. تحصل على نسخة قابلة للتحرير من هذه geometry."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/surface/toeditable/
 ---
 ## Surface.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public Surface ToEditable()
@@ -16,12 +16,12 @@ public Surface ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Surface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../surface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../surface/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: MarkerPatternFill.HorizontalDisplacement
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerPatternFill ملكية. يحدد الإزاحة الأفقية للعلامات الموجودة في خط أفقي زوجي.
+title: "MarkerPatternFill.HorizontalDisplacement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerPatternFill. تحدد الإزاحة الأفقية للعلامات في الخط الأفقي المتساوي."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement/
 ---
 ## MarkerPatternFill.HorizontalDisplacement property
 
-يحدد الإزاحة الأفقية للعلامات الموجودة في خط أفقي زوجي.
+يحدد الإزاحة الأفقية للعلامات في الخط الأفقي الزوجي.
 
 ```csharp
 public Measurement HorizontalDisplacement { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [MarkerPatternFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 

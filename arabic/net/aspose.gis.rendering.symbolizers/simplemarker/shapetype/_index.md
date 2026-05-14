@@ -1,7 +1,7 @@
 ---
-title: SimpleMarker.ShapeType
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker ملكية. يحدد شكل العلامة.
+title: "SimpleMarker.ShapeType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleMarker. تحدد شكل العلامة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/shapetype/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/shapetype/
 public MarkerShapeType ShapeType { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MarkerShapeType](../../markershapetype/)
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

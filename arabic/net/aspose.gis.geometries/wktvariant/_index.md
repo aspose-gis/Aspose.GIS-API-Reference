@@ -1,30 +1,30 @@
 ---
-title: Enum WktVariant
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.WktVariant تعداد. متغير النص المشهور
+title: "التعداد WktVariant"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Geometries.WktVariant. نسخة WellKnown Text."
 type: docs
-weight: 1230
+weight: 3010
 url: /ar/net/aspose.gis.geometries/wktvariant/
 ---
 ## WktVariant enumeration
 
-متغير النص المشهور
+الصيغة من Well-Known Text
 
 ```csharp
 public enum WktVariant
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| SimpleFeatureAccessOutdated | `0` | النص المعروف جيدًا المتوافق مع مواصفات الوصول إلى الميزة البسيطة ، الإصدار 1.1. |
-| Iso | `1` | نص معروف متوافقًا مع معيار ISO "حزم الوسائط المتعددة والتطبيق SQL - الجزء 3: المكاني" و مواصفات الوصول إلى الميزة البسيطة ، الإصدار 1.2. |
-| ExtendedPostGis | `2` | متغير نص موسع معروف جيدًا تم تصميمه بواسطة PostGIS والذي يقوم بتصدير معرف نظام الإسناد المكاني (رمز EPSG) . |
+| SimpleFeatureAccessOutdated | `0` | نص معروف جيدًا (Well-Known Text) متوافق مع مواصفة Simple Feature Access، الإصدار 1.1. |
+| Iso | `1` | نص معروف جيدًا (Well-Known Text) متوافق مع المعيار ISO \"SQL Multimedia and application packages - Part 3: Spatial\" ومواصفة Simple Feature Access، الإصدار 1.2. |
+| ExtendedPostGis | `2` | نسخة موسعة من Well-Known Text صممتها PostGIS لتصدير معرف نظام الإحداثيات المكانية (رمز EPSG). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

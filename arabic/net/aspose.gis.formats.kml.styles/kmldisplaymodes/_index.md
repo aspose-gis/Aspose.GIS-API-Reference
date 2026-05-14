@@ -1,29 +1,29 @@
 ---
-title: Enum KmlDisplayModes
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlDisplayModes تعداد. يتحكم في ما إذا كان سيتم عرض العنصر أو إخفاؤه.
+title: "تعداد KmlDisplayModes"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "تعداد Aspose.Gis.Formats.Kml.Styles.KmlDisplayModes. يتحكم فيما إذا كان العنصر معروضًا أم مخفيًا"
 type: docs
-weight: 460
+weight: 2100
 url: /ar/net/aspose.gis.formats.kml.styles/kmldisplaymodes/
 ---
 ## KmlDisplayModes enumeration
 
-يتحكم في ما إذا كان سيتم عرض العنصر أو إخفاؤه.
+يتحكم فيما إذا كان العنصر معروضًا أم مخفيًا.
 
 ```csharp
 public enum KmlDisplayModes
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Show | `0` | يُحدد لإظهار العنصر (المعروف باسم "افتراضي" في مواصفات kml). |
-| Hide | `1` | يُحدد لإخفاء العنصر. |
+| Show | `0` | يحدد إظهار العنصر (المعروف باسم 'default' في مواصفة kml). |
+| Hide | `1` | يحدد إخفاء العنصر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

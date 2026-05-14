@@ -1,23 +1,23 @@
 ---
-title: SpatialReferenceSystem.DimensionsCount
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. إرجاع عدد الأبعاد في SRS.
+title: "SpatialReferenceSystem.DimensionsCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تُرجع عدد الأبعاد في هذا SRS"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/dimensionscount/
 ---
 ## SpatialReferenceSystem.DimensionsCount property
 
-إرجاع عدد الأبعاد في SRS.
+يعيد عدد الأبعاد في هذا SRS.
 
 ```csharp
 public abstract int DimensionsCount { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

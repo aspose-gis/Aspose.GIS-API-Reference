@@ -1,23 +1,23 @@
 ---
-title: RasterStatistics.Min
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterStatistics ملكية. الحد الأدنى لقيمة الخلايا المحسوبة أو قيم البكسل .
+title: "RasterStatistics.Min"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterStatistics. القيمة الدنيا للخلايا أو قيم البكسل التي تم عدّها"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/rasterstatistics/min/
 ---
 ## RasterStatistics.Min property
 
-الحد الأدنى لقيمة الخلايا المحسوبة أو قيم البكسل .
+القيمة الدنيا للخلايا أو قيم البكسل التي تم عدّها.
 
 ```csharp
 public double? Min { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterStatistics](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterstatistics/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterstatistics/)
+* assembly [Aspose.GIS](../../../)
 
 

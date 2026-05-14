@@ -1,14 +1,14 @@
 ---
-title: GeometryCollection.ToLinearGeometry
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection طريقة. الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضيتسامح .
+title: "GeometryCollection.ToLinearGeometry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryCollection. تحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام التسامح الافتراضي"
 type: docs
 weight: 220
 url: /ar/net/aspose.gis.geometries/geometrycollection/tolineargeometry/
 ---
 ## ToLinearGeometry() {#tolineargeometry_2}
 
-الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام الإعداد الافتراضي`تسامح` .
+يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` الافتراضي.
 
 ```csharp
 public IGeometryCollection ToLinearGeometry()
@@ -16,51 +16,51 @@ public IGeometryCollection ToLinearGeometry()
 
 ### قيمة الإرجاع
 
-شكل هندسي لا يحتوي على أشكال هندسية لمنحنى. هذا يعادل[`ToLinearGeometry`](../../igeometrycollection/tolineargeometry/) with افتراضي`تسامح` . تقصير`تسامح` تعتمد قيمة s على[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) من هذه الهندسة:  بالنسبة لـ SRS Tolerance المتوقع هو 0.001 متر (بوحدات SRS) بالنسبة لـ SRS Tolerance الجغرافي هو`1e-5` درجات (بوحدات SRS) بالنسبة إلى غير معروف SRS Tolerance هو`1e-5` لمزيد من التفاصيل حول ماهية التحويلات المطبقة ، يرجى الرجوع إلى[`ToLinearGeometry`](../../igeometrycollection/tolineargeometry/) المواصفات .
+هندسة لا تحتوي على هندسات منحنية. هذه هي المكافئة لـ [`ToLinearGeometry`](../../igeometrycollection/tolineargeometry/) مع `tolerance` الافتراضي. قيمة `tolerance` الافتراضية تعتمد على [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) لهذه الهندسة:  بالنسبة إلى نظام الإحداثيات المُسقَّط (SRS) يكون التسامح 0.001 متر (بوحدات SRS)  بالنسبة إلى نظام الإحداثيات الجغرافي (SRS) يكون التسامح `1e-5` درجة (بوحدات SRS)  بالنسبة إلى نظام إحداثيات غير معروف يكون التسامح `1e-5` للمزيد من التفاصيل حول التحويلات المطبقة راجع مواصفة [`ToLinearGeometry`](../../igeometrycollection/tolineargeometry/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | هذه الهندسة غير صالحة من هذا القبيل ، ولا يمكن إتمام هذه العملية . |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometryCollection](../../igeometrycollection/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## ToLinearGeometry(double) {#tolineargeometry_3}
 
-الحصول على إصدار تقريبي أو مكافئ غير منحني من هذه الهندسة باستخدام المحدد`تسامح` .
+يحصل على نسخة تقريبية أو مكافئة غير منحنية لهذه الهندسة باستخدام `tolerance` المحدد.
 
 ```csharp
 public IGeometryCollection ToLinearGeometry(double tolerance)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| tolerance | Double | ملف`تسامح`ليستخدم. النتيجة مضمونة أن تكون أقل من`تسامح` بعيدًا عن الهندسة المنحنية _ . |
+| التسامح | Double | `tolerance` المراد استخدامها. النتيجة مضمونة أن تكون أقل من `tolerance` بعيدًا عن الهندسة المنحنية. |
 
 ### قيمة الإرجاع
 
-شكل هندسي لا يحتوي على أشكال هندسية لمنحنى. يتم تطبيق التحولات التالية: CircularString s هي linearized (تتحول إلىLineString ق مع المحدد*tolerance* )CompoundCurve انضمت إلى s`LineString` سCurvePolygon يتم تحويل الصورة إلىPolygon سMultiCurve يتم تحويل الصورة إلىMultiCurve سMultiSurface يتم تحويل الصورة إلىMultiPolygon س نتيجة لذلك ،[`HasCurveGeometry`](../../igeometry/hascurvegeometry/) من هندسة الإخراج`false` .
+هندسة لا تحتوي على هندسات منحنية. يتم تطبيق التحويلات التالية: يتم تحويل CircularStrings إلى خطية (تحويلها إلى LineStrings مع *tolerance* المحدد) يتم دمج CompoundCurves في `LineString`s يتم تحويل CurvePolygons إلى Polygons يتم تحويل MultiCurves إلى MultiCurves يتم تحويل MultiSurfaces إلى MultiPolygons  نتيجة لذلك، تكون قيمة [`HasCurveGeometry`](../../igeometry/hascurvegeometry/) للهندسة الناتجة `false`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | `تسامح` أصغر من أو يساوي`0` . |
-| InvalidOperationException | هذه الهندسة غير صالحة من هذا القبيل ، ولا يمكن إتمام هذه العملية . |
+| ArgumentOutOfRangeException | `tolerance` أقل من أو يساوي `0`. |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometryCollection](../../igeometrycollection/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

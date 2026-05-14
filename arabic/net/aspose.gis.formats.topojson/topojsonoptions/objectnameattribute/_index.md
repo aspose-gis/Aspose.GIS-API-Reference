@@ -1,27 +1,27 @@
 ---
-title: TopoJsonOptions.ObjectNameAttribute
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonOptions ملكية. اسم السمة  الذي يعكس اسم الكائن الذي يحتوي على ميزة .
+title: "TopoJsonOptions.ObjectNameAttribute"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية TopoJsonOptions. اسم السمة التي تعكس اسم الكائن الذي يحتوي على ميزة."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.topojson/topojsonoptions/objectnameattribute/
 ---
 ## TopoJsonOptions.ObjectNameAttribute property
 
-اسم السمة ، الذي يعكس اسم الكائن الذي يحتوي على ميزة .
+اسم الخاصية التي تعكس اسم الكائن الذي يحتوي على ميزة.
 
 ```csharp
 public string ObjectNameAttribute { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-قد يحتوي TopoJSON على أي عدد من الكائنات المسماة. كل كائن يمكن أن يحتوي على ميزات متعددة. راجع مواصفات TopoJSON للحصول على مزيد من التفاصيل حول الكائنات المسماة . عند قراءة TopoJSON ، تحدد هذه الخاصية ، ما هي السمة التي يجب أن تعكس اسم الكائن الذي يحتوي على ميزة. في objects. الافتراضي هو "topojson_object_name" .
+يمكن أن يحتوي TopoJSON على أي عدد من الكائنات المسماة. كل كائن من هذا النوع يمكنه احتواء عدة ميزات. راجع مواصفة TopoJSON لمزيد من التفاصيل حول الكائنات المسماة. عند قراءة TopoJSON، تحدد هذه الخاصية السمة التي يجب أن تعكس اسم الكائن الذي يحتوي على ميزة. عند كتابة TopoJSON، تحدد هذه الخاصية السمة التي يجب استخدامها لتجميع الميزات في الكائنات. القيمة الافتراضية هي "topojson_object_name".
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

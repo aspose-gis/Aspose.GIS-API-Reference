@@ -1,7 +1,7 @@
 ---
-title: Axis.Name
-second_title: Aspose.GIS لمرجع .NET API
-description: Axis ملكية. اسم هذا المحور.
+title: "Axis.Name"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Axis. اسم هذا المحور"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/axis/name/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.spatialreferencing/axis/name/
 public string Name { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../axis/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../axis/)
+* assembly [Aspose.GIS](../../../)
 
 

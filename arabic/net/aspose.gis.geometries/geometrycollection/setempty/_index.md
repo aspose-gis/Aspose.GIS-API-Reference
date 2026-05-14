@@ -1,23 +1,23 @@
 ---
-title: GeometryCollection.SetEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection طريقة. يجعل هذاGeometry فارغ .
+title: "GeometryCollection.SetEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryCollection. تجعل هذا Geometry فارغًا"
 type: docs
 weight: 200
 url: /ar/net/aspose.gis.geometries/geometrycollection/setempty/
 ---
 ## GeometryCollection.SetEmpty method
 
-يجعل هذا[`Geometry`](../../geometry/) فارغ .
+يجعل هذا الـ[`Geometry`](../../geometry/) فارغًا.
 
 ```csharp
 public override void SetEmpty()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

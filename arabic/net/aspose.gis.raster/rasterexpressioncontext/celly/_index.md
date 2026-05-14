@@ -1,23 +1,23 @@
 ---
-title: RasterExpressionContext.CellY
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterExpressionContext ملكية. الحصول على أو تحديد قيمة الصف إحداثيات ص. يبدأ الترقيم من 0.
+title: "RasterExpressionContext.CellY"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterExpressionContext. تحصل أو تعين قيمة الصف ycoordinate. يبدأ الترقيم من 0"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rasterexpressioncontext/celly/
 ---
 ## RasterExpressionContext.CellY property
 
-الحصول على أو تحديد قيمة الصف (إحداثيات ص). يبدأ الترقيم من 0.
+الحصول أو تعيين قيمة الصف (الإحداثي y). يبدأ الترقيم من 0.
 
 ```csharp
 public int CellY { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [RasterExpressionContext](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterexpressioncontext/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterexpressioncontext/)
+* assembly [Aspose.GIS](../../../)
 
 

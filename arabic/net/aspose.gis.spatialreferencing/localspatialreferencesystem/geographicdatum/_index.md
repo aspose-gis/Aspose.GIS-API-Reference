@@ -1,24 +1,24 @@
 ---
-title: LocalSpatialReferenceSystem.GeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalSpatialReferenceSystem ملكية. رمياتInvalidOperationException نظرًا لأن خدمة SRS المحلية لا تحتوي على بيانات جغرافية.
+title: "LocalSpatialReferenceSystem.GeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LocalSpatialReferenceSystem. تُطلق InvalidOperationException لأن نظام الإحداثيات المحلي لا يحتوي على datum جغرافي"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/geographicdatum/
 ---
 ## LocalSpatialReferenceSystem.GeographicDatum property
 
-رمياتInvalidOperationException، نظرًا لأن خدمة SRS المحلية لا تحتوي على بيانات جغرافية.
+يرمي InvalidOperationException، لأن Local SRS لا يحتوي على مرجع جغرافي.
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../../geographicdatum/)
 * class [LocalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

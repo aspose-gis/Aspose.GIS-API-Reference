@@ -1,24 +1,24 @@
 ---
-title: KmlIconStyle.HotSpot
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlIconStyle ملكية. يحدد موضع النقطة المرجعية على الرمز المرتبط بالنقطة المحددة في العلامة الموضعية . القيمة الافتراضية هيnull يعني ضياع HotSpot .
+title: "KmlIconStyle.HotSpot"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlIconStyle. تحدد موضع نقطة الإشارة على الأيقونة المثبتة على النقطة المحددة في Placemark. القيمة الافتراضية هي null تعني أن HotSpot مفقود"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmliconstyle/hotspot/
 ---
 ## KmlIconStyle.HotSpot property
 
-يحدد موضع النقطة المرجعية على الرمز المرتبط بالنقطة المحددة في العلامة الموضعية . القيمة الافتراضية هي`null` يعني ضياع HotSpot .
+تحدد موضع نقطة المرجع على الأيقونة المثبتة على النقطة المحددة في Placemark. القيمة الافتراضية هي `null` تعني أن HotSpot مفقود.
 
 ```csharp
 public KmlCoordinate HotSpot { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlCoordinate](../../kmlcoordinate/)
 * class [KmlIconStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmliconstyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmliconstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

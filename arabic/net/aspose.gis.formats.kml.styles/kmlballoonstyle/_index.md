@@ -1,37 +1,37 @@
 ---
-title: Class KmlBalloonStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlBalloonStyle فصل. يحدد كيفية رسم بالون الوصف.
+title: "الفئة KmlBalloonStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlBalloonStyle. تحدد كيفية رسم الفقاعة الوصفية"
 type: docs
-weight: 430
+weight: 2070
 url: /ar/net/aspose.gis.formats.kml.styles/kmlballoonstyle/
 ---
 ## KmlBalloonStyle class
 
-يحدد كيفية رسم بالون الوصف.
+يحدد كيفية رسم فقاعة الوصف.
 
 ```csharp
 public class KmlBalloonStyle
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlBalloonStyle](kmlballoonstyle/)() | Default_Constructor |
+| [KmlBalloonStyle](kmlballoonstyle/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor/) { get; set; } | يحدد لون الخلفية لعنصر الرسم. القيمة الافتراضية هيWhite . |
-| [DisplayMode](../../aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode/) { get; set; } | يتحكم في ما إذا كان البالون معروضًا أو مخفيًا. القيمة الافتراضية هيShow |
-| [Text](../../aspose.gis.formats.kml.styles/kmlballoonstyle/text/) { get; set; } | يحدد النص المعروض في البالون. القيمة الافتراضية هي`null` . |
-| [TextColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor/) { get; set; } | يحدد لون المقدمة للنص. القيمة الافتراضية هيBlack . |
+| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/backgroundcolor/) { get; set; } | يحدد لون الخلفية للعنصر الرسومي. القيمة الافتراضية أبيض. |
+| [DisplayMode](../../aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode/) { get; set; } | يتحكم فيما إذا كانت الفقاعة معروضة أو مخفية. القيمة الافتراضية هي إظهار |
+| [Text](../../aspose.gis.formats.kml.styles/kmlballoonstyle/text/) { get; set; } | يحدد النص المعروض في الفقاعة. القيمة الافتراضية هي `null`. |
+| [TextColor](../../aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor/) { get; set; } | يحدد لون النص الأمامي. القيمة الافتراضية أسود. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

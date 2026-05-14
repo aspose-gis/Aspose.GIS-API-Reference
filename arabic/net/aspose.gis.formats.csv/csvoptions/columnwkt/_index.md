@@ -1,27 +1,27 @@
 ---
-title: CsvOptions.ColumnWkt
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvOptions ملكية. الحصول على اسم عمود أو تعيينه يحتوي على نص معروف جيدًا لتمثيل الهندسة . الإعداد الافتراضي هوnull .
+title: "CsvOptions.ColumnWkt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CsvOptions. تحصل أو تعيين اسم العمود الذي يحتوي على WellKnown Text لتمثيل الهندسة. القيمة الافتراضية هي null"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.csv/csvoptions/columnwkt/
 ---
 ## CsvOptions.ColumnWkt property
 
-الحصول على اسم عمود أو تعيينه يحتوي على نص معروف جيدًا لتمثيل الهندسة . الإعداد الافتراضي هو`null` .
+يحصل أو يعيّن اسم العمود الذي يحتوي على نص معروف جيدًا (Well-Known Text) لتمثيل الهندسة. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string ColumnWkt { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-إذا كانت قيمة العمود`null` أو`empty string` لن يتم إنشاء هندسة تستند إلى نص معروف جيدًا.
+إذا كانت قيمة العمود `null` أو `empty string` لن يتم إنشاء هندسة تعتمد على Well-Known Text.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

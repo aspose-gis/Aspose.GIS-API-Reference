@@ -1,31 +1,31 @@
 ---
-title: LocalSpatialReferenceSystem.Validate
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalSpatialReferenceSystem طريقة. تحديد ما إذا كان SRS هذا صالحًا. يرىValidate لوصف الصلاحية.
+title: "LocalSpatialReferenceSystem.Validate"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LocalSpatialReferenceSystem. تحديد ما إذا كان هذا SRS صالحًا. راجع Validate للحصول على وصف الصلاحية."
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/validate/
 ---
 ## LocalSpatialReferenceSystem.Validate method
 
-تحديد ما إذا كان SRS هذا صالحًا. يرى[`Validate`](../../spatialreferencesystem/validate/) لوصف الصلاحية.
+تحديد ما إذا كان هذا SRS صالحًا. راجع [`Validate`](../../spatialreferencesystem/validate/) للحصول على وصف الصلاحية.
 
 ```csharp
 public override bool Validate(out string errorMessage)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| errorMessage | String& | وصف البطلان (إذا كانت النتيجة`false`) |
+| errorMessage | String& | وصف عدم الصلاحية (إذا كانت النتيجة `false`) |
 
 ### قيمة الإرجاع
 
-إذا كان هذا SRS صالحًا -`true` ، خلاف ذلك -`false`.
+إذا كان هذا SRS صالحًا - `true`، وإلا - `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LocalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

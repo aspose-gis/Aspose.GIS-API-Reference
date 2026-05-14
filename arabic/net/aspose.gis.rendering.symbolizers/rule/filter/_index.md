@@ -1,24 +1,24 @@
 ---
-title: Rule.Filter
-second_title: Aspose.GIS لمرجع .NET API
-description: Rule ملكية. تحديد ما إذا كان يجب على قاعدة عامل التصفية تطبيق رمز الترميز على الميزة. إذا تم إرجاعهاtrue يستخدم رمز خلاف ذلك  يتم تخطي الميزة.
+title: "Rule.Filter"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Rule. تحدد ما إذا كان يجب على filterrule تطبيق الرمز على العنصر. إذا أعادت true يُستخدم الرمز وإلا يتم تخطي العنصر"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/rule/filter/
 ---
 ## Rule.Filter property
 
-تحديد ما إذا كان يجب على "قاعدة عامل التصفية" تطبيق رمز الترميز على الميزة. إذا تم إرجاعها`true` يستخدم رمز خلاف ذلك ، يتم تخطي الميزة.
+يحدد ما إذا كان "filter-rule" يجب أن يطبق الرمز على الميزة. إذا أعاد `true` يُستخدم الرمز؛ وإلا تُتخطى الميزة.
 
 ```csharp
 public Func<Feature, bool> Filter { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [Rule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rule/)
+* assembly [Aspose.GIS](../../../)
 
 

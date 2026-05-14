@@ -1,36 +1,36 @@
 ---
-title: GeometryCollection.Add
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection طريقة. يضيف الشكل الهندسي المحدد إلى المجموعة.
+title: "GeometryCollection.Add"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeometryCollection. تضيف الهندسة المحددة إلى المجموعة"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/geometrycollection/add/
 ---
 ## GeometryCollection.Add method
 
-يضيف الشكل الهندسي المحدد إلى المجموعة.
+يضيف الشكل المحدد إلى المجموعة.
 
 ```csharp
 public void Add(IGeometry geometry)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | الهندسة المراد إضافتها. |
+| هندسة | IGeometry | الهندسة المراد إضافتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | لا تقبل المجموعة الأشكال الهندسية من هذا النوع. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما not `null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | المجموعة لا تقبل الهندسات من هذا النوع. |
+| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

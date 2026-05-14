@@ -1,14 +1,14 @@
 ---
-title: Class LabelingRule
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Labelings.LabelingRule فصل. قاعدة معرّفة من قبل المستخدم لـRuleBasedLabeling .
+title: "فئة LabelingRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "فئة Aspose.Gis.Rendering.Labelings.LabelingRule. قاعدة معرفة من قبل المستخدم لـ RuleBasedLabeling"
 type: docs
-weight: 1630
+weight: 4080
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/
 ---
 ## LabelingRule class
 
-قاعدة معرّفة من قبل المستخدم لـ[`RuleBasedLabeling`](../rulebasedlabeling/) .
+قاعدة معرفة من قبل المستخدم لـ [`RuleBasedLabeling`](../rulebasedlabeling/).
 
 ```csharp
 public class LabelingRule
@@ -16,23 +16,23 @@ public class LabelingRule
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Filter](../../aspose.gis.rendering.labelings/labelingrule/filter/) { get; } | تحديد ما إذا كان يجب على "قاعدة عامل التصفية" تطبيق وضع العلامات على الميزة. إذا تم إرجاعها`true` يتم استخدام العلامات ؛ خلاف ذلك ، يتم تخطي الميزة. |
-| [IsElseRule](../../aspose.gis.rendering.labelings/labelingrule/iselserule/) { get; } | الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة "قاعدة أخرى" . |
-| [IsFilterRule](../../aspose.gis.rendering.labelings/labelingrule/isfilterrule/) { get; } | الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة "قاعدة عامل التصفية" . |
-| [Labeling](../../aspose.gis.rendering.labelings/labelingrule/labeling/) { get; } | وضع العلامات للتطبيق على الميزة. |
+| [Filter](../../aspose.gis.rendering.labelings/labelingrule/filter/) { get; } | يحدد ما إذا كان "filter-rule" يجب أن يطبق التصنيف على العنصر. إذا أرجع `true` يتم استخدام التصنيف؛ وإلا يتم تخطي العنصر. |
+| [IsElseRule](../../aspose.gis.rendering.labelings/labelingrule/iselserule/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "else-rule". |
+| [IsFilterRule](../../aspose.gis.rendering.labelings/labelingrule/isfilterrule/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "filter-rule". |
+| [Labeling](../../aspose.gis.rendering.labelings/labelingrule/labeling/) { get; } | التصنيف لتطبيقه على العنصر. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [CreateElseRule](../../aspose.gis.rendering.labelings/labelingrule/createelserule/)(Labeling) | إنشاء قاعدة جديدة تطبق تصنيفًا على الميزة عندما لا تتطابق مع أي قاعدة تصفية . |
-| static [CreateFilterRule](../../aspose.gis.rendering.labelings/labelingrule/createfilterrule/)(Func&lt;Feature, bool&gt;, Labeling) | إنشاء قاعدة جديدة تطبق تصنيفًا على الميزة كلما اجتاز عامل التصفية . |
+| static [CreateElseRule](../../aspose.gis.rendering.labelings/labelingrule/createelserule/)(Labeling) | ينشئ قاعدة جديدة تطبق تصنيفًا على العنصر كلما لم يتطابق مع أي قاعدة تصفية. |
+| static [CreateFilterRule](../../aspose.gis.rendering.labelings/labelingrule/createfilterrule/)(Func&lt;Feature, bool&gt;, Labeling) | ينشئ قاعدة جديدة تطبق تصنيفًا على العنصر كلما اجتاز الفلتر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

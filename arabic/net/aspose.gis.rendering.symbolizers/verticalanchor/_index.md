@@ -1,30 +1,30 @@
 ---
-title: Enum VerticalAnchor
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.VerticalAnchor تعداد. يحدد الجانب المراد محاذاته عموديًا.
+title: "التعداد VerticalAnchor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.Symbolizers.VerticalAnchor التعداد. يحدد الجانب الذي سيتم محاذاته عموديًا"
 type: docs
-weight: 1980
+weight: 4430
 url: /ar/net/aspose.gis.rendering.symbolizers/verticalanchor/
 ---
 ## VerticalAnchor enumeration
 
-يحدد الجانب المراد محاذاته عموديًا.
+يحدد الجانب الذي يُمحاذى عمودياً.
 
 ```csharp
 public enum VerticalAnchor
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Center | `0` | يحدد أن المراكز ستتم محاذاتها. |
-| Top | `1` | يحدد أن الجوانب العلوية ستتم محاذاتها. |
-| Bottom | `2` | يحدد أنه سيتم محاذاة الجوانب السفلية |
+| Center | `0` | يحدد أن المراكز سيتم محاذاتها. |
+| Top | `1` | يحدد أن الجوانب العلوية سيتم محاذاتها. |
+| Bottom | `2` | يحدد أن الجوانب السفلية سيتم محاذاتها |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

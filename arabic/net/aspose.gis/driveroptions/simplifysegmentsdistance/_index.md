@@ -1,27 +1,27 @@
 ---
-title: DriverOptions.SimplifySegmentsDistance
-second_title: Aspose.GIS لمرجع .NET API
-description: DriverOptions ملكية. يحدد المسافة لـSimplifySegments . افتراضات إلى0 .
+title: "DriverOptions.SimplifySegmentsDistance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية DriverOptions. تحدد المسافة لـ SimplifySegments. القيمة الافتراضية هي 0"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/driveroptions/simplifysegmentsdistance/
 ---
 ## DriverOptions.SimplifySegmentsDistance property
 
-يحدد المسافة لـ[`SimplifySegments`](../simplifysegments/) . افتراضات إلى`0` .
+تحدد المسافة لـ [`SimplifySegments`](../simplifysegments/). القيمة الافتراضية هي `0`.
 
 ```csharp
 public double SimplifySegmentsDistance { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-لا يؤثر على ما إذا كان[`SimplifySegments`](../simplifysegments/) غير صحيح .
+لا يؤثر ذلك إذا كان [`SimplifySegments`](../simplifysegments/) خاطئًا.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DriverOptions](../)
-* مساحة الاسم [Aspose.Gis](../../driveroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

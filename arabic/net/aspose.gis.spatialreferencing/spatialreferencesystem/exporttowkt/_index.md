@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.ExportToWkt
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. إرجاع تمثيل SRS كسلسلة WKT. ستطابق سلسلة WKT الناتجة مواصفات OGC 01009  والتي تسمى عادةً WKT1 .
+title: "SpatialReferenceSystem.ExportToWkt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. تُرجع تمثيل هذا SRS كسلسلة WKT. سلسلة WKT الناتجة ستطابق مواصفة OGC 01009 عادةً المسماة WKT1"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/
 ---
 ## SpatialReferenceSystem.ExportToWkt method
 
-إرجاع تمثيل SRS كسلسلة WKT. ستطابق سلسلة WKT الناتجة مواصفات OGC 01-009 ، والتي تسمى عادةً "WKT1" .
+يرجع تمثيل هذا SRS كسلسلة WKT. سلسلة WKT الناتجة ستطابق مواصفة OGC 01-009، عادةً تُسمى "WKT1".
 
 ```csharp
 public string ExportToWkt()
@@ -20,14 +20,14 @@ public string ExportToWkt()
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | قد يحتوي تمثيل SRS هذاNaN وPositiveInfinity أوNegativeInfinity . |
+| InvalidOperationException | قد يحتوي تمثيل هذا SRS على NaN أو PositiveInfinity أو NegativeInfinity. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

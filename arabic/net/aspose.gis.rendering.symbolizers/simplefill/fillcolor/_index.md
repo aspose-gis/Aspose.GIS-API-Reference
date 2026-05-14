@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.FillColor
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill ملكية. يحدد اللون والشفافية للتعبئة.
+title: "SimpleFill.FillColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleFill. تحدد اللون والشفافية للتعبئة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/fillcolor/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/fillcolor/
 public Color FillColor { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: Dataset.Dispose
-second_title: Aspose.GIS لمرجع .NET API
-description: Dataset طريقة. يقوم بإصدار الموارد المستخدمة بواسطة ملفDataset .
+title: "Dataset.Dispose"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Dataset. تُحرّر الموارد المستخدمة من قبل مجموعة البيانات"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/dataset/dispose/
 ---
 ## Dataset.Dispose method
 
-يقوم بإصدار الموارد المستخدمة بواسطة ملف[`Dataset`](../) .
+تُحرّر الموارد المستخدمة من قبل [`Dataset`](../).
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

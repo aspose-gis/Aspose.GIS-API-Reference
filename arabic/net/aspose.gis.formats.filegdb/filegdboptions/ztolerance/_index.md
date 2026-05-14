@@ -1,27 +1,27 @@
 ---
-title: FileGdbOptions.ZTolerance
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbOptions ملكية. تسامح Z الانجذاب .
+title: "FileGdbOptions.ZTolerance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbOptions. تحمل الالتقاط لمحور Z"
 type: docs
-weight: 80
+weight: 110
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/ztolerance/
 ---
 ## FileGdbOptions.ZTolerance property
 
-تسامح Z الانجذاب .
+تحمل الالتقاط للمحور Z.
 
 ```csharp
 public double? ZTolerance { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-هذا خيار إنشاء ولا يؤثر على القراءة . تتحكم هذه المعلمة في تفاوت الانطباق المستخدم لميزات ArcGIS المتقدمة . لا تؤثر على سلوك Aspose.GIS ، ولكن يمكن استخدامها بواسطة ArcGIS. وحدة المعلمة هي وحدة نظام الإسناد المكاني . إذا تم ضبطها على`null` ، يتم استخدام الافتراضي. إذا كان نظام الإسناد المكاني غير معروف أو يحتوي على أقل من ثلاثة أبعاد ، يكون الافتراضي هو 0.001. إذا كان نظام الإسناد المكاني له ثلاثة أبعاد فإن الافتراضي هو 0.001 متر محوّلًا إلى وحدة البعد الثالث.
+هذا خيار إنشاء ولا يؤثر على القراءة والتحرير. يتحكم هذا المعامل في تحمل الالتقاط المستخدم لميزات ArcGIS المتقدمة. لا يؤثر على سلوك Aspose.GIS، لكنه يمكن أن يستخدمه ArcGIS. وحدة المعامل هي وحدة نظام الإسناد المكاني. إذا تم تعيينه إلى `null`، يتم استخدام القيمة الافتراضية. إذا كان نظام الإسناد المكاني غير معروف أو لديه أقل من ثلاثة أبعاد فإن القيمة الافتراضية هي 0.001. إذا كان نظام الإسناد المكاني يحتوي على ثلاثة أبعاد فإن القيمة الافتراضية هي 0.001 متر محولة إلى وحدة البعد الثالث.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

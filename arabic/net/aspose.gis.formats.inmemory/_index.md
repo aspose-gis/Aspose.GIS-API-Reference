@@ -1,17 +1,17 @@
 ---
-title: Aspose.Gis.Formats.InMemory
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.InMemoryLayerتوفر مساحة الاسم فئات للعمل مع InMemoryLayer.
+title: "Aspose.Gis.Formats.InMemory"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.InMemoryLayer توفر فئات للعمل مع InMemoryLayer"
 type: docs
-weight: 110
+weight: 330
 url: /ar/net/aspose.gis.formats.inmemory/
 ---
-`Aspose.Gis.Formats.InMemoryLayer`توفر مساحة الاسم فئات للعمل مع InMemoryLayer.
+`Aspose.Gis.Formats.InMemoryLayer` مساحة الاسم توفر فئات للعمل مع InMemoryLayer.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [InMemoryDriver](./inmemorydriver/) | برنامج تشغيل للعمل مع البيانات الموجودة في الذاكرة. |
+| [InMemoryDriver](./inmemorydriver/) | برنامج تشغيل للعمل مع البيانات في الذاكرة. |
 
 

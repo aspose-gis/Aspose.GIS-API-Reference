@@ -1,36 +1,36 @@
 ---
-title: Class BandColor
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Colorizers.BandColor فصل. قيم النطاق المرتبط ومكون اللون لفهرس النطاق المحدد. هناك قيم نطاق بين min و max سيتم محرفها خطيًا .
+title: "الفئة BandColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Colorizers.BandColor. يربط قيم النطاق ومكوّن لوني للفهرس المحدد للنطاق. القيم بين الحد الأدنى والحد الأقصى سيتم استيفاؤها خطيًا."
 type: docs
-weight: 1500
+weight: 3950
 url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/
 ---
 ## BandColor class
 
-قيم النطاق المرتبط ومكون اللون لفهرس النطاق المحدد. هناك قيم نطاق بين min و max سيتم محرفها خطيًا .
+يربط قيم النطاق ومكوّن اللون للفهرس المحدد للنطاق. سيتم استيفاء قيم النطاق بين الحد الأدنى والحد الأقصى خطيًا.
 
 ```csharp
 public class BandColor
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [BandColor](bandcolor/)() | Default_Constructor |
+| [BandColor](bandcolor/)() | يُهيئ نسخة جديدة من الفئة `BandColor`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [BandIndex](../../aspose.gis.rendering.colorizers/bandcolor/bandindex/) { get; set; } | يحدد فهرس النطاق. يبدأ الترقيم من 0. |
 | [Max](../../aspose.gis.rendering.colorizers/bandcolor/max/) { get; set; } | يحدد القيمة القصوى. |
-| [Min](../../aspose.gis.rendering.colorizers/bandcolor/min/) { get; set; } | يحدد الحد الأدنى للقيمة. |
+| [Min](../../aspose.gis.rendering.colorizers/bandcolor/min/) { get; set; } | يحدد القيمة الدنيا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
+* assembly [Aspose.GIS](../../)
 
 

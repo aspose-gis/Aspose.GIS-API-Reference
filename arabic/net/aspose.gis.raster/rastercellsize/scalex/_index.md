@@ -1,23 +1,23 @@
 ---
-title: RasterCellSize.ScaleX
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterCellSize ملكية. الحصول على أو تحديد مكون x لعرض البكسل مقياس x.
+title: "RasterCellSize.ScaleX"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterCellSize. تحصل أو تعين المكوّن x لعرض البكسل xscale"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rastercellsize/scalex/
 ---
 ## RasterCellSize.ScaleX property
 
-الحصول على أو تحديد مكون x لعرض البكسل (مقياس x).
+يحصل أو يضبط المكوّن x لعرض البكسل (مقياس x).
 
 ```csharp
 public double ScaleX { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: VerticalDatum.DatumType
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalDatum ملكية. رقم صحيح يشير إلى الطريقة التي تم استخدامها.
+title: "VerticalDatum.DatumType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VerticalDatum. عدد صحيح يشير إلى الطريقة التي تم استخدامها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/verticaldatum/datumtype/
 ---
 ## VerticalDatum.DatumType property
 
-رقم صحيح يشير إلى الطريقة التي تم استخدامها.
+عدد صحيح، يشير إلى الطريقة التي تم استخدامها.
 
 ```csharp
 public int DatumType { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VerticalDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticaldatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticaldatum/)
+* assembly [Aspose.GIS](../../../)
 
 

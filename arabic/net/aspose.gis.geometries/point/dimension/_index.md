@@ -1,24 +1,24 @@
 ---
-title: Point.Dimension
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. يحصل على البعد الطوبولوجي لهذاGeometry .
+title: "Point.Dimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. يحصل على البعد الطوبولوجي لهذه الهندسة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/point/dimension/
 ---
 ## Point.Dimension property
 
-يحصل على البعد الطوبولوجي لهذا[`Geometry`](../../geometry/) .
+تحصل على البعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
 
 ```csharp
 public override GeometryDimension Dimension { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryDimension](../../geometrydimension/)
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

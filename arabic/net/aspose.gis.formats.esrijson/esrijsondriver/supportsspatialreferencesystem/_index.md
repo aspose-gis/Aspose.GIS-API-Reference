@@ -1,36 +1,36 @@
 ---
-title: EsriJsonDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: EsriJsonDriver طريقة. تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+title: "EsriJsonDriver.SupportsSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة EsriJsonDriver. يحدد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل السائق"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.esrijson/esrijsondriver/supportsspatialreferencesystem/
 ---
 ## EsriJsonDriver.SupportsSpatialReferenceSystem method
 
-تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل.
 
 ```csharp
 public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان السائق يدعم نظام الإسناد المكاني المحدد.
+قيمة منطقية، تشير إلى ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل السائق.
 
-### ملاحظات
+## ملاحظات
 
-بالنسبة إلى EsriJson ، فإن نظام الإسناد المكاني الوحيد المدعوم هو WGS84.
+بالنسبة إلى EsriJson، نظام الإسناد المكاني المدعوم الوحيد هو WGS84.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [EsriJsonDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.EsriJson](../../esrijsondriver/)
+* assembly [Aspose.GIS](../../../)
 
 

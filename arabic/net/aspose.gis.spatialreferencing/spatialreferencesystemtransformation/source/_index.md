@@ -1,7 +1,7 @@
 ---
-title: SpatialReferenceSystemTransformation.Source
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystemTransformation ملكية. نظام الإسناد المكاني المصدر.
+title: "SpatialReferenceSystemTransformation.Source"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystemTransformation. نظام الإسناد المكاني المصدر"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/source/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/
 public SpatialReferenceSystem Source { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [SpatialReferenceSystemTransformation](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Geometry.GetArea
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. حساب مساحة هذه الهندسة .
+title: "Geometry.GetArea"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحسب مساحة هذه الهندسة"
 type: docs
 weight: 200
 url: /ar/net/aspose.gis.geometries/geometry/getarea/
 ---
 ## Geometry.GetArea method
 
-حساب مساحة هذه الهندسة .
+يحسب مساحة هذه الهندسة.
 
 ```csharp
 public double GetArea()
@@ -16,12 +16,12 @@ public double GetArea()
 
 ### قيمة الإرجاع
 
-مساحة هذه الهندسة . مجموع مناطق عناصر هذه الهندسة إذا كانت هذه الهندسة[`GeometryCollection`](../../geometrycollection/) .
+مساحة هذه الهندسة. مجموع مساحات عناصر هذه الهندسة إذا كانت هذه الهندسة عبارة عن [`GeometryCollection`](../../geometrycollection/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

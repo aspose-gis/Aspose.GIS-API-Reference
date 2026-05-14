@@ -1,14 +1,14 @@
 ---
-title: SimplifySegmentsOptions.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: SimplifySegmentsOptions طريقة. إنشاء نسخة من الكائن .
+title: "SimplifySegmentsOptions.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SimplifySegmentsOptions. إنشاء نسخة من الكائن"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/simplifysegmentsoptions/clone/
 ---
 ## SimplifySegmentsOptions.Clone method
 
-إنشاء نسخة من الكائن .
+إنشاء نسخة من الكائن.
 
 ```csharp
 public SimplifySegmentsOptions Clone()
@@ -16,12 +16,12 @@ public SimplifySegmentsOptions Clone()
 
 ### قيمة الإرجاع
 
-استنساخ الخيارات.
+نسخة الخيارات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimplifySegmentsOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

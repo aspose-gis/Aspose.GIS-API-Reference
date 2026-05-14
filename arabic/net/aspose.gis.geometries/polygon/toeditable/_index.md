@@ -1,14 +1,14 @@
 ---
-title: Polygon.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "Polygon.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Polygon. تسترجع نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.geometries/polygon/toeditable/
 ---
 ## Polygon.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public Polygon ToEditable()
@@ -16,12 +16,12 @@ public Polygon ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

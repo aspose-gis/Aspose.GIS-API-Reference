@@ -1,14 +1,14 @@
 ---
-title: RasterLayer.Bounds
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterLayer ملكية. يحصل على الحدود النقطية.
+title: "RasterLayer.Bounds"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterLayer. تُرجع حدود الراستر"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/rasterlayer/bounds/
 ---
 ## RasterLayer.Bounds property
 
-يحصل على الحدود النقطية.
+يحصل على حدود الراستر.
 
 ```csharp
 public RasterRect Bounds { get; }
@@ -16,13 +16,13 @@ public RasterRect Bounds { get; }
 
 ### قيمة الإرجاع
 
-الحدود النقطية.
+حدود الراستر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterRect](../../rasterrect/)
 * class [RasterLayer](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

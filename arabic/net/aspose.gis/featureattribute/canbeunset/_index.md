@@ -1,33 +1,33 @@
 ---
-title: FeatureAttribute.CanBeUnset
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute ملكية. الحصول على قيمة أو تعيينها للإشارة إلى إمكانية حذف قيمة هذه السمة.
+title: "FeatureAttribute.CanBeUnset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttribute. تحصل أو تعين قيمة تشير إلى ما إذا كان يمكن إهمال قيمة هذه الخاصية"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/featureattribute/canbeunset/
 ---
 ## FeatureAttribute.CanBeUnset property
 
-الحصول على قيمة أو تعيينها للإشارة إلى إمكانية حذف قيمة هذه السمة.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان يمكن إهمال القيمة لهذه السمة.
 
 ```csharp
 public bool CanBeUnset { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كان من الممكن إلغاء ضبط هذا المثال ؛ خلاف ذلك،`false` .
+`true` إذا كان يمكن إلغاء تعيين هذه النسخة؛ وإلا، `false`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | السمة مؤمنة. |
+| InvalidOperationException | الخاصية مقفلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

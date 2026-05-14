@@ -1,14 +1,14 @@
 ---
-title: LineLabelPlacement.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: LineLabelPlacement طريقة. استنساخ هذا المثال .
+title: "LineLabelPlacement.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineLabelPlacement. تنسخ هذا المثيل"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.labelings/linelabelplacement/clone/
 ---
 ## LineLabelPlacement.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override LabelPlacement Clone()
@@ -16,13 +16,13 @@ public override LabelPlacement Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelPlacement](../../labelplacement/)
 * class [LineLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

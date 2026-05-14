@@ -1,24 +1,24 @@
 ---
-title: Drivers.PostGis
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لقاعدة بيانات PostGIS .
+title: "Drivers.PostGis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل لقاعدة بيانات PostGIS"
 type: docs
-weight: 150
+weight: 200
 url: /ar/net/aspose.gis/drivers/postgis/
 ---
 ## Drivers.PostGis property
 
-برنامج تشغيل لقاعدة بيانات PostGIS .
+برنامج تشغيل لقاعدة بيانات PostGIS.
 
 ```csharp
 public static PostGisDriver PostGis { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PostGisDriver](../../../aspose.gis.formats.postgis/postgisdriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

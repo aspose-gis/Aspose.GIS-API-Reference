@@ -1,24 +1,24 @@
 ---
-title: SimpleLabeling.MultipartMode
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. تحديد سلوك العرض لأشكال هندسية متعددة الأجزاء. الافتراضي هوAll .
+title: "SimpleLabeling.MultipartMode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. تحدد سلوك العرض للهياكل المتعددة الأجزاء. القيمة الافتراضية هي All"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/multipartmode/
 ---
 ## SimpleLabeling.MultipartMode property
 
-تحديد سلوك العرض لأشكال هندسية متعددة الأجزاء. الافتراضي هوAll .
+يحدد سلوك التصيير للأشكال المتعددة الأجزاء. القيمة الافتراضية هي All.
 
 ```csharp
 public MultipartMode MultipartMode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [MultipartMode](../../multipartmode/)
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

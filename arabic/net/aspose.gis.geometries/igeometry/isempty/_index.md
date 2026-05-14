@@ -1,27 +1,27 @@
 ---
-title: IGeometry.IsEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثال فارغًا يمثل مجموعة النقاط الفارغة .
+title: "IGeometry.IsEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IGeometry. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا يمثل مجموعة نقاط فارغة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geometries/igeometry/isempty/
 ---
 ## IGeometry.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثال فارغًا (يمثل مجموعة النقاط الفارغة) .
+يحصل على قيمة تُشير إلى ما إذا كان هذا المثيل فارغًا (يمثل مجموعة النقاط الفارغة).
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كانت هذه الحالة فارغة ؛ خلاف ذلك،`false` .
+`true` إذا كان هذا الكائن فارغًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

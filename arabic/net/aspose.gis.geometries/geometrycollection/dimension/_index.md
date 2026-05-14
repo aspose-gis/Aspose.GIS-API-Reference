@@ -1,24 +1,24 @@
 ---
-title: GeometryCollection.Dimension
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection ملكية. يحصل على البعد الطوبولوجي لهذاGeometry . إذا كانت المجموعة فارغة Point تم إرجاعه .
+title: "GeometryCollection.Dimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeometryCollection. تحصل على البُعد الطوبولوجي لهذا Geometry. إذا كانت المجموعة فارغة تُرجع Point."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/geometrycollection/dimension/
 ---
 ## GeometryCollection.Dimension property
 
-يحصل على البعد الطوبولوجي لهذا[`Geometry`](../../geometry/) . إذا كانت المجموعة فارغة ،Point تم إرجاعه .
+تحصل على البُعد الطوبولوجي لهذا [`Geometry`](../../geometry/). إذا كانت المجموعة فارغة، تُرجع Point.
 
 ```csharp
 public override GeometryDimension Dimension { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryDimension](../../geometrydimension/)
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

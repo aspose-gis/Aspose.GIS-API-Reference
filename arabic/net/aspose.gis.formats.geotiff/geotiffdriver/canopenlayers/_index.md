@@ -1,27 +1,27 @@
 ---
-title: GeoTiffDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoTiffDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات البيانات النقطية.
+title: "GeoTiffDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "GeoTiffDriver خاصية. يحصل على قيمة تشير إلى ما إذا كان هذا المشغل يمكنه فتح طبقات نقطية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.geotiff/geotiffdriver/canopenlayers/
 ---
 ## GeoTiffDriver.CanOpenLayers property
 
-يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات البيانات النقطية.
+يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية.
 
 ```csharp
 public override bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات البيانات النقطية ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات النقطية؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeoTiffDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.GeoTiff](../../geotiffdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoTiff](../../geotiffdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

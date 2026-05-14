@@ -1,32 +1,32 @@
 ---
-title: Rule.CreateElseRule
-second_title: Aspose.GIS لمرجع .NET API
-description: Rule طريقة. إنشاء قاعدة جديدة تطبق رمزًا على الميزة عندما لا تتطابق مع أي قاعدة تصفية .
+title: "Rule.CreateElseRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Rule. تنشئ قاعدة جديدة تطبق رمزًا على العنصر كلما لم يتطابق مع أي قاعدة تصفية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/rule/createelserule/
 ---
 ## Rule.CreateElseRule method
 
-إنشاء قاعدة جديدة تطبق رمزًا على الميزة عندما لا تتطابق مع أي قاعدة تصفية .
+ينشئ قاعدة جديدة تطبق رمزًا على الميزة كلما لم تتطابق مع أي قاعدة تصفية.
 
 ```csharp
 public static Rule CreateElseRule(VectorSymbolizer symbolizer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| symbolizer | VectorSymbolizer | Symbolizer للتطبيق. |
+| symbolizer | VectorSymbolizer | الرمز للتطبيق. |
 
 ### قيمة الإرجاع
 
-كائن قاعدة جديدة.
+كائن Rule جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [Rule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rule/)
+* assembly [Aspose.GIS](../../../)
 
 

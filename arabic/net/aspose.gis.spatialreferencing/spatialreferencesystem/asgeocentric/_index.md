@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.AsGeocentric
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. إرجاع تحويل SRS هذا إلىGeocentricSpatialReferenceSystem . استخدمType لمعرفة ما إذا كان التحويل ممكنًا.
+title: "SpatialReferenceSystem.AsGeocentric"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. تُرجع هذا SRS محوَّلًا إلى GeocentricSpatialReferenceSystem. استخدم Type لمعرفة ما إذا كان التحويل ممكنًا."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/asgeocentric/
 ---
 ## SpatialReferenceSystem.AsGeocentric property
 
-إرجاع تحويل SRS هذا إلى[`GeocentricSpatialReferenceSystem`](../../geocentricspatialreferencesystem/) . استخدم[`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
+تُرجع هذا SRS محوَّلًا إلى [`GeocentricSpatialReferenceSystem`](../../geocentricspatialreferencesystem/). استخدم [`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
 
 ```csharp
 public virtual GeocentricSpatialReferenceSystem AsGeocentric { get; }
@@ -16,15 +16,15 @@ public virtual GeocentricSpatialReferenceSystem AsGeocentric { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | التحويل غير ممكن . |
+| InvalidOperationException | التحويل غير ممكن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeocentricSpatialReferenceSystem](../../geocentricspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

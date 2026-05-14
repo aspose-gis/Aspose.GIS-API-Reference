@@ -1,27 +1,27 @@
 ---
-title: Rule.IsElseRule
-second_title: Aspose.GIS لمرجع .NET API
-description: Rule ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة قاعدة أخرى .
+title: "Rule.IsElseRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Rule. تحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي elserule"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/rule/iselserule/
 ---
 ## Rule.IsElseRule property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة "قاعدة أخرى" .
+يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "else-rule".
 
 ```csharp
 public bool IsElseRule { get; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-تطبق "القاعدة الأخرى" رمز الترميز على ميزة إذا كانت الميزة لا تتطابق مع أي قاعدة مرشح.
+\"Else-rule\" يطبق الرمز على عنصر إذا لم يتطابق العنصر مع أي قاعدة تصفية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rule/)
+* assembly [Aspose.GIS](../../../)
 
 

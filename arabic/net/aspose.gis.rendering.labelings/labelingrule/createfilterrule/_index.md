@@ -1,40 +1,40 @@
 ---
-title: LabelingRule.CreateFilterRule
-second_title: Aspose.GIS لمرجع .NET API
-description: LabelingRule طريقة. إنشاء قاعدة جديدة تطبق تصنيفًا على الميزة كلما اجتاز عامل التصفية .
+title: "LabelingRule.CreateFilterRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LabelingRule. تنشئ قاعدة جديدة تطبق تسمية على المعلم كلما اجتاز filter"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/createfilterrule/
 ---
 ## LabelingRule.CreateFilterRule method
 
-إنشاء قاعدة جديدة تطبق تصنيفًا على الميزة كلما اجتاز عامل التصفية .
+ينشئ قاعدة جديدة تطبق تصنيفًا على العنصر كلما اجتاز الفلتر.
 
 ```csharp
 public static LabelingRule CreateFilterRule(Func<Feature, bool> filter, Labeling labeling)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filter | Func`2 | يحدد متى يجب استخدام الملصقات. |
-| labeling | Labeling | وضع العلامات للتطبيق. |
+| فلتر | Func`2 | يحدد متى يجب استخدام التسمية. |
+| تسمية | التسمية | التسمية لتطبيقها. |
 
 ### قيمة الإرجاع
 
-كائن جديد LabelingRule.
+كائن LabelingRule جديد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الفلتر هو`null`. |
+| ArgumentNullException | الفلتر هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [Labeling](../../labeling/)
 * class [LabelingRule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

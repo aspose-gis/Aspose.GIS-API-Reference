@@ -1,27 +1,27 @@
 ---
-title: GeometryCollection.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryCollection ملكية. الحصول على عدد الأشكال الهندسية في هذه المجموعة.
+title: "GeometryCollection.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeometryCollection. يحصل على عدد الهندسات في هذه المجموعة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/geometrycollection/count/
 ---
 ## GeometryCollection.Count property
 
-الحصول على عدد الأشكال الهندسية في هذه المجموعة.
+يحصل على عدد الأشكال في هذه المجموعة.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الأشكال الهندسية .
+عدد الهندسات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeometryCollection](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometrycollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: SimpleLabeling.HaloSize
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLabeling ملكية. حجم الهالة السكتة الدماغية حول النص.
+title: "SimpleLabeling.HaloSize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleLabeling. حجم حد الهالة حول النص"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/halosize/
 ---
 ## SimpleLabeling.HaloSize property
 
-حجم الهالة (السكتة الدماغية) حول النص.
+حجم الهالة (الخط) حول النص.
 
 ```csharp
 public Measurement HaloSize { get; set; }
@@ -16,15 +16,15 @@ public Measurement HaloSize { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | القيمة سالبة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

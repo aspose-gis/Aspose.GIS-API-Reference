@@ -1,24 +1,24 @@
 ---
-title: MixedGeometrySymbolizer.PolygonSymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: MixedGeometrySymbolizer ملكية. يحدد رمزًا لاستخدامه مع الأشكال الهندسية المضلعة في الطبقة.
+title: "MixedGeometrySymbolizer.PolygonSymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MixedGeometrySymbolizer. تحدد رمزًا لاستخدامه مع هندسات المضلع في الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/polygonsymbolizer/
 ---
 ## MixedGeometrySymbolizer.PolygonSymbolizer property
 
-يحدد رمزًا لاستخدامه مع الأشكال الهندسية المضلعة في الطبقة.
+يحدد رمزًا لاستخدامه مع هندسات المضلع في الطبقة.
 
 ```csharp
 public VectorSymbolizer PolygonSymbolizer { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [MixedGeometrySymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../mixedgeometrysymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../mixedgeometrysymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

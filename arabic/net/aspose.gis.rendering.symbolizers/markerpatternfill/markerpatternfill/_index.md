@@ -1,49 +1,49 @@
 ---
-title: MarkerPatternFill.MarkerPatternFill
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerPatternFill البناء. يقوم بتهيئة مثيل جديد لملفMarkerPatternFill فئة .
+title: "MarkerPatternFill.MarkerPatternFill"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MarkerPatternFill. يهيئ نسخة جديدة من فئة MarkerPatternFill"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/markerpatternfill/
 ---
 ## MarkerPatternFill() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`MarkerPatternFill`](../) فئة .
+يُهيئ نسخة جديدة من الفئة [`MarkerPatternFill`](../).
 
 ```csharp
 public MarkerPatternFill()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MarkerPatternFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## MarkerPatternFill(MarkerPatternFill) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`MarkerPatternFill`](../) فئة .
+يُهيئ نسخة جديدة من الفئة [`MarkerPatternFill`](../).
 
 ```csharp
 public MarkerPatternFill(MarkerPatternFill other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | MarkerPatternFill | الأخرى[`MarkerPatternFill`](../) لنسخ البيانات من. |
+| other | MarkerPatternFill | الـ[`MarkerPatternFill`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MarkerPatternFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 

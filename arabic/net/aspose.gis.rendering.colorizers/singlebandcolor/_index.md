@@ -1,35 +1,35 @@
 ---
-title: Class SingleBandColor
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Colorizers.SingleBandColor فصل. يحدد تلوين النطاق الفردي مكونًا رماديًا لخطوط المسح.
+title: "الفئة SingleBandColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Colorizers.SingleBandColor. يحدد ملون النطاق الأحادي مكوّنًا رماديًا للراستر."
 type: docs
-weight: 1540
+weight: 3990
 url: /ar/net/aspose.gis.rendering.colorizers/singlebandcolor/
 ---
 ## SingleBandColor class
 
-يحدد تلوين النطاق الفردي مكونًا رماديًا لخطوط المسح.
+المُلوّن أحادي النطاق يحدد مكوّن رمادي للراستر.
 
 ```csharp
 public class SingleBandColor : RasterColorizer
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [SingleBandColor](singlebandcolor/)() | Default_Constructor |
+| [SingleBandColor](singlebandcolor/)() | يُهيئ نسخة جديدة من الفئة `SingleBandColor`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [GrayBand](../../aspose.gis.rendering.colorizers/singlebandcolor/grayband/) { get; set; } | يحدد المكون الرمادي لخطوط المسح لدينا. |
+| [GrayBand](../../aspose.gis.rendering.colorizers/singlebandcolor/grayband/) { get; set; } | يحدد المكوّن الرمادي للراستر الخاص بنا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterColorizer](../rastercolorizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
+* assembly [Aspose.GIS](../../)
 
 

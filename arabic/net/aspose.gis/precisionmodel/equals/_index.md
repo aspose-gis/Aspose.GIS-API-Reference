@@ -1,55 +1,55 @@
 ---
-title: PrecisionModel.Equals
-second_title: Aspose.GIS لمرجع .NET API
-description: PrecisionModel طريقة. يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+title: "PrecisionModel.Equals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة PrecisionModel. تشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/precisionmodel/equals/
 ---
 ## Equals(object) {#equals_1}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public override bool Equals(object other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | Object | كائن للمقارنة مع هذا الكائن. |
+| آخر | Object | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن الحالي يساوي*other* معامل؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../)
-* مساحة الاسم [Aspose.Gis](../../precisionmodel/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../precisionmodel/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Equals(PrecisionModel) {#equals}
 
-يشير إلى ما إذا كان الكائن الحالي يساوي كائنًا آخر من نفس النوع.
+يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع.
 
 ```csharp
 public bool Equals(PrecisionModel other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | PrecisionModel | كائن للمقارنة مع هذا الكائن. |
+| آخر | PrecisionModel | كائن للمقارنة مع هذا الكائن. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن الحالي يساوي*other* معامل؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../)
-* مساحة الاسم [Aspose.Gis](../../precisionmodel/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../precisionmodel/)
+* assembly [Aspose.GIS](../../../)
 
 

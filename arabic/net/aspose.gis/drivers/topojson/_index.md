@@ -1,24 +1,24 @@
 ---
-title: Drivers.TopoJson
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لتنسيق TopoJSON .
+title: "Drivers.TopoJson"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. سائق لتنسيق TopoJSON"
 type: docs
-weight: 180
+weight: 240
 url: /ar/net/aspose.gis/drivers/topojson/
 ---
 ## Drivers.TopoJson property
 
-برنامج تشغيل لتنسيق TopoJSON .
+محرك لتنسيق TopoJSON.
 
 ```csharp
 public static TopoJsonDriver TopoJson { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonDriver](../../../aspose.gis.formats.topojson/topojsondriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

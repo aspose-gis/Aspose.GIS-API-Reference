@@ -1,24 +1,24 @@
 ---
-title: LocalSpatialReferenceSystem.Type
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalSpatialReferenceSystem ملكية. عودةLocal .
+title: "LocalSpatialReferenceSystem.Type"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LocalSpatialReferenceSystem. إرجاع Local"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/type/
 ---
 ## LocalSpatialReferenceSystem.Type property
 
-عودةLocal .
+إرجاع Local.
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [SpatialReferenceSystemType](../../spatialreferencesystemtype/)
 * class [LocalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

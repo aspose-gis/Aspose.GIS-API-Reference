@@ -1,24 +1,24 @@
 ---
-title: GeometryGenerator.Symbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: GeometryGenerator ملكية. يحدد رمزًا لتطبيقه على الهندسة المعدلة. الافتراضي هوNullVectorSymbolizer .
+title: "GeometryGenerator.Symbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeometryGenerator. تحدد رمزًا لتطبيقه على الهندسة المعدلة. القيمة الافتراضية هي NullVectorSymbolizer"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/
 ---
 ## GeometryGenerator.Symbolizer property
 
-يحدد رمزًا لتطبيقه على الهندسة المعدلة. الافتراضي هو`NullVectorSymbolizer` .
+يحدد رمزًا لتطبيقه على الهندسة المعدلة. القيمة الافتراضية هي `NullVectorSymbolizer`.
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [GeometryGenerator](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

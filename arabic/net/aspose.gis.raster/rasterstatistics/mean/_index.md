@@ -1,23 +1,23 @@
 ---
-title: RasterStatistics.Mean
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterStatistics ملكية. الوسط الحسابي لجميع الخلايا أو قيم البكسل المعدودة.
+title: "RasterStatistics.Mean"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterStatistics. المتوسط الحسابي لجميع الخلايا أو قيم البكسل التي تم عدّها"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rasterstatistics/mean/
 ---
 ## RasterStatistics.Mean property
 
-الوسط الحسابي لجميع الخلايا أو قيم البكسل المعدودة.
+المتوسط الحسابي لجميع الخلايا أو قيم البكسل التي تم عدّها.
 
 ```csharp
 public double? Mean { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterStatistics](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterstatistics/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterstatistics/)
+* assembly [Aspose.GIS](../../../)
 
 

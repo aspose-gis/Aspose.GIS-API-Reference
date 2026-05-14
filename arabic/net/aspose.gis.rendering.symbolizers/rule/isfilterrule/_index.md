@@ -1,27 +1,27 @@
 ---
-title: Rule.IsFilterRule
-second_title: Aspose.GIS لمرجع .NET API
-description: Rule ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة قاعدة عامل التصفية .
+title: "Rule.IsFilterRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Rule. تحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي filterrule"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.symbolizers/rule/isfilterrule/
 ---
 ## Rule.IsFilterRule property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة "قاعدة عامل التصفية" .
+يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "filter-rule".
 
 ```csharp
 public bool IsFilterRule { get; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-تقوم "قاعدة التصفية" بتطبيق رمز الترميز على الميزة إذا[`Filter`](../filter/) عائدات`true` للميزة .
+"filter-rule" يطبق الـ symbolizer على العنصر إذا كان [`Filter`](../filter/) يُعيد `true` للعنصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rule/)
+* assembly [Aspose.GIS](../../../)
 
 

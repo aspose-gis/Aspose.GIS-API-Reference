@@ -1,14 +1,14 @@
 ---
-title: LineString.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "LineString.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.geometries/linestring/toeditable/
 ---
 ## LineString.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public LineString ToEditable()
@@ -16,12 +16,12 @@ public LineString ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

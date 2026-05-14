@@ -1,27 +1,27 @@
 ---
-title: LabelingRule.IsFilterRule
-second_title: Aspose.GIS لمرجع .NET API
-description: LabelingRule ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة قاعدة عامل التصفية .
+title: "LabelingRule.IsFilterRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LabelingRule. يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة قاعدة تصفية"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/isfilterrule/
 ---
 ## LabelingRule.IsFilterRule property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة "قاعدة عامل التصفية" .
+يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "filter-rule".
 
 ```csharp
 public bool IsFilterRule { get; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-تطبق "قاعدة التصفية" وضع العلامات على الميزة إذا[`Filter`](../filter/) عائدات`true` للميزة .
+"filter-rule" يطبق التوسيم على عنصر إذا كان [`Filter`](../filter/) يُعيد `true` للعنصر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelingRule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,36 +1,36 @@
 ---
-title: FileDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver طريقة. تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+title: "FileDriver.SupportsSpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileDriver. تحدد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل السائق"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/filedriver/supportsspatialreferencesystem/
 ---
 ## FileDriver.SupportsSpatialReferenceSystem method
 
-تحديد ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل برنامج التشغيل.
+يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل.
 
 ```csharp
 public abstract bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل السائق.`null` يعتبر مدعومًا من قبل أي سائق.
+قيمة منطقية تشير إلى ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل السائق. `null` يعتبر مدعومًا من أي سائق.
 
-### ملاحظات
+## ملاحظات
 
-إذا كان نظام الإسناد المكاني غير مدعوم ، وقمت بتمريره إلى[`CreateLayer`](../createlayer/) الطريقة ، أNotSupportedException سيتم طرحه.
+إذا لم يكن نظام الإسناد المكاني مدعومًا، وقمت بتمريره إلى طريقة [`CreateLayer`](../createlayer/)، سيتم رمي استثناء NotSupportedException.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

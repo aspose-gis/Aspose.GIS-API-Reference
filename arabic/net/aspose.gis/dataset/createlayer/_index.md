@@ -1,14 +1,14 @@
 ---
-title: Dataset.CreateLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: Dataset طريقة. ينشئ طبقة متجه جديدة ويفتحها للإلحاق.
+title: "Dataset.CreateLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Dataset. ينشئ طبقة متجهة جديدة ويفتحها للإلحاق"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/dataset/createlayer/
 ---
 ## CreateLayer() {#createlayer}
 
-ينشئ طبقة متجه جديدة ويفتحها للإلحاق.
+ينشئ طبقة متجهة جديدة ويفتحها للإلحاق.
 
 ```csharp
 public virtual VectorLayer CreateLayer()
@@ -16,150 +16,150 @@ public virtual VectorLayer CreateLayer()
 
 ### قيمة الإرجاع
 
-أ[`VectorLayer`](../../vectorlayer/) فتح للكتابة.
+تم فتح [`VectorLayer`](../../vectorlayer/) للكتابة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(SpatialReferenceSystem) {#createlayer_2}
 
-ينشئ طبقة متجه جديدة ويفتحها للإلحاق.
+ينشئ طبقة متجهة جديدة ويفتحها للإلحاق.
 
 ```csharp
 public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 
-أ[`VectorLayer`](../../vectorlayer/) فتح للكتابة.
+تم فتح [`VectorLayer`](../../vectorlayer/) للكتابة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(DriverOptions, SpatialReferenceSystem) {#createlayer_1}
 
-ينشئ طبقة متجه جديدة ويفتحها للإلحاق.
+ينشئ طبقة متجهة جديدة ويفتحها للإلحاق.
 
 ```csharp
 public virtual VectorLayer CreateLayer(DriverOptions options, 
     SpatialReferenceSystem spatialReferenceSystem = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | DriverOptions | افتح الخيارات. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
+| الخيارات | DriverOptions | خيارات الفتح. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 
-أ[`VectorLayer`](../../vectorlayer/) فتح للكتابة.
+تم فتح [`VectorLayer`](../../vectorlayer/) للكتابة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | إنشاء الطبقة غير مدعوم لمجموعة البيانات هذه. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| NotSupportedException | إنشاء الطبقة غير مدعوم لهذه مجموعة البيانات. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 | [GisException](../../gisexception/) | خطأ أثناء إنشاء الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, SpatialReferenceSystem) {#createlayer_4}
 
-ينشئ طبقة متجه جديدة باسم محدد ويفتحها للإلحاق.
+ينشئ طبقة متجهة جديدة بالاسم المحدد ويفتحها للإلحاق.
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, 
     SpatialReferenceSystem spatialReferenceSystem = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الطبقة. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
+| الاسم | String | اسم الطبقة. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 
-أ[`VectorLayer`](../../vectorlayer/) فتح للكتابة.
+تم فتح [`VectorLayer`](../../vectorlayer/) للكتابة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | إنشاء الطبقة غير مدعوم لمجموعة البيانات هذه. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| NotSupportedException | إنشاء الطبقة غير مدعوم لهذه مجموعة البيانات. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 | [GisException](../../gisexception/) | خطأ أثناء إنشاء الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateLayer(string, DriverOptions, SpatialReferenceSystem) {#createlayer_3}
 
-ينشئ طبقة متجه جديدة باسم محدد ويفتحها للإلحاق.
+ينشئ طبقة متجهة جديدة بالاسم المحدد ويفتحها للإلحاق.
 
 ```csharp
 public virtual VectorLayer CreateLayer(string name, DriverOptions options, 
     SpatialReferenceSystem spatialReferenceSystem = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الطبقة. |
-| options | DriverOptions | افتح الخيارات. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
+| الاسم | String | اسم الطبقة. |
+| الخيارات | DriverOptions | خيارات الفتح. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 
-أ[`VectorLayer`](../../vectorlayer/) فتح للكتابة.
+تم فتح [`VectorLayer`](../../vectorlayer/) للكتابة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | إنشاء الطبقة غير مدعوم لمجموعة البيانات هذه. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| NotSupportedException | إنشاء الطبقة غير مدعوم لهذه مجموعة البيانات. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 | [GisException](../../gisexception/) | خطأ أثناء إنشاء الطبقة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

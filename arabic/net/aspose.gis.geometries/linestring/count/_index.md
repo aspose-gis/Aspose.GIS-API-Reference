@@ -1,23 +1,23 @@
 ---
-title: LineString.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString ملكية. يحصل على عدد النقاط في ملفLineString .
+title: "LineString.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineString. تحصل على عدد النقاط في LineString"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/linestring/count/
 ---
 ## LineString.Count property
 
-يحصل على عدد النقاط في ملف[`LineString`](../) .
+تحصل على عدد النقاط في الـ[`LineString`](../).
 
 ```csharp
 public int Count { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

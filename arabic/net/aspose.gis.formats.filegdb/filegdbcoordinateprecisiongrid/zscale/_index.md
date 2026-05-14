@@ -1,14 +1,14 @@
 ---
-title: FileGdbCoordinatePrecisionGrid.ZScale
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbCoordinatePrecisionGrid ملكية. الحصول على أو تحديد مقياس إحداثيات Z. إذا تم التعيين علىnull الافتراضي هو المستخدم.
+title: "FileGdbCoordinatePrecisionGrid.ZScale"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعيين مقياس إحداثي Z. إذا تم تعيينها إلى null يتم استخدام القيمة الافتراضية."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.ZScale property
 
-الحصول على أو تحديد مقياس إحداثيات Z. إذا تم التعيين على`null` الافتراضي هو المستخدم.
+يحصل أو يضبط مقياس إحداثية Z. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
 
 ```csharp
 public double? ZScale { get; set; }
@@ -16,18 +16,18 @@ public double? ZScale { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الحجة ليست إيجابية. |
+| ArgumentOutOfRangeException | المعطى ليس إيجابيًا. |
 
-### ملاحظات
+## ملاحظات
 
-القيمة الافتراضية هي`ZScale = 1 / Z التسامح * 10` .
+القيمة الافتراضية هي `ZScale = 1 / ZTolerance * 10`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbCoordinatePrecisionGrid](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,17 +1,18 @@
 ---
-title: Aspose.Gis.Relationship.Joins
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis. العلاقة. ينضم توفر مساحة الاسم فئات للانضمام إلى الطبقات.
+title: "Aspose.Gis.Relationship.Joins"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Relationship.Joins توفر فئات للانضمام إلى الطبقات"
 type: docs
-weight: 270
+weight: 650
 url: /ar/net/aspose.gis.relationship.joins/
 ---
-`Aspose.Gis. العلاقة. ينضم` توفر مساحة الاسم فئات للانضمام إلى الطبقات.
+`Aspose.Gis.Relationship.Joins` مساحة الاسم توفر فئات للانضمام إلى الطبقات.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [JoinOptions](./joinoptions/) | خيارات الانضمام للطبقات . |
+| [JoinByGeometryOptions](./joinbygeometryoptions/) | خيارات لدمج الطبقات. |
+| [JoinOptions](./joinoptions/) | خيارات لدمج الطبقات. |
 
 

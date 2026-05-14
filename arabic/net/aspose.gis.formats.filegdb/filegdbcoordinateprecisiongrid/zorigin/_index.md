@@ -1,27 +1,27 @@
 ---
-title: FileGdbCoordinatePrecisionGrid.ZOrigin
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbCoordinatePrecisionGrid ملكية. الحصول على أو تحديد أصل إحداثيات Z. إذا تم التعيين علىnull الافتراضي هو المستخدم.
+title: "FileGdbCoordinatePrecisionGrid.ZOrigin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعين أصل إحداثيات Z. إذا تم تعيينها إلى null تُستخدم القيمة الافتراضية."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.ZOrigin property
 
-الحصول على أو تحديد أصل إحداثيات Z. إذا تم التعيين على`null` الافتراضي هو المستخدم.
+يحصل أو يضبط أصل إحداثية Z. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
 
 ```csharp
 public double? ZOrigin { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
 القيمة الافتراضية هي -1e5.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbCoordinatePrecisionGrid](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
+* assembly [Aspose.GIS](../../../)
 
 

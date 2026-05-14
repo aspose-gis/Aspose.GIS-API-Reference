@@ -1,24 +1,24 @@
 ---
-title: StarGeneratorOptions.Place
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions ملكية. الوضع في الخلايا التي تم إنشاؤها. _
+title: "StarGeneratorOptions.Place"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية StarGeneratorOptions. وضعية التوضع في الخلايا المُولدة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/place/
 ---
 ## StarGeneratorOptions.Place property
 
-الوضع في الخلايا التي تم إنشاؤها. _
+وضعية التوزيع في الخلايا المُولدة.
 
 ```csharp
 public GeneratorPlaces Place { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeneratorPlaces](../../generatorplaces/)
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

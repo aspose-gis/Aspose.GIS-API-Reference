@@ -1,24 +1,24 @@
 ---
-title: Surface.Dimension
-second_title: Aspose.GIS لمرجع .NET API
-description: Surface ملكية. يحصل على البعد الطوبولوجي لهذاGeometry .
+title: "Surface.Dimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Surface. تحصل على البعد الطوبولوجي لهذا Geometry."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/surface/dimension/
 ---
 ## Surface.Dimension property
 
-يحصل على البعد الطوبولوجي لهذا[`Geometry`](../../geometry/) .
+تحصل على البعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
 
 ```csharp
 public GeometryDimension Dimension { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryDimension](../../geometrydimension/)
 * class [Surface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../surface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../surface/)
+* assembly [Aspose.GIS](../../../)
 
 

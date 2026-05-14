@@ -1,45 +1,45 @@
 ---
-title: Class LayeredSymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.LayeredSymbolizer فصل. رمز يرمز إلى العديد من الرموز الأخرى.
+title: "الفئة LayeredSymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.LayeredSymbolizer. مُرمّز يقوم بتصيير عدة مُرمّزين آخرين."
 type: docs
-weight: 1830
+weight: 4280
 url: /ar/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
 ---
 ## LayeredSymbolizer class
 
-رمز يرمز إلى العديد من الرموز الأخرى.
+مُرمّز يقوم بعرض عدة مُرمّزين آخرين.
 
 ```csharp
 public class LayeredSymbolizer : VectorSymbolizer, IReadOnlyList<VectorSymbolizer>
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [LayeredSymbolizer](layeredsymbolizer/#constructor)() | إنشاء مثيل جديد . |
-| [LayeredSymbolizer](layeredsymbolizer/#constructor_1)(RenderingOrder) | إنشاء مثيل جديد . |
+| [LayeredSymbolizer](layeredsymbolizer/#constructor)() | ينشئ مثيلًا جديدًا. |
+| [LayeredSymbolizer](layeredsymbolizer/#constructor_1)(RenderingOrder) | ينشئ مثيلًا جديدًا. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/count/) { get; } | يحصل على عدد الرموز. |
-| [Item](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/item/) { get; } | يحصل على الرمز في الفهرس المحدد. |
-| [RenderingOrder](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder/) { get; set; } | يحدد ترتيب العرض . ByFeatures - اعرض جميع الرموز الخاصة بالميزة ، ثم انتقل إلى الميزة التالية.ByLayers - قم بتصيير جميع الميزات باستخدام الرمز ، ثم انتقل إلى الرمز التالي. |
+| [Count](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/count/) { get; } | يحصل على عدد المُرمّزين. |
+| [Item](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/item/) { get; } | يحصل على المُرمّز عند الفهرس المحدد. |
+| [RenderingOrder](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/renderingorder/) { get; set; } | يحدد ترتيب التصيير. ByFeatures - صِر جميع المُرمّزين للميزة، ثم الانتقال إلى الميزة التالية. ByLayers - صِر جميع الميزات بالمُرمّز، ثم الانتقال إلى المُرمّز التالي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/add/)(VectorSymbolizer) | يضيف الرمز المحدد . |
-| [GetEnumerator](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator/)() | إرجاع عداد يتكرر خلال المجموعة. |
+| [Add](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/add/)(VectorSymbolizer) | يضيف المُرمّز المحدد. |
+| [GetEnumerator](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator/)() | يعيد عدّادًا يتنقل عبر المجموعة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

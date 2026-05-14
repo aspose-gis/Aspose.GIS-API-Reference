@@ -1,36 +1,36 @@
 ---
-title: Feature.UnsetValue
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. يزيل قيمة السمة من هذه الميزة .
+title: "Feature.UnsetValue"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تزيل قيمة الخاصية من هذه الميزة"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis/feature/unsetvalue/
 ---
 ## Feature.UnsetValue method
 
-يزيل قيمة السمة من هذه الميزة .
+يزيل قيمة السمة من هذه الميزة.
 
 ```csharp
 public void UnsetValue(string attributeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | attributeName | String | اسم السمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لا يمكن إلغاء تحديد قيمة هذه السمة. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | لا يمكن إلغاء تعيين قيمة هذه الخاصية. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

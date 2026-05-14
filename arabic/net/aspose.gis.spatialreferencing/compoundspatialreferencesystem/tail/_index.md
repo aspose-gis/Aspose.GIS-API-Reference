@@ -1,24 +1,24 @@
 ---
-title: CompoundSpatialReferenceSystem.Tail
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundSpatialReferenceSystem ملكية. SRS الأساسي الثاني
+title: "CompoundSpatialReferenceSystem.Tail"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundSpatialReferenceSystem. ثاني SRS أساسي"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/tail/
 ---
 ## CompoundSpatialReferenceSystem.Tail property
 
-SRS الأساسي الثاني
+الـ SRS الأساسي الثاني.
 
 ```csharp
 public SpatialReferenceSystem Tail { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [CompoundSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

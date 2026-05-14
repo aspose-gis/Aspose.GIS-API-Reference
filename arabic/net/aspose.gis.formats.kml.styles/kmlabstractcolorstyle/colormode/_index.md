@@ -1,24 +1,24 @@
 ---
-title: KmlAbstractColorStyle.ColorMode
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlAbstractColorStyle ملكية. يحدد صيغة اللون لعنصر الرسوم. القيمة الافتراضية عادي.
+title: "KmlAbstractColorStyle.ColorMode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlAbstractColorStyle. تحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية normal"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/
 ---
 ## KmlAbstractColorStyle.ColorMode property
 
-يحدد صيغة اللون لعنصر الرسوم. القيمة الافتراضية: عادي.
+يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي.
 
 ```csharp
 public KmlColorModes ColorMode { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [KmlColorModes](../../kmlcolormodes/)
 * class [KmlAbstractColorStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlabstractcolorstyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlabstractcolorstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,73 +1,73 @@
 ---
-title: VectorLayer.UseAttributesIndex
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. يتم تحميل فهرس السمات لتسريع التصفية حسب قيمة السمات في طرق التصفية مثلWhereGreater. في حالة عدم وجود الفهرس يقوم بإنشائه أولاً. يستخدمforceRebuild لفرض إعادة إنشاء الفهرس.
+title: "VectorLayer.UseAttributesIndex"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. تقوم بتحميل فهرس السمات لتسريع التصفية حسب قيمة السمات في طرق الفلترة مثل WhereGreater. إذا لم يكن الفهرس موجودًا يتم إنشاؤه أولاً. استخدم forceRebuild لإجبار إعادة إنشاء الفهرس."
 type: docs
-weight: 180
+weight: 200
 url: /ar/net/aspose.gis/vectorlayer/useattributesindex/
 ---
 ## UseAttributesIndex(string, string, bool) {#useattributesindex_1}
 
-يتم تحميل فهرس السمات لتسريع التصفية حسب قيمة السمات في طرق التصفية مثل[`WhereGreater`](../../featuressequence/wheregreater/). في حالة عدم وجود الفهرس يقوم بإنشائه أولاً. يستخدم*forceRebuild* لفرض إعادة إنشاء الفهرس.
+يقوم بتحميل فهرس السمات لتسريع التصفية حسب قيمة السمات في طرق الفلترة مثل [`WhereGreater`](../../featuressequence/wheregreater/). إذا لم يكن الفهرس موجودًا يتم إنشاؤه أولاً. استخدم *forceRebuild* لإجبار إعادة إنشاء الفهرس.
 
 ```csharp
 public void UseAttributesIndex(string indexPath, string attributeName, bool forceRebuild = false)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | indexPath | String | المسار إلى ملف الفهرس. |
-| attributeName | String | اسم السمة المراد بناء الفهرس عليها. |
-| forceRebuild | Boolean | ما إذا كان سيتم إعادة إنشاء الفهرس حتى لو كان موجودًا بالفعل. |
+| attributeName | String | اسم السمة التي سيُبنى عليها الفهرس. |
+| forceRebuild | Boolean | ما إذا كان يجب إعادة إنشاء الفهرس حتى وإن كان موجودًا بالفعل. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | لا توجد سمة بهذا الاسم في الطبقة. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| InvalidOperationException | تم تحميل فهرس السمة المحددة لهذه الطبقة بالفعل. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | السمة بهذا الاسم غير موجودة في الطبقة. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| InvalidOperationException | الفهرس الخاص بالسمة المحددة محمَّل بالفعل لهذه الطبقة. |
 | [GisException](../../gisexception/) | الملف موجود وليس ملف فهرس سمات تم إنشاؤه بواسطة Aspose.GIS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## UseAttributesIndex(AbstractPath, string, bool) {#useattributesindex}
 
-يتم تحميل فهرس السمات لتسريع التصفية حسب قيمة السمات في طرق التصفية مثل[`WhereGreater`](../../featuressequence/wheregreater/). في حالة عدم وجود الفهرس يقوم بإنشائه أولاً. يستخدم*forceRebuild* لفرض إعادة إنشاء الفهرس.
+يقوم بتحميل فهرس السمات لتسريع التصفية حسب قيمة السمات في طرق الفلترة مثل [`WhereGreater`](../../featuressequence/wheregreater/). إذا لم يكن الفهرس موجودًا يتم إنشاؤه أولاً. استخدم *forceRebuild* لإجبار إعادة إنشاء الفهرس.
 
 ```csharp
 public virtual void UseAttributesIndex(AbstractPath indexPath, string attributeName, 
     bool forceRebuild = false)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | indexPath | AbstractPath | المسار إلى ملف الفهرس. |
-| attributeName | String | اسم السمة المراد بناء الفهرس عليها. |
-| forceRebuild | Boolean | ما إذا كان سيتم إعادة إنشاء الفهرس حتى لو كان موجودًا بالفعل. |
+| attributeName | String | اسم السمة التي سيُبنى عليها الفهرس. |
+| forceRebuild | Boolean | ما إذا كان يجب إعادة إنشاء الفهرس حتى وإن كان موجودًا بالفعل. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | لا توجد سمة بهذا الاسم في الطبقة. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| InvalidOperationException | تم تحميل فهرس السمة المحددة لهذه الطبقة بالفعل. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | السمة بهذا الاسم غير موجودة في الطبقة. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| InvalidOperationException | الفهرس الخاص بالسمة المحددة محمَّل بالفعل لهذه الطبقة. |
 | [GisException](../../gisexception/) | الملف موجود وليس ملف فهرس سمات تم إنشاؤه بواسطة Aspose.GIS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../../abstractpath/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: FileDriver.CreateLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver طريقة. ينشئ الطبقة ويفتحها للإلحاق.
+title: "FileDriver.CreateLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileDriver. ينشئ الطبقة ويفتحها للإلحاق"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/filedriver/createlayer/
@@ -14,29 +14,29 @@ url: /ar/net/aspose.gis/filedriver/createlayer/
 public VectorLayer CreateLayer(string path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
+| المسار | String | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق إنشاء طبقات متجهة (انظر[`CanCreateLayers`](../cancreatelayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -48,30 +48,30 @@ public VectorLayer CreateLayer(string path)
 public VectorLayer CreateLayer(AbstractPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
+| المسار | AbstractPath | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق إنشاء طبقات متجهة (انظر[`CanCreateLayers`](../cancreatelayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -83,32 +83,32 @@ public VectorLayer CreateLayer(AbstractPath path)
 public VectorLayer CreateLayer(string path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق إنشاء طبقات متجهة (انظر[`CanCreateLayers`](../cancreatelayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -120,33 +120,33 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق إنشاء طبقات متجهة (انظر[`CanCreateLayers`](../cancreatelayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [AbstractPath](../../abstractpath/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -158,31 +158,31 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | String | المسار إلى الملف. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يدعم برنامج التشغيل نظام الإسناد المكاني. الاستخدام[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإسناد المكاني مدعومًا. |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -194,32 +194,32 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يدعم برنامج التشغيل نظام الإسناد المكاني. الاستخدام[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإسناد المكاني مدعومًا. |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [AbstractPath](../../abstractpath/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -232,35 +232,35 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
     SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يدعم برنامج التشغيل نظام الإسناد المكاني. الاستخدام[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإسناد المكاني مدعومًا. |
-| NotSupportedException | لا يمكن للسائق إنشاء طبقات متجهة (انظر[`CanCreateLayers`](../cancreatelayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -273,35 +273,35 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
     SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../vectorlayer/).
+مثال من [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| [GisException](../../gisexception/) | خطأ في كتابة الميزة في الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يدعم برنامج التشغيل نظام الإسناد المكاني. الاستخدام[`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإسناد المكاني مدعومًا. |
-| NotSupportedException | لا يمكن للسائق إنشاء طبقات متجهة (انظر[`CanCreateLayers`](../cancreatelayers/)). |
+| ArgumentNullException | المسار هو `null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [AbstractPath](../../abstractpath/)
 * class [DriverOptions](../../driveroptions/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

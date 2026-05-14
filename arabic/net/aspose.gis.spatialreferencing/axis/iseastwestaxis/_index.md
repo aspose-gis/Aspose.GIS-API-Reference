@@ -1,23 +1,23 @@
 ---
-title: Axis.IsEastWestAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: Axis ملكية. يكتشف ما إذا كان اتجاه المحور شرقًا أم غربًا.
+title: "Axis.IsEastWestAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Axis. يكتشف ما إذا كان اتجاه المحور شرقًا أو غربًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/axis/iseastwestaxis/
 ---
 ## Axis.IsEastWestAxis property
 
-يكتشف ما إذا كان اتجاه المحور شرقًا أم غربًا.
+يكشف ما إذا كان اتجاه المحور شرقًا أو غربًا.
 
 ```csharp
 public bool IsEastWestAxis { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../axis/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../axis/)
+* assembly [Aspose.GIS](../../../)
 
 

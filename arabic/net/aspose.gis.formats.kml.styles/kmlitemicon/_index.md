@@ -1,36 +1,36 @@
 ---
-title: Class KmlItemIcon
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlItemIcon فصل. يحدد موقع مورد رمز في قائمة.
+title: "الفئة KmlItemIcon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlItemIcon. تحدد موقع مورد الأيقونة في قائمة"
 type: docs
-weight: 500
+weight: 2140
 url: /ar/net/aspose.gis.formats.kml.styles/kmlitemicon/
 ---
 ## KmlItemIcon class
 
-يحدد موقع مورد رمز في قائمة.
+يحدد موقع مورد الأيقونة في القائمة.
 
 ```csharp
 public class KmlItemIcon
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlItemIcon](kmlitemicon/)() | Default_Constructor |
+| [KmlItemIcon](kmlitemicon/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Href](../../aspose.gis.formats.kml.styles/kmlitemicon/href/) { get; set; } | يحدد موقع المورد كعنوان URL . القيمة الافتراضية هي`null` يعني أن href لا شيء. |
-| [State](../../aspose.gis.formats.kml.styles/kmlitemicon/state/) { get; set; } | تحديد الحالة الحالية لارتباط الشبكة أو المجلد . القيمة الافتراضية هيNone . |
-| [SubState](../../aspose.gis.formats.kml.styles/kmlitemicon/substate/) { get; set; } | تحديد الحالة الإضافية لارتباط الشبكة أو المجلد . القيمة الافتراضية هيNone . |
+| [Href](../../aspose.gis.formats.kml.styles/kmlitemicon/href/) { get; set; } | تحدد موقع المورد كعنوان URL. القيمة الافتراضية هي `null` تعني أن href غير موجود. |
+| [State](../../aspose.gis.formats.kml.styles/kmlitemicon/state/) { get; set; } | تحدد الحالة الحالية لـ NetworkLink أو Folder. القيمة الافتراضية هي None. |
+| [SubState](../../aspose.gis.formats.kml.styles/kmlitemicon/substate/) { get; set; } | تحدد الحالة الإضافية لـ NetworkLink أو Folder. القيمة الافتراضية هي None. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

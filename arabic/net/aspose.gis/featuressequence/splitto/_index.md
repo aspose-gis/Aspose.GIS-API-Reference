@@ -1,14 +1,14 @@
 ---
-title: FeaturesSequence.SplitTo
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. تقسيم الميزات حسب النوع الهندسي.
+title: "FeaturesSequence.SplitTo"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. تقسم العناصر حسب نوع الهندسة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/featuressequence/splitto/
 ---
 ## FeaturesSequence.SplitTo method
 
-تقسيم الميزات حسب النوع الهندسي.
+يقسم الميزات حسب نوع الهندسة.
 
 ```csharp
 public VectorLayer[] SplitTo()
@@ -16,19 +16,19 @@ public VectorLayer[] SplitTo()
 
 ### قيمة الإرجاع
 
-طبقات من نفس النوع من الهندسة.
+الطبقات ذات نفس نوع الهندسة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة إلى / من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

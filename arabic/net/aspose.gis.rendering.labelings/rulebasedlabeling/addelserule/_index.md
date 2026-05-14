@@ -1,34 +1,34 @@
 ---
-title: RuleBasedLabeling.AddElseRule
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedLabeling طريقة. إضافة تصنيف سيتم تطبيقه على الميزات التي لا تتطابق مع أي قاعدة تصفية .
+title: "RuleBasedLabeling.AddElseRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RuleBasedLabeling. تُضيف توسيماً سيُطبق على العناصر التي لا تتطابق مع أي قاعدة تصفية"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/
 ---
 ## RuleBasedLabeling.AddElseRule method
 
-إضافة تصنيف سيتم تطبيقه على الميزات التي لا تتطابق مع أي قاعدة تصفية .
+يضيف تسمية سيتم تطبيقها على العناصر التي لا تطابق أي قاعدة تصفية.
 
 ```csharp
 public void AddElseRule(Labeling labeling)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| labeling | Labeling | وسم. |
+| تسمية | التسمية | توسيم. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Labeling](../../labeling/)
 * class [RuleBasedLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

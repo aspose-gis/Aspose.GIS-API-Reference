@@ -1,14 +1,14 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.YAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystemParameters ملكية. المحور الذي يصف البعد Y الرأسي. افتراضات على المحور ذي الاتجاه الشمالي .
+title: "ProjectedSpatialReferenceSystemParameters.YAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystemParameters. المحور الذي يصف البعد الرأسي Y. القيمة الافتراضية هي المحور المتجه نحو الشمال."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/
 ---
 ## ProjectedSpatialReferenceSystemParameters.YAxis property
 
-المحور الذي يصف البعد Y (الرأسي). افتراضات على المحور ذي الاتجاه الشمالي .
+المحور الذي يصف البُعد Y (العمودي). الافتراضي هو المحور باتجاه الشمال.
 
 ```csharp
 public Axis YAxis { get; set; }
@@ -16,15 +16,15 @@ public Axis YAxis { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | يتم إلقاؤه من واضع إذا لم يكن اتجاه المحورNorth أوSouth . |
+| ArgumentException | يُرمى من الدالة setter إذا كان اتجاه المحور ليس شمالًا أو جنوبًا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../../axis/)
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

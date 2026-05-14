@@ -1,24 +1,24 @@
 ---
-title: Rule.Symbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: Rule ملكية. Symbolizer ليتم تطبيقه على الميزة .
+title: "Rule.Symbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Rule. الرمز لتطبيقه على العنصر"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.symbolizers/rule/symbolizer/
 ---
 ## Rule.Symbolizer property
 
-Symbolizer ليتم تطبيقه على الميزة .
+الرمز لتطبيقه على الميزة.
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [Rule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rule/)
+* assembly [Aspose.GIS](../../../)
 
 

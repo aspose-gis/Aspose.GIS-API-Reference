@@ -1,24 +1,24 @@
 ---
-title: KmlFeatureStyle.Label
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlFeatureStyle ملكية. يحدد كيفية رسم عناوين الميزة . Usenull للإشارة إلى نمط مفقود. القيمة الافتراضية هيnull .
+title: "KmlFeatureStyle.Label"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlFeatureStyle. تحدد كيفية رسم تسميات العنصر. استخدم null للإشارة إلى نمط مفقود. القيمة الافتراضية هي null"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/label/
 ---
 ## KmlFeatureStyle.Label property
 
-يحدد كيفية رسم عناوين الميزة . Use`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` .
+تحدد كيفية رسم تسميات العنصر. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`.
 
 ```csharp
 public KmlLabelStyle Label { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlLabelStyle](../../kmllabelstyle/)
 * class [KmlFeatureStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

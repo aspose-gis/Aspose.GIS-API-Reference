@@ -1,56 +1,56 @@
 ---
-title: GeographicDatum.IsEquivalent
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicDatum طريقة. تحديد ما إذا كان اثنان من المساند متكافئين. نفس الإحداثيات لمعلومات معادلة تتطابق مع نفس المكان على الأرض . يمكن أن تكون بعض معلمات البيانات المكافئة مختلفة  على سبيل المثالName .
+title: "GeographicDatum.IsEquivalent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة GeographicDatum. تحدد ما إذا كان هناك نظامان مرجعيان متكافئان. نفس إحداثيات الأنظمة المرجعية المتكافئة تتطابق مع نفس الموقع على الأرض. بعض المعلمات للأنظمة المرجعية المتكافئة يمكن أن تكون مختلفة، على سبيل المثال Name"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/isequivalent/
 ---
 ## IsEquivalent(GeographicDatum, GeographicDatum)
 
-تحديد ما إذا كان اثنان من المساند متكافئين. نفس الإحداثيات لمعلومات معادلة تتطابق مع نفس المكان على الأرض . يمكن أن تكون بعض معلمات البيانات المكافئة مختلفة ، على سبيل المثال[`Name`](../../identifiableobject/name/) .
+تحدد ما إذا كان هناك نظامان مرجعيان متكافئان. نفس إحداثيات الأنظمة المرجعية المتكافئة تتطابق مع نفس الموقع على الأرض. بعض المعلمات للأنظمة المرجعية المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
 
 ```csharp
 public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| datum1 | GeographicDatum | المرجع الأول. |
-| datum2 | GeographicDatum | المرجع الثاني. |
+| datum1 | GeographicDatum | النظام المرجعي الأول. |
+| datum2 | GeographicDatum | النظام المرجعي الثاني. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان اثنان من المساند متساويين.
+قيمة من نوع bool، تشير إلى ما إذا كان هناك نظامان مرجعيان متكافئان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## IsEquivalent(GeographicDatum)
 
-تحديد ما إذا كان اثنان من المساند متكافئين. نفس الإحداثيات لمعلومات معادلة تتطابق مع نفس المكان على الأرض . يمكن أن تكون بعض معلمات البيانات المكافئة مختلفة ، على سبيل المثال[`Name`](../../identifiableobject/name/) .
+تحدد ما إذا كان هناك نظامان مرجعيان متكافئان. نفس إحداثيات الأنظمة المرجعية المتكافئة تتطابق مع نفس الموقع على الأرض. بعض المعلمات للأنظمة المرجعية المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
 
 ```csharp
 public bool IsEquivalent(GeographicDatum other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | GeographicDatum | مسند آخر. |
+| آخر | GeographicDatum | نظام مرجعي آخر. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان اثنان من المساند متساويين.
+قيمة من نوع bool، تشير إلى ما إذا كان هناك نظامان مرجعيان متكافئان.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

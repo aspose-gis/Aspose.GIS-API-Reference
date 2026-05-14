@@ -1,23 +1,23 @@
 ---
-title: VerticalSpatialReferenceSystem.HasGeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem ملكية. عوائدfalse  نظرًا لأن Vertical SRS لا يحتوي على بيانات جغرافية.
+title: "VerticalSpatialReferenceSystem.HasGeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VerticalSpatialReferenceSystem. تُعيد false لأن الـ Vertical SRS لا يحتوي على datum جغرافي"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/hasgeographicdatum/
 ---
 ## VerticalSpatialReferenceSystem.HasGeographicDatum property
 
-عوائد`false` ، نظرًا لأن Vertical SRS لا يحتوي على بيانات جغرافية.
+يعيد `false`، لأن نظام الإسناد المكاني العمودي لا يحتوي على مرجع جغرافي.
 
 ```csharp
 public override bool HasGeographicDatum { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

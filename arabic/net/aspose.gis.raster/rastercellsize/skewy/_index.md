@@ -1,23 +1,23 @@
 ---
-title: RasterCellSize.SkewY
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterCellSize ملكية. الحصول على أو تحديد مكون ص لعرض البكسل انحراف ص.
+title: "RasterCellSize.SkewY"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterCellSize. تحصل أو تعين المكوّن y لعرض البكسل (yskew)"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.raster/rastercellsize/skewy/
 ---
 ## RasterCellSize.SkewY property
 
-الحصول على أو تحديد مكون ص لعرض البكسل (انحراف ص).
+الحصول أو تعيين المكوّن y لعرض البكسل (y-skew).
 
 ```csharp
 public double SkewY { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterCellSize](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rastercellsize/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

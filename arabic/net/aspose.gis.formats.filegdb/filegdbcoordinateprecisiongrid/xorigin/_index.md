@@ -1,27 +1,27 @@
 ---
-title: FileGdbCoordinatePrecisionGrid.XOrigin
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbCoordinatePrecisionGrid ملكية. الحصول على أصل إحداثيات X أو تعيينه. إذا تم التعيين علىnull الافتراضي هو المستخدم.
+title: "FileGdbCoordinatePrecisionGrid.XOrigin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعين أصل إحداثيات X. إذا تم تعيينها إلى null تُستخدم القيمة الافتراضية."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.XOrigin property
 
-الحصول على أصل إحداثيات X أو تعيينه. إذا تم التعيين على`null` الافتراضي هو المستخدم.
+يحصل أو يضبط أصل إحداثية X. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
 
 ```csharp
 public double? XOrigin { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-القيمة الافتراضية هي -400 لـ[`VectorLayer`](../../../aspose.gis/vectorlayer/)مع الجغرافيا[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) و -2147483647 لـ[`VectorLayer`](../../../aspose.gis/vectorlayer/) مع المتوقع[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) .
+القيمة الافتراضية هي -400 لـ [`VectorLayer`](../../../aspose.gis/vectorlayer/) مع نظام إسناد مكاني جغرافي [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) و -2147483647 لـ [`VectorLayer`](../../../aspose.gis/vectorlayer/) مع نظام إسناد مكاني إسقاطي [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbCoordinatePrecisionGrid](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
+* assembly [Aspose.GIS](../../../)
 
 

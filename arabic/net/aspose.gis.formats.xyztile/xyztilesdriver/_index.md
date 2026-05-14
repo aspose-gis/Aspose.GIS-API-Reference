@@ -1,35 +1,35 @@
 ---
-title: Class XyzTilesDriver
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.XyzTile.XyzTilesDriver فصل. برنامج تشغيل لخرائط الويب المكسوة بالبلاط XYZ.
+title: "فئة XyzTilesDriver"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Formats.XyzTile.XyzTilesDriver فئة. برنامج تشغيل لخرائط الويب المتقطعة XYZ"
 type: docs
-weight: 750
+weight: 2420
 url: /ar/net/aspose.gis.formats.xyztile/xyztilesdriver/
 ---
 ## XyzTilesDriver class
 
-برنامج تشغيل لخرائط الويب المكسوة بالبلاط XYZ.
+محرك لخرائط الويب المتقطعة XYZ.
 
 ```csharp
 public class XyzTilesDriver : Driver
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [XyzTilesDriver](xyztilesdriver/)() | Default_Constructor |
+| [XyzTilesDriver](xyztilesdriver/)() | المُنشئ الافتراضي. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [OpenLayer](../../aspose.gis.formats.xyztile/xyztilesdriver/openlayer/)(XyzConnection) | يفتح مجموعة المربعات . |
+| [OpenLayer](../../aspose.gis.formats.xyztile/xyztilesdriver/openlayer/)(XyzConnection) | يفتح مجموعة البلاط. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Driver](../../aspose.gis/driver/)
-* مساحة الاسم [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
+* assembly [Aspose.GIS](../../)
 
 

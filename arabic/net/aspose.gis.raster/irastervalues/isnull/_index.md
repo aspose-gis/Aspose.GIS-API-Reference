@@ -1,31 +1,31 @@
 ---
-title: IRasterValues.IsNull
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterValues طريقة. للتحقق مما إذا تم تعيين قيمة البيانات النقطية في النطاق المحدد.
+title: "IRasterValues.IsNull"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IRasterValues. تتحقق مما إذا كانت قيمة الراستر مضبوطة في النطاق المحدد"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.raster/irastervalues/isnull/
 ---
 ## IRasterValues.IsNull method
 
-للتحقق مما إذا تم تعيين قيمة البيانات النقطية في النطاق المحدد.
+يتحقق مما إذا كانت قيمة الرستر مضبوطة في الشريط المحدد.
 
 ```csharp
 public bool IsNull(int bandIndex = 0)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bandIndex | Int32 | فهرس الفرقة. يبدأ الترقيم من 0. |
+| bandIndex | Int32 | فهرس النطاق. يبدأ الترقيم من 0. |
 
 ### قيمة الإرجاع
 
-إرجاع "خطأ" إذا لم تكن موجودة.
+أرجع 'false' إذا لم توجد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterValues](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irastervalues/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastervalues/)
+* assembly [Aspose.GIS](../../../)
 
 

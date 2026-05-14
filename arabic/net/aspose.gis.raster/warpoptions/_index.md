@@ -1,40 +1,40 @@
 ---
-title: Class WarpOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.WarpOptions فصل. خيارات لتزييف البيانات النقطية .
+title: "الفئة WarpOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.WarpOptions. خيارات لتشويه الرستر"
 type: docs
-weight: 1430
+weight: 3870
 url: /ar/net/aspose.gis.raster/warpoptions/
 ---
 ## WarpOptions class
 
-خيارات لتزييف البيانات النقطية .
+خيارات لتشويه الراستر.
 
 ```csharp
 public class WarpOptions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [WarpOptions](warpoptions/)() | Default_Constructor |
+| [WarpOptions](warpoptions/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [CellHeight](../../aspose.gis.raster/warpoptions/cellheight/) { get; set; } | يحدد ارتفاعًا جديدًا للخلية النقطية (في الوحدات المستهدفة ذات المرجعية الجغرافية) . إذا تم تعيين القيمة على 0 ،[`CellHeight`](./cellheight/) يتم حسابها تلقائيًا. القيمة الافتراضية هي "0" . |
-| [CellWidth](../../aspose.gis.raster/warpoptions/cellwidth/) { get; set; } | يحدد عرضًا جديدًا للخلية النقطية (في الوحدات المستهدفة ذات المرجعية الجغرافية) . إذا تم تعيين القيمة على 0 ،[`CellWidth`](./cellwidth/) يتم حسابها تلقائيًا. القيمة الافتراضية هي "0" . |
-| [DefaultSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/defaultspatialreferencesystem/) { get; set; } | يحدد قيمة للمرجع المكاني للمصدر إذا كان مفقودًا. |
-| [Height](../../aspose.gis.raster/warpoptions/height/) { get; set; } | يحدد ارتفاع الناتج النقطي بالبكسل والأعمدة. إذا تم تعيين القيمة على 0 ، فسيتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي "0" . |
-| [TargetExtent](../../aspose.gis.raster/warpoptions/targetextent/) { get; set; } | يحدد حدود طبقة البيانات النقطية للالتواء . إذا تم الضبط على`null` ، يتم حساب المدى أثناء الالتواء لتضمين جميع الخلايا من البيانات النقطية. |
-| [TargetSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/targetspatialreferencesystem/) { get; set; } | يحدد الإسناد المكاني المستهدف . إذا تم التعيين على`null` ، يتم استخدام الإسناد المكاني الافتراضي أو المصدر. |
-| [Width](../../aspose.gis.raster/warpoptions/width/) { get; set; } | يحدد عرض نقطي الإخراج بالبكسل والأعمدة. إذا تم تعيين القيمة على 0 ، فسيتم حساب العرض تلقائيًا. القيمة الافتراضية هي "0" . |
+| [CellHeight](../../aspose.gis.raster/warpoptions/cellheight/) { get; set; } | يحدد ارتفاعًا جديدًا لخلية الرستر (بوحدات الإسناد الجغرافي المستهدفة). إذا تم ضبط القيمة على 0، يتم حساب [`CellHeight`](./cellheight/) تلقائيًا. القيمة الافتراضية هي \"0\". |
+| [CellWidth](../../aspose.gis.raster/warpoptions/cellwidth/) { get; set; } | يحدد عرضًا جديدًا لخلية الرستر (بوحدات الإسناد الجغرافي المستهدفة). إذا تم ضبط القيمة على 0، يتم حساب [`CellWidth`](./cellwidth/) تلقائيًا. القيمة الافتراضية هي \"0\". |
+| [DefaultSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/defaultspatialreferencesystem/) { get; set; } | يحدد قيمة للإشارة المكانية المصدر إذا كانت مفقودة. |
+| [Height](../../aspose.gis.raster/warpoptions/height/) { get; set; } | يحدد ارتفاع رستر الإخراج بالبكسل والأعمدة. إذا تم ضبط القيمة على 0، يتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي \"0\". |
+| [TargetExtent](../../aspose.gis.raster/warpoptions/targetextent/) { get; set; } | يحدد حدود طبقة الرستر للتشويه. إذا تم ضبطها على `null`، يتم حساب الامتداد أثناء التشويه لتضمين جميع الخلايا من الرستر. |
+| [TargetSpatialReferenceSystem](../../aspose.gis.raster/warpoptions/targetspatialreferencesystem/) { get; set; } | يحدد الإشارة المكانية المستهدفة. إذا تم ضبطها على `null`، يتم استخدام الإشارة المكانية الافتراضية أو المصدر. |
+| [Width](../../aspose.gis.raster/warpoptions/width/) { get; set; } | يحدد عرض رستر الإخراج بالبكسل والأعمدة. إذا تم ضبط القيمة على 0، يتم حساب العرض تلقائيًا. القيمة الافتراضية هي \"0\". |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

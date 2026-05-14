@@ -1,39 +1,39 @@
 ---
-title: SpatialReferenceSystem.CreateFromEpsg
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. إنشاء نظام إسناد مكاني يعتمد على كود EPSG المحدد.
+title: "SpatialReferenceSystem.CreateFromEpsg"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. إنشاء نظام إسناد مكاني بناءً على رمز EPSG المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createfromepsg/
 ---
 ## SpatialReferenceSystem.CreateFromEpsg method
 
-إنشاء نظام إسناد مكاني يعتمد على كود EPSG المحدد.
+إنشاء نظام إحداثيات بناءً على رمز EPSG المحدد.
 
 ```csharp
 public static SpatialReferenceSystem CreateFromEpsg(int epsg)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| epsg | Int32 | كود EPSG لنظام الإسناد المكاني. |
+| epsg | Int32 | رمز EPSG لنظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-نظام إسناد مكاني جديد برمز EPSG المحدد.
+نظام إسناد مكاني جديد بالرمز EPSG المحدد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الحجة ليست إيجابية. |
-| NotSupportedException | كود EPSG المحدد غير معروف. |
+| ArgumentOutOfRangeException | المعطى ليس إيجابيًا. |
+| NotSupportedException | رمز EPSG المحدد غير معروف. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [TryCreateFromEpsg](../trycreatefromepsg/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

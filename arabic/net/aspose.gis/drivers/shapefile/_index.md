@@ -1,24 +1,24 @@
 ---
-title: Drivers.Shapefile
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل للتنسيق Shapefile .
+title: "Drivers.Shapefile"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل لتنسيق Shapefile"
 type: docs
-weight: 160
+weight: 210
 url: /ar/net/aspose.gis/drivers/shapefile/
 ---
 ## Drivers.Shapefile property
 
-برنامج تشغيل للتنسيق Shapefile .
+محرك لتنسيق Shapefile.
 
 ```csharp
 public static ShapefileDriver Shapefile { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShapefileDriver](../../../aspose.gis.formats.shapefile/shapefiledriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

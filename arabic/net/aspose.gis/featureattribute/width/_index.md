@@ -1,14 +1,14 @@
 ---
-title: FeatureAttribute.Width
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttribute ملكية. الحصول على أو تعيين أقصى عرض مسموح به لتمثيل الأحرف للسمة.
+title: "FeatureAttribute.Width"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttribute. يحصل أو يضبط الحد الأقصى المسموح به لعرض تمثيل الأحرف للخاصية"
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.gis/featureattribute/width/
 ---
 ## FeatureAttribute.Width property
 
-الحصول على أو تعيين أقصى عرض مسموح به لتمثيل الأحرف للسمة.
+يحصل أو يضبط الحد الأقصى المسموح به لعرض تمثيل الأحرف للسمة.
 
 ```csharp
 public int? Width { get; set; }
@@ -16,14 +16,14 @@ public int? Width { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | السمة مؤمنة. |
+| InvalidOperationException | الخاصية مقفلة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../)
-* مساحة الاسم [Aspose.Gis](../../featureattribute/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

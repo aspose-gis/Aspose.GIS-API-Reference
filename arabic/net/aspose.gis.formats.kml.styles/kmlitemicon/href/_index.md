@@ -1,23 +1,23 @@
 ---
-title: KmlItemIcon.Href
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlItemIcon ملكية. يحدد موقع المورد كعنوان URL . القيمة الافتراضية هيnull يعني أن href لا شيء.
+title: "KmlItemIcon.Href"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlItemIcon. تحدد موقع المورد كعنوان URL. القيمة الافتراضية هي null تعني أن href غير موجود"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml.styles/kmlitemicon/href/
 ---
 ## KmlItemIcon.Href property
 
-يحدد موقع المورد كعنوان URL . القيمة الافتراضية هي`null` يعني أن href لا شيء.
+تحدد موقع المورد كعنوان URL. القيمة الافتراضية هي `null` تعني أن href غير موجود.
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlItemIcon](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlitemicon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlitemicon/)
+* assembly [Aspose.GIS](../../../)
 
 

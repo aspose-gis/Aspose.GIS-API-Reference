@@ -1,70 +1,70 @@
 ---
-title: Extent.Intersects
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. لتحديد ما إذا كان هذا الحد يتقاطع مع الوسيطة.
+title: "Extent.Intersects"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. تحدد ما إذا كان هذا النطاق يتقاطع مع الوسيط"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis/extent/intersects/
 ---
 ## Intersects(Extent) {#intersects}
 
-لتحديد ما إذا كان هذا الحد يتقاطع مع الوسيطة.
+يحدد ما إذا كان هذا النطاق يتقاطع مع الوسيط.
 
 ```csharp
 public bool Intersects(Extent extent)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| extent | Extent | مدى آخر. |
+| مدى | مدى | نطاق آخر. |
 
 ### قيمة الإرجاع
 
-القيمة ، تشير إلى ما إذا كان هذا المدى يتقاطع مع الوسيطة.
+قيمة تشير إلى ما إذا كان هذا النطاق يتقاطع مع الوسيط.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من هذا المدى والحجة كلاهما ليس كذلك`null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Intersects(IGeometry) {#intersects_1}
 
-لتحديد ما إذا كان هذا الحد يتقاطع مع الوسيطة.
+يحدد ما إذا كان هذا النطاق يتقاطع مع الوسيط.
 
 ```csharp
 public bool Intersects(IGeometry geometry)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | هندسة لاختبار التقاطع |
+| هندسة | IGeometry | هندسة لاختبار التقاطع |
 
 ### قيمة الإرجاع
 
-القيمة ، تشير إلى ما إذا كان هذا المدى يتقاطع مع الوسيطة.
+قيمة تشير إلى ما إذا كان هذا النطاق يتقاطع مع الوسيط.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) من هذا المدى والحجة كلاهما ليس كذلك`null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

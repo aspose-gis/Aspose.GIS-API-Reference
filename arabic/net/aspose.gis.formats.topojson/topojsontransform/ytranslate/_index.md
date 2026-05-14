@@ -1,23 +1,23 @@
 ---
-title: TopoJsonTransform.YTranslate
-second_title: Aspose.GIS لمرجع .NET API
-description: TopoJsonTransform ملكية. ترجم للتطبيق على إحداثيات Y
+title: "TopoJsonTransform.YTranslate"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية TopoJsonTransform. الترجمة لتطبيقها على إحداثي Y"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.topojson/topojsontransform/ytranslate/
 ---
 ## TopoJsonTransform.YTranslate property
 
-ترجم للتطبيق على إحداثيات Y
+التحويل لتطبيقه على إحداثي Y.
 
 ```csharp
 public double YTranslate { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [TopoJsonTransform](../)
-* مساحة الاسم [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
+* assembly [Aspose.GIS](../../../)
 
 

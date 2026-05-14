@@ -1,37 +1,37 @@
 ---
-title: Aspose.Gis.Rendering
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering توفر مساحة الاسم فئات لعرض الخرائط.
+title: "Aspose.Gis.Rendering"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Rendering توفر فئات لتصيير الخرائط"
 type: docs
-weight: 280
+weight: 660
 url: /ar/net/aspose.gis.rendering/
 ---
-`Aspose.Gis.Rendering` توفر مساحة الاسم فئات لعرض الخرائط.
+`Aspose.Gis.Rendering` مساحة الاسم توفر فئات لتصيير الخرائط.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [Map](./map/) | الخريطة عبارة عن مجموعة من الطبقات التي يمكن عرضها فوق بعضها البعض عبر[`Renderer`](../aspose.gis.rendering/renderer/) . |
-| [MapLayer](./maplayer/) | أ`MapLayer` هي فئة أساسية للطبقات داخل[`Map`](../aspose.gis.rendering/map/). |
-| [RasterMapLayer](./rastermaplayer/) | طبقة بالداخل[`Map`](../aspose.gis.rendering/map/) التي تمثل بيانات الطبقة النقطية. |
-| [RasterMapResampling](./rastermapresampling/) | توضح هذه الفئة كيفية إعادة تشكيل طبقة نقطية عند عرض الخريطة. |
-| [Renderer](./renderer/) | فئة أساسية للعارضين. |
-| [Renderers](./renderers/) | عارضين لجميع التنسيقات المدعومة. |
-| [VectorMapLayer](./vectormaplayer/) | طبقة بالداخل[`Map`](../aspose.gis.rendering/map/) التي تمثل بيانات طبقة متجه. |
-## الهياكل
+| [Map](./map/) | الخريطة هي مجموعة من الطبقات يمكن تصييرها فوق بعضها البعض عبر [`Renderer`](../aspose.gis.rendering/renderer/). |
+| [MapLayer](./maplayer/) | الفئة الأساسية `MapLayer` للطبقات داخل الـ[`Map`](../aspose.gis.rendering/map/). |
+| [RasterMapLayer](./rastermaplayer/) | طبقة داخل الـ[`Map`](../aspose.gis.rendering/map/) تمثل بيانات طبقة نقطية. |
+| [RasterMapResampling](./rastermapresampling/) | تصف هذه الفئة كيفية إعادة أخذ عينات طبقة نقطية عند تصيير خريطة. |
+| [Renderer](./renderer/) | فئة أساسية للمُصَيِّرين. |
+| [Renderers](./renderers/) | المُصَيِّرين لجميع الصيغ المدعومة. |
+| [VectorMapLayer](./vectormaplayer/) | طبقة داخل الـ[`Map`](../aspose.gis.rendering/map/) تمثل بيانات طبقة متجهية. |
+## Structures
 
-| بنية | وصف |
+| بنية | الوصف |
 | --- | --- |
-| [Measurement](./measurement/) | رقم يشير إلى قياس العرض . |
+| [Measurement](./measurement/) | رقم يشير إلى قياس التصيير. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [CapStyle](./capstyle/) | يحدد كيفية تجسيد الأسطر في نهاياتها. |
-| [FillStyle](./fillstyle/) | يحدد نمط التعبئة . |
+| [CapStyle](./capstyle/) | يحدد كيفية تصيير الخطوط عند نهاياتها. |
+| [FillStyle](./fillstyle/) | يحدد نمط التعبئة. |
 | [LineJoin](./linejoin/) | يحدد كيفية عرض الخطوط عند تقاطعات مقاطع الخط. |
-| [StrokeStyle](./strokestyle/) | يحدد نمط ضربة الفرشاة . |
-| [Unit](./unit/) | وحدة قياس . |
+| [StrokeStyle](./strokestyle/) | يحدد نمط الحد. |
+| [Unit](./unit/) | وحدة قياس. |
 
 

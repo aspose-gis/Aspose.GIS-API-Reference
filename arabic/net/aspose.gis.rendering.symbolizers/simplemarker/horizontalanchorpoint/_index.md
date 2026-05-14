@@ -1,7 +1,7 @@
 ---
-title: SimpleMarker.HorizontalAnchorPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleMarker ملكية. يحدد أي جانب من شكل العلامة سيتم محاذاته أفقيًا مع موقع النقطة.
+title: "SimpleMarker.HorizontalAnchorPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleMarker. تحدد أي جانب من شكل العلامة سيتم محاذاته أفقياً مع موقع النقطة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/horizontalanchorpoint/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/horizontalanchorpoint
 public HorizontalAnchor HorizontalAnchorPoint { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [HorizontalAnchor](../../horizontalanchor/)
 * class [SimpleMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

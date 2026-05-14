@@ -1,23 +1,23 @@
 ---
-title: PrimeMeridian.Greenwich
-second_title: Aspose.GIS لمرجع .NET API
-description: PrimeMeridian ملكية. خط الطول غرينتش .
+title: "PrimeMeridian.Greenwich"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PrimeMeridian. خط غرينتش."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/primemeridian/greenwich/
 ---
 ## PrimeMeridian.Greenwich property
 
-خط الطول غرينتش .
+خط غرينتش.
 
 ```csharp
 public static PrimeMeridian Greenwich { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrimeMeridian](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../primemeridian/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../primemeridian/)
+* assembly [Aspose.GIS](../../../)
 
 

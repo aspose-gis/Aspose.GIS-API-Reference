@@ -1,23 +1,23 @@
 ---
-title: Dataset.OpenLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: Dataset طريقة. يفتح الطبقة ذات الاسم المحدد للقراءة.
+title: "Dataset.OpenLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Dataset. تفتح الطبقة بالاسم المحدد للقراءة"
 type: docs
-weight: 110
+weight: 130
 url: /ar/net/aspose.gis/dataset/openlayer/
 ---
 ## Dataset.OpenLayer method
 
-يفتح الطبقة ذات الاسم المحدد للقراءة.
+يفتح الطبقة بالاسم المحدد للقراءة.
 
 ```csharp
 public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الطبقة المراد فتحها. |
-| options | DriverOptions | افتح الخيارات. |
+| الاسم | String | اسم الطبقة للفتح. |
+| الخيارات | DriverOptions | خيارات الفتح. |
 
 ### قيمة الإرجاع
 
@@ -25,20 +25,20 @@ public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | الطبقة ذات الاسم المحدد غير موجودة ؛ كائن الخيارات به نوع غير صحيح لمجموعة البيانات هذه. |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لمجموعة البيانات هذه. |
-| ArgumentNullException | الاسم هو`null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة المعلم من الطبقة. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| ArgumentException | الطبقة بالاسم المحدد غير موجودة؛ كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
+| ArgumentNullException | الاسم هو `null`. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الطبقة. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

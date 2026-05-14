@@ -1,27 +1,27 @@
 ---
-title: CircularString.IsEmpty
-second_title: Aspose.GIS لمرجع .NET API
-description: CircularString ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+title: "CircularString.IsEmpty"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CircularString. يحصل على قيمة تشير إلى ما إذا كانت هذه الحالة فارغة"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/circularstring/isempty/
 ---
 ## CircularString.IsEmpty property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل فارغًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا.
 
 ```csharp
 public override bool IsEmpty { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا كانت هذه الحالة فارغة ؛ خلاف ذلك،`false` .
+`true` إذا كان هذا الكائن فارغًا؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CircularString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../circularstring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

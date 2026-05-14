@@ -1,14 +1,14 @@
 ---
-title: IMultiPoint.ToEditable
-second_title: Aspose.GIS لمرجع .NET API
-description: IMultiPoint طريقة. الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+title: "IMultiPoint.ToEditable"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IMultiPoint. تُعيد نسخة قابلة للتحرير من هذا الشكل"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/imultipoint/toeditable/
 ---
 ## IMultiPoint.ToEditable method
 
-الحصول على نسخة قابلة للتحرير من هذه الهندسة.
+يحصل على نسخة قابلة للتحرير من هذه الهندسة.
 
 ```csharp
 public MultiPoint ToEditable()
@@ -16,13 +16,13 @@ public MultiPoint ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه الهندسة.
+نسخة قابلة للتحرير من هذه geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiPoint](../../multipoint/)
 * interface [IMultiPoint](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../imultipoint/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../imultipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

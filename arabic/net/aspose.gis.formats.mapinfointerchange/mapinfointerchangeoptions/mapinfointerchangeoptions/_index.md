@@ -1,23 +1,23 @@
 ---
-title: MapInfoInterchangeOptions.MapInfoInterchangeOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: MapInfoInterchangeOptions البناء. إنشاء مثيل جديد .
+title: "MapInfoInterchangeOptions.MapInfoInterchangeOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MapInfoInterchangeOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions/mapinfointerchangeoptions/
 ---
 ## MapInfoInterchangeOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public MapInfoInterchangeOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoInterchangeOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangeoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangeoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

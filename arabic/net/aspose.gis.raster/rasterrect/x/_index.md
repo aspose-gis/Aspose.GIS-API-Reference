@@ -1,23 +1,23 @@
 ---
-title: RasterRect.X
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterRect ملكية. الحصول على عمود البداية تنسيق x.
+title: "RasterRect.X"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterRect. تحصل على إحداثي العمود الابتدائي xcoordinate"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/rasterrect/x/
 ---
 ## RasterRect.X property
 
-الحصول على عمود البداية (تنسيق x).
+يحصل على عمود البداية (الإحداثي x).
 
 ```csharp
 public int X { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterRect](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterrect/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterrect/)
+* assembly [Aspose.GIS](../../../)
 
 

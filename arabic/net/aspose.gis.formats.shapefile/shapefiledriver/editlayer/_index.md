@@ -1,99 +1,99 @@
 ---
-title: ShapefileDriver.EditLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: ShapefileDriver طريقة. يفتح طبقة للتحرير .
+title: "ShapefileDriver.EditLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ShapefileDriver. تفتح طبقة للتحرير"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.shapefile/shapefiledriver/editlayer/
 ---
 ## EditLayer(AbstractPath, DriverOptions) {#editlayer}
 
-يفتح طبقة للتحرير .
+يفتح طبقة للتحرير.
 
 ```csharp
 public override VectorLayer EditLayer(AbstractPath path, DriverOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
-| [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة الميزة من الملف. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة العنصر من الملف. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [ShapefileDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## EditLayer(string, ShapefileOptions) {#editlayer_3}
 
-يفتح طبقة للتحرير .
+يفتح طبقة للتحرير.
 
 ```csharp
 public VectorLayer EditLayer(string path, ShapefileOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار الملف. |
-| options | ShapefileOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى الملف. |
+| الخيارات | ShapefileOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [ShapefileOptions](../../shapefileoptions/)
 * class [ShapefileDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## EditLayer(AbstractPath, ShapefileOptions) {#editlayer_1}
 
-يفتح طبقة للتحرير .
+يفتح طبقة للتحرير.
 
 ```csharp
 public VectorLayer EditLayer(AbstractPath path, ShapefileOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | مسار الملف. |
-| options | ShapefileOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى الملف. |
+| الخيارات | ShapefileOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [ShapefileOptions](../../shapefileoptions/)
 * class [ShapefileDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
+* assembly [Aspose.GIS](../../../)
 
 

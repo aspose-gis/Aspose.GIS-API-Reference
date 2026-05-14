@@ -1,14 +1,14 @@
 ---
-title: CurvePolygon.GetHashCode
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon طريقة. بمثابة وظيفة التجزئة الافتراضية.
+title: "CurvePolygon.GetHashCode"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CurvePolygon. تعمل كدالة تجزئة افتراضية"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/curvepolygon/gethashcode/
 ---
 ## CurvePolygon.GetHashCode method
 
-بمثابة وظيفة التجزئة الافتراضية.
+يعمل كدالة التجزئة الافتراضية.
 
 ```csharp
 public override int GetHashCode()
@@ -16,12 +16,12 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-رمز تجزئة للكائن الحالي.
+قيمة تجزئة للكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

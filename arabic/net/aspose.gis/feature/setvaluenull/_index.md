@@ -1,36 +1,36 @@
 ---
-title: Feature.SetValueNull
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. لتعيين قيمة السمة إلىباطل .
+title: "Feature.SetValueNull"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تُعيّن قيمة السمة إلى null"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/feature/setvaluenull/
 ---
 ## Feature.SetValueNull method
 
-لتعيين قيمة السمة إلى`باطل` .
+يضبط قيمة السمة إلى `null`.
 
 ```csharp
 public void SetValueNull(string attributeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attributeName | String | اسم السمة. |
+| attributeName | String | اسم الخاصية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidOperationException | لا يمكن أن تكون قيمة هذه السمة خالية. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidOperationException | لا يمكن أن تكون قيمة هذه السمة Null. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

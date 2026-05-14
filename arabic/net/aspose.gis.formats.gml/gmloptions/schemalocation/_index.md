@@ -1,31 +1,31 @@
 ---
-title: GmlOptions.SchemaLocation
-second_title: Aspose.GIS لمرجع .NET API
-description: GmlOptions ملكية. قائمة مفصولة بمسافة لأزواج URI. أول URI في كل زوج هو URI لمساحة الاسم  والثاني URI هو مسار إلى مخطط XML لمساحة الاسم . إذا تم التعيين علىnull وGmlDriver سيحاول قراءة schemaLocation من عنصر جذر المستند. الافتراضي هوnull .
+title: "GmlOptions.SchemaLocation"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GmlOptions. قائمة مفصولة بمسافات من أزواج URI. أول URI في كل زوج هو URI للمساحة الاسمية والـ URI الثاني هو مسار إلى مخطط XML للمساحة الاسمية. إذا تم تعيينه إلى null سيحاول GmlDriver قراءة schemaLocation من العنصر الجذر للمستند. القيمة الافتراضية هي null"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.gml/gmloptions/schemalocation/
 ---
 ## GmlOptions.SchemaLocation property
 
-قائمة مفصولة بمسافة لأزواج URI. أول URI في كل زوج هو URI لمساحة الاسم ، والثاني URI هو مسار إلى مخطط XML لمساحة الاسم . إذا تم التعيين على`null` و[`GmlDriver`](../../gmldriver/) سيحاول قراءة schemaLocation من عنصر جذر المستند. الافتراضي هو`null` .
+قائمة مفصولة بمسافات من أزواج URI. أول URI في كل زوج هو URI للمساحة الاسمية، والـ URI الثاني هو مسار إلى مخطط XML للمساحة الاسمية. إذا تم تعيينه إلى `null`، فإن [`GmlDriver`](../../gmldriver/) سيحاول قراءة schemaLocation من العنصر الجذر للمستند. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string SchemaLocation { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-Aspose.GIS يستخدم مخطط XML لملف GML من أجل إنشائه[`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection/) بشكل افتراضي ، يتم استخراج موقع المخطط من سمة schemaLocation. إذا لم تكن هناك سمة من هذا القبيل أو كانت تشير إلى موقع غير صالح ، فإن Aspose.GIS سيفشل في قراءة ملف GML. في هذه الحالة - اضبط هذا الخيار ، بحيث يمكن لـ Aspose.GIS تحميل المخطط.
+يستخدم Aspose.GIS مخطط XML لملف GML لإنشاء [`FeatureAttributeCollection`](../../../aspose.gis/featureattributecollection/). بشكل افتراضي، يتم استخراج موقع المخطط من الخاصية schemaLocation. إذا لم توجد هذه الخاصية أو أشارت إلى موقع غير صالح، سيفشل Aspose.GIS في قراءة ملف GML. في هذه الحالة - اضبط هذا الخيار، حتى يتمكن Aspose.GIS من تحميل المخطط.
 
-### أمثلة
+## أمثلة
 
 "http://site.com/namespace http://site.com/schema.xsd"
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gml](../../gmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gml](../../gmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

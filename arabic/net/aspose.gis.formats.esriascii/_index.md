@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.EsriAscii
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.EsriAscii توفر مساحة الاسم فئات للعمل بتنسيق EsriAscii.
+title: "Aspose.Gis.Formats.EsriAscii"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.EsriAscii توفر فئات للعمل مع تنسيق EsriAscii"
 type: docs
-weight: 30
+weight: 230
 url: /ar/net/aspose.gis.formats.esriascii/
 ---
-`Aspose.Gis.Formats.EsriAscii` توفر مساحة الاسم فئات للعمل بتنسيق EsriAscii.
+`Aspose.Gis.Formats.EsriAscii` مساحة الاسم توفر فئات للعمل مع صيغة EsriAscii.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [EsriAsciiDriver](./esriasciidriver/) | برنامج تشغيل لشبكة Esri ASCII . |
-| [EsriAsciiOptions](./esriasciioptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق EsriAscii. |
+| [EsriAsciiDriver](./esriasciidriver/) | محرك لتنسيق Esri ASCII Grid. |
+| [EsriAsciiOptions](./esriasciioptions/) | خيارات خاصة بالمحرك لتنسيق EsriAscii. |
 
 

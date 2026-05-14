@@ -1,24 +1,24 @@
 ---
-title: KmlItemIcon.State
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlItemIcon ملكية. تحديد الحالة الحالية لارتباط الشبكة أو المجلد . القيمة الافتراضية هيNone .
+title: "KmlItemIcon.State"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlItemIcon. تحدد الحالة الحالية لـ NetworkLink أو Folder. القيمة الافتراضية هي None"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmlitemicon/state/
 ---
 ## KmlItemIcon.State property
 
-تحديد الحالة الحالية لارتباط الشبكة أو المجلد . القيمة الافتراضية هيNone .
+تحدد الحالة الحالية لـ NetworkLink أو Folder. القيمة الافتراضية هي None.
 
 ```csharp
 public KmlItemIconStates State { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [KmlItemIconStates](../../kmlitemiconstates/)
 * class [KmlItemIcon](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlitemicon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlitemicon/)
+* assembly [Aspose.GIS](../../../)
 
 

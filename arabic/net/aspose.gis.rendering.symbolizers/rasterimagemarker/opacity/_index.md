@@ -1,14 +1,14 @@
 ---
-title: RasterImageMarker.Opacity
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterImageMarker ملكية. عتامة الطبقة. القيمة الافتراضية هي 1.0.
+title: "RasterImageMarker.Opacity"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterImageMarker. شفافية الطبقة. القيمة الافتراضية هي 1.0"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/opacity/
 ---
 ## RasterImageMarker.Opacity property
 
-عتامة الطبقة. القيمة الافتراضية هي 1.0.
+شفافية الطبقة. القيمة الافتراضية هي 1.0.
 
 ```csharp
 public double Opacity { get; set; }
@@ -16,14 +16,14 @@ public double Opacity { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الوسيطة أقل من 0 أو أكبر من 1. |
+| ArgumentOutOfRangeException | الوسيط أصغر من 0 أو أكبر من 1. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterImageMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

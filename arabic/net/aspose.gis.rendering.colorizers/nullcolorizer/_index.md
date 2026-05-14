@@ -1,14 +1,14 @@
 ---
-title: Class NullColorizer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Colorizers.NullColorizer فصل. ملفNullColorizer لا يرسم شيئًا ويتخطى بشكل فعال عرض الخلية النقطية التي يتم تطبيقها عليها.
+title: "الفئة NullColorizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Colorizers.NullColorizer. يقوم NullColorizer بعدم رسم أي شيء ويتخطى فعليًا عرض خلية الراستر التي يُطبق عليها"
 type: docs
-weight: 1520
+weight: 3970
 url: /ar/net/aspose.gis.rendering.colorizers/nullcolorizer/
 ---
 ## NullColorizer class
 
-ملف`NullColorizer` لا يرسم شيئًا ويتخطى بشكل فعال عرض الخلية النقطية التي يتم تطبيقها عليها.
+يقوم الـ `NullColorizer` بعدم رسم أي شيء ويتخطى فعليًا عرض خلية الراستر التي يُطبق عليها.
 
 ```csharp
 public class NullColorizer : RasterColorizer
@@ -16,14 +16,14 @@ public class NullColorizer : RasterColorizer
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance/) { get; } | يحصل على مثيل`NullColorizer` . |
+| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance/) { get; } | يحصل على نسخة من `NullColorizer`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterColorizer](../rastercolorizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,30 +1,30 @@
 ---
-title: Class PngRenderer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Formats.Png.PngRenderer فصل. أRenderer هذا يجعلMap في ملف PNG.
+title: "الفئة PngRenderer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Formats.Png.PngRenderer. عارض يقوم بتحويل الخريطة إلى ملف PNG"
 type: docs
-weight: 1580
+weight: 4030
 url: /ar/net/aspose.gis.rendering.formats.png/pngrenderer/
 ---
 ## PngRenderer class
 
-أ[`Renderer`](../../aspose.gis.rendering/renderer/) هذا يجعل[`Map`](../../aspose.gis.rendering/map/) في ملف PNG.
+عارض [`Renderer`](../../aspose.gis.rendering/renderer/) الذي يحول [`Map`](../../aspose.gis.rendering/map/) إلى ملف PNG.
 
 ```csharp
 public class PngRenderer : Renderer
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | خريطة Renders . |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | خريطة Renders . |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | يعرض الخريطة. |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | يعرض الخريطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Renderer](../../aspose.gis.rendering/renderer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Formats.Png](../../aspose.gis.rendering.formats.png/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Formats.Png](../../aspose.gis.rendering.formats.png/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,27 +1,27 @@
 ---
-title: Extent.GrowX
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent طريقة. ينمو هذا المدى بطول المحور X بحيث يتضمن القيمة المحددة.
+title: "Extent.GrowX"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Extent. توسّع هذا النطاق على محور X بحيث يشمل القيمة المحددة"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis/extent/growx/
 ---
 ## Extent.GrowX method
 
-ينمو هذا المدى بطول المحور X بحيث يتضمن القيمة المحددة.
+يوسّع هذا النطاق على محور X بحيث يشمل القيمة المحددة.
 
 ```csharp
 public void GrowX(double value)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة المراد تضمينها. |
+| قيمة | Double | القيمة التي يجب تضمينها. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

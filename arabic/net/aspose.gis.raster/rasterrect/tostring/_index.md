@@ -1,14 +1,14 @@
 ---
-title: RasterRect.ToString
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterRect طريقة. إرجاع سلسلة تمثل الكائن الحالي.
+title: "RasterRect.ToString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RasterRect. تُرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.raster/rasterrect/tostring/
 ---
 ## RasterRect.ToString method
 
-إرجاع سلسلة تمثل الكائن الحالي.
+يعيد سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -18,10 +18,10 @@ public override string ToString()
 
 سلسلة تمثل الكائن الحالي.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterRect](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../rasterrect/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterrect/)
+* assembly [Aspose.GIS](../../../)
 
 

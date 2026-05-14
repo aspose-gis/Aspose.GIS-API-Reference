@@ -1,14 +1,14 @@
 ---
-title: CurvePolygon.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon طريقة. استنساخ هذا المثال .
+title: "CurvePolygon.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CurvePolygon. تستنسخ هذا الكائن"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/curvepolygon/clone/
 ---
 ## CurvePolygon.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

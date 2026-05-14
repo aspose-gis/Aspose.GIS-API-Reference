@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.GIS لمرجع .NET API
-description: Metered طريقة. يحصل على ائتمان الاستهلاك
+title: "Metered.GetConsumptionCredit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Metered. تحصل على رصيد الاستهلاك"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-يحصل على ائتمان الاستهلاك
+يحصل على رصيد الاستهلاك
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -18,10 +18,10 @@ public static decimal GetConsumptionCredit()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.Gis](../../metered/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../metered/)
+* assembly [Aspose.GIS](../../../)
 
 

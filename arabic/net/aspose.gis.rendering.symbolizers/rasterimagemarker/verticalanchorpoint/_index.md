@@ -1,24 +1,24 @@
 ---
-title: RasterImageMarker.VerticalAnchorPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterImageMarker ملكية. يحدد أي جانب من شكل العلامة سيتم محاذاته عموديًا مع موقع النقطة.
+title: "RasterImageMarker.VerticalAnchorPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterImageMarker. تحدد أي جانب من شكل العلامة سيتم محاذاته عمودياً مع موقع النقطة"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/verticalanchorpoint/
 ---
 ## RasterImageMarker.VerticalAnchorPoint property
 
-يحدد أي جانب من شكل العلامة سيتم محاذاته عموديًا مع موقع النقطة.
+يحدد أي جانب من شكل العلامة سيتم محاذاته عمودياً مع موقع النقطة.
 
 ```csharp
 public VerticalAnchor VerticalAnchorPoint { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [VerticalAnchor](../../verticalanchor/)
 * class [RasterImageMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

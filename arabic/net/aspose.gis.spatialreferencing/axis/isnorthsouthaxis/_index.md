@@ -1,23 +1,23 @@
 ---
-title: Axis.IsNorthSouthAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: Axis ملكية. يكتشف ما إذا كان اتجاه المحور شمالًا أم جنوبيًا.
+title: "Axis.IsNorthSouthAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Axis. يكتشف ما إذا كان اتجاه المحور شمالًا أو جنوبًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/axis/isnorthsouthaxis/
 ---
 ## Axis.IsNorthSouthAxis property
 
-يكتشف ما إذا كان اتجاه المحور شمالًا أم جنوبيًا.
+يكشف ما إذا كان اتجاه المحور شمالًا أو جنوبًا.
 
 ```csharp
 public bool IsNorthSouthAxis { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../axis/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../axis/)
+* assembly [Aspose.GIS](../../../)
 
 

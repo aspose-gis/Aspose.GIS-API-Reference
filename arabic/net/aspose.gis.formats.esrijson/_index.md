@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.EsriJson
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.EsriJson توفر مساحة الاسم فئات للعمل بتنسيق EsriJson.
+title: "Aspose.Gis.Formats.EsriJson"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.EsriJson توفر فئات للعمل مع تنسيق EsriJson"
 type: docs
-weight: 40
+weight: 240
 url: /ar/net/aspose.gis.formats.esrijson/
 ---
-`Aspose.Gis.Formats.EsriJson` توفر مساحة الاسم فئات للعمل بتنسيق EsriJson.
+`Aspose.Gis.Formats.EsriJson` مساحة الاسم توفر فئات للعمل مع صيغة EsriJson.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [EsriJsonDriver](./esrijsondriver/) | برنامج تشغيل لتنسيق EsriJson . |
-| [EsriJsonOptions](./esrijsonoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق EsriJson . |
+| [EsriJsonDriver](./esrijsondriver/) | برنامج تشغيل لتنسيق EsriJson. |
+| [EsriJsonOptions](./esrijsonoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق EsriJson. |
 
 

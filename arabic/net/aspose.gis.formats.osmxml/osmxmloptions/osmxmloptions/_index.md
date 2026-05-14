@@ -1,23 +1,23 @@
 ---
-title: OsmXmlOptions.OsmXmlOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: OsmXmlOptions البناء. إنشاء مثيل جديد .
+title: "OsmXmlOptions.OsmXmlOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ OsmXmlOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.osmxml/osmxmloptions/osmxmloptions/
 ---
 ## OsmXmlOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public OsmXmlOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [OsmXmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.OsmXml](../../osmxmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.OsmXml](../../osmxmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

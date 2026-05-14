@@ -1,14 +1,14 @@
 ---
-title: IGeometry.AsBinary
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. تترجم هذه الهندسة إلى تمثيلها الثنائي المعروف جيدًا.
+title: "IGeometry.AsBinary"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IGeometry. يترجم هذا الشكل إلى تمثيله الثنائي المعروف (WellKnown Binary)"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geometries/igeometry/asbinary/
 ---
 ## AsBinary() {#asbinary}
 
-تترجم هذه الهندسة إلى تمثيلها الثنائي المعروف جيدًا.
+يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary.
 
 ```csharp
 public byte[] AsBinary()
@@ -16,48 +16,48 @@ public byte[] AsBinary()
 
 ### قيمة الإرجاع
 
-تمثيل ثنائي معروف جيدًا لهذه الهندسة.
+تمثيل Well-Known Binary لهذه الهندسة.
 
-### ملاحظات
+## ملاحظات
 
-ناتج هذه الطريقة فيIso متغير WKB.
+إخراج هذه الطريقة هو في متغيّر Iso WKB.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AsBinary(WkbVariant) {#asbinary_1}
 
-تترجم هذه الهندسة إلى تمثيلها الثنائي المعروف جيدًا.
+يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary.
 
 ```csharp
 public byte[] AsBinary(WkbVariant variant)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| variant | WkbVariant | متغير ثنائي معروف للاستخدام. |
+| متغيّر | WkbVariant | متغيّر Well-Known Binary للاستخدام. |
 
 ### قيمة الإرجاع
 
-تمثيل ثنائي معروف جيدًا لهذه الهندسة.
+تمثيل Well-Known Binary لهذه الهندسة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | لا يمكن تمثيل الهندسة في متغير WKB المطلوب. يحدث هذا حاليًا عندما [`HasCurveGeometry`](../hascurvegeometry/) من الهندسة`true` ومتغير WKB هو SimpleFeatureAccessOutdated . |
-| ArgumentOutOfRangeException | *variant* ليس صحيحا[`WkbVariant`](../../wkbvariant/). |
+| NotSupportedException | لا يمكن تمثيل Geometry في متغيّر WKB المطلوب. يحدث هذا حاليًا عندما يكون [`HasCurveGeometry`](../hascurvegeometry/) الخاص بالهندسة `true` و متغيّر WKB هو SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant* ليس متغيّرًا صالحًا لـ [`WkbVariant`](../../wkbvariant/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [WkbVariant](../../wkbvariant/)
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

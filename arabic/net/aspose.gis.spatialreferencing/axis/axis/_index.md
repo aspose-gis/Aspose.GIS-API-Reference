@@ -1,29 +1,29 @@
 ---
-title: Axis.Axis
-second_title: Aspose.GIS لمرجع .NET API
-description: Axis البناء. إنشاء مثيل جديد .
+title: "Axis.Axis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Axis. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/axis/axis/
 ---
 ## Axis constructor
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public Axis(string name, AxisDirection direction)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم المحور. |
-| direction | AxisDirection | اتجاه المحور. |
+| الاسم | String | اسم المحور. |
+| الاتجاه | AxisDirection | اتجاه المحور. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [AxisDirection](../../axisdirection/)
 * class [Axis](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../axis/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../axis/)
+* assembly [Aspose.GIS](../../../)
 
 

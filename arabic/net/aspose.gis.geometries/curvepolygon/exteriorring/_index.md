@@ -1,34 +1,34 @@
 ---
-title: CurvePolygon.ExteriorRing
-second_title: Aspose.GIS لمرجع .NET API
-description: CurvePolygon ملكية. يحصل على الحلقة الخارجية .
+title: "CurvePolygon.ExteriorRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CurvePolygon. تحصل على الحلقة الخارجية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/curvepolygon/exteriorring/
 ---
 ## CurvePolygon.ExteriorRing property
 
-يحصل على الحلقة الخارجية .
+يحصل على الحلقة الخارجية.
 
 ```csharp
 public ICurve ExteriorRing { get; set; }
 ```
 
-### Property_Value
+### Property Value
 
-الحلقة الخارجية .
+قيمة الحلقة الخارجية.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما لا`null` ولا تساوي بعضها البعض. |
+| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * class [CurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

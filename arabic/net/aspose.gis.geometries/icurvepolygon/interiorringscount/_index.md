@@ -1,27 +1,27 @@
 ---
-title: ICurvePolygon.InteriorRingsCount
-second_title: Aspose.GIS لمرجع .NET API
-description: ICurvePolygon ملكية. يحصل على عدد الحلقات الداخلية .
+title: "ICurvePolygon.InteriorRingsCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ICurvePolygon. تحصل على عدد الحلقات الداخلية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/icurvepolygon/interiorringscount/
 ---
 ## ICurvePolygon.InteriorRingsCount property
 
-يحصل على عدد الحلقات الداخلية .
+يحصل على عدد الحلقات الداخلية.
 
 ```csharp
 public int InteriorRingsCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الحلقات الداخلية .
+عدد الحلقات الداخلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurvePolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../icurvepolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icurvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

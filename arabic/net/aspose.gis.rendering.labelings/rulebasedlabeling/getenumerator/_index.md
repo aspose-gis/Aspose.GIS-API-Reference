@@ -1,14 +1,14 @@
 ---
-title: RuleBasedLabeling.GetEnumerator
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedLabeling طريقة. إرجاع عداد يتكرر خلال القواعد.
+title: "RuleBasedLabeling.GetEnumerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RuleBasedLabeling. تُعيد عدّادًا يتنقل عبر القواعد"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator/
 ---
 ## RuleBasedLabeling.GetEnumerator method
 
-إرجاع عداد يتكرر خلال القواعد.
+يعيد عدّادًا يتنقل عبر القواعد.
 
 ```csharp
 public IEnumerator<LabelingRule> GetEnumerator()
@@ -16,13 +16,13 @@ public IEnumerator<LabelingRule> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يمكن استخدامه للتكرار خلال القواعد.
+عدّاد يمكن استخدامه للتنقل عبر القواعد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelingRule](../../labelingrule/)
 * class [RuleBasedLabeling](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: KmlItemIcon.SubState
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlItemIcon ملكية. تحديد الحالة الإضافية لارتباط الشبكة أو المجلد . القيمة الافتراضية هيNone .
+title: "KmlItemIcon.SubState"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlItemIcon. تحدد الحالة الإضافية لـ NetworkLink أو Folder. القيمة الافتراضية هي None"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.kml.styles/kmlitemicon/substate/
 ---
 ## KmlItemIcon.SubState property
 
-تحديد الحالة الإضافية لارتباط الشبكة أو المجلد . القيمة الافتراضية هيNone .
+تحدد الحالة الإضافية لـ NetworkLink أو Folder. القيمة الافتراضية هي None.
 
 ```csharp
 public KmlItemIconStates SubState { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [KmlItemIconStates](../../kmlitemiconstates/)
 * class [KmlItemIcon](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlitemicon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlitemicon/)
+* assembly [Aspose.GIS](../../../)
 
 

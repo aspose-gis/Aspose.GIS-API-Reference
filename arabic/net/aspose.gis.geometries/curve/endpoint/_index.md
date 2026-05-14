@@ -1,14 +1,14 @@
 ---
-title: Curve.EndPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: Curve ملكية. إرجاع نسخة من نقطة نهاية المنحنى.
+title: "Curve.EndPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Curve. تُرجع نسخة من نقطة النهاية للمنحنى."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/curve/endpoint/
 ---
 ## Curve.EndPoint property
 
-إرجاع نسخة من نقطة نهاية المنحنى.
+يعيد نسخة من نقطة النهاية للمنحنى.
 
 ```csharp
 public abstract IPoint EndPoint { get; }
@@ -16,15 +16,15 @@ public abstract IPoint EndPoint { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الهندسة فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [Curve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../curve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curve/)
+* assembly [Aspose.GIS](../../../)
 
 

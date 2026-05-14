@@ -1,35 +1,35 @@
 ---
-title: Polygon.AddInteriorRing
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon طريقة. يضيف حلقة داخلية .
+title: "Polygon.AddInteriorRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Polygon. تضيف حلقة داخلية"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/polygon/addinteriorring/
 ---
 ## Polygon.AddInteriorRing method
 
-يضيف حلقة داخلية .
+يضيف حلقة داخلية.
 
 ```csharp
 public void AddInteriorRing(ILinearRing ring)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| ring | ILinearRing | الخاتم المراد إضافته. |
+| حلقة | ILinearRing | الحلقة المراد إضافتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما not `null` ولا تساوي بعضها البعض. |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILinearRing](../../ilinearring/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

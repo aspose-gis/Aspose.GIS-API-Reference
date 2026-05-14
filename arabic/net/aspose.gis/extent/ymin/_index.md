@@ -1,23 +1,23 @@
 ---
-title: Extent.YMin
-second_title: Aspose.GIS لمرجع .NET API
-description: Extent ملكية. الحد الأدنى لقيمة الإحداثي ص.
+title: "Extent.YMin"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Extent. القيمة الصغرى لإحداثي Y"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/extent/ymin/
 ---
 ## Extent.YMin property
 
-الحد الأدنى لقيمة الإحداثي ص.
+القيمة الدنيا لإحداثي Y.
 
 ```csharp
 public double YMin { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../)
-* مساحة الاسم [Aspose.Gis](../../extent/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

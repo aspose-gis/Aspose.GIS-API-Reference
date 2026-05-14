@@ -1,14 +1,14 @@
 ---
-title: MultiSurface.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiSurface طريقة. استنساخ هذا المثال .
+title: "MultiSurface.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة MultiSurface. تستنسخ هذه النسخة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/multisurface/clone/
 ---
 ## MultiSurface.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [MultiSurface](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multisurface/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multisurface/)
+* assembly [Aspose.GIS](../../../)
 
 

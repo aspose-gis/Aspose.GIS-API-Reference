@@ -1,49 +1,49 @@
 ---
-title: LineLabelPlacement.LineLabelPlacement
-second_title: Aspose.GIS لمرجع .NET API
-description: LineLabelPlacement البناء. يخلق مثيل جديد.
+title: "LineLabelPlacement.LineLabelPlacement"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ LineLabelPlacement. ينشئ مثيلاً جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/linelabelplacement/linelabelplacement/
 ---
 ## LineLabelPlacement() {#constructor}
 
-يخلق مثيل جديد.
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public LineLabelPlacement()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LineLabelPlacement(LineLabelPlacement) {#constructor_1}
 
-يخلق مثيل جديد.
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public LineLabelPlacement(LineLabelPlacement other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | LineLabelPlacement | الأخرى[`LineLabelPlacement`](../) لنسخ البيانات من. |
+| other | LineLabelPlacement | الآخر [`LineLabelPlacement`](../) لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

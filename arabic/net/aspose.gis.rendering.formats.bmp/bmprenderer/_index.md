@@ -1,30 +1,30 @@
 ---
-title: Class BmpRenderer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Formats.Bmp.BmpRenderer فصل. أRenderer هذا يجعلMap في ملف BMP.
+title: "الفئة BmpRenderer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Formats.Bmp.BmpRenderer. مُعالج يُعيد رسم الخريطة إلى ملف BMP"
 type: docs
-weight: 1560
+weight: 4010
 url: /ar/net/aspose.gis.rendering.formats.bmp/bmprenderer/
 ---
 ## BmpRenderer class
 
-أ[`Renderer`](../../aspose.gis.rendering/renderer/) هذا يجعل[`Map`](../../aspose.gis.rendering/map/) في ملف BMP.
+مُعالج [`Renderer`](../../aspose.gis.rendering/renderer/) يُعيد رسم [`Map`](../../aspose.gis.rendering/map/) إلى ملف BMP.
 
 ```csharp
 public class BmpRenderer : Renderer
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | خريطة Renders . |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | خريطة Renders . |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | يعرض الخريطة. |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | يعرض الخريطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Renderer](../../aspose.gis.rendering/renderer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Formats.Bmp](../../aspose.gis.rendering.formats.bmp/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Formats.Bmp](../../aspose.gis.rendering.formats.bmp/)
+* assembly [Aspose.GIS](../../)
 
 

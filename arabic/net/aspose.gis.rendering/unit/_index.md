@@ -1,33 +1,33 @@
 ---
-title: Enum Unit
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Unit تعداد. وحدة قياس .
+title: "تعداد Unit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.Rendering.Unit enum. وحدة قياس."
 type: docs
-weight: 1990
+weight: 4440
 url: /ar/net/aspose.gis.rendering/unit/
 ---
 ## Unit enumeration
 
-وحدة قياس .
+وحدة قياس.
 
 ```csharp
 public enum Unit
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Pixels | `0` | يحدد البكسل. |
+| Pixels | `0` | يحدد البكسلات. |
 | Points | `1` | يحدد النقاط. هناك 72 نقطة في البوصة. |
-| Millimeters | `2` | يحدد الملليمترات. |
-| Inches | `3` | يحدد البوصة. بوصة واحدة 25.4 ملم. |
+| Millimeters | `2` | يحدد المليمترات. |
+| Inches | `3` | يحدد البوصات. البوصة الواحدة تساوي 25.4 مليمتر. |
 | MapUnits | `4` | يحدد وحدات الخريطة الخاصة بالمرجع المكاني. |
-| MetersOnEarth | `5` | يحدد الطول بالأمتار الفعلية على الأرض بغض النظر عن حجم[`SpatialReferenceSystem`](../map/spatialreferencesystem/) . |
+| MetersOnEarth | `5` | يحدد طولًا بالأمتار الفعلية على الأرض بغض النظر عما هو [`SpatialReferenceSystem`](../map/spatialreferencesystem/). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

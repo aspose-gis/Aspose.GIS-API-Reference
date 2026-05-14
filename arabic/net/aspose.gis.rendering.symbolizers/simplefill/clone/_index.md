@@ -1,14 +1,14 @@
 ---
-title: SimpleFill.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill طريقة. استنساخ هذا المثال .
+title: "SimpleFill.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SimpleFill. تستنسخ هذه النسخة"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/clone/
 ---
 ## SimpleFill.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public SimpleFill Clone()
@@ -16,12 +16,12 @@ public SimpleFill Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

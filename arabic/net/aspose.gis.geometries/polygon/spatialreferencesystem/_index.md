@@ -1,24 +1,24 @@
 ---
-title: Polygon.SpatialReferenceSystem
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon ملكية. يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصيةnull  هل SpatialReferenceSystem غير معروف . لن يؤدي تعيين SpatialReferenceSystem الجديد أي تحويل إحداثي  سيتغير المرجع فقط.
+title: "Polygon.SpatialReferenceSystem"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Polygon. يحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية فارغة إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، سيتغير المرجع فقط."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/polygon/spatialreferencesystem/
 ---
 ## Polygon.SpatialReferenceSystem property
 
-يحصل على نظام SpatialReference لهذا المثيل. يمكن أن تكون هذه الخاصية`null` ، هل SpatialReferenceSystem غير معروف . لن يؤدي تعيين SpatialReferenceSystem الجديد أي تحويل إحداثي ، سيتغير المرجع فقط.
+يحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية `null` إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يؤدي إلى أي تحويل إحداثيات، بل سيتغير المرجع فقط.
 
 ```csharp
 public override SpatialReferenceSystem SpatialReferenceSystem { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

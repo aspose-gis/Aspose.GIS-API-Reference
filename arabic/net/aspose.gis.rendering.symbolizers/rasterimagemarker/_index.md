@@ -1,51 +1,51 @@
 ---
-title: Class RasterImageMarker
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.RasterImageMarker فصل. يعرض هذا الرمز صورة نقطية متوفرة.
+title: "الفئة RasterImageMarker"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.RasterImageMarker. هذا الرمز يرسم صورة نقطية مقدمة."
 type: docs
-weight: 1900
+weight: 4350
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/
 ---
 ## RasterImageMarker class
 
-يعرض هذا الرمز صورة نقطية متوفرة.
+يقوم هذا الرمز بعرض صورة نقطية مقدمة.
 
 ```csharp
 public class RasterImageMarker : VectorSymbolizer
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RasterImageMarker](rasterimagemarker/#constructor)(AbstractPath) | يقوم بتهيئة مثيل جديد لملف`RasterImageMarker` فصل. |
-| [RasterImageMarker](rasterimagemarker/#constructor_1)(RasterImageMarker) | يقوم بتهيئة مثيل جديد لملف`RasterImageMarker` فصل. |
-| [RasterImageMarker](rasterimagemarker/#constructor_2)(string) | يقوم بتهيئة مثيل جديد لملف`RasterImageMarker` فصل. |
+| [RasterImageMarker](rasterimagemarker/#constructor)(AbstractPath) | ينشئ مثيلاً جديداً للفئة `RasterImageMarker`. |
+| [RasterImageMarker](rasterimagemarker/#constructor_1)(RasterImageMarker) | ينشئ مثيلاً جديداً للفئة `RasterImageMarker`. |
+| [RasterImageMarker](rasterimagemarker/#constructor_2)(string) | ينشئ مثيلاً جديداً للفئة `RasterImageMarker`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/rasterimagemarker/featurebasedconfiguration/) { get; set; } | رد اتصال يتم استخدامه لتكوين هذا الرمز قبل عرض ميزة. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/rasterimagemarker/featurebasedconfiguration/) { get; set; } | دالة استدعاء تُستخدم لتكوين هذا symbolizer قبل عرض ميزة. |
 | [Height](../../aspose.gis.rendering.symbolizers/rasterimagemarker/height/) { get; set; } | يحدد ارتفاع العلامة. |
-| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontalanchorpoint/) { get; set; } | يحدد أي جانب من شكل العلامة سيتم محاذاته أفقيًا مع موقع النقطة. |
-| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset/) { get; set; } | يحدد إزاحة أفقية من موقع نقطة إلى نقطة ربط الشكل. |
-| [Opacity](../../aspose.gis.rendering.symbolizers/rasterimagemarker/opacity/) { get; set; } | عتامة الطبقة. القيمة الافتراضية هي 1.0. |
-| [Rotation](../../aspose.gis.rendering.symbolizers/rasterimagemarker/rotation/) { get; set; } | يحدد دوران الرمز حول النقطة المركزية الخاصة به ، بالدرجات العشرية. تشير القيم الموجبة إلى الدوران في اتجاه عقارب الساعة ، بينما تشير القيم السالبة إلى الدوران عكس اتجاه عقارب الساعة. |
-| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticalanchorpoint/) { get; set; } | يحدد أي جانب من شكل العلامة سيتم محاذاته عموديًا مع موقع النقطة. |
-| [VerticalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset/) { get; set; } | يحدد إزاحة رأسية من موقع نقطة إلى نقطة ربط الشكل. |
+| [HorizontalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontalanchorpoint/) { get; set; } | يحدد أي جانب من شكل العلامة سيتم محاذاته أفقياً مع موقع النقطة. |
+| [HorizontalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset/) { get; set; } | يحدد الإزاحة الأفقية من موقع النقطة إلى نقطة ارتكاز الشكل. |
+| [Opacity](../../aspose.gis.rendering.symbolizers/rasterimagemarker/opacity/) { get; set; } | شفافية الطبقة. القيمة الافتراضية هي 1.0. |
+| [Rotation](../../aspose.gis.rendering.symbolizers/rasterimagemarker/rotation/) { get; set; } | يحدد دوران الرمز حول نقطة مركزه، بالدرجات العشرية. القيم الموجبة تشير إلى دوران في الاتجاه الساعي لعقارب الساعة، والقيم السالبة تشير إلى دوران عكس اتجاه عقارب الساعة. |
+| [VerticalAnchorPoint](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticalanchorpoint/) { get; set; } | يحدد أي جانب من شكل العلامة سيتم محاذاته عمودياً مع موقع النقطة. |
+| [VerticalOffset](../../aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset/) { get; set; } | يحدد الإزاحة العمودية من موقع النقطة إلى نقطة ارتكاز الشكل. |
 | [Width](../../aspose.gis.rendering.symbolizers/rasterimagemarker/width/) { get; set; } | يحدد عرض العلامة. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.gis.rendering.symbolizers/rasterimagemarker/clone/)() | استنساخ هذا المثال . |
+| [Clone](../../aspose.gis.rendering.symbolizers/rasterimagemarker/clone/)() | ينسخ هذا الكائن. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

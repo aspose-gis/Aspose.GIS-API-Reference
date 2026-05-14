@@ -1,155 +1,155 @@
 ---
-title: FileDriver.CreateDataset
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver طريقة. لإنشاء مجموعة بيانات .
+title: "FileDriver.CreateDataset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FileDriver. تنشئ مجموعة بيانات"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/filedriver/createdataset/
 ---
 ## CreateDataset(string) {#createdataset_2}
 
-لإنشاء مجموعة بيانات .
+ينشئ مجموعة بيانات.
 
 ```csharp
 public Dataset CreateDataset(string path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار إلى مجموعة البيانات. |
+| المسار | String | المسار إلى مجموعة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في إنشاء مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateDataset(AbstractPath) {#createdataset}
 
-لإنشاء مجموعة بيانات .
+ينشئ مجموعة بيانات.
 
 ```csharp
 public Dataset CreateDataset(AbstractPath path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | المسار إلى مجموعة البيانات. |
+| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في إنشاء مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateDataset(string, DriverOptions) {#createdataset_3}
 
-لإنشاء مجموعة بيانات .
+ينشئ مجموعة بيانات.
 
 ```csharp
 public Dataset CreateDataset(string path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | المسار إلى مجموعة البيانات. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | String | المسار إلى مجموعة البيانات. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في إنشاء مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## CreateDataset(AbstractPath, DriverOptions) {#createdataset_1}
 
-لإنشاء مجموعة بيانات .
+ينشئ مجموعة بيانات.
 
 ```csharp
 public virtual Dataset CreateDataset(AbstractPath path, DriverOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | AbstractPath | المسار إلى مجموعة البيانات. |
-| options | DriverOptions | خيارات خاصة بالسائق. |
+| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
+| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على[`Dataset`](../../dataset/).
+مثال على [`Dataset`](../../dataset/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لبرنامج التشغيل هذا. |
-| ArgumentNullException | الطريق`null`. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
+| ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في إنشاء مجموعة البيانات. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
-| NotSupportedException | لا يمكن للسائق فتح مجموعات البيانات (انظر[`CanOpenDatasets`](../canopendatasets/)). |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
+| NotSupportedException | السائق لا يمكنه فتح مجموعات البيانات (انظر [`CanOpenDatasets`](../canopendatasets/)). |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../../dataset/)
 * class [AbstractPath](../../abstractpath/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,44 +1,44 @@
 ---
-title: LayeredSymbolizer.LayeredSymbolizer
-second_title: Aspose.GIS لمرجع .NET API
-description: LayeredSymbolizer البناء. إنشاء مثيل جديد .
+title: "LayeredSymbolizer.LayeredSymbolizer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ LayeredSymbolizer. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/layeredsymbolizer/
 ---
 ## LayeredSymbolizer() {#constructor}
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public LayeredSymbolizer()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LayeredSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LayeredSymbolizer(RenderingOrder) {#constructor_1}
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public LayeredSymbolizer(RenderingOrder renderingOrder)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| renderingOrder | RenderingOrder | يحدد ترتيب العرض . ByFeatures - تقديم ميزة مع جميع الرموز ، ثم انتقل إلى الميزة التالية.ByLayers - قم بتصيير جميع الميزات باستخدام رمز ، ثم تابع الرسم إلى الرمز التالي. |
+| renderingOrder | RenderingOrder | تحدد ترتيب العرض. ByFeatures - عرض الميزة مع جميع المُرمّزات، ثم الانتقال إلى الميزة التالية. ByLayers - عرض جميع الميزات بمُرمّز واحد، ثم المتابعة برسم الميزات إلى المُرمّز التالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [RenderingOrder](../../renderingorder/)
 * class [LayeredSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

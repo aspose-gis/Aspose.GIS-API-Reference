@@ -1,27 +1,27 @@
 ---
-title: Geometry.CoordinateDimension
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. الحصول على عدد أبعاد الإحداثي لهذاGeometry .
+title: "Geometry.CoordinateDimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على عدد أبعاد الإحداثيات لهذه Geometry"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/geometry/coordinatedimension/
 ---
 ## Geometry.CoordinateDimension property
 
-الحصول على عدد أبعاد الإحداثي لهذا[`Geometry`](../) .
+تحصل على عدد أبعاد الإحداثيات لهذه [`Geometry`](../).
 
 ```csharp
 public int CoordinateDimension { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد أبعاد الإحداثيات .
+عدد أبعاد الإحداثيات.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

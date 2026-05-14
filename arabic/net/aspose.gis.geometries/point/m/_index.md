@@ -1,14 +1,14 @@
 ---
-title: Point.M
-second_title: Aspose.GIS لمرجع .NET API
-description: Point ملكية. الحصول على أو تعيين قيمة للإحداثي m .
+title: "Point.M"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Point. تحصل أو تعيّن قيمة لإحداثي m"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geometries/point/m/
 ---
 ## Point.M property
 
-الحصول على أو تعيين قيمة للإحداثي m .
+يحصل أو يعيّن قيمة لإحداثي m.
 
 ```csharp
 public double M { get; set; }
@@ -16,14 +16,14 @@ public double M { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | لا تحتوي الهندسة على إحداثي M. |
+| InvalidOperationException | الشكل الهندسي لا يحتوي على إحداثي M. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

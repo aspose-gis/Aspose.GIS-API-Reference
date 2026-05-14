@@ -1,30 +1,30 @@
 ---
-title: LocalDatum.LocalDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalDatum البناء. إنشاء مثيل جديد .
+title: "LocalDatum.LocalDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ LocalDatum. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/localdatum/localdatum/
 ---
 ## LocalDatum constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public LocalDatum(string name, int datumType, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم المرجع. |
-| datumType | Int32 | عدد صحيح ، يمثل نوع المسند. |
-| identifier | Identifier | معرّف الإسناد. |
+| الاسم | String | اسم datum. |
+| datumType | Int32 | عدد صحيح، يمثل نوع datum. |
+| معرّف | معرّف | معرف datum. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Identifier](../../identifier/)
 * class [LocalDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localdatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,41 +1,41 @@
 ---
-title: VectorMapLayer.ImportSldFromString
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorMapLayer طريقة. استيراد النمط من سلسلة واصف الطبقة المحددة .
+title: "VectorMapLayer.ImportSldFromString"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorMapLayer. تستورد النمط من سلسلة وصف الطبقة المنسق (Styled Layer Descriptor) المحددة."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering/vectormaplayer/importsldfromstring/
 ---
 ## VectorMapLayer.ImportSldFromString method
 
-استيراد النمط من سلسلة واصف الطبقة المحددة .
+يستورد النمط من سلسلة Styled Layer Descriptor المحددة.
 
 ```csharp
 public void ImportSldFromString(string sld, SldImportOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sld | String | واصف الطبقة الأنماط. |
-| options | SldImportOptions | خيارات الاستيراد. |
+| sld | String | وصف الطبقة المنسق (Styled Layer Descriptor). |
+| الخيارات | SldImportOptions | خيارات الاستيراد. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 | XmlException | حدث خطأ أثناء تحليل XML. |
 | FormatException | لم يتم العثور على نمط SLD في XML. |
 
-### ملاحظات
+## ملاحظات
 
-هذه الطريقة تستبدل قيمة[`Symbolizer`](../symbolizer/) الملكية .
+هذه الطريقة تستبدل قيمة الخاصية [`Symbolizer`](../symbolizer/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SldImportOptions](../../../aspose.gis.rendering.sld/sldimportoptions/)
 * class [VectorMapLayer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../vectormaplayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

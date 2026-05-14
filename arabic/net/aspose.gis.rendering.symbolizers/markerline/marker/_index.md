@@ -1,24 +1,24 @@
 ---
-title: MarkerLine.Marker
-second_title: Aspose.GIS لمرجع .NET API
-description: MarkerLine ملكية. يحدد رمز العلامة على طول الخط.
+title: "MarkerLine.Marker"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MarkerLine. تحدد مُرمّز العلامة على طول الخط"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/markerline/marker/
 ---
 ## MarkerLine.Marker property
 
-يحدد رمز العلامة على طول الخط.
+يحدد مُرمّز العلامة على طول الخط.
 
 ```csharp
 public VectorSymbolizer Marker { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [MarkerLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
+* assembly [Aspose.GIS](../../../)
 
 

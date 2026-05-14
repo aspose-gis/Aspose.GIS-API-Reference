@@ -1,14 +1,14 @@
 ---
-title: LineString.GetEnumerator
-second_title: Aspose.GIS لمرجع .NET API
-description: LineString طريقة. إرجاع عداد يتكرر خلال المجموعة.
+title: "LineString.GetEnumerator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة LineString. تُرجع عدّادًا يتنقل عبر المجموعة"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/linestring/getenumerator/
 ---
 ## LineString.GetEnumerator method
 
-إرجاع عداد يتكرر خلال المجموعة.
+يعيد عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<IPoint> GetEnumerator()
@@ -16,13 +16,13 @@ public IEnumerator<IPoint> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يمكن استخدامه للتكرار خلال المجموعة.
+عداد يمكن استخدامه للتنقل عبر المجموعة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,36 +1,36 @@
 ---
-title: SpatialReferenceSystem.CreateGeographic
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. إنشاء SRS الجغرافي من المعلمات المخصصة .
+title: "SpatialReferenceSystem.CreateGeographic"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. إنشاء SRS جغرافي من معلمات مخصصة"
 type: docs
 weight: 360
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/creategeographic/
 ---
 ## SpatialReferenceSystem.CreateGeographic method
 
-إنشاء SRS الجغرافي من المعلمات المخصصة .
+إنشاء نظام إسناد جغرافي من معلمات مخصصة.
 
 ```csharp
 public static GeographicSpatialReferenceSystem CreateGeographic(
     GeographicSpatialReferenceSystemParameters parameters, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| parameters | GeographicSpatialReferenceSystemParameters | معلمات للإنشاء منها. |
-| identifier | Identifier | المعرف الذي سيتم إرفاقه بـ SRS. لن يؤدي إرفاق معرّف إلى تعديل معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
+| المعلمات | GeographicSpatialReferenceSystemParameters | المعلمات لإنشاء منها. |
+| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
 
 ### قيمة الإرجاع
 
-جديد جيوغرافيك SRS.
+SRS جغرافي جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicSpatialReferenceSystem](../../geographicspatialreferencesystem/)
 * class [GeographicSpatialReferenceSystemParameters](../../geographicspatialreferencesystemparameters/)
 * class [Identifier](../../identifier/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

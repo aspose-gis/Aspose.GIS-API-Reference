@@ -1,40 +1,40 @@
 ---
-title: Class KmlIconStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml.Styles.KmlIconStyle فصل. يحدد كيفية رموز kml العلامات الموضعية و kml PhotoOverlay مع kml هندسة النقاط يتم رسمها في قائمة مستعرض Earth وطرق العرض الجغرافية .
+title: "الفئة KmlIconStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlIconStyle. تحدد كيفية رسم الأيقونات لـ kmlPlacemarks و kmlPhotoOverlay مع هندسة kmlPoint في قائمة متصفحات الأرض والعروض الجغرافية"
 type: docs
-weight: 490
+weight: 2130
 url: /ar/net/aspose.gis.formats.kml.styles/kmliconstyle/
 ---
 ## KmlIconStyle class
 
-يحدد كيفية رموز kml: العلامات الموضعية و kml: PhotoOverlay مع kml: هندسة النقاط يتم رسمها في قائمة مستعرض Earth وطرق العرض الجغرافية .
+يحدد كيفية رسم الأيقونات لـ kml:Placemarks و kml:PhotoOverlay مع هندسة kml:Point في قائمة وعروض المتصفح الأرضية.
 
 ```csharp
 public class KmlIconStyle : KmlAbstractColorStyle
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [KmlIconStyle](kmliconstyle/)() | Default_Constructor |
+| [KmlIconStyle](kmliconstyle/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون عنصر الرسم. القيمة الافتراضيةWhite . |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد صيغة اللون لعنصر الرسوم. القيمة الافتراضية: عادي. |
-| [Heading](../../aspose.gis.formats.kml.styles/kmliconstyle/heading/) { get; set; } | الاتجاه (شمال ، جنوب ، شرق ، غرب) بالدرجات العشرية. تتراوح القيم من 0 (شمال) إلى 360 درجة. القيمة الافتراضية هي "0". |
-| [HotSpot](../../aspose.gis.formats.kml.styles/kmliconstyle/hotspot/) { get; set; } | يحدد موضع النقطة المرجعية على الرمز المرتبط بالنقطة المحددة في العلامة الموضعية . القيمة الافتراضية هي`null` يعني ضياع HotSpot . |
-| [Resource](../../aspose.gis.formats.kml.styles/kmliconstyle/resource/) { get; set; } | يحدد موقع المورد. القيمة الافتراضية هي`null` يعني ضياع الأيقونة. |
-| [Scale](../../aspose.gis.formats.kml.styles/kmliconstyle/scale/) { get; set; } | يحدد عامل مقياس يجب تطبيقه على عنصر الرسم. القيمة الافتراضية هي "1". |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| [Heading](../../aspose.gis.formats.kml.styles/kmliconstyle/heading/) { get; set; } | الاتجاه (شمال، جنوب، شرق، غرب) بالدرجات العشرية. القيم تتراوح من 0 (شمال) إلى 360 درجة. القيمة الافتراضية هي '0'. |
+| [HotSpot](../../aspose.gis.formats.kml.styles/kmliconstyle/hotspot/) { get; set; } | تحدد موضع نقطة المرجع على الأيقونة المثبتة على النقطة المحددة في Placemark. القيمة الافتراضية هي `null` تعني أن HotSpot مفقود. |
+| [Resource](../../aspose.gis.formats.kml.styles/kmliconstyle/resource/) { get; set; } | تحدد موقع المورد. القيمة الافتراضية هي `null` تعني أن الأيقونة مفقودة. |
+| [Scale](../../aspose.gis.formats.kml.styles/kmliconstyle/scale/) { get; set; } | تحدد عامل المقياس الذي سيُطبق على العنصر الرسومي. القيمة الافتراضية هي '1'. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlAbstractColorStyle](../kmlabstractcolorstyle/)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

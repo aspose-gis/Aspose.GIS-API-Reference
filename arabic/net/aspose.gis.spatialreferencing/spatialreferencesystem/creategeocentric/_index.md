@@ -1,36 +1,36 @@
 ---
-title: SpatialReferenceSystem.CreateGeocentric
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. إنشاء SRS مركزية الأرض من المعلمات المخصصة.
+title: "SpatialReferenceSystem.CreateGeocentric"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. إنشاء SRS مركزي من معلمات مخصصة."
 type: docs
 weight: 350
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/creategeocentric/
 ---
 ## SpatialReferenceSystem.CreateGeocentric method
 
-إنشاء SRS مركزية الأرض من المعلمات المخصصة.
+إنشاء نظام إسناد جغرافي مركزي من معلمات مخصصة.
 
 ```csharp
 public static GeocentricSpatialReferenceSystem CreateGeocentric(
     GeocentricSpatialReferenceSystemParameters parameters, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| parameters | GeocentricSpatialReferenceSystemParameters | معلمات للإنشاء منها. |
-| identifier | Identifier | المعرف الذي سيتم إرفاقه بـ SRS. لن يؤدي إرفاق معرّف إلى تعديل معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
+| المعلمات | GeocentricSpatialReferenceSystemParameters | المعلمات لإنشاء منها. |
+| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
 
 ### قيمة الإرجاع
 
-مركزية الأرض الجديدة SRS.
+SRS مركزي جديد.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeocentricSpatialReferenceSystem](../../geocentricspatialreferencesystem/)
 * class [GeocentricSpatialReferenceSystemParameters](../../geocentricspatialreferencesystemparameters/)
 * class [Identifier](../../identifier/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

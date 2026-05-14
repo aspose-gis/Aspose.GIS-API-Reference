@@ -1,23 +1,23 @@
 ---
-title: LocalSpatialReferenceSystem.HasGeographicDatum
-second_title: Aspose.GIS لمرجع .NET API
-description: LocalSpatialReferenceSystem ملكية. عوائدfalse نظرًا لأن خدمة SRS المحلية لا تحتوي على بيانات جغرافية.
+title: "LocalSpatialReferenceSystem.HasGeographicDatum"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LocalSpatialReferenceSystem. تُعيد false لأن الـ Local SRS لا يحتوي على نظام مرجعي جغرافي."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/hasgeographicdatum/
 ---
 ## LocalSpatialReferenceSystem.HasGeographicDatum property
 
-عوائد`false`، نظرًا لأن خدمة SRS المحلية لا تحتوي على بيانات جغرافية.
+يعيد `false`، لأن Local SRS لا يحتوي على مرجع جغرافي.
 
 ```csharp
 public override bool HasGeographicDatum { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LocalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

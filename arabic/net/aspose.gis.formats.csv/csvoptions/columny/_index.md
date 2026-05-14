@@ -1,27 +1,27 @@
 ---
-title: CsvOptions.ColumnY
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvOptions ملكية. الحصول على أو تحديد اسم العمود الذي يحتوي على قيمة الإحداثي Y الافتراضي هوnull .
+title: "CsvOptions.ColumnY"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CsvOptions. تحصل أو تعيين اسم العمود الذي يحتوي على قيمة إحداثي Y. القيمة الافتراضية هي null"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.csv/csvoptions/columny/
 ---
 ## CsvOptions.ColumnY property
 
-الحصول على أو تحديد اسم العمود الذي يحتوي على قيمة الإحداثي Y الافتراضي هو`null` .
+يحصل أو يعيّن اسم العمود الذي يحتوي على قيمة إحداثي Y. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string ColumnY { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-إذا كانت قيمة العمود`null` أو`empty string` لن يتم إنشاء هندسة النقطة.
+إذا كانت قيمة العمود `null` أو `empty string` لن يتم إنشاء هندسة نقطة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

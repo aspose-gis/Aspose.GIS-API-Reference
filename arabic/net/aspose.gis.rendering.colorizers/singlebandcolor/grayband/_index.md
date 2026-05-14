@@ -1,24 +1,24 @@
 ---
-title: SingleBandColor.GrayBand
-second_title: Aspose.GIS لمرجع .NET API
-description: SingleBandColor ملكية. يحدد المكون الرمادي لخطوط المسح لدينا.
+title: "SingleBandColor.GrayBand"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SingleBandColor. تحدد المكوّن الرمادي للراستر الخاص بنا"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.colorizers/singlebandcolor/grayband/
 ---
 ## SingleBandColor.GrayBand property
 
-يحدد المكون الرمادي لخطوط المسح لدينا.
+يحدد المكوّن الرمادي للراستر الخاص بنا.
 
 ```csharp
 public BandColor GrayBand { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../../bandcolor/)
 * class [SingleBandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../singlebandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../singlebandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: Geometry.IsValid
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry ملكية. يحصل على قيمة تشير إلى ما إذا كان هذا المثيل صالحًا.
+title: "Geometry.IsValid"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كانت هذه الحالة صالحة"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/geometry/isvalid/
 ---
 ## Geometry.IsValid property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل صالحًا.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن صالحًا.
 
 ```csharp
 public bool IsValid { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

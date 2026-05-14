@@ -1,23 +1,23 @@
 ---
-title: BandColor.Min
-second_title: Aspose.GIS لمرجع .NET API
-description: BandColor ملكية. يحدد الحد الأدنى للقيمة.
+title: "BandColor.Min"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية BandColor. تحدد القيمة الدنيا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/min/
 ---
 ## BandColor.Min property
 
-يحدد الحد الأدنى للقيمة.
+يحدد القيمة الدنيا.
 
 ```csharp
 public double Min { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

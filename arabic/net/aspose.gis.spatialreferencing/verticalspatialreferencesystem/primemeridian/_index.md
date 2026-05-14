@@ -1,24 +1,24 @@
 ---
-title: VerticalSpatialReferenceSystem.PrimeMeridian
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem ملكية. رمياتInvalidOperationException  نظرًا لأن Vertical SRS لا يحتوي على خط الزوال الأولي.
+title: "VerticalSpatialReferenceSystem.PrimeMeridian"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية VerticalSpatialReferenceSystem. تُطلق InvalidOperationException لأن الـ Vertical SRS لا يحتوي على خط الطول الرئيسي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/primemeridian/
 ---
 ## VerticalSpatialReferenceSystem.PrimeMeridian property
 
-رمياتInvalidOperationException ، نظرًا لأن Vertical SRS لا يحتوي على خط الزوال الأولي.
+يرمي InvalidOperationException، لأن Vertical SRS لا يحتوي على خط الزوال الأساسي.
 
 ```csharp
 public override PrimeMeridian PrimeMeridian { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrimeMeridian](../../primemeridian/)
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

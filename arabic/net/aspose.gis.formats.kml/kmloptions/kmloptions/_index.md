@@ -1,23 +1,23 @@
 ---
-title: KmlOptions.KmlOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlOptions البناء. إنشاء مثيل جديد .
+title: "KmlOptions.KmlOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml/kmloptions/kmloptions/
 ---
 ## KmlOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public KmlOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml](../../kmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

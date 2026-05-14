@@ -1,23 +1,23 @@
 ---
-title: StarGeneratorOptions.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions ملكية. عدد المضلعات المراد إنشاؤها .
+title: "StarGeneratorOptions.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية StarGeneratorOptions. عدد المضلعات التي سيتم إنشاؤها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/count/
 ---
 ## StarGeneratorOptions.Count property
 
-عدد المضلعات المراد إنشاؤها .
+عدد المضلعات التي سيتم إنشاؤها.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

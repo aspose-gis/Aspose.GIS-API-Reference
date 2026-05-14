@@ -1,24 +1,24 @@
 ---
-title: GeographicDatum.ToWgs84Parameters
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicDatum ملكية. BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في WGS84 datum.
+title: "GeographicDatum.ToWgs84Parameters"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicDatum. معلمات BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في مرجع WGS84"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/towgs84parameters/
 ---
 ## GeographicDatum.ToWgs84Parameters property
 
-BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في WGS84 datum.
+معلمات BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في المرجع WGS84.
 
 ```csharp
 public BursaWolfParameters ToWgs84Parameters { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../../bursawolfparameters/)
 * class [GeographicDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

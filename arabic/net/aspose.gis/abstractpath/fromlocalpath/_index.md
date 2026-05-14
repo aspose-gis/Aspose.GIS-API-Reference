@@ -1,37 +1,37 @@
 ---
-title: AbstractPath.FromLocalPath
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath طريقة. ينشئ ملفAbstractPath يمثل موقعًا على نظام الملفات المحلي.
+title: "AbstractPath.FromLocalPath"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة AbstractPath. تُنشئ AbstractPath تمثّل موقعًا على نظام الملفات المحلي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/abstractpath/fromlocalpath/
 ---
 ## AbstractPath.FromLocalPath method
 
-ينشئ ملف[`AbstractPath`](../) يمثل موقعًا على نظام الملفات المحلي.
+تنشئ [`AbstractPath`](../) تمثّل موقعًا على نظام الملفات المحلي.
 
 ```csharp
 public static AbstractPath FromLocalPath(string path)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| path | String | مسار في نظام الملفات المحلي ، مثل`"C: \\ file.shp"` أو`"D: \\ الدليل \\"`. |
+| المسار | String | مسار على نظام الملفات المحلي، مثل `"C:\\file.shp"` أو `"D:\\directory\\"`. |
 
 ### قيمة الإرجاع
 
-أن[`AbstractPath`](../) الذي يمثل الموقع المحدد بواسطة*path* .
+[`AbstractPath`](../) يَـمثّل الموقع المحدد بواسطة *المسار*.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

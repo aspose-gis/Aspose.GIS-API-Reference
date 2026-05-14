@@ -1,14 +1,14 @@
 ---
-title: Class Renderers
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Renderers فصل. عارضين لجميع التنسيقات المدعومة.
+title: "الفئة Renderers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Renderers. عارضات لجميع الصيغ المدعومة"
 type: docs
-weight: 1780
+weight: 4230
 url: /ar/net/aspose.gis.rendering/renderers/
 ---
 ## Renderers class
 
-عارضين لجميع التنسيقات المدعومة.
+المُصَيِّرين لجميع الصيغ المدعومة.
 
 ```csharp
 public static class Renderers
@@ -16,16 +16,16 @@ public static class Renderers
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| static [Bmp](../../aspose.gis.rendering/renderers/bmp/) { get; } | جهاز عرض يتم عرضه بتنسيق BMP . |
-| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg/) { get; } | جهاز عرض يتم عرضه بتنسيق JPEG . |
-| static [Png](../../aspose.gis.rendering/renderers/png/) { get; } | جهاز عرض يتم عرضه بتنسيق PNG . |
-| static [Svg](../../aspose.gis.rendering/renderers/svg/) { get; } | جهاز عرض يتم عرضه بتنسيق SVG. |
+| static [Bmp](../../aspose.gis.rendering/renderers/bmp/) { get; } | عارض يقوم بالتحويل إلى صيغة BMP. |
+| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg/) { get; } | عارض يقوم بالتحويل إلى صيغة JPEG. |
+| static [Png](../../aspose.gis.rendering/renderers/png/) { get; } | عارض يقوم بالتحويل إلى صيغة PNG. |
+| static [Svg](../../aspose.gis.rendering/renderers/svg/) { get; } | عارض يقوم بالتحويل إلى صيغة SVG. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

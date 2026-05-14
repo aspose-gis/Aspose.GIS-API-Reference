@@ -1,14 +1,14 @@
 ---
-title: Geometry.GetLength
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. حساب طول هذه الهندسة .
+title: "Geometry.GetLength"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحسب طول هذه الهندسة"
 type: docs
 weight: 260
 url: /ar/net/aspose.gis.geometries/geometry/getlength/
 ---
 ## Geometry.GetLength method
 
-حساب طول هذه الهندسة .
+يحسب طول هذه الهندسة.
 
 ```csharp
 public double GetLength()
@@ -16,12 +16,12 @@ public double GetLength()
 
 ### قيمة الإرجاع
 
-طول هذه الهندسة . المحيط إذا كان هذا[`Polygon`](../../polygon/) . مجموع أطوال عناصر هذه الهندسة إذا كانت هذه الهندسة[`GeometryCollection`](../../geometrycollection/) .
+طول هذه الهندسة. المحيط إذا كانت هذه [`Polygon`](../../polygon/). مجموع أطوال عناصر هذه الهندسة إذا كانت هذه الهندسة عبارة عن [`GeometryCollection`](../../geometrycollection/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

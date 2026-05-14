@@ -1,23 +1,23 @@
 ---
-title: Map.Dispose
-second_title: Aspose.GIS لمرجع .NET API
-description: Map طريقة. التخلص من الموارد.
+title: "Map.Dispose"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Map. تُحرّر الموارد."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.rendering/map/dispose/
 ---
 ## Map.Dispose method
 
-التخلص من الموارد.
+يحرّر الموارد.
 
 ```csharp
 public void Dispose()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

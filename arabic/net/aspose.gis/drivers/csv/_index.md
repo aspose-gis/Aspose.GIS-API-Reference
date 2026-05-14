@@ -1,24 +1,24 @@
 ---
-title: Drivers.Csv
-second_title: Aspose.GIS لمرجع .NET API
-description: Drivers ملكية. برنامج تشغيل لتنسيق CSV .
+title: "Drivers.Csv"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Drivers. برنامج تشغيل لتنسيق CSV"
 type: docs
-weight: 10
+weight: 20
 url: /ar/net/aspose.gis/drivers/csv/
 ---
 ## Drivers.Csv property
 
-برنامج تشغيل لتنسيق CSV .
+محرك لتنسيق CSV.
 
 ```csharp
 public static CsvDriver Csv { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvDriver](../../../aspose.gis.formats.csv/csvdriver/)
 * class [Drivers](../)
-* مساحة الاسم [Aspose.Gis](../../drivers/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../drivers/)
+* assembly [Aspose.GIS](../../../)
 
 

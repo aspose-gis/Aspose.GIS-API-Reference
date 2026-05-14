@@ -1,27 +1,27 @@
 ---
-title: CsvOptions.HasAttributeNames
-second_title: Aspose.GIS لمرجع .NET API
-description: CsvOptions ملكية. تحديد ما إذا كان صف الرأس بأسماء السمات موجودًا. الافتراضي هوtrue .
+title: "CsvOptions.HasAttributeNames"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CsvOptions. تحدد ما إذا كان هناك صف رأس يحتوي على أسماء السمات. القيمة الافتراضية هي true"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.formats.csv/csvoptions/hasattributenames/
 ---
 ## CsvOptions.HasAttributeNames property
 
-تحديد ما إذا كان صف الرأس بأسماء السمات موجودًا. الافتراضي هو`true` .
+يحدد ما إذا كان هناك صف رأس يحتوي على أسماء السمات. القيمة الافتراضية هي `true`.
 
 ```csharp
 public bool HasAttributeNames { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-في حالة`true` أ[`Attributes`](../../../aspose.gis/vectorlayer/attributes/) سيتم تسميته وفقًا لصف الرأس. وإلا فسيتم تسميته على النحو التالي:`field_1 ، field_2 ، إلخ.`
+في حالة `true` سيُسمى [`Attributes`](../../../aspose.gis/vectorlayer/attributes/) وفقًا لصف الرأس. وإلا سيُسمى كالتالي: `field_1, field_2, etc.`
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [CsvOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

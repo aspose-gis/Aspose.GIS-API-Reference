@@ -1,14 +1,14 @@
 ---
-title: WebTile.GetExtent
-second_title: Aspose.GIS لمرجع .NET API
-description: WebTile طريقة. يقدم المدى المكاني لهذه الطبقة.
+title: "WebTile.GetExtent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة WebTile. تعرض امتدادًا مكانيًا لهذه الطبقة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.raster.web/webtile/getextent/
 ---
 ## WebTile.GetExtent method
 
-يقدم المدى المكاني لهذه الطبقة.
+يعرض الامتداد المكاني لهذه الطبقة.
 
 ```csharp
 public abstract Extent GetExtent()
@@ -16,13 +16,13 @@ public abstract Extent GetExtent()
 
 ### قيمة الإرجاع
 
-المدى المكاني لهذه الطبقة.
+امتداد مكاني لهذه الطبقة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Extent](../../../aspose.gis/extent/)
 * class [WebTile](../)
-* مساحة الاسم [Aspose.Gis.Raster.Web](../../webtile/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster.Web](../../webtile/)
+* assembly [Aspose.GIS](../../../)
 
 

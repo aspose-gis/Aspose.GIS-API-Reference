@@ -1,23 +1,23 @@
 ---
-title: MultiPoint.MultiPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiPoint البناء. يقوم بتهيئة مثيل جديد لملفMultiPoint فئة .
+title: "MultiPoint.MultiPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MultiPoint. يهيئ نسخة جديدة من فئة MultiPoint"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/multipoint/multipoint/
 ---
 ## MultiPoint constructor
 
-يقوم بتهيئة مثيل جديد لملف[`MultiPoint`](../) فئة .
+يهيئ نسخة جديدة من فئة [`MultiPoint`](../).
 
 ```csharp
 public MultiPoint()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiPoint](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multipoint/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

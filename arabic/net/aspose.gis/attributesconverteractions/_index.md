@@ -1,34 +1,34 @@
 ---
-title: Class AttributesConverterActions
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.AttributesConverterActions فصل. إجراءات اختيارية بسمات الطبقة الوجهة .
+title: "الفئة AttributesConverterActions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "Aspose.Gis.AttributesConverterActions الفئة. إجراءات اختيارية مع سمات الطبقة الوجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/attributesconverteractions/
 ---
 ## AttributesConverterActions class
 
-إجراءات اختيارية بسمات الطبقة الوجهة .
+إجراءات اختيارية مع سمات طبقة الوجهة.
 
 ```csharp
 public class AttributesConverterActions
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [AttributesConverterActions](attributesconverteractions/)() | Default_Constructor |
+| [AttributesConverterActions](attributesconverteractions/)() | المُنشئ الافتراضي. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Exclude](../../aspose.gis/attributesconverteractions/exclude/) { get; set; } | مجموعات `true` لاستبعاد السمة من الطبقة الوجهة. القيمة الأولية هي`false` . |
+| [Exclude](../../aspose.gis/attributesconverteractions/exclude/) { get; set; } | يضبط `true` لاستبعاد السمة من الطبقة الوجهة. القيمة الأولية هي `false`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis](../../aspose.gis/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

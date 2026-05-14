@@ -1,24 +1,24 @@
 ---
-title: FeatureStyle.Null
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureStyle ملكية. يحصل على مثيل للنمط الفارغ.
+title: "FeatureStyle.Null"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureStyle. يحصل على مثيل لنمط null"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/featurestyle/null/
 ---
 ## FeatureStyle.Null property
 
-يحصل على مثيل للنمط الفارغ.
+يحصل على مثيل لنمط null.
 
 ```csharp
 public static IFeatureStyle Null { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IFeatureStyle](../../ifeaturestyle/)
 * class [FeatureStyle](../)
-* مساحة الاسم [Aspose.Gis](../../featurestyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featurestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

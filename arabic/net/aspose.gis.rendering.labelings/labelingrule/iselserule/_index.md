@@ -1,27 +1,27 @@
 ---
-title: LabelingRule.IsElseRule
-second_title: Aspose.GIS لمرجع .NET API
-description: LabelingRule ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة قاعدة أخرى .
+title: "LabelingRule.IsElseRule"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LabelingRule. يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي elserule"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/iselserule/
 ---
 ## LabelingRule.IsElseRule property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه القاعدة "قاعدة أخرى" .
+يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "else-rule".
 
 ```csharp
 public bool IsElseRule { get; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-تطبق "القاعدة الأخرى" التصنيف على الميزة إذا كانت الميزة لا تتطابق مع أي قاعدة تصفية .
+\"Else-rule\" يطبق التسمية على معلم إذا لم يتطابق المعلم مع أي قاعدة تصفية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LabelingRule](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

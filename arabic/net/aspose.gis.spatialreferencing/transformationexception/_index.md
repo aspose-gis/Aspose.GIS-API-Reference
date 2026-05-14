@@ -1,30 +1,30 @@
 ---
-title: Class TransformationException
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.TransformationException فصل. تم طرح استثناء التحويل عند حدوث خطأ أثناء تحويل الإحداثي أو أثناء إنشاء التحويل.
+title: "الفئة TransformationException"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.TransformationException. يتم إلقاء استثناء التحويل عندما يحدث خطأ أثناء تحويل الإحداثيات أو أثناء إنشاء التحويل."
 type: docs
-weight: 2280
+weight: 4730
 url: /ar/net/aspose.gis.spatialreferencing/transformationexception/
 ---
 ## TransformationException class
 
-تم طرح استثناء التحويل عند حدوث خطأ أثناء تحويل الإحداثي أو أثناء إنشاء التحويل.
+يتم إلقاء استثناء التحويل عندما يحدث خطأ أثناء تحويل الإحداثيات أو أثناء إنشاء التحويل.
 
 ```csharp
 public class TransformationException : Exception
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [TransformationException](transformationexception/#constructor)() | إنشاء مثيل جديد . |
-| [TransformationException](transformationexception/#constructor_1)(string) | إنشاء مثيل جديد . |
-| [TransformationException](transformationexception/#constructor_2)(string, Exception) | إنشاء مثيل جديد . |
+| [TransformationException](transformationexception/#constructor)() | إنشاء نسخة جديدة. |
+| [TransformationException](transformationexception/#constructor_1)(string) | إنشاء نسخة جديدة. |
+| [TransformationException](transformationexception/#constructor_2)(string, Exception) | إنشاء نسخة جديدة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

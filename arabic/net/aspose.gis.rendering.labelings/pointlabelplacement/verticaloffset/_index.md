@@ -1,24 +1,24 @@
 ---
-title: PointLabelPlacement.VerticalOffset
-second_title: Aspose.GIS لمرجع .NET API
-description: PointLabelPlacement ملكية. يحدد إزاحة رأسية من موقع نقطة إلى نقطة ربط التسميات.
+title: "PointLabelPlacement.VerticalOffset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية PointLabelPlacement. تحدد الإزاحة العمودية من موقع النقطة إلى نقطة ارتكاز الملصقات"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset/
 ---
 ## PointLabelPlacement.VerticalOffset property
 
-يحدد إزاحة رأسية من موقع نقطة إلى نقطة ربط التسميات.
+يحدد الإزاحة العمودية من موقع النقطة إلى نقطة ارتكاز التسمية.
 
 ```csharp
 public Measurement VerticalOffset { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [PointLabelPlacement](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

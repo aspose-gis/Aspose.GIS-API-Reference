@@ -1,23 +1,23 @@
 ---
-title: MultiPolygon.MultiPolygon
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiPolygon البناء. يقوم بتهيئة مثيل جديد لملفMultiPolygon فئة .
+title: "MultiPolygon.MultiPolygon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ MultiPolygon. يهيئ مثيلة جديدة من فئة MultiPolygon"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/multipolygon/multipolygon/
 ---
 ## MultiPolygon constructor
 
-يقوم بتهيئة مثيل جديد لملف[`MultiPolygon`](../) فئة .
+يهيئ مثيلة جديدة من الفئة [`MultiPolygon`](../).
 
 ```csharp
 public MultiPolygon()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MultiPolygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multipolygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

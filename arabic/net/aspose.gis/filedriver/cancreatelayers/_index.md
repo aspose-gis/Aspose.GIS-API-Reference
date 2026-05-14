@@ -1,7 +1,7 @@
 ---
-title: FileDriver.CanCreateLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: FileDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة.
+title: "FileDriver.CanCreateLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileDriver. تحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه إنشاء طبقات متجهة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/filedriver/cancreatelayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis/filedriver/cancreatelayers/
 public abstract bool CanCreateLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان هذا المحرك يمكنه إنشاء طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه إنشاء طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileDriver](../)
-* مساحة الاسم [Aspose.Gis](../../filedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

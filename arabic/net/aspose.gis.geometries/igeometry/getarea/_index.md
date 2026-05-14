@@ -1,14 +1,14 @@
 ---
-title: IGeometry.GetArea
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry طريقة. حساب مساحة هذه الهندسة .
+title: "IGeometry.GetArea"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "IGeometry طريقة. يحسب مساحة هذه الهندسة"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/igeometry/getarea/
 ---
 ## IGeometry.GetArea method
 
-حساب مساحة هذه الهندسة .
+يحسب مساحة هذه الهندسة.
 
 ```csharp
 public double GetArea()
@@ -16,12 +16,12 @@ public double GetArea()
 
 ### قيمة الإرجاع
 
-مساحة هذه الهندسة . مجموع مناطق عناصر هذه الهندسة إذا كانت هذه الهندسة[`GeometryCollection`](../../geometrycollection/) .
+مساحة هذه الهندسة. مجموع مساحات عناصر هذه الهندسة إذا كانت هذه الهندسة عبارة عن [`GeometryCollection`](../../geometrycollection/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

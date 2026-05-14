@@ -1,7 +1,7 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.GIS لمرجع .NET API
-description: Metered طريقة. يحصل على حجم ملف الاستهلاك
+title: "Metered.GetConsumptionQuantity"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Metered. تحصل على حجم ملف الاستهلاك"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/metered/getconsumptionquantity/
@@ -18,10 +18,10 @@ public static decimal GetConsumptionQuantity()
 
 كمية الاستهلاك
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Metered](../)
-* مساحة الاسم [Aspose.Gis](../../metered/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../metered/)
+* assembly [Aspose.GIS](../../../)
 
 

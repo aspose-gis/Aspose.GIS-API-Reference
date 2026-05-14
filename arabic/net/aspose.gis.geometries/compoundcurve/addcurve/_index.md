@@ -1,35 +1,35 @@
 ---
-title: CompoundCurve.AddCurve
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve طريقة. يضيف منحنى إلى نهاية هذاCompoundCurve .
+title: "CompoundCurve.AddCurve"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة CompoundCurve. تُضيف منحنى إلى نهاية هذا CompoundCurve"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/compoundcurve/addcurve/
 ---
 ## CompoundCurve.AddCurve method
 
-يضيف منحنى إلى نهاية هذا[`CompoundCurve`](../) .
+يضيف منحنى إلى نهاية هذا [`CompoundCurve`](../).
 
 ```csharp
 public void AddCurve(ICurve curve)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| curve | ICurve | منحنى للإضافة. |
+| منحنى | ICurve | المنحنى المراد إضافته. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
-| ArgumentException | نوع الوسيطات هو[`CompoundCurve`](../) الوسيطة فارغة[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) من هذه الهندسة و [`SpatialReferenceSystem`](../spatialreferencesystem/) من الحجة كلاهما لا`null` ولا تساوي بعضها البعض |
+| ArgumentNullException | الوسيط هو `null`. |
+| ArgumentException | نوع الوسائط هو [`CompoundCurve`](../). الوسيط هو [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) فارغ لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للوسيط كلاهما ليس `null` ولا يساويان بعضهما البعض |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurve](../../icurve/)
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

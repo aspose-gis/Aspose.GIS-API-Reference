@@ -1,7 +1,7 @@
 ---
-title: GeoJsonOptions.AttributesSkip
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoJsonOptions ملكية. يتحكم في ترجمة السمات نعم  تخطي جميع السمات
+title: "GeoJsonOptions.AttributesSkip"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeoJsonOptions. يتحكم في ترجمة السمات نعم تخطي جميع السمات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/attributesskip/
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/attributesskip/
 public bool AttributesSkip { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

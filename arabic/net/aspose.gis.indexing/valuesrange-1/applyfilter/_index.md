@@ -1,0 +1,37 @@
+---
+title: "ValuesRange1.ApplyFilter"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة ValuesRange."
+type: docs
+weight: 100
+url: /ar/net/aspose.gis.indexing/valuesrange-1/applyfilter/
+---
+## ApplyFilter(ValuesFilterType, TValue) {#applyfilter}
+
+```csharp
+public ValuesRange ApplyFilter(ValuesFilterType type, TValue value)
+```
+
+### انظر أيضًا
+
+* enum [ValuesFilterType](../../valuesfiltertype/)
+* class [ValuesRange&lt;TValue&gt;](../)
+* namespace [Aspose.Gis.Indexing](../../valuesrange-1/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## ApplyFilter(ValuesFilter&lt;TValue&gt;) {#applyfilter_1}
+
+```csharp
+public ValuesRange ApplyFilter(ValuesFilter<TValue> filter)
+```
+
+### انظر أيضًا
+
+* struct [ValuesFilter&lt;TValue&gt;](../../valuesfilter-1/)
+* class [ValuesRange&lt;TValue&gt;](../)
+* namespace [Aspose.Gis.Indexing](../../valuesrange-1/)
+* assembly [Aspose.GIS](../../../)
+
+

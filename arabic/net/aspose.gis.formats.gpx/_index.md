@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.Gpx
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Gpx توفر مساحة الاسم فئات للعمل بتنسيق GPX.
+title: "Aspose.Gis.Formats.Gpx"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.Gpx توفر فئات للعمل مع تنسيق GPX"
 type: docs
-weight: 100
+weight: 310
 url: /ar/net/aspose.gis.formats.gpx/
 ---
-`Aspose.Gis.Formats.Gpx` توفر مساحة الاسم فئات للعمل بتنسيق GPX.
+`Aspose.Gis.Formats.Gpx` مساحة الاسم توفر فئات للعمل مع صيغة GPX.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [GpxDriver](./gpxdriver/) | برنامج تشغيل لتنسيق GPX . |
-| [GpxOptions](./gpxoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق GPX . |
+| [GpxDriver](./gpxdriver/) | برنامج تشغيل لتنسيق GPX. |
+| [GpxOptions](./gpxoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق GPX. |
 
 

@@ -1,32 +1,32 @@
 ---
-title: BursaWolfParameters.op_Inequality
-second_title: Aspose.GIS لمرجع .NET API
-description: BursaWolfParameters طريقة. تنفذ عامل التشغيل  .
+title: "BursaWolfParameters.op_Inequality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة BursaWolfParameters. تنفذ المشغل"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/
 ---
 ## BursaWolfParameters Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفذ العامل !=.
 
 ```csharp
 public static bool operator !=(BursaWolfParameters a, BursaWolfParameters b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | BursaWolfParameters | المثال. |
-| b | BursaWolfParameters | المثيل B. |
+| a | BursaWolfParameters | الكائن A. |
+| b | BursaWolfParameters | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BursaWolfParameters](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../bursawolfparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

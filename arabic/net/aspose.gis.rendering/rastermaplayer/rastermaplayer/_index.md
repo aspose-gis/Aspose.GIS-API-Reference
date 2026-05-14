@@ -1,37 +1,37 @@
 ---
-title: RasterMapLayer.RasterMapLayer
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterMapLayer البناء. إنشاء مثيل جديد .
+title: "RasterMapLayer.RasterMapLayer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ RasterMapLayer. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/rastermaplayer/rastermaplayer/
 ---
 ## RasterMapLayer constructor
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public RasterMapLayer(RasterLayer layer, RasterColorizer colorizer = null, bool keepOpen = false)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| layer | RasterLayer | طبقة نقطية. |
-| colorizer | RasterColorizer | Symbolizer لاستخدامه في عرض الطبقة. لو`null`، سيتم استخدام الملون الافتراضي. |
-| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد[`VectorMapLayer`](../../vectormaplayer/) يتم التخلص من الكائن خلاف ذلك،`false` . |
+| الطبقة | RasterLayer | طبقة نقطية. |
+| colorizer | RasterColorizer | المُرمّز لاستخدامه في عرض الطبقة. إذا كان `null`، سيتم استخدام الملون الافتراضي. |
+| keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد التخلص من كائن [`VectorMapLayer`](../../vectormaplayer/); وإلا، `false`. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الطبقة`null`. |
+| ArgumentNullException | الطبقة هي `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterLayer](../../../aspose.gis.raster/rasterlayer/)
 * class [RasterColorizer](../../../aspose.gis.rendering.colorizers/rastercolorizer/)
 * class [RasterMapLayer](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../rastermaplayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../rastermaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

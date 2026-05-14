@@ -1,78 +1,78 @@
 ---
-title: Polygon.Polygon
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon البناء. يقوم بتهيئة مثيل جديد لملفPolygon فئة .
+title: "Polygon.Polygon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Polygon. يهيئ نسخة جديدة من فئة Polygon"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/polygon/polygon/
 ---
 ## Polygon() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`Polygon`](../) فئة .
+يهيئ نسخة جديدة من فئة [`Polygon`](../).
 
 ```csharp
 public Polygon()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Polygon(ILinearRing) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`Polygon`](../) فئة .
+يهيئ نسخة جديدة من فئة [`Polygon`](../).
 
 ```csharp
 public Polygon(ILinearRing exteriorRing)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | exteriorRing | ILinearRing | الحلقة الخارجية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILinearRing](../../ilinearring/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Polygon(ILinearRing, IEnumerable&lt;ILinearRing&gt;) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`Polygon`](../) فئة .
+يهيئ نسخة جديدة من فئة [`Polygon`](../).
 
 ```csharp
 public Polygon(ILinearRing exteriorRing, IEnumerable<ILinearRing> interiorRings)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | exteriorRing | ILinearRing | الحلقة الخارجية. |
 | interiorRings | IEnumerable`1 | الحلقات الداخلية. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILinearRing](../../ilinearring/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

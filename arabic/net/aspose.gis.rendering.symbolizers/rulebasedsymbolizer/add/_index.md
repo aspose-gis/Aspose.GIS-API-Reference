@@ -1,57 +1,57 @@
 ---
-title: RuleBasedSymbolizer.Add
-second_title: Aspose.GIS لمرجع .NET API
-description: RuleBasedSymbolizer طريقة. إضافة جديدRule .
+title: "RuleBasedSymbolizer.Add"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة RuleBasedSymbolizer. تضيف قاعدة جديدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add/
 ---
 ## Add(Func&lt;Feature, bool&gt;, VectorSymbolizer) {#add_1}
 
-إضافة جديد[`Rule`](../../rule/) .
+تضيف قاعدة جديدة [`Rule`](../../rule/).
 
 ```csharp
 public void Add(Func<Feature, bool> filter, VectorSymbolizer symbolizer)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| filter | Func`2 | يحدد متى يجب تطبيق الرمز على المعلم. |
-| symbolizer | VectorSymbolizer | Symbolizer ليتم تطبيقه على ميزة عندما*filter* يعود صحيحا. |
+| فلتر | Func`2 | يحدد متى يجب تطبيق symbolizer على ميزة. |
+| symbolizer | VectorSymbolizer | symbolizer لتطبيقه على ميزة عندما يُعيد *filter* true. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [RuleBasedSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Add(Rule) {#add}
 
-يضيف قاعدة .
+يضيف قاعدة.
 
 ```csharp
 public void Add(Rule rule)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| rule | Rule | حكم للإضافة. |
+| قاعدة | Rule | قاعدة للإضافة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Rule](../../rule/)
 * class [RuleBasedSymbolizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

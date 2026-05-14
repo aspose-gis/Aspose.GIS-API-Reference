@@ -1,39 +1,39 @@
 ---
-title: Feature.IsValueNull
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. تحديد ما إذا تم تعيين السمة المحددة بشكل صريح علىباطل القيمة .
+title: "Feature.IsValueNull"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تحدد ما إذا كانت الخاصية المحددة قد تم تعيينها صراحةً إلى قيمة null"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/feature/isvaluenull/
 ---
 ## Feature.IsValueNull method
 
-تحديد ما إذا تم تعيين السمة المحددة بشكل صريح على`باطل` القيمة .
+يحدد ما إذا كانت السمة المحددة قد تم تعيينها صراحةً إلى القيمة `null`.
 
 ```csharp
 public bool IsValueNull(string attributeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | attributeName | String | اسم السمة. |
 
 ### قيمة الإرجاع
 
-`true` إذا كانت قيمة السمة هي`باطل` ؛ خلاف ذلك،`false` .
+`true` إذا كانت قيمة الخاصية `null`؛ وإلا `false`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | السمة غير مؤمنة. |
+| InvalidOperationException | السمة غير مقفلة. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| ArgumentNullException | اسم السمة هو`باطل`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

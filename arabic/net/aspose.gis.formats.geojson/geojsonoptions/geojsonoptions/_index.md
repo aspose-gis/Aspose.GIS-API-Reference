@@ -1,23 +1,23 @@
 ---
-title: GeoJsonOptions.GeoJsonOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: GeoJsonOptions البناء. إنشاء مثيل جديد .
+title: "GeoJsonOptions.GeoJsonOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ GeoJsonOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/geojsonoptions/
 ---
 ## GeoJsonOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public GeoJsonOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeoJsonOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

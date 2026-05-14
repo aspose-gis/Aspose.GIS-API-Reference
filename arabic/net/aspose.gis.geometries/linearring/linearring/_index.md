@@ -1,77 +1,77 @@
 ---
-title: LinearRing.LinearRing
-second_title: Aspose.GIS لمرجع .NET API
-description: LinearRing البناء. يقوم بتهيئة مثيل جديد لملفLinearRing فئة .
+title: "LinearRing.LinearRing"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ LinearRing. يهيئ نسخة جديدة من فئة LinearRing"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/linearring/linearring/
 ---
 ## LinearRing() {#constructor}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearRing`](../) فئة .
+يهيئ نسخة جديدة من فئة [`LinearRing`](../).
 
 ```csharp
 public LinearRing()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LinearRing](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linearring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linearring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LinearRing(ILineString) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearRing`](../) فئة .
+يهيئ نسخة جديدة من فئة [`LinearRing`](../).
 
 ```csharp
 public LinearRing(ILineString other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | ILineString | السطر الآخر لنسخ البيانات منه. |
+| آخر | ILineString | الخط الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ILineString](../../ilinestring/)
 * class [LinearRing](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linearring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linearring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LinearRing(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد لملف[`LinearRing`](../) فئة .
+يهيئ نسخة جديدة من فئة [`LinearRing`](../).
 
 ```csharp
 public LinearRing(IEnumerable<IPoint> collection)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| collection | IEnumerable`1 | جمع النقاط. |
+| مجموعة | IEnumerable`1 | مجموعة النقاط. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null`. |
+| ArgumentNullException | الوسيط هو `null`. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [LinearRing](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../linearring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linearring/)
+* assembly [Aspose.GIS](../../../)
 
 

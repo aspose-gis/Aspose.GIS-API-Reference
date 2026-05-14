@@ -1,7 +1,7 @@
 ---
-title: MapInfoTabDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: MapInfoTabDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة.
+title: "MapInfoTabDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "MapInfoTabDriver property. تحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح طبقات متجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/canopenlayers/
 public override bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoTabDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

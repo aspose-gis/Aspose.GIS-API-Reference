@@ -1,23 +1,23 @@
 ---
-title: Dataset.LayersCount
-second_title: Aspose.GIS لمرجع .NET API
-description: Dataset ملكية. الحصول على عدد الطبقات في مجموعة البيانات هذه.
+title: "Dataset.LayersCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Dataset. تحصل على عدد الطبقات في هذه مجموعة البيانات"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/dataset/layerscount/
 ---
 ## Dataset.LayersCount property
 
-الحصول على عدد الطبقات في مجموعة البيانات هذه.
+يحصل على عدد الطبقات في مجموعة البيانات هذه.
 
 ```csharp
 public abstract int LayersCount { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

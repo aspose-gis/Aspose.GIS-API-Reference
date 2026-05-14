@@ -1,27 +1,27 @@
 ---
-title: GmlOptions.RestoreSchema
-second_title: Aspose.GIS لمرجع .NET API
-description: GmlOptions ملكية. يحدد ما إذا كان Aspose.GIS مسموحًا به لتحليل السمات في ملف Gml حيث مخطط XML مفقود أو لا يمكن تحميله. إذا تم التعيين علىtrue  لا يتطلب قارئ Aspose.GIS وجود مخطط XML . الافتراضي هوfalse .
+title: "GmlOptions.RestoreSchema"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GmlOptions. تحدد ما إذا كان يُسمح لـ Aspose.GIS بتحليل السمات في ملف Gml لا يحتوي على مخطط XML أو لا يمكن تحميله. إذا تم تعيينها إلى true، لا يتطلب قارئ Aspose.GIS وجود مخطط XML. القيمة الافتراضية هي false."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.gml/gmloptions/restoreschema/
 ---
 ## GmlOptions.RestoreSchema property
 
-يحدد ما إذا كان Aspose.GIS مسموحًا به لتحليل السمات في ملف Gml حيث مخطط XML مفقود أو لا يمكن تحميله. إذا تم التعيين على`true` ، لا يتطلب قارئ Aspose.GIS وجود مخطط XML . الافتراضي هو`false` .
+يحدد ما إذا كان يُسمح لـ Aspose.GIS بتحليل السمات في ملف Gml لا يحتوي على مخطط XML أو لا يمكن تحميله. إذا تم تعيينه إلى `true`، فإن قارئ Aspose.GIS لا يتطلب وجود مخطط XML. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool RestoreSchema { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
-يحاول برنامج التشغيل التحليل التلقائي لفئات الميزات والخصائص المرتبطة بها عن طريق مسح الملف والبحث عن كائنات "معروفة" لتحديد المؤسسة. تم فقد مخطط XML أو لا يمكن تحميله من الإنترنت.
+يحاول السائق (Driver) تحليل فئات المميزات وخصائصها المرتبطة تلقائيًا عن طريق فحص الملف والبحث عن الكائنات “المعروفة” لتحديد التنظيم. على الرغم من أن هذه الطريقة عرضة للأخطاء، إلا أنها تتميز بقدرتها على العمل مع ملفات GML حتى إذا فقد المخطط XML المرتبط أو لا يمكن تحميله من الإنترنت.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GmlOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gml](../../gmloptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gml](../../gmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

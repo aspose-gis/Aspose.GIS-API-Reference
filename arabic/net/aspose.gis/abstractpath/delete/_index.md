@@ -1,14 +1,14 @@
 ---
-title: AbstractPath.Delete
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath طريقة. يحذف الملف المشار إليه بهذا المسار.
+title: "AbstractPath.Delete"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة AbstractPath. تحذف ملفًا يشير إليه هذا المسار"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/abstractpath/delete/
 ---
 ## AbstractPath.Delete method
 
-يحذف الملف المشار إليه بهذا المسار.
+يحذف ملفًا يشير إليه هذا المسار.
 
 ```csharp
 public abstract void Delete()
@@ -16,18 +16,18 @@ public abstract void Delete()
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | تشير الوسيطة إلى دليل بدلاً من ملف. |
+| InvalidOperationException | المعامل يشير إلى دليل بدلاً من ملف. |
 
-### ملاحظات
+## ملاحظات
 
-لا يتم طرح أي استثناء في حالة عدم وجود الملف.
+لن يتم رمي أي استثناء إذا كان الملف غير موجود.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

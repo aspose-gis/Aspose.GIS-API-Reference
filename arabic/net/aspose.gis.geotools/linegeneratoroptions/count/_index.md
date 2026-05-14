@@ -1,23 +1,23 @@
 ---
-title: LineGeneratorOptions.Count
-second_title: Aspose.GIS لمرجع .NET API
-description: LineGeneratorOptions ملكية. عدد الأسطر المراد إنشاؤها .
+title: "LineGeneratorOptions.Count"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية LineGeneratorOptions. عدد الخطوط التي سيتم إنشاؤها"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/linegeneratoroptions/count/
 ---
 ## LineGeneratorOptions.Count property
 
-عدد الأسطر المراد إنشاؤها .
+عدد الخطوط لإنشائها.
 
 ```csharp
 public int Count { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LineGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: SimpleLine.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleLine طريقة. استنساخ هذا المثال .
+title: "SimpleLine.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SimpleLine. تستنسخ هذا المثيل"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/clone/
 ---
 ## SimpleLine.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public SimpleLine Clone()
@@ -16,12 +16,12 @@ public SimpleLine Clone()
 
 ### قيمة الإرجاع
 
-نسخة من هذا المثال.
+نسخة من هذا المثيل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimpleLine](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

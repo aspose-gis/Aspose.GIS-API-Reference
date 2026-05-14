@@ -1,7 +1,7 @@
 ---
-title: RasterImageMarker.Height
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterImageMarker ملكية. يحدد ارتفاع العلامة.
+title: "RasterImageMarker.Height"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterImageMarker. تحدد ارتفاع العلامة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/height/
@@ -16,15 +16,15 @@ public Measurement Height { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | القيمة أقل من الصفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [RasterImageMarker](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

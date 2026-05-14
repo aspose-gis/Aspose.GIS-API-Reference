@@ -1,24 +1,24 @@
 ---
-title: KmlFeatureStyle.Balloon
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlFeatureStyle ملكية. يحدد كيفية رسم بالون الوصف الخاص بالعلامات الموضعية . Usenull للإشارة إلى نمط مفقود. القيمة الافتراضية هيnull .
+title: "KmlFeatureStyle.Balloon"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية KmlFeatureStyle. تحدد كيفية رسم بالون الوصف للعلامات. استخدم null للإشارة إلى نمط مفقود. القيمة الافتراضية هي null"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/balloon/
 ---
 ## KmlFeatureStyle.Balloon property
 
-يحدد كيفية رسم بالون الوصف الخاص بالعلامات الموضعية . Use`null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي`null` .
+تحدد كيفية رسم فقاعة الوصف للعلامات. استخدم `null` للإشارة إلى نمط مفقود. القيمة الافتراضية هي `null`.
 
 ```csharp
 public KmlBalloonStyle Balloon { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlBalloonStyle](../../kmlballoonstyle/)
 * class [KmlFeatureStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

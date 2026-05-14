@@ -1,9 +1,9 @@
 ---
-title: Dataset.OpenLayerAt
-second_title: Aspose.GIS لمرجع .NET API
-description: Dataset طريقة. يفتح الطبقة في الفهرس المحدد للقراءة.
+title: "Dataset.OpenLayerAt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Dataset. تفتح الطبقة في الفهرس المحدد للقراءة"
 type: docs
-weight: 120
+weight: 140
 url: /ar/net/aspose.gis/dataset/openlayerat/
 ---
 ## Dataset.OpenLayerAt method
@@ -14,10 +14,10 @@ url: /ar/net/aspose.gis/dataset/openlayerat/
 public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس الطبقة المراد فتحها. |
-| options | DriverOptions | افتح الخيارات. |
+| الفهرس | Int32 | فهرس الطبقة التي سيتم فتحها. |
+| الخيارات | DriverOptions | خيارات الفتح. |
 
 ### قيمة الإرجاع
 
@@ -25,20 +25,20 @@ public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لمجموعة البيانات هذه. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق |
-| ArgumentException | كائن الخيارات له نوع غير صحيح لمجموعة البيانات هذه. |
-| [GisException](../../gisexception/) | خطأ في قراءة المعلم من الطبقة. |
-| IOException | حدث خطأ في الإدخال / الإخراج. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
+| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الطبقة. |
+| IOException | حدث خطأ في الإدخال/الإخراج. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* مساحة الاسم [Aspose.Gis](../../dataset/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

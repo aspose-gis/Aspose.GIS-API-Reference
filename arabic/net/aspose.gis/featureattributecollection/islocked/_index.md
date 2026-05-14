@@ -1,27 +1,27 @@
 ---
-title: FeatureAttributeCollection.IsLocked
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttributeCollection ملكية. يحصل على قيمة تشير إلى ما إذا كانت مجموعة السمات هذه مؤمنة.
+title: "FeatureAttributeCollection.IsLocked"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FeatureAttributeCollection. يحصل على قيمة تشير إلى ما إذا كانت مجموعة السمات هذه مقفلة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/featureattributecollection/islocked/
 ---
 ## FeatureAttributeCollection.IsLocked property
 
-يحصل على قيمة تشير إلى ما إذا كانت مجموعة السمات هذه مؤمنة.
+يحصل على قيمة تشير إلى ما إذا كانت مجموعة الخصائص هذه مقفلة.
 
 ```csharp
 public bool IsLocked { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` إذا تم تأمين مجموعة السمات هذه ؛ خلاف ذلك،`false` .
+`true` إذا كانت مجموعة السمات هذه مقفلة؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

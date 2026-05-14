@@ -1,23 +1,23 @@
 ---
-title: MapInfoTabOptions.MapInfoTabOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: MapInfoTabOptions البناء. إنشاء مثيل جديد .
+title: "MapInfoTabOptions.MapInfoTabOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "MapInfoTabOptions constructor. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotaboptions/mapinfotaboptions/
 ---
 ## MapInfoTabOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public MapInfoTabOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoTabOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoTab](../../mapinfotaboptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoTab](../../mapinfotaboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

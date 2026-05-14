@@ -1,46 +1,46 @@
 ---
-title: Class RasterCellSize
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster.RasterCellSize فصل. يصف حجم الخلية النقطية ومقياسها وتدويرها على الخريطة.
+title: "الفئة RasterCellSize"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Raster.RasterCellSize. تصف مقياس الحجم ودوران خلية الراستر على الخريطة."
 type: docs
-weight: 1370
+weight: 3810
 url: /ar/net/aspose.gis.raster/rastercellsize/
 ---
 ## RasterCellSize class
 
-يصف حجم الخلية النقطية ومقياسها وتدويرها على الخريطة.
+يصف الحجم، المقياس والدوران لخلية الراستر على الخريطة.
 
 ```csharp
 public class RasterCellSize : IRasterCellSize
 ```
 
-## المنشئون
+## المُنشئات
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [RasterCellSize](rastercellsize/)() | Default_Constructor |
+| [RasterCellSize](rastercellsize/)() | أنشئ مثيلاً من `RasterCellSize`. |
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
 | [Height](../../aspose.gis.raster/rastercellsize/height/) { get; } | احسب ارتفاع البكسل. |
-| [ScaleX](../../aspose.gis.raster/rastercellsize/scalex/) { get; set; } | الحصول على أو تحديد مكون x لعرض البكسل (مقياس x). |
-| [ScaleY](../../aspose.gis.raster/rastercellsize/scaley/) { get; set; } | الحصول على أو تعيين مكون ص لارتفاع البكسل (مقياس ص) ، سالب عادةً. |
-| [SkewX](../../aspose.gis.raster/rastercellsize/skewx/) { get; set; } | الحصول على أو تعيين مكون x لارتفاع البكسل (انحراف س). |
-| [SkewY](../../aspose.gis.raster/rastercellsize/skewy/) { get; set; } | الحصول على أو تحديد مكون ص لعرض البكسل (انحراف ص). |
+| [ScaleX](../../aspose.gis.raster/rastercellsize/scalex/) { get; set; } | يحصل أو يضبط المكوّن x لعرض البكسل (مقياس x). |
+| [ScaleY](../../aspose.gis.raster/rastercellsize/scaley/) { get; set; } | الحصول أو تعيين المكوّن y لارتفاع البكسل (y-scale)، عادةً سالب. |
+| [SkewX](../../aspose.gis.raster/rastercellsize/skewx/) { get; set; } | الحصول أو تعيين المكوّن x لارتفاع البكسل (x-skew). |
+| [SkewY](../../aspose.gis.raster/rastercellsize/skewy/) { get; set; } | الحصول أو تعيين المكوّن y لعرض البكسل (y-skew). |
 | [Width](../../aspose.gis.raster/rastercellsize/width/) { get; } | احسب عرض البكسل. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rastercellsize/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.raster/rastercellsize/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterCellSize](../irastercellsize/)
-* مساحة الاسم [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

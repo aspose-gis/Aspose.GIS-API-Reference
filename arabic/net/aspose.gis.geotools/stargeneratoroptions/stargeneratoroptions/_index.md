@@ -1,23 +1,23 @@
 ---
-title: StarGeneratorOptions.StarGeneratorOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions البناء. Default_Constructor
+title: "StarGeneratorOptions.StarGeneratorOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ StarGeneratorOptions. إنشاء مثال مع حقول التهيئة بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/stargeneratoroptions/
 ---
 ## StarGeneratorOptions constructor
 
-Default_Constructor
+إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
 
 ```csharp
 public StarGeneratorOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

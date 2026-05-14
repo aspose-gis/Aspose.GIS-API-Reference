@@ -1,31 +1,31 @@
 ---
-title: AbstractPath.Separator
-second_title: Aspose.GIS لمرجع .NET API
-description: AbstractPath ملكية. يحصل على حرف فاصل يستخدم لفصل مستويات الدليل لملفLocation خيط.
+title: "AbstractPath.Separator"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية AbstractPath. تُعيد حرف الفاصل المستخدم لفصل مستويات الدليل في سلسلة Location"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/abstractpath/separator/
 ---
 ## AbstractPath.Separator property
 
-يحصل على حرف فاصل يستخدم لفصل مستويات الدليل لملف[`Location`](../location/) خيط.
+يحصل على حرف فاصل يُستخدم لفصل مستويات الدليل في سلسلة [`Location`](../location/).
 
 ```csharp
 public abstract char Separator { get; }
 ```
 
-### Property_Value
+### Property Value
 
-حرف فاصل يُستخدم لفصل مستويات الدليل لملف[`Location`](../location/) خيط.
+حرف فاصل يُستخدم لفصل مستويات الدليل في سلسلة [`Location`](../location/).
 
-### ملاحظات
+## ملاحظات
 
-عادةً ما يكون هذا مساويًا لـ "/" للأمام أو الشرطة المائلة للخلف "\\".
+عادةً يكون هذا مساويًا للشرطة المائلة للأمام '/' أو للشرطة المائلة للخلف '\\'.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AbstractPath](../)
-* مساحة الاسم [Aspose.Gis](../../abstractpath/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

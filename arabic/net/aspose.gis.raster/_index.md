@@ -1,40 +1,40 @@
 ---
-title: Aspose.Gis.Raster
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Raster توفر مساحة الاسم فئات للعمل مع التنسيقات النقطية.
+title: "Aspose.Gis.Raster"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الأسماء Aspose.Gis.Raster توفر فئات للعمل مع تنسيقات الراستر"
 type: docs
-weight: 250
+weight: 630
 url: /ar/net/aspose.gis.raster/
 ---
-`Aspose.Gis.Raster` توفر مساحة الاسم فئات للعمل مع التنسيقات النقطية.
+`Aspose.Gis.Raster` مساحة الاسم توفر فئات للعمل مع تنسيقات الراستر.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [RasterBand](./rasterband/) | يحتوي على بيانات حول النطاق النقطي . |
-| [RasterCellSize](./rastercellsize/) | يصف حجم الخلية النقطية ومقياسها وتدويرها على الخريطة. |
-| [RasterLayer](./rasterlayer/) | يمثل طبقة نقطية. |
-| [RasterReadExpression](./rasterreadexpression/) | يمثل المفوض الذي يقرأ التعبير. |
-| [RasterRect](./rasterrect/) | كتلة الخلايا النقطية . |
-| [RasterStatistics](./rasterstatistics/) | إحصائيات أي طبقة نقطية. |
-| [WarpOptions](./warpoptions/) | خيارات لتزييف البيانات النقطية . |
-## الهياكل
+| [RasterBand](./rasterband/) | يحتوي على بيانات حول شريط الراستر. |
+| [RasterCellSize](./rastercellsize/) | يصف الحجم، المقياس والدوران لخلية الراستر على الخريطة. |
+| [RasterLayer](./rasterlayer/) | يمثل طبقة راستر. |
+| [RasterReadExpression](./rasterreadexpression/) | يمثل مفوضًا، يقرأ التعبير. |
+| [RasterRect](./rasterrect/) | كتلة من خلايا الراستر. |
+| [RasterStatistics](./rasterstatistics/) | الإحصاءات لأي طبقة راستر. |
+| [WarpOptions](./warpoptions/) | خيارات لتشويه الراستر. |
+## Structures
 
-| بنية | وصف |
+| بنية | الوصف |
 | --- | --- |
-| [RasterExpressionContext](./rasterexpressioncontext/) | تصف هذه الفئة سياق القيمة عندما يقرأ النطاق النقطي. |
-## واجهات
+| [RasterExpressionContext](./rasterexpressioncontext/) | هذه الفئة تصف سياق القيمة عندما تقرأ شريط الراستر. |
+## الواجهات
 
-| واجهه المستخدم | وصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IRasterBand](./irasterband/) | يحتوي على بيانات وصفية حول النطاق النقطي . |
-| [IRasterCellSize](./irastercellsize/) | يصف حجم الخلية النقطية ومقياسها وتدويرها على الخريطة. |
-| [IRasterValues](./irastervalues/) | يوفر الوصول إلى قيم النطاقات النقطية. |
+| [IRasterBand](./irasterband/) | يحتوي على بيانات تعريفية حول شريط الراستر. |
+| [IRasterCellSize](./irastercellsize/) | يصف الحجم، المقياس والدوران لخلية الراستر على الخريطة. |
+| [IRasterValues](./irastervalues/) | يوفر الوصول إلى قيم أشرطة الراستر. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [BandTypes](./bandtypes/) | أنواع النطاق النقطي . |
+| [BandTypes](./bandtypes/) | أنواع شريط الراستر. |
 
 

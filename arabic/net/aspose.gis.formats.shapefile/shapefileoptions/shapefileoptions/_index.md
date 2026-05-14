@@ -1,23 +1,23 @@
 ---
-title: ShapefileOptions.ShapefileOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: ShapefileOptions البناء. إنشاء مثيل جديد .
+title: "ShapefileOptions.ShapefileOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ ShapefileOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.shapefile/shapefileoptions/shapefileoptions/
 ---
 ## ShapefileOptions constructor
 
-إنشاء مثيل جديد .
+إنشاء نسخة جديدة.
 
 ```csharp
 public ShapefileOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ShapefileOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Shapefile](../../shapefileoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefileoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

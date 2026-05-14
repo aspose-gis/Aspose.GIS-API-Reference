@@ -1,30 +1,30 @@
 ---
-title: Enum GeometryDimension
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Geometries.GeometryDimension تعداد. البعد الطوبولوجي لـGeometry .
+title: "التعداد GeometryDimension"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Geometries.GeometryDimension. البُعد الطوبولوجي لشكل هندسي (Geometry)."
 type: docs
-weight: 940
+weight: 2720
 url: /ar/net/aspose.gis.geometries/geometrydimension/
 ---
 ## GeometryDimension enumeration
 
-البعد الطوبولوجي لـ[`Geometry`](../geometry/) .
+البُعد الطوبولوجي لـ [`Geometry`](../geometry/).
 
 ```csharp
 public enum GeometryDimension
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Point | `0` | 0 الأبعاد (نقطة) . |
-| Line | `1` | أحادي الأبعاد (خط) . |
-| Surface | `2` | ثنائي الأبعاد (سطح) . |
+| Point | `0` | بعده صفر (نقطة). |
+| Line | `1` | بعده واحد (خط). |
+| Surface | `2` | بعده اثنان (سطح). |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

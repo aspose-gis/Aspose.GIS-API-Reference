@@ -1,27 +1,27 @@
 ---
-title: IGeometry.HasCurveGeometry
-second_title: Aspose.GIS لمرجع .NET API
-description: IGeometry ملكية. الحصول على قيمة تشير إلى ما إذا كانت هذه الهندسة عبارة عن هندسة منحنية غير خطية أو تحتوي عليها.
+title: "IGeometry.HasCurveGeometry"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية IGeometry. يحصل على قيمة تشير إلى ما إذا كان هذا الشكل هو أو يحتوي على منحنى غير خطي"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/igeometry/hascurvegeometry/
 ---
 ## IGeometry.HasCurveGeometry property
 
-الحصول على قيمة تشير إلى ما إذا كانت هذه الهندسة عبارة عن هندسة منحنية (غير خطية) أو تحتوي عليها.
+يحصل على قيمة تشير إلى ما إذا كانت هذه الهندسة أو تحتوي على هندسة منحنية (غير خطية).
 
 ```csharp
 public bool HasCurveGeometry { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`false` إذا كانت هذه الهندسة وكل الأشكال الهندسية التي تحتويها خطية ؛ خلاف ذلك،`true` .
+`false` إذا كان هذا الشكل وجميع الأشكال التي يحتويها خطية؛ وإلا، `true`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../igeometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

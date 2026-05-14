@@ -1,24 +1,24 @@
 ---
-title: SimpleFill.StrokeDashOffset
-second_title: Aspose.GIS لمرجع .NET API
-description: SimpleFill ملكية. يحدد المسافة من بداية السطر إلى بداية نمط الشرطة.
+title: "SimpleFill.StrokeDashOffset"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SimpleFill. تحدد المسافة من بداية الخط إلى بداية نمط الشرطة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokedashoffset/
 ---
 ## SimpleFill.StrokeDashOffset property
 
-يحدد المسافة من بداية السطر إلى بداية نمط الشرطة.
+يحدد المسافة من بداية الخط إلى بداية نمط الشرط.
 
 ```csharp
 public Measurement StrokeDashOffset { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleFill](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

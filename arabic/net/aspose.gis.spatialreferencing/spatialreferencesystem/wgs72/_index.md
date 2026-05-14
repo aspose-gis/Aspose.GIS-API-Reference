@@ -1,24 +1,24 @@
 ---
-title: SpatialReferenceSystem.Wgs72
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem ملكية. WGS 72 EPSG 4322 نظام الإسناد المكاني.
+title: "SpatialReferenceSystem.Wgs72"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية SpatialReferenceSystem. نظام الإسناد المكاني WGS 72 EPSG4322"
 type: docs
 weight: 320
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/wgs72/
 ---
 ## SpatialReferenceSystem.Wgs72 property
 
-WGS 72 (EPSG: 4322) نظام الإسناد المكاني.
+WGS 72 (EPSG:4322) نظام الإحداثيات.
 
 ```csharp
 public static GeographicSpatialReferenceSystem Wgs72 { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicSpatialReferenceSystem](../../geographicspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

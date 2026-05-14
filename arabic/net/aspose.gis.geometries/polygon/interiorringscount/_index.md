@@ -1,27 +1,27 @@
 ---
-title: Polygon.InteriorRingsCount
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon ملكية. يحصل على عدد الحلقات الداخلية .
+title: "Polygon.InteriorRingsCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Polygon. تحصل على عدد الحلقات الداخلية"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geometries/polygon/interiorringscount/
 ---
 ## Polygon.InteriorRingsCount property
 
-يحصل على عدد الحلقات الداخلية .
+يحصل على عدد الحلقات الداخلية.
 
 ```csharp
 public int InteriorRingsCount { get; }
 ```
 
-### Property_Value
+### Property Value
 
-عدد الحلقات الداخلية .
+عدد الحلقات الداخلية.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

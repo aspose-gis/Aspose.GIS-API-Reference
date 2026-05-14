@@ -1,27 +1,27 @@
 ---
-title: DriverOptions.SimplifySegments
-second_title: Aspose.GIS لمرجع .NET API
-description: DriverOptions ملكية. لتحديد ما إذا كان سيتم حذف النقاط الموجودة على نفس المقطع في كل شكل هندسي. افتراضات إلىfalse .
+title: "DriverOptions.SimplifySegments"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية DriverOptions. تحدد ما إذا كان يتم حذف النقاط الواقعة على نفس المقطع في كل شكل هندسي. القيمة الافتراضية هي false"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/driveroptions/simplifysegments/
 ---
 ## DriverOptions.SimplifySegments property
 
-لتحديد ما إذا كان سيتم حذف النقاط الموجودة على نفس المقطع في كل شكل هندسي. افتراضات إلى`false` .
+يحدد ما إذا كان سيتم حذف النقاط الواقعة على نفس القطعة في كل شكل. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool SimplifySegments { get; set; }
 ```
 
-### ملاحظات
+## ملاحظات
 
 هذا خيار فتح - لا يؤثر على الإنشاء.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [DriverOptions](../)
-* مساحة الاسم [Aspose.Gis](../../driveroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,36 +1,36 @@
 ---
-title: FeatureAttributeCollection.Add
-second_title: Aspose.GIS لمرجع .NET API
-description: FeatureAttributeCollection طريقة. إضافة سمة للمجموعة .
+title: "FeatureAttributeCollection.Add"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeatureAttributeCollection. تضيف سمة إلى المجموعة."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/featureattributecollection/add/
 ---
 ## FeatureAttributeCollection.Add method
 
-إضافة سمة للمجموعة .
+يضيف خاصية إلى المجموعة.
 
 ```csharp
 public void Add(FeatureAttribute attribute)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attribute | FeatureAttribute | السمة المراد إضافتها. |
+| سمة | FeatureAttribute | السمة المراد إضافتها. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | السمة هي`null`. |
-| InvalidOperationException | المجموعة مؤمنة. |
-| ArgumentException | توجد بالفعل سمة تحمل الاسم نفسه في المجموعة. |
+| ArgumentNullException | السمة هي `null`. |
+| InvalidOperationException | المجموعة مقفلة. |
+| ArgumentException | هناك سمة بنفس الاسم موجودة بالفعل في المجموعة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeatureAttribute](../../featureattribute/)
 * class [FeatureAttributeCollection](../)
-* مساحة الاسم [Aspose.Gis](../../featureattributecollection/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

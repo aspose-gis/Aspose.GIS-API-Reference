@@ -1,56 +1,56 @@
 ---
-title: SpatialReferenceSystem.IsEquivalent
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى. .
+title: "SpatialReferenceSystem.IsEquivalent"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS آخر."
 type: docs
 weight: 220
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/isequivalent/
 ---
 ## IsEquivalent(SpatialReferenceSystem)
 
-يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى. .
+يكشف ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
 ```csharp
 public virtual bool IsEquivalent(SpatialReferenceSystem other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SpatialReferenceSystem | SRS أخرى. |
+| آخر | SpatialReferenceSystem | SRS آخر. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS الأخرى.
+قيمة bool، تُشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## IsEquivalent(SpatialReferenceSystem, SpatialReferenceSystem)
 
-يحدد ما إذا كان اثنان من SRS متكافئين. نفس الإحداثيات من SRS المكافئة تتطابق مع نفس المكان على الأرض . يمكن أن تكون بعض معلمات SRS المكافئة مختلفة ، على سبيل المثال[`Name`](../../identifiableobject/name/) .
+يحدد ما إذا كان نظاما إسناد فضائيين (SRS) متكافئين. نفس إحداثيات الأنظمة المتكافئة تتطابق مع نفس الموقع على الأرض. بعض معلمات الأنظمة المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
 
 ```csharp
 public static bool IsEquivalent(SpatialReferenceSystem srs1, SpatialReferenceSystem srs2)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | srs1 | SpatialReferenceSystem | أول SRS. |
-| srs2 | SpatialReferenceSystem | الثانية SRS. |
+| srs2 | SpatialReferenceSystem | ثاني SRS. |
 
 ### قيمة الإرجاع
 
-قيمة منطقية ، تشير إلى ما إذا كان اثنان من SRS متساويين.
+قيمة من نوع bool، تشير إلى ما إذا كان نظاما إسناد فضائيين متكافئين.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,38 +1,38 @@
 ---
-title: VerticalSpatialReferenceSystem.GetUnit
-second_title: Aspose.GIS لمرجع .NET API
-description: VerticalSpatialReferenceSystem طريقة. احصل علىUnitالبعد .
+title: "VerticalSpatialReferenceSystem.GetUnit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VerticalSpatialReferenceSystem. الحصول على وحدة البُعد"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/getunit/
 ---
 ## VerticalSpatialReferenceSystem.GetUnit method
 
-احصل على[`Unit`](../../unit/)البعد .
+احصل على [`Unit`](../../unit/) للبُعد.
 
 ```csharp
 public override Unit GetUnit(int dimension)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| dimension | Int32 | عدد البعد. |
+| البُعد | Int32 | عدد البُعد. |
 
 ### قيمة الإرجاع
 
-وحدة البعد.
+وحدة البُعد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension* أصغر من 0 أو أكبر أو يساوي[`DimensionsCount`](../dimensionscount/) |
+| ArgumentOutOfRangeException | *dimension* أقل من 0 أو أكبر أو يساوي [`DimensionsCount`](../dimensionscount/) |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [VerticalSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

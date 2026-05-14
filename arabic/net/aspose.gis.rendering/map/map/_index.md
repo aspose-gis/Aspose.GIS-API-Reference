@@ -1,36 +1,52 @@
 ---
-title: Map.Map
-second_title: Aspose.GIS لمرجع .NET API
-description: Map البناء. إنشاء مثيل جديد لملفخريطة فئة .
+title: "Map.Map"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ Map. ينشئ نسخة جديدة من فئة Map."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/map/map/
 ---
-## Map constructor
+## Map(Measurement, Measurement) {#constructor_1}
 
-إنشاء مثيل جديد لملف`خريطة` فئة .
+ينشئ نسخة جديدة من الفئة `Map`.
 
 ```csharp
 public Map(Measurement width, Measurement height)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| width | Measurement | عرض الخريطة. |
-| height | Measurement | ارتفاع الخريطة. |
+| العرض | القياس | عرض الخريطة. |
+| الارتفاع | القياس | ارتفاع الخريطة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | وحدة العرض أو الارتفاعMapUnits . |
+| ArgumentException | وحدة العرض أو الارتفاع هي MapUnits. |
 | ArgumentOutOfRangeException | العرض أو الارتفاع سالب أو صفر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../../measurement/)
 * class [Map](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../map/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## Map() {#constructor}
+
+ينشئ نسخة جديدة من الفئة `Map`.
+
+```csharp
+public Map()
+```
+
+### انظر أيضًا
+
+* class [Map](../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

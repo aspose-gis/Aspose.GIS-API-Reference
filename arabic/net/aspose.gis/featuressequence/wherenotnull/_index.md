@@ -1,37 +1,37 @@
 ---
-title: FeaturesSequence.WhereNotNull
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. يختار المعالم ذات السمة لا تساوي قيمة خالية.
+title: "FeaturesSequence.WhereNotNull"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. يحدد الميزات ذات السمة غير مساوية لـ null"
 type: docs
-weight: 120
+weight: 130
 url: /ar/net/aspose.gis/featuressequence/wherenotnull/
 ---
 ## FeaturesSequence.WhereNotNull method
 
-يختار المعالم ذات السمة لا تساوي قيمة خالية.
+يختار المعالم التي تكون السمة غير مساوية لـ null.
 
 ```csharp
 public virtual FeaturesSequence WhereNotNull(string attributeName)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| attributeName | String | السمة للتصفية حسب. |
+| attributeName | String | السمة التي يتم الترشيح بناءً عليها. |
 
 ### قيمة الإرجاع
 
-المعالم ذات قيمة السمة لا تساوي قيمة خالية.
+ميزات ذات قيمة سمة غير مساوية لـ null.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل الميزات هذا. |
+| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل العناصر هذا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,31 +1,31 @@
 ---
-title: IRasterValues.AsDouble
-second_title: Aspose.GIS لمرجع .NET API
-description: IRasterValues طريقة. يحول بيانات النطاق المحدد إلى ملفdouble القيمة .
+title: "IRasterValues.AsDouble"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة IRasterValues. تحول بيانات النطاق المحدد إلى قيمة مزدوجة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/irastervalues/asdouble/
 ---
 ## IRasterValues.AsDouble method
 
-يحول بيانات النطاق المحدد إلى ملف`double` القيمة .
+يحوّل بيانات الشريط المحدد إلى قيمة `double`.
 
 ```csharp
 public double AsDouble(int bandIndex = 0)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| bandIndex | Int32 | فهرس الفرقة. يبدأ الترقيم من 0. |
+| bandIndex | Int32 | فهرس النطاق. يبدأ الترقيم من 0. |
 
 ### قيمة الإرجاع
 
-القيمة المحولة.
+القيمة المحوّلة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IRasterValues](../)
-* مساحة الاسم [Aspose.Gis.Raster](../../irastervalues/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastervalues/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,32 +1,32 @@
 ---
-title: Measurement.op_Multiply
-second_title: Aspose.GIS لمرجع .NET API
-description: Measurement طريقة. ضرب القياس حسب العامل .
+title: "Measurement.op_Multiply"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Measurement. تضرب القياس في العامل."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.rendering/measurement/op_multiply/
 ---
 ## Measurement Multiply operator
 
-ضرب القياس حسب العامل .
+يضرب القياس في العامل.
 
 ```csharp
 public static Measurement operator *(Measurement measurement, double factor)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| measurement | Measurement | القياس لمضاعفة. |
-| factor | Double | العامل المطلوب القسمة عليه. |
+| قياس | القياس | القياس للضرب. |
+| عامل | Double | العامل للقسمة عليه. |
 
 ### قيمة الإرجاع
 
-قياس مع[`Value`](../value/) مضروبة في العامل.
+قياس مع [`Value`](../value/) مضروب في العامل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * struct [Measurement](../)
-* مساحة الاسم [Aspose.Gis.Rendering](../../measurement/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../measurement/)
+* assembly [Aspose.GIS](../../../)
 
 

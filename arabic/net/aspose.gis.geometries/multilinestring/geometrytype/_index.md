@@ -1,28 +1,28 @@
 ---
-title: MultiLineString.GeometryType
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiLineString ملكية. يحصل على نوع الهندسة .
+title: "MultiLineString.GeometryType"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiLineString. تحصل على نوع الـ geometry."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/multilinestring/geometrytype/
 ---
 ## MultiLineString.GeometryType property
 
-يحصل على نوع الهندسة .
+يحصل على نوع الهندسة.
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### Property_Value
+### Property Value
 
-نوع الهندسة .
+نوع الـ geometry.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * enum [GeometryType](../../geometrytype/)
 * class [MultiLineString](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../multilinestring/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multilinestring/)
+* assembly [Aspose.GIS](../../../)
 
 

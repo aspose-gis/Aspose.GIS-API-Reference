@@ -1,9 +1,9 @@
 ---
-title: VectorLayer.NearestTo
-second_title: Aspose.GIS لمرجع .NET API
-description: VectorLayer طريقة. يحصل على أقرب ميزة إلى الإحداثي المقدم.
+title: "VectorLayer.NearestTo"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة VectorLayer. الحصول على أقرب feature إلى الإحداثي المقدم"
 type: docs
-weight: 150
+weight: 170
 url: /ar/net/aspose.gis/vectorlayer/nearestto/
 ---
 ## NearestTo(double, double) {#nearestto_1}
@@ -14,53 +14,53 @@ url: /ar/net/aspose.gis/vectorlayer/nearestto/
 public Feature NearestTo(double x, double y)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | X للإحداثيات. |
-| y | Double | Y للإحداثيات. |
+| x | Double | X للإحداثي. |
+| y | Double | Y للإحداثي. |
 
 ### قيمة الإرجاع
 
-أقرب ميزة للإحداثي المقدم.
+أقرب feature إلى الإحداثي المقدم.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../feature/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## NearestTo(IPoint) {#nearestto}
 
-يحصل على أقرب ميزة إلى النقطة المتوفرة.
+يحصل على أقرب ميزة إلى النقطة المقدمة.
 
 ```csharp
 public Feature NearestTo(IPoint point)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| point | IPoint | النقطة. |
+| نقطة | IPoint | النقطة. |
 
 ### قيمة الإرجاع
 
-أقرب ميزة إلى النقطة المتوفرة.
+أقرب feature إلى النقطة المقدمة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | النقطة هي`null`. |
+| ArgumentNullException | النقطة هي `null`. |
 | ArgumentException | النقطة فارغة أو غير صالحة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../../feature/)
 * interface [IPoint](../../../aspose.gis.geometries/ipoint/)
 * class [VectorLayer](../)
-* مساحة الاسم [Aspose.Gis](../../vectorlayer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

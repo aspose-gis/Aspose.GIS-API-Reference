@@ -1,24 +1,24 @@
 ---
-title: ProjectedSpatialReferenceSystem.AngularUnit
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystem ملكية. وحدة  تُستخدم للقيم الزاوية في SRS وللمعلمات الزاوية لـProjection . تطابق الوحدة الزاوية منBase .
+title: "ProjectedSpatialReferenceSystem.AngularUnit"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystem. الوحدة المستخدمة للقيم الزاوية في هذا SRS وللمعلمات الزاوية لـ Projection. تتطابق مع الوحدة الزاوية لـ Base"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/angularunit/
 ---
 ## ProjectedSpatialReferenceSystem.AngularUnit property
 
-وحدة ، تُستخدم للقيم الزاوية في SRS وللمعلمات الزاوية لـ[`Projection`](../projection/) . تطابق الوحدة الزاوية من[`Base`](../base/) .
+الوحدة التي تُستخدم للقيم الزاوية في هذا SRS وللمعلمات الزاوية لـ [`Projection`](../projection/). تتطابق مع الوحدة الزاوية لـ [`Base`](../base/).
 
 ```csharp
 public abstract Unit AngularUnit { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Unit](../../unit/)
 * class [ProjectedSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: AttributesConverterActions.Exclude
-second_title: Aspose.GIS لمرجع .NET API
-description: AttributesConverterActions ملكية. مجموعات true لاستبعاد السمة من الطبقة الوجهة. القيمة الأولية هيfalse .
+title: "AttributesConverterActions.Exclude"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية AttributesConverterActions. تعيين true لاستبعاد السمة من طبقة الوجهة. القيمة الأولية هي false"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/attributesconverteractions/exclude/
 ---
 ## AttributesConverterActions.Exclude property
 
-مجموعات `true` لاستبعاد السمة من الطبقة الوجهة. القيمة الأولية هي`false` .
+يضبط `true` لاستبعاد السمة من الطبقة الوجهة. القيمة الأولية هي `false`.
 
 ```csharp
 public bool Exclude { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [AttributesConverterActions](../)
-* مساحة الاسم [Aspose.Gis](../../attributesconverteractions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../attributesconverteractions/)
+* assembly [Aspose.GIS](../../../)
 
 

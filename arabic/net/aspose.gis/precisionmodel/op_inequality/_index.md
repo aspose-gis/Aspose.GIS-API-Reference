@@ -1,32 +1,32 @@
 ---
-title: PrecisionModel.op_Inequality
-second_title: Aspose.GIS لمرجع .NET API
-description: PrecisionModel طريقة. تنفذ عامل التشغيل  .
+title: "PrecisionModel.op_Inequality"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة PrecisionModel. تنفّذ المشغل"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/precisionmodel/op_inequality/
 ---
 ## PrecisionModel Inequality operator
 
-تنفذ عامل التشغيل! = .
+ينفذ العامل !=.
 
 ```csharp
 public static bool operator !=(PrecisionModel a, PrecisionModel b)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | PrecisionModel | المثال. |
-| b | PrecisionModel | المثيل B. |
+| a | PrecisionModel | الكائن A. |
+| b | PrecisionModel | الكائن B. |
 
 ### قيمة الإرجاع
 
-نتيجة عامل التشغيل .
+نتيجة المشغل.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [PrecisionModel](../)
-* مساحة الاسم [Aspose.Gis](../../precisionmodel/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../precisionmodel/)
+* assembly [Aspose.GIS](../../../)
 
 

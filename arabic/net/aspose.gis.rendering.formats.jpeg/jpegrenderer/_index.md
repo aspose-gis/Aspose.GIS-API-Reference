@@ -1,30 +1,30 @@
 ---
-title: Class JpegRenderer
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Formats.Jpeg.JpegRenderer فصل. أRenderer هذا يجعلMap في ملف JPEG.
+title: "الفئة JpegRenderer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.Rendering.Formats.Jpeg.JpegRenderer. مُعالج يعرض الخريطة في ملف JPEG"
 type: docs
-weight: 1570
+weight: 4020
 url: /ar/net/aspose.gis.rendering.formats.jpeg/jpegrenderer/
 ---
 ## JpegRenderer class
 
-أ[`Renderer`](../../aspose.gis.rendering/renderer/) هذا يجعل[`Map`](../../aspose.gis.rendering/map/) في ملف JPEG.
+مُعالج [`Renderer`](../../aspose.gis.rendering/renderer/) الذي يعرض [`Map`](../../aspose.gis.rendering/map/) في ملف JPEG.
 
 ```csharp
 public class JpegRenderer : Renderer
 ```
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | خريطة Renders . |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | خريطة Renders . |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | يعرض الخريطة. |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | يعرض الخريطة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Renderer](../../aspose.gis.rendering/renderer/)
-* مساحة الاسم [Aspose.Gis.Rendering.Formats.Jpeg](../../aspose.gis.rendering.formats.jpeg/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Formats.Jpeg](../../aspose.gis.rendering.formats.jpeg/)
+* assembly [Aspose.GIS](../../)
 
 

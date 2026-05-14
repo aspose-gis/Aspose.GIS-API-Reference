@@ -1,23 +1,23 @@
 ---
-title: GeographicSpatialReferenceSystem.DimensionsCount
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicSpatialReferenceSystem ملكية. يتم حساب أبعاد المرتجعات في SRS. بالنسبة إلى SRS الجغرافي  يمكن أن يكون هذا اثنان  إذا كان هذا SRS جغرافيًا واحدًا . ثلاثة  إذا كان هذا هو SRS المركب  والذي يتكون من SRS الفردي  والثنائي الأبعاد  والجغرافي SRS  والذي يضيف بعدًا ثالثًا.
+title: "GeographicSpatialReferenceSystem.DimensionsCount"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicSpatialReferenceSystem. تُرجع عدد الأبعاد في هذا SRS. بالنسبة إلى SRS الجغرافي يمكن أن يكون اثنين إذا كان هذا SRS جغرافيًا منفردًا. ثلاثة إذا كان هذا SRS مركبًا يتكون من SRS جغرافي ثنائي الأبعاد منفرد و SRS عمودي يضيف البُعد الثالث"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/dimensionscount/
 ---
 ## GeographicSpatialReferenceSystem.DimensionsCount property
 
-يتم حساب أبعاد المرتجعات في SRS. بالنسبة إلى SRS الجغرافي ، يمكن أن يكون هذا: اثنان - إذا كان هذا SRS جغرافيًا واحدًا . ثلاثة - إذا كان هذا هو SRS المركب ، والذي يتكون من SRS الفردي ، والثنائي الأبعاد ، والجغرافي SRS ، والذي يضيف بعدًا ثالثًا.
+يرجع عدد الأبعاد في هذا النظام الإحداثي (SRS). بالنسبة لنظام الإحداثيات الجغرافي يمكن أن يكون: اثنان - إذا كان هذا نظام إحداثيات جغرافي فردي. ثلاثة - إذا كان هذا نظام إحداثيات مركب، يتكون من نظام إحداثيات جغرافي ثنائي الأبعاد ونظام إحداثيات عمودي، مما يضيف البُعد الثالث.
 
 ```csharp
 public abstract int DimensionsCount { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

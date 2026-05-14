@@ -1,7 +1,7 @@
 ---
-title: MapInfoInterchangeDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: MapInfoInterchangeDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة.
+title: "MapInfoInterchangeDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MapInfoInterchangeDriver. تحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات متجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /ar/net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/cano
 public override bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات المتجهات؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [MapInfoInterchangeDriver](../)
-* مساحة الاسم [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangedriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

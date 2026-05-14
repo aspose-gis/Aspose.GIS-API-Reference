@@ -1,37 +1,37 @@
 ---
-title: SpatialReferenceSystemTransformation.SpatialReferenceSystemTransformation
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystemTransformation البناء. إنشاء مثيل جديد .
+title: "SpatialReferenceSystemTransformation.SpatialReferenceSystemTransformation"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SpatialReferenceSystemTransformation. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/spatialreferencesystemtransformation/
 ---
 ## SpatialReferenceSystemTransformation constructor
 
-إنشاء مثيل جديد .
+ينشئ مثيلًا جديدًا.
 
 ```csharp
 public SpatialReferenceSystemTransformation(SpatialReferenceSystem sourceSrs, 
     SpatialReferenceSystem targetSrs)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| sourceSrs | SpatialReferenceSystem | مصدر[`SpatialReferenceSystem`](../../spatialreferencesystem/) . |
-| targetSrs | SpatialReferenceSystem | هدف[`SpatialReferenceSystem`](../../spatialreferencesystem/) . |
+| sourceSrs | SpatialReferenceSystem | المصدر [`SpatialReferenceSystem`](../../spatialreferencesystem/). |
+| targetSrs | SpatialReferenceSystem | الهدف [`SpatialReferenceSystem`](../../spatialreferencesystem/). |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| NotSupportedException | لا يتم دعم التحول بين أنظمة الإسناد المكاني. |
-| [TransformationException](../../transformationexception/) | فشل التحويل في الإنشاء بسبب معلمات خاطئة داخل SRS. |
+| NotSupportedException | التحويل بين أنظمة الإسناد الفضائية المعطاة غير مدعوم. |
+| [TransformationException](../../transformationexception/) | فشل إنشاء التحويل بسبب معلمات خاطئة داخل SRS. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [SpatialReferenceSystemTransformation](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
+* assembly [Aspose.GIS](../../../)
 
 

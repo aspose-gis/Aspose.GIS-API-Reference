@@ -1,23 +1,23 @@
 ---
-title: ProjectedSpatialReferenceSystem.AsProjected
-second_title: Aspose.GIS لمرجع .NET API
-description: ProjectedSpatialReferenceSystem ملكية. إرجاع هذا .
+title: "ProjectedSpatialReferenceSystem.AsProjected"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية ProjectedSpatialReferenceSystem. إرجاع هذا"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/asprojected/
 ---
 ## ProjectedSpatialReferenceSystem.AsProjected property
 
-إرجاع هذا .
+إرجاع هذا.
 
 ```csharp
 public ProjectedSpatialReferenceSystem AsProjected { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [ProjectedSpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

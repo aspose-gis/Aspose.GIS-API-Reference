@@ -1,24 +1,24 @@
 ---
-title: GpxOptions.MAttribute
-second_title: Aspose.GIS لمرجع .NET API
-description: GpxOptions ملكية. تحديد سمة GPX التي سيتم تصديرها على أنها إحداثي M للإحداثيات ونقاط المسار ونقاط المسار. السلوك هو نفسه معZAttribute  الافتراضيات إلىnull .
+title: "GpxOptions.MAttribute"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GpxOptions. تحدد أي سمة GPX سيتم تصديرها كإحداثي M لنقاط الطريق ونقاط المسار ونقاط الطريق. السلوك هو نفسه مع ZAttribute والقيمة الافتراضية هي null"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.gpx/gpxoptions/mattribute/
 ---
 ## GpxOptions.MAttribute property
 
-تحديد سمة GPX التي سيتم تصديرها على أنها إحداثي "M" للإحداثيات ونقاط المسار ونقاط المسار. السلوك هو نفسه مع[`ZAttribute`](../zattribute/) ، الافتراضيات إلى`null` .
+تحدد أي سمة GPX سيتم تصديرها كإحداثي 'M' لنقاط الطريق ونقاط المسار ونقاط الطريق. السلوك هو نفسه مع [`ZAttribute`](../zattribute/)، والقيمة الافتراضية هي `null`.
 
 ```csharp
 public string MAttribute { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * property [ZAttribute](../zattribute/)
 * class [GpxOptions](../)
-* مساحة الاسم [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

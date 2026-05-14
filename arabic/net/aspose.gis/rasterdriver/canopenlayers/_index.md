@@ -1,27 +1,27 @@
 ---
-title: RasterDriver.CanOpenLayers
-second_title: Aspose.GIS لمرجع .NET API
-description: RasterDriver ملكية. يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات البيانات النقطية.
+title: "RasterDriver.CanOpenLayers"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية RasterDriver. تحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات الراستر"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/rasterdriver/canopenlayers/
 ---
 ## RasterDriver.CanOpenLayers property
 
-يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات البيانات النقطية.
+يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية.
 
 ```csharp
 public abstract bool CanOpenLayers { get; }
 ```
 
-### Property_Value
+### Property Value
 
-`true` ، إذا كان برنامج التشغيل هذا يمكنه فتح طبقات البيانات النقطية ؛ خلاف ذلك،`false` .
+`true`، إذا كان هذا السائق يمكنه فتح طبقات النقطية؛ وإلا `false`.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [RasterDriver](../)
-* مساحة الاسم [Aspose.Gis](../../rasterdriver/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../rasterdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

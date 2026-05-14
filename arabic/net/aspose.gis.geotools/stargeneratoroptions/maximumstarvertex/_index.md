@@ -1,23 +1,23 @@
 ---
-title: StarGeneratorOptions.MaximumStarVertex
-second_title: Aspose.GIS لمرجع .NET API
-description: StarGeneratorOptions ملكية. الحد الأقصى للرأس الخارجي للجانب الناتج.
+title: "StarGeneratorOptions.MaximumStarVertex"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية StarGeneratorOptions. الحد الأقصى للنقطة الخارجية للجانب المُولد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/maximumstarvertex/
 ---
 ## StarGeneratorOptions.MaximumStarVertex property
 
-الحد الأقصى للرأس الخارجي للجانب الناتج.
+الحد الأقصى للنقطة الخارجية للجانب المُولد.
 
 ```csharp
 public int MaximumStarVertex { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [StarGeneratorOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

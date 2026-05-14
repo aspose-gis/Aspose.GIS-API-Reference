@@ -1,44 +1,44 @@
 ---
-title: Feature.SetValue
-second_title: Aspose.GIS لمرجع .NET API
-description: Feature طريقة. يعين قيمة جديدة للسمة .
+title: "Feature.SetValue"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Feature. تعيين قيمة جديدة لسمة."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/feature/setvalue/
 ---
 ## Feature.SetValue&lt;T&gt; method
 
-يعين قيمة جديدة للسمة .
+يضبط قيمة جديدة لسمة.
 
 ```csharp
 public void SetValue<T>(string attributeName, T value)
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
 | T | نوع القيمة. |
-| attributeName | اسم السمة. |
-| value | قيمة السمة. |
+| attributeName | اسم الخاصية. |
+| قيمة | قيمة السمة. |
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم السمة هو`null`. |
+| ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
-| InvalidOperationException | السمة غير مؤمنة. |
-| InvalidCastException | لا يتم تنفيذ نوع القيمةIConvertible. |
+| InvalidOperationException | السمة غير مقفلة. |
+| InvalidCastException | نوع القيمة لا يُطبق الواجهة IConvertible. |
 | FormatException | فشل التحويل لأن القيمة بتنسيق غير صحيح. |
 | OverflowException | فشل التحويل بسبب تجاوز السعة. |
 
-### ملاحظات
+## ملاحظات
 
-تقوم هذه الطريقة بتحويل القيمة تلقائيًا إلى نوع السمة.
+تحول هذه الطريقة القيمة تلقائيًا إلى نوع السمة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Feature](../)
-* مساحة الاسم [Aspose.Gis](../../feature/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

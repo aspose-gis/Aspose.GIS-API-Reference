@@ -1,23 +1,23 @@
 ---
-title: KmlAbstractColorStyle.KmlAbstractColorStyle
-second_title: Aspose.GIS لمرجع .NET API
-description: KmlAbstractColorStyle البناء. Default_Constructor
+title: "KmlAbstractColorStyle.KmlAbstractColorStyle"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ KmlAbstractColorStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/kmlabstractcolorstyle/
 ---
 ## KmlAbstractColorStyle constructor
 
-Default_Constructor
+المُنشئ الافتراضي.
 
 ```csharp
 public KmlAbstractColorStyle()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [KmlAbstractColorStyle](../)
-* مساحة الاسم [Aspose.Gis.Formats.Kml.Styles](../../kmlabstractcolorstyle/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlabstractcolorstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

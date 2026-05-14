@@ -1,23 +1,23 @@
 ---
-title: GeographicDatum.Wgs84
-second_title: Aspose.GIS لمرجع .NET API
-description: GeographicDatum ملكية. WGS 84 datum.
+title: "GeographicDatum.Wgs84"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية GeographicDatum. مرجع WGS 84"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/wgs84/
 ---
 ## GeographicDatum.Wgs84 property
 
-WGS 84 datum.
+المرجع WGS 84.
 
 ```csharp
 public static GeographicDatum Wgs84 { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [GeographicDatum](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

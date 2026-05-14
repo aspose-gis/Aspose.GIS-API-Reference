@@ -1,14 +1,14 @@
 ---
-title: Class IdentifiableObject
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.SpatialReferencing.IdentifiableObject فصل. يمثل كائنًا قد يحتوي على اسم ورمز EPSG.
+title: "الفئة IdentifiableObject"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "الفئة Aspose.Gis.SpatialReferencing.IdentifiableObject. تمثل كائنًا قد يحتوي على رمز EPSG واسم."
 type: docs
-weight: 2150
+weight: 4600
 url: /ar/net/aspose.gis.spatialreferencing/identifiableobject/
 ---
 ## IdentifiableObject class
 
-يمثل كائنًا قد يحتوي على اسم ورمز EPSG.
+يمثل كائنًا قد يحتوي على رمز EPSG واسم.
 
 ```csharp
 public class IdentifiableObject
@@ -16,21 +16,21 @@ public class IdentifiableObject
 
 ## الخصائص
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف الكائنات هذا هو معرف EPSG - قم بإرجاع الكود الخاص به. خلاف ذلك - إرجاع -1 . |
-| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرّف هذا الكائن القابل للتحديد . |
-| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن . |
+| [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
+| [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
 
-## طُرق
+## الطرق
 
-| اسم | وصف |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | إرجاع سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

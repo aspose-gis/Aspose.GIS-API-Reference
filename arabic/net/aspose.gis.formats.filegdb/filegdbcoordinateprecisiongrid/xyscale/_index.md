@@ -1,14 +1,14 @@
 ---
-title: FileGdbCoordinatePrecisionGrid.XYScale
-second_title: Aspose.GIS لمرجع .NET API
-description: FileGdbCoordinatePrecisionGrid ملكية. الحصول على أو تحديد مقياس إحداثيات X و Y. إذا تم التعيين علىnull الافتراضي هو المستخدم.
+title: "FileGdbCoordinatePrecisionGrid.XYScale"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعيين مقياس إحداثيات X و Y. إذا تم تعيينها إلى null يتم استخدام القيمة الافتراضية."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.XYScale property
 
-الحصول على أو تحديد مقياس إحداثيات X و Y. إذا تم التعيين على`null` الافتراضي هو المستخدم.
+يحصل أو يضبط مقياس إحداثيات X و Y. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
 
 ```csharp
 public double? XYScale { get; set; }
@@ -16,18 +16,18 @@ public double? XYScale { get; set; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الحجة ليست إيجابية. |
+| ArgumentOutOfRangeException | المعطى ليس إيجابيًا. |
 
-### ملاحظات
+## ملاحظات
 
-القيمة الافتراضية هي`1e9` ل[`VectorLayer`](../../../aspose.gis/vectorlayer/)مع الجغرافيا[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) و`XYScale = 1 / XY التسامح * 10` ل[`VectorLayer`](../../../aspose.gis/vectorlayer/) with المتوقع[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) .
+القيمة الافتراضية هي `1e9` لـ [`VectorLayer`](../../../aspose.gis/vectorlayer/) مع نظام إحداثي جغرافي [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) و `XYScale = 1 / XYTolerance * 10` لـ [`VectorLayer`](../../../aspose.gis/vectorlayer/) مع نظام إحداثي مسقَّط [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/).
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FileGdbCoordinatePrecisionGrid](../)
-* مساحة الاسم [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbcoordinateprecisiongrid/)
+* assembly [Aspose.GIS](../../../)
 
 

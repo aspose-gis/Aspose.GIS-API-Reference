@@ -1,40 +1,41 @@
 ---
-title: SpatialReferenceSystem.CreateLocal
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. إنشاء SRS محلي .
+title: "SpatialReferenceSystem.CreateLocal"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. إنشاء نظام إحداثيات محلي."
 type: docs
 weight: 370
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createlocal/
 ---
 ## SpatialReferenceSystem.CreateLocal method
 
-إنشاء SRS محلي .
+إنشاء نظام إسناد مكاني محلي.
 
 ```csharp
 public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum datum, Unit unit, 
     ICollection<Axis> axises, Identifier identifier = null)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم SRS. |
-| datum | LocalDatum | مرجع لاستخدامه في SRS. |
-| unit | Unit | وحدة لاستخدامها في SRS. |
-| axises | ICollection`1 | المحاور التي سيتم استخدامها في SRS. يجب ألا يكون فارغًا |
-| identifier | Identifier | المعرف الذي سيتم إرفاقه بـ SRS. لن يؤدي إرفاق معرّف إلى تعديل معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
+| الاسم | String | اسم نظام الإسناد المكاني. |
+| نقطة إسناد | نقطة إسناد محلية | الـ Datum لاستخدامه في SRS. |
+| وحدة | وحدة | الوحدة المستخدمة في نظام الإسناد المكاني. |
+| محاور | ICollection`1 | المحاور المستخدمة في نظام الإسناد المكاني. يجب ألا تكون فارغة |
+| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
 
 ### قيمة الإرجاع
 
-SRS محلي جديد.
+نظام إسناد مكاني محلي جديد.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | *axises* فارغ. |
-| ArgumentNullException | أي حجة ، باستثناء*identifier* باطل. |
+| InvalidOperationException | يجب أن يكون هناك محور واحد على الأقل. |
+| InvalidOperationException | *محاور* فارغة. |
+| ArgumentNullException | أي وسيط، باستثناء *identifier* هو null. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [LocalSpatialReferenceSystem](../../localspatialreferencesystem/)
 * class [LocalDatum](../../localdatum/)
@@ -42,7 +43,7 @@ SRS محلي جديد.
 * class [Axis](../../axis/)
 * class [Identifier](../../identifier/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

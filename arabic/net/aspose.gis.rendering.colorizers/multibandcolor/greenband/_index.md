@@ -1,24 +1,24 @@
 ---
-title: MultiBandColor.GreenBand
-second_title: Aspose.GIS لمرجع .NET API
-description: MultiBandColor ملكية. يحدد المكون الأخضر لخطوط المسح لدينا.
+title: "MultiBandColor.GreenBand"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية MultiBandColor. تحدد المكوّن الأخضر للراستر الخاص بنا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/greenband/
 ---
 ## MultiBandColor.GreenBand property
 
-يحدد المكون الأخضر لخطوط المسح لدينا.
+يحدد المكوّن الأخضر للراستر الخاص بنا.
 
 ```csharp
 public BandColor GreenBand { get; set; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../../bandcolor/)
 * class [MultiBandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../multibandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

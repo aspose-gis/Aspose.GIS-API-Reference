@@ -1,23 +1,23 @@
 ---
-title: NullColorizer.Instance
-second_title: Aspose.GIS لمرجع .NET API
-description: NullColorizer ملكية. يحصل على مثيلNullColorizer .
+title: "NullColorizer.Instance"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية NullColorizer. يحصل على نسخة من NullColorizer"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.colorizers/nullcolorizer/instance/
 ---
 ## NullColorizer.Instance property
 
-يحصل على مثيل`NullColorizer` .
+يحصل على نسخة من `NullColorizer`.
 
 ```csharp
 public static NullColorizer Instance { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [NullColorizer](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../nullcolorizer/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../nullcolorizer/)
+* assembly [Aspose.GIS](../../../)
 
 

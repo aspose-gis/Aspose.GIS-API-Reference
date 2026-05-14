@@ -1,23 +1,23 @@
 ---
-title: Axis.IsUpDownAxis
-second_title: Aspose.GIS لمرجع .NET API
-description: Axis ملكية. يكتشف ما إذا كان اتجاه المحور لأعلى أو لأسفل.
+title: "Axis.IsUpDownAxis"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية Axis. يكتشف ما إذا كان اتجاه المحور أعلى أو أسفل"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/axis/isupdownaxis/
 ---
 ## Axis.IsUpDownAxis property
 
-يكتشف ما إذا كان اتجاه المحور لأعلى أو لأسفل.
+يكشف ما إذا كان اتجاه المحور أعلى أو أسفل.
 
 ```csharp
 public bool IsUpDownAxis { get; }
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Axis](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../axis/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../axis/)
+* assembly [Aspose.GIS](../../../)
 
 

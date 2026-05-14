@@ -1,29 +1,29 @@
 ---
-title: Enum RenderingOrder
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Rendering.Symbolizers.RenderingOrder تعداد. يحدد ترتيب العرض .
+title: "التعداد RenderingOrder"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "التعداد Aspose.Gis.Rendering.Symbolizers.RenderingOrder. يحدد ترتيب العرض."
 type: docs
-weight: 1910
+weight: 4360
 url: /ar/net/aspose.gis.rendering.symbolizers/renderingorder/
 ---
 ## RenderingOrder enumeration
 
-يحدد ترتيب العرض .
+يحدد ترتيب العرض.
 
 ```csharp
 public enum RenderingOrder
 ```
 
-### قيم
+### القيم
 
-| اسم | قيمة | وصف |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| ByFeatures | `0` | تقديم ميزة مع جميع الرموز ، ثم انتقل إلى الميزة التالية. |
-| ByLayers | `1` | اعرض جميع الميزات باستخدام رمز ، ثم تابع الرسم إلى الرمز التالي. |
+| ByFeatures | `0` | ارسم الميزة مع جميع الرموز، ثم انتقل إلى الميزة التالية. |
+| ByLayers | `1` | ارسم جميع الميزات باستخدام رمز واحد، ثم استمر في رسم الميزات إلى الرمز التالي. |
 
-### أنظر أيضا
+### انظر أيضًا
 
-* مساحة الاسم [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* المجسم [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,40 +1,40 @@
 ---
-title: SpatialReferenceSystem.CreateFromWkt
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystem طريقة. ينشئ ملفًا جديدًانظام المرجع المكاني استنادًا إلى سلسلة WKT نص معروف جيدًا.
+title: "SpatialReferenceSystem.CreateFromWkt"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystem. تنشئ SpatialReferenceSystem جديدة بناءً على سلسلة نصية WKT WellKnown Text"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createfromwkt/
 ---
 ## SpatialReferenceSystem.CreateFromWkt method
 
-ينشئ ملفًا جديدًا`نظام المرجع المكاني` استنادًا إلى سلسلة WKT (نص معروف جيدًا).
+ينشئ `SpatialReferenceSystem` جديدًا بناءً على سلسلة WKT (نص معروف جيدًا).
 
 ```csharp
 public static SpatialReferenceSystem CreateFromWkt(string wkt)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
 | wkt | String | سلسلة WKT. |
 
 ### قيمة الإرجاع
 
-جديد`نظام المرجع المكاني` .
+جديد `SpatialReferenceSystem`.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الحجة`null` . |
-| FormatException | التسلسل الهرمي لقيم wkt ، ترتيبها أو أنواعها ، غير صحيح. |
-| NotSupportedException | عنصر جذر WKT غير مدعوم (على سبيل المثال هو FITTED_CS). |
+| ArgumentNullException | الوسيط هو `null`. |
+| FormatException | تسلسل قيم wkt، ترتيبها أو أنواعها، غير صحيح. |
+| NotSupportedException | عنصر الجذر WKT غير مدعوم (على سبيل المثال هو FITTED_CS). |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * method [TryCreateFromWkt](../trycreatefromwkt/)
 * class [SpatialReferenceSystem](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

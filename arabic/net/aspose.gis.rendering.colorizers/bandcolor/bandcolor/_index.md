@@ -1,23 +1,23 @@
 ---
-title: BandColor.BandColor
-second_title: Aspose.GIS لمرجع .NET API
-description: BandColor البناء. Default_Constructor
+title: "BandColor.BandColor"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ BandColor. يهيء مثيلاً جديدًا من الفئة BandColor"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/bandcolor/
 ---
 ## BandColor constructor
 
-Default_Constructor
+يهيء مثيلاً جديدًا من الفئة [`BandColor`](../).
 
 ```csharp
 public BandColor()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [BandColor](../)
-* مساحة الاسم [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Point.Clone
-second_title: Aspose.GIS لمرجع .NET API
-description: Point طريقة. استنساخ هذا المثال .
+title: "Point.Clone"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Point. تنسخ هذا الكائن"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/point/clone/
 ---
 ## Point.Clone method
 
-استنساخ هذا المثال .
+ينسخ هذا الكائن.
 
 ```csharp
 public override Geometry Clone()
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-استنساخ هذا المثال
+نسخة هذا المثيل
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../geometry/)
 * class [Point](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../point/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

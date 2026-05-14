@@ -1,7 +1,7 @@
 ---
-title: Polygon.Equals
-second_title: Aspose.GIS لمرجع .NET API
-description: Polygon طريقة. يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي.
+title: "Polygon.Equals"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Polygon. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/polygon/equals/
@@ -14,20 +14,20 @@ url: /ar/net/aspose.gis.geometries/polygon/equals/
 public bool Equals(ICurvePolygon other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | ICurvePolygon | الكائن مقارنة مع الكائن الحالي. |
+| آخر | ICurvePolygon | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن المحدد يساوي الكائن الحالي ؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [ICurvePolygon](../../icurvepolygon/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -39,20 +39,20 @@ public bool Equals(ICurvePolygon other)
 public bool Equals(IPolygon other)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | IPolygon | الكائن مقارنة مع الكائن الحالي. |
+| آخر | IPolygon | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن المحدد يساوي الكائن الحالي ؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPolygon](../../ipolygon/)
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -64,18 +64,18 @@ public bool Equals(IPolygon other)
 public override bool Equals(object obj)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الكائن مقارنة مع الكائن الحالي. |
+| obj | Object | الكائن للمقارنة مع الكائن الحالي. |
 
 ### قيمة الإرجاع
 
-صواب إذا كان الكائن المحدد يساوي الكائن الحالي ؛ خلاف ذلك ، خطأ.
+true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Polygon](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../polygon/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

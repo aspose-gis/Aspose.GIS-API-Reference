@@ -1,39 +1,39 @@
 ---
-title: FeaturesSequence.WhereSmaller
-second_title: Aspose.GIS لمرجع .NET API
-description: FeaturesSequence طريقة. يختار المعالم ذات قيمة السمة أصغر من القيمة المقدمة.
+title: "FeaturesSequence.WhereSmaller"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة FeaturesSequence. تختار العناصر ذات قيمة السمة أصغر من القيمة المقدمة"
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.gis/featuressequence/wheresmaller/
 ---
 ## FeaturesSequence.WhereSmaller&lt;T&gt; method
 
-يختار المعالم ذات قيمة السمة أصغر من القيمة المقدمة.
+يختار المعالم التي تكون قيمة السمة أصغر من القيمة المقدمة.
 
 ```csharp
 public virtual FeaturesSequence WhereSmaller<T>(string attributeName, T value)
 ```
 
-| معامل | وصف |
+| معامل | الوصف |
 | --- | --- |
-| T | نوع القيمة المراد المقارنة بها. |
-| attributeName | السمة للتصفية حسب. |
-| value | قيمة للمقارنة بها. |
+| T | نوع القيمة للمقارنة ضدها. |
+| attributeName | السمة التي يتم الترشيح بناءً عليها. |
+| قيمة | القيمة للمقارنة ضدها. |
 
 ### قيمة الإرجاع
 
-المعالم ذات قيمة السمة أصغر من القيمة المقدمة.
+العناصر ذات قيمة السمة أصغر من القيمة المقدمة.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل الميزات هذا. |
+| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل العناصر هذا. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [FeaturesSequence](../)
-* مساحة الاسم [Aspose.Gis](../../featuressequence/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

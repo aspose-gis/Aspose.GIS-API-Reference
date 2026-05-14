@@ -1,41 +1,41 @@
 ---
-title: SpatialReferenceSystemTransformation.Transform
-second_title: Aspose.GIS لمرجع .NET API
-description: SpatialReferenceSystemTransformation طريقة. يحول الهندسة من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف.
+title: "SpatialReferenceSystemTransformation.Transform"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة SpatialReferenceSystemTransformation. تحول الشكل الهندسي من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/
 ---
 ## SpatialReferenceSystemTransformation.Transform method
 
-يحول الهندسة من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني المستهدف.
+يحول الشكل الهندسي من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف.
 
 ```csharp
 public Geometry Transform(IGeometry geometry)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometry | IGeometry | الهندسة للتحول. |
+| هندسة | IGeometry | الشكل الهندسي للتحويل. |
 
 ### قيمة الإرجاع
 
-هندسة جديدة في نظام الإسناد المكاني المستهدف.
+شكل هندسي جديد في نظام الإسناد المكاني الهدف.
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الهندسة`null` . |
-| ArgumentException | الهندسة[`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem/) ليس`null` ولا تكافئ to [`Source`](../source/) |
-| [TransformationException](../../transformationexception/) | فشل التحول. |
+| ArgumentNullException | الشكل الهندسي هو `null`. |
+| ArgumentException | الأشكال الهندسية [`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem/) ليست `null` ولا تعادل [`Source`](../source/) |
+| [TransformationException](../../transformationexception/) | فشل التحويل. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Geometry](../../../aspose.gis.geometries/geometry/)
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [SpatialReferenceSystemTransformation](../)
-* مساحة الاسم [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
+* assembly [Aspose.GIS](../../../)
 
 

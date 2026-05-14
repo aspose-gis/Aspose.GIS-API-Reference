@@ -1,43 +1,43 @@
 ---
-title: SimplifySegmentsOptions.SimplifySegmentsOptions
-second_title: Aspose.GIS لمرجع .NET API
-description: SimplifySegmentsOptions البناء. قم بإنشاء مثيل باستخدام حقول init افتراضيًا .
+title: "SimplifySegmentsOptions.SimplifySegmentsOptions"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "منشئ SimplifySegmentsOptions. إنشاء مثال مع الحقول الأولية بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/simplifysegmentsoptions/simplifysegmentsoptions/
 ---
 ## SimplifySegmentsOptions() {#constructor}
 
-قم بإنشاء مثيل باستخدام حقول init افتراضيًا .
+إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
 
 ```csharp
 public SimplifySegmentsOptions()
 ```
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimplifySegmentsOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimplifySegmentsOptions(SimplifySegmentsOptions) {#constructor_1}
 
-إنشاء نسخة من المثيل[`SimplifySegmentsOptions`](../) .
+إنشاء نسخة من المثيل [`SimplifySegmentsOptions`](../).
 
 ```csharp
 public SimplifySegmentsOptions(SimplifySegmentsOptions source)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| source | SimplifySegmentsOptions | كائن المصدر. |
+| المصدر | SimplifySegmentsOptions | كائن المصدر. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [SimplifySegmentsOptions](../)
-* مساحة الاسم [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

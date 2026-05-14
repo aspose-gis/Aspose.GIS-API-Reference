@@ -1,23 +1,23 @@
 ---
-title: Aspose.Gis.Formats.Kml
-second_title: Aspose.GIS لمرجع .NET API
-description: Aspose.Gis.Formats.Kml توفر مساحة الاسم فئات للعمل بتنسيق KML .
+title: "Aspose.Gis.Formats.Kml"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "مساحة الاسم Aspose.Gis.Formats.Kml توفر فئات للعمل مع تنسيق KML"
 type: docs
-weight: 120
+weight: 350
 url: /ar/net/aspose.gis.formats.kml/
 ---
-`Aspose.Gis.Formats.Kml` توفر مساحة الاسم فئات للعمل بتنسيق KML .
+`Aspose.Gis.Formats.Kml` مساحة الاسم توفر فئات للعمل مع صيغة KML.
 
-## الطبقات
+## الفئات
 
-| فصل | وصف |
+| فئة | الوصف |
 | --- | --- |
-| [KmlDriver](./kmldriver/) | برنامج تشغيل لتنسيق KML |
-| [KmlOptions](./kmloptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق KML . |
+| [KmlDriver](./kmldriver/) | محرك لتنسيق KML |
+| [KmlOptions](./kmloptions/) | خيارات خاصة بالمحرك لتنسيق KML. |
 ## تعداد
 
-| تعداد | وصف |
+| تعداد | الوصف |
 | --- | --- |
-| [AltitudeModes](./altitudemodes/) | وضع الارتفاع لأشكال KML الهندسية . |
+| [AltitudeModes](./altitudemodes/) | وضع الارتفاع لأشكال KML. |
 
 

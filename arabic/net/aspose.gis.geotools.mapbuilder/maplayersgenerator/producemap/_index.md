@@ -1,33 +1,33 @@
 ---
-title: MapLayersGenerator.ProduceMap
-second_title: Aspose.GIS لمرجع .NET API
-description: MapLayersGenerator طريقة. إنشاء الخريطة .
+title: "MapLayersGenerator.ProduceMap"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة MapLayersGenerator. إنتاج الخريطة"
 type: docs
-weight: 20
+weight: 30
 url: /ar/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/producemap/
 ---
 ## MapLayersGenerator.ProduceMap method
 
-إنشاء الخريطة .
+إنشاء الخريطة.
 
 ```csharp
 public static Map ProduceMap(MapGeneratorOptions options)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| options | MapGeneratorOptions | خيارات مولد الخرائط. |
+| الخيارات | MapGeneratorOptions | خيارات مولد الخريطة. |
 
 ### قيمة الإرجاع
 
 الخريطة المكتملة.
 
-### أنظر أيضا
+### انظر أيضًا
 
 * class [Map](../../../aspose.gis.rendering/map/)
 * class [MapGeneratorOptions](../../mapgeneratoroptions/)
 * class [MapLayersGenerator](../)
-* مساحة الاسم [Aspose.Gis.GeoTools.MapBuilder](../../maplayersgenerator/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../maplayersgenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

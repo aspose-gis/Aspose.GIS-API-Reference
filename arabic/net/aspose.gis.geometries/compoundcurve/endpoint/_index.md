@@ -1,14 +1,14 @@
 ---
-title: CompoundCurve.EndPoint
-second_title: Aspose.GIS لمرجع .NET API
-description: CompoundCurve ملكية. إرجاع نسخة من نقطة نهاية المنحنى.
+title: "CompoundCurve.EndPoint"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "خاصية CompoundCurve. تُرجع نسخة من نقطة النهاية للمنحنى"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/compoundcurve/endpoint/
 ---
 ## CompoundCurve.EndPoint property
 
-إرجاع نسخة من نقطة نهاية المنحنى.
+يعيد نسخة من نقطة النهاية للمنحنى.
 
 ```csharp
 public override IPoint EndPoint { get; }
@@ -16,15 +16,15 @@ public override IPoint EndPoint { get; }
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الهندسة فارغة. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IPoint](../../ipoint/)
 * class [CompoundCurve](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../compoundcurve/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,40 +1,40 @@
 ---
-title: Geometry.GetBuffer
-second_title: Aspose.GIS لمرجع .NET API
-description: Geometry طريقة. حساب منطقة عازلة حول هذه الهندسة .
+title: "Geometry.GetBuffer"
+second_title: "مرجع API لـ Aspose.GIS لـ .NET"
+description: "طريقة Geometry. تحسب منطقة العازلة حول هذه الهندسة."
 type: docs
 weight: 210
 url: /ar/net/aspose.gis.geometries/geometry/getbuffer/
 ---
 ## Geometry.GetBuffer method
 
-حساب منطقة عازلة حول هذه الهندسة .
+يحسب منطقة عازلة حول هذه الهندسة.
 
 ```csharp
 public IGeometry GetBuffer(double distance, int quadrantSegments = 30)
 ```
 
-| معامل | يكتب | وصف |
+| معامل | نوع | الوصف |
 | --- | --- | --- |
-| distance | Double | عرض منطقة المخزن المؤقت. |
-| quadrantSegments | Int32 | عدد المقاطع المستخدمة لتقريب 90 درجة من الانحناء . كلما زاد هذا الرقم ، يتم إنتاج تقريب أفضل للمنحنيات. الافتراضي هو 30. |
+| المسافة | Double | عرض منطقة العازلة. |
+| quadrantSegments | Int32 | عدد القطاعات المستخدمة لتقريب انحناء 90 درجة. كلما كان هذا العدد أكبر، كلما كان تقريب المنحنيات أفضل. القيمة الافتراضية هي 30. |
 
 ### قيمة الإرجاع
 
-شكل هندسي يمثل جميع النقاط الواقعة ضمن مسافة محددة من هذه الهندسة . نوع النتيجة إما[`Null`](../null/) و[`IPolygon`](../../ipolygon/) أو[`IMultiPolygon`](../../imultipolygon/) .
+هندسة تمثل جميع النقاط التي تقع ضمن مسافة محددة من هذه الهندسة. نوع النتيجة يكون إما [`Null`](../null/)، أو [`IPolygon`](../../ipolygon/)، أو [`IMultiPolygon`](../../imultipolygon/).
 
 ### استثناءات
 
-| استثناء | حالة |
+| استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | هذه الهندسة غير صالحة بحيث لا يمكن إتمام العملية. |
-| ArgumentOutOfRangeException | المقاطع الرباعية أقل أو تساوي 0. |
+| InvalidOperationException | هذه الهندسة غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
+| ArgumentOutOfRangeException | عدد قطاعات الربع أقل من أو يساوي 0. |
 
-### أنظر أيضا
+### انظر أيضًا
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* مساحة الاسم [Aspose.Gis.Geometries](../../geometry/)
-* المجسم [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 
