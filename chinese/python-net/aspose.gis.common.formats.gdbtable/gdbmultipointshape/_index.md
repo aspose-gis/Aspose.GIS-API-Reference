@@ -1,0 +1,41 @@
+---
+title: "GdbMultiPointShape 类"
+type: docs
+weight: 90
+url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbmultipointshape/
+---
+
+**Summary:** 
+
+**Module:** [aspose.gis.common.formats.gdbtable](/psd/python-net/aspose.gis.common.formats.gdbtable/)
+
+**Full Name:** aspose.gis.common.formats.gdbtable.GdbMultiPointShape
+
+**Inheritance:** GdbShape
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Constructors**
+| **Name** | **描述** |
+| :- | :- |
+| [GdbMultiPointShape()](#GdbMultiPointShape__1) | 初始化 GdbMultiPointShape 类的新实例 |
+## **Properties**
+| **Name** | **Type** | **Access** | **描述** |
+| :- | :- | :- | :- |
+| bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r/w |    |
+| has_m | bool | r |  |
+| has_z | bool | r |  |
+| m | double | r/w |  |
+| xy | [Coordinate[]](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
+| z | double | r/w |  |
+
+
+### Constructor: GdbMultiPointShape() {#GdbMultiPointShape__1}
+
+
+```
+ GdbMultiPointShape() 
+```
+
+初始化 GdbMultiPointShape 类的新实例
+

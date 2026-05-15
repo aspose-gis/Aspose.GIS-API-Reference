@@ -1,0 +1,44 @@
+---
+title: "AbstractPathInternalExtensions 类"
+type: docs
+weight: 20
+url: /zh/python-net/aspose.gis.common/abstractpathinternalextensions/
+---
+
+**Summary:** 
+
+**Module:** [aspose.gis.common](/psd/python-net/aspose.gis.common/)
+
+**Full Name:** aspose.gis.common.AbstractPathInternalExtensions
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Methods**
+| **Name** | **描述** |
+| :- | :- |
+| [create_or_open(path, created)](#create_or_open_path_created_1) |    |
+
+
+### Method: create_or_open(path, created)  [static] {#create_or_open_path_created_1}
+
+
+```
+ create_or_open(path, created) 
+```
+
+  
+
+**Parameters:**
+
+| 参数 | 类型 | 描述 |
+| :- | :- | :- |
+| path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
+| 已创建 | 布尔 |  |
+
+**Returns**
+
+| 类型 | 描述 |
+| :- | :- |
+| _io.BufferedRandom |  |
+
+
