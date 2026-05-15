@@ -1,7 +1,7 @@
 ---
-title: GdalOptions.PathToTempFile
-second_title: Aspose.GIS for .NET API 参考
-description: GdalOptions 财产. 临时文件的路径
+title: "GdalOptions.PathToTempFile"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GdalOptions 属性。临时文件的路径"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.gdal/gdaloptions/pathtotempfile/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.formats.gdal/gdaloptions/pathtotempfile/
 public string PathToTempFile { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GdalOptions](../)
-* 命名空间 [Aspose.Gis.Formats.GDAL](../../gdaloptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GDAL](../../gdaloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

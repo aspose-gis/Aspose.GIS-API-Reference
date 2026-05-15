@@ -1,7 +1,7 @@
 ---
-title: SimpleLabeling.FontStyle
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLabeling 财产. 应用于文本的样式
+title: "SimpleLabeling.FontStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLabeling 属性。应用于文本的样式"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/fontstyle/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/fontstyle/
 public FontStyle FontStyle { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * enum [FontStyle](../../fontstyle/)
 * class [SimpleLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

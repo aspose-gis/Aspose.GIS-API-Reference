@@ -1,38 +1,38 @@
 ---
-title: VerticalSpatialReferenceSystem.GetUnit
-second_title: Aspose.GIS for .NET API 参考
-description: VerticalSpatialReferenceSystem 方法. 得到Unit维度.
+title: "VerticalSpatialReferenceSystem.GetUnit"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VerticalSpatialReferenceSystem 方法。获取维度的单位"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/getunit/
 ---
 ## VerticalSpatialReferenceSystem.GetUnit method
 
-得到[`Unit`](../../unit/)维度.
+获取维度的 [`Unit`](../../unit/)。
 
 ```csharp
 public override Unit GetUnit(int dimension)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dimension | Int32 | 维数。 |
+| 维度 | Int32 | 维度的数量。 |
 
 ### 返回值
 
-尺寸单位。
+维度的单位。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension*小于 0 或大于或等于[`DimensionsCount`](../dimensionscount/) |
+| ArgumentOutOfRangeException | *dimension* 小于 0 或大于或等于 [`DimensionsCount`](../dimensionscount/) |
 
-### 也可以看看
+### 另见
 
 * class [Unit](../../unit/)
 * class [VerticalSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../verticalspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

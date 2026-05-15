@@ -1,23 +1,23 @@
 ---
-title: KmlFeatureStyle.KmlFeatureStyle
-second_title: Aspose.GIS for .NET API 参考
-description: KmlFeatureStyle 构造函数. 默认构造函数
+title: "KmlFeatureStyle.KmlFeatureStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlFeatureStyle 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/kmlfeaturestyle/
 ---
 ## KmlFeatureStyle constructor
 
-默认构造函数。
+创建新实例。
 
 ```csharp
 public KmlFeatureStyle()
 ```
 
-### 也可以看看
+### 另见
 
 * class [KmlFeatureStyle](../)
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlfeaturestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: IGeometryCollection.GetPointOnSurface
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometryCollection 方法. 找到保证位于该集合中的一个表面上的点
+title: "IGeometryCollection.GetPointOnSurface"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometryCollection 方法。查找一个保证位于此集合中某个表面的点"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/igeometrycollection/getpointonsurface/
 ---
 ## IGeometryCollection.GetPointOnSurface method
 
-找到保证位于该集合中的一个表面上的点。
+查找一个保证位于此集合中某个表面的点。
 
 ```csharp
 public IPoint GetPointOnSurface()
@@ -16,13 +16,13 @@ public IPoint GetPointOnSurface()
 
 ### 返回值
 
-其中一个曲面上的一个点。如果此集合不包含曲面或所有曲面都是空的，则为空点。
+一个位于某个表面的点。如果此集合不包含表面或所有表面均为空，则返回一个空点。
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * interface [IGeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

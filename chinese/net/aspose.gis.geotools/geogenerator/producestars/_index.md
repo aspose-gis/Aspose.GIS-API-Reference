@@ -1,44 +1,44 @@
 ---
-title: GeoGenerator.ProduceStars
-second_title: Aspose.GIS for .NET API 参考
-description: GeoGenerator 方法. 创建一个星星数组所有星星都在给定范围内
+title: "GeoGenerator.ProduceStars"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeoGenerator 方法。创建一个星形数组，所有星形都位于给定范围内"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geotools/geogenerator/producestars/
 ---
 ## GeoGenerator.ProduceStars method
 
-创建一个星星数组，所有星星都在给定范围内。
+创建一个星形数组，所有星形都位于给定范围内。
 
 ```csharp
 public static IEnumerable<IPolygon> ProduceStars(Extent rect, StarGeneratorOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Extent | 指定区域（见[`程度`](../../../aspose.gis/extent/)) |
-| options | StarGeneratorOptions | 多边形创建选项（请参阅[`StarGenerator选项`](../../stargeneratoroptions/)) |
+| rect | Extent | 指定区域（参见 [`Extent`](../../../aspose.gis/extent/)） |
+| options | StarGeneratorOptions | 多边形创建选项（参见 [`StarGeneratorOptions`](../../stargeneratoroptions/)） |
 
 ### 返回值
 
-恒星阵列（见枚举[`多边形`](../../../aspose.gis.geometries/ipolygon/))
+星形数组（参见 [`IPolygon`](../../../aspose.gis.geometries/ipolygon/) 的枚举）
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 星星的数量必须大于一颗。 |
-| NullReferenceException | 范围必须有一个值（不能为 NULL） |
-| ArgumentException | 最小和最大长度必须不相等且大于 3 |
+| ArgumentOutOfRangeException | 星形数量必须大于 1。 |
+| NullReferenceException | Extent 必须有值（不能为空） |
+| ArgumentException | 最小长度和最大长度必须不相等且大于 3 |
 | ArgumentException | 最大长度必须大于最小长度 |
 
-### 也可以看看
+### 另见
 
 * interface [IPolygon](../../../aspose.gis.geometries/ipolygon/)
 * class [Extent](../../../aspose.gis/extent/)
 * class [StarGeneratorOptions](../../stargeneratoroptions/)
 * class [GeoGenerator](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../geogenerator/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geogenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,27 +1,27 @@
 ---
-title: Identifier.AuthorityUniqueIdentifier
-second_title: Aspose.GIS for .NET API 参考
-description: Identifier 财产. 一种在AuthorityName.
+title: "Identifier.AuthorityUniqueIdentifier"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Identifier 属性。在 AuthorityName 中表示对象的唯一方式"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/identifier/authorityuniqueidentifier/
 ---
 ## Identifier.AuthorityUniqueIdentifier property
 
-一种在[`AuthorityName`](../authorityname/).
+在 [`AuthorityName`](../authorityname/) 中表示对象的唯一方式。
 
 ```csharp
 public string AuthorityUniqueIdentifier { get; }
 ```
 
-### 例子
+## 示例
 
 4326
 
-### 也可以看看
+### 另见
 
 * class [Identifier](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../identifier/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,37 +1,37 @@
 ---
-title: SpatialReferenceSystem.TryCreateTransformationTo
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 方法. 从中创建转换空间参考系统给另一个空间参考系统.
+title: "SpatialReferenceSystem.TryCreateTransformationTo"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 方法。创建从此 SpatialReferenceSystem 到另一个 SpatialReferenceSystem 的转换"
 type: docs
 weight: 230
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatetransformationto/
 ---
 ## SpatialReferenceSystem.TryCreateTransformationTo method
 
-从中创建转换`空间参考系统`给另一个`空间参考系统`.
+创建从此 `SpatialReferenceSystem` 到另一个 `SpatialReferenceSystem` 的转换。
 
 ```csharp
 public bool TryCreateTransformationTo(SpatialReferenceSystem targetSrs, 
     out SpatialReferenceSystemTransformation value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | 其他`空间参考系统`. |
-| value | SpatialReferenceSystemTransformation& | 当此方法返回时`true` , 包含转换；否则，包含`null`. |
+| targetSrs | SpatialReferenceSystem | 另一个 `SpatialReferenceSystem`。 |
+| 值 | SpatialReferenceSystemTransformation& | 当此方法返回 `true` 时，包含一个转换；否则，包含 `null`。 |
 
 ### 返回值
 
-由此改造`空间参考系统`给另一个`空间参考系统`.
+从此 `SpatialReferenceSystem` 到另一个 `SpatialReferenceSystem` 的转换。
 
-`true`如果成功创建转换；`false`否则。
+`true` 表示转换成功创建；`false` 表示未成功。
 
-### 也可以看看
+### 另见
 
 * method [CreateTransformationTo](../createtransformationto/)
 * class [SpatialReferenceSystemTransformation](../../spatialreferencesystemtransformation/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

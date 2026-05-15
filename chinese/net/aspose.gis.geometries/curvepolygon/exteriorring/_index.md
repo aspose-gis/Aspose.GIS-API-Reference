@@ -1,34 +1,34 @@
 ---
-title: CurvePolygon.ExteriorRing
-second_title: Aspose.GIS for .NET API 参考
-description: CurvePolygon 财产. 获取外环
+title: "CurvePolygon.ExteriorRing"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CurvePolygon 属性。获取外部环"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/curvepolygon/exteriorring/
 ---
 ## CurvePolygon.ExteriorRing property
 
-获取外环。
+获取外部环。
 
 ```csharp
 public ICurve ExteriorRing { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-外环。
+外部环的值。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)这种几何和[`SpatialReferenceSystem`](../spatialreferencesystem/)的争论都不是`null` 并且彼此不相等。 |
+| ArgumentException | 此几何体的 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 与参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
 
-### 也可以看看
+### 另见
 
 * interface [ICurve](../../icurve/)
 * class [CurvePolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../curvepolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

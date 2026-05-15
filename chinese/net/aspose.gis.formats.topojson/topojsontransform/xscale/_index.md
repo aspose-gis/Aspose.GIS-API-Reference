@@ -1,23 +1,23 @@
 ---
-title: TopoJsonTransform.XScale
-second_title: Aspose.GIS for .NET API 参考
-description: TopoJsonTransform 财产. 应用于 X 坐标的比例
+title: "TopoJsonTransform.XScale"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "TopoJsonTransform 属性。用于对 X 坐标进行缩放的 Scale。"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.topojson/topojsontransform/xscale/
 ---
 ## TopoJsonTransform.XScale property
 
-应用于 X 坐标的比例。
+对 X 坐标应用的缩放。
 
 ```csharp
 public double XScale { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [TopoJsonTransform](../)
-* 命名空间 [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
+* assembly [Aspose.GIS](../../../)
 
 

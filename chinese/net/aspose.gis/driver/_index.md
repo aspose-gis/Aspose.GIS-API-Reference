@@ -1,22 +1,22 @@
 ---
-title: Class Driver
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Driver 班级. GIS 数据驱动程序的基类
+title: "Driver 类"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Driver 类。用于 GIS 数据的驱动程序的基类。"
 type: docs
-weight: 90
+weight: 1440
 url: /zh/net/aspose.gis/driver/
 ---
 ## Driver class
 
-GIS 数据驱动程序的基类。
+用于 GIS 数据驱动程序的基类。
 
 ```csharp
 public abstract class Driver
 ```
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

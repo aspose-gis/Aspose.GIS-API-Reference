@@ -1,14 +1,14 @@
 ---
-title: Map.GetEnumerator
-second_title: Aspose.GIS for .NET API 参考
-description: Map 方法. 返回一个遍历地图中各层的枚举器
+title: "Map.GetEnumerator"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Map 方法。返回一个枚举器，用于遍历地图中的图层"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.rendering/map/getenumerator/
 ---
 ## Map.GetEnumerator method
 
-返回一个遍历地图中各层的枚举器。
+返回一个枚举器，用于遍历地图中的图层。
 
 ```csharp
 public IEnumerator<MapLayer> GetEnumerator()
@@ -16,13 +16,13 @@ public IEnumerator<MapLayer> GetEnumerator()
 
 ### 返回值
 
-一个枚举器，可用于遍历地图中的图层。
+可用于遍历地图中图层的枚举器。
 
-### 也可以看看
+### 另见
 
 * class [MapLayer](../../maplayer/)
 * class [Map](../)
-* 命名空间 [Aspose.Gis.Rendering](../../map/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,30 +1,30 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.AxisesOrder
-second_title: Aspose.GIS for .NET API 参考
-description: GeocentricSpatialReferenceSystemParameters 财产. 轴顺序默认为XYZ.
+title: "GeocentricSpatialReferenceSystemParameters.AxisesOrder"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeocentricSpatialReferenceSystemParameters 属性。轴的顺序。默认值为 XYZ"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/
 ---
 ## GeocentricSpatialReferenceSystemParameters.AxisesOrder property
 
-轴顺序。默认为XYZ.
+轴的顺序。默认是 XYZ。
 
 ```csharp
 public GeocentricAxisesOrder AxisesOrder { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 当参数不是有效的枚举成员时在 setter 中抛出。 |
+| ArgumentException | 当参数不是有效的枚举成员时，在 setter 中抛出。 |
 
-### 也可以看看
+### 另见
 
 * enum [GeocentricAxisesOrder](../../geocentricaxisesorder/)
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

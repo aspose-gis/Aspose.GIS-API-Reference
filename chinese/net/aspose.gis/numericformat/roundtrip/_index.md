@@ -1,27 +1,27 @@
 ---
-title: NumericFormat.RoundTrip
-second_title: Aspose.GIS for .NET API 参考
-description: NumericFormat 财产. 转换并尝试确保将转换为 字符串的数值解析回相同的数值
+title: "NumericFormat.RoundTrip"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "NumericFormat 属性。将数值转换为字符串后，尝试确保能够解析回相同的数值。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/numericformat/roundtrip/
 ---
 ## NumericFormat.RoundTrip property
 
-转换并尝试确保将转换为 字符串的数值解析回相同的数值。
+转换并尝试确保被转换为字符串的数值在解析回时仍保持相同的数值。
 
 ```csharp
 public static NumericFormat RoundTrip { get; }
 ```
 
-### 评论
+## 备注
 
-内部代码通过以下方式为 WKT 生成数字字符串：coordinate.ToString("R", CultureInfo.InvariantCulture) decision.
+内部代码通过以下方式为 WKT 生成数字字符串：coordinate.ToString("R", CultureInfo.InvariantCulture) 决策。
 
-### 也可以看看
+### 另见
 
 * class [NumericFormat](../)
-* 命名空间 [Aspose.Gis](../../numericformat/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../numericformat/)
+* assembly [Aspose.GIS](../../../)
 
 

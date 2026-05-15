@@ -1,7 +1,7 @@
 ---
-title: KmlLineStyle.KmlLineStyle
-second_title: Aspose.GIS for .NET API 参考
-description: KmlLineStyle 构造函数. 默认构造函数
+title: "KmlLineStyle.KmlLineStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlLineStyle 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.kml.styles/kmllinestyle/kmllinestyle/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.formats.kml.styles/kmllinestyle/kmllinestyle/
 public KmlLineStyle()
 ```
 
-### 也可以看看
+### 另见
 
 * class [KmlLineStyle](../)
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../kmllinestyle/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmllinestyle/)
+* assembly [Aspose.GIS](../../../)
 
 

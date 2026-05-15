@@ -1,32 +1,32 @@
 ---
-title: GeometryOperations.CloseLinearRing
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryOperations 方法. 如果需要关闭环中的几何段
+title: "GeometryOperations.CloseLinearRing"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryOperations 方法。关闭环中的几何段（如果需要）"
 type: docs
-weight: 10
+weight: 20
 url: /zh/net/aspose.gis.geotools/geometryoperations/closelinearring/
 ---
 ## GeometryOperations.CloseLinearRing method
 
-如果需要，关闭环中的几何段。
+如果需要，则闭合环中的几何段。
 
 ```csharp
 public static IGeometry CloseLinearRing(IGeometry geometry)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| geometry | IGeometry | 关闭几何。 |
+| 几何体 | IGeometry | 用于闭合的几何。 |
 
 ### 返回值
 
-关闭后的几何图形。
+闭合后的几何。
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [GeometryOperations](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../geometryoperations/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../geometryoperations/)
+* assembly [Aspose.GIS](../../../)
 
 

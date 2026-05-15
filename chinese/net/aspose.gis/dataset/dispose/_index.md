@@ -1,23 +1,23 @@
 ---
-title: Dataset.Dispose
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 释放所使用的资源Dataset.
+title: "Dataset.Dispose"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。 释放 Dataset 使用的资源"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/dataset/dispose/
 ---
 ## Dataset.Dispose method
 
-释放所使用的资源[`Dataset`](../).
+释放 [`Dataset`](../) 使用的资源。
 
 ```csharp
 public void Dispose()
 ```
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

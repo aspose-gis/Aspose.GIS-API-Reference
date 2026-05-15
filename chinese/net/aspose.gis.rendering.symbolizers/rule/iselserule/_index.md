@@ -1,27 +1,27 @@
 ---
-title: Rule.IsElseRule
-second_title: Aspose.GIS for .NET API 参考
-description: Rule 财产. 获取一个值指示此规则是否为elserule
+title: "Rule.IsElseRule"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Rule 属性。获取一个值，指示此规则是否为 elserule"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.symbolizers/rule/iselserule/
 ---
 ## Rule.IsElseRule property
 
-获取一个值，指示此规则是否为“else-rule”。
+获取一个值，指示此规则是否为 "else-rule"。
 
 ```csharp
 public bool IsElseRule { get; }
 ```
 
-### 评论
+## 备注
 
-如果要素不匹配任何过滤规则，则“其他规则”将符号器应用于要素。
+"Else-rule" 将符号化器应用于要素，如果要素不匹配任何过滤规则。
 
-### 也可以看看
+### 另见
 
 * class [Rule](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rule/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rule/)
+* assembly [Aspose.GIS](../../../)
 
 

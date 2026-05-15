@@ -1,9 +1,9 @@
 ---
-title: Class Metered
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Metered 班级. 提供设置计量密钥的方法
+title: "类 Metered"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Metered 类。提供设置计量密钥的方法"
 type: docs
-weight: 1280
+weight: 3420
 url: /zh/net/aspose.gis/metered/
 ---
 ## Metered class
@@ -16,16 +16,16 @@ public class Metered
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit/)() | 获得消费积分 |
-| static [GetConsumptionQuantity](../../aspose.gis/metered/getconsumptionquantity/)() | 获取消费文件大小 |
-| static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey/)() | 删除之前设置的 license |
-| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey/)(string, string) | 设置计量公钥和私钥 |
+| static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit/)() | 获取消耗积分 |
+| static [GetConsumptionQuantity](../../aspose.gis/metered/getconsumptionquantity/)() | 获取消耗的文件大小 |
+| static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey/)() | 移除先前设置的许可证 |
+| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey/)(string, string) | 设置计量公共密钥和私有密钥 |
 
-### 例子
+## 示例
 
-在此示例中，将尝试设置计量公钥和私钥
+在此示例中，将尝试设置计量公共密钥和私有密钥
 
 ```csharp
 [C#]
@@ -38,9 +38,15 @@ Metered.SetMeteredKey("PublicKey", "PrivateKey");
 Metered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-### 也可以看看
+组件 jar 文件：
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+```csharp
+Metered.setMeteredKey("PublicKey", "PrivateKey");
+```
+
+### 另见
+
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

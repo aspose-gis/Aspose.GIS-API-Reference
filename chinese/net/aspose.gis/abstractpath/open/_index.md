@@ -1,35 +1,35 @@
 ---
-title: AbstractPath.Open
-second_title: Aspose.GIS for .NET API 参考
-description: AbstractPath 方法. 打开这个抽象路径作为文件.
+title: "AbstractPath.Open"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "AbstractPath 方法。将此 AbstractPath 作为文件打开"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis/abstractpath/open/
 ---
 ## AbstractPath.Open method
 
-打开这个`抽象路径`作为文件.
+将此 `AbstractPath` 作为文件打开。
 
 ```csharp
 public abstract Stream Open(FileAccess access)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| access | FileAccess | 指定可以在一个对象上执行的操作的子集Stream. |
+| 访问 | FileAccess | 指定可以在 Stream 上执行的操作子集。 |
 
 ### 返回值
 
-AStream用指定的打开FileAccess.
+使用指定的 FileAccess 打开的 Stream。
 
-### 评论
+## 备注
 
-如果*access*有国旗Write已设置，但文件不存在， 继承人必须创建它。 一个`抽象路径`可以多次打开`Aspose地理信息系统`.这是使用多个流独立读取 file 所必需的。你不应该缓存结果，而是返回新的Stream每次 调用此方法。
+如果 *access* 设置了 Write 标志，并且文件不存在，继承者必须创建它。`AbstractPath` 可以被 `Aspose.GIS` 多次打开。这是为了能够使用多个流独立读取文件所必需的。您不应缓存结果，而应在每次调用此方法时返回新的 Stream。
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../)
-* 命名空间 [Aspose.Gis](../../abstractpath/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

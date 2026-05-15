@@ -1,7 +1,7 @@
 ---
-title: ICurve.EndPoint
-second_title: Aspose.GIS for .NET API 参考
-description: ICurve 财产. 返回曲线终点的副本
+title: "ICurve.EndPoint"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ICurve 属性。返回曲线终点的副本"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/icurve/endpoint/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.geometries/icurve/endpoint/
 public IPoint EndPoint { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 几何是空的。 |
+| InvalidOperationException | 几何为空。 |
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * interface [ICurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../icurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icurve/)
+* assembly [Aspose.GIS](../../../)
 
 

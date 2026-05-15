@@ -1,7 +1,7 @@
 ---
-title: MarkerPatternFill.HorizontalInterval
-second_title: Aspose.GIS for .NET API 参考
-description: MarkerPatternFill 财产. 指定标记之间的水平间隔
+title: "MarkerPatternFill.HorizontalInterval"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MarkerPatternFill 属性。指定标记之间的水平间隔"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterv
 public Measurement HorizontalInterval { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [MarkerPatternFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 

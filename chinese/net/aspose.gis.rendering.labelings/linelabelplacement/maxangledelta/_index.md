@@ -1,29 +1,29 @@
 ---
-title: LineLabelPlacement.MaxAngleDelta
-second_title: Aspose.GIS for .NET API 参考
-description: LineLabelPlacement 财产. 与Curved设置弯曲标签中 two 个后续字符之间的最大角度以度为单位默认值为 25.
+title: "LineLabelPlacement.MaxAngleDelta"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LineLabelPlacement 属性。与 Curved 一起使用时，设置弧形标签中两个连续字符之间的最大角度（度）。默认值为 25"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.labelings/linelabelplacement/maxangledelta/
 ---
 ## LineLabelPlacement.MaxAngleDelta property
 
-与Curved设置弯曲标签中 two 个后续字符之间的最大角度（以度为单位）。默认值为 25.
+在使用 Curved 时，设置弯曲标签中相邻字符之间的最大角度（度）。默认值为 25。
 
 ```csharp
 public double MaxAngleDelta { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 值为负。 |
+| ArgumentException | 值为负数。 |
 
-### 也可以看看
+### 另见
 
 * class [LineLabelPlacement](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../linelabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

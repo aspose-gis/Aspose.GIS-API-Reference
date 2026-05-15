@@ -1,9 +1,9 @@
 ---
-title: Enum KmlItemIconStates
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.Kml.Styles.KmlItemIconStates 枚举. 指定 kmlNetworkLink 或 kmlFolder 的当前状态
+title: "枚举 KmlItemIconStates"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlItemIconStates 枚举。指定 kmlNetworkLink 或 kmlFolder 的当前状态"
 type: docs
-weight: 510
+weight: 2150
 url: /zh/net/aspose.gis.formats.kml.styles/kmlitemiconstates/
 ---
 ## KmlItemIconStates enumeration
@@ -14,21 +14,21 @@ url: /zh/net/aspose.gis.formats.kml.styles/kmlitemiconstates/
 public enum KmlItemIconStates
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 未定义（无）。 |
 | Open | `1` | 打开文件夹。 |
-| Closed | `2` | 关闭的文件夹。 |
-| Error | `3` | 获取错误。 |
+| Closed | `2` | 关闭文件夹。 |
+| Error | `3` | 获取时出错。 |
 | Fetching0 | `4` | 获取状态 0。 |
 | Fetching1 | `5` | 获取状态 1。 |
 | Fetching2 | `6` | 获取状态 2。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

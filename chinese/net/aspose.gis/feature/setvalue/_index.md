@@ -1,7 +1,7 @@
 ---
-title: Feature.SetValue
-second_title: Aspose.GIS for .NET API 参考
-description: Feature 方法. 设置属性的新值
+title: "Feature.SetValue"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Feature 方法。设置属性的新值。"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis/feature/setvalue/
@@ -14,31 +14,31 @@ url: /zh/net/aspose.gis/feature/setvalue/
 public void SetValue<T>(string attributeName, T value)
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
 | T | 值的类型。 |
 | attributeName | 属性的名称。 |
-| value | 属性的值。 |
+| 值 | 属性的值。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`. |
+| ArgumentNullException | 属性名称为 `null`。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未锁定。 |
-| InvalidCastException | 值的类型没有实现IConvertible. |
+| InvalidOperationException | 属性未被锁定。 |
+| InvalidCastException | 值的类型未实现 IConvertible。 |
 | FormatException | 转换失败，因为值的格式不正确。 |
-| OverflowException | 由于溢出，转换失败。 |
+| OverflowException | 转换失败，因溢出。 |
 
-### 评论
+## 备注
 
-此方法自动将值转换为属性的类型。
+此方法会自动将值转换为属性的类型。
 
-### 也可以看看
+### 另见
 
 * class [Feature](../)
-* 命名空间 [Aspose.Gis](../../feature/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

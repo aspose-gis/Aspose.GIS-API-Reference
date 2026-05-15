@@ -1,38 +1,38 @@
 ---
-title: GeometryCollection.Item
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryCollection 财产. 得到一个IGeometry在指定的索引处.
+title: "GeometryCollection.Item"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryCollection 属性。获取指定索引处的 IGeometry"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.geometries/geometrycollection/item/
 ---
 ## GeometryCollection indexer
 
-得到一个[`IGeometry`](../../igeometry/)在指定的索引处.
+获取指定索引处的 [`IGeometry`](../../igeometry/)。
 
 ```csharp
 public IGeometry this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 指数。 |
+| 索引 | 该索引。 |
 
-### 适当的价值
+### Property Value
 
-的[`IGeometry`](../../igeometry/).
+该 [`IGeometry`](../../igeometry/)。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../../igeometry/)
 * class [GeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

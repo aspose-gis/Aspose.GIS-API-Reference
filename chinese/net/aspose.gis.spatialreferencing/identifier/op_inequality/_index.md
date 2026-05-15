@@ -1,32 +1,32 @@
 ---
-title: Identifier.op_Inequality
-second_title: Aspose.GIS for .NET API 参考
-description: Identifier 方法. 实现运算符 .
+title: "Identifier.op_Inequality"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Identifier 方法。实现该运算符"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/identifier/op_inequality/
 ---
 ## Identifier Inequality operator
 
-实现运算符 !=.
+实现运算符 !=。
 
 ```csharp
 public static bool operator !=(Identifier a, Identifier b)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| a | Identifier | A 实例。 |
-| b | Identifier | B实例。 |
+| a | 标识符 | A 实例。 |
+| b | 标识符 | B 实例。 |
 
 ### 返回值
 
 运算符的结果。
 
-### 也可以看看
+### 另见
 
 * class [Identifier](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../identifier/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../identifier/)
+* assembly [Aspose.GIS](../../../)
 
 

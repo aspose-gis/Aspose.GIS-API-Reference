@@ -1,14 +1,14 @@
 ---
-title: Class SavingOptions
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.SavingOptions 班级. 保存选项FeaturesSequence到文件.
+title: "类 SavingOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.SavingOptions 类。将 FeaturesSequence 保存到文件的选项"
 type: docs
-weight: 2010
+weight: 4460
 url: /zh/net/aspose.gis/savingoptions/
 ---
 ## SavingOptions class
 
-保存选项[`FeaturesSequence`](../featuressequence/)到文件.
+将 [`FeaturesSequence`](../featuressequence/) 保存到文件的选项。
 
 ```csharp
 public class SavingOptions
@@ -16,21 +16,21 @@ public class SavingOptions
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [SavingOptions](savingoptions/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter/) { get; set; } | 属性的自定义转换器。 如果不是`null` 为源图层的每个属性调用它，并希望在必要时更改它。 |
-| [DriverOptions](../../aspose.gis/savingoptions/driveroptions/) { get; set; } | 输出层的特定于驱动程序的选项。 |
-| [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem/) { get; set; } | 输出层的特定于驱动程序的选项。 |
+| [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter/) { get; set; } | 属性的自定义转换器。如果不为 `null`，则会对源图层的每个属性调用它，并在必要时对属性进行更改。 |
+| [DriverOptions](../../aspose.gis/savingoptions/driveroptions/) { get; set; } | 输出图层的驱动程序特定选项。 |
+| [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem/) { get; set; } | 输出图层的驱动程序特定选项。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

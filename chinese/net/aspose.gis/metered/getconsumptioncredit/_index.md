@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.GIS for .NET API 参考
-description: Metered 方法. 获得消费积分
+title: "Metered.GetConsumptionCredit"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Metered 方法。获取消费积分"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/metered/getconsumptioncredit/
 ---
 ## Metered.GetConsumptionCredit method
 
-获得消费积分
+获取消耗积分
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -16,12 +16,12 @@ public static decimal GetConsumptionCredit()
 
 ### 返回值
 
-消费量
+消耗数量
 
-### 也可以看看
+### 另见
 
 * class [Metered](../)
-* 命名空间 [Aspose.Gis](../../metered/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../metered/)
+* assembly [Aspose.GIS](../../../)
 
 

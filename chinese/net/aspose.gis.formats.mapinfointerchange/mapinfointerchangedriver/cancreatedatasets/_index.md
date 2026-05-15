@@ -1,7 +1,7 @@
 ---
-title: MapInfoInterchangeDriver.CanCreateDatasets
-second_title: Aspose.GIS for .NET API 参考
-description: MapInfoInterchangeDriver 财产. 获取一个值指示此驱动程序是否可以创建数据集
+title: "MapInfoInterchangeDriver.CanCreateDatasets"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MapInfoInterchangeDriver 属性。获取一个值，指示此驱动程序是否可以创建数据集"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/cancreatedatasets/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/canc
 public override bool CanCreateDatasets { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true` ，如果这个驱动程序可以创建数据集；否则，`false`.
+`true`，如果此驱动程序可以创建数据集；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [MapInfoInterchangeDriver](../)
-* 命名空间 [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangedriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoInterchange](../../mapinfointerchangedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

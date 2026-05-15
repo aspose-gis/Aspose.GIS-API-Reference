@@ -1,30 +1,30 @@
 ---
-title: SpatialReferenceSystem.AsLocal
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. 返回此 SRS 转换为LocalSpatialReferenceSystem. 使用Type找出是否可以转换
+title: "SpatialReferenceSystem.AsLocal"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。返回此 SRS 转换为 LocalSpatialReferenceSystem。使用 Type 来判断是否可以进行转换"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/aslocal/
 ---
 ## SpatialReferenceSystem.AsLocal property
 
-返回此 SRS 转换为[`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/). 使用[`Type`](../type/)找出是否可以转换。
+返回此 SRS 转换为 [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/)。使用 [`Type`](../type/) 来判断是否可以进行转换。
 
 ```csharp
 public virtual LocalSpatialReferenceSystem AsLocal { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 无法转换。 |
+| InvalidOperationException | 无法进行转换。 |
 
-### 也可以看看
+### 另见
 
 * class [LocalSpatialReferenceSystem](../../localspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

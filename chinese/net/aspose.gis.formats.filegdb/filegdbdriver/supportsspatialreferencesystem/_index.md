@@ -1,36 +1,36 @@
 ---
-title: FileGdbDriver.SupportsSpatialReferenceSystem
-second_title: Aspose.GIS for .NET API 参考
-description: FileGdbDriver 方法. 确定驱动程序是否支持指定的空间参考系统
+title: "FileGdbDriver.SupportsSpatialReferenceSystem"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FileGdbDriver 方法。确定驱动程序是否支持指定的空间参考系统"
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.gis.formats.filegdb/filegdbdriver/supportsspatialreferencesystem/
 ---
 ## FileGdbDriver.SupportsSpatialReferenceSystem method
 
-确定驱动程序是否支持指定的空间参考系统。
+确定指定的空间参考系统是否受此驱动程序支持。
 
 ```csharp
 public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-布尔值，指示驱动程序是否支持指定的空间参考系统。
+布尔值，指示指定的空间参考系统是否受驱动程序支持。
 
-### 评论
+## 备注
 
 ESRI 文件地理数据库支持所有空间参考系统。
 
-### 也可以看看
+### 另见
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [FileGdbDriver](../)
-* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdbdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

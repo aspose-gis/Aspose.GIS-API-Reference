@@ -1,90 +1,90 @@
 ---
-title: MapInfoTabDriver.OpenLayer
-second_title: Aspose.GIS for .NET API 参考
-description: MapInfoTabDriver 方法. 开启一层读取
+title: "MapInfoTabDriver.OpenLayer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MapInfoTabDriver 方法。打开图层进行读取"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.mapinfotab/mapinfotabdriver/openlayer/
 ---
 ## OpenLayer(string, MapInfoTabOptions) {#openlayer_5}
 
-开启一层读取。
+打开图层进行读取。
 
 ```csharp
 public VectorLayer OpenLayer(string path, MapInfoTabOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 文件的路径。 |
-| options | MapInfoTabOptions | 特定于驱动程序的选项。 |
+| options | MapInfoTabOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+[`VectorLayer`](../../../aspose.gis/vectorlayer/) 的实例。
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [MapInfoTabOptions](../../mapinfotaboptions/)
 * class [MapInfoTabDriver](../)
-* 命名空间 [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
 
-开启一层读取。
+打开图层进行读取。
 
 ```csharp
 public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+[`VectorLayer`](../../../aspose.gis/vectorlayer/) 的实例。
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [MapInfoTabDriver](../)
-* 命名空间 [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## OpenLayer(AbstractPath, MapInfoTabOptions) {#openlayer_2}
 
-开启一层读取。
+打开图层进行读取。
 
 ```csharp
 public VectorLayer OpenLayer(AbstractPath path, MapInfoTabOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| options | MapInfoTabOptions | 特定于驱动程序的选项。 |
+| options | MapInfoTabOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+[`VectorLayer`](../../../aspose.gis/vectorlayer/) 的实例。
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [MapInfoTabOptions](../../mapinfotaboptions/)
 * class [MapInfoTabDriver](../)
-* 命名空间 [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.MapInfoTab](../../mapinfotabdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

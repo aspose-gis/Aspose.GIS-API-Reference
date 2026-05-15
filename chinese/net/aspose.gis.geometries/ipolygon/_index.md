@@ -1,36 +1,36 @@
 ---
-title: Interface IPolygon
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.IPolygon 界面. 一个ICurvePolygon其边界由线性环定义
+title: "接口 IPolygon"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.IPolygon 接口。一个其边界由线性环定义的 IPolygon"
 type: docs
-weight: 1100
+weight: 2880
 url: /zh/net/aspose.gis.geometries/ipolygon/
 ---
 ## IPolygon interface
 
-一个[`ICurvePolygon`](../icurvepolygon/)其边界由线性环定义。
+一个其边界由线性环定义的 `IPolygon`。
 
 ```csharp
 public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ExteriorRing](../../aspose.gis.geometries/ipolygon/exteriorring/) { get; } | 获取外环。 |
+| [ExteriorRing](../../aspose.gis.geometries/ipolygon/exteriorring/) { get; } | 获取外部环。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GetInteriorRing](../../aspose.gis.geometries/ipolygon/getinteriorring/)(int) | 通过其索引获取内部环。 |
+| [GetInteriorRing](../../aspose.gis.geometries/ipolygon/getinteriorring/)(int) | 通过索引获取内部环。 |
 | [ToEditable](../../aspose.gis.geometries/ipolygon/toeditable/)() | 获取此几何体的可编辑副本。 |
 
-### 也可以看看
+### 另见
 
 * interface [ICurvePolygon](../icurvepolygon/)
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

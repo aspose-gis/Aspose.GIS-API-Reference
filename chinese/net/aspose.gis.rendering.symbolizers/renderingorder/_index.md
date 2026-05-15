@@ -1,9 +1,9 @@
 ---
-title: Enum RenderingOrder
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Symbolizers.RenderingOrder 枚举. 确定渲染顺序
+title: "枚举 RenderingOrder"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Symbolizers.RenderingOrder 枚举。确定渲染顺序"
 type: docs
-weight: 1910
+weight: 4360
 url: /zh/net/aspose.gis.rendering.symbolizers/renderingorder/
 ---
 ## RenderingOrder enumeration
@@ -14,16 +14,16 @@ url: /zh/net/aspose.gis.rendering.symbolizers/renderingorder/
 public enum RenderingOrder
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ByFeatures | `0` | 使用所有符号器渲染特征，然后继续下一个特征。 |
-| ByLayers | `1` | 使用符号器渲染所有特征，然后继续绘制特征到下一个符号器。 |
+| ByFeatures | `0` | 使用所有符号渲染要素，然后继续下一个要素。 |
+| ByLayers | `1` | 使用符号渲染所有要素，然后继续将要素绘制到下一个符号。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

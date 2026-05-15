@@ -1,7 +1,7 @@
 ---
-title: Map.Item
-second_title: Aspose.GIS for .NET API 参考
-description: Map 财产. 获取指定索引处的图层
+title: "Map.Item"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Map 属性。获取指定索引处的图层"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering/map/item/
@@ -14,25 +14,25 @@ url: /zh/net/aspose.gis.rendering/map/item/
 public MapLayer this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 要获取的层的索引。 |
+| 索引 | 要获取的图层索引。 |
 
 ### 返回值
 
 指定索引处的图层。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
 
-### 也可以看看
+### 另见
 
 * class [MapLayer](../../maplayer/)
 * class [Map](../)
-* 命名空间 [Aspose.Gis.Rendering](../../map/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Class RasterMapResampling
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.RasterMapResampling 班级. 此类描述了在渲染地图时如何对栅格图层重新采样
+title: "类 RasterMapResampling"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.RasterMapResampling 类。此类描述在渲染地图时如何对栅格图层进行重采样"
 type: docs
-weight: 1760
+weight: 4210
 url: /zh/net/aspose.gis.rendering/rastermapresampling/
 ---
 ## RasterMapResampling class
 
-此类描述了在渲染地图时如何对栅格图层重新采样。
+此类描述在渲染地图时如何对栅格图层进行重采样。
 
 ```csharp
 public class RasterMapResampling
@@ -16,20 +16,20 @@ public class RasterMapResampling
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [RasterMapResampling](rastermapresampling/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Height](../../aspose.gis.rendering/rastermapresampling/height/) { get; set; } | 指定地图上的栅格高度（以像素和列为单位）。 如果该值设置为 0，则会自动计算高度。默认值为“0”. |
-| [Width](../../aspose.gis.rendering/rastermapresampling/width/) { get; set; } | 指定地图上的栅格宽度（以像素和列为单位）。 如果该值设置为 0，则会自动计算宽度。默认值为“0”. |
+| [Height](../../aspose.gis.rendering/rastermapresampling/height/) { get; set; } | 指定地图上栅格的高度（以像素和列计）。如果值设为 0，则高度会自动计算。默认值为 "0"。 |
+| [Width](../../aspose.gis.rendering/rastermapresampling/width/) { get; set; } | 指定地图上栅格的宽度（以像素和列计）。如果值设为 0，则宽度会自动计算。默认值为 "0"。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

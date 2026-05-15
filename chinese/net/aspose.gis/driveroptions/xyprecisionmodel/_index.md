@@ -1,24 +1,24 @@
 ---
-title: DriverOptions.XYPrecisionModel
-second_title: Aspose.GIS for .NET API 参考
-description: DriverOptions 财产. 一个PrecisionModel当几何体被添加到VectorLayer或者当他们从VectorLayer. 默认值为Exact.
+title: "DriverOptions.XYPrecisionModel"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "DriverOptions 属性。一个将在将几何体添加到 VectorLayer 或从 VectorLayer 读取时应用于 X 和 Y 坐标的 PrecisionModel。默认值为 Exact。"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis/driveroptions/xyprecisionmodel/
 ---
 ## DriverOptions.XYPrecisionModel property
 
-一个[`PrecisionModel`](../../precisionmodel/)当几何体被添加到[`VectorLayer`](../../vectorlayer/)或者当他们从[`VectorLayer`](../../vectorlayer/). 默认值为[`Exact`](../../precisionmodel/exact/).
+一个将在将几何体添加到 [`VectorLayer`](../../vectorlayer/) 或从 [`VectorLayer`](../../vectorlayer/) 读取时应用于 X 和 Y 坐标的 [`PrecisionModel`](../../precisionmodel/)。默认值为 [`Exact`](../../precisionmodel/exact/)。
 
 ```csharp
 public PrecisionModel XYPrecisionModel { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [PrecisionModel](../../precisionmodel/)
 * class [DriverOptions](../)
-* 命名空间 [Aspose.Gis](../../driveroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

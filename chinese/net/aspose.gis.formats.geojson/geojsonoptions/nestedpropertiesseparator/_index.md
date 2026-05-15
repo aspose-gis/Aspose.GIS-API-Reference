@@ -1,27 +1,27 @@
 ---
-title: GeoJsonOptions.NestedPropertiesSeparator
-second_title: Aspose.GIS for .NET API 参考
-description: GeoJsonOptions 财产. 获取或设置用于分隔嵌套属性组件的字符串 默认为_
+title: "GeoJsonOptions.NestedPropertiesSeparator"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeoJsonOptions 属性。获取或设置用于分隔嵌套属性组件的字符串。默认是 _"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.formats.geojson/geojsonoptions/nestedpropertiesseparator/
 ---
 ## GeoJsonOptions.NestedPropertiesSeparator property
 
-获取或设置用于分隔嵌套属性组件的字符串。 默认为“_”。
+获取或设置用于分隔嵌套属性组件的字符串。默认是 "_"。
 
 ```csharp
 public string NestedPropertiesSeparator { get; set; }
 ```
 
-### 评论
+## 备注
 
-这是读取选项 - 它不影响写入。
+这是读取选项 - 不影响写入。
 
-### 也可以看看
+### 另见
 
 * class [GeoJsonOptions](../)
-* 命名空间 [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.GeoJson](../../geojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

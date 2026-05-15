@@ -1,9 +1,9 @@
 ---
-title: Class MapLayersGenerator
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator 班级. 地图图层生成器
+title: "类 MapLayersGenerator"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator 类。地图图层生成器"
 type: docs
-weight: 820
+weight: 2580
 url: /zh/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 ---
 ## MapLayersGenerator class
@@ -16,19 +16,20 @@ public class MapLayersGenerator
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [MapLayersGenerator](maplayersgenerator/)() | 默认构造函数。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [ProduceMap](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/producemap/)(MapGeneratorOptions) | 制作地图. |
+| static [GetListOfLayers](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/getlistoflayers/)(MapGeneratorOptions) | 获取图层列表：roadLayer, buildingLayer, parkLayer, parkRoadLayer, industrialLayer。 |
+| static [ProduceMap](../../aspose.gis.geotools.mapbuilder/maplayersgenerator/producemap/)(MapGeneratorOptions) | 生成地图。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.GeoTools.MapBuilder](../../aspose.gis.geotools.mapbuilder/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../aspose.gis.geotools.mapbuilder/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: KmlLabelStyle.Scale
-second_title: Aspose.GIS for .NET API 参考
-description: KmlLabelStyle 财产. 指定要应用于标签的比例因子默认值为1
+title: "KmlLabelStyle.Scale"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlLabelStyle 属性。指定应用于标签的缩放因子。默认值为 1"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.kml.styles/kmllabelstyle/scale/
 ---
 ## KmlLabelStyle.Scale property
 
-指定要应用于标签的比例因子。默认值为“1”。
+指定要应用于标签的缩放因子。 默认值为 '1'。
 
 ```csharp
 public double Scale { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [KmlLabelStyle](../)
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../kmllabelstyle/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmllabelstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

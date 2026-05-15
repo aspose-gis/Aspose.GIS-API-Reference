@@ -1,14 +1,14 @@
 ---
-title: PolygonGeneratorOptions.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: PolygonGeneratorOptions 方法. 将对象相互克隆
+title: "PolygonGeneratorOptions.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "PolygonGeneratorOptions 方法。将对象克隆到另一个对象"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geotools/polygongeneratoroptions/clone/
 ---
 ## PolygonGeneratorOptions.Clone method
 
-将对象相互克隆。
+将对象克隆到另一个对象。
 
 ```csharp
 public PolygonGeneratorOptions Clone()
@@ -16,12 +16,12 @@ public PolygonGeneratorOptions Clone()
 
 ### 返回值
 
-将对象克隆到另一个[`PolygonGeneratorOptions`](../).
+将对象克隆到另一个对象 [`PolygonGeneratorOptions`](../)。
 
-### 也可以看看
+### 另见
 
 * class [PolygonGeneratorOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../polygongeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

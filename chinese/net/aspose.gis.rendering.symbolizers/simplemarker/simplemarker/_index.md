@@ -1,49 +1,49 @@
 ---
-title: SimpleMarker.SimpleMarker
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleMarker 构造函数. 初始化一个新的实例SimpleMarker类.
+title: "SimpleMarker.SimpleMarker"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleMarker 构造函数。初始化 SimpleMarker 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/simplemarker/
 ---
 ## SimpleMarker() {#constructor}
 
-初始化一个新的实例[`SimpleMarker`](../)类.
+初始化 [`SimpleMarker`](../) 类的新实例。
 
 ```csharp
 public SimpleMarker()
 ```
 
-### 也可以看看
+### 另见
 
 * class [SimpleMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleMarker(SimpleMarker) {#constructor_1}
 
-初始化一个新的实例[`SimpleMarker`](../)类.
+初始化 [`SimpleMarker`](../) 类的新实例。
 
 ```csharp
 public SimpleMarker(SimpleMarker other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleMarker | 另一个[`SimpleMarker`](../)从中复制数据。 |
+| other | SimpleMarker | 要从中复制数据的另一个 [`SimpleMarker`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [SimpleMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

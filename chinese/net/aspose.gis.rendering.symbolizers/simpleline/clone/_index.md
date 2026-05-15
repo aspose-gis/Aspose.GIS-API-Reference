@@ -1,7 +1,7 @@
 ---
-title: SimpleLine.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLine 方法. 克隆此实例
+title: "SimpleLine.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLine 方法。克隆此实例"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.rendering.symbolizers/simpleline/clone/
@@ -18,10 +18,10 @@ public SimpleLine Clone()
 
 此实例的克隆。
 
-### 也可以看看
+### 另见
 
 * class [SimpleLine](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

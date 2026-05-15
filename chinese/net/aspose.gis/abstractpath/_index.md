@@ -1,49 +1,49 @@
 ---
-title: Class AbstractPath
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.AbstractPath 班级. 一个抽象路径是在类似于文件系统的环境中指定唯一位置的类的基类 如本地文件系统远程文件存储或 ZIP 存档等
+title: "类 AbstractPath"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.AbstractPath 类。AbstractPath 是一个基类，用于指定在类似文件系统的环境中唯一位置的类，例如本地文件系统、远程文件存储或 ZIP 存档等。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/abstractpath/
 ---
 ## AbstractPath class
 
-一个`抽象路径`是在类似于文件系统的环境中指定唯一位置的类的基类， 如本地文件系统、远程文件存储或 ZIP 存档等。
+`AbstractPath` 是一个基类，用于指定类似文件系统环境中唯一位置的类，例如本地文件系统、远程文件存储或 ZIP 存档等。
 
 ```csharp
 public abstract class AbstractPath
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| abstract [Location](../../aspose.gis/abstractpath/location/) { get; } | 获取此位置的字符串表示形式`抽象路径`. |
-| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | 获取用于分隔目录级别的分隔符[`Location`](./location/)细绳。 |
+| abstract [Location](../../aspose.gis/abstractpath/location/) { get; } | 获取此 `AbstractPath` 位置的字符串表示。 |
+| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | 获取用于分隔 [`Location`](./location/) 字符串目录层级的分隔符字符。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath/)(string) | 创建一个`AbstractPath`表示本地文件系统上的位置。 |
-| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | 创建一个`AbstractPath`从一个Stream. |
-| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | 结合这个`AbstractPath`具有指定路径组件. |
+| static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath/)(string) | 创建一个表示本地文件系统位置的 `AbstractPath`。 |
+| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | 从流创建 `AbstractPath`。 |
+| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | 将此 `AbstractPath` 与指定的路径组件组合。 |
 | abstract [Delete](../../aspose.gis/abstractpath/delete/)() | 删除此路径指向的文件。 |
-| [GetExtension](../../aspose.gis/abstractpath/getextension/)() | 返回这个的扩展名`AbstractPath`. |
-| [GetFileName](../../aspose.gis/abstractpath/getfilename/)() | 返回此文件的文件名和扩展名`AbstractPath`. |
-| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | 返回此文件的文件名`AbstractPath`没有扩展名. |
-| abstract [IsFile](../../aspose.gis/abstractpath/isfile/)() | 获取一个值，该值指示此路径是否指向可以打开以供阅读的现有文件。 |
-| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory/)() | 返回位于此内部的路径`抽象路径` 如果它是一个目录. |
-| abstract [Open](../../aspose.gis/abstractpath/open/)(FileAccess) | 打开这个`抽象路径`作为文件. |
-| virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | 返回一个新的`AbstractPath`文件扩展名更改为指定值. |
+| [GetExtension](../../aspose.gis/abstractpath/getextension/)() | 返回此 `AbstractPath` 的扩展名。 |
+| [GetFileName](../../aspose.gis/abstractpath/getfilename/)() | 返回此 `AbstractPath` 的文件名和扩展名。 |
+| [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | 返回此 `AbstractPath` 的文件名（不含扩展名）。 |
+| abstract [IsFile](../../aspose.gis/abstractpath/isfile/)() | 获取一个值，指示此路径是否指向可供读取的现有文件。 |
+| abstract [ListDirectory](../../aspose.gis/abstractpath/listdirectory/)() | 如果这是目录，则返回位于此 `AbstractPath` 内的路径。 |
+| abstract [Open](../../aspose.gis/abstractpath/open/)(FileAccess) | 将此 `AbstractPath` 作为文件打开。 |
+| virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | 返回一个新的 `AbstractPath`，其文件扩展名已更改为指定值。 |
 
-### 评论
+## 备注
 
-一个`抽象路径`可能指定本地文件系统上的位置、远程文件系统 或外部存储（如 Azure Blob 存储）上的位置，等等。该位置可能指向现有或不存在的 类文件对象、类目录对象，或具有对其所属环境合理的任何其他含义。 例如，一个`抽象路径`表示本地文件系统上某个位置的继承者可以指向现有的 文件、目录或文件系统中尚未创建的位置。 为了使新的类似文件系统的存储可用于`Aspose地理信息系统`，应该继承这个类 并实现它的抽象方法。
+`AbstractPath` 可以指定本地文件系统上的位置、远程文件系统上的位置或类似 Azure Blob 存储的外部存储，等等。该位置可能指向已有或不存在的类文件对象、类目录对象，或对其所属环境而言具有其他合理含义。例如，表示本地文件系统位置的 `AbstractPath` 子类可以指向已有的文件、目录，或指向尚未创建的文件系统位置。为了使新的类文件系统存储可供 `Aspose.GIS` 使用，应继承此类并实现其抽象方法。
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

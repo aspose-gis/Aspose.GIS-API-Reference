@@ -1,7 +1,7 @@
 ---
-title: IGeometry.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometry 方法. 获取此几何体的可编辑副本
+title: "IGeometry.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometry 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 340
 url: /zh/net/aspose.gis.geometries/igeometry/toeditable/
@@ -18,12 +18,12 @@ public Geometry ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [Geometry](../../geometry/)
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -36,25 +36,25 @@ public T ToEditable<T>()
     where T : Geometry
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| T | 要获取的几何类型。必须是继承人[`Geometry`](../../geometry/)类. |
+| T | 要获取的几何体类型。必须是 [`Geometry`](../../geometry/) 类的子类。 |
 
 ### 返回值
 
 此几何体的可编辑副本。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidCastException | 无法将此几何体的可编辑副本投射到类型*T*. |
+| InvalidCastException | 无法将此几何体的可编辑副本强制转换为类型 *T*。 |
 
-### 也可以看看
+### 另见
 
 * class [Geometry](../../geometry/)
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

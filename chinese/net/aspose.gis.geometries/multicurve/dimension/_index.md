@@ -1,24 +1,24 @@
 ---
-title: MultiCurve.Dimension
-second_title: Aspose.GIS for .NET API 参考
-description: MultiCurve 财产. 得到这个的拓扑维度Geometry.
+title: "MultiCurve.Dimension"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiCurve 属性。获取此几何体的拓扑维度"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/multicurve/dimension/
 ---
 ## MultiCurve.Dimension property
 
-得到这个的拓扑维度[`Geometry`](../../geometry/).
+获取此 [`Geometry`](../../geometry/) 的拓扑维度。
 
 ```csharp
 public GeometryDimension Dimension { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * enum [GeometryDimension](../../geometrydimension/)
 * class [MultiCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multicurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multicurve/)
+* assembly [Aspose.GIS](../../../)
 
 

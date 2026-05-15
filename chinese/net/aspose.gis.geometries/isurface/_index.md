@@ -1,14 +1,14 @@
 ---
-title: Interface ISurface
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.ISurface 界面. 一个ISurface是二维几何对象.
+title: "接口 ISurface"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.ISurface 接口。一个 ISurface 是二维几何对象"
 type: docs
-weight: 1110
+weight: 2890
 url: /zh/net/aspose.gis.geometries/isurface/
 ---
 ## ISurface interface
 
-一个`ISurface`是二维几何对象.
+一个 `ISurface` 是二维几何对象。
 
 ```csharp
 public interface ISurface : IGeometry
@@ -16,17 +16,17 @@ public interface ISurface : IGeometry
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GetPointOnSurface](../../aspose.gis.geometries/isurface/getpointonsurface/)() | 找到一个保证在这个表面上的点。 |
+| [GetPointOnSurface](../../aspose.gis.geometries/isurface/getpointonsurface/)() | 查找一个保证位于此表面的点。 |
 | [ToEditable](../../aspose.gis.geometries/isurface/toeditable/)() | 获取此几何体的可编辑副本。 |
-| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry)() | 使用默认值获取此几何的近似或等效非曲线版本`宽容`. |
-| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry_1)(double) | 使用指定的几何图形获取近似或等效的非曲线版本`宽容`. |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry)() | 使用默认的 `tolerance` 获取此几何对象的近似或等效的非曲线版本。 |
+| [ToLinearGeometry](../../aspose.gis.geometries/isurface/tolineargeometry/#tolineargeometry_1)(double) | 使用指定的 `tolerance` 获取此几何对象的近似或等效的非曲线版本。 |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../igeometry/)
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

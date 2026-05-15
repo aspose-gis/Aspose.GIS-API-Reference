@@ -1,27 +1,27 @@
 ---
-title: ICurvePolygon.InteriorRingsCount
-second_title: Aspose.GIS for .NET API 参考
-description: ICurvePolygon 财产. 获取内环数
+title: "ICurvePolygon.InteriorRingsCount"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ICurvePolygon 属性。获取内部环的数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/icurvepolygon/interiorringscount/
 ---
 ## ICurvePolygon.InteriorRingsCount property
 
-获取内环数。
+获取内部环的数量。
 
 ```csharp
 public int InteriorRingsCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-内环数。
+内部环的数量。
 
-### 也可以看看
+### 另见
 
 * interface [ICurvePolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../icurvepolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icurvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

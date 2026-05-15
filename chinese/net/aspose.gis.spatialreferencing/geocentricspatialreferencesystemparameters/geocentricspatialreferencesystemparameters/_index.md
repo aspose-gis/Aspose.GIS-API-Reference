@@ -1,7 +1,7 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.GeocentricSpatialReferenceSystemParameters
-second_title: Aspose.GIS for .NET API 参考
-description: GeocentricSpatialReferenceSystemParameters 构造函数. 默认构造函数
+title: "GeocentricSpatialReferenceSystemParameters.GeocentricSpatialReferenceSystemParameters"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeocentricSpatialReferenceSystemParameters 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/geocentricspatialreferencesystemparameters/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparam
 public GeocentricSpatialReferenceSystemParameters()
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

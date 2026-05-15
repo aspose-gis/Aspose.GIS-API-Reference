@@ -1,23 +1,23 @@
 ---
-title: MultiPolygon.MultiPolygon
-second_title: Aspose.GIS for .NET API 参考
-description: MultiPolygon 构造函数. 初始化一个新的实例MultiPolygon类.
+title: "MultiPolygon.MultiPolygon"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiPolygon 构造函数。初始化 MultiPolygon 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/multipolygon/multipolygon/
 ---
 ## MultiPolygon constructor
 
-初始化一个新的实例[`MultiPolygon`](../)类.
+初始化 [`MultiPolygon`](../) 类的新实例。
 
 ```csharp
 public MultiPolygon()
 ```
 
-### 也可以看看
+### 另见
 
 * class [MultiPolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multipolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

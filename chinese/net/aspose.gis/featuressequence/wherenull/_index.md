@@ -1,9 +1,9 @@
 ---
-title: FeaturesSequence.WhereNull
-second_title: Aspose.GIS for .NET API 参考
-description: FeaturesSequence 方法. 选择属性等于 null 的要素
+title: "FeaturesSequence.WhereNull"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeaturesSequence 方法。选择属性等于 null 的要素。"
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.gis/featuressequence/wherenull/
 ---
 ## FeaturesSequence.WhereNull method
@@ -14,24 +14,24 @@ url: /zh/net/aspose.gis/featuressequence/wherenull/
 public virtual FeaturesSequence WhereNull(string attributeName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attributeName | String | 筛选依据的属性。 |
+| attributeName | String | 用于过滤的属性。 |
 
 ### 返回值
 
 属性值等于 null 的要素。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此要素序列中不存在具有此类名称的属性。 |
+| ArgumentException | 此要素序列中不存在具有该名称的属性。 |
 
-### 也可以看看
+### 另见
 
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

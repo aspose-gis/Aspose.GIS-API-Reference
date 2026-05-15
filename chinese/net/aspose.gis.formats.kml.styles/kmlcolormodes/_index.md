@@ -1,9 +1,9 @@
 ---
-title: Enum KmlColorModes
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.Kml.Styles.KmlColorModes 枚举. 指定图形元素的颜色模式
+title: "枚举 KmlColorModes"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlColorModes 枚举。指定图形元素的颜色模式"
 type: docs
-weight: 440
+weight: 2080
 url: /zh/net/aspose.gis.formats.kml.styles/kmlcolormodes/
 ---
 ## KmlColorModes enumeration
@@ -14,16 +14,16 @@ url: /zh/net/aspose.gis.formats.kml.styles/kmlcolormodes/
 public enum KmlColorModes
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Normal | `0` | 指定单个颜色值。 |
+| Normal | `0` | 指定单一颜色值。 |
 | Random | `1` | 指定使用随机颜色值。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

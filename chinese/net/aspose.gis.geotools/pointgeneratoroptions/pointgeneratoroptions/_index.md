@@ -1,23 +1,23 @@
 ---
-title: PointGeneratorOptions.PointGeneratorOptions
-second_title: Aspose.GIS for .NET API 参考
-description: PointGeneratorOptions 构造函数. 默认构造函数
+title: "PointGeneratorOptions.PointGeneratorOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "PointGeneratorOptions 构造函数。使用默认选项创建实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geotools/pointgeneratoroptions/pointgeneratoroptions/
 ---
 ## PointGeneratorOptions constructor
 
-默认构造函数。
+使用默认选项创建实例。
 
 ```csharp
 public PointGeneratorOptions()
 ```
 
-### 也可以看看
+### 另见
 
 * class [PointGeneratorOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../pointgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

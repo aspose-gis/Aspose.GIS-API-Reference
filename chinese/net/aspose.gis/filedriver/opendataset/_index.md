@@ -1,7 +1,7 @@
 ---
-title: FileDriver.OpenDataset
-second_title: Aspose.GIS for .NET API 参考
-description: FileDriver 方法. 打开数据集
+title: "FileDriver.OpenDataset"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FileDriver 方法。打开数据集"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/filedriver/opendataset/
@@ -14,29 +14,29 @@ url: /zh/net/aspose.gis/filedriver/opendataset/
 public Dataset OpenDataset(string path)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
 
 ### 返回值
 
-的实例[`Dataset`](../../dataset/).
+一个 [`Dataset`](../../dataset/) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets/)). |
+| NotSupportedException | 驱动程序无法打开数据集（参见 [`CanOpenDatasets`](../canopendatasets/)）。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../../dataset/)
 * class [FileDriver](../)
-* 命名空间 [Aspose.Gis](../../filedriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -48,30 +48,30 @@ public Dataset OpenDataset(string path)
 public Dataset OpenDataset(AbstractPath path)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
 
 ### 返回值
 
-的实例[`Dataset`](../../dataset/).
+一个 [`Dataset`](../../dataset/) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets/)). |
+| NotSupportedException | 驱动程序无法打开数据集（参见 [`CanOpenDatasets`](../canopendatasets/)）。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../../dataset/)
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../)
-* 命名空间 [Aspose.Gis](../../filedriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -83,32 +83,32 @@ public Dataset OpenDataset(AbstractPath path)
 public Dataset OpenDataset(string path, DriverOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`Dataset`](../../dataset/).
+一个 [`Dataset`](../../dataset/) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets/)). |
+| NotSupportedException | 驱动程序无法打开数据集（参见 [`CanOpenDatasets`](../canopendatasets/)）。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../../dataset/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* 命名空间 [Aspose.Gis](../../filedriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -120,32 +120,32 @@ public Dataset OpenDataset(string path, DriverOptions options)
 public virtual Dataset OpenDataset(AbstractPath path, DriverOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`Dataset`](../../dataset/).
+一个 [`Dataset`](../../dataset/) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集（请参阅[`CanOpenDatasets`](../canopendatasets/)). |
+| NotSupportedException | 驱动程序无法打开数据集（参见 [`CanOpenDatasets`](../canopendatasets/)）。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../../dataset/)
 * class [AbstractPath](../../abstractpath/)
 * class [DriverOptions](../../driveroptions/)
 * class [FileDriver](../)
-* 命名空间 [Aspose.Gis](../../filedriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

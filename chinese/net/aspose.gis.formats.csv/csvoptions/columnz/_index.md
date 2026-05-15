@@ -1,27 +1,27 @@
 ---
-title: CsvOptions.ColumnZ
-second_title: Aspose.GIS for .NET API 参考
-description: CsvOptions 财产. 获取或设置包含 Z 坐标值的列的名称 默认为null.
+title: "CsvOptions.ColumnZ"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CsvOptions 属性。获取或设置包含 Z 坐标值的列名。默认值为 null"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.csv/csvoptions/columnz/
 ---
 ## CsvOptions.ColumnZ property
 
-获取或设置包含 Z 坐标值的列的名称。 默认为`null`.
+获取或设置包含 Z 坐标值的列名。默认值为 `null`。
 
 ```csharp
 public string ColumnZ { get; set; }
 ```
 
-### 评论
+## 备注
 
-如果列值为`null`或者`empty string`它将被排除在几何之外。
+如果列值为 `null` 或 `empty string`，则会从几何体中排除。
 
-### 也可以看看
+### 另见
 
 * class [CsvOptions](../)
-* 命名空间 [Aspose.Gis.Formats.Csv](../../csvoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: SimplifySegmentsOptions.Distance
-second_title: Aspose.GIS for .NET API 参考
-description: SimplifySegmentsOptions 财产. 检查参数是线段附近的点默认值为 0.
+title: "SimplifySegmentsOptions.Distance"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimplifySegmentsOptions 属性。用于检查的参数是点是否接近线段。默认值为 0。"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geotools/simplifysegmentsoptions/distance/
 ---
 ## SimplifySegmentsOptions.Distance property
 
-检查参数是线段附近的点。默认值为 0.
+用于检查点是否接近线段的参数。默认值为 0。
 
 ```csharp
 public double Distance { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [SimplifySegmentsOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,36 +1,36 @@
 ---
-title: Interface ICompoundCurve
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.ICompoundCurve 界面. 表示一系列连续曲线的曲线相邻曲线在其端点连接
+title: "接口 ICompoundCurve"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.ICompoundCurve 接口。表示一系列相连曲线的曲线，使相邻曲线在端点处相接。"
 type: docs
-weight: 970
+weight: 2750
 url: /zh/net/aspose.gis.geometries/icompoundcurve/
 ---
 ## ICompoundCurve interface
 
-表示一系列连续曲线的曲线，相邻曲线在其端点连接。
+一条曲线，表示一系列连续的曲线，使相邻曲线在端点处相连。
 
 ```csharp
 public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompoundCurve>
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.gis.geometries/icompoundcurve/count/) { get; } | 获取曲线中的曲线数`ICompoundCurve`. |
-| [Item](../../aspose.gis.geometries/icompoundcurve/item/) { get; } | 获取[`ICurve`](../icurve/)在指定的索引处. |
+| [Count](../../aspose.gis.geometries/icompoundcurve/count/) { get; } | 获取 `ICompoundCurve` 中曲线的数量。 |
+| [Item](../../aspose.gis.geometries/icompoundcurve/item/) { get; } | 获取指定索引处的 [`ICurve`](../icurve/)。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/icompoundcurve/toeditable/)() | 获取此几何体的可编辑副本。 |
 
-### 也可以看看
+### 另见
 
 * interface [ICurve](../icurve/)
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

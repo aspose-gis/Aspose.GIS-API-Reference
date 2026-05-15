@@ -1,24 +1,24 @@
 ---
-title: RasterMapLayer.Colorizer
-second_title: Aspose.GIS for .NET API 参考
-description: RasterMapLayer 财产. 用于渲染栅格像元的着色器
+title: "RasterMapLayer.Colorizer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterMapLayer 属性。用于渲染栅格单元的 Colorizer"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering/rastermaplayer/colorizer/
 ---
 ## RasterMapLayer.Colorizer property
 
-用于渲染栅格像元的着色器。
+用于渲染栅格单元的颜色化器。
 
 ```csharp
 public RasterColorizer Colorizer { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterColorizer](../../../aspose.gis.rendering.colorizers/rastercolorizer/)
 * class [RasterMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../rastermaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../rastermaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

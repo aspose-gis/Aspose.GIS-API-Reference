@@ -1,31 +1,31 @@
 ---
-title: FeatureAttribute.HasCustomDefaultValue
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttribute 财产. 获取一个值该值指示此属性的预定义默认值是否被自定义值覆盖
+title: "FeatureAttribute.HasCustomDefaultValue"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttribute 属性。获取一个值，指示此属性的预定义默认值是否已被自定义值覆盖"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/featureattribute/hascustomdefaultvalue/
 ---
 ## FeatureAttribute.HasCustomDefaultValue property
 
-获取一个值，该值指示此属性的预定义默认值是否被自定义值覆盖。
+获取一个值，指示此属性的预定义默认值是否被自定义值覆盖。
 
 ```csharp
 public bool HasCustomDefaultValue { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`真的`如果此实例具有自定义默认值；否则，`错误的`.
+如果此实例具有自定义默认值，则为 `true`；否则为 `false`。
 
-### 评论
+## 备注
 
-除非Object)被调用，这个属性的值是`错误的`.
+除非调用了 Object)，此属性的值为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../)
-* 命名空间 [Aspose.Gis](../../featureattribute/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

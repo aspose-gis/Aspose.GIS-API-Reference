@@ -1,27 +1,27 @@
 ---
-title: DriverOptions.SimplifySegments
-second_title: Aspose.GIS for .NET API 参考
-description: DriverOptions 财产. 确定是否删除位于每个几何图形中同一线段上的点默认为false.
+title: "DriverOptions.SimplifySegments"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "DriverOptions 属性。确定是否删除每个几何中位于同一线段上的点。默认值为 false"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/driveroptions/simplifysegments/
 ---
 ## DriverOptions.SimplifySegments property
 
-确定是否删除位于每个几何图形中同一线段上的点。默认为`false`.
+确定是否删除每个几何体中位于同一线段上的点。默认值为 `false`。
 
 ```csharp
 public bool SimplifySegments { get; set; }
 ```
 
-### 评论
+## 备注
 
 这是一个打开选项 - 它不影响创建。
 
-### 也可以看看
+### 另见
 
 * class [DriverOptions](../)
-* 命名空间 [Aspose.Gis](../../driveroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

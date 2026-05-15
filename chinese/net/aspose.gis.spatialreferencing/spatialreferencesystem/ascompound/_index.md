@@ -1,30 +1,30 @@
 ---
-title: SpatialReferenceSystem.AsCompound
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. 返回此 SRS 转换为CompoundSpatialReferenceSystem. 使用IsCompound找出是否可以转换
+title: "SpatialReferenceSystem.AsCompound"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。返回将此 SRS 转换为 CompoundSpatialReferenceSystem 的结果。使用 IsCompound 来判断是否可以转换。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/ascompound/
 ---
 ## SpatialReferenceSystem.AsCompound property
 
-返回此 SRS 转换为[`CompoundSpatialReferenceSystem`](../../compoundspatialreferencesystem/). 使用[`IsCompound`](../iscompound/)找出是否可以转换。
+返回此 SRS 转换为 [`CompoundSpatialReferenceSystem`](../../compoundspatialreferencesystem/) 的结果。使用 [`IsCompound`](../iscompound/) 来判断是否可以转换。
 
 ```csharp
 public virtual CompoundSpatialReferenceSystem AsCompound { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 无法转换。 |
+| InvalidOperationException | 无法进行转换。 |
 
-### 也可以看看
+### 另见
 
 * class [CompoundSpatialReferenceSystem](../../compoundspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

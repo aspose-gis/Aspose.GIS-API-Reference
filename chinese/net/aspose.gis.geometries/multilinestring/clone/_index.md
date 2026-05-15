@@ -1,7 +1,7 @@
 ---
-title: MultiLineString.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: MultiLineString 方法. 克隆此实例
+title: "MultiLineString.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiLineString 方法。克隆此实例"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/multilinestring/clone/
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### 返回值
 
-这个实例的克隆
+此实例的克隆
 
-### 也可以看看
+### 另见
 
 * class [Geometry](../../geometry/)
 * class [MultiLineString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multilinestring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multilinestring/)
+* assembly [Aspose.GIS](../../../)
 
 

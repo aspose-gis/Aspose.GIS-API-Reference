@@ -1,34 +1,38 @@
 ---
-title: Polygon.ExteriorRing
-second_title: Aspose.GIS for .NET API 参考
-description: Polygon 财产. 获取外环
+title: "Polygon.ExteriorRing"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Polygon 属性。获取外部环"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/polygon/exteriorring/
 ---
 ## Polygon.ExteriorRing property
 
-获取外环。
+获取外部环。
 
 ```csharp
 public ILinearRing ExteriorRing { get; set; }
 ```
 
-### 适当的价值
+### 返回值
 
-外环。
+外部环。它返回[`ILinearRing`](../../ilinearring/)
 
-### 例外
+### Property Value
 
-| 例外 | （健康）状况 |
+外部环。它返回[`ILinearRing`](../../ilinearring/)
+
+### 异常
+
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)这种几何和[`SpatialReferenceSystem`](../spatialreferencesystem/)的争论都不是`null` 并且彼此不相等。 |
+| ArgumentException | 此几何体的 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 与参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
 
-### 也可以看看
+### 另见
 
 * interface [ILinearRing](../../ilinearring/)
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

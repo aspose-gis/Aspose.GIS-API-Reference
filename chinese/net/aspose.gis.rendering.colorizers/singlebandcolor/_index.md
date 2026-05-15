@@ -1,14 +1,14 @@
 ---
-title: Class SingleBandColor
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Colorizers.SingleBandColor 班级. 单波段着色器指定栅格的灰色分量
+title: "类 SingleBandColor"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Colorizers.SingleBandColor 类。单波段颜色化器为栅格指定灰度分量。"
 type: docs
-weight: 1540
+weight: 3990
 url: /zh/net/aspose.gis.rendering.colorizers/singlebandcolor/
 ---
 ## SingleBandColor class
 
-单波段着色器指定栅格的灰色分量。
+单波段颜色化器为栅格指定灰度分量。
 
 ```csharp
 public class SingleBandColor : RasterColorizer
@@ -16,20 +16,20 @@ public class SingleBandColor : RasterColorizer
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [SingleBandColor](singlebandcolor/)() | 默认构造函数。 |
+| [SingleBandColor](singlebandcolor/)() | 初始化 `SingleBandColor` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GrayBand](../../aspose.gis.rendering.colorizers/singlebandcolor/grayband/) { get; set; } | 指定光栅的灰色分量。 |
+| [GrayBand](../../aspose.gis.rendering.colorizers/singlebandcolor/grayband/) { get; set; } | 指定我们栅格的灰度分量。 |
 
-### 也可以看看
+### 另见
 
 * class [RasterColorizer](../rastercolorizer/)
-* 命名空间 [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
+* assembly [Aspose.GIS](../../)
 
 

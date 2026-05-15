@@ -1,7 +1,7 @@
 ---
-title: Polygon.IsEmpty
-second_title: Aspose.GIS for .NET API 参考
-description: Polygon 财产. 获取一个值指示此实例是否为空
+title: "Polygon.IsEmpty"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Polygon 属性。获取指示此实例是否为空的值"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geometries/polygon/isempty/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.gis.geometries/polygon/isempty/
 public override bool IsEmpty { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true`如果此实例为空；否则，`false`.
+`true` 表示此实例为空；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

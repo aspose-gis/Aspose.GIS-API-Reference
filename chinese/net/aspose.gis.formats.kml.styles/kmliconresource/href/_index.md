@@ -1,23 +1,23 @@
 ---
-title: KmlIconResource.Href
-second_title: Aspose.GIS for .NET API 参考
-description: KmlIconResource 财产. 将资源位置指定为 URL 默认值为null表示 href 是 none.
+title: "KmlIconResource.Href"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlIconResource 属性。指定资源位置为 URL。默认值为 null 表示 href 为无"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.kml.styles/kmliconresource/href/
 ---
 ## KmlIconResource.Href property
 
-将资源位置指定为 URL。 默认值为`null`表示 href 是 none.
+指定资源位置为 URL。默认值为 `null`，表示 href 为无。
 
 ```csharp
 public string Href { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [KmlIconResource](../)
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../kmliconresource/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmliconresource/)
+* assembly [Aspose.GIS](../../../)
 
 

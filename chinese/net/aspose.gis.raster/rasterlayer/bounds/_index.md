@@ -1,7 +1,7 @@
 ---
-title: RasterLayer.Bounds
-second_title: Aspose.GIS for .NET API 参考
-description: RasterLayer 财产. 获取栅格范围
+title: "RasterLayer.Bounds"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterLayer 属性。获取栅格边界"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.raster/rasterlayer/bounds/
@@ -18,11 +18,11 @@ public RasterRect Bounds { get; }
 
 栅格边界。
 
-### 也可以看看
+### 另见
 
 * class [RasterRect](../../rasterrect/)
 * class [RasterLayer](../)
-* 命名空间 [Aspose.Gis.Raster](../../rasterlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

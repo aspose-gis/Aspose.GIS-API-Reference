@@ -1,7 +1,7 @@
 ---
-title: IPoint.Y
-second_title: Aspose.GIS for .NET API 参考
-description: IPoint 财产. 获取 y 坐标
+title: "IPoint.Y"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IPoint 属性. 获取 y 坐标"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/ipoint/y/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.geometries/ipoint/y/
 public double Y { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../)
-* 命名空间 [Aspose.Gis.Geometries](../../ipoint/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

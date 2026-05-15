@@ -1,7 +1,7 @@
 ---
-title: DatabaseDriver.OpenDataset
-second_title: Aspose.GIS for .NET API 参考
-description: DatabaseDriver 方法. 打开数据集
+title: "DatabaseDriver.OpenDataset"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "DatabaseDriver 方法。打开数据集。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/databasedriver/opendataset/
@@ -14,27 +14,27 @@ url: /zh/net/aspose.gis/databasedriver/opendataset/
 public abstract Dataset OpenDataset(IDbConnection connection)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| connection | IDbConnection | 打开与数据库的连接。 |
+| 连接 | IDbConnection | 已打开到数据库的连接。 |
 
 ### 返回值
 
-的实例[`Dataset`](../../dataset/).
+一个 [`Dataset`](../../dataset/) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 连接是`null`. |
+| ArgumentNullException | 连接为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../../dataset/)
 * class [DatabaseDriver](../)
-* 命名空间 [Aspose.Gis](../../databasedriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../databasedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

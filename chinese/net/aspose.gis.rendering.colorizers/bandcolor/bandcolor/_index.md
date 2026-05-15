@@ -1,23 +1,23 @@
 ---
-title: BandColor.BandColor
-second_title: Aspose.GIS for .NET API 参考
-description: BandColor 构造函数. 默认构造函数
+title: "BandColor.BandColor"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "BandColor 构造函数。初始化 BandColor 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.colorizers/bandcolor/bandcolor/
 ---
 ## BandColor constructor
 
-默认构造函数。
+初始化 [`BandColor`](../) 类的新实例。
 
 ```csharp
 public BandColor()
 ```
 
-### 也可以看看
+### 另见
 
 * class [BandColor](../)
-* 命名空间 [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

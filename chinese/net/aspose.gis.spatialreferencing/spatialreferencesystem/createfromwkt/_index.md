@@ -1,40 +1,40 @@
 ---
-title: SpatialReferenceSystem.CreateFromWkt
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 方法. 创建一个新的空间参考系统基于 WKT WellKnown Text string.
+title: "SpatialReferenceSystem.CreateFromWkt"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 方法。基于 WKT WellKnown Text 字符串创建一个新的 SpatialReferenceSystem"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/createfromwkt/
 ---
 ## SpatialReferenceSystem.CreateFromWkt method
 
-创建一个新的`空间参考系统`基于 WKT (Well-Known Text) string.
+基于 WKT（Well-Known Text）字符串创建新的 `SpatialReferenceSystem`。
 
 ```csharp
 public static SpatialReferenceSystem CreateFromWkt(string wkt)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | wkt | String | WKT 字符串。 |
 
 ### 返回值
 
-新的`空间参考系统`.
+新的 `SpatialReferenceSystem`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
-| FormatException | wkt 值的层次结构、它们的顺序或类型是错误的。 |
+| ArgumentNullException | 参数为 `null`。 |
+| FormatException | wkt 值的层次结构、顺序或类型不正确。 |
 | NotSupportedException | 不支持 WKT 根元素（例如它是 FITTED_CS）。 |
 
-### 也可以看看
+### 另见
 
 * method [TryCreateFromWkt](../trycreatefromwkt/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

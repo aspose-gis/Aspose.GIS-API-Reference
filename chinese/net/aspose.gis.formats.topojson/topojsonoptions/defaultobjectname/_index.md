@@ -1,27 +1,27 @@
 ---
-title: TopoJsonOptions.DefaultObjectName
-second_title: Aspose.GIS for .NET API 参考
-description: TopoJsonOptions 财产. 默认放置特征的对象的名称
+title: "TopoJsonOptions.DefaultObjectName"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "TopoJsonOptions 属性。默认放置要素的对象的名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.topojson/topojsonoptions/defaultobjectname/
 ---
 ## TopoJsonOptions.DefaultObjectName property
 
-默认放置特征的对象的名称。
+默认情况下放置要素的对象名称。
 
 ```csharp
 public string DefaultObjectName { get; set; }
 ```
 
-### 评论
+## 备注
 
-这是写入选项 - 它不影响读取。 TopoJSON 可能包含任意数量的命名对象。每个这样的对象都可以包含 个特征。为了指定在哪个对象中放置您的功能，请使用 [`ObjectNameAttribute`](../objectnameattribute/) property. 如果具有名称的属性[`ObjectNameAttribute`](../objectnameattribute/)是`null`或取消设置 for 某些功能，此功能将添加到名称为的对象`DefaultObjectName`. 如果具有名称的属性[`ObjectNameAttribute`](../objectnameattribute/)不存在于[`Attributes`](../../../aspose.gis/vectorlayer/attributes/) 集合，所有特征都放入名称对象中[`ObjectNameAttribute`](../objectnameattribute/). 默认值为“未命名”.
+这是写入选项——它不影响读取。TopoJSON 可以包含任意数量的命名对象。每个此类对象可以包含多个要素。为了指定将要素放入哪个对象，请使用 [`ObjectNameAttribute`](../objectnameattribute/) 属性。如果名称为 [`ObjectNameAttribute`](../objectnameattribute/) 的属性为 `null` 或未为某些要素设置，则该要素将添加到名称为 `DefaultObjectName` 的对象中。如果名称为 [`ObjectNameAttribute`](../objectnameattribute/) 的属性在 [`Attributes`](../../../aspose.gis/vectorlayer/attributes/) 集合中不存在，则所有要素都放入名称为 [`ObjectNameAttribute`](../objectnameattribute/) 的对象中。默认值为 "unnamed"。
 
-### 也可以看看
+### 另见
 
 * class [TopoJsonOptions](../)
-* 命名空间 [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsonoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

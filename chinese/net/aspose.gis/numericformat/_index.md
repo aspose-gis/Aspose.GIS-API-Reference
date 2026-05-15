@@ -1,39 +1,39 @@
 ---
-title: Class NumericFormat
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.NumericFormat 班级. NumericFormat用于格式化文本中常见的数字类型
+title: "类 NumericFormat"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.NumericFormat 类。NumericFormat 用于在文本中格式化常见数值类型"
 type: docs
-weight: 1290
+weight: 3440
 url: /zh/net/aspose.gis/numericformat/
 ---
 ## NumericFormat class
 
-`NumericFormat`用于格式化文本中常见的数字类型。
+`NumericFormat` 用于在文本中格式化常见数值类型。
 
 ```csharp
 public abstract class NumericFormat
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [RoundTrip](../../aspose.gis/numericformat/roundtrip/) { get; } | 转换并尝试确保将转换为 字符串的数值解析回相同的数值。 |
+| static [RoundTrip](../../aspose.gis/numericformat/roundtrip/) { get; } | 转换并尝试确保被转换为字符串的数值在解析回时仍保持相同的数值。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Flat](../../aspose.gis/numericformat/flat/)(int) | 将数字转换为不带科学记数法的定点文本。 |
-| static [General](../../aspose.gis/numericformat/general/)(int) | 将数字转换为更紧凑的定点或科学计数法， 取决于数字的类型以及是否存在精度说明符。推荐使用. |
+| static [Flat](../../aspose.gis/numericformat/flat/)(int) | 将数字转换为不使用科学计数法的定点文本。 |
+| static [General](../../aspose.gis/numericformat/general/)(int) | 根据数字的类型以及是否存在精度说明符，将数字转换为定点或科学计数法中更紧凑的形式。推荐使用。 |
 
-### 评论
+## 备注
 
-一共有三种类型`NumericFormat`: 一般 - 定点或科学记数法。一些数字很重要。 RoundTrip - 定点或科学记数法。最大位数很重要。 Flat - 定点表示法。一些数字很重要。 一个`NumericFormat`可以设置为[`IGeometry`](../../aspose.gis.geometries/igeometry/)通过[`AsText`](../../aspose.gis.geometries/igeometry/astext/) 以便在将几何图形转换为其 Well-Known Text (WKT) 表示时指定数字格式。
+`NumericFormat` 有三种类型：General - 定点或科学计数法。某些位数是有效的。RoundTrip - 定点或科学计数法。最大位数是有效的。Flat - 定点计数法。某些位数是有效的。  可以通过 [`IGeometry`](../../aspose.gis.geometries/igeometry/) 的 [`AsText`](../../aspose.gis.geometries/igeometry/astext/) 将 `NumericFormat` 设置为，以在将几何体转换为其 Well-Known Text（WKT）表示时指定数值格式。
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

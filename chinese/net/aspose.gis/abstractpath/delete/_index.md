@@ -1,7 +1,7 @@
 ---
-title: AbstractPath.Delete
-second_title: Aspose.GIS for .NET API 参考
-description: AbstractPath 方法. 删除此路径指向的文件
+title: "AbstractPath.Delete"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "AbstractPath 方法。删除此路径指向的文件"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/abstractpath/delete/
@@ -14,20 +14,20 @@ url: /zh/net/aspose.gis/abstractpath/delete/
 public abstract void Delete()
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 参数指向目录而不是文件。 |
+| InvalidOperationException | 参数指向的是目录而不是文件。 |
 
-### 评论
+## 备注
 
-如果文件不存在则不抛出异常。
+如果文件不存在，不会抛出异常。
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../)
-* 命名空间 [Aspose.Gis](../../abstractpath/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

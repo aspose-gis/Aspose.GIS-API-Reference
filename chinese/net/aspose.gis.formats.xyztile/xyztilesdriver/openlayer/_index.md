@@ -1,39 +1,39 @@
 ---
-title: XyzTilesDriver.OpenLayer
-second_title: Aspose.GIS for .NET API 参考
-description: XyzTilesDriver 方法. 打开图块集
+title: "XyzTilesDriver.OpenLayer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "XyzTilesDriver 方法。打开瓦片集合"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.xyztile/xyztilesdriver/openlayer/
 ---
 ## XyzTilesDriver.OpenLayer method
 
-打开图块集。
+打开瓦片集合。
 
 ```csharp
 public XyzTiles OpenLayer(XyzConnection connection)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| connection | XyzConnection | XyzTiles 格式的连接。 |
+| 连接 | XyzConnection | XyzTiles 格式的连接。 |
 
 ### 返回值
 
-的实例[`XyzTiles`](../../xyztiles/).
+[`XyzTiles`](../../xyztiles/) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 连接是`null`. |
+| ArgumentNullException | 连接为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [XyzTiles](../../xyztiles/)
 * class [XyzConnection](../../xyzconnection/)
 * class [XyzTilesDriver](../)
-* 命名空间 [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

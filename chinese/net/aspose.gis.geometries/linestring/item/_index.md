@@ -1,41 +1,41 @@
 ---
-title: LineString.Item
-second_title: Aspose.GIS for .NET API 参考
-description: LineString 财产. 获取或设置IPoint在指定的索引处.
+title: "LineString.Item"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LineString 属性。获取或设置指定索引处的 IPoint"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.geometries/linestring/item/
 ---
 ## LineString indexer
 
-获取或设置[`IPoint`](../../ipoint/)在指定的索引处.
+获取或设置指定索引处的 [`IPoint`](../../ipoint/)。
 
 ```csharp
 public IPoint this[int index] { get; set; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 指数。 |
+| 索引 | 该索引。 |
 
-### 适当的价值
+### Property Value
 
-的[`IPoint`](../../ipoint/).
+该 [`IPoint`](../../ipoint/)。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
-| ArgumentNullException | 价值是`null`. |
-| ArgumentException | 点是空的。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)这种几何和[`SpatialReferenceSystem`](../spatialreferencesystem/)的争论都不是`null` 并且彼此不相等。 |
+| ArgumentNullException | 该值为 `null`。 |
+| ArgumentException | 点为空。 |
+| ArgumentException | 此几何体的 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 与参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../linestring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,14 +1,14 @@
 ---
-title: Class TransformationException
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.SpatialReferencing.TransformationException 班级. 坐标转换或创建转换出错时抛出转换异常
+title: "类 TransformationException"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.SpatialReferencing.TransformationException 类。转换异常在坐标转换或转换创建期间发生错误时抛出"
 type: docs
-weight: 2280
+weight: 4730
 url: /zh/net/aspose.gis.spatialreferencing/transformationexception/
 ---
 ## TransformationException class
 
-坐标转换或创建转换出错时抛出转换异常。
+当坐标转换或转换创建过程中出现错误时，会抛出转换异常。
 
 ```csharp
 public class TransformationException : Exception
@@ -16,15 +16,15 @@ public class TransformationException : Exception
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [TransformationException](transformationexception/#constructor)() | 创建新实例. |
-| [TransformationException](transformationexception/#constructor_1)(string) | 创建新实例. |
-| [TransformationException](transformationexception/#constructor_2)(string, Exception) | 创建新实例. |
+| [TransformationException](transformationexception/#constructor)() | 创建新实例。 |
+| [TransformationException](transformationexception/#constructor_1)(string) | 创建新实例。 |
+| [TransformationException](transformationexception/#constructor_2)(string, Exception) | 创建新实例。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

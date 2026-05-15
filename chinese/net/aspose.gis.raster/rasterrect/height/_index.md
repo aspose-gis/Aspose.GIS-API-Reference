@@ -1,7 +1,7 @@
 ---
-title: RasterRect.Height
-second_title: Aspose.GIS for .NET API 参考
-description: RasterRect 财产. 获取高度行数
+title: "RasterRect.Height"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterRect 属性。获取高度行数"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.raster/rasterrect/height/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.raster/rasterrect/height/
 public int Height { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterRect](../)
-* 命名空间 [Aspose.Gis.Raster](../../rasterrect/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterrect/)
+* assembly [Aspose.GIS](../../../)
 
 

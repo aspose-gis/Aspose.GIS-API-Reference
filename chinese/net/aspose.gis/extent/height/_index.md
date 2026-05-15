@@ -1,7 +1,7 @@
 ---
-title: Extent.Height
-second_title: Aspose.GIS for .NET API 参考
-description: Extent 财产. 范围的高度
+title: "Extent.Height"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Extent 属性。范围的高度"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/extent/height/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis/extent/height/
 public double Height { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

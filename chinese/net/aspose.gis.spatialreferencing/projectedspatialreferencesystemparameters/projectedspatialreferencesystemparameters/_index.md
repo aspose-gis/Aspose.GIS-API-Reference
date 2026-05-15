@@ -1,23 +1,23 @@
 ---
-title: ProjectedSpatialReferenceSystemParameters.ProjectedSpatialReferenceSystemParameters
-second_title: Aspose.GIS for .NET API 参考
-description: ProjectedSpatialReferenceSystemParameters 构造函数. 默认构造函数
+title: "ProjectedSpatialReferenceSystemParameters.ProjectedSpatialReferenceSystemParameters"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ProjectedSpatialReferenceSystemParameters 构造函数。创建新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters constructor
 
-默认构造函数。
+创建新实例。
 
 ```csharp
 public ProjectedSpatialReferenceSystemParameters()
 ```
 
-### 也可以看看
+### 另见
 
 * class [ProjectedSpatialReferenceSystemParameters](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projectedspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

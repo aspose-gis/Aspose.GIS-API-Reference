@@ -1,7 +1,7 @@
 ---
-title: ConversionOptions.ConversionOptions
-second_title: Aspose.GIS for .NET API 参考
-description: ConversionOptions 构造函数. 默认构造函数
+title: "ConversionOptions.ConversionOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ConversionOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/conversionoptions/conversionoptions/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis/conversionoptions/conversionoptions/
 public ConversionOptions()
 ```
 
-### 也可以看看
+### 另见
 
 * class [ConversionOptions](../)
-* 命名空间 [Aspose.Gis](../../conversionoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../conversionoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

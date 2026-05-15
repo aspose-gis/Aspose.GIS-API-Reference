@@ -1,7 +1,7 @@
 ---
-title: IRasterValues.GetDataType
-second_title: Aspose.GIS for .NET API 参考
-description: IRasterValues 方法. 获取值的类型
+title: "IRasterValues.GetDataType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IRasterValues 方法。获取值的类型"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.raster/irastervalues/getdatatype/
@@ -14,19 +14,19 @@ url: /zh/net/aspose.gis.raster/irastervalues/getdatatype/
 public BandTypes GetDataType(int bandIndex = 0)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bandIndex | Int32 | 乐队的索引。编号从0开始。 |
+| bandIndex | Int32 | 波段的索引。编号从 0 开始。 |
 
 ### 返回值
 
 值的类型。
 
-### 也可以看看
+### 另见
 
 * enum [BandTypes](../../bandtypes/)
 * interface [IRasterValues](../)
-* 命名空间 [Aspose.Gis.Raster](../../irastervalues/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastervalues/)
+* assembly [Aspose.GIS](../../../)
 
 

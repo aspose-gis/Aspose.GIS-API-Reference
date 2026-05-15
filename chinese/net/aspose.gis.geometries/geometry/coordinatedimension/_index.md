@@ -1,27 +1,27 @@
 ---
-title: Geometry.CoordinateDimension
-second_title: Aspose.GIS for .NET API 参考
-description: Geometry 财产. 获取此的坐标维数Geometry.
+title: "Geometry.CoordinateDimension"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Geometry 属性。获取此 Geometry 的坐标维数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/geometry/coordinatedimension/
 ---
 ## Geometry.CoordinateDimension property
 
-获取此的坐标维数[`Geometry`](../).
+获取此[`Geometry`](../)的坐标维数。
 
 ```csharp
 public int CoordinateDimension { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-坐标维数.
+坐标维数。
 
-### 也可以看看
+### 另见
 
 * class [Geometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: StarGeneratorOptions.Seed
-second_title: Aspose.GIS for .NET API 参考
-description: StarGeneratorOptions 财产. 用于计算伪随机数序列的种子值的数字
+title: "StarGeneratorOptions.Seed"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "StarGeneratorOptions 属性。用于计算伪随机数序列种子值的数字"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.geotools/stargeneratoroptions/seed/
 ---
 ## StarGeneratorOptions.Seed property
 
-用于计算伪随机数序列的种子值的数字。
+用于计算伪随机数序列种子值的数字。
 
 ```csharp
 public int Seed { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [StarGeneratorOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

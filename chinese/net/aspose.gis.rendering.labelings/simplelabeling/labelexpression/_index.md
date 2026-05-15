@@ -1,24 +1,24 @@
 ---
-title: SimpleLabeling.LabelExpression
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLabeling 财产. 提供一种自定义和格式化标签文本的方法如果设置覆盖LabelAttribute. 要么LabelAttribute或者LabelExpression必须在渲染前设置 InvalidOperationException否则抛出.
+title: "SimpleLabeling.LabelExpression"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLabeling 属性。提供自定义和格式化标签文本的方法。如果设置，将覆盖 LabelAttribute。必须在渲染前设置 LabelAttribute 或 LabelExpression，否则将抛出 InvalidOperationException。"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/labelexpression/
 ---
 ## SimpleLabeling.LabelExpression property
 
-提供一种自定义和格式化标签文本的方法。如果设置，覆盖[`LabelAttribute`](../labelattribute/). 要么[`LabelAttribute`](../labelattribute/)或者`LabelExpression`必须在渲染前设置； InvalidOperationException否则抛出.
+提供自定义和格式化标签文本的方法。如果设置，将覆盖 [`LabelAttribute`](../labelattribute/)。必须在渲染前设置 [`LabelAttribute`](../labelattribute/) 或 `LabelExpression`；否则将抛出 InvalidOperationException。
 
 ```csharp
 public Func<Feature, string> LabelExpression { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Feature](../../../aspose.gis/feature/)
 * class [SimpleLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

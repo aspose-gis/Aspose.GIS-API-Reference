@@ -1,23 +1,23 @@
 ---
-title: GeocentricSpatialReferenceSystem.HasGeographicDatum
-second_title: Aspose.GIS for .NET API 参考
-description: GeocentricSpatialReferenceSystem 财产. 返回true  因为地心 SRS 总是有地理数据.
+title: "GeocentricSpatialReferenceSystem.HasGeographicDatum"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeocentricSpatialReferenceSystem 属性。返回 true，因为地心 SRS 总是具有地理基准"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/hasgeographicdatum/
 ---
 ## GeocentricSpatialReferenceSystem.HasGeographicDatum property
 
-返回`true` , 因为地心 SRS 总是有地理数据.
+返回 `true`，因为 geocentric SRS 总是具有地理基准。
 
 ```csharp
 public override bool HasGeographicDatum { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeocentricSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

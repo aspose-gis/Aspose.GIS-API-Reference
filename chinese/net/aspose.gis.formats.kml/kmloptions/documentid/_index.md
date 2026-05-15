@@ -1,23 +1,23 @@
 ---
-title: KmlOptions.DocumentId
-second_title: Aspose.GIS for .NET API 参考
-description: KmlOptions 财产. 用于指定根 Document node 的 id
+title: "KmlOptions.DocumentId"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlOptions 属性。用于指定根 Document 节点的 ID"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.kml/kmloptions/documentid/
 ---
 ## KmlOptions.DocumentId property
 
-用于指定根 'Document' node 的 id
+用于指定根 'Document' 节点的 id
 
 ```csharp
 public string DocumentId { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [KmlOptions](../)
-* 命名空间 [Aspose.Gis.Formats.Kml](../../kmloptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

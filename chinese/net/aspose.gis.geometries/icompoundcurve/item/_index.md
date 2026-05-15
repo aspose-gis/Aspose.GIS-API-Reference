@@ -1,32 +1,32 @@
 ---
-title: ICompoundCurve.Item
-second_title: Aspose.GIS for .NET API 参考
-description: ICompoundCurve 财产. 获取ICurve在指定的索引处.
+title: "ICompoundCurve.Item"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ICompoundCurve 属性。获取指定索引处的 ICurve"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/icompoundcurve/item/
 ---
 ## ICompoundCurve indexer
 
-获取[`ICurve`](../../icurve/)在指定的索引处.
+获取指定索引处的 [`ICurve`](../../icurve/)。
 
 ```csharp
 public ICurve this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 指数。 |
+| 索引 | 该索引。 |
 
-### 适当的价值
+### Property Value
 
-的[`ICurve`](../../icurve/).
+[`ICurve`](../../icurve/)。
 
-### 也可以看看
+### 另见
 
 * interface [ICurve](../../icurve/)
 * interface [ICompoundCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../icompoundcurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icompoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

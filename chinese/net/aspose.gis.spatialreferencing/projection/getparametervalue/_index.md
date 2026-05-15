@@ -1,40 +1,40 @@
 ---
-title: Projection.GetParameterValue
-second_title: Aspose.GIS for .NET API 参考
-description: Projection 方法. 获取具有此投影指定名称的参数
+title: "Projection.GetParameterValue"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Projection 方法。获取此投影中具有指定名称的参数"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/projection/getparametervalue/
 ---
 ## Projection.GetParameterValue method
 
-获取具有此投影指定名称的参数。
+获取此投影中具有指定名称的参数。
 
 ```csharp
 public double GetParameterValue(string name, ParameterType type = ParameterType.Other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 参数名称。 |
-| type | ParameterType | 参数类型。 定义将取消应用的单位因子： 如果类型为Linear然后[`LinearParametersUnit`](../linearparametersunit/)将取消应用，结果将以米为单位。 如果类型是Angular然后[`AngularParametersUnit`](../angularparametersunit/)将被取消应用并且结果将以弧度为单位。 如果类型是Other参数值将“按原样”返回。 |
+| 名称 | String | 参数的名称。 |
+| type | ParameterType | 参数的类型。定义将被取消的单位因子：如果类型是 Linear，则会取消 [`LinearParametersUnit`](../linearparametersunit/) 并且结果以米为单位。如果类型是 Angular，则会取消 [`AngularParametersUnit`](../angularparametersunit/) 并且结果以弧度为单位。如果类型是 Other，参数值将以原样返回。 |
 
 ### 返回值
 
 具有指定名称的参数。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数为空。 |
-| InvalidOperationException | 没有具有此名称的参数。 |
+| ArgumentNullException | 参数为 null。 |
+| InvalidOperationException | 不存在具有此名称的参数。 |
 
-### 也可以看看
+### 另见
 
 * enum [ParameterType](../../parametertype/)
 * class [Projection](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../projection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../projection/)
+* assembly [Aspose.GIS](../../../)
 
 

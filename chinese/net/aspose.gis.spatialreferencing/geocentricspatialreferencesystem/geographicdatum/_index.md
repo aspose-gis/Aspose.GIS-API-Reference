@@ -1,24 +1,24 @@
 ---
-title: GeocentricSpatialReferenceSystem.GeographicDatum
-second_title: Aspose.GIS for .NET API 参考
-description: GeocentricSpatialReferenceSystem 财产. 返回此 SRS 的地理数据
+title: "GeocentricSpatialReferenceSystem.GeographicDatum"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeocentricSpatialReferenceSystem 属性。返回此 SRS 的地理基准"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/geographicdatum/
 ---
 ## GeocentricSpatialReferenceSystem.GeographicDatum property
 
-返回此 SRS 的地理数据。
+返回此 SRS 的地理基准。
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeographicDatum](../../geographicdatum/)
 * class [GeocentricSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

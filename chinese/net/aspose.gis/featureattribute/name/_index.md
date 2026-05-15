@@ -1,7 +1,7 @@
 ---
-title: FeatureAttribute.Name
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttribute 财产. 获取属性的名称
+title: "FeatureAttribute.Name"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttribute 属性。获取属性的名称"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/featureattribute/name/
@@ -14,21 +14,21 @@ url: /zh/net/aspose.gis/featureattribute/name/
 public string Name { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
 属性的名称。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`. |
-| InvalidOperationException | 属性被锁定。 |
+| ArgumentNullException | 属性名称为 `null`。 |
+| InvalidOperationException | 属性已锁定。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../)
-* 命名空间 [Aspose.Gis](../../featureattribute/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

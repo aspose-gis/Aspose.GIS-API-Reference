@@ -1,23 +1,23 @@
 ---
-title: GeographicDatum.Nad83
-second_title: Aspose.GIS for .NET API 参考
-description: GeographicDatum 财产. NAD 83 数据.
+title: "GeographicDatum.Nad83"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeographicDatum 属性。NAD 83 基准面"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/geographicdatum/nad83/
 ---
 ## GeographicDatum.Nad83 property
 
-NAD 83 数据.
+NAD 83 基准。
 
 ```csharp
 public static GeographicDatum Nad83 { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeographicDatum](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

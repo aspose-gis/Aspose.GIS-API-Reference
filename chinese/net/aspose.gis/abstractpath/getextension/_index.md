@@ -1,14 +1,14 @@
 ---
-title: AbstractPath.GetExtension
-second_title: Aspose.GIS for .NET API 参考
-description: AbstractPath 方法. 返回这个的扩展名AbstractPath.
+title: "AbstractPath.GetExtension"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "AbstractPath 方法。返回此 AbstractPath 的扩展名"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/abstractpath/getextension/
 ---
 ## AbstractPath.GetExtension method
 
-返回这个的扩展名[`AbstractPath`](../).
+返回此 [`AbstractPath`](../) 的扩展名。
 
 ```csharp
 public string GetExtension()
@@ -16,16 +16,16 @@ public string GetExtension()
 
 ### 返回值
 
-这个的扩展[`AbstractPath`](../)（包括句点“.”） or 一个空字符串，如果[`AbstractPath`](../)没有扩展名.
+此 [`AbstractPath`](../) 的扩展名（包括句点 \".\"），如果 [`AbstractPath`](../) 没有扩展名则返回空字符串。
 
-### 例子
+## 示例
 
-对于一个`抽象路径`和[`Location`](../location/)等于`“/目录/文件.txt”` this 属性返回`“。TXT”`.
+对于 `AbstractPath`，其 [`Location`](../location/) 为 `"/directory/file.txt"`，此属性返回 `".txt"`。
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../)
-* 命名空间 [Aspose.Gis](../../abstractpath/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

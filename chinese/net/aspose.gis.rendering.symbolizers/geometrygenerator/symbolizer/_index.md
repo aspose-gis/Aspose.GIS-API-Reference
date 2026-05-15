@@ -1,24 +1,24 @@
 ---
-title: GeometryGenerator.Symbolizer
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryGenerator 财产. 指定要应用于修改后的几何图形的符号 默认值为NullVectorSymbolizer.
+title: "GeometryGenerator.Symbolizer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryGenerator 属性。指定要应用于修改后几何体的符号化器。默认是 NullVectorSymbolizer"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/
 ---
 ## GeometryGenerator.Symbolizer property
 
-指定要应用于修改后的几何图形的符号。 默认值为`NullVectorSymbolizer`.
+指定要应用于修改后几何形状的符号器。默认是 `NullVectorSymbolizer`。
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [GeometryGenerator](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

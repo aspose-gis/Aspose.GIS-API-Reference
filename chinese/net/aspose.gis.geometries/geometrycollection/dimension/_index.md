@@ -1,24 +1,24 @@
 ---
-title: GeometryCollection.Dimension
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryCollection 财产. 得到这个的拓扑维度Geometry. 如果集合为空Point返回.
+title: "GeometryCollection.Dimension"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryCollection 属性。获取此几何体的拓扑维度。如果集合为空，则返回点"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/geometrycollection/dimension/
 ---
 ## GeometryCollection.Dimension property
 
-得到这个的拓扑维度[`Geometry`](../../geometry/). 如果集合为空，Point返回.
+获取此 [`Geometry`](../../geometry/) 的拓扑维度。如果集合为空，则返回点。
 
 ```csharp
 public override GeometryDimension Dimension { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * enum [GeometryDimension](../../geometrydimension/)
 * class [GeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,9 +1,9 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Labelings.FontStyle 枚举. 指定要应用于文本的样式
+title: "枚举 FontStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Labelings.FontStyle 枚举。指定要应用于文本的样式"
 type: docs
-weight: 1600
+weight: 4050
 url: /zh/net/aspose.gis.rendering.labelings/fontstyle/
 ---
 ## FontStyle enumeration
@@ -15,19 +15,19 @@ url: /zh/net/aspose.gis.rendering.labelings/fontstyle/
 public enum FontStyle
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Regular | `0` | 常规文本。 |
-| Bold | `1` | 加粗字体。 |
+| Regular | `0` | 普通文本。 |
+| Bold | `1` | 粗体文本。 |
 | Italic | `2` | 斜体文本。 |
 | Underline | `4` | 带下划线的文本。 |
-| Strikeout | `8` | 中间有一条线的文本。 |
+| Strikeout | `8` | 中间有横线的文本。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

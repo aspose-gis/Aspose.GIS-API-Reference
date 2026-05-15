@@ -1,7 +1,7 @@
 ---
-title: RuleBasedSymbolizer.RuleBasedSymbolizer
-second_title: Aspose.GIS for .NET API 参考
-description: RuleBasedSymbolizer 构造函数. 默认构造函数
+title: "RuleBasedSymbolizer.RuleBasedSymbolizer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RuleBasedSymbolizer 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/rulebasedsymbolizer/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/rulebasedsymbo
 public RuleBasedSymbolizer()
 ```
 
-### 也可以看看
+### 另见
 
 * class [RuleBasedSymbolizer](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rulebasedsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

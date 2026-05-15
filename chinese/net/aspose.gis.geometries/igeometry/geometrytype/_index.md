@@ -1,28 +1,28 @@
 ---
-title: IGeometry.GeometryType
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometry 财产. 获取几何类型
+title: "IGeometry.GeometryType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometry 属性。获取几何体的类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/igeometry/geometrytype/
 ---
 ## IGeometry.GeometryType property
 
-获取几何类型。
+获取几何体的类型。
 
 ```csharp
 public GeometryType GeometryType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-几何类型。
+几何体的类型。
 
-### 也可以看看
+### 另见
 
 * enum [GeometryType](../../geometrytype/)
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

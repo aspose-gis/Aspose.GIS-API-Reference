@@ -1,27 +1,27 @@
 ---
-title: IGeometryCollection.Count
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometryCollection 财产. 获取此集合中的几何数
+title: "IGeometryCollection.Count"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometryCollection 属性。获取此集合中几何体的数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/igeometrycollection/count/
 ---
 ## IGeometryCollection.Count property
 
-获取此集合中的几何数。
+获取此集合中几何体的数量。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-几何图形的计数。
+几何体的计数。
 
-### 也可以看看
+### 另见
 
 * interface [IGeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

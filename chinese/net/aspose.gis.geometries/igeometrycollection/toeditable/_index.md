@@ -1,7 +1,7 @@
 ---
-title: IGeometryCollection.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometryCollection 方法. 获取此几何体的可编辑副本
+title: "IGeometryCollection.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometryCollection 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geometries/igeometrycollection/toeditable/
@@ -18,11 +18,11 @@ public GeometryCollection ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [GeometryCollection](../../geometrycollection/)
 * interface [IGeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

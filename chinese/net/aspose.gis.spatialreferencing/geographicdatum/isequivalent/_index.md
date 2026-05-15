@@ -1,56 +1,56 @@
 ---
-title: GeographicDatum.IsEquivalent
-second_title: Aspose.GIS for .NET API 参考
-description: GeographicDatum 方法. 判断两个基准是否等价 等价基准的相同坐标匹配地球上相同的地方 等价基准的某些参数可以不同例如Name.
+title: "GeographicDatum.IsEquivalent"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeographicDatum 方法。确定两个基准是否等价。等价基准的相同坐标对应地球上的同一点。等价基准的某些参数可能不同，例如 Name"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/geographicdatum/isequivalent/
 ---
 ## IsEquivalent(GeographicDatum, GeographicDatum)
 
-判断两个基准是否等价。 等价基准的相同坐标匹配地球上相同的地方。 等价基准的某些参数可以不同，例如[`Name`](../../identifiableobject/name/).
+确定两个基准是否等价。等价基准的相同坐标对应地球上的同一点。等价基准的某些参数可能不同，例如 [`Name`](../../identifiableobject/name/)。
 
 ```csharp
 public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| datum1 | GeographicDatum | 第一个数据。 |
-| datum2 | GeographicDatum | 第二个数据。 |
+| datum1 | GeographicDatum | 第一个基准。 |
+| datum2 | GeographicDatum | 第二个基准。 |
 
 ### 返回值
 
-bool 值，表示两个数据是否相等。
+bool 值，指示两个基准是否等价。
 
-### 也可以看看
+### 另见
 
 * class [GeographicDatum](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## IsEquivalent(GeographicDatum)
 
-判断两个基准是否等价。 等价基准的相同坐标匹配地球上相同的地方。 等价基准的某些参数可以不同，例如[`Name`](../../identifiableobject/name/).
+确定两个基准是否等价。等价基准的相同坐标对应地球上的同一点。等价基准的某些参数可能不同，例如 [`Name`](../../identifiableobject/name/)。
 
 ```csharp
 public bool IsEquivalent(GeographicDatum other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | GeographicDatum | 其他基准。 |
+| 其他 | GeographicDatum | 其他基准。 |
 
 ### 返回值
 
-bool 值，表示两个数据是否相等。
+bool 值，指示两个基准是否等价。
 
-### 也可以看看
+### 另见
 
 * class [GeographicDatum](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

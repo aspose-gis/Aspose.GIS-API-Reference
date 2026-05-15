@@ -1,7 +1,7 @@
 ---
-title: FileDriver.CanOpenLayers
-second_title: Aspose.GIS for .NET API 参考
-description: FileDriver 财产. 获取一个值指示此驱动程序是否可以打开矢量图层
+title: "FileDriver.CanOpenLayers"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FileDriver 属性。获取一个值，指示此驱动程序是否可以打开矢量图层"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/filedriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.gis/filedriver/canopenlayers/
 public abstract bool CanOpenLayers { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true` ，如果这个驱动程序可以打开矢量图层；否则，`false`.
+`true`，如果此驱动程序可以打开矢量图层；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../)
-* 命名空间 [Aspose.Gis](../../filedriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../filedriver/)
+* assembly [Aspose.GIS](../../../)
 
 

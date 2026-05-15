@@ -1,7 +1,7 @@
 ---
-title: Extent.XMax
-second_title: Aspose.GIS for .NET API 参考
-description: Extent 财产. X 坐标的最大值
+title: "Extent.XMax"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Extent 属性。X 坐标的最大值"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/extent/xmax/
@@ -14,10 +14,10 @@ X 坐标的最大值。
 public double XMax { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

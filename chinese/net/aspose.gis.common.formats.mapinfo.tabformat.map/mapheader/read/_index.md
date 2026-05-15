@@ -1,0 +1,21 @@
+---
+title: "MapHeader.Read"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MapHeader 方法。"
+type: docs
+weight: 20
+url: /zh/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheader/read/
+---
+## MapHeader.Read method
+
+```csharp
+public static MapHeader Read(BinaryReader reader)
+```
+
+### 另见
+
+* class [MapHeader](../)
+* namespace [Aspose.Gis.Common.Formats.MapInfo.TabFormat.Map](../../mapheader/)
+* assembly [Aspose.GIS](../../../)
+
+

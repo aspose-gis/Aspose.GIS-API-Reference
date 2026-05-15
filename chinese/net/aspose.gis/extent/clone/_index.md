@@ -1,7 +1,7 @@
 ---
-title: Extent.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: Extent 方法. 克隆此实例
+title: "Extent.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Extent 方法。克隆此实例"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis/extent/clone/
@@ -18,10 +18,10 @@ public Extent Clone()
 
 此实例的克隆。
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

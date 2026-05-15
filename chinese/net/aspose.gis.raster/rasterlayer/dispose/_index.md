@@ -1,23 +1,23 @@
 ---
-title: RasterLayer.Dispose
-second_title: Aspose.GIS for .NET API 参考
-description: RasterLayer 方法. 释放所使用的资源RasterLayer.
+title: "RasterLayer.Dispose"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterLayer 方法。释放 RasterLayer 使用的资源"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.raster/rasterlayer/dispose/
 ---
 ## RasterLayer.Dispose method
 
-释放所使用的资源[`RasterLayer`](../).
+释放由 [`RasterLayer`](../) 使用的资源。
 
 ```csharp
 public void Dispose()
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterLayer](../)
-* 命名空间 [Aspose.Gis.Raster](../../rasterlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

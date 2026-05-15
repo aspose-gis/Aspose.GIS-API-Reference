@@ -1,24 +1,24 @@
 ---
-title: Rule.Symbolizer
-second_title: Aspose.GIS for .NET API 参考
-description: Rule 财产. 应用于特征的符号器
+title: "Rule.Symbolizer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Rule 属性。要应用于要素的符号化器"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.symbolizers/rule/symbolizer/
 ---
 ## Rule.Symbolizer property
 
-应用于特征的符号器。
+要应用于要素的符号器。
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [Rule](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rule/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rule/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: KmlBalloonStyle.TextColor
-second_title: Aspose.GIS for .NET API 参考
-description: KmlBalloonStyle 财产. 指定文本的前景色默认值为Black.
+title: "KmlBalloonStyle.TextColor"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlBalloonStyle 属性。指定文本的前景颜色。默认值为 Black"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor/
 ---
 ## KmlBalloonStyle.TextColor property
 
-指定文本的前景色。默认值为Black.
+指定文本的前景颜色。 默认值为 黑色。
 
 ```csharp
 public Color TextColor { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [KmlBalloonStyle](../)
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../kmlballoonstyle/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlballoonstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

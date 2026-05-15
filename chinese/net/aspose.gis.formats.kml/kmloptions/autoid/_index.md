@@ -1,24 +1,24 @@
 ---
-title: KmlOptions.AutoId
-second_title: Aspose.GIS for .NET API 参考
-description: KmlOptions 财产. 自动生成 ids
+title: "KmlOptions.AutoId"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlOptions 属性。自动生成 ID"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.kml/kmloptions/autoid/
 ---
 ## KmlOptions.AutoId property
 
-自动生成 ids
+自动生成 ID
 
 ```csharp
 public AutoIds AutoId { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * enum [AutoIds](../../../aspose.gis/autoids/)
 * class [KmlOptions](../)
-* 命名空间 [Aspose.Gis.Formats.Kml](../../kmloptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml](../../kmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

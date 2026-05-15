@@ -1,39 +1,39 @@
 ---
-title: Feature.IsValueSet
-second_title: Aspose.GIS for .NET API 参考
-description: Feature 方法. 检查是否在此功能中设置了属性值
+title: "Feature.IsValueSet"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Feature 方法。检查此特性中是否已设置属性值"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/feature/isvalueset/
 ---
 ## Feature.IsValueSet method
 
-检查是否在此功能中设置了属性值。
+检查此特性中是否已设置属性值。
 
 ```csharp
 public bool IsValueSet(string attributeName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | attributeName | String | 属性的名称。 |
 
 ### 返回值
 
-`true`如果设置了指定属性的值；否则，`false`.
+`true` 如果已为指定属性设置值；否则为 `false`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 属性未锁定。 |
+| InvalidOperationException | 属性未被锁定。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| ArgumentNullException | 属性名称是`null`. |
+| ArgumentNullException | 属性名称为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [Feature](../)
-* 命名空间 [Aspose.Gis](../../feature/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

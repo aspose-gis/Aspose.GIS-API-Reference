@@ -1,27 +1,27 @@
 ---
-title: FileGdbOptions.ZTolerance
-second_title: Aspose.GIS for .NET API 参考
-description: FileGdbOptions 财产. Z 捕捉公差.
+title: "FileGdbOptions.ZTolerance"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FileGdbOptions 属性。Z 方向的捕捉容差"
 type: docs
-weight: 80
+weight: 110
 url: /zh/net/aspose.gis.formats.filegdb/filegdboptions/ztolerance/
 ---
 ## FileGdbOptions.ZTolerance property
 
-Z 捕捉公差.
+Z 捕捉容差。
 
 ```csharp
 public double? ZTolerance { get; set; }
 ```
 
-### 评论
+## 备注
 
-这是一个创建选项，它不影响读取。 该参数控制用于高级 ArcGIS 功能的捕捉公差。 它不影响 Aspose.GIS 行为，但它可以被 ArcGIS 使用。 参数的单位是空间参照系的单位。 如果设置为`null` , 使用默认值。如果空间参考系统是 unknown 或小于三个维度，则默认值为 0.001。如果空间参考系有三个维度 默认为 0.001 米转换为第三个维度的单位.
+这是一个创建选项，不影响读取和编辑。此参数控制用于高级 ArcGIS 功能的捕捉容差。它不影响 Aspose.GIS 的行为，但可被 ArcGIS 使用。该参数的单位与空间参考系统的单位相同。如果设置为 `null`，将使用默认值。如果空间参考系统未知或维度少于三维，默认值为 0.001。如果空间参考系统为三维，默认值为 0.001 米，转换为第三维的单位。
 
-### 也可以看看
+### 另见
 
 * class [FileGdbOptions](../)
-* 命名空间 [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.FileGdb](../../filegdboptions/)
+* assembly [Aspose.GIS](../../../)
 
 

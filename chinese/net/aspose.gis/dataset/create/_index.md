@@ -1,161 +1,161 @@
 ---
-title: Dataset.Create
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 创建数据集
+title: "Dataset.Create"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。创建数据集"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/dataset/create/
 ---
 ## Create(string, FileDriver) {#create_2}
 
-创建数据集。
+创建一个数据集。
 
 ```csharp
 public static Dataset Create(string path, FileDriver driver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 创建数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集。 |
-| InvalidOperationException | 数据集已经存在。 |
+| NotSupportedException | Driver 无法打开数据集。 |
+| InvalidOperationException | 数据集已存在。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver) {#create}
 
-创建数据集。
+创建一个数据集。
 
 ```csharp
 public static Dataset Create(AbstractPath path, FileDriver driver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 创建数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集。 |
-| InvalidOperationException | 数据集已经存在。 |
+| NotSupportedException | Driver 无法打开数据集。 |
+| InvalidOperationException | 数据集已存在。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Create(string, FileDriver, DriverOptions) {#create_3}
 
-创建数据集。
+创建一个数据集。
 
 ```csharp
 public static Dataset Create(string path, FileDriver driver, DriverOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 创建数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集。 |
-| InvalidOperationException | 数据集已经存在。 |
+| NotSupportedException | Driver 无法打开数据集。 |
+| InvalidOperationException | 数据集已存在。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Create(AbstractPath, FileDriver, DriverOptions) {#create_1}
 
-创建数据集。
+创建一个数据集。
 
 ```csharp
 public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 创建数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序无法打开数据集。 |
-| InvalidOperationException | 数据集已经存在。 |
+| NotSupportedException | Driver 无法打开数据集。 |
+| InvalidOperationException | 数据集已存在。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

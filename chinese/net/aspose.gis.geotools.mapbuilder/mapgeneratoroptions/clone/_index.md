@@ -1,14 +1,14 @@
 ---
-title: MapGeneratorOptions.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: MapGeneratorOptions 方法. 将对象相互克隆
+title: "MapGeneratorOptions.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MapGeneratorOptions 方法。将对象克隆到另一个对象"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/clone/
 ---
 ## MapGeneratorOptions.Clone method
 
-将对象相互克隆。
+将对象克隆到另一个对象。
 
 ```csharp
 public MapGeneratorOptions Clone()
@@ -16,12 +16,12 @@ public MapGeneratorOptions Clone()
 
 ### 返回值
 
-将对象克隆到另一个[`MapGeneratorOptions`](../).
+将对象克隆到另一个对象 [`MapGeneratorOptions`](../)。
 
-### 也可以看看
+### 另见
 
 * class [MapGeneratorOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../mapgeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

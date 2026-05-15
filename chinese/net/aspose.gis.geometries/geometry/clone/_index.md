@@ -1,7 +1,7 @@
 ---
-title: Geometry.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: Geometry 方法. 克隆此实例
+title: "Geometry.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Geometry 方法。克隆此实例"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.geometries/geometry/clone/
@@ -16,12 +16,12 @@ public abstract Geometry Clone()
 
 ### 返回值
 
-这个实例的克隆
+此实例的克隆
 
-### 也可以看看
+### 另见
 
 * class [Geometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

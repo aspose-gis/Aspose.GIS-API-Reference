@@ -1,7 +1,7 @@
 ---
-title: Point.X
-second_title: Aspose.GIS for .NET API 参考
-description: Point 财产. 获取或设置 x 坐标的值
+title: "Point.X"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Point 属性。获取或设置 x 坐标的值"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.geometries/point/x/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.geometries/point/x/
 public double X { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Point](../)
-* 命名空间 [Aspose.Gis.Geometries](../../point/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../point/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: MixedGeometrySymbolizer.MixedGeometrySymbolizer
-second_title: Aspose.GIS for .NET API 参考
-description: MixedGeometrySymbolizer 构造函数. 默认构造函数
+title: "MixedGeometrySymbolizer.MixedGeometrySymbolizer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MixedGeometrySymbolizer 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/mixedgeometrysymbolizer/
 ---
 ## MixedGeometrySymbolizer constructor
 
-默认构造函数。
+创建新实例。
 
 ```csharp
 public MixedGeometrySymbolizer()
 ```
 
-### 也可以看看
+### 另见
 
 * class [MixedGeometrySymbolizer](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../mixedgeometrysymbolizer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../mixedgeometrysymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

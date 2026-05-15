@@ -1,49 +1,51 @@
 ---
-title: Geometry.Disjoint
-second_title: Aspose.GIS for .NET API 参考
-description: Geometry 方法. 确定此几何是否与指定几何不相交
+title: "Geometry.Disjoint"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Geometry 方法。确定此几何体是否与指定的几何体不相交"
 type: docs
 weight: 190
 url: /zh/net/aspose.gis.geometries/geometry/disjoint/
 ---
 ## Geometry.Disjoint method
 
-确定此几何是否与指定几何不相交。
+确定此几何体是否与指定的几何体不相交。
 
 ```csharp
 public bool Disjoint(IGeometry other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IGeometry | 一个几何。 |
+| 其他 | IGeometry | 一个几何体。 |
 
 ### 返回值
 
-`true`如果此几何与另一个几何“在空间上不相交”。`false`否则.
+`true` 如果此几何体是 \"空间上不相交\" 另一个几何体。`false` 否则。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
-| ArgumentException | 其中一个几何图形无效，无法完成操作。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)几何形状不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/)为了将几何图形转换为相同的 spatial 参考系统。 |
+| ArgumentNullException | 参数为 `null`。 |
+| ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
-### 评论
+## 备注
 
-此方法测试几何图形在 DE-9IM 交集矩阵方面是否不相交。 基本上，它测试两个几何图形没有公共点。 这个方法等同于： 有关 DE-9IM 的更多详细信息，请参阅 OpenGIS 简单功能规范。
+此方法测试在 DE-9IM 交叉矩阵的意义下，几何体是否不相交。基本上，它测试两个几何体没有公共点。此方法等价于：
 
 ```csharp
 this.Relate(other, "FF*FF****");
 ```
 
-### 也可以看看
+有关 DE-9IM 的更多细节，请参阅 OpenGIS Simple Features Specification。
+
+### 另见
 
 * method [Intersects](../../igeometry/intersects/)
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: RuleBasedLabeling.RuleBasedLabeling
-second_title: Aspose.GIS for .NET API 参考
-description: RuleBasedLabeling 构造函数. 默认构造函数
+title: "RuleBasedLabeling.RuleBasedLabeling"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RuleBasedLabeling 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.labelings/rulebasedlabeling/rulebasedlabeling/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.rendering.labelings/rulebasedlabeling/rulebasedlabeling/
 public RuleBasedLabeling()
 ```
 
-### 也可以看看
+### 另见
 
 * class [RuleBasedLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

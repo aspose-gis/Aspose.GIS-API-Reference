@@ -1,49 +1,49 @@
 ---
-title: IGeometry.CoveredBy
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometry 方法. 判断这个几何体是否被指定的几何体覆盖
+title: "IGeometry.CoveredBy"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometry 方法。确定此几何是否被指定几何覆盖"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.geometries/igeometry/coveredby/
 ---
 ## IGeometry.CoveredBy method
 
-判断这个几何体是否被指定的几何体覆盖。
+确定此几何体是否被指定几何体覆盖。
 
 ```csharp
 public bool CoveredBy(IGeometry other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IGeometry | 一个几何。 |
+| 其他 | IGeometry | 一个几何体。 |
 
 ### 返回值
 
-`true`如果这个几何体被另一个几何体“空间覆盖”。`false`否则.
+`true` 如果此几何 "空间上被覆盖" 另一个几何。`false` 否则。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
-| ArgumentException | 其中一个几何图形无效，无法完成操作。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/)几何形状不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/)为了将几何图形转换为相同的 spatial 参考系统。 |
+| ArgumentNullException | 参数为 `null`。 |
+| ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) 的几何体不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
-### 评论
+## 备注
 
-此方法根据 DE-9IM 交集矩阵测试一个几何体是否被另一个几何体覆盖。 这个方法等同于：
+此方法测试一个几何是否在 DE-9IM 相交矩阵意义上被另一个几何覆盖。此方法等价于：
 
 ```csharp
 other.Covers(this);
 ```
 
-### 也可以看看
+### 另见
 
 * method [SpatiallyContains](../spatiallycontains/)
 * method [Covers](../covers/)
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

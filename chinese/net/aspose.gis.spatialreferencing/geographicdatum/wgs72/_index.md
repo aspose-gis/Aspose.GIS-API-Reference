@@ -1,23 +1,23 @@
 ---
-title: GeographicDatum.Wgs72
-second_title: Aspose.GIS for .NET API 参考
-description: GeographicDatum 财产. WGS 72 基准.
+title: "GeographicDatum.Wgs72"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeographicDatum 属性。WGS 72 基准面"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.spatialreferencing/geographicdatum/wgs72/
 ---
 ## GeographicDatum.Wgs72 property
 
-WGS 72 基准.
+WGS 72 基准。
 
 ```csharp
 public static GeographicDatum Wgs72 { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeographicDatum](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicdatum/)
+* assembly [Aspose.GIS](../../../)
 
 

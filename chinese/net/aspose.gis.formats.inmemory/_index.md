@@ -1,17 +1,17 @@
 ---
-title: Aspose.Gis.Formats.InMemory
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.InMemoryLayer命名空间提供用于处理 InMemoryLayer. 的类
+title: "Aspose.Gis.Formats.InMemory"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.InMemoryLayer 命名空间提供用于处理 InMemoryLayer 的类"
 type: docs
-weight: 110
+weight: 330
 url: /zh/net/aspose.gis.formats.inmemory/
 ---
-`Aspose.Gis.Formats.InMemoryLayer`命名空间提供用于处理 InMemoryLayer. 的类
+`Aspose.Gis.Formats.InMemoryLayer` 命名空间提供用于处理 InMemoryLayer 的类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [InMemoryDriver](./inmemorydriver/) | 用于处理内存中数据的驱动程序。 |
+| [InMemoryDriver](./inmemorydriver/) | 用于在内存中处理数据的驱动程序。 |
 
 

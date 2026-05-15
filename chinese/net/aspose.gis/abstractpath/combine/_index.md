@@ -1,35 +1,35 @@
 ---
-title: AbstractPath.Combine
-second_title: Aspose.GIS for .NET API 参考
-description: AbstractPath 方法. 结合这个AbstractPath具有指定路径组件.
+title: "AbstractPath.Combine"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "AbstractPath 方法。将此 AbstractPath 与指定的路径组件组合"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/abstractpath/combine/
 ---
 ## AbstractPath.Combine method
 
-结合这个[`AbstractPath`](../)具有指定路径组件.
+将此 [`AbstractPath`](../) 与指定的路径组件组合。
 
 ```csharp
 public virtual AbstractPath Combine(string location)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| location | String | 要附加到此的路径组件[`AbstractPath`](../). |
+| location | String | 要追加到此 [`AbstractPath`](../) 的路径组件。 |
 
 ### 返回值
 
-一个新的[`AbstractPath`](../)指向一个[`Location`](../location/)这是这个位置的组合[`AbstractPath`](../)and 参数.
+一个新的 [`AbstractPath`](../)，指向一个 [`Location`](../location/)，该位置是此 [`AbstractPath`](../) 与参数的位置的组合。
 
-### 评论
+## 备注
 
-通常这个方法不应该被继承者覆盖。默认的 implementation 连接这个[`Location`](../location/)与参数并调用[`WithLocation`](../withlocation/) 方法，以连接的字符串作为参数。 组合结果定义如下： 如果参数以[`Separator`](../separator/)组合结果等于自变量；否则，如果[`Location`](../location/)以[`Separator`](../separator/), 组合结果等于` +`;否则，结果等于` + +`
+通常不应由子类重写此方法。默认实现将此 [`Location`](../location/) 与参数连接，并使用连接后的字符串作为参数调用 [`WithLocation`](../withlocation/) 方法。组合结果的定义如下：如果参数以 [`Separator`](../separator/) 开头，组合结果等于参数；否则，如果 [`Location`](../location/) 以 [`Separator`](../separator/) 结尾，组合结果等于 ` + `；否则，结果等于 ` + + `
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../)
-* 命名空间 [Aspose.Gis](../../abstractpath/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,0 +1,21 @@
+---
+title: "None.op_Equality"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "None 方法。"
+type: docs
+weight: 50
+url: /zh/net/aspose.gis.common.formats.mapinfo.graphicalobjects/none/op_equality/
+---
+## None Equality operator
+
+```csharp
+public static bool operator ==(None left, None right)
+```
+
+### 另见
+
+* class [None](../)
+* namespace [Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects](../../none/)
+* assembly [Aspose.GIS](../../../)
+
+

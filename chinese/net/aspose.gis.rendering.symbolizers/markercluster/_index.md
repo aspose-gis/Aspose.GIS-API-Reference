@@ -1,14 +1,14 @@
 ---
-title: Class MarkerCluster
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Symbolizers.MarkerCluster 班级. 标记簇符号器
+title: "类 MarkerCluster"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Symbolizers.MarkerCluster 类。标记簇符号器"
 type: docs
-weight: 1840
+weight: 4290
 url: /zh/net/aspose.gis.rendering.symbolizers/markercluster/
 ---
 ## MarkerCluster class
 
-标记簇符号器。
+标记聚类符号器。
 
 ```csharp
 public class MarkerCluster : VectorSymbolizer
@@ -16,23 +16,23 @@ public class MarkerCluster : VectorSymbolizer
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [MarkerCluster](markercluster/#constructor_1)(MarkerCluster) | 初始化一个新的实例`MarkerCluster`类. |
-| [MarkerCluster](markercluster/#constructor)(Measurement) | 初始化一个新的实例`MarkerCluster`类. |
+| [MarkerCluster](markercluster/#constructor_1)(MarkerCluster) | 初始化 `MarkerCluster` 类的新实例。 |
+| [MarkerCluster](markercluster/#constructor)(Measurement) | 初始化 `MarkerCluster` 类的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration/) { get; set; } | 用于在呈现聚类中心之前配置此符号器的回调。 |
-| [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker/) { get; set; } | 指定聚类中心的标记符号。 |
-| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker/) { get; set; } | 指定嵌套聚类点的标记符号。默认是[`Null`](../vectorsymbolizer/null/). |
+| [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration/) { get; set; } | 在渲染簇中心之前，用于配置此符号器的回调。 |
+| [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker/) { get; set; } | 指定簇中心的标记符号器。 |
+| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker/) { get; set; } | 指定嵌套簇点的标记符号器。默认是 [`Null`](../vectorsymbolizer/null/)。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorSymbolizer](../vectorsymbolizer/)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

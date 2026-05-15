@@ -1,9 +1,9 @@
 ---
-title: Dataset.RemoveLayerAt
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 删除指定索引处的矢量图层
+title: "Dataset.RemoveLayerAt"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。 在指定索引处删除矢量图层"
 type: docs
-weight: 140
+weight: 160
 url: /zh/net/aspose.gis/dataset/removelayerat/
 ---
 ## Dataset.RemoveLayerAt method
@@ -14,23 +14,23 @@ url: /zh/net/aspose.gis/dataset/removelayerat/
 public virtual void RemoveLayerAt(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 图层索引 |
+| 索引 | Int32 | 图层的索引 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
-| NotSupportedException | 不支持图层移除。 |
+| NotSupportedException | 不支持删除图层。 |
 | IOException | 发生 I/O 错误。 |
 | [GisException](../../gisexception/) | 删除图层时出错。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

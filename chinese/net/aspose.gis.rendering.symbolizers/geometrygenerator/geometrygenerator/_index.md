@@ -1,7 +1,7 @@
 ---
-title: GeometryGenerator.GeometryGenerator
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryGenerator 构造函数. 默认构造函数
+title: "GeometryGenerator.GeometryGenerator"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryGenerator 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/geometrygenerator/geometrygenerator/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.rendering.symbolizers/geometrygenerator/geometrygenerato
 public GeometryGenerator()
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeometryGenerator](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../geometrygenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

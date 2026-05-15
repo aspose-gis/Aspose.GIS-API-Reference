@@ -1,41 +1,41 @@
 ---
-title: Interface IGeometryCollection
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.IGeometryCollection 界面. 一个IGeometryCollection是一个IGeometry这是一个或多个几何图形的集合
+title: "接口 IGeometryCollection"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.IGeometryCollection 接口。IGeometryCollection 是一种 IGeometry，它是一个或多个几何体的集合。"
 type: docs
-weight: 1010
+weight: 2790
 url: /zh/net/aspose.gis.geometries/igeometrycollection/
 ---
 ## IGeometryCollection interface
 
-一个`IGeometryCollection`是一个[`IGeometry`](../igeometry/)这是一个或多个几何图形的集合。
+`IGeometryCollection` 是一个 [`IGeometry`](../igeometry/)，它是一个或多个几何体的集合。
 
 ```csharp
 public interface IGeometryCollection : IEnumerable<IGeometry>, IEquatable<IGeometryCollection>, 
     IGeometry
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.gis.geometries/igeometrycollection/count/) { get; } | 获取此集合中的几何数。 |
-| [Item](../../aspose.gis.geometries/igeometrycollection/item/) { get; } | 得到一个[`IGeometry`](../igeometry/)在指定的索引处. |
+| [Count](../../aspose.gis.geometries/igeometrycollection/count/) { get; } | 获取此集合中几何体的数量。 |
+| [Item](../../aspose.gis.geometries/igeometrycollection/item/) { get; } | 获取指定索引处的 [`IGeometry`](../igeometry/)。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [GetPointOnSurface](../../aspose.gis.geometries/igeometrycollection/getpointonsurface/)() | 找到保证位于该集合中的一个表面上的点。 |
-| [ReplacePolygonsByLines](../../aspose.gis.geometries/igeometrycollection/replacepolygonsbylines/)() | 获取表示为该几何体的线的多边形。 |
+| [GetPointOnSurface](../../aspose.gis.geometries/igeometrycollection/getpointonsurface/)() | 查找一个保证位于此集合中某个表面的点。 |
+| [ReplacePolygonsByLines](../../aspose.gis.geometries/igeometrycollection/replacepolygonsbylines/)() | 获取此几何体中表示为线的多边形。 |
 | [ToEditable](../../aspose.gis.geometries/igeometrycollection/toeditable/)() | 获取此几何体的可编辑副本。 |
-| [ToLinearGeometry](../../aspose.gis.geometries/igeometrycollection/tolineargeometry/#tolineargeometry)() | 使用默认值获取此几何的近似或等效非曲线版本`宽容`. |
-| [ToLinearGeometry](../../aspose.gis.geometries/igeometrycollection/tolineargeometry/#tolineargeometry_1)(double) | 使用指定的几何图形获取近似或等效的非曲线版本`宽容`. |
+| [ToLinearGeometry](../../aspose.gis.geometries/igeometrycollection/tolineargeometry/#tolineargeometry)() | 使用默认的 `tolerance` 获取此几何对象的近似或等效的非曲线版本。 |
+| [ToLinearGeometry](../../aspose.gis.geometries/igeometrycollection/tolineargeometry/#tolineargeometry_1)(double) | 使用指定的 `tolerance` 获取此几何对象的近似或等效的非曲线版本。 |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../igeometry/)
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

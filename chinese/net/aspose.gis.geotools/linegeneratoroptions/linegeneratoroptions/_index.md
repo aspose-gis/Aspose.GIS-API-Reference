@@ -1,23 +1,23 @@
 ---
-title: LineGeneratorOptions.LineGeneratorOptions
-second_title: Aspose.GIS for .NET API 参考
-description: LineGeneratorOptions 构造函数. 默认构造函数
+title: "LineGeneratorOptions.LineGeneratorOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LineGeneratorOptions 构造函数。默认使用初始化字段创建实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geotools/linegeneratoroptions/linegeneratoroptions/
 ---
 ## LineGeneratorOptions constructor
 
-默认构造函数。
+默认使用初始化字段创建实例。
 
 ```csharp
 public LineGeneratorOptions()
 ```
 
-### 也可以看看
+### 另见
 
 * class [LineGeneratorOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../linegeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

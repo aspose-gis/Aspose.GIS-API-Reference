@@ -1,7 +1,7 @@
 ---
-title: CsvDriver.CsvDriver
-second_title: Aspose.GIS for .NET API 参考
-description: CsvDriver 构造函数. 默认构造函数
+title: "CsvDriver.CsvDriver"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CsvDriver 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.csv/csvdriver/csvdriver/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.formats.csv/csvdriver/csvdriver/
 public CsvDriver()
 ```
 
-### 也可以看看
+### 另见
 
 * class [CsvDriver](../)
-* 命名空间 [Aspose.Gis.Formats.Csv](../../csvdriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Csv](../../csvdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: Map.Dispose
-second_title: Aspose.GIS for .NET API 参考
-description: Map 方法. 处置资源
+title: "Map.Dispose"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Map 方法。释放资源"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.rendering/map/dispose/
 ---
 ## Map.Dispose method
 
-处置资源。
+释放资源。
 
 ```csharp
 public void Dispose()
 ```
 
-### 也可以看看
+### 另见
 
 * class [Map](../)
-* 命名空间 [Aspose.Gis.Rendering](../../map/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

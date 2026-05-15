@@ -1,7 +1,7 @@
 ---
-title: Polygon.Equals
-second_title: Aspose.GIS for .NET API 参考
-description: Polygon 方法. 确定指定对象是否等于当前对象
+title: "Polygon.Equals"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Polygon 方法。确定指定的对象是否等于当前对象"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.geometries/polygon/equals/
@@ -14,20 +14,20 @@ url: /zh/net/aspose.gis.geometries/polygon/equals/
 public bool Equals(ICurvePolygon other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | ICurvePolygon | 要与当前对象进行比较的对象。 |
+| 其他 | ICurvePolygon | 用于与当前对象比较的对象。 |
 
 ### 返回值
 
-如果指定对象等于当前对象，则为真；否则为真。否则，假的。
+如果指定的对象等于当前对象，则为 true；否则为 false。
 
-### 也可以看看
+### 另见
 
 * interface [ICurvePolygon](../../icurvepolygon/)
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -39,20 +39,20 @@ public bool Equals(ICurvePolygon other)
 public bool Equals(IPolygon other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IPolygon | 要与当前对象进行比较的对象。 |
+| 其他 | IPolygon | 用于与当前对象比较的对象。 |
 
 ### 返回值
 
-如果指定对象等于当前对象，则为真；否则为真。否则，假的。
+如果指定的对象等于当前对象，则为 true；否则为 false。
 
-### 也可以看看
+### 另见
 
 * interface [IPolygon](../../ipolygon/)
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -64,18 +64,18 @@ public bool Equals(IPolygon other)
 public override bool Equals(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 要与当前对象进行比较的对象。 |
+| obj | Object | 用于与当前对象比较的对象。 |
 
 ### 返回值
 
-如果指定对象等于当前对象，则为真；否则为真。否则，假的。
+如果指定的对象等于当前对象，则为 true；否则为 false。
 
-### 也可以看看
+### 另见
 
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

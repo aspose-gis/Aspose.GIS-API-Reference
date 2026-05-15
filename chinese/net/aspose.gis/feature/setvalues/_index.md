@@ -1,46 +1,46 @@
 ---
-title: Feature.SetValues
-second_title: Aspose.GIS for .NET API 参考
-description: Feature 方法. 为所有属性设置新值 也考虑使用CopyValues在一次调用中简化设置值的方法.
+title: "Feature.SetValues"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Feature 方法。为所有属性设置新值。还可以考虑使用 CopyValues 方法以在一次调用中简化设置值的过程"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis/feature/setvalues/
 ---
 ## Feature.SetValues method
 
-为所有属性设置新值。 也考虑使用[`CopyValues`](../copyvalues/)在一次调用中简化设置值的方法.
+为所有属性设置新值。还可以考虑使用 [`CopyValues`](../copyvalues/) 方法以在一次调用中简化设置值的过程。
 
 ```csharp
 public int SetValues(object[] values)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| values | Object[] | 新值的数组。 |
+| 值 | Object[] | 新值的数组。 |
 
 ### 返回值
 
-属性值集的数量。
+已设置的属性值数量。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数不能`null`. |
+| ArgumentNullException | 参数不能为 `null`。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未锁定。 |
-| InvalidCastException | 值的类型没有实现IConvertible. |
+| InvalidOperationException | 属性未被锁定。 |
+| InvalidCastException | 值的类型未实现 IConvertible。 |
 | FormatException | 转换失败，因为值的格式不正确。 |
-| OverflowException | 由于溢出，转换失败。 |
+| OverflowException | 转换失败，因溢出。 |
 
-### 评论
+## 备注
 
-此方法自动将每个值转换为属性的类型。  values 数组的长度不需要与特征中的属性数匹配。 如果数组长度大于属性数，则将所有数组值复制到属性中； 如果小于，只有数组长度的值被复制到属性中， 从序号为 0. 的属性值开始
+此方法会自动将每个值转换为属性的类型。值数组的长度不必与要素中的属性数量匹配。如果数组长度大于属性数量，所有数组值都会复制到属性中；如果数组长度较短，则仅将数组长度对应数量的值复制到属性中，从序号为 0 的属性值开始。
 
-### 也可以看看
+### 另见
 
 * class [Feature](../)
-* 命名空间 [Aspose.Gis](../../feature/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../feature/)
+* assembly [Aspose.GIS](../../../)
 
 

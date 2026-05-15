@@ -1,40 +1,40 @@
 ---
-title: SpatialReferenceSystem.CreateTransformationTo
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 方法. 从中创建转换空间参考系统给另一个空间参考系统.
+title: "SpatialReferenceSystem.CreateTransformationTo"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 方法。创建从此 SpatialReferenceSystem 到另一个 SpatialReferenceSystem 的转换"
 type: docs
 weight: 180
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/createtransformationto/
 ---
 ## SpatialReferenceSystem.CreateTransformationTo method
 
-从中创建转换`空间参考系统`给另一个`空间参考系统`.
+创建从此 `SpatialReferenceSystem` 到另一个 `SpatialReferenceSystem` 的转换。
 
 ```csharp
 public SpatialReferenceSystemTransformation CreateTransformationTo(SpatialReferenceSystem targetSrs)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| targetSrs | SpatialReferenceSystem | 其他`空间参考系统`. |
+| targetSrs | SpatialReferenceSystem | 另一个 `SpatialReferenceSystem`。 |
 
 ### 返回值
 
-由此改造`空间参考系统`给另一个`空间参考系统`.
+从此 `SpatialReferenceSystem` 到另一个 `SpatialReferenceSystem` 的转换。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| NotSupportedException | 这之间的转换`空间参考系统`并且不支持参数。 这可能会发生，因为不支持其中一个投影，或者其中一个系统是[`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem/)or [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/). |
-| [TransformationException](../../transformationexception/) | 由于内部参数错误，无法创建转换`空间参考系统`. |
+| NotSupportedException | 不支持此 `SpatialReferenceSystem` 与参数之间的转换。这可能是因为某个投影不受支持，或某个系统是 [`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem/) 或 [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/)。 |
+| [TransformationException](../../transformationexception/) | 由于 `SpatialReferenceSystem` 中的参数错误，转换创建失败。 |
 
-### 也可以看看
+### 另见
 
 * method [TryCreateTransformationTo](../trycreatetransformationto/)
 * class [SpatialReferenceSystemTransformation](../../spatialreferencesystemtransformation/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

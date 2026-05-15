@@ -1,9 +1,9 @@
 ---
-title: Interface IRasterBand
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Raster.IRasterBand 界面. 包含有关栅格波段的元数据
+title: "接口 IRasterBand"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Raster.IRasterBand 接口。包含关于栅格波段的元数据"
 type: docs
-weight: 1330
+weight: 3770
 url: /zh/net/aspose.gis.raster/irasterband/
 ---
 ## IRasterBand interface
@@ -14,15 +14,15 @@ url: /zh/net/aspose.gis.raster/irasterband/
 public interface IRasterBand
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [DataType](../../aspose.gis.raster/irasterband/datatype/) { get; } | 获取存储在每个单元格中的值的类型。 |
+| [DataType](../../aspose.gis.raster/irasterband/datatype/) { get; } | 获取每个单元格中存储的值的类型。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

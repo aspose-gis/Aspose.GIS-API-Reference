@@ -1,23 +1,23 @@
 ---
-title: SpatialReferenceSystem.DimensionsCount
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. 返回此 SRS 中的维数
+title: "SpatialReferenceSystem.DimensionsCount"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。返回此 SRS 中维度的数量。"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/dimensionscount/
 ---
 ## SpatialReferenceSystem.DimensionsCount property
 
-返回此 SRS 中的维数。
+返回此 SRS 的维度数量。
 
 ```csharp
 public abstract int DimensionsCount { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: WarpOptions.DefaultSpatialReferenceSystem
-second_title: Aspose.GIS for .NET API 参考
-description: WarpOptions 财产. 为缺少的源空间参考指定一个值
+title: "WarpOptions.DefaultSpatialReferenceSystem"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "WarpOptions 属性。指定源空间参考的值（如果缺失）。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.raster/warpoptions/defaultspatialreferencesystem/
 ---
 ## WarpOptions.DefaultSpatialReferenceSystem property
 
-为缺少的源空间参考指定一个值。
+如果缺少源空间参考，则指定其值。
 
 ```csharp
 public SpatialReferenceSystem DefaultSpatialReferenceSystem { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [WarpOptions](../)
-* 命名空间 [Aspose.Gis.Raster](../../warpoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

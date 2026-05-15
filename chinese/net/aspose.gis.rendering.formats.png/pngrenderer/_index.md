@@ -1,14 +1,14 @@
 ---
-title: Class PngRenderer
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Formats.Png.PngRenderer 班级. 一个Renderer呈现Map进入 PNG 文件.
+title: "类 PngRenderer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Formats.Png.PngRenderer 类。将 Map 渲染为 PNG 文件的渲染器"
 type: docs
-weight: 1580
+weight: 4030
 url: /zh/net/aspose.gis.rendering.formats.png/pngrenderer/
 ---
 ## PngRenderer class
 
-一个[`Renderer`](../../aspose.gis.rendering/renderer/)呈现[`Map`](../../aspose.gis.rendering/map/)进入 PNG 文件.
+一个 [`Renderer`](../../aspose.gis.rendering/renderer/) 将 [`Map`](../../aspose.gis.rendering/map/) 渲染为 PNG 文件的渲染器。
 
 ```csharp
 public class PngRenderer : Renderer
@@ -16,15 +16,15 @@ public class PngRenderer : Renderer
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | 渲染图。 |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | 渲染图。 |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | 渲染地图。 |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | 渲染地图。 |
 
-### 也可以看看
+### 另见
 
 * class [Renderer](../../aspose.gis.rendering/renderer/)
-* 命名空间 [Aspose.Gis.Rendering.Formats.Png](../../aspose.gis.rendering.formats.png/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Formats.Png](../../aspose.gis.rendering.formats.png/)
+* assembly [Aspose.GIS](../../)
 
 

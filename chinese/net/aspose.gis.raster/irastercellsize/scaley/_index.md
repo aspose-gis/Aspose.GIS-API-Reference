@@ -1,23 +1,23 @@
 ---
-title: IRasterCellSize.ScaleY
-second_title: Aspose.GIS for .NET API 参考
-description: IRasterCellSize 财产. 获取单元格或像素高度y 尺度的 y 分量通常为负数
+title: "IRasterCellSize.ScaleY"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IRasterCellSize 属性。获取单元格或像素高度的 y 分量 yscale，通常为负"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.raster/irastercellsize/scaley/
 ---
 ## IRasterCellSize.ScaleY property
 
-获取单元格或像素高度（y 尺度）的 y 分量，通常为负数。
+获取单元格或像素高度的 y 分量（y 缩放），通常为负。
 
 ```csharp
 public double ScaleY { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * interface [IRasterCellSize](../)
-* 命名空间 [Aspose.Gis.Raster](../../irastercellsize/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../irastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

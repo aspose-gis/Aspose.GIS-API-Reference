@@ -1,28 +1,28 @@
 ---
-title: MultiPolygon.GeometryType
-second_title: Aspose.GIS for .NET API 参考
-description: MultiPolygon 财产. 获取几何类型
+title: "MultiPolygon.GeometryType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiPolygon 属性。获取几何体的类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/multipolygon/geometrytype/
 ---
 ## MultiPolygon.GeometryType property
 
-获取几何类型。
+获取几何体的类型。
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-几何类型。
+几何体的类型。
 
-### 也可以看看
+### 另见
 
 * enum [GeometryType](../../geometrytype/)
 * class [MultiPolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multipolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,34 +1,34 @@
 ---
-title: RuleBasedLabeling.AddElseRule
-second_title: Aspose.GIS for .NET API 参考
-description: RuleBasedLabeling 方法. 添加将应用于不匹配任何过滤规则的特征的标签
+title: "RuleBasedLabeling.AddElseRule"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RuleBasedLabeling 方法。添加一个标记，该标记将应用于不匹配任何过滤规则的特征"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/
 ---
 ## RuleBasedLabeling.AddElseRule method
 
-添加将应用于不匹配任何过滤规则的特征的标签。
+添加一个标注，用于未匹配任何过滤规则的要素。
 
 ```csharp
 public void AddElseRule(Labeling labeling)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| labeling | Labeling | 一个标签。 |
+| 标注 | 标注 | 一个标记。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [Labeling](../../labeling/)
 * class [RuleBasedLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../rulebasedlabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

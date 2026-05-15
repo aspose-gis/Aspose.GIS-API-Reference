@@ -1,30 +1,30 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.CapStyle 枚举. 指定线条在其末端的呈现方式
+title: "枚举 CapStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.CapStyle 枚举。指定线段在端点的渲染方式"
 type: docs
-weight: 1490
+weight: 3940
 url: /zh/net/aspose.gis.rendering/capstyle/
 ---
 ## CapStyle enumeration
 
-指定线条在其末端的呈现方式。
+指定线条在端点的渲染方式。
 
 ```csharp
 public enum CapStyle
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Butt | `0` | 锋利的方形边缘。 |
-| Round | `1` | 圆边。 |
+| Butt | `0` | 锐利的方形边缘。 |
+| Round | `1` | 圆形边缘。 |
 | Square | `2` | 略微拉长的方形边缘。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.MapInfoTab
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.MapInfoTab命名空间提供用于处理 MapInfo 选项卡格式的类
+title: "Aspose.Gis.Formats.MapInfoTab"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.MapInfoTab 命名空间提供用于处理 MapInfo Tab 格式的类"
 type: docs
-weight: 150
+weight: 380
 url: /zh/net/aspose.gis.formats.mapinfotab/
 ---
-`Aspose.Gis.Formats.MapInfoTab`命名空间提供用于处理 MapInfo 选项卡格式的类。
+`Aspose.Gis.Formats.MapInfoTab` 命名空间提供用于处理 MapInfo Tab 格式的类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [MapInfoTabDriver](./mapinfotabdriver/) | MapInfo Tab 格式的驱动程序。 |
-| [MapInfoTabOptions](./mapinfotaboptions/) | MapInfo 选项卡格式的驱动程序特定选项。 |
+| [MapInfoTabDriver](./mapinfotabdriver/) | 用于 MapInfo Tab 格式的驱动程序。 |
+| [MapInfoTabOptions](./mapinfotaboptions/) | 针对 MapInfo Tab 格式的驱动程序特定选项。 |
 
 

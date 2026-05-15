@@ -1,7 +1,7 @@
 ---
-title: Extent.YMin
-second_title: Aspose.GIS for .NET API 参考
-description: Extent 财产. Y 坐标的最小值
+title: "Extent.YMin"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Extent 属性。Y 坐标的最小值"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis/extent/ymin/
@@ -14,10 +14,10 @@ Y 坐标的最小值。
 public double YMin { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

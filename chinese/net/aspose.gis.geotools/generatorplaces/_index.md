@@ -1,29 +1,29 @@
 ---
-title: Enum GeneratorPlaces
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.GeoTools.GeneratorPlaces 枚举. 描述对象使用的地方GeoGenerator.
+title: "枚举 GeneratorPlaces"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.GeoTools.GeneratorPlaces 枚举。描述 GeoGenerator 使用的对象位置。"
 type: docs
-weight: 770
+weight: 2450
 url: /zh/net/aspose.gis.geotools/generatorplaces/
 ---
 ## GeneratorPlaces enumeration
 
-描述对象使用的地方[`GeoGenerator`](../geogenerator/).
+描述由 [`GeoGenerator`](../geogenerator/) 使用的对象位置。
 
 ```csharp
 public enum GeneratorPlaces
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Random | `0` | 随机放置。 |
-| Regular | `1` | 在中心的地方 |
+| Regular | `1` | 中心放置 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.GeoTools](../../aspose.gis.geotools/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: SpatialReferenceSystem.PrimeMeridian
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. 返回此 SRS 的本初子午线
+title: "SpatialReferenceSystem.PrimeMeridian"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。返回此 SRS 的本初子午线。"
 type: docs
 weight: 160
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/
 public abstract PrimeMeridian PrimeMeridian { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | InvalidOperationException | 此 SRS 没有本初子午线。[`HasPrimeMeridian`](../hasprimemeridian/) |
 
-### 也可以看看
+### 另见
 
 * class [PrimeMeridian](../../primemeridian/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: RasterImageMarker.VerticalOffset
-second_title: Aspose.GIS for .NET API 参考
-description: RasterImageMarker 财产. 指定从点位置到形状锚点的垂直偏移
+title: "RasterImageMarker.VerticalOffset"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterImageMarker 属性。指定从点位置到形状锚点的垂直偏移量"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/verticaloffset/
 public Measurement VerticalOffset { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [RasterImageMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

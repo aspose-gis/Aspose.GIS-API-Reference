@@ -1,79 +1,79 @@
 ---
-title: Geometry.FromBinary
-second_title: Aspose.GIS for .NET API 参考
-description: Geometry 方法. 从众所周知的二进制表示形式创建几何
+title: "Geometry.FromBinary"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Geometry 方法。从其 WellKnown Binary 表示创建几何体"
 type: docs
-weight: 460
+weight: 470
 url: /zh/net/aspose.gis.geometries/geometry/frombinary/
 ---
 ## FromBinary(byte[]) {#frombinary}
 
-从众所周知的二进制表示形式创建几何。
+从其已知二进制（Well-Known Binary）表示创建几何体。
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| wkb | Byte[] | 众所周知的几何图形的二进制表示。 |
+| wkb | Byte[] | 几何体的 Well-Known Binary 表示。 |
 
 ### 返回值
 
-由参数表示的几何。
+由参数表示的几何体。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数为空。 |
-| NotSupportedException | 参数表示不支持类型的几何图形。 |
+| ArgumentNullException | 参数为 null。 |
+| NotSupportedException | 参数表示一种不受支持类型的几何体。 |
 | FormatException | 参数不是有效的 Well-Known Binary。 |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## FromBinary(byte[], SpatialReferenceSystem) {#frombinary_1}
 
-从众所周知的二进制表示形式创建几何。
+从其已知二进制（Well-Known Binary）表示创建几何体。
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialReferenceSystem)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| wkb | Byte[] | 众所周知的几何图形的二进制表示。 |
-| spatialReferenceSystem | SpatialReferenceSystem | 要分配给几何体的空间参考系。 |
+| wkb | Byte[] | 几何体的 Well-Known Binary 表示。 |
+| spatialReferenceSystem | SpatialReferenceSystem | 要分配给几何体的空间参考系统。 |
 
 ### 返回值
 
-由参数表示的几何。
+由参数表示的几何体。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数为空。 |
-| NotSupportedException | 参数表示不支持类型的几何图形。 |
+| ArgumentNullException | 参数为 null。 |
+| NotSupportedException | 参数表示一种不受支持类型的几何体。 |
 | FormatException | 参数不是有效的 Well-Known Binary。 |
 
-### 评论
+## 备注
 
-如果几何a之后有多余的字节FormatException抛出异常。
+如果几何体后面有额外的字节，将抛出 FormatException 异常。
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../../igeometry/)
 * class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [Geometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

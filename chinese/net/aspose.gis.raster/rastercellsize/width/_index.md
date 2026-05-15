@@ -1,7 +1,7 @@
 ---
-title: RasterCellSize.Width
-second_title: Aspose.GIS for .NET API 参考
-description: RasterCellSize 财产. 计算像素宽度
+title: "RasterCellSize.Width"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterCellSize 属性。计算像素宽度"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.raster/rastercellsize/width/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.raster/rastercellsize/width/
 public double Width { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterCellSize](../)
-* 命名空间 [Aspose.Gis.Raster](../../rastercellsize/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

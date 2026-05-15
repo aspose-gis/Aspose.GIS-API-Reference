@@ -1,7 +1,7 @@
 ---
-title: CurvePolygon.IsEmpty
-second_title: Aspose.GIS for .NET API 参考
-description: CurvePolygon 财产. 获取一个值指示此实例是否为空
+title: "CurvePolygon.IsEmpty"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CurvePolygon 属性. 获取指示此实例是否为空的值"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.geometries/curvepolygon/isempty/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.gis.geometries/curvepolygon/isempty/
 public override bool IsEmpty { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true`如果此实例为空；否则，`false`.
+`true` 表示此实例为空；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [CurvePolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../curvepolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

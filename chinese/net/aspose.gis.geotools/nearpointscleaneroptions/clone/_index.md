@@ -1,7 +1,7 @@
 ---
-title: NearPointsCleanerOptions.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: NearPointsCleanerOptions 方法. 创建对象的副本
+title: "NearPointsCleanerOptions.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "NearPointsCleanerOptions 方法。创建对象的副本"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geotools/nearpointscleaneroptions/clone/
@@ -16,12 +16,12 @@ public NearPointsCleanerOptions Clone()
 
 ### 返回值
 
-选项克隆。
+选项的克隆。
 
-### 也可以看看
+### 另见
 
 * class [NearPointsCleanerOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../nearpointscleaneroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../nearpointscleaneroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

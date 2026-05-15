@@ -1,7 +1,7 @@
 ---
-title: MapLayersGenerator.MapLayersGenerator
-second_title: Aspose.GIS for .NET API 参考
-description: MapLayersGenerator 构造函数. 默认构造函数
+title: "MapLayersGenerator.MapLayersGenerator"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MapLayersGenerator 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/maplayersgenerator/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/maplayersgenerato
 public MapLayersGenerator()
 ```
 
-### 也可以看看
+### 另见
 
 * class [MapLayersGenerator](../)
-* 命名空间 [Aspose.Gis.GeoTools.MapBuilder](../../maplayersgenerator/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools.MapBuilder](../../maplayersgenerator/)
+* assembly [Aspose.GIS](../../../)
 
 

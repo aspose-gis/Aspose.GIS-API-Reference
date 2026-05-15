@@ -1,78 +1,78 @@
 ---
-title: Polygon.Polygon
-second_title: Aspose.GIS for .NET API 参考
-description: Polygon 构造函数. 初始化一个新的实例Polygon类.
+title: "Polygon.Polygon"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Polygon 构造函数。初始化 Polygon 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/polygon/polygon/
 ---
 ## Polygon() {#constructor}
 
-初始化一个新的实例[`Polygon`](../)类.
+初始化 [`Polygon`](../) 类的新实例。
 
 ```csharp
 public Polygon()
 ```
 
-### 也可以看看
+### 另见
 
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Polygon(ILinearRing) {#constructor_1}
 
-初始化一个新的实例[`Polygon`](../)类.
+初始化 [`Polygon`](../) 类的新实例。
 
 ```csharp
 public Polygon(ILinearRing exteriorRing)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| exteriorRing | ILinearRing | 外环。 |
+| exteriorRing | ILinearRing | 外部环。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * interface [ILinearRing](../../ilinearring/)
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Polygon(ILinearRing, IEnumerable&lt;ILinearRing&gt;) {#constructor_2}
 
-初始化一个新的实例[`Polygon`](../)类.
+初始化 [`Polygon`](../) 类的新实例。
 
 ```csharp
 public Polygon(ILinearRing exteriorRing, IEnumerable<ILinearRing> interiorRings)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| exteriorRing | ILinearRing | 外环。 |
+| exteriorRing | ILinearRing | 外部环。 |
 | interiorRings | IEnumerable`1 | 内部环。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * interface [ILinearRing](../../ilinearring/)
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

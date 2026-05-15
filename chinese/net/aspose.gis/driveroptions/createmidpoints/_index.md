@@ -1,23 +1,23 @@
 ---
-title: DriverOptions.CreateMidpoints
-second_title: Aspose.GIS for .NET API 参考
-description: DriverOptions 财产. 确定是否在每个几何段的中间添加一个新点默认为false.
+title: "DriverOptions.CreateMidpoints"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "DriverOptions 属性。确定是否在几何的每个线段中间添加新点。默认值为 false"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/driveroptions/createmidpoints/
 ---
 ## DriverOptions.CreateMidpoints property
 
-确定是否在每个几何段的中间添加一个新点。默认为`false`.
+确定是否在几何体的每个线段中间添加新点。默认值为 `false`。
 
 ```csharp
 public bool CreateMidpoints { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [DriverOptions](../)
-* 命名空间 [Aspose.Gis](../../driveroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

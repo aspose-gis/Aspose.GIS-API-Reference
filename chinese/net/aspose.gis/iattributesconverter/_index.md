@@ -1,14 +1,14 @@
 ---
-title: Interface IAttributesConverter
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.IAttributesConverter 界面. 图层属性的自定义转换器
+title: "接口 IAttributesConverter"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.IAttributesConverter 接口。用于图层属性的自定义转换器"
 type: docs
-weight: 1250
+weight: 3030
 url: /zh/net/aspose.gis/iattributesconverter/
 ---
 ## IAttributesConverter interface
 
-图层属性的自定义转换器。
+用于图层属性的自定义转换器。
 
 ```csharp
 public interface IAttributesConverter
@@ -16,13 +16,13 @@ public interface IAttributesConverter
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute/)(FeatureAttribute, AttributesConverterActions) | 调整一个[`FeatureAttribute`](../featureattribute/)根据目标层的需要。 |
+| [ModifyAttribute](../../aspose.gis/iattributesconverter/modifyattribute/)(FeatureAttribute, AttributesConverterActions) | 根据目标图层的需要调整 [`FeatureAttribute`](../featureattribute/)。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

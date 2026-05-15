@@ -1,23 +1,23 @@
 ---
-title: GeographicSpatialReferenceSystemParameters.Name
-second_title: Aspose.GIS for .NET API 参考
-description: GeographicSpatialReferenceSystemParameters 财产. 地理 SRS 的名称默认为未命名.
+title: "GeographicSpatialReferenceSystemParameters.Name"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeographicSpatialReferenceSystemParameters 属性。地理 SRS 的名称。默认是 Unnamed。"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/name/
 ---
 ## GeographicSpatialReferenceSystemParameters.Name property
 
-地理 SRS 的名称。默认为“未命名”.
+地理 SRS 的名称。默认是 \"Unnamed\"。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeographicSpatialReferenceSystemParameters](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystemparameters/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geographicspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

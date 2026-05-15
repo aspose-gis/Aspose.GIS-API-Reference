@@ -1,30 +1,30 @@
 ---
-title: SpatialReferenceSystem.AsGeographic
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. 返回此 SRS 转换为GeographicSpatialReferenceSystem. 使用Type找出是否可以转换
+title: "SpatialReferenceSystem.AsGeographic"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。返回此 SRS 转换为 GeographicSpatialReferenceSystem。使用 Type 以确定是否可以进行转换"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/asgeographic/
 ---
 ## SpatialReferenceSystem.AsGeographic property
 
-返回此 SRS 转换为[`GeographicSpatialReferenceSystem`](../../geographicspatialreferencesystem/). 使用[`Type`](../type/)找出是否可以转换。
+返回此 SRS 转换为 [`GeographicSpatialReferenceSystem`](../../geographicspatialreferencesystem/)。使用 [`Type`](../type/) 以确定是否可以进行转换。
 
 ```csharp
 public virtual GeographicSpatialReferenceSystem AsGeographic { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 无法转换。 |
+| InvalidOperationException | 无法进行转换。 |
 
-### 也可以看看
+### 另见
 
 * class [GeographicSpatialReferenceSystem](../../geographicspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

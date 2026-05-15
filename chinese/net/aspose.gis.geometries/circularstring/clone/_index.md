@@ -1,7 +1,7 @@
 ---
-title: CircularString.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: CircularString 方法. 克隆此实例
+title: "CircularString.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CircularString 方法。克隆此实例"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.geometries/circularstring/clone/
@@ -16,13 +16,13 @@ public override Geometry Clone()
 
 ### 返回值
 
-这个实例的克隆
+此实例的克隆
 
-### 也可以看看
+### 另见
 
 * class [Geometry](../../geometry/)
 * class [CircularString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../circularstring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

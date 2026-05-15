@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.VerticalOffset
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleFill 财产. 指定从多边形位置到渲染形状的垂直偏移
+title: "SimpleFill.VerticalOffset"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleFill 属性。指定从多边形位置到渲染形状的垂直偏移"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/verticaloffset/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/verticaloffset/
 public Measurement VerticalOffset { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

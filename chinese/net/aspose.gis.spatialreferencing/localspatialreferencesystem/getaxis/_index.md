@@ -1,38 +1,38 @@
 ---
-title: LocalSpatialReferenceSystem.GetAxis
-second_title: Aspose.GIS for .NET API 参考
-description: LocalSpatialReferenceSystem 方法. 得到Axis描述维度.
+title: "LocalSpatialReferenceSystem.GetAxis"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LocalSpatialReferenceSystem 方法。获取描述维度的轴"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.spatialreferencing/localspatialreferencesystem/getaxis/
 ---
 ## LocalSpatialReferenceSystem.GetAxis method
 
-得到[`Axis`](../../axis/)描述维度.
+获取描述维度的 [`Axis`](../../axis/).
 
 ```csharp
 public override Axis GetAxis(int dimension)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dimension | Int32 | 维数。 |
+| 维度 | Int32 | 维度的数量。 |
 
 ### 返回值
 
-描述维度的轴。
+描述维度的 Axis.
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *dimension*小于 0 或大于或等于[`DimensionsCount`](../dimensionscount/) |
+| ArgumentOutOfRangeException | *dimension* 小于 0 或大于或等于 [`DimensionsCount`](../dimensionscount/) |
 
-### 也可以看看
+### 另见
 
 * class [Axis](../../axis/)
 * class [LocalSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

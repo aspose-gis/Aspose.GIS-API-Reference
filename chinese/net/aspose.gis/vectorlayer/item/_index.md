@@ -1,41 +1,41 @@
 ---
-title: VectorLayer.Item
-second_title: Aspose.GIS for .NET API 参考
-description: VectorLayer 财产. 获取Feature在指定的索引处.
+title: "VectorLayer.Item"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VectorLayer 属性。获取指定索引处的 Feature。"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/vectorlayer/item/
 ---
 ## VectorLayer indexer
 
-获取[`Feature`](../../feature/)在指定的索引处.
+获取指定索引处的 [`Feature`](../../feature/)。
 
 ```csharp
 public virtual Feature this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 特征的索引。 |
+| 索引 | 特征的索引。 |
 
-### 适当的价值
+### Property Value
 
-的[`Feature`](../../feature/).
+该 [`Feature`](../../feature/)。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层以只写方式打开，则抛出。 |
+| InvalidOperationException | 如果图层以只写方式打开，则会抛出此异常。 |
 | ArgumentOutOfRangeException | 索引超出范围。 |
-| [GisException](../../gisexception/) | 从文件中读取特征时出错。 |
+| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [Feature](../../feature/)
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

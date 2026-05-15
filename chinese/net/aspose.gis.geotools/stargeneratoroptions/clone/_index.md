@@ -1,14 +1,14 @@
 ---
-title: StarGeneratorOptions.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: StarGeneratorOptions 方法. 将对象相互克隆
+title: "StarGeneratorOptions.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "StarGeneratorOptions 方法。将对象克隆到另一个对象"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geotools/stargeneratoroptions/clone/
 ---
 ## StarGeneratorOptions.Clone method
 
-将对象相互克隆。
+将对象克隆到另一个对象。
 
 ```csharp
 public StarGeneratorOptions Clone()
@@ -16,12 +16,12 @@ public StarGeneratorOptions Clone()
 
 ### 返回值
 
-将对象克隆到另一个[`PolygonGeneratorOptions`](../../polygongeneratoroptions/).
+将对象克隆到另一个对象 [`PolygonGeneratorOptions`](../../polygongeneratoroptions/)。
 
-### 也可以看看
+### 另见
 
 * class [StarGeneratorOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../stargeneratoroptions/)
+* assembly [Aspose.GIS](../../../)
 
 
