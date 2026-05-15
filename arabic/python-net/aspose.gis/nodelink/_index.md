@@ -1,0 +1,179 @@
+---
+title: "فئة NodeLink"
+type: docs
+weight: 2800
+url: /ar/python-net/aspose.gis/nodelink/
+---
+
+**Summary:** Node-based link to the parts of resources
+
+**Module:** [aspose.gis](/psd/python-net/aspose.gis/)
+
+**Full Name:** aspose.gis.NodeLink
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **الوصف** |
+| :- | :- | :- | :- |
+| children | [NodeLink[]](/psd/python-net/aspose.gis/nodelink) | r | يحصل على الأطفال. |
+| node_name | string | r/w | يحصل أو يعيّن الاسم. |
+| node_value | string | r/w | يحصل أو يعيّن القيمة. |
+## **Methods**
+| **Name** | **الوصف** |
+| :- | :- |
+| [add_child(child)](#add_child_child_1) | يضيف الطفل. |
+| [as_bool()](#as_bool__2) | يرجع القيمة محوّلة إلى bool |
+| [as_double()](#as_double__3) | يرجع القيمة محوّلة إلى double. |
+| [as_int()](#as_int__4) | يعيد القيمة محوَّلة إلى int. |
+| [find_nodes_by_name(name)](#find_nodes_by_name_name_5) | يبحث عن العقد بالاسم |
+| [get_node_by_name(name)](#get_node_by_name_name_6) | يحصل على العقدة بالاسم. يرجى ملاحظة أن هذه الطريقة ستعيد أول عقدة تم العثور عليها.<br/>            لا يهم في أي مستوى سيتم العثور عليها |
+| [get_node_content()](#get_node_content__7) | يحصل على محتوى العقدة. |
+| [get_nodes_by_name(names)](#get_nodes_by_name_names_8) | يحصل على جميع العقد بالاسم المحدد. <br/>            لا يهم في أي مستوى سيتم العثور عليها |
+
+
+### Method: add_child(child) {#add_child_child_1}
+
+
+```
+ add_child(child) 
+```
+
+يضيف الطفل.
+
+**Parameters:**
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| child | [NodeLink](/psd/python-net/aspose.gis/nodelink) | العنصر الفرعي. |
+
+### Method: as_bool() {#as_bool__2}
+
+
+```
+ as_bool() 
+```
+
+يرجع القيمة محوّلة إلى bool
+
+**Returns**
+
+| نوع | الوصف |
+| :- | :- |
+| bool | القيمة المنطقية للعقدة |
+
+
+### Method: as_double() {#as_double__3}
+
+
+```
+ as_double() 
+```
+
+يرجع القيمة محوّلة إلى double.
+
+**Returns**
+
+| نوع | الوصف |
+| :- | :- |
+| double | القيمة double للعقدة |
+
+
+### Method: as_int() {#as_int__4}
+
+
+```
+ as_int() 
+```
+
+يعيد القيمة محوَّلة إلى int.
+
+**Returns**
+
+| نوع | الوصف |
+| :- | :- |
+| int | القيمة int للعقدة |
+
+
+### Method: find_nodes_by_name(name) {#find_nodes_by_name_name_5}
+
+
+```
+ find_nodes_by_name(name) 
+```
+
+يبحث عن العقد بالاسم
+
+**Parameters:**
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| الاسم | string | اسم العقدة |
+
+**Returns**
+
+| نوع | الوصف |
+| :- | :- |
+| [NodeLink[]](/psd/python-net/aspose.gis/nodelink) | مصفوفة من العقد بتنسيق حسب الاسم |
+
+
+### Method: get_node_by_name(name) {#get_node_by_name_name_6}
+
+
+```
+ get_node_by_name(name) 
+```
+
+يحصل على العقدة بالاسم. يرجى ملاحظة أن هذه الطريقة ستعيد أول عقدة تم العثور عليها.<br/>            لا يهم في أي مستوى سيتم العثور عليها
+
+**Parameters:**
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| الاسم | string | اسم العقدة التي تريد العثور عليها. |
+
+**Returns**
+
+| نوع | الوصف |
+| :- | :- |
+| [NodeLink](/psd/python-net/aspose.gis/nodelink) | العقدة التي تم العثور عليها باستخدام واجهة NodeLink API |
+
+
+### Method: get_node_content() {#get_node_content__7}
+
+
+```
+ get_node_content() 
+```
+
+يحصل على محتوى العقدة.
+
+**Returns**
+
+| نوع | الوصف |
+| :- | :- |
+| string | محتوى العقدة |
+
+
+### Method: get_nodes_by_name(names) {#get_nodes_by_name_names_8}
+
+
+```
+ get_nodes_by_name(names) 
+```
+
+يحصل على جميع العقد بالاسم المحدد. <br/>            لا يهم في أي مستوى سيتم العثور عليها
+
+**Parameters:**
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| الأسماء | string | الأسماء. |
+
+**Returns**
+
+| نوع | الوصف |
+| :- | :- |
+| [NodeLink[]](/psd/python-net/aspose.gis/nodelink) | مصفوفة العقد التي تم العثور عليها. |
+
+
