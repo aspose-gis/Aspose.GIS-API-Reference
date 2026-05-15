@@ -1,0 +1,22 @@
+---
+title: "LabelPosition 类"
+type: docs
+weight: 60
+url: /zh/python-net/aspose.gis.labeling/labelposition/
+---
+
+**Summary:** 
+
+**Module:** [aspose.gis.labeling](/psd/python-net/aspose.gis.labeling/)
+
+**Full Name:** aspose.gis.labeling.LabelPosition
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **描述** |
+| :- | :- | :- | :- |
+| bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |
+| 成本 | double | r |  |
+
+
