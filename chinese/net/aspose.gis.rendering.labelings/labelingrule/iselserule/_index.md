@@ -1,27 +1,27 @@
 ---
-title: LabelingRule.IsElseRule
-second_title: Aspose.GIS for .NET API 参考
-description: LabelingRule 财产. 获取一个值指示此规则是否为elserule
+title: "LabelingRule.IsElseRule"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LabelingRule 属性。获取一个值，指示此规则是否为 else 规则"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.labelings/labelingrule/iselserule/
 ---
 ## LabelingRule.IsElseRule property
 
-获取一个值，指示此规则是否为“else-rule”。
+获取一个值，指示此规则是否为 "else-rule"。
 
 ```csharp
 public bool IsElseRule { get; }
 ```
 
-### 评论
+## 备注
 
-如果特征不匹配任何过滤规则，则“其他规则”将标签应用于特征。
+\"Else-rule\" 在要素不匹配任何过滤规则时对其应用标注。
 
-### 也可以看看
+### 另见
 
 * class [LabelingRule](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

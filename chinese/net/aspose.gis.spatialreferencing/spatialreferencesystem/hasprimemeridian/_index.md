@@ -1,23 +1,23 @@
 ---
-title: SpatialReferenceSystem.HasPrimeMeridian
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. 返回此 SRS 是否具有本初子午线 这对于每个地理投影和地心 SRS 都是如此
+title: "SpatialReferenceSystem.HasPrimeMeridian"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。返回此 SRS 是否具有本初子午线。对于所有地理投影和地心 SRS，此值为 true。"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/hasprimemeridian/
 ---
 ## SpatialReferenceSystem.HasPrimeMeridian property
 
-返回此 SRS 是否具有本初子午线。 这对于每个地理、投影和地心 SRS 都是如此。
+返回此 SRS 是否具有本初子午线。这对所有 geographic、projected 和 geocentric SRS 都为真。
 
 ```csharp
 public abstract bool HasPrimeMeridian { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,36 +1,36 @@
 ---
-title: TopoJsonTransform.TopoJsonTransform
-second_title: Aspose.GIS for .NET API 参考
-description: TopoJsonTransform 构造函数. 创建新实例TopoJsonTransform.
+title: "TopoJsonTransform.TopoJsonTransform"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "TopoJsonTransform 构造函数。创建 TopoJsonTransform 的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.topojson/topojsontransform/topojsontransform/
 ---
 ## TopoJsonTransform constructor
 
-创建新实例[`TopoJsonTransform`](../).
+创建 [`TopoJsonTransform`](../) 的新实例。
 
 ```csharp
 public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, double yScale)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xTranslate | Double | 平移以应用于 X 坐标。 |
-| yTranslate | Double | 平移以应用于 Y 坐标。 |
-| xScale | Double | 缩放以应用于 X 坐标。 |
-| yScale | Double | 应用于 Y 坐标的比例。 |
+| xTranslate | Double | 对 X 坐标应用的平移。 |
+| yTranslate | Double | 对 Y 坐标应用的平移。 |
+| xScale | Double | 对 X 坐标应用的缩放。 |
+| yScale | Double | 对 Y 坐标应用的缩放。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 其中一个标度等于 0。 |
+| ArgumentException | 其中一个缩放值等于 0。 |
 
-### 也可以看看
+### 另见
 
 * class [TopoJsonTransform](../)
-* 命名空间 [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
+* assembly [Aspose.GIS](../../../)
 
 

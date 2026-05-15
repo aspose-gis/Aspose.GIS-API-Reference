@@ -1,30 +1,30 @@
 ---
-title: Enum SpatialReferenceSystemMode
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.SpatialReferenceSystemMode 枚举. 指定在数据库 中写入空间参考系统 SRS 的模式如果它是未知的 SRS. 
+title: "枚举 SpatialReferenceSystemMode"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.SpatialReferenceSystemMode 枚举。指定在数据库中写入空间参考系统 SRS 时的模式（如果是未知的 SRS）。"
 type: docs
-weight: 2020
+weight: 4470
 url: /zh/net/aspose.gis/spatialreferencesystemmode/
 ---
 ## SpatialReferenceSystemMode enumeration
 
-指定在数据库 中写入空间参考系统 (SRS) 的模式（如果它是未知的 SRS. ）
+指定在数据库中写入空间参考系统 (SRS) 的模式，如果它是未知的 SRS。
 
 ```csharp
 public enum SpatialReferenceSystemMode
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| ThrowException | `0` | 如果它是数据库的未知 SRS，则抛出异常。 |
-| WriteInSystemTable | `1` | 如果数据库的 SRS 未知，则将 SRS 信息写入系统表。 |
-| SetupToZero | `2` | 如果它是数据库的未知 SRS，则将几何的 SRID 设置为“零”。 |
+| ThrowException | `0` | 如果数据库的 SRS 未知，则抛出异常。 |
+| WriteInSystemTable | `1` | 如果数据库的 SRS 未知，则在系统表中写入 SRS 信息。 |
+| SetupToZero | `2` | 如果数据库的 SRS 未知，则将几何体的 SRID 设置为“零”。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: CircularString.StartPoint
-second_title: Aspose.GIS for .NET API 参考
-description: CircularString 财产. 返回曲线起点的副本
+title: "CircularString.StartPoint"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CircularString 属性。返回曲线起点的副本"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.geometries/circularstring/startpoint/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.geometries/circularstring/startpoint/
 public override IPoint StartPoint { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 几何是空的。 |
+| InvalidOperationException | 几何为空。 |
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../circularstring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

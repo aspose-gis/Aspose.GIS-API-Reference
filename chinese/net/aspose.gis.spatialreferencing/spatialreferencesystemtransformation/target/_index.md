@@ -1,7 +1,7 @@
 ---
-title: SpatialReferenceSystemTransformation.Target
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystemTransformation 财产. 目标空间参考系统
+title: "SpatialReferenceSystemTransformation.Target"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystemTransformation 属性。目标空间参考系统"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/target/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/
 public SpatialReferenceSystem Target { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [SpatialReferenceSystem](../../spatialreferencesystem/)
 * class [SpatialReferenceSystemTransformation](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystemtransformation/)
+* assembly [Aspose.GIS](../../../)
 
 

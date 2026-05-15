@@ -1,7 +1,7 @@
 ---
-title: Map.Render
-second_title: Aspose.GIS for .NET API 参考
-description: Map 方法. 将地图渲染到文件中
+title: "Map.Render"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Map 方法。将地图渲染到文件中"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.rendering/map/render/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.rendering/map/render/
 public void Render(string outputPath, Renderer renderer)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | outputPath | String | 输出文件的路径。 |
-| renderer | Renderer | 要使用的渲染器。 |
+| 渲染器 | 渲染器 | 要使用的渲染器。 |
 
-### 也可以看看
+### 另见
 
 * class [Renderer](../../renderer/)
 * class [Map](../)
-* 命名空间 [Aspose.Gis.Rendering](../../map/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -36,25 +36,25 @@ public void Render(string outputPath, Renderer renderer)
 public void Render(AbstractPath outputPath, Renderer renderer)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | outputPath | AbstractPath | 输出文件的路径。 |
-| renderer | Renderer | 要使用的渲染器。 |
+| 渲染器 | 渲染器 | 要使用的渲染器。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任何争论`null`. |
+| ArgumentNullException | 任何参数 `null`。 |
 | IOException | 发生 I/O 错误。 |
 | [GisException](../../../aspose.gis/gisexception/) | 处理或读取 GIS 数据时出错。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [Renderer](../../renderer/)
 * class [Map](../)
-* 命名空间 [Aspose.Gis.Rendering](../../map/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

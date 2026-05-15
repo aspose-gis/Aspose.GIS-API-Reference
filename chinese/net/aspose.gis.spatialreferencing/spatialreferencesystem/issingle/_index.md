@@ -1,27 +1,27 @@
 ---
-title: SpatialReferenceSystem.IsSingle
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. 返回此 SRS 是否为单个不是两个 SRS 的并集
+title: "SpatialReferenceSystem.IsSingle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。返回此 SRS 是否为单一的，而不是两个 SRS 的联合"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/issingle/
 ---
 ## SpatialReferenceSystem.IsSingle property
 
-返回此 SRS 是否为单个（不是两个 SRS 的并集）。
+返回此 SRS 是否为单一（不是两个 SRS 的联合）。
 
 ```csharp
 public bool IsSingle { get; }
 ```
 
-### 评论
+## 备注
 
-在 WKT 中，这是任何坐标系，除了 COMPD_CS.
+在 WKT 中，这指任何坐标系统，除 COMPD_CS 外。
 
-### 也可以看看
+### 另见
 
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

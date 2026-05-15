@@ -1,78 +1,78 @@
 ---
-title: LineString.LineString
-second_title: Aspose.GIS for .NET API 参考
-description: LineString 构造函数. 初始化一个新的实例LineString类.
+title: "LineString.LineString"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LineString 构造函数。初始化 LineString 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/linestring/linestring/
 ---
 ## LineString() {#constructor}
 
-初始化一个新的实例[`LineString`](../)类.
+初始化 [`LineString`](../) 类的新实例。
 
 ```csharp
 public LineString()
 ```
 
-### 也可以看看
+### 另见
 
 * class [LineString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../linestring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LineString(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-初始化一个新的实例[`LineString`](../)类.
+初始化 [`LineString`](../) 类的新实例。
 
 ```csharp
 public LineString(IEnumerable<IPoint> collection)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| collection | IEnumerable`1 | 积分的收集。 |
+| 集合 | IEnumerable`1 | 点的集合。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
-| ArgumentException | 任何一点都是空的（它的[`IsEmpty`](../../igeometry/isempty/)是`true`). |
+| ArgumentNullException | 参数为 `null`。 |
+| ArgumentException | 任意点为空（其 [`IsEmpty`](../../igeometry/isempty/) 为 `true`）。 |
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../linestring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## LineString(ILineString) {#constructor_1}
 
-初始化一个新的实例[`LineString`](../)类.
+初始化 [`LineString`](../) 类的新实例。
 
 ```csharp
 public LineString(ILineString other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | ILineString | 从中复制数据的另一行。 |
+| 其他 | ILineString | 要从中复制数据的另一条线。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * interface [ILineString](../../ilinestring/)
 * class [LineString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../linestring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

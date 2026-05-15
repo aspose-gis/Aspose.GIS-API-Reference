@@ -1,9 +1,9 @@
 ---
-title: Geometry.Null
-second_title: Aspose.GIS for .NET API 参考
-description: Geometry 财产. 获取空几何的实例
+title: "Geometry.Null"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Geometry 属性。获取空几何的实例"
 type: docs
-weight: 450
+weight: 460
 url: /zh/net/aspose.gis.geometries/geometry/null/
 ---
 ## Geometry.Null property
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.geometries/geometry/null/
 public static IGeometry Null { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../../igeometry/)
 * class [Geometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,24 +1,24 @@
 ---
-title: LabelingRule.Labeling
-second_title: Aspose.GIS for .NET API 参考
-description: LabelingRule 财产. 应用于特征的标签
+title: "LabelingRule.Labeling"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LabelingRule 属性。要对要素应用的标注"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.labelings/labelingrule/labeling/
 ---
 ## LabelingRule.Labeling property
 
-应用于特征的标签。
+要应用于要素的标注。
 
 ```csharp
 public Labeling Labeling { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Labeling](../../labeling/)
 * class [LabelingRule](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../labelingrule/)
+* assembly [Aspose.GIS](../../../)
 
 

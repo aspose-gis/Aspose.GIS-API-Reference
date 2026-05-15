@@ -1,70 +1,70 @@
 ---
-title: FeatureAttributeCollection.Item
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttributeCollection 财产. 获取或设置FeatureAttribute在指定的索引处.
+title: "FeatureAttributeCollection.Item"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttributeCollection 属性。获取或设置指定索引处的 FeatureAttribute"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/featureattributecollection/item/
 ---
 ## FeatureAttributeCollection indexer (1 of 2)
 
-获取或设置[`FeatureAttribute`](../../featureattribute/)在指定的索引处.
+获取或设置指定索引处的 [`FeatureAttribute`](../../featureattribute/)。
 
 ```csharp
 public FeatureAttribute this[int index] { get; set; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 要获取或设置的属性的从零开始的索引。 |
+| 索引 | 要获取或设置的属性的零基索引。 |
 
 ### 返回值
 
 指定索引处的属性。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
-| InvalidOperationException | 尝试修改锁定的集合。 |
+| InvalidOperationException | 尝试修改已锁定的集合。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../../featureattribute/)
 * class [FeatureAttributeCollection](../)
-* 命名空间 [Aspose.Gis](../../featureattributecollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## FeatureAttributeCollection indexer (2 of 2)
 
-获取或设置[`FeatureAttribute`](../../featureattribute/)具有指定名称.
+获取或设置具有指定名称的 [`FeatureAttribute`](../../featureattribute/)。
 
 ```csharp
 public FeatureAttribute this[string name] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| name | 属性的名称。 |
+| 名称 | 属性的名称。 |
 
 ### 返回值
 
-具有指定名称的属性，或`null`如果没有找到。
+具有指定名称的属性，如果未找到则为 `null`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`. |
+| ArgumentNullException | 属性名称为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../../featureattribute/)
 * class [FeatureAttributeCollection](../)
-* 命名空间 [Aspose.Gis](../../featureattributecollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: ILinearRing.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: ILinearRing 方法. 获取此几何体的可编辑副本
+title: "ILinearRing.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ILinearRing 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/ilinearring/toeditable/
@@ -18,11 +18,11 @@ public LinearRing ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [LinearRing](../../linearring/)
 * interface [ILinearRing](../)
-* 命名空间 [Aspose.Gis.Geometries](../../ilinearring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ilinearring/)
+* assembly [Aspose.GIS](../../../)
 
 

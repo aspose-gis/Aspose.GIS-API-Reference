@@ -1,35 +1,35 @@
 ---
-title: GeometryCollection.AddRange
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryCollection 方法. 将指定的几何图形添加到集合中
+title: "GeometryCollection.AddRange"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryCollection 方法。将指定的几何体添加到集合中"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.geometries/geometrycollection/addrange/
 ---
 ## GeometryCollection.AddRange method
 
-将指定的几何图形添加到集合中。
+将指定的几何体添加到集合中。
 
 ```csharp
 public void AddRange(IEnumerable<IGeometry> geometries)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| geometries | IEnumerable`1 | 要添加的几何图形。 |
+| geometries | IEnumerable`1 | 要添加的几何体。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
-| ArgumentException | 该集合不接受这种类型的几何图形。 |
+| ArgumentNullException | 参数为 `null`。 |
+| ArgumentException | 该集合不接受此类型的几何体。 |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../../igeometry/)
 * class [GeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

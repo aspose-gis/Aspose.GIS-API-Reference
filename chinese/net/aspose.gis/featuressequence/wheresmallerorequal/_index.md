@@ -1,9 +1,9 @@
 ---
-title: FeaturesSequence.WhereSmallerOrEqual
-second_title: Aspose.GIS for .NET API 参考
-description: FeaturesSequence 方法. 选择属性值小于或等于提供值的要素
+title: "FeaturesSequence.WhereSmallerOrEqual"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeaturesSequence 方法。选择属性值小于或等于提供值的要素"
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/aspose.gis/featuressequence/wheresmallerorequal/
 ---
 ## FeaturesSequence.WhereSmallerOrEqual&lt;T&gt; method
@@ -14,26 +14,26 @@ url: /zh/net/aspose.gis/featuressequence/wheresmallerorequal/
 public virtual FeaturesSequence WhereSmallerOrEqual<T>(string attributeName, T value)
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| T | 要比较的值的类型。 |
-| attributeName | 筛选依据的属性。 |
-| value | 要比较的值。 |
+| T | 用于比较的值的类型。 |
+| attributeName | 用于过滤的属性。 |
+| 值 | 用于比较的值。 |
 
 ### 返回值
 
 属性值小于或等于提供值的要素。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此要素序列中不存在具有此类名称的属性。 |
+| ArgumentException | 此要素序列中不存在具有该名称的属性。 |
 
-### 也可以看看
+### 另见
 
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: OsmXmlOptions.ReportAllNodes
-second_title: Aspose.GIS for .NET API 参考
-description: OsmXmlOptions 财产. 将所有节点报告为特征即使它们没有任何重要标签
+title: "OsmXmlOptions.ReportAllNodes"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "OsmXmlOptions 属性。将所有节点报告为要素，即使它们没有任何显著标签"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.osmxml/osmxmloptions/reportallnodes/
 ---
 ## OsmXmlOptions.ReportAllNodes property
 
-将所有节点报告为特征，即使它们没有任何重要标签。
+将所有节点报告为要素，即使它们没有任何显著标签。
 
 ```csharp
 public bool ReportAllNodes { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [OsmXmlOptions](../)
-* 命名空间 [Aspose.Gis.Formats.OsmXml](../../osmxmloptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.OsmXml](../../osmxmloptions/)
+* assembly [Aspose.GIS](../../../)
 
 

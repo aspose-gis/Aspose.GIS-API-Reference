@@ -1,14 +1,14 @@
 ---
-title: Class SpatialReferenceSystemTransformation
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.SpatialReferencing.SpatialReferenceSystemTransformation 班级. 空间参考系统转换将几何图形从源空间参考系统转换为目标空间参考系统
+title: "类 SpatialReferenceSystemTransformation"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.SpatialReferencing.SpatialReferenceSystemTransformation 类。空间参考系统转换将几何体从源空间参考系统转换到目标空间参考系统"
 type: docs
-weight: 2260
+weight: 4710
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/
 ---
 ## SpatialReferenceSystemTransformation class
 
-空间参考系统转换将几何图形从源空间参考系统转换为目标空间参考系统。
+空间参考系统转换将几何体从源空间参考系统转换到目标空间参考系统。
 
 ```csharp
 public class SpatialReferenceSystemTransformation
@@ -16,26 +16,26 @@ public class SpatialReferenceSystemTransformation
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [SpatialReferenceSystemTransformation](spatialreferencesystemtransformation/)(SpatialReferenceSystem, SpatialReferenceSystem) | 创建新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Source](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/source/) { get; } | 源空间参考系统。 |
 | [Target](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/target/) { get; } | 目标空间参考系统。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Transform](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/)(IGeometry) | 将几何图形从源空间参考系统转换为目标空间参考系统。 |
+| [Transform](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/)(IGeometry) | 将几何体从源空间参考系统转换到目标空间参考系统。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

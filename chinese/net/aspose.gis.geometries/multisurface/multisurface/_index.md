@@ -1,23 +1,23 @@
 ---
-title: MultiSurface.MultiSurface
-second_title: Aspose.GIS for .NET API 参考
-description: MultiSurface 构造函数. 初始化一个新的实例MultiSurface类.
+title: "MultiSurface.MultiSurface"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiSurface 构造函数。初始化 MultiSurface 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/multisurface/multisurface/
 ---
 ## MultiSurface constructor
 
-初始化一个新的实例[`MultiSurface`](../)类.
+初始化 [`MultiSurface`](../) 类的新实例。
 
 ```csharp
 public MultiSurface()
 ```
 
-### 也可以看看
+### 另见
 
 * class [MultiSurface](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multisurface/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multisurface/)
+* assembly [Aspose.GIS](../../../)
 
 

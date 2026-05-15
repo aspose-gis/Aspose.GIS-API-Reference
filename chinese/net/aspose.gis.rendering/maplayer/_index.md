@@ -1,34 +1,34 @@
 ---
-title: Class MapLayer
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.MapLayer 班级. A地图图层是内部图层的基类Map.
+title: "类 MapLayer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.MapLayer 类。MapLayer 是 Map 中图层的基类"
 type: docs
-weight: 1730
+weight: 4180
 url: /zh/net/aspose.gis.rendering/maplayer/
 ---
 ## MapLayer class
 
-A`地图图层`是内部图层的基类[`Map`](../map/).
+`MapLayer` 是 [`Map`](../map/) 中图层的基类。
 
 ```csharp
 public abstract class MapLayer : IDisposable
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | 层的不透明度。 |
+| [Opacity](../../aspose.gis.rendering/maplayer/opacity/) { get; set; } | 图层的不透明度。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose/)() | 处置资源。 |
+| abstract [Dispose](../../aspose.gis.rendering/maplayer/dispose/)() | 释放资源。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

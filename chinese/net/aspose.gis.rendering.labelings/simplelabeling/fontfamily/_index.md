@@ -1,29 +1,29 @@
 ---
-title: SimpleLabeling.FontFamily
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLabeling 财产. 用于呈现文本的字体系列默认值是系统相关值
+title: "SimpleLabeling.FontFamily"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLabeling 属性。用于渲染文本的字体族。默认值取决于系统"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/fontfamily/
 ---
 ## SimpleLabeling.FontFamily property
 
-用于呈现文本的字体系列。默认值是系统相关值。
+用于渲染文本的字体族。默认值取决于系统。
 
 ```csharp
 public string FontFamily { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [SimpleLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

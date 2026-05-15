@@ -1,7 +1,7 @@
 ---
-title: Dataset.Open
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 打开数据集
+title: "Dataset.Open"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。 打开数据集"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/dataset/open/
@@ -14,29 +14,29 @@ url: /zh/net/aspose.gis/dataset/open/
 public static Dataset Open(string path, FileDriver driver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -48,30 +48,30 @@ public static Dataset Open(string path, FileDriver driver)
 public static Dataset Open(AbstractPath path, FileDriver driver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -83,32 +83,32 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 public static Dataset Open(string path, FileDriver driver, DriverOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -120,33 +120,33 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| driver | FileDriver | 驱动程序使用。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| 驱动 | FileDriver | 要使用的驱动。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -158,29 +158,29 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| connection | IDbConnection | 打开与数据库的连接。 |
-| driver | DatabaseDriver | 驱动程序使用。 |
+| 连接 | IDbConnection | 已打开到数据库的连接。 |
+| 驱动 | DatabaseDriver | 要使用的驱动。 |
 
 ### 返回值
 
-的实例[`Dataset`](../).
+[`Dataset`](../) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [DatabaseDriver](../../databasedriver/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

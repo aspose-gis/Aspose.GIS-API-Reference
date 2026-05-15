@@ -1,7 +1,7 @@
 ---
-title: FeatureAttributeCollection.Lock
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttributeCollection 方法. 锁定此属性集合以防止进一步修改
+title: "FeatureAttributeCollection.Lock"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttributeCollection 方法。锁定此属性集合以防止进一步修改"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/featureattributecollection/lock/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis/featureattributecollection/lock/
 public void Lock()
 ```
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttributeCollection](../)
-* 命名空间 [Aspose.Gis](../../featureattributecollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

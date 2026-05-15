@@ -1,27 +1,27 @@
 ---
-title: FeatureAttributeCollection.IsLocked
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttributeCollection 财产. 获取一个值指示此属性集合是否被锁定
+title: "FeatureAttributeCollection.IsLocked"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttributeCollection 属性。获取一个值，指示此属性集合是否已锁定"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/featureattributecollection/islocked/
 ---
 ## FeatureAttributeCollection.IsLocked property
 
-获取一个值，指示此属性集合是否被锁定。
+获取一个值，指示此属性集合是否已锁定。
 
 ```csharp
 public bool IsLocked { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true`如果此属性集合被锁定；否则，`false`.
+如果此属性集合已锁定，则为 `true`；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttributeCollection](../)
-* 命名空间 [Aspose.Gis](../../featureattributecollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

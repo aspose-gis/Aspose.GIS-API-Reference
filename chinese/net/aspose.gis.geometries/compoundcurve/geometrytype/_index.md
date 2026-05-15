@@ -1,28 +1,28 @@
 ---
-title: CompoundCurve.GeometryType
-second_title: Aspose.GIS for .NET API 参考
-description: CompoundCurve 财产. 获取几何类型
+title: "CompoundCurve.GeometryType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CompoundCurve 属性。获取几何体的类型"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geometries/compoundcurve/geometrytype/
 ---
 ## CompoundCurve.GeometryType property
 
-获取几何类型。
+获取几何体的类型。
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-几何类型。
+几何体的类型。
 
-### 也可以看看
+### 另见
 
 * enum [GeometryType](../../geometrytype/)
 * class [CompoundCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../compoundcurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

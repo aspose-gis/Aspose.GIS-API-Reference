@@ -1,34 +1,34 @@
 ---
-title: VectorLayer.GeometryType
-second_title: Aspose.GIS for .NET API 参考
-description: VectorLayer 财产. 获取图层的几何类型
+title: "VectorLayer.GeometryType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VectorLayer 属性。获取图层几何体的类型。"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/vectorlayer/geometrytype/
 ---
 ## VectorLayer.GeometryType property
 
-获取图层的几何类型。
+获取图层几何体的类型。
 
 ```csharp
 public abstract GeometryType GeometryType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-几何类型。
+几何体的类型。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层以只写方式打开，则抛出。 |
+| InvalidOperationException | 如果图层以只写方式打开，则会抛出此异常。 |
 
-### 也可以看看
+### 另见
 
 * enum [GeometryType](../../../aspose.gis.geometries/geometrytype/)
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

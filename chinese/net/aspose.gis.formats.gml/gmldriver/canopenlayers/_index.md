@@ -1,7 +1,7 @@
 ---
-title: GmlDriver.CanOpenLayers
-second_title: Aspose.GIS for .NET API 参考
-description: GmlDriver 财产. 获取一个值指示此驱动程序是否可以打开矢量图层
+title: "GmlDriver.CanOpenLayers"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GmlDriver 属性。获取一个值，指示此驱动程序是否可以打开矢量图层。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.gml/gmldriver/canopenlayers/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.gis.formats.gml/gmldriver/canopenlayers/
 public override bool CanOpenLayers { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true` ，如果这个驱动程序可以打开矢量图层；否则，`false`.
+`true`，如果此驱动程序可以打开矢量图层；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [GmlDriver](../)
-* 命名空间 [Aspose.Gis.Formats.Gml](../../gmldriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gml](../../gmldriver/)
+* assembly [Aspose.GIS](../../../)
 
 

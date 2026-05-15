@@ -1,27 +1,27 @@
 ---
-title: CurvePolygon.InteriorRingsCount
-second_title: Aspose.GIS for .NET API 参考
-description: CurvePolygon 财产. 获取内环数
+title: "CurvePolygon.InteriorRingsCount"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CurvePolygon 属性. 获取内部环的数量"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geometries/curvepolygon/interiorringscount/
 ---
 ## CurvePolygon.InteriorRingsCount property
 
-获取内环数。
+获取内部环的数量。
 
 ```csharp
 public int InteriorRingsCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-内环数。
+内部环的数量。
 
-### 也可以看看
+### 另见
 
 * class [CurvePolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../curvepolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

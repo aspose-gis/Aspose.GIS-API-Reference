@@ -1,31 +1,31 @@
 ---
-title: Enum AltitudeModes
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.Kml.AltitudeModes 枚举. KML 几何图形的高度模式
+title: "枚举 AltitudeModes"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.Kml.AltitudeModes 枚举。KML 几何体的高度模式"
 type: docs
-weight: 390
+weight: 2030
 url: /zh/net/aspose.gis.formats.kml/altitudemodes/
 ---
 ## AltitudeModes enumeration
 
-KML 几何图形的高度模式。
+KML 几何体的海拔模式。
 
 ```csharp
 public enum AltitudeModes
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 没有高度模式。 |
-| RelativeToGround | `1` | 将高度解释为离地面以米为单位的值。 |
-| ClampToGround | `2` | 对于相机，此设置还使相机相对于地面， 因为将相机正好放在地形高度将意味着 眼睛会与地形相交（并且视图会被阻挡）。 |
-| Absolute | `3` | 将高度解释为海拔高度（以米为单位）的值。 |
+| None | `0` | 无高度模式。 |
+| RelativeToGround | `1` | 将海拔解释为地面以上的米值。 |
+| ClampToGround | `2` | 对于相机，此设置还将相机相对于地面放置（relativeToGround），因为将相机精确放置在地形高度会导致视线与地形相交（视图将被阻挡）。 |
+| Absolute | `3` | 将海拔解释为海平面以上的米值。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Formats.Kml](../../aspose.gis.formats.kml/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml](../../aspose.gis.formats.kml/)
+* assembly [Aspose.GIS](../../)
 
 

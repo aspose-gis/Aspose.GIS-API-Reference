@@ -1,14 +1,14 @@
 ---
-title: Interface IMultiPoint
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.IMultiPoint 界面. 一个IMultiPoint是一维的IGeometryCollection 其元素是IPoints.
+title: "接口 IMultiPoint"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.IMultiPoint 接口。IMultiPoint 是一个一维的 IGeometryCollection，其元素为 IPoints。"
 type: docs
-weight: 1060
+weight: 2840
 url: /zh/net/aspose.gis.geometries/imultipoint/
 ---
 ## IMultiPoint interface
 
-一个`IMultiPoint`是一维的[`IGeometryCollection`](../igeometrycollection/) 其元素是[`IPoint`](../ipoint/)s.
+`IMultiPoint` 是一个一维的 [`IGeometryCollection`](../igeometrycollection/)，其元素为 [`IPoint`](../ipoint/)。
 
 ```csharp
 public interface IMultiPoint : IGeometryCollection
@@ -16,14 +16,14 @@ public interface IMultiPoint : IGeometryCollection
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/imultipoint/toeditable/)() | 获取此几何体的可编辑副本。 |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometryCollection](../igeometrycollection/)
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

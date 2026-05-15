@@ -1,31 +1,31 @@
 ---
-title: Unit.Deapply
-second_title: Aspose.GIS for .NET API 参考
-description: Unit 方法. 将此实例描述的单位参数转换为弧度或米
+title: "Unit.Deapply"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Unit 方法。将参数从此实例描述的单位转换为弧度或米"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.spatialreferencing/unit/deapply/
 ---
 ## Unit.Deapply method
 
-将此实例描述的单位参数转换为弧度或米。
+将参数从此实例描述的单位转换为弧度或米。
 
 ```csharp
 public double Deapply(double value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 要转换的值。 |
+| 值 | Double | 要转换的值。 |
 
 ### 返回值
 
-转换为弧度或米的值。
+值已转换为弧度或米。
 
-### 也可以看看
+### 另见
 
 * class [Unit](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../unit/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../unit/)
+* assembly [Aspose.GIS](../../../)
 
 

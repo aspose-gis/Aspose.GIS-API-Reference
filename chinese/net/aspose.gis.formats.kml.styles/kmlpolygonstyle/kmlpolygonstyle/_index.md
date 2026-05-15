@@ -1,7 +1,7 @@
 ---
-title: KmlPolygonStyle.KmlPolygonStyle
-second_title: Aspose.GIS for .NET API 参考
-description: KmlPolygonStyle 构造函数. 默认构造函数
+title: "KmlPolygonStyle.KmlPolygonStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "KmlPolygonStyle 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/kmlpolygonstyle/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/kmlpolygonstyle/
 public KmlPolygonStyle()
 ```
 
-### 也可以看看
+### 另见
 
 * class [KmlPolygonStyle](../)
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../kmlpolygonstyle/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../kmlpolygonstyle/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: Extent.YMax
-second_title: Aspose.GIS for .NET API 参考
-description: Extent 财产. Y 坐标的最大值
+title: "Extent.YMax"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Extent 属性。Y 坐标的最大值"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/extent/ymax/
@@ -14,10 +14,10 @@ Y 坐标的最大值。
 public double YMax { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

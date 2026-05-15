@@ -1,17 +1,17 @@
 ---
-title: Aspose.Gis.Rendering.Sld
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Sld命名空间提供用于配置 SLD 导入的类
+title: "Aspose.Gis.Rendering.Sld"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Sld 命名空间提供用于配置 SLD 导入的类"
 type: docs
-weight: 350
+weight: 730
 url: /zh/net/aspose.gis.rendering.sld/
 ---
-`Aspose.Gis.Rendering.Sld`命名空间提供用于配置 SLD 导入的类。
+`Aspose.Gis.Rendering.Sld` 命名空间提供用于配置 SLD 导入的类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [SldImportOptions](./sldimportoptions/) | 样式层描述符文件 (Sld) 的导入选项。 |
+| [SldImportOptions](./sldimportoptions/) | 导入 Styled Layer Descriptor 文件 (Sld) 的选项。 |
 
 

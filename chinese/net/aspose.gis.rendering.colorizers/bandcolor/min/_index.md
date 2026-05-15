@@ -1,7 +1,7 @@
 ---
-title: BandColor.Min
-second_title: Aspose.GIS for .NET API 参考
-description: BandColor 财产. 指定最小值
+title: "BandColor.Min"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "BandColor 属性。指定最小值"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.colorizers/bandcolor/min/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.rendering.colorizers/bandcolor/min/
 public double Min { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [BandColor](../)
-* 命名空间 [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../bandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,0 +1,47 @@
+---
+title: "Dataset.EditLayerAt"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。 打开具有指定名称的图层以进行编辑"
+type: docs
+weight: 100
+url: /zh/net/aspose.gis/dataset/editlayerat/
+---
+## Dataset.EditLayerAt method
+
+以编辑模式打开具有指定名称的图层。
+
+```csharp
+public abstract VectorLayer EditLayerAt(int index, DriverOptions options = null, 
+    SpatialReferenceSystem spatialReferenceSystem = null)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 索引 | Int32 | 要编辑的图层索引。 |
+| options | DriverOptions | 打开选项。 |
+| spatialReferenceSystem | SpatialReferenceSystem | 新几何体的空间参考系统。 |
+
+### 返回值
+
+已打开用于编辑的图层。
+
+### 异常
+
+| 异常 | 条件 |
+| --- | --- |
+| ArgumentException | 具有指定名称的图层不存在；Options 对象的类型对该数据集不正确。 |
+| ArgumentException | Options 对象的类型对该数据集不正确。 |
+| ArgumentNullException | 名称为 `null`。 |
+| [GisException](../../gisexception/) | 读取图层中的要素时出错。 |
+| IOException | 发生 I/O 错误。 |
+
+### 另见
+
+* class [VectorLayer](../../vectorlayer/)
+* class [DriverOptions](../../driveroptions/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [Dataset](../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
+
+

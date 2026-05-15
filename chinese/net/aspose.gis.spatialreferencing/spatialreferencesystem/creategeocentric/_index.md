@@ -1,36 +1,36 @@
 ---
-title: SpatialReferenceSystem.CreateGeocentric
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 方法. 从自定义参数创建地心 SRS
+title: "SpatialReferenceSystem.CreateGeocentric"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 方法。使用自定义参数创建地心 SRS"
 type: docs
 weight: 350
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/creategeocentric/
 ---
 ## SpatialReferenceSystem.CreateGeocentric method
 
-从自定义参数创建地心 SRS。
+使用自定义参数创建地心 SRS。
 
 ```csharp
 public static GeocentricSpatialReferenceSystem CreateGeocentric(
     GeocentricSpatialReferenceSystemParameters parameters, Identifier identifier = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| parameters | GeocentricSpatialReferenceSystemParameters | 从中创建的参数。 |
-| identifier | Identifier | 标识符，将附加到 SRS。附加标识符不会修改其他 SRS 参数。 确保标识符和 SRS 参数的一致性取决于您。 |
+| 参数 | GeocentricSpatialReferenceSystemParameters | 用于创建的参数。 |
+| 标识符 | 标识符 | 标识符，将附加到 SRS。附加标识符不会修改其他 SRS 参数。由您自行确保标识符与 SRS 参数的一致性。 |
 
 ### 返回值
 
 新的地心 SRS。
 
-### 也可以看看
+### 另见
 
 * class [GeocentricSpatialReferenceSystem](../../geocentricspatialreferencesystem/)
 * class [GeocentricSpatialReferenceSystemParameters](../../geocentricspatialreferencesystemparameters/)
 * class [Identifier](../../identifier/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

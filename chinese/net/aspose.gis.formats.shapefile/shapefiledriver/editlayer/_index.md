@@ -1,7 +1,7 @@
 ---
-title: ShapefileDriver.EditLayer
-second_title: Aspose.GIS for .NET API 参考
-description: ShapefileDriver 方法. 打开图层进行编辑
+title: "ShapefileDriver.EditLayer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ShapefileDriver 方法。打开图层进行编辑"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.shapefile/shapefiledriver/editlayer/
@@ -14,32 +14,32 @@ url: /zh/net/aspose.gis.formats.shapefile/shapefiledriver/editlayer/
 public override VectorLayer EditLayer(AbstractPath path, DriverOptions options = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| options | DriverOptions | 特定于驱动程序的选项。 |
+| options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+[`VectorLayer`](../../../aspose.gis/vectorlayer/) 的实例。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| ArgumentNullException | 路径是`null`. |
-| [GisException](../../../aspose.gis/gisexception/) | 从文件中读取特征时出错。 |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| ArgumentNullException | 路径为 `null`。 |
+| [GisException](../../../aspose.gis/gisexception/) | 读取文件中的要素时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [DriverOptions](../../../aspose.gis/driveroptions/)
 * class [ShapefileDriver](../)
-* 命名空间 [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -51,22 +51,22 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 public VectorLayer EditLayer(string path, ShapefileOptions options = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | String | 文件的路径。 |
-| options | ShapefileOptions | 特定于驱动程序的选项。 |
+| options | ShapefileOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+[`VectorLayer`](../../../aspose.gis/vectorlayer/) 的实例。
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [ShapefileOptions](../../shapefileoptions/)
 * class [ShapefileDriver](../)
-* 命名空间 [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -78,22 +78,22 @@ public VectorLayer EditLayer(string path, ShapefileOptions options = null)
 public VectorLayer EditLayer(AbstractPath path, ShapefileOptions options = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| options | ShapefileOptions | 特定于驱动程序的选项。 |
+| options | ShapefileOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-的实例[`VectorLayer`](../../../aspose.gis/vectorlayer/).
+[`VectorLayer`](../../../aspose.gis/vectorlayer/) 的实例。
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [ShapefileOptions](../../shapefileoptions/)
 * class [ShapefileDriver](../)
-* 命名空间 [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Shapefile](../../shapefiledriver/)
+* assembly [Aspose.GIS](../../../)
 
 

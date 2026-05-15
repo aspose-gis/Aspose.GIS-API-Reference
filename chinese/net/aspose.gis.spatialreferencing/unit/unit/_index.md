@@ -1,30 +1,30 @@
 ---
-title: Unit.Unit
-second_title: Aspose.GIS for .NET API 参考
-description: Unit 构造函数. 创建新实例.
+title: "Unit.Unit"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Unit 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/unit/unit/
 ---
 ## Unit constructor
 
-创建新实例.
+创建新实例。
 
 ```csharp
 public Unit(string name, double factor, Identifier identifier = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 单位名称。 |
-| factor | Double | 如果这是长度单位，则为米；如果这是角度单位，则为弧度。 |
-| identifier | Identifier | 单位标识符。 |
+| 名称 | String | 单位的名称。 |
+| 因子 | Double | 因子到米，如果这是长度单位；或者到弧度，如果这是角度单位。 |
+| 标识符 | 标识符 | 单位的标识符。 |
 
-### 也可以看看
+### 另见
 
 * class [Identifier](../../identifier/)
 * class [Unit](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../unit/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../unit/)
+* assembly [Aspose.GIS](../../../)
 
 

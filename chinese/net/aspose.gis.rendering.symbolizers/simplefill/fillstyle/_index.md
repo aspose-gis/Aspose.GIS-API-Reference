@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.FillStyle
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleFill 财产. 指定填充样式
+title: "SimpleFill.FillStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleFill 属性。指定填充样式"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/fillstyle/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/fillstyle/
 public FillStyle FillStyle { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * enum [FillStyle](../../../aspose.gis.rendering/fillstyle/)
 * class [SimpleFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

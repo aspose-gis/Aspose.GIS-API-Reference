@@ -1,29 +1,29 @@
 ---
-title: Class NullColorizer
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Colorizers.NullColorizer 班级. 的空着色器不绘制任何内容并有效地跳过对其应用的栅格单元格的渲染
+title: "类 NullColorizer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Colorizers.NullColorizer 类。NullColorizer 不绘制任何内容，并有效地跳过其所应用的栅格单元的渲染。"
 type: docs
-weight: 1520
+weight: 3970
 url: /zh/net/aspose.gis.rendering.colorizers/nullcolorizer/
 ---
 ## NullColorizer class
 
-的`空着色器`不绘制任何内容并有效地跳过对其应用的栅格单元格的渲染。
+`NullColorizer` 不绘制任何内容，并有效地跳过其所应用的栅格单元的渲染。
 
 ```csharp
 public class NullColorizer : RasterColorizer
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance/) { get; } | 获取一个实例`空着色器`. |
+| static [Instance](../../aspose.gis.rendering.colorizers/nullcolorizer/instance/) { get; } | 获取 `NullColorizer` 的实例。 |
 
-### 也可以看看
+### 另见
 
 * class [RasterColorizer](../rastercolorizer/)
-* 命名空间 [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../aspose.gis.rendering.colorizers/)
+* assembly [Aspose.GIS](../../)
 
 

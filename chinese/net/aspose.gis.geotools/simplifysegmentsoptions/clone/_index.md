@@ -1,7 +1,7 @@
 ---
-title: SimplifySegmentsOptions.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: SimplifySegmentsOptions 方法. 创建对象的副本
+title: "SimplifySegmentsOptions.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimplifySegmentsOptions 方法。创建对象的副本"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geotools/simplifysegmentsoptions/clone/
@@ -16,12 +16,12 @@ public SimplifySegmentsOptions Clone()
 
 ### 返回值
 
-选项克隆。
+选项的克隆。
 
-### 也可以看看
+### 另见
 
 * class [SimplifySegmentsOptions](../)
-* 命名空间 [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.GeoTools](../../simplifysegmentsoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

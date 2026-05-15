@@ -1,24 +1,24 @@
 ---
-title: ConversionOptions.SourceDriverOptions
-second_title: Aspose.GIS for .NET API 参考
-description: ConversionOptions 财产. 源层的特定于驱动程序的选项
+title: "ConversionOptions.SourceDriverOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ConversionOptions 属性。源图层的驱动程序特定选项。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/conversionoptions/sourcedriveroptions/
 ---
 ## ConversionOptions.SourceDriverOptions property
 
-源层的特定于驱动程序的选项。
+源图层的驱动程序特定选项。
 
 ```csharp
 public DriverOptions SourceDriverOptions { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [DriverOptions](../../driveroptions/)
 * class [ConversionOptions](../)
-* 命名空间 [Aspose.Gis](../../conversionoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../conversionoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

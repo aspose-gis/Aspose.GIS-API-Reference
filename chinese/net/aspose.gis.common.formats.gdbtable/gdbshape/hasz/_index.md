@@ -1,0 +1,21 @@
+---
+title: "GdbShape.HasZ"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GdbShape 属性。"
+type: docs
+weight: 30
+url: /zh/net/aspose.gis.common.formats.gdbtable/gdbshape/hasz/
+---
+## GdbShape.HasZ property
+
+```csharp
+public abstract bool HasZ { get; }
+```
+
+### 另见
+
+* class [GdbShape](../)
+* namespace [Aspose.Gis.Common.Formats.GdbTable](../../gdbshape/)
+* assembly [Aspose.GIS](../../../)
+
+

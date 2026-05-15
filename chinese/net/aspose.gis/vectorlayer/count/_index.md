@@ -1,33 +1,33 @@
 ---
-title: VectorLayer.Count
-second_title: Aspose.GIS for .NET API 参考
-description: VectorLayer 财产. 获取这一层的特征数
+title: "VectorLayer.Count"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VectorLayer 属性。获取此图层中的特征数量"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/vectorlayer/count/
 ---
 ## VectorLayer.Count property
 
-获取这一层的特征数。
+获取此图层中的特征数量。
 
 ```csharp
 public virtual int Count { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-这一层的特征数。
+此图层中的特征数量。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层以只写方式打开，则抛出。 |
+| InvalidOperationException | 如果图层以只写方式打开，则会抛出此异常。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

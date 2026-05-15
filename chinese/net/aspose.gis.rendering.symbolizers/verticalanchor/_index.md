@@ -1,30 +1,30 @@
 ---
-title: Enum VerticalAnchor
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Symbolizers.VerticalAnchor 枚举. 指定要垂直对齐的边
+title: "枚举 VerticalAnchor"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Symbolizers.VerticalAnchor 枚举。指定要垂直对齐的侧面"
 type: docs
-weight: 1980
+weight: 4430
 url: /zh/net/aspose.gis.rendering.symbolizers/verticalanchor/
 ---
 ## VerticalAnchor enumeration
 
-指定要垂直对齐的边。
+指定垂直对齐的侧边。
 
 ```csharp
 public enum VerticalAnchor
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Center | `0` | 指定中心将对齐。 |
-| Top | `1` | 指定顶边将对齐。 |
-| Bottom | `2` | 指定底边将对齐 |
+| Center | `0` | 指定中心将被对齐。 |
+| Top | `1` | 指定顶部侧面将被对齐。 |
+| Bottom | `2` | 指定底部侧面将被对齐 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../aspose.gis.rendering.symbolizers/)
+* assembly [Aspose.GIS](../../)
 
 

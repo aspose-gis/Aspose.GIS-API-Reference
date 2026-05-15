@@ -1,27 +1,27 @@
 ---
-title: DriverOptions.DeleteNearPointsDistance
-second_title: Aspose.GIS for .NET API 参考
-description: DriverOptions 财产. 确定距离DeleteNearPoints.默认为0.
+title: "DriverOptions.DeleteNearPointsDistance"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "DriverOptions 属性。确定 DeleteNearPoints 的距离。默认值为 0"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/driveroptions/deletenearpointsdistance/
 ---
 ## DriverOptions.DeleteNearPointsDistance property
 
-确定距离[`DeleteNearPoints`](../deletenearpoints/).默认为`0`.
+确定 [`DeleteNearPoints`](../deletenearpoints/) 的距离。默认值为 `0`。
 
 ```csharp
 public double DeleteNearPointsDistance { get; set; }
 ```
 
-### 评论
+## 备注
 
-它不影响如果[`DeleteNearPoints`](../deletenearpoints/)是假的。
+如果 [`DeleteNearPoints`](../deletenearpoints/) 为 false，则不受影响。
 
-### 也可以看看
+### 另见
 
 * class [DriverOptions](../)
-* 命名空间 [Aspose.Gis](../../driveroptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../driveroptions/)
+* assembly [Aspose.GIS](../../../)
 
 

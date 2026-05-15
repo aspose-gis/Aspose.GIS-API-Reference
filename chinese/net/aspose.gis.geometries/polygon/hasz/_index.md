@@ -1,7 +1,7 @@
 ---
-title: Polygon.HasZ
-second_title: Aspose.GIS for .NET API 参考
-description: Polygon 财产. 获取一个值指示此实例是否具有 Z 坐标
+title: "Polygon.HasZ"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Polygon 属性。获取一个值，指示此实例是否具有 Z 坐标。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geometries/polygon/hasz/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.gis.geometries/polygon/hasz/
 public override bool HasZ { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true`如果这个实例有 Z 坐标；否则，`false`.
+`true` 如果此实例具有 Z 坐标；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

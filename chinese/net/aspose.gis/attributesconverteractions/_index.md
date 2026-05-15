@@ -1,14 +1,14 @@
 ---
-title: Class AttributesConverterActions
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.AttributesConverterActions 班级. 具有目标层属性的可选操作
+title: "类 AttributesConverterActions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.AttributesConverterActions 类。对目标图层属性的可选操作"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/attributesconverteractions/
 ---
 ## AttributesConverterActions class
 
-具有目标层属性的可选操作。
+对目标图层属性的可选操作。
 
 ```csharp
 public class AttributesConverterActions
@@ -16,19 +16,19 @@ public class AttributesConverterActions
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [AttributesConverterActions](attributesconverteractions/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Exclude](../../aspose.gis/attributesconverteractions/exclude/) { get; set; } | 集`true`从目标图层中排除属性。初始值为`false`. |
+| [Exclude](../../aspose.gis/attributesconverteractions/exclude/) { get; set; } | 将 `true` 设置为从目标图层中排除该属性。初始值为 `false`。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

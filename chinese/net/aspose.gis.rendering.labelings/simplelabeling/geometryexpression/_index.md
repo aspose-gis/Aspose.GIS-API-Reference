@@ -1,25 +1,25 @@
 ---
-title: SimpleLabeling.GeometryExpression
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLabeling 财产. 提供一种方法来用修改过的标记替换要素几何 此回调在之后的第一个调用FeatureBasedConfiguration. 默认为null按原样使用要素几何.
+title: "SimpleLabeling.GeometryExpression"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLabeling 属性。提供一种将要素几何体替换为为标注修改后的几何体的方法。此回调在 FeatureBasedConfiguration 之后首次被调用。默认值为 null，使用要素几何体原样。"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/geometryexpression/
 ---
 ## SimpleLabeling.GeometryExpression property
 
-提供一种方法来用修改过的标记替换要素几何。 此回调在之后的第一个调用[`FeatureBasedConfiguration`](../featurebasedconfiguration/). 默认为`null`（按原样使用要素几何）.
+提供一种将要素几何体替换为为标注修改后的几何体的方法。此回调在 [`FeatureBasedConfiguration`](../featurebasedconfiguration/) 之后首次被调用。默认值为 `null`（使用要素几何体原样）。
 
 ```csharp
 public Func<Feature, IGeometry> GeometryExpression { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [Feature](../../../aspose.gis/feature/)
 * interface [IGeometry](../../../aspose.gis.geometries/igeometry/)
 * class [SimpleLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,42 +1,42 @@
 ---
-title: Enum GeometryType
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.GeometryType 枚举. 图层中的几何类型
+title: "枚举 GeometryType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.GeometryType 枚举。图层中几何体的类型"
 type: docs
-weight: 950
+weight: 2730
 url: /zh/net/aspose.gis.geometries/geometrytype/
 ---
 ## GeometryType enumeration
 
-图层中的几何类型。
+图层中几何的类型。
 
 ```csharp
 public enum GeometryType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Null | `0` | 未设置几何类型。 |
-| Mixed | `1` | 几何类型是混合的。 |
-| Point | `2` | 几何是一个[`IPoint`](../ipoint/). |
-| LineString | `3` | 几何是一个[`ILineString`](../ilinestring/). |
-| LinearRing | `4` | 几何是一个[`ILinearRing`](../ilinearring/). |
-| CircularString | `5` | 几何是一个[`ICircularString`](../icircularstring/). |
-| CompoundCurve | `6` | 几何是一个[`ICompoundCurve`](../icompoundcurve/). |
-| CurvePolygon | `7` | 几何是一个[`ICurvePolygon`](../icurvepolygon/). |
-| Polygon | `8` | 几何是一个[`IPolygon`](../ipolygon/). |
-| MultiPoint | `9` | 几何是一个[`IMultiPoint`](../imultipoint/). |
-| MultiCurve | `10` | 几何是一个[`IMultiCurve`](../imulticurve/). |
-| MultiLineString | `11` | 几何是一个[`IMultiLineString`](../imultilinestring/). |
-| MultiSurface | `12` | 几何是一个[`IMultiSurface`](../imultisurface/). |
-| MultiPolygon | `13` | 几何是一个[`IMultiPolygon`](../imultipolygon/). |
-| GeometryCollection | `14` | 几何是一个[`IGeometryCollection`](../igeometrycollection/). |
+| Null | `0` | 几何体类型未设置。 |
+| Mixed | `1` | 几何体类型为混合。 |
+| Point | `2` | 该几何体是一个[`IPoint`](../ipoint/)。 |
+| LineString | `3` | 该几何体是一个[`ILineString`](../ilinestring/)。 |
+| LinearRing | `4` | 该几何体是一个[`ILinearRing`](../ilinearring/)。 |
+| CircularString | `5` | 该几何体是一个[`ICircularString`](../icircularstring/)。 |
+| CompoundCurve | `6` | 该几何体是一个[`ICompoundCurve`](../icompoundcurve/)。 |
+| CurvePolygon | `7` | 该几何体是一个[`ICurvePolygon`](../icurvepolygon/)。 |
+| Polygon | `8` | 该几何体是一个[`IPolygon`](../ipolygon/)。 |
+| MultiPoint | `9` | 该几何体是一个[`IMultiPoint`](../imultipoint/)。 |
+| MultiCurve | `10` | 该几何体是一个[`IMultiCurve`](../imulticurve/)。 |
+| MultiLineString | `11` | 该几何体是一个[`IMultiLineString`](../imultilinestring/)。 |
+| MultiSurface | `12` | 该几何体是一个[`IMultiSurface`](../imultisurface/)。 |
+| MultiPolygon | `13` | 该几何体是一个[`IMultiPolygon`](../imultipolygon/)。 |
+| GeometryCollection | `14` | 该几何体是一个[`IGeometryCollection`](../igeometrycollection/)。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

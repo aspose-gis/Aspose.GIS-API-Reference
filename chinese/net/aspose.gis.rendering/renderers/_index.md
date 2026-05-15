@@ -1,31 +1,31 @@
 ---
-title: Class Renderers
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Renderers 班级. 所有支持格式的渲染器
+title: "类 Renderers"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Renderers 类。所有支持格式的渲染器"
 type: docs
-weight: 1780
+weight: 4230
 url: /zh/net/aspose.gis.rendering/renderers/
 ---
 ## Renderers class
 
-所有支持格式的渲染器。
+所有受支持格式的渲染器。
 
 ```csharp
 public static class Renderers
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Bmp](../../aspose.gis.rendering/renderers/bmp/) { get; } | 渲染成 BMP 格式的渲染器。 |
-| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg/) { get; } | 呈现为 JPEG 格式的渲染器。 |
-| static [Png](../../aspose.gis.rendering/renderers/png/) { get; } | 呈现为 PNG 格式的渲染器。 |
-| static [Svg](../../aspose.gis.rendering/renderers/svg/) { get; } | 渲染成 SVG 格式的渲染器。 |
+| static [Bmp](../../aspose.gis.rendering/renderers/bmp/) { get; } | 将渲染为 BMP 格式的渲染器。 |
+| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg/) { get; } | 将渲染为 JPEG 格式的渲染器。 |
+| static [Png](../../aspose.gis.rendering/renderers/png/) { get; } | 将渲染为 PNG 格式的渲染器。 |
+| static [Svg](../../aspose.gis.rendering/renderers/svg/) { get; } | 将渲染为 SVG 格式的渲染器。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

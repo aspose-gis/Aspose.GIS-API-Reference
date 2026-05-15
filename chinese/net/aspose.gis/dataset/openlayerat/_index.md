@@ -1,44 +1,44 @@
 ---
-title: Dataset.OpenLayerAt
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 打开指定索引处的层进行读取
+title: "Dataset.OpenLayerAt"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。打开指定索引处的图层以进行读取"
 type: docs
-weight: 120
+weight: 140
 url: /zh/net/aspose.gis/dataset/openlayerat/
 ---
 ## Dataset.OpenLayerAt method
 
-打开指定索引处的层进行读取。
+以读取模式打开指定索引处的图层。
 
 ```csharp
 public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 要打开的层的索引。 |
+| 索引 | Int32 | 要打开的图层索引。 |
 | options | DriverOptions | 打开选项。 |
 
 ### 返回值
 
-该层已打开以供读取。
+已打开用于读取的图层。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此数据集的选项对象类型不正确。 |
+| ArgumentException | Options 对象的类型对该数据集不正确。 |
 | ArgumentOutOfRangeException | 索引超出范围 |
-| ArgumentException | 此数据集的选项对象类型不正确。 |
-| [GisException](../../gisexception/) | 从图层读取要素时出错。 |
+| ArgumentException | Options 对象的类型对该数据集不正确。 |
+| [GisException](../../gisexception/) | 读取图层中的要素时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

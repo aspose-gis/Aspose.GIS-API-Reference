@@ -1,14 +1,14 @@
 ---
-title: SpatialReferenceSystem.ExportToWkt
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 方法. 将此 SRS 的表示返回为 WKT 字符串 结果 WKT 字符串将匹配 OGC 01009 规范通常命名为WKT1
+title: "SpatialReferenceSystem.ExportToWkt"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 方法。返回此 SRS 的 WKT 字符串表示。结果 WKT 字符串通常符合 OGC 01009 规范，通常称为 WKT1。"
 type: docs
 weight: 190
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/
 ---
 ## SpatialReferenceSystem.ExportToWkt method
 
-将此 SRS 的表示返回为 WKT 字符串。 结果 WKT 字符串将匹配 OGC 01-009 规范，通常命名为“WKT1”。
+返回此 SRS 的 WKT 字符串表示。结果 WKT 字符串将符合 OGC 01-009 规范，通常称为 "WKT1"。
 
 ```csharp
 public string ExportToWkt()
@@ -18,16 +18,16 @@ public string ExportToWkt()
 
 此 SRS 的 WKT 表示。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 此 SRS 表示将包含NaN,PositiveInfinity或者NegativeInfinity. |
+| InvalidOperationException | 此 SRS 表示可能包含 NaN、PositiveInfinity 或 NegativeInfinity。 |
 
-### 也可以看看
+### 另见
 
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

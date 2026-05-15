@@ -1,38 +1,38 @@
 ---
-title: CurvePolygon.GetInteriorRing
-second_title: Aspose.GIS for .NET API 参考
-description: CurvePolygon 方法. 通过其索引获取内部环
+title: "CurvePolygon.GetInteriorRing"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CurvePolygon 方法. 根据索引获取内部环"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.geometries/curvepolygon/getinteriorring/
 ---
 ## CurvePolygon.GetInteriorRing method
 
-通过其索引获取内部环。
+通过索引获取内部环。
 
 ```csharp
 public ICurve GetInteriorRing(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 指数。 |
+| 索引 | Int32 | 该索引。 |
 
 ### 返回值
 
-内环。
+内部环。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
 
-### 也可以看看
+### 另见
 
 * interface [ICurve](../../icurve/)
 * class [CurvePolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../curvepolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../curvepolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

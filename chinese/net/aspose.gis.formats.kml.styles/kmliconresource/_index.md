@@ -1,9 +1,9 @@
 ---
-title: Class KmlIconResource
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.Kml.Styles.KmlIconResource 班级. 指定图标资源位置
+title: "类 KmlIconResource"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlIconResource 类。指定图标资源位置"
 type: docs
-weight: 480
+weight: 2120
 url: /zh/net/aspose.gis.formats.kml.styles/kmliconresource/
 ---
 ## KmlIconResource class
@@ -16,19 +16,19 @@ public class KmlIconResource
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [KmlIconResource](kmliconresource/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href/) { get; set; } | 将资源位置指定为 URL。 默认值为`null`表示 href 是 none. |
+| [Href](../../aspose.gis.formats.kml.styles/kmliconresource/href/) { get; set; } | 指定资源位置为 URL。默认值为 `null`，表示 href 为无。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

@@ -1,0 +1,65 @@
+---
+title: "类 GeoJsonSeqDriver"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.GeoJsonSeq.GeoJsonSeqDriver 类。用于 GeoJSON Seq 格式的驱动程序"
+type: docs
+weight: 1910
+url: /zh/net/aspose.gis.formats.geojsonseq/geojsonseqdriver/
+---
+## GeoJsonSeqDriver class
+
+用于 GeoJSON Seq 格式的驱动程序。
+
+```csharp
+public sealed class GeoJsonSeqDriver : FileDriver
+```
+
+## 属性
+
+| 名称 | 描述 |
+| --- | --- |
+| override [CanCreateDatasets](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/cancreatedatasets/) { get; } | 获取一个值，指示此驱动程序是否可以创建数据集。 |
+| override [CanCreateLayers](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/cancreatelayers/) { get; } | 获取一个值，指示此驱动程序是否可以创建矢量图层。 |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | 获取一个值，指示此驱动程序是否可以打开数据集。 |
+| override [CanOpenLayers](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/canopenlayers/) { get; } | 获取一个值，指示此驱动程序是否可以打开矢量图层。 |
+
+## 方法
+
+| 名称 | 描述 |
+| --- | --- |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string) | 创建一个数据集。 |
+| virtual [CreateDataset](../../aspose.gis/filedriver/createdataset/)(AbstractPath, DriverOptions) | 创建一个数据集。 |
+| [CreateDataset](../../aspose.gis/filedriver/createdataset/)(string, DriverOptions) | 创建一个数据集。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath) | 创建图层并以追加方式打开它。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string) | 创建图层并以追加方式打开它。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, DriverOptions) | 创建图层并以追加方式打开它。 |
+| [CreateLayer](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/createlayer/#createlayer_3)(AbstractPath, GeoJsonSeqOptions) | 创建图层并以添加新要素的方式打开它。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(AbstractPath, SpatialReferenceSystem) | 创建图层并以追加方式打开它。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions) | 创建图层并以追加方式打开它。 |
+| [CreateLayer](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/createlayer/#createlayer_9)(string, GeoJsonSeqOptions) | 创建图层并以添加新要素的方式打开它。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, SpatialReferenceSystem) | 创建图层并以追加方式打开它。 |
+| override [CreateLayer](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | 创建图层并以添加新要素的方式打开它。 |
+| [CreateLayer](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/createlayer/#createlayer_4)(AbstractPath, GeoJsonSeqOptions, SpatialReferenceSystem) | 创建图层并以添加新要素的方式打开它。 |
+| [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并以追加方式打开它。 |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | 打开图层进行编辑。 |
+| [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | 打开图层进行编辑。 |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | 打开数据集。 |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string) | 打开数据集。 |
+| virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath, DriverOptions) | 打开数据集。 |
+| [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string, DriverOptions) | 打开数据集。 |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(AbstractPath) | 打开该图层进行读取。 |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string) | 打开该图层进行读取。 |
+| override [OpenLayer](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | 打开图层进行读取。 |
+| [OpenLayer](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/openlayer/#openlayer_2)(AbstractPath, GeoJsonSeqOptions) | 打开图层进行读取。 |
+| [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | 打开该图层进行读取。 |
+| [OpenLayer](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/openlayer/#openlayer_5)(string, GeoJsonSeqOptions) | 打开图层进行读取。 |
+| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.geojsonseq/geojsonseqdriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | 确定指定的空间参考系统是否受此驱动程序支持。 |
+
+### 另见
+
+* class [FileDriver](../../aspose.gis/filedriver/)
+* namespace [Aspose.Gis.Formats.GeoJsonSeq](../../aspose.gis.formats.geojsonseq/)
+* assembly [Aspose.GIS](../../)
+
+

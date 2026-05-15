@@ -1,7 +1,7 @@
 ---
-title: MultiPoint.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: MultiPoint 方法. 获取此几何体的可编辑副本
+title: "MultiPoint.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiPoint 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geometries/multipoint/toeditable/
@@ -18,10 +18,10 @@ public MultiPoint ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [MultiPoint](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multipoint/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

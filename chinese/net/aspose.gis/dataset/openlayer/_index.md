@@ -1,44 +1,44 @@
 ---
-title: Dataset.OpenLayer
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 打开指定名称的层进行读取
+title: "Dataset.OpenLayer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。 打开具有指定名称的图层以进行读取"
 type: docs
-weight: 110
+weight: 130
 url: /zh/net/aspose.gis/dataset/openlayer/
 ---
 ## Dataset.OpenLayer method
 
-打开指定名称的层进行读取。
+以读取模式打开具有指定名称的图层。
 
 ```csharp
 public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 要打开的层的名称。 |
+| 名称 | String | 要打开的图层名称。 |
 | options | DriverOptions | 打开选项。 |
 
 ### 返回值
 
-该层已打开以供读取。
+已打开用于读取的图层。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 指定名称的图层不存在； 选项对象对于此数据集的类型不正确。 |
-| ArgumentException | 此数据集的选项对象类型不正确。 |
-| ArgumentNullException | 名字是`null`. |
-| [GisException](../../gisexception/) | 从图层读取要素时出错。 |
+| ArgumentException | 具有指定名称的图层不存在；Options 对象的类型对该数据集不正确。 |
+| ArgumentException | Options 对象的类型对该数据集不正确。 |
+| ArgumentNullException | 名称为 `null`。 |
+| [GisException](../../gisexception/) | 读取图层中的要素时出错。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../vectorlayer/)
 * class [DriverOptions](../../driveroptions/)
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

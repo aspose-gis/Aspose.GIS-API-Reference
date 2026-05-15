@@ -1,7 +1,7 @@
 ---
-title: RasterStatistics.Max
-second_title: Aspose.GIS for .NET API 参考
-description: RasterStatistics 财产. 计数单元格或像素值的最大值
+title: "RasterStatistics.Max"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterStatistics 属性。计数单元格或像素值的最大值"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.raster/rasterstatistics/max/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.raster/rasterstatistics/max/
 public double? Max { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterStatistics](../)
-* 命名空间 [Aspose.Gis.Raster](../../rasterstatistics/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterstatistics/)
+* assembly [Aspose.GIS](../../../)
 
 

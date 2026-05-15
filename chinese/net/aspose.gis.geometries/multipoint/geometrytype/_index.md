@@ -1,28 +1,28 @@
 ---
-title: MultiPoint.GeometryType
-second_title: Aspose.GIS for .NET API 参考
-description: MultiPoint 财产. 获取几何类型
+title: "MultiPoint.GeometryType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiPoint 属性。获取几何体的类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/multipoint/geometrytype/
 ---
 ## MultiPoint.GeometryType property
 
-获取几何类型。
+获取几何体的类型。
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-几何类型。
+几何体的类型。
 
-### 也可以看看
+### 另见
 
 * enum [GeometryType](../../geometrytype/)
 * class [MultiPoint](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multipoint/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipoint/)
+* assembly [Aspose.GIS](../../../)
 
 

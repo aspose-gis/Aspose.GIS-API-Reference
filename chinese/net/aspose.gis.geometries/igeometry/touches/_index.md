@@ -1,47 +1,49 @@
 ---
-title: IGeometry.Touches
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometry 方法. 确定此几何体和指定的几何体是否接触
+title: "IGeometry.Touches"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometry 方法。确定此几何体与指定几何体是否相切"
 type: docs
 weight: 360
 url: /zh/net/aspose.gis.geometries/igeometry/touches/
 ---
 ## IGeometry.Touches method
 
-确定此几何体和指定的几何体是否接触。
+确定此几何体与指定几何体是否相接触。
 
 ```csharp
 public bool Touches(IGeometry other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IGeometry | 一个几何。 |
+| 其他 | IGeometry | 一个几何体。 |
 
 ### 返回值
 
-`true`如果此几何体“空间接触”另一个几何体。`false`否则.
+`true` 如果此几何体"spatially touches"另一个几何体。`false` 否则。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
-| ArgumentException | 其中一个几何图形无效，无法完成操作。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/)几何形状不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/)为了将几何图形转换为相同的 spatial 参考系统。 |
+| ArgumentNullException | 参数为 `null`。 |
+| ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) 的几何体不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
-### 评论
+## 备注
 
-此方法根据 DE-9IM 交集矩阵测试几何图形是否相互接触。 如果两个几何图形至少有一个共同的边界点，但没有内部点，则它们相互接触。 即：两个[`LineString`](../../linestring/)如果它们共享一个端点但不共享一个线段，则它们会相互接触， 如果两个多边形共享外环或内环的一部分，但它们的内部不重叠，则它们会相互接触。 这个方法等同于： 有关 DE-9IM 和“空间接触”关系的更多详细信息，请参阅 OpenGIS 简单特征规范。
+此方法测试几何体是否在 DE-9IM 相交矩阵的意义上相接。若两个几何体至少共享一个边界点且没有内部点，则它们相接。即：两个[`LineString`](../../linestring/)若共享端点但不共享线段，则相接；两个多边形若共享外环或内环的一部分，但其内部不重叠，则相接。此方法等价于：
 
 ```csharp
 this.Relate(other, "FT*******") || this.Relate(other, "F**T*****") || this.Relate(other, "F***T****");
 ```
 
-### 也可以看看
+请参阅 OpenGIS Simple Features Specification 以获取有关 DE-9IM 和 "spatially touches" 关系的更多细节。
+
+### 另见
 
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

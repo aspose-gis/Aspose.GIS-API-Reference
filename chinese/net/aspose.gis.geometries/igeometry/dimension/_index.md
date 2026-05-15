@@ -1,24 +1,24 @@
 ---
-title: IGeometry.Dimension
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometry 财产. 得到这个的拓扑维度IGeometry . 如果维度未知例如对于空的 GEOMETRYCOLLECTIONPoint返回.
+title: "IGeometry.Dimension"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometry 属性。获取此 IGeometry 的拓扑维度。如果维度未知，例如对于空的 GEOMETRYCOLLECTION，则返回 Point"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/igeometry/dimension/
 ---
 ## IGeometry.Dimension property
 
-得到这个的拓扑维度[`IGeometry`](../) . 如果维度未知（例如对于空的 GEOMETRYCOLLECTION）Point返回.
+获取此 [`IGeometry`](../) 的拓扑维度。如果维度未知（例如对于空的 GEOMETRYCOLLECTION），则返回 Point。
 
 ```csharp
 public GeometryDimension Dimension { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * enum [GeometryDimension](../../geometrydimension/)
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

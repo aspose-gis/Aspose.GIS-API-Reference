@@ -1,7 +1,7 @@
 ---
-title: Enum AttributeDataType
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.AttributeDataType 枚举. 要素属性的数据类型
+title: "枚举 AttributeDataType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.AttributeDataType 枚举。特征属性的数据类型"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/attributedatatype/
@@ -14,23 +14,23 @@ url: /zh/net/aspose.gis/attributedatatype/
 public enum AttributeDataType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Integer | `0` | 32 位整数。 |
 | Long | `1` | 64 位整数。 |
 | Guid | `2` | 全局唯一标识符 (GUID)。 |
-| Boolean | `3` | 布尔（真/假）值。 |
-| Double | `4` | 双精度实数. |
+| Boolean | `3` | 布尔值（true/false）。 |
+| Double | `4` | 双精度实数。 |
 | Date | `5` | 日期值。 |
-| Time | `6` | 时间值. |
+| Time | `6` | 时间值。 |
 | DateTime | `7` | 日期和时间值。 |
 | String | `8` | 字符串值。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

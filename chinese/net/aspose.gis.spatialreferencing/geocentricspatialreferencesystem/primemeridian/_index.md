@@ -1,7 +1,7 @@
 ---
-title: GeocentricSpatialReferenceSystem.PrimeMeridian
-second_title: Aspose.GIS for .NET API 参考
-description: GeocentricSpatialReferenceSystem 财产. 返回此 SRS 的本初子午线
+title: "GeocentricSpatialReferenceSystem.PrimeMeridian"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeocentricSpatialReferenceSystem 属性。返回此 SRS 的本初子午线"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/primemeridian/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/prim
 public override PrimeMeridian PrimeMeridian { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [PrimeMeridian](../../primemeridian/)
 * class [GeocentricSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,0 +1,23 @@
+---
+title: "MapRasterOptions.MapRasterOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MapRasterOptions 构造函数。默认构造函数"
+type: docs
+weight: 10
+url: /zh/net/aspose.gis.geotools.layersmap/maprasteroptions/maprasteroptions/
+---
+## MapRasterOptions constructor
+
+默认构造函数。
+
+```csharp
+public MapRasterOptions()
+```
+
+### 另见
+
+* class [MapRasterOptions](../)
+* namespace [Aspose.Gis.GeoTools.LayersMap](../../maprasteroptions/)
+* assembly [Aspose.GIS](../../../)
+
+

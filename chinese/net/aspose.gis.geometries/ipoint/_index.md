@@ -1,9 +1,9 @@
 ---
-title: Interface IPoint
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.IPoint 界面. 坐标空间中的单个位置
+title: "接口 IPoint"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.IPoint 接口。坐标空间中的单个位置。"
 type: docs
-weight: 1090
+weight: 2870
 url: /zh/net/aspose.gis.geometries/ipoint/
 ---
 ## IPoint interface
@@ -14,9 +14,9 @@ url: /zh/net/aspose.gis.geometries/ipoint/
 public interface IPoint : IEquatable<IPoint>, IGeometry
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [M](../../aspose.gis.geometries/ipoint/m/) { get; } | 获取 m 坐标。 |
 | [X](../../aspose.gis.geometries/ipoint/x/) { get; } | 获取 x 坐标。 |
@@ -25,14 +25,14 @@ public interface IPoint : IEquatable<IPoint>, IGeometry
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/ipoint/toeditable/)() | 获取此几何体的可编辑副本。 |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../igeometry/)
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

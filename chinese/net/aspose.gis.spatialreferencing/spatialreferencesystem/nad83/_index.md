@@ -1,7 +1,7 @@
 ---
-title: SpatialReferenceSystem.Nad83
-second_title: Aspose.GIS for .NET API 参考
-description: SpatialReferenceSystem 财产. NAD 83 EPSG4269 空间参考系统
+title: "SpatialReferenceSystem.Nad83"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SpatialReferenceSystem 属性。NAD 83 EPSG4269 空间参考系统"
 type: docs
 weight: 280
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/nad83/
@@ -14,11 +14,11 @@ NAD 83 (EPSG:4269) 空间参考系统。
 public static GeographicSpatialReferenceSystem Nad83 { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeographicSpatialReferenceSystem](../../geographicspatialreferencesystem/)
 * class [SpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../spatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

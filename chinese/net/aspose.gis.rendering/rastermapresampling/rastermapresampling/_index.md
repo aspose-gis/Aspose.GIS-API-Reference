@@ -1,7 +1,7 @@
 ---
-title: RasterMapResampling.RasterMapResampling
-second_title: Aspose.GIS for .NET API 参考
-description: RasterMapResampling 构造函数. 默认构造函数
+title: "RasterMapResampling.RasterMapResampling"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterMapResampling 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering/rastermapresampling/rastermapresampling/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.rendering/rastermapresampling/rastermapresampling/
 public RasterMapResampling()
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterMapResampling](../)
-* 命名空间 [Aspose.Gis.Rendering](../../rastermapresampling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../rastermapresampling/)
+* assembly [Aspose.GIS](../../../)
 
 

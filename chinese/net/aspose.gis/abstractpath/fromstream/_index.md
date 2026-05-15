@@ -1,35 +1,35 @@
 ---
-title: AbstractPath.FromStream
-second_title: Aspose.GIS for .NET API 参考
-description: AbstractPath 方法. 创建一个AbstractPath从一个Stream.
+title: "AbstractPath.FromStream"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "AbstractPath 方法。从 Stream 创建一个 AbstractPath"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/abstractpath/fromstream/
 ---
 ## AbstractPath.FromStream method
 
-创建一个[`AbstractPath`](../)从一个Stream.
+从 Stream 创建一个 [`AbstractPath`](../)。
 
 ```csharp
 public static AbstractPath FromStream(Stream stream)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 创建一个流[`AbstractPath`](../)从。`Aspose地理信息系统`不处理流。 |
+| stream | Stream | 用于创建 [`AbstractPath`](../) 的 Stream。`Aspose.GIS` 不会释放该流。 |
 
 ### 返回值
 
-的实例[`AbstractPath`](../)与指定的Stream作为其内容.
+一个 [`AbstractPath`](../) 实例，其内容为指定的 Stream。
 
-### 评论
+## 备注
 
-此方法可用于将单文件格式（例如 GeoJSON 或 KML）的数据流传递给需要[`AbstractPath`](../).
+此方法可用于将单文件格式（如 GeoJSON 或 KML）的数据流传递给期望 [`AbstractPath`](../) 的方法。
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../)
-* 命名空间 [Aspose.Gis](../../abstractpath/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../abstractpath/)
+* assembly [Aspose.GIS](../../../)
 
 

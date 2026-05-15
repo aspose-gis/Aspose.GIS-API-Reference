@@ -1,61 +1,61 @@
 ---
-title: GeoConvert.AsPointText
-second_title: Aspose.GIS for .NET API 参考
-description: GeoConvert 方法. 以指定格式的字符串形式返回计算出的位置
+title: "GeoConvert.AsPointText"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeoConvert 方法。以指定格式返回计算后的位置字符串。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/geoconvert/aspointtext/
 ---
 ## AsPointText(double, double, PointFormats) {#aspointtext_1}
 
-以指定格式的字符串形式返回计算出的位置。
+以指定格式将计算后的位置作为字符串返回。
 
 ```csharp
 public static string AsPointText(double latitude, double longitude, PointFormats format)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| latitude | Double | 位置纬度。 |
-| longitude | Double | 定位经度。 |
-| format | PointFormats | 结果的格式。 |
+| 纬度 | Double | 位置纬度。 |
+| 经度 | Double | 位置经度。 |
+| 格式 | PointFormats | 结果的格式。 |
 
 ### 返回值
 
-定位为字符串。
+位置的字符串表示。
 
-### 也可以看看
+### 另见
 
 * enum [PointFormats](../../pointformats/)
 * class [GeoConvert](../)
-* 命名空间 [Aspose.Gis](../../geoconvert/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../geoconvert/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## AsPointText(IPoint, PointFormats) {#aspointtext}
 
-以指定格式的字符串形式返回计算出的位置。
+以指定格式将计算后的位置作为字符串返回。
 
 ```csharp
 public static string AsPointText(IPoint point, PointFormats format)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | IPoint | IPoint 对象。 |
-| format | PointFormats | 结果的格式。 |
+| 点 | IPoint | IPoint 对象。 |
+| 格式 | PointFormats | 结果的格式。 |
 
 ### 返回值
 
-定位为字符串。
+位置的字符串表示。
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../../aspose.gis.geometries/ipoint/)
 * enum [PointFormats](../../pointformats/)
 * class [GeoConvert](../)
-* 命名空间 [Aspose.Gis](../../geoconvert/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../geoconvert/)
+* assembly [Aspose.GIS](../../../)
 
 

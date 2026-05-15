@@ -1,7 +1,7 @@
 ---
-title: VectorMapLayer.VectorMapLayer
-second_title: Aspose.GIS for .NET API 参考
-description: VectorMapLayer 构造函数. 使用默认符号器创建新实例
+title: "VectorMapLayer.VectorMapLayer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VectorMapLayer 构造函数。创建具有默认符号器的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering/vectormaplayer/vectormaplayer/
@@ -14,22 +14,22 @@ url: /zh/net/aspose.gis.rendering/vectormaplayer/vectormaplayer/
 public VectorMapLayer(FeaturesSequence featuresSequence)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | 特征序列。 |
+| featuresSequence | FeaturesSequence | 要素序列。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [FeaturesSequence](../../../aspose.gis/featuressequence/)
 * class [VectorMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../vectormaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -41,60 +41,62 @@ public VectorMapLayer(FeaturesSequence featuresSequence)
 public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | 特征序列。 |
-| symbolizer | VectorSymbolizer | 用于渲染图层的符号器。如果`null`，将使用默认符号。 |
+| featuresSequence | FeaturesSequence | 要素序列。 |
+| 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [FeaturesSequence](../../../aspose.gis/featuressequence/)
 * class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
 * class [VectorMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../vectormaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer(FeaturesSequence, VectorSymbolizer, Labeling) {#constructor_2}
+## VectorMapLayer(FeaturesSequence, VectorSymbolizer, Labeling, SpatialReferenceSystem) {#constructor_2}
 
 使用默认符号器创建新实例。
 
 ```csharp
 public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbolizer, 
-    Labeling labeling)
+    Labeling labeling, SpatialReferenceSystem defaultReferenceSystem = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | 特征序列。 |
-| symbolizer | VectorSymbolizer | 用于渲染图层的符号器。如果`null`，将使用默认符号。 |
-| labeling | Labeling | 用于标记层中要素的标记。如果`null`， 默认[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)将被使用. |
+| featuresSequence | FeaturesSequence | 要素序列。 |
+| 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
+| labeling | Labeling | 用于标记图层中要素的标注。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
+| defaultReferenceSystem | SpatialReferenceSystem | 如果缺少源空间参考（layer\sequence），则指定其值。默认使用 **null**。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [FeaturesSequence](../../../aspose.gis/featuressequence/)
 * class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
 * class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
 * class [VectorMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../vectormaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer(VectorLayer, bool) {#constructor_5}
+## VectorMapLayer(VectorLayer, bool) {#constructor_6}
 
 使用默认符号器创建新实例。
 
@@ -102,27 +104,27 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | VectorLayer | 矢量层。 |
-| keepOpen | Boolean | `true`在之后保持图层打开[`VectorMapLayer`](../)对象被处置；否则，`false`. |
+| 图层 | VectorLayer | 矢量图层。 |
+| keepOpen | Boolean | `true` 表示在 [`VectorMapLayer`](../) 对象被释放后保持图层打开；否则为 `false`。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 图层是`null`. |
+| ArgumentNullException | 图层为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [VectorMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../vectormaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer(VectorLayer, VectorSymbolizer, bool) {#constructor_4}
+## VectorMapLayer(VectorLayer, VectorSymbolizer, bool) {#constructor_5}
 
 创建新实例。
 
@@ -130,29 +132,29 @@ public VectorMapLayer(VectorLayer layer, bool keepOpen = true)
 public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, bool keepOpen = true)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | VectorLayer | 矢量层。 |
-| symbolizer | VectorSymbolizer | 用于渲染图层的符号器。如果`null`，将使用默认符号。 |
-| keepOpen | Boolean | `true`在之后保持图层打开[`VectorMapLayer`](../)对象被处置；否则，`false`. |
+| 图层 | VectorLayer | 矢量图层。 |
+| 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
+| keepOpen | Boolean | `true` 表示在 [`VectorMapLayer`](../) 对象被释放后保持图层打开；否则为 `false`。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 图层是`null`. |
+| ArgumentNullException | 图层为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
 * class [VectorMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../vectormaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
-## VectorMapLayer(VectorLayer, VectorSymbolizer, Labeling, bool) {#constructor_3}
+## VectorMapLayer(VectorLayer, VectorSymbolizer, Labeling, bool) {#constructor_4}
 
 创建新实例。
 
@@ -161,26 +163,61 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
     bool keepOpen = true)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| layer | VectorLayer | 矢量层。 |
-| symbolizer | VectorSymbolizer | 用于渲染图层的符号器。如果`null`，将使用默认符号。 |
-| labeling | Labeling | 用于标记层中要素的标记。如果`null`， 默认[`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)将被使用. |
-| keepOpen | Boolean | `true`在之后保持图层打开[`VectorMapLayer`](../)对象被处置；否则，`false`. |
+| 图层 | VectorLayer | 矢量图层。 |
+| 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
+| labeling | Labeling | 用于标记图层中要素的标注。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
+| keepOpen | Boolean | `true` 表示在 [`VectorMapLayer`](../) 对象被释放后保持图层打开；否则为 `false`。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 图层是`null`. |
+| ArgumentNullException | 图层为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../../aspose.gis/vectorlayer/)
 * class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
 * class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
 * class [VectorMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../vectormaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
+
+---
+
+## VectorMapLayer(VectorLayer, VectorSymbolizer, Labeling, SpatialReferenceSystem, bool) {#constructor_3}
+
+创建新实例。
+
+```csharp
+public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling labeling, 
+    SpatialReferenceSystem defaultReferenceSystem, bool keepOpen = true)
+```
+
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 图层 | VectorLayer | 矢量图层。 |
+| 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
+| labeling | Labeling | 用于标记图层中要素的标注。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
+| defaultReferenceSystem | SpatialReferenceSystem | 如果缺少源空间参考（layer\sequence），则指定其值。默认使用 **null**。 |
+| keepOpen | Boolean | `true` 表示在 [`VectorMapLayer`](../) 对象被释放后保持图层打开；否则为 `false`。 |
+
+### 异常
+
+| 异常 | 条件 |
+| --- | --- |
+| ArgumentNullException | 图层为 `null`。 |
+
+### 另见
+
+* class [VectorLayer](../../../aspose.gis/vectorlayer/)
+* class [VectorSymbolizer](../../../aspose.gis.rendering.symbolizers/vectorsymbolizer/)
+* class [Labeling](../../../aspose.gis.rendering.labelings/labeling/)
+* class [SpatialReferenceSystem](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)
+* class [VectorMapLayer](../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

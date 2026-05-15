@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.Csv
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.格式.Csv命名空间提供用于处理 CSV 格式的类
+title: "Aspose.Gis.Formats.Csv"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.Csv 命名空间提供用于处理 CSV 格式的类"
 type: docs
-weight: 20
+weight: 190
 url: /zh/net/aspose.gis.formats.csv/
 ---
-`Aspose.Gis.格式.Csv`命名空间提供用于处理 CSV 格式的类。
+`Aspose.Gis.Formats.Csv` 命名空间提供用于处理 CSV 格式的类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [CsvDriver](./csvdriver/) | CSV 格式的驱动程序。 |
-| [CsvOptions](./csvoptions/) | CSV 格式的驱动程序特定选项。 |
+| [CsvDriver](./csvdriver/) | 用于 CSV 格式的驱动程序。 |
+| [CsvOptions](./csvoptions/) | 针对 CSV 格式的驱动程序特定选项。 |
 
 

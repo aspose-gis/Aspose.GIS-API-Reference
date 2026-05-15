@@ -1,37 +1,37 @@
 ---
-title: VectorLayer.ReplaceAt
-second_title: Aspose.GIS for .NET API 参考
-description: VectorLayer 方法. 替换Feature在指定的索引处.
+title: "VectorLayer.ReplaceAt"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VectorLayer 方法。替换指定索引处的 Feature。"
 type: docs
-weight: 170
+weight: 190
 url: /zh/net/aspose.gis/vectorlayer/replaceat/
 ---
 ## VectorLayer.ReplaceAt method
 
-替换[`Feature`](../../feature/)在指定的索引处.
+替换指定索引处的 [`Feature`](../../feature/)。
 
 ```csharp
 public virtual void ReplaceAt(int index, Feature feature)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 特征的索引。 |
-| feature | Feature | 要设置的功能。 |
+| 索引 | Int32 | 特征的索引。 |
+| 要素 | Feature | 要设置的特征。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层不可编辑则抛出。 |
+| InvalidOperationException | 如果图层不可编辑，则会抛出此异常。 |
 | ArgumentOutOfRangeException | 索引超出范围。 |
 | IOException | 发生 I/O 错误。 |
 
-### 也可以看看
+### 另见
 
 * class [Feature](../../feature/)
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

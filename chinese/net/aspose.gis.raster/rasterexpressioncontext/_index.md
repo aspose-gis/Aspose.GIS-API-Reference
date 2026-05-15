@@ -1,14 +1,14 @@
 ---
-title: Struct RasterExpressionContext
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Raster.RasterExpressionContext 结构. 此类在读取栅格波段时描述值上下文
+title: "结构体 RasterExpressionContext"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Raster.RasterExpressionContext 结构体。此类描述读取栅格波段时的值上下文"
 type: docs
-weight: 1380
+weight: 3820
 url: /zh/net/aspose.gis.raster/rasterexpressioncontext/
 ---
 ## RasterExpressionContext structure
 
-此类在读取栅格波段时描述值上下文。
+此类描述在读取栅格波段时的值上下文。
 
 ```csharp
 public struct RasterExpressionContext : IEquatable<RasterExpressionContext>
@@ -16,29 +16,29 @@ public struct RasterExpressionContext : IEquatable<RasterExpressionContext>
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [RasterExpressionContext](rasterexpressioncontext/)(int, int) | 创建实例`RasterExpressionContext` |
+| [RasterExpressionContext](rasterexpressioncontext/)(int, int) | 创建 `RasterExpressionContext` 的实例 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [CellX](../../aspose.gis.raster/rasterexpressioncontext/cellx/) { get; } | 获取或设置列值（x 坐标）。编号从 0 开始。 |
-| [CellY](../../aspose.gis.raster/rasterexpressioncontext/celly/) { get; } | 获取或设置行值（y 坐标）。编号从 0 开始。 |
+| [CellX](../../aspose.gis.raster/rasterexpressioncontext/cellx/) { get; } | 获取或设置列值 (x 坐标)。编号从 0 开始。 |
+| [CellY](../../aspose.gis.raster/rasterexpressioncontext/celly/) { get; } | 获取或设置行值 (y 坐标)。编号从 0 开始。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals_1)(object) | 指示此实例和指定对象是否相等。 |
-| [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals)(RasterExpressionContext) | 指示当前对象是否等于同一类型的另一个对象。 |
+| override [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals_1)(object) | 指示此实例与指定对象是否相等。 |
+| [Equals](../../aspose.gis.raster/rasterexpressioncontext/equals/#equals)(RasterExpressionContext) | 指示当前对象是否等于同类型的另一个对象。 |
 | override [GetHashCode](../../aspose.gis.raster/rasterexpressioncontext/gethashcode/)() | 返回此实例的哈希码。 |
 | override [ToString](../../aspose.gis.raster/rasterexpressioncontext/tostring/)() | 返回此实例的完全限定类型名称。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

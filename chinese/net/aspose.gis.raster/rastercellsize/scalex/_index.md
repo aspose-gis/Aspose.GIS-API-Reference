@@ -1,7 +1,7 @@
 ---
-title: RasterCellSize.ScaleX
-second_title: Aspose.GIS for .NET API 参考
-description: RasterCellSize 财产. 获取或设置像素宽度的 x 分量x 比例
+title: "RasterCellSize.ScaleX"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterCellSize 属性。获取或设置像素宽度的 x 分量 xscale"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.raster/rastercellsize/scalex/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.raster/rastercellsize/scalex/
 public double ScaleX { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterCellSize](../)
-* 命名空间 [Aspose.Gis.Raster](../../rastercellsize/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

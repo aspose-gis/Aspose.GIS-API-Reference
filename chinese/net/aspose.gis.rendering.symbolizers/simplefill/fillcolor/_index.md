@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.FillColor
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleFill 财产. 指定填充的颜色和透明度
+title: "SimpleFill.FillColor"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleFill 属性。指定用于填充的颜色和透明度"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/fillcolor/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/fillcolor/
 public Color FillColor { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [SimpleFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

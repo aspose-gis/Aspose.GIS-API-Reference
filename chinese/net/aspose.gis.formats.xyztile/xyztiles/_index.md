@@ -1,14 +1,14 @@
 ---
-title: Class XyzTiles
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.XyzTile.XyzTiles 班级. XyzTiles 提供对XyzTile对象.
+title: "类 XyzTiles"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.XyzTile.XyzTiles 类。XyzTiles 提供对 XyzTile 对象的访问"
 type: docs
-weight: 740
+weight: 2410
 url: /zh/net/aspose.gis.formats.xyztile/xyztiles/
 ---
 ## XyzTiles class
 
-XyzTiles 提供对XyzTile对象.
+XyzTiles 提供对 XyzTile 对象的访问。
 
 ```csharp
 public sealed class XyzTiles : WebTiles
@@ -16,22 +16,22 @@ public sealed class XyzTiles : WebTiles
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [XyzTiles](xyztiles/)(XyzConnection) | 创建实例`XyzTiles`. |
+| [XyzTiles](xyztiles/)(XyzConnection) | 创建 `XyzTiles` 的实例。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| override [Dispose](../../aspose.gis.formats.xyztile/xyztiles/dispose/)() | 执行与释放、释放或重置非托管资源相关的应用程序定义的任务。 |
-| [GetTile](../../aspose.gis.formats.xyztile/xyztiles/gettile/)(int, int, int) | 加载指定的图块。 |
-| [GetTiles](../../aspose.gis.formats.xyztile/xyztiles/gettiles/)(int, Extent) | 通过空间边界框和缩放级别加载图块。 |
+| override [Dispose](../../aspose.gis.formats.xyztile/xyztiles/dispose/)() | 执行应用程序定义的任务，涉及释放、释放或重置非托管资源。 |
+| [GetTile](../../aspose.gis.formats.xyztile/xyztiles/gettile/)(int, int, int) | 加载指定的瓦片。 |
+| [GetTiles](../../aspose.gis.formats.xyztile/xyztiles/gettiles/)(int, Extent) | 按空间边界框和缩放级别加载瓦片。 |
 
-### 也可以看看
+### 另见
 
 * class [WebTiles](../../aspose.gis.raster.web/webtiles/)
-* 命名空间 [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
+* assembly [Aspose.GIS](../../)
 
 

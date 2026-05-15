@@ -1,24 +1,24 @@
 ---
-title: ConversionOptions.DestinationDriverOptions
-second_title: Aspose.GIS for .NET API 参考
-description: ConversionOptions 财产. 目标层的特定于驱动程序的选项
+title: "ConversionOptions.DestinationDriverOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ConversionOptions 属性。目标图层的驱动程序特定选项"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/conversionoptions/destinationdriveroptions/
 ---
 ## ConversionOptions.DestinationDriverOptions property
 
-目标层的特定于驱动程序的选项。
+目标图层的驱动程序特定选项。
 
 ```csharp
 public DriverOptions DestinationDriverOptions { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [DriverOptions](../../driveroptions/)
 * class [ConversionOptions](../)
-* 命名空间 [Aspose.Gis](../../conversionoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../conversionoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

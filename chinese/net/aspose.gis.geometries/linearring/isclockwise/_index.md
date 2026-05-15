@@ -1,14 +1,14 @@
 ---
-title: LinearRing.IsClockwise
-second_title: Aspose.GIS for .NET API 参考
-description: LinearRing 方法. 确定环是否顺时针缠绕
+title: "LinearRing.IsClockwise"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LinearRing 方法。确定环是否为顺时针方向"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geometries/linearring/isclockwise/
 ---
 ## LinearRing.IsClockwise method
 
-确定环是否顺时针缠绕。
+确定环是否为顺时针方向。
 
 ```csharp
 public bool IsClockwise()
@@ -16,16 +16,16 @@ public bool IsClockwise()
 
 ### 返回值
 
-`true`如果顺时针；否则`false`.
+`true` 表示顺时针；否则为 `false`。
 
-### 评论
+## 备注
 
 如果线性环无效（例如自相交），则函数结果未定义。
 
-### 也可以看看
+### 另见
 
 * class [LinearRing](../)
-* 命名空间 [Aspose.Gis.Geometries](../../linearring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linearring/)
+* assembly [Aspose.GIS](../../../)
 
 

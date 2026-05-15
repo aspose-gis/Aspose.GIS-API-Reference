@@ -1,30 +1,30 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.ZAxis
-second_title: Aspose.GIS for .NET API 参考
-description: GeocentricSpatialReferenceSystemParameters 财产. 描述Z维度的地心 SRS 轴指向北极或南极的轴 默认为轴North方向.
+title: "GeocentricSpatialReferenceSystemParameters.ZAxis"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeocentricSpatialReferenceSystemParameters 属性。描述指向北极或南极的 Z 维度轴的地心 SRS 轴。默认方向为北向轴"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis/
 ---
 ## GeocentricSpatialReferenceSystemParameters.ZAxis property
 
-描述“Z”维度的地心 SRS 轴（指向北极或南极的轴）。 默认为轴North方向.
+描述 'Z' 维度的地心 SRS 轴（指向北极或南极的轴）。默认是指向北向的轴。
 
 ```csharp
 public Axis ZAxis { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 轴方向不对North或者South. |
+| ArgumentException | 轴方向不是北向或南向。 |
 
-### 也可以看看
+### 另见
 
 * class [Axis](../../axis/)
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

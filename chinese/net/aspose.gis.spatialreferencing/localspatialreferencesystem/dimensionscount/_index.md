@@ -1,23 +1,23 @@
 ---
-title: LocalSpatialReferenceSystem.DimensionsCount
-second_title: Aspose.GIS for .NET API 参考
-description: LocalSpatialReferenceSystem 财产. 此 SRS 中的维数
+title: "LocalSpatialReferenceSystem.DimensionsCount"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LocalSpatialReferenceSystem 属性。此 SRS 的维度数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/localspatialreferencesystem/dimensionscount/
 ---
 ## LocalSpatialReferenceSystem.DimensionsCount property
 
-此 SRS 中的维数。
+此 SRS 的维数。
 
 ```csharp
 public override int DimensionsCount { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [LocalSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

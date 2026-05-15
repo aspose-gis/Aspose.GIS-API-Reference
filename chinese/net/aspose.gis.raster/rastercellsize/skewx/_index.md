@@ -1,23 +1,23 @@
 ---
-title: RasterCellSize.SkewX
-second_title: Aspose.GIS for .NET API 参考
-description: RasterCellSize 财产. 获取或设置像素高度的 x 分量x 偏斜
+title: "RasterCellSize.SkewX"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterCellSize 属性。获取或设置像素高度的 x 分量 xskew"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.raster/rastercellsize/skewx/
 ---
 ## RasterCellSize.SkewX property
 
-获取或设置像素高度的 x 分量（x 偏斜）。
+获取或设置像素高度的 x 分量 (x-skew)。
 
 ```csharp
 public double SkewX { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [RasterCellSize](../)
-* 命名空间 [Aspose.Gis.Raster](../../rastercellsize/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rastercellsize/)
+* assembly [Aspose.GIS](../../../)
 
 

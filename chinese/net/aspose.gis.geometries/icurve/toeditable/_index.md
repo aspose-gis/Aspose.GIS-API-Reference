@@ -1,7 +1,7 @@
 ---
-title: ICurve.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: ICurve 方法. 获取此几何体的可编辑副本
+title: "ICurve.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ICurve 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geometries/icurve/toeditable/
@@ -18,11 +18,11 @@ public Curve ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [Curve](../../curve/)
 * interface [ICurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../icurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../icurve/)
+* assembly [Aspose.GIS](../../../)
 
 

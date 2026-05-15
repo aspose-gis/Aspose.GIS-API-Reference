@@ -1,18 +1,18 @@
 ---
-title: Aspose.Gis.Formats.GeoTiff
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.格式.GeoTiff命名空间提供用于处理 GeoTiff 格式的类
+title: "Aspose.Gis.Formats.GeoTiff"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.GeoTiff 命名空间提供用于处理 GeoTiff 格式的类。"
 type: docs
-weight: 80
+weight: 290
 url: /zh/net/aspose.gis.formats.geotiff/
 ---
-`Aspose.Gis.格式.GeoTiff`命名空间提供用于处理 GeoTiff 格式的类。
+`Aspose.Gis.Formats.GeoTiff` 命名空间提供用于处理 GeoTiff 格式的类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [GeoTiffDriver](./geotiffdriver/) | Geo TIFF 光栅的驱动程序。 |
-| [GeoTiffOptions](./geotiffoptions/) | GeoTiff 格式的特定于驱动程序的选项。 |
+| [GeoTiffDriver](./geotiffdriver/) | 用于 Geo TIFF 栅格的驱动程序。 |
+| [GeoTiffOptions](./geotiffoptions/) | 针对 GeoTiff 格式的驱动程序特定选项。 |
 
 

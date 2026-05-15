@@ -1,7 +1,7 @@
 ---
-title: PostGisOptions.PostGisOptions
-second_title: Aspose.GIS for .NET API 参考
-description: PostGisOptions 构造函数. 创建新实例
+title: "PostGisOptions.PostGisOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "PostGisOptions 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.postgis/postgisoptions/postgisoptions/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.formats.postgis/postgisoptions/postgisoptions/
 public PostGisOptions()
 ```
 
-### 也可以看看
+### 另见
 
 * class [PostGisOptions](../)
-* 命名空间 [Aspose.Gis.Formats.PostGis](../../postgisoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.PostGis](../../postgisoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

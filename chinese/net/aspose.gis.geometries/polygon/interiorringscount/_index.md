@@ -1,27 +1,27 @@
 ---
-title: Polygon.InteriorRingsCount
-second_title: Aspose.GIS for .NET API 参考
-description: Polygon 财产. 获取内环数
+title: "Polygon.InteriorRingsCount"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Polygon 属性。获取内部环的数量"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.geometries/polygon/interiorringscount/
 ---
 ## Polygon.InteriorRingsCount property
 
-获取内环数。
+获取内部环的数量。
 
 ```csharp
 public int InteriorRingsCount { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-内环数。
+内部环的数量。
 
-### 也可以看看
+### 另见
 
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: MultiCurve.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: MultiCurve 方法. 获取此几何体的可编辑副本
+title: "MultiCurve.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiCurve 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.geometries/multicurve/toeditable/
@@ -18,10 +18,10 @@ public MultiCurve ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [MultiCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multicurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multicurve/)
+* assembly [Aspose.GIS](../../../)
 
 

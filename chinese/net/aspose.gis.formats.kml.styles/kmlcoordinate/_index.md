@@ -1,9 +1,9 @@
 ---
-title: Class KmlCoordinate
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.Kml.Styles.KmlCoordinate 班级. 指定图像坐标系
+title: "类 KmlCoordinate"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlCoordinate 类。指定图像坐标系统"
 type: docs
-weight: 450
+weight: 2090
 url: /zh/net/aspose.gis.formats.kml.styles/kmlcoordinate/
 ---
 ## KmlCoordinate class
@@ -16,22 +16,22 @@ public class KmlCoordinate
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [KmlCoordinate](kmlcoordinate/)() | 默认构造函数。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [X](../../aspose.gis.formats.kml.styles/kmlcoordinate/x/) { get; set; } | 点的 X 分量。默认值为 0.5。 |
-| [XUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/xunits/) { get; set; } | 指定 X 值的单位。默认值为Fraction. |
+| [XUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/xunits/) { get; set; } | 指定 X 值的单位。默认值为 Fraction。 |
 | [Y](../../aspose.gis.formats.kml.styles/kmlcoordinate/y/) { get; set; } | 点的 Y 分量。默认值为 0.5。 |
-| [YUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/yunits/) { get; set; } | 指定 Y 值的单位。默认值为Fraction. |
+| [YUnits](../../aspose.gis.formats.kml.styles/kmlcoordinate/yunits/) { get; set; } | 指定 Y 值的单位。默认值为 Fraction。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.Kml.Styles](../../aspose.gis.formats.kml.styles/)
+* assembly [Aspose.GIS](../../)
 
 

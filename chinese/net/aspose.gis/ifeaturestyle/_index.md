@@ -1,22 +1,22 @@
 ---
-title: Interface IFeatureStyle
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.IFeatureStyle 界面. 要素样式层次结构的接口根类
+title: "接口 IFeatureStyle"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.IFeatureStyle 接口。特征样式层次结构的根接口类"
 type: docs
-weight: 1260
+weight: 3040
 url: /zh/net/aspose.gis/ifeaturestyle/
 ---
 ## IFeatureStyle interface
 
-要素样式层次结构的接口根类。
+特征样式层次结构的接口根类。
 
 ```csharp
 public interface IFeatureStyle
 ```
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

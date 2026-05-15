@@ -1,14 +1,14 @@
 ---
-title: CircularString.GetEnumerator
-second_title: Aspose.GIS for .NET API 参考
-description: CircularString 方法. 返回循环访问集合的枚举器
+title: "CircularString.GetEnumerator"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CircularString 方法。返回一个遍历集合的枚举器"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.geometries/circularstring/getenumerator/
 ---
 ## CircularString.GetEnumerator method
 
-返回循环访问集合的枚举器。
+返回遍历集合的枚举器。
 
 ```csharp
 public IEnumerator<IPoint> GetEnumerator()
@@ -18,11 +18,11 @@ public IEnumerator<IPoint> GetEnumerator()
 
 可用于遍历集合的枚举器。
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * class [CircularString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../circularstring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

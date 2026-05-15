@@ -1,74 +1,74 @@
 ---
-title: RasterImageMarker.RasterImageMarker
-second_title: Aspose.GIS for .NET API 参考
-description: RasterImageMarker 构造函数. 初始化一个新的实例RasterImageMarker班级
+title: "RasterImageMarker.RasterImageMarker"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterImageMarker 构造函数。初始化 RasterImageMarker 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/rasterimagemarker/
 ---
 ## RasterImageMarker(string) {#constructor_2}
 
-初始化一个新的实例[`RasterImageMarker`](../)班级。
+初始化 [`RasterImageMarker`](../) 类的新实例。
 
 ```csharp
 public RasterImageMarker(string imagePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | imagePath | String | 文件的路径。 |
 
-### 也可以看看
+### 另见
 
 * class [RasterImageMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## RasterImageMarker(AbstractPath) {#constructor}
 
-初始化一个新的实例[`RasterImageMarker`](../)班级。
+初始化 [`RasterImageMarker`](../) 类的新实例。
 
 ```csharp
 public RasterImageMarker(AbstractPath imagePath)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | imagePath | AbstractPath | 文件的路径。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../../aspose.gis/abstractpath/)
 * class [RasterImageMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## RasterImageMarker(RasterImageMarker) {#constructor_1}
 
-初始化一个新的实例[`RasterImageMarker`](../)班级。
+初始化 [`RasterImageMarker`](../) 类的新实例。
 
 ```csharp
 public RasterImageMarker(RasterImageMarker other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | RasterImageMarker | 另一个[`RasterImageMarker`](../)从中复制数据。 |
+| other | RasterImageMarker | 要从中复制数据的另一个 [`RasterImageMarker`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [RasterImageMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

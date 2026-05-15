@@ -1,59 +1,59 @@
 ---
-title: Extent.Grow
-second_title: Aspose.GIS for .NET API 参考
-description: Extent 方法. 扩大此范围使其包含参数
+title: "Extent.Grow"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Extent 方法。扩展此 extent 以包含参数"
 type: docs
 weight: 160
 url: /zh/net/aspose.gis/extent/grow/
 ---
 ## Grow(Extent) {#grow}
 
-扩大此范围，使其包含参数。
+扩展此范围，使其包含参数。
 
 ```csharp
 public void Grow(Extent extent)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| extent | Extent | 其他程度。 |
+| 范围 | 范围 | 其他 extent。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/)这种程度和争论都不是`null`并且彼此不相等. |
+| ArgumentNullException | 参数为 `null`。 |
+| ArgumentException | 此范围和参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
 
-### 评论
+## 备注
 
-如果[`SpatialReferenceSystem`](../spatialreferencesystem/)这个SRS是`null`然后用参数的 SRS 更新它。
+如果此 SRS 的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 为 `null`，则会使用参数的 SRS 进行更新。
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Grow(double, double) {#grow_1}
 
-扩大此范围，使其包含指定的点。
+扩展此范围，使其包含指定的点。
 
 ```csharp
 public void Grow(double x, double y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | x | Double | 要包含的 X 坐标。 |
 | y | Double | 要包含的 Y 坐标。 |
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: CompoundSpatialReferenceSystem.HasGeographicDatum
-second_title: Aspose.GIS for .NET API 参考
-description: CompoundSpatialReferenceSystem 财产. 如果任何基础 SRS 具有地理数据则复合 SRS 具有地理数据
+title: "CompoundSpatialReferenceSystem.HasGeographicDatum"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CompoundSpatialReferenceSystem 属性。若任一底层 SRS 具有地理基准，则复合 SRS 具有地理基准。"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/hasgeographicdatum/
 ---
 ## CompoundSpatialReferenceSystem.HasGeographicDatum property
 
-如果任何基础 SRS 具有地理数据，则复合 SRS 具有地理数据。
+如果任意底层 SRS 具有地理基准，则复合 SRS 具有地理基准。
 
 ```csharp
 public override bool HasGeographicDatum { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [CompoundSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

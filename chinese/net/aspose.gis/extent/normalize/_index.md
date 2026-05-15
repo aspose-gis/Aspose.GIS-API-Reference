@@ -1,23 +1,23 @@
 ---
-title: Extent.Normalize
-second_title: Aspose.GIS for .NET API 参考
-description: Extent 方法. 掉期XMin和XMax如果Width是负的并且 YMin和YMax如果Height是负的.
+title: "Extent.Normalize"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Extent 方法。如果 Width 为负数则交换 XMin 与 XMax，如果 Height 为负数则交换 YMin 与 YMax"
 type: docs
 weight: 200
 url: /zh/net/aspose.gis/extent/normalize/
 ---
 ## Extent.Normalize method
 
-掉期[`XMin`](../xmin/)和[`XMax`](../xmax/)如果[`Width`](../width/)是负的并且 [`YMin`](../ymin/)和[`YMax`](../ymax/)如果[`Height`](../height/)是负的.
+如果 [`Width`](../width/) 为负数，则交换 [`XMin`](../xmin/) 与 [`XMax`](../xmax/)；如果 [`Height`](../height/) 为负数，则交换 [`YMin`](../ymin/) 与 [`YMax`](../ymax/)。
 
 ```csharp
 public void Normalize()
 ```
 
-### 也可以看看
+### 另见
 
 * class [Extent](../)
-* 命名空间 [Aspose.Gis](../../extent/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../extent/)
+* assembly [Aspose.GIS](../../../)
 
 

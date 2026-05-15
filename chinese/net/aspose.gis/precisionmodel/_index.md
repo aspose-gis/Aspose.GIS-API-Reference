@@ -1,49 +1,49 @@
 ---
-title: Class PrecisionModel
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.PrecisionModel 班级. PrecisionModel指定坐标中有效数字的数量
+title: "类 PrecisionModel"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.PrecisionModel 类。PrecisionModel 指定坐标中的有效数字位数"
 type: docs
-weight: 1310
+weight: 3700
 url: /zh/net/aspose.gis/precisionmodel/
 ---
 ## PrecisionModel class
 
-`PrecisionModel`指定坐标中有效数字的数量。
+`PrecisionModel` 指定坐标中的有效数字位数。
 
 ```csharp
 public abstract class PrecisionModel : IEquatable<PrecisionModel>
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Exact](../../aspose.gis/precisionmodel/exact/) { get; } | 返回精确精度模型。 根据精确精度模型，double 值中的所有数字都是重要的。 |
-| [IsExact](../../aspose.gis/precisionmodel/isexact/) { get; } | 获取一个值，指示此精度模型是否准确。 |
-| [IsRounding](../../aspose.gis/precisionmodel/isrounding/) { get; } | 获取一个值，指示此精度模型是否舍入。 |
-| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits/) { get; } | 如果是四舍五入，则获取精度模型中的有效数字位数。 |
+| static [Exact](../../aspose.gis/precisionmodel/exact/) { get; } | 返回一个精确的精度模型。根据精确的精度模型，双精度值中的所有数字都是有效的。 |
+| [IsExact](../../aspose.gis/precisionmodel/isexact/) { get; } | 获取一个值，指示此精度模型是否为精确。 |
+| [IsRounding](../../aspose.gis/precisionmodel/isrounding/) { get; } | 获取一个值，指示此精度模型是否进行四舍五入。 |
+| abstract [SignificantDigits](../../aspose.gis/precisionmodel/significantdigits/) { get; } | 如果精度模型进行四舍五入，则获取其有效数字的位数。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Rounding](../../aspose.gis/precisionmodel/rounding/)(int) | 返回舍入精度模型。 根据舍入精度模型，只有有限数量的数字是重要的。 |
-| override [Equals](../../aspose.gis/precisionmodel/equals/#equals_1)(object) | 指示当前对象是否等于同一类型的另一个对象。 |
-| [Equals](../../aspose.gis/precisionmodel/equals/#equals)(PrecisionModel) | 指示当前对象是否等于同一类型的另一个对象。 |
-| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode/)() | 用作默认哈希函数。 |
-| [operator ==](../../aspose.gis/precisionmodel/op_equality/) | 实现运算符 ==. |
-| [operator !=](../../aspose.gis/precisionmodel/op_inequality/) | 实现运算符 !=. |
+| static [Rounding](../../aspose.gis/precisionmodel/rounding/)(int) | 返回一个四舍五入的精度模型。根据四舍五入的精度模型，只有有限数量的数字是有效的。 |
+| override [Equals](../../aspose.gis/precisionmodel/equals/#equals_1)(object) | 指示当前对象是否等于同类型的另一个对象。 |
+| [Equals](../../aspose.gis/precisionmodel/equals/#equals)(PrecisionModel) | 指示当前对象是否等于同类型的另一个对象。 |
+| override [GetHashCode](../../aspose.gis/precisionmodel/gethashcode/)() | 作为默认的哈希函数。 |
+| [operator ==](../../aspose.gis/precisionmodel/op_equality/) | 实现运算符 ==。 |
+| [operator !=](../../aspose.gis/precisionmodel/op_inequality/) | 实现运算符 !=。 |
 
-### 评论
+## 备注
 
-PrecisionModel有两种： 精确的`PrecisionModel`（所有数字均有效）；圆形`PrecisionModel`（一些数字很重要）。 一个`PrecisionModel`可以设置为[`VectorLayer`](../vectorlayer/)通过[`DriverOptions`](../driveroptions/) 以便在写入或读取几何图形时舍入坐标。
+PrecisionModel 有两种类型：精确 `PrecisionModel`（所有数字都是有效的）；四舍五入 `PrecisionModel`（部分数字是有效的）。可以将 `PrecisionModel` 设置到 [`VectorLayer`](../vectorlayer/)，通过 [`DriverOptions`](../driveroptions/) 来在写入或读取几何图形时对坐标进行四舍五入。
 
-### 也可以看看
+### 另见
 
 * property [XYPrecisionModel](../driveroptions/xyprecisionmodel/)
 * property [ZPrecisionModel](../driveroptions/zprecisionmodel/)
 * property [MPrecisionModel](../driveroptions/mprecisionmodel/)
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 

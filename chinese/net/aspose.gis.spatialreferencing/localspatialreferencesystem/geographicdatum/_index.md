@@ -1,24 +1,24 @@
 ---
-title: LocalSpatialReferenceSystem.GeographicDatum
-second_title: Aspose.GIS for .NET API 参考
-description: LocalSpatialReferenceSystem 财产. 投掷InvalidOperationException 因为 Local SRS 没有地理数据.
+title: "LocalSpatialReferenceSystem.GeographicDatum"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LocalSpatialReferenceSystem 属性。抛出 InvalidOperationException，因为本地 SRS 没有地理基准"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/localspatialreferencesystem/geographicdatum/
 ---
 ## LocalSpatialReferenceSystem.GeographicDatum property
 
-投掷InvalidOperationException 因为 Local SRS 没有地理数据.
+抛出 InvalidOperationException，因为本地 SRS 没有地理基准。
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [GeographicDatum](../../geographicdatum/)
 * class [LocalSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../localspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

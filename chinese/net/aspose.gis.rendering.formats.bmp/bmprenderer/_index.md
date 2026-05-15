@@ -1,14 +1,14 @@
 ---
-title: Class BmpRenderer
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Formats.Bmp.BmpRenderer 班级. 一个Renderer呈现Map进入 BMP 文件.
+title: "Class BmpRenderer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Formats.Bmp.BmpRenderer 类。将 Map 渲染为 BMP 文件的渲染器"
 type: docs
-weight: 1560
+weight: 4010
 url: /zh/net/aspose.gis.rendering.formats.bmp/bmprenderer/
 ---
 ## BmpRenderer class
 
-一个[`Renderer`](../../aspose.gis.rendering/renderer/)呈现[`Map`](../../aspose.gis.rendering/map/)进入 BMP 文件.
+一个将 [`Map`](../../aspose.gis.rendering/map/) 渲染为 BMP 文件的 [`Renderer`](../../aspose.gis.rendering/renderer/)。
 
 ```csharp
 public class BmpRenderer : Renderer
@@ -16,15 +16,15 @@ public class BmpRenderer : Renderer
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | 渲染图。 |
-| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | 渲染图。 |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, AbstractPath) | 渲染地图。 |
+| [Render](../../aspose.gis.rendering/renderer/render/)(Map, string) | 渲染地图。 |
 
-### 也可以看看
+### 另见
 
 * class [Renderer](../../aspose.gis.rendering/renderer/)
-* 命名空间 [Aspose.Gis.Rendering.Formats.Bmp](../../aspose.gis.rendering.formats.bmp/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Formats.Bmp](../../aspose.gis.rendering.formats.bmp/)
+* assembly [Aspose.GIS](../../)
 
 

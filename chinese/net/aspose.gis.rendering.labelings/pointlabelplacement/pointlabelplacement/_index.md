@@ -1,7 +1,7 @@
 ---
-title: PointLabelPlacement.PointLabelPlacement
-second_title: Aspose.GIS for .NET API 参考
-description: PointLabelPlacement 构造函数. 创建新实例
+title: "PointLabelPlacement.PointLabelPlacement"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "PointLabelPlacement 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.labelings/pointlabelplacement/pointlabelplacement/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.rendering.labelings/pointlabelplacement/pointlabelplacem
 public PointLabelPlacement()
 ```
 
-### 也可以看看
+### 另见
 
 * class [PointLabelPlacement](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -30,20 +30,20 @@ public PointLabelPlacement()
 public PointLabelPlacement(PointLabelPlacement other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | PointLabelPlacement | 另一个[`PointLabelPlacement`](../)从中复制数据。 |
+| other | PointLabelPlacement | 要从中复制数据的另一个 [`PointLabelPlacement`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [PointLabelPlacement](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../pointlabelplacement/)
+* assembly [Aspose.GIS](../../../)
 
 

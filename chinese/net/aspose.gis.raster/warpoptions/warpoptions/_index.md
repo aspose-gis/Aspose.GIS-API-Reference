@@ -1,7 +1,7 @@
 ---
-title: WarpOptions.WarpOptions
-second_title: Aspose.GIS for .NET API 参考
-description: WarpOptions 构造函数. 默认构造函数
+title: "WarpOptions.WarpOptions"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "WarpOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/warpoptions/warpoptions/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.raster/warpoptions/warpoptions/
 public WarpOptions()
 ```
 
-### 也可以看看
+### 另见
 
 * class [WarpOptions](../)
-* 命名空间 [Aspose.Gis.Raster](../../warpoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

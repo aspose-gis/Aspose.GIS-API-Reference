@@ -1,7 +1,7 @@
 ---
-title: RasterImageMarker.Height
-second_title: Aspose.GIS for .NET API 参考
-description: RasterImageMarker 财产. 指定标记的高度
+title: "RasterImageMarker.Height"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterImageMarker 属性。指定标记的高度"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/height/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/height/
 public Measurement Height { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 值小于零。 |
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [RasterImageMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../rasterimagemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

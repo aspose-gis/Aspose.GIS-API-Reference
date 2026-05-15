@@ -1,7 +1,7 @@
 ---
-title: CompoundCurve.IsEmpty
-second_title: Aspose.GIS for .NET API 参考
-description: CompoundCurve 财产. 获取一个值指示此实例是否为空
+title: "CompoundCurve.IsEmpty"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CompoundCurve 属性。获取一个值，指示此实例是否为空"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.geometries/compoundcurve/isempty/
@@ -14,14 +14,14 @@ url: /zh/net/aspose.gis.geometries/compoundcurve/isempty/
 public override bool IsEmpty { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true`如果此实例为空；否则，`false`.
+`true` 表示此实例为空；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * class [CompoundCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../compoundcurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

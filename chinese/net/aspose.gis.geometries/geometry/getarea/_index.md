@@ -1,7 +1,7 @@
 ---
-title: Geometry.GetArea
-second_title: Aspose.GIS for .NET API 参考
-description: Geometry 方法. 计算此几何体的面积
+title: "Geometry.GetArea"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Geometry 方法。计算此几何体的面积"
 type: docs
 weight: 200
 url: /zh/net/aspose.gis.geometries/geometry/getarea/
@@ -16,12 +16,12 @@ public double GetArea()
 
 ### 返回值
 
-这个几何体的面积。 这个几何体的元素面积之和，如果这个几何体是一个[`GeometryCollection`](../../geometrycollection/).
+此几何体的面积。如果此几何体是[`GeometryCollection`](../../geometrycollection/)，则为其元素面积的总和。
 
-### 也可以看看
+### 另见
 
 * class [Geometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometry/)
+* assembly [Aspose.GIS](../../../)
 
 

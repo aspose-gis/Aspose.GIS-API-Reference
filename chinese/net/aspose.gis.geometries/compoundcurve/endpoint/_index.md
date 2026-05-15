@@ -1,7 +1,7 @@
 ---
-title: CompoundCurve.EndPoint
-second_title: Aspose.GIS for .NET API 参考
-description: CompoundCurve 财产. 返回曲线终点的副本
+title: "CompoundCurve.EndPoint"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CompoundCurve 属性。返回曲线终点的副本"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/compoundcurve/endpoint/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.geometries/compoundcurve/endpoint/
 public override IPoint EndPoint { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 几何是空的。 |
+| InvalidOperationException | 几何为空。 |
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * class [CompoundCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../compoundcurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../compoundcurve/)
+* assembly [Aspose.GIS](../../../)
 
 

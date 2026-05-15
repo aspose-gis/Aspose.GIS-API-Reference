@@ -1,23 +1,23 @@
 ---
-title: TopoJsonTransform.YTranslate
-second_title: Aspose.GIS for .NET API 参考
-description: TopoJsonTransform 财产. 转换以应用于 Y 坐标
+title: "TopoJsonTransform.YTranslate"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "TopoJsonTransform 属性。用于对 Y 坐标进行平移的 Translate。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.topojson/topojsontransform/ytranslate/
 ---
 ## TopoJsonTransform.YTranslate property
 
-转换以应用于 Y 坐标。
+对 Y 坐标应用的平移。
 
 ```csharp
 public double YTranslate { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [TopoJsonTransform](../)
-* 命名空间 [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.TopoJson](../../topojsontransform/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: FeatureAttribute.Precision
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttribute 财产. 获取或设置要存储的最大小数位数
+title: "FeatureAttribute.Precision"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttribute 属性。获取或设置要存储的最大小数位数"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/featureattribute/precision/
@@ -14,16 +14,16 @@ url: /zh/net/aspose.gis/featureattribute/precision/
 public int? Precision { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 属性被锁定。 |
+| InvalidOperationException | 属性已锁定。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../)
-* 命名空间 [Aspose.Gis](../../featureattribute/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

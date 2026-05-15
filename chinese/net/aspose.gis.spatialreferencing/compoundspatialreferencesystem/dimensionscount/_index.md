@@ -1,23 +1,23 @@
 ---
-title: CompoundSpatialReferenceSystem.DimensionsCount
-second_title: Aspose.GIS for .NET API 参考
-description: CompoundSpatialReferenceSystem 财产. 维数对于复合 SRS这是基础 SRS 的维数之和
+title: "CompoundSpatialReferenceSystem.DimensionsCount"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CompoundSpatialReferenceSystem 属性。维度数量。对于复合 SRS，这是底层 SRS 维度数量的总和。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/dimensionscount/
 ---
 ## CompoundSpatialReferenceSystem.DimensionsCount property
 
-维数。对于复合 SRS，这是基础 SRS 的维数之和。
+维度数量。对于复合 SRS，这等于底层 SRS 维度数量的总和。
 
 ```csharp
 public override int DimensionsCount { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [CompoundSpatialReferenceSystem](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../compoundspatialreferencesystem/)
+* assembly [Aspose.GIS](../../../)
 
 

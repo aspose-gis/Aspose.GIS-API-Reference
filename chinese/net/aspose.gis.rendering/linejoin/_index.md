@@ -1,30 +1,30 @@
 ---
-title: Enum LineJoin
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.LineJoin 枚举. 确定如何在线段的交点处呈现线条
+title: "枚举 LineJoin"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.LineJoin 枚举。确定线段交叉处的线条渲染方式。"
 type: docs
-weight: 1710
+weight: 4160
 url: /zh/net/aspose.gis.rendering/linejoin/
 ---
 ## LineJoin enumeration
 
-确定如何在线段的交点处呈现线条。
+确定线段交叉处的线条渲染方式。
 
 ```csharp
 public enum LineJoin
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
 | Miter | `0` | 尖角。 |
 | Round | `1` | 圆角。 |
-| Bevel | `2` | 对角线角。 |
+| Bevel | `2` | 斜角。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering](../../aspose.gis.rendering/)
+* assembly [Aspose.GIS](../../)
 
 

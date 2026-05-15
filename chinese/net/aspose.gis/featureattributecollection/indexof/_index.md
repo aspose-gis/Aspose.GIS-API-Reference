@@ -1,37 +1,37 @@
 ---
-title: FeatureAttributeCollection.IndexOf
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttributeCollection 方法. 搜索属性并返回其从零开始的索引
+title: "FeatureAttributeCollection.IndexOf"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttributeCollection 方法。搜索属性并返回其零基索引"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/featureattributecollection/indexof/
 ---
 ## FeatureAttributeCollection.IndexOf method
 
-搜索属性并返回其从零开始的索引。
+搜索属性并返回其零基索引。
 
 ```csharp
 public int IndexOf(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 属性的名称。 |
+| 名称 | String | 属性的名称。 |
 
 ### 返回值
 
-集合中属性的从零开始的索引（如果找到）；否则，–1。
+属性在集合中的零基索引，如果找到；否则为 –1。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 属性名称是`null`. |
+| ArgumentNullException | 属性名称为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttributeCollection](../)
-* 命名空间 [Aspose.Gis](../../featureattributecollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

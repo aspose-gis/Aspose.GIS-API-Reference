@@ -1,7 +1,7 @@
 ---
-title: LineString.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: LineString 方法. 获取此几何体的可编辑副本
+title: "LineString.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LineString 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 180
 url: /zh/net/aspose.gis.geometries/linestring/toeditable/
@@ -18,10 +18,10 @@ public LineString ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [LineString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../linestring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

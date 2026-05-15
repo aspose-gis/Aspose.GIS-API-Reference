@@ -1,7 +1,7 @@
 ---
-title: LineString.StartPoint
-second_title: Aspose.GIS for .NET API 参考
-description: LineString 财产. 返回曲线起点的副本
+title: "LineString.StartPoint"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LineString 属性。返回曲线起始点的副本"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.geometries/linestring/startpoint/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.geometries/linestring/startpoint/
 public override IPoint StartPoint { get; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 几何是空的。 |
+| InvalidOperationException | 几何为空。 |
 
-### 也可以看看
+### 另见
 
 * interface [IPoint](../../ipoint/)
 * class [LineString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../linestring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../linestring/)
+* assembly [Aspose.GIS](../../../)
 
 

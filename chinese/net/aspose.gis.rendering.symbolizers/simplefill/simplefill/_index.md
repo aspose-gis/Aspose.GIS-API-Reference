@@ -1,7 +1,7 @@
 ---
-title: SimpleFill.SimpleFill
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleFill 构造函数. 创建新实例
+title: "SimpleFill.SimpleFill"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleFill 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/simplefill/
@@ -14,36 +14,36 @@ url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/simplefill/
 public SimpleFill()
 ```
 
-### 也可以看看
+### 另见
 
 * class [SimpleFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleFill(SimpleFill) {#constructor_1}
 
-初始化一个新的实例[`SimpleFill`](../)类.
+初始化一个新的 [`SimpleFill`](../) 类的实例。
 
 ```csharp
 public SimpleFill(SimpleFill other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleFill | 另一个[`SimpleFill`](../)从中复制数据。 |
+| other | SimpleFill | 另一个用于复制数据的 [`SimpleFill`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [SimpleFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

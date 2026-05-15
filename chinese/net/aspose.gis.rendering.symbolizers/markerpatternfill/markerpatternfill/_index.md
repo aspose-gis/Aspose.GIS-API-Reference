@@ -1,49 +1,49 @@
 ---
-title: MarkerPatternFill.MarkerPatternFill
-second_title: Aspose.GIS for .NET API 参考
-description: MarkerPatternFill 构造函数. 初始化一个新的实例MarkerPatternFill类.
+title: "MarkerPatternFill.MarkerPatternFill"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MarkerPatternFill 构造函数。初始化 MarkerPatternFill 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/markerpatternfill/markerpatternfill/
 ---
 ## MarkerPatternFill() {#constructor}
 
-初始化一个新的实例[`MarkerPatternFill`](../)类.
+初始化 [`MarkerPatternFill`](../) 类的新实例。
 
 ```csharp
 public MarkerPatternFill()
 ```
 
-### 也可以看看
+### 另见
 
 * class [MarkerPatternFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## MarkerPatternFill(MarkerPatternFill) {#constructor_1}
 
-初始化一个新的实例[`MarkerPatternFill`](../)类.
+初始化 [`MarkerPatternFill`](../) 类的新实例。
 
 ```csharp
 public MarkerPatternFill(MarkerPatternFill other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | MarkerPatternFill | 另一个[`MarkerPatternFill`](../)从中复制数据。 |
+| other | MarkerPatternFill | 另一个用于复制数据的 [`MarkerPatternFill`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [MarkerPatternFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerpatternfill/)
+* assembly [Aspose.GIS](../../../)
 
 

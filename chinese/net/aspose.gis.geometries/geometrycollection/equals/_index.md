@@ -1,7 +1,7 @@
 ---
-title: GeometryCollection.Equals
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryCollection 方法. 确定指定对象是否等于当前对象
+title: "GeometryCollection.Equals"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryCollection 方法。确定指定的对象是否等于当前对象"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.geometries/geometrycollection/equals/
@@ -14,43 +14,43 @@ url: /zh/net/aspose.gis.geometries/geometrycollection/equals/
 public override bool Equals(object obj)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 要与当前对象进行比较的对象。 |
+| obj | Object | 用于与当前对象比较的对象。 |
 
 ### 返回值
 
-如果指定对象等于当前对象，则为真；否则为真。否则，假的。
+如果指定的对象等于当前对象，则为 true；否则为 false。
 
-### 也可以看看
+### 另见
 
 * class [GeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## Equals(IGeometryCollection) {#equals}
 
-指示当前对象是否等于同一类型的另一个对象。
+指示当前对象是否等于同类型的另一个对象。
 
 ```csharp
 public bool Equals(IGeometryCollection other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IGeometryCollection | 要与此对象进行比较的对象。 |
+| 其他 | IGeometryCollection | 用于与此对象比较的对象。 |
 
 ### 返回值
 
-如果当前对象等于*other*范围;否则，假的。
+如果当前对象等于 *other* 参数，则为 true；否则为 false。
 
-### 也可以看看
+### 另见
 
 * interface [IGeometryCollection](../../igeometrycollection/)
 * class [GeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

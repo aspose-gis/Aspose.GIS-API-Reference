@@ -1,23 +1,23 @@
 ---
-title: CircularString.Count
-second_title: Aspose.GIS for .NET API 参考
-description: CircularString 财产. 获取点数CircularString.
+title: "CircularString.Count"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CircularString 属性。获取 CircularString 中点的数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/circularstring/count/
 ---
 ## CircularString.Count property
 
-获取点数[`CircularString`](../).
+获取 [`CircularString`](../) 中点的数量。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [CircularString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../circularstring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

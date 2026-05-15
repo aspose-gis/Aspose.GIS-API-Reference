@@ -1,7 +1,7 @@
 ---
-title: SimpleLabeling.HaloSize
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLabeling 财产. 文本周围光晕描边的大小
+title: "SimpleLabeling.HaloSize"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLabeling 属性。文本周围光晕描边的大小"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/halosize/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/halosize/
 public Measurement HaloSize { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 值为负。 |
+| ArgumentException | 值为负数。 |
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

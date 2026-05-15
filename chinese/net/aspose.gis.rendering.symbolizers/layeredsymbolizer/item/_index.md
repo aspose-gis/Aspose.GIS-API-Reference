@@ -1,7 +1,7 @@
 ---
-title: LayeredSymbolizer.Item
-second_title: Aspose.GIS for .NET API 参考
-description: LayeredSymbolizer 财产. 获取指定索引处的符号器
+title: "LayeredSymbolizer.Item"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "LayeredSymbolizer 属性。获取指定索引处的符号化器"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/item/
@@ -14,19 +14,19 @@ url: /zh/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/item/
 public VectorSymbolizer this[int index] { get; }
 ```
 
-| 范围 | 描述 |
+| 参数 | 描述 |
 | --- | --- |
-| index | 要获取的符号化器的从零开始的索引。 |
+| 索引 | 要获取的符号化器的零基索引。 |
 
 ### 返回值
 
-指定索引处的符号器。
+指定索引处的符号化器。
 
-### 也可以看看
+### 另见
 
 * class [VectorSymbolizer](../../vectorsymbolizer/)
 * class [LayeredSymbolizer](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../layeredsymbolizer/)
+* assembly [Aspose.GIS](../../../)
 
 

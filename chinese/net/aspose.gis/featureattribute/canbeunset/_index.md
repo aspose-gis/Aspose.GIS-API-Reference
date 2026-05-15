@@ -1,33 +1,33 @@
 ---
-title: FeatureAttribute.CanBeUnset
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttribute 财产. 获取或设置一个值该值指示是否可以省略此属性的值
+title: "FeatureAttribute.CanBeUnset"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttribute 属性。获取或设置一个值，指示此属性的值是否可以省略"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/featureattribute/canbeunset/
 ---
 ## FeatureAttribute.CanBeUnset property
 
-获取或设置一个值，该值指示是否可以省略此属性的值。
+获取或设置一个值，指示此属性的值是否可以省略。
 
 ```csharp
 public bool CanBeUnset { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true`如果可以取消设置此实例；否则，`false`.
+`true` 如果此实例可以被取消设置；否则为 `false`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 属性被锁定。 |
+| InvalidOperationException | 属性已锁定。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../)
-* 命名空间 [Aspose.Gis](../../featureattribute/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

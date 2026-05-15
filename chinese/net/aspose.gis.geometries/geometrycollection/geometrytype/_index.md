@@ -1,28 +1,28 @@
 ---
-title: GeometryCollection.GeometryType
-second_title: Aspose.GIS for .NET API 参考
-description: GeometryCollection 财产. 获取几何类型
+title: "GeometryCollection.GeometryType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeometryCollection 属性。获取几何体的类型"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geometries/geometrycollection/geometrytype/
 ---
 ## GeometryCollection.GeometryType property
 
-获取几何类型。
+获取几何体的类型。
 
 ```csharp
 public override GeometryType GeometryType { get; }
 ```
 
-### 适当的价值
+### Property Value
 
-几何类型。
+几何体的类型。
 
-### 也可以看看
+### 另见
 
 * enum [GeometryType](../../geometrytype/)
 * class [GeometryCollection](../)
-* 命名空间 [Aspose.Gis.Geometries](../../geometrycollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../geometrycollection/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: Metered.ResetMeteredKey
-second_title: Aspose.GIS for .NET API 参考
-description: Metered 方法. 删除之前设置的 license
+title: "Metered.ResetMeteredKey"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Metered 方法。删除先前设置的许可证"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/metered/resetmeteredkey/
 ---
 ## Metered.ResetMeteredKey method
 
-删除之前设置的 license
+移除先前设置的许可证
 
 ```csharp
 public static void ResetMeteredKey()
 ```
 
-### 也可以看看
+### 另见
 
 * class [Metered](../)
-* 命名空间 [Aspose.Gis](../../metered/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../metered/)
+* assembly [Aspose.GIS](../../../)
 
 

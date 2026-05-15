@@ -1,7 +1,7 @@
 ---
-title: FeatureAttributeCollection.Contains
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttributeCollection 方法. 确定属性集合是否包含具有指定名称的属性
+title: "FeatureAttributeCollection.Contains"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttributeCollection 方法。确定属性集合是否包含具有指定名称的属性"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/featureattributecollection/contains/
@@ -14,24 +14,24 @@ url: /zh/net/aspose.gis/featureattributecollection/contains/
 public bool Contains(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 属性的名称。 |
+| 名称 | String | 属性的名称。 |
 
 ### 返回值
 
-`true`如果属性集合包含具有指定名称的属性；否则，`false`.
+`true` 如果属性集合包含具有指定名称的属性；否则为 `false`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttributeCollection](../)
-* 命名空间 [Aspose.Gis](../../featureattributecollection/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattributecollection/)
+* assembly [Aspose.GIS](../../../)
 
 

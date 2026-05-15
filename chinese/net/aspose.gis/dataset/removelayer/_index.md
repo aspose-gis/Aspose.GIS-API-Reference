@@ -1,9 +1,9 @@
 ---
-title: Dataset.RemoveLayer
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 删除具有指定名称的矢量图层
+title: "Dataset.RemoveLayer"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。删除具有指定名称的矢量图层"
 type: docs
-weight: 130
+weight: 150
 url: /zh/net/aspose.gis/dataset/removelayer/
 ---
 ## Dataset.RemoveLayer method
@@ -14,23 +14,23 @@ url: /zh/net/aspose.gis/dataset/removelayer/
 public virtual void RemoveLayer(string name)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 图层名称 |
+| 名称 | String | 图层名称 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 找不到具有指定名称的图层。 |
-| NotSupportedException | 不支持图层移除。 |
+| ArgumentException | 未找到具有指定名称的图层。 |
+| NotSupportedException | 不支持删除图层。 |
 | IOException | 发生 I/O 错误。 |
 | [GisException](../../gisexception/) | 删除图层时出错。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

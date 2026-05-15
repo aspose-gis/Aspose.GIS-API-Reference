@@ -1,30 +1,30 @@
 ---
-title: Enum ParameterType
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.SpatialReferencing.ParameterType 枚举. 确定参数类型Projection.
+title: "枚举 ParameterType"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.SpatialReferencing.ParameterType 枚举。确定投影中参数的类型"
 type: docs
-weight: 2190
+weight: 4640
 url: /zh/net/aspose.gis.spatialreferencing/parametertype/
 ---
 ## ParameterType enumeration
 
-确定参数类型[`Projection`](../projection/).
+确定 [`Projection`](../projection/) 中参数的类型。
 
 ```csharp
 public enum ParameterType
 ```
 
-### 价值观
+### 值
 
-| 姓名 | 价值 | 描述 |
+| 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Other | `0` | 参数类型未知或以下都不是。 |
-| Linear | `1` | 参数类型是线性的（例如“false_easting”）。 |
-| Angular | `2` | 参数类型为角度（例如“longitude_of_origin”）。 |
+| Other | `0` | 参数类型未知或不属于以下任意一种。 |
+| Linear | `1` | 参数类型为线性（例如 "false_easting"）。 |
+| Angular | `2` | 参数类型为角度（例如 "longitude_of_origin"）。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

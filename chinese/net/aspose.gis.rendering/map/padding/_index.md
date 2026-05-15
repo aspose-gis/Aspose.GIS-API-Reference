@@ -1,7 +1,7 @@
 ---
-title: Map.Padding
-second_title: Aspose.GIS for .NET API 参考
-description: Map 财产. 指定要添加到范围的填充
+title: "Map.Padding"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Map 属性。指定要添加到范围的填充"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering/map/padding/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.rendering/map/padding/
 public Measurement Padding { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 值为负。 |
+| ArgumentOutOfRangeException | 值为负数。 |
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../measurement/)
 * class [Map](../)
-* 命名空间 [Aspose.Gis.Rendering](../../map/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../map/)
+* assembly [Aspose.GIS](../../../)
 
 

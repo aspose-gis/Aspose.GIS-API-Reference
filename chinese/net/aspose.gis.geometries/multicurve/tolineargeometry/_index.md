@@ -1,46 +1,46 @@
 ---
-title: MultiCurve.ToLinearGeometry
-second_title: Aspose.GIS for .NET API 参考
-description: MultiCurve 方法. 使用指定的几何图形获取近似或等效的非曲线版本宽容.
+title: "MultiCurve.ToLinearGeometry"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiCurve 方法。使用指定的容差获取此几何体的近似或等效的非曲线版本"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geometries/multicurve/tolineargeometry/
 ---
 ## ToLinearGeometry(double) {#tolineargeometry_5}
 
-使用指定的几何图形获取近似或等效的非曲线版本`宽容`.
+使用指定的 `tolerance` 获取此几何对象的近似或等效的非曲线版本。
 
 ```csharp
 public IMultiLineString ToLinearGeometry(double tolerance)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| tolerance | Double | 的`宽容`使用。结果保证小于`宽容`远离 the 曲线几何，除非线性化几何所需的点数超过每个象限最大值， 当前等于 10000 点。 |
+| 容差 | Double | 要使用的 `tolerance`。结果保证与曲线几何的距离小于 `tolerance`，除非线性化几何所需的点数超过每象限的最大值，目前等于 10000 点。 |
 
 ### 返回值
 
-一个[`IMultiLineString`](../../imultilinestring/)近似或等同于此[`IMultiCurve`](../../imulticurve/):  如果这个对象是[`IMultiLineString`](../../imultilinestring/)本身 结果等同于这个对象 如果这个对象不是[`IMultiLineString`](../../imultilinestring/) 所有曲线都是线性化的和新的`IMultiLineString`已创建
+一个 [`IMultiLineString`](../../imultilinestring/)，其近似或等价于此 [`IMultiCurve`](../../imulticurve/)：如果此对象本身就是 [`IMultiLineString`](../../imultilinestring/)，结果等同于此对象；如果此对象不是 [`IMultiLineString`](../../imultilinestring/)，则所有曲线被线性化并创建新的 `IMultiLineString`
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | `宽容`小于或等于`0`. |
-| InvalidOperationException | 此几何图形无效，无法完成该操作。 |
+| ArgumentOutOfRangeException | `tolerance` 小于或等于 `0`。 |
+| InvalidOperationException | 此几何体无效，无法完成操作。 |
 
-### 也可以看看
+### 另见
 
 * interface [IMultiLineString](../../imultilinestring/)
 * class [MultiCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multicurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multicurve/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## ToLinearGeometry() {#tolineargeometry_4}
 
-使用默认值获取此几何的近似或等效非曲线版本`宽容`.
+使用默认的 `tolerance` 获取此几何对象的近似或等效的非曲线版本。
 
 ```csharp
 public IMultiLineString ToLinearGeometry()
@@ -48,19 +48,19 @@ public IMultiLineString ToLinearGeometry()
 
 ### 返回值
 
-一个[`IMultiLineString`](../../imultilinestring/)近似或等同于此[`IMultiCurve`](../../imulticurve/). 这相当于[`ToLinearGeometry`](../../imulticurve/tolineargeometry/)with 默认值`宽容`.默认`宽容` 值取决于[`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)此几何的 ： 对于预计的 SRS 公差为 0.001 米（以 SRS 为单位）对于地理 SRS 公差是`1e-5`度（SRS 单位）对于未知的 SRS 公差是`1e-5` 有关应用哪些转换的更多详细信息，请参阅[`ToLinearGeometry`](../../imulticurve/tolineargeometry/)规范.
+一个 [`IMultiLineString`](../../imultilinestring/)，其近似或等价于此 [`IMultiCurve`](../../imulticurve/)。这相当于使用默认 `tolerance` 的 [`ToLinearGeometry`](../../imulticurve/tolineargeometry/)。默认 `tolerance` 的值取决于此几何体的 [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/)：对于投影坐标系（SRS），容差为 0.001 米（以 SRS 单位计）；对于地理坐标系（SRS），容差为 `1e-5` 度（以 SRS 单位计）；对于未知坐标系，容差为 `1e-5`。有关应用的转换的更多细节，请参阅 [`ToLinearGeometry`](../../imulticurve/tolineargeometry/) 规范。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 此几何图形无效，无法完成该操作。 |
+| InvalidOperationException | 此几何体无效，无法完成操作。 |
 
-### 也可以看看
+### 另见
 
 * interface [IMultiLineString](../../imultilinestring/)
 * class [MultiCurve](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multicurve/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multicurve/)
+* assembly [Aspose.GIS](../../../)
 
 

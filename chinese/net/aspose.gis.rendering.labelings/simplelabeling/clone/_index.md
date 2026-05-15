@@ -1,7 +1,7 @@
 ---
-title: SimpleLabeling.Clone
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLabeling 方法. 克隆此实例
+title: "SimpleLabeling.Clone"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLabeling 方法。克隆此实例"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/clone/
@@ -18,10 +18,10 @@ public SimpleLabeling Clone()
 
 此实例的克隆。
 
-### 也可以看看
+### 另见
 
 * class [SimpleLabeling](../)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../simplelabeling/)
+* assembly [Aspose.GIS](../../../)
 
 

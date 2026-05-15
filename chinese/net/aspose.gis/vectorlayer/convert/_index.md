@@ -1,9 +1,9 @@
 ---
-title: VectorLayer.Convert
-second_title: Aspose.GIS for .NET API 参考
-description: VectorLayer 方法. 将图层转换为不同的格式
+title: "VectorLayer.Convert"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VectorLayer 方法。将图层转换为不同的格式。"
 type: docs
-weight: 200
+weight: 220
 url: /zh/net/aspose.gis/vectorlayer/convert/
 ---
 ## Convert(string, FileDriver, string, FileDriver) {#convert_2}
@@ -15,25 +15,25 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
     FileDriver destinationDriver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | 要转换的层的路径。 |
-| sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | String | 将作为转换结果创建的层的路径。 |
-| destinationDriver | FileDriver | 目标层的格式驱动程序。 |
+| sourcePath | String | 将被转换的图层的路径。 |
+| sourceDriver | FileDriver | 源图层的格式驱动程序。 |
+| destinationPath | String | 转换后将创建的图层的路径。 |
+| destinationDriver | FileDriver | 目标图层的格式驱动程序。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任一条路径都是`null`. |
+| ArgumentNullException | 任一路径为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -46,26 +46,26 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
     AbstractPath destinationPath, FileDriver destinationDriver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | AbstractPath | 要转换的层的路径。 |
-| sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | AbstractPath | 将作为转换结果创建的层的路径。 |
-| destinationDriver | FileDriver | 目标层的格式驱动程序。 |
+| sourcePath | AbstractPath | 将被转换的图层的路径。 |
+| sourceDriver | FileDriver | 源图层的格式驱动程序。 |
+| destinationPath | AbstractPath | 转换后将创建的图层的路径。 |
+| destinationDriver | FileDriver | 目标图层的格式驱动程序。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任一条路径都是`null`. |
+| ArgumentNullException | 任一路径为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -78,32 +78,32 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
     FileDriver destinationDriver, ConversionOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | String | 要转换的层的路径。 |
-| sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | String | 将作为转换结果创建的层的路径。 |
-| destinationDriver | FileDriver | 目标层的格式驱动程序。 |
+| sourcePath | String | 将被转换的图层的路径。 |
+| sourceDriver | FileDriver | 源图层的格式驱动程序。 |
+| destinationPath | String | 转换后将创建的图层的路径。 |
+| destinationDriver | FileDriver | 目标图层的格式驱动程序。 |
 | options | ConversionOptions | 转换过程的选项。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任一条路径都是`null`. |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception/) | 从文件读取或写入特征时出错。 |
+| ArgumentNullException | 任一路径为 `null`。 |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 中指定的空间参考系统*options*不支持*destinationDriver*. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
+| NotSupportedException | 在 *options* 中指定的空间参考系统不受 *destinationDriver* 支持。 |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 将要素几何从源空间参考系统转换到目标空间参考系统失败。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [ConversionOptions](../../conversionoptions/)
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -116,32 +116,32 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
     AbstractPath destinationPath, FileDriver destinationDriver, ConversionOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sourcePath | AbstractPath | 要转换的层的路径。 |
-| sourceDriver | FileDriver | 源层的格式驱动程序。 |
-| destinationPath | AbstractPath | 将作为转换结果创建的层的路径。 |
-| destinationDriver | FileDriver | 目标层的格式驱动程序。 |
+| sourcePath | AbstractPath | 将被转换的图层的路径。 |
+| sourceDriver | FileDriver | 源图层的格式驱动程序。 |
+| destinationPath | AbstractPath | 转换后将创建的图层的路径。 |
+| destinationDriver | FileDriver | 目标图层的格式驱动程序。 |
 | options | ConversionOptions | 转换过程的选项。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任一条路径都是`null`. |
-| ArgumentException | 此驱动程序的选项对象类型不正确。 |
-| [GisException](../../gisexception/) | 从文件读取或写入特征时出错。 |
+| ArgumentNullException | 任一路径为 `null`。 |
+| ArgumentException | Options 对象的类型对该驱动程序不正确。 |
+| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
 | IOException | 发生 I/O 错误。 |
-| NotSupportedException | 中指定的空间参考系统*options*不支持*destinationDriver*. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
+| NotSupportedException | 在 *options* 中指定的空间参考系统不受 *destinationDriver* 支持。 |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 将要素几何从源空间参考系统转换到目标空间参考系统失败。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [ConversionOptions](../../conversionoptions/)
 * class [VectorLayer](../)
-* 命名空间 [Aspose.Gis](../../vectorlayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../vectorlayer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,33 +1,33 @@
 ---
-title: FeatureAttribute.CanBeNull
-second_title: Aspose.GIS for .NET API 参考
-description: FeatureAttribute 财产. 获取一个值指示此实例是否可以为空
+title: "FeatureAttribute.CanBeNull"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeatureAttribute 属性。获取一个值，指示此实例是否可以为 null"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/featureattribute/canbenull/
 ---
 ## FeatureAttribute.CanBeNull property
 
-获取一个值，指示此实例是否可以为空。
+获取一个值，指示此实例是否可以为 null。
 
 ```csharp
 public bool CanBeNull { get; set; }
 ```
 
-### 适当的价值
+### Property Value
 
-`true`如果这个实例可以为空；否则，`false`.
+`true` 如果此实例可以为 null；否则为 `false`。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 属性被锁定。 |
+| InvalidOperationException | 属性已锁定。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../)
-* 命名空间 [Aspose.Gis](../../featureattribute/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featureattribute/)
+* assembly [Aspose.GIS](../../../)
 
 

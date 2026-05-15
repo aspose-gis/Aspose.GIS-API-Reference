@@ -1,14 +1,14 @@
 ---
-title: ILinearRing.IsClockwise
-second_title: Aspose.GIS for .NET API 参考
-description: ILinearRing 方法. 确定环是否顺时针缠绕
+title: "ILinearRing.IsClockwise"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "ILinearRing 方法。确定环是否为顺时针方向"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geometries/ilinearring/isclockwise/
 ---
 ## ILinearRing.IsClockwise method
 
-确定环是否顺时针缠绕
+确定环是否为顺时针方向
 
 ```csharp
 public bool IsClockwise()
@@ -16,12 +16,12 @@ public bool IsClockwise()
 
 ### 返回值
 
-`true`如果顺时针；否则`false`.
+`true` 表示顺时针；否则为 `false`。
 
-### 也可以看看
+### 另见
 
 * interface [ILinearRing](../)
-* 命名空间 [Aspose.Gis.Geometries](../../ilinearring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../ilinearring/)
+* assembly [Aspose.GIS](../../../)
 
 

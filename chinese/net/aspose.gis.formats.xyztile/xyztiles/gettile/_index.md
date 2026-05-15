@@ -1,34 +1,34 @@
 ---
-title: XyzTiles.GetTile
-second_title: Aspose.GIS for .NET API 参考
-description: XyzTiles 方法. 加载指定的图块
+title: "XyzTiles.GetTile"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "XyzTiles 方法。加载指定的瓦片"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.xyztile/xyztiles/gettile/
 ---
 ## XyzTiles.GetTile method
 
-加载指定的图块。
+加载指定的瓦片。
 
 ```csharp
 public WebTile GetTile(int zoom, int x, int y)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| zoom | Int32 | 加载图块的缩放级别。最高缩放级别为 0。大多数磁贴提供程序有大约 22 个最大缩放级别。 |
-| x | Int32 | 磁贴的 x 列。 |
-| y | Int32 | 瓷砖的 y 行。 |
+| 缩放 | Int32 | 用于加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
+| x | Int32 | 瓦片的 x 列。 |
+| y | Int32 | 瓦片的 y 行。 |
 
 ### 返回值
 
-Web 磁贴。
+网络瓦片。
 
-### 也可以看看
+### 另见
 
 * class [WebTile](../../../aspose.gis.raster.web/webtile/)
 * class [XyzTiles](../)
-* 命名空间 [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztiles/)
+* assembly [Aspose.GIS](../../../)
 
 

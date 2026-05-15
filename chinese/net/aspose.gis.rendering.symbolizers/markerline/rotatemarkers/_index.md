@@ -1,7 +1,7 @@
 ---
-title: MarkerLine.RotateMarkers
-second_title: Aspose.GIS for .NET API 参考
-description: MarkerLine 财产. 指定标记是否应沿线旋转
+title: "MarkerLine.RotateMarkers"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MarkerLine 属性。指定是否应沿线旋转标记"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering.symbolizers/markerline/rotatemarkers/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.rendering.symbolizers/markerline/rotatemarkers/
 public bool RotateMarkers { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [MarkerLine](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../markerline/)
+* assembly [Aspose.GIS](../../../)
 
 

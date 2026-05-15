@@ -1,41 +1,41 @@
 ---
-title: VectorMapLayer.ImportSldFromString
-second_title: Aspose.GIS for .NET API 参考
-description: VectorMapLayer 方法. 从指定的样式层描述符字符串中导入样式
+title: "VectorMapLayer.ImportSldFromString"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "VectorMapLayer 方法。从指定的 Styled Layer Descriptor 字符串导入样式"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering/vectormaplayer/importsldfromstring/
 ---
 ## VectorMapLayer.ImportSldFromString method
 
-从指定的样式层描述符字符串中导入样式。
+从指定的 Styled Layer Descriptor 字符串导入样式。
 
 ```csharp
 public void ImportSldFromString(string sld, SldImportOptions options = null)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sld | String | 样式层描述符。 |
+| sld | String | Styled Layer Descriptor。 |
 | options | SldImportOptions | 导入选项。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
-| XmlException | 解析 XML 时出错。 |
-| FormatException | 在 XML 中找不到 SLD 样式。 |
+| ArgumentNullException | 参数为 `null`。 |
+| XmlException | 解析 XML 时发生错误。 |
+| FormatException | 在 XML 中未找到 SLD 样式。 |
 
-### 评论
+## 备注
 
-此方法覆盖的值[`Symbolizer`](../symbolizer/)财产.
+此方法会覆盖 [`Symbolizer`](../symbolizer/) 属性的值。
 
-### 也可以看看
+### 另见
 
 * class [SldImportOptions](../../../aspose.gis.rendering.sld/sldimportoptions/)
 * class [VectorMapLayer](../)
-* 命名空间 [Aspose.Gis.Rendering](../../vectormaplayer/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering](../../vectormaplayer/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: XyzTilesDriver.XyzTilesDriver
-second_title: Aspose.GIS for .NET API 参考
-description: XyzTilesDriver 构造函数. 默认构造函数
+title: "XyzTilesDriver.XyzTilesDriver"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "XyzTilesDriver 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.xyztile/xyztilesdriver/xyztilesdriver/
@@ -14,10 +14,10 @@ url: /zh/net/aspose.gis.formats.xyztile/xyztilesdriver/xyztilesdriver/
 public XyzTilesDriver()
 ```
 
-### 也可以看看
+### 另见
 
 * class [XyzTilesDriver](../)
-* 命名空间 [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../xyztilesdriver/)
+* assembly [Aspose.GIS](../../../)
 
 

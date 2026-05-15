@@ -1,23 +1,23 @@
 ---
-title: Polygon.SetEmpty
-second_title: Aspose.GIS for .NET API 参考
-description: Polygon 方法. 做这个Geometry空.
+title: "Polygon.SetEmpty"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Polygon 方法。使此 Geometry 为空。"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.geometries/polygon/setempty/
 ---
 ## Polygon.SetEmpty method
 
-做这个[`Geometry`](../../geometry/)空.
+使此 [`Geometry`](../../geometry/) 为空。
 
 ```csharp
 public override void SetEmpty()
 ```
 
-### 也可以看看
+### 另见
 
 * class [Polygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../polygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../polygon/)
+* assembly [Aspose.GIS](../../../)
 
 

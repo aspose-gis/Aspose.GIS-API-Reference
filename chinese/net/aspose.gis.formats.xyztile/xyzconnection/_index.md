@@ -1,9 +1,9 @@
 ---
-title: Class XyzConnection
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Formats.XyzTile.XyzConnection 班级. XyzTiles 格式的连接
+title: "类 XyzConnection"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Formats.XyzTile.XyzConnection 类。用于 XyzTiles 格式的连接"
 type: docs
-weight: 730
+weight: 2400
 url: /zh/net/aspose.gis.formats.xyztile/xyzconnection/
 ---
 ## XyzConnection class
@@ -16,19 +16,19 @@ public class XyzConnection
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [XyzConnection](xyzconnection/)(string) | 创建一个新实例`XyzConnection`. |
+| [XyzConnection](xyzconnection/)(string) | 创建 `XyzConnection` 的新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Url](../../aspose.gis.formats.xyztile/xyzconnection/url/) { get; } | 网址模板。 |
+| [Url](../../aspose.gis.formats.xyztile/xyzconnection/url/) { get; } | Url 模板。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Formats.XyzTile](../../aspose.gis.formats.xyztile/)
+* assembly [Aspose.GIS](../../)
 
 

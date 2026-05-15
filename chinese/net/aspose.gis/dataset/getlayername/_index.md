@@ -1,37 +1,37 @@
 ---
-title: Dataset.GetLayerName
-second_title: Aspose.GIS for .NET API 参考
-description: Dataset 方法. 获取指定索引处的图层名称
+title: "Dataset.GetLayerName"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Dataset 方法。获取指定索引处图层的名称"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.gis/dataset/getlayername/
 ---
 ## Dataset.GetLayerName method
 
-获取指定索引处的图层名称。
+获取指定索引处图层的名称。
 
 ```csharp
 public abstract string GetLayerName(int index)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 层的索引。 |
+| 索引 | Int32 | 图层索引。 |
 
 ### 返回值
 
-层的名称。
+图层名称。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 索引超出范围。 |
 
-### 也可以看看
+### 另见
 
 * class [Dataset](../)
-* 命名空间 [Aspose.Gis](../../dataset/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../dataset/)
+* assembly [Aspose.GIS](../../../)
 
 

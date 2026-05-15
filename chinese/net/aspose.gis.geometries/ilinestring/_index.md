@@ -1,14 +1,14 @@
 ---
-title: Interface ILineString
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Geometries.ILineString 界面. 点之间具有线性插值的多顶点曲线
+title: "接口 ILineString"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Geometries.ILineString 接口。一个在点之间进行线性插值的多顶点曲线"
 type: docs
-weight: 1020
+weight: 2800
 url: /zh/net/aspose.gis.geometries/ilinestring/
 ---
 ## ILineString interface
 
-点之间具有线性插值的多顶点曲线。
+一个多顶点曲线，在点之间进行线性插值。
 
 ```csharp
 public interface ILineString : ICurve, IEquatable<ILineString>, IReadOnlyList<IPoint>
@@ -16,15 +16,15 @@ public interface ILineString : ICurve, IEquatable<ILineString>, IReadOnlyList<IP
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [ToEditable](../../aspose.gis.geometries/ilinestring/toeditable/)() | 获取此几何体的可编辑副本。 |
 
-### 也可以看看
+### 另见
 
 * interface [ICurve](../icurve/)
 * interface [IPoint](../ipoint/)
-* 命名空间 [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Geometries](../../aspose.gis.geometries/)
+* assembly [Aspose.GIS](../../)
 
 

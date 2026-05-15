@@ -1,7 +1,7 @@
 ---
-title: RasterBand.ToString
-second_title: Aspose.GIS for .NET API 参考
-description: RasterBand 方法. 返回表示当前对象的字符串
+title: "RasterBand.ToString"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "RasterBand 方法。返回表示当前对象的字符串"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.raster/rasterband/tostring/
@@ -18,10 +18,10 @@ public override string ToString()
 
 表示当前对象的字符串。
 
-### 也可以看看
+### 另见
 
 * class [RasterBand](../)
-* 命名空间 [Aspose.Gis.Raster](../../rasterband/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../rasterband/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,30 +1,30 @@
 ---
-title: GeocentricSpatialReferenceSystemParameters.YAxis
-second_title: Aspose.GIS for .NET API 参考
-description: GeocentricSpatialReferenceSystemParameters 财产. 描述Y维度的地心 SRS 轴在赤道面上指向 X 轴左侧或右侧的轴 默认为轴East方向.
+title: "GeocentricSpatialReferenceSystemParameters.YAxis"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GeocentricSpatialReferenceSystemParameters 属性。描述在赤道面上相对于 X 轴左侧或右侧的 Y 维度轴的地心 SRS 轴。默认方向为东向轴"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis/
 ---
 ## GeocentricSpatialReferenceSystemParameters.YAxis property
 
-描述“Y”维度的地心 SRS 轴（在赤道面上指向 X 轴左侧或右侧的轴）。 默认为轴East方向.
+描述 'Y' 维度的地心 SRS 轴（在赤道平面上指向 X 轴左侧或右侧的轴）。默认是指向东向的轴。
 
 ```csharp
 public Axis YAxis { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 轴方向不对West或者East. |
+| ArgumentException | 轴方向不是西向或东向。 |
 
-### 也可以看看
+### 另见
 
 * class [Axis](../../axis/)
 * class [GeocentricSpatialReferenceSystemParameters](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../geocentricspatialreferencesystemparameters/)
+* assembly [Aspose.GIS](../../../)
 
 

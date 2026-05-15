@@ -1,7 +1,7 @@
 ---
-title: SimpleLine.SimpleLine
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLine 构造函数. 创建新实例
+title: "SimpleLine.SimpleLine"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLine 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.symbolizers/simpleline/simpleline/
@@ -14,36 +14,36 @@ url: /zh/net/aspose.gis.rendering.symbolizers/simpleline/simpleline/
 public SimpleLine()
 ```
 
-### 也可以看看
+### 另见
 
 * class [SimpleLine](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
 ## SimpleLine(SimpleLine) {#constructor_1}
 
-初始化一个新的实例[`SimpleLine`](../)类.
+初始化 [`SimpleLine`](../) 类的新实例。
 
 ```csharp
 public SimpleLine(SimpleLine other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleLine | 另一个[`SimpleLine`](../)从中复制数据。 |
+| other | SimpleLine | 另一个用于复制数据的 [`SimpleLine`](../)。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 论据是`null`. |
+| ArgumentNullException | 参数为 `null`。 |
 
-### 也可以看看
+### 另见
 
 * class [SimpleLine](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

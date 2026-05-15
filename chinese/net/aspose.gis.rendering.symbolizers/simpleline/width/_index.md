@@ -1,7 +1,7 @@
 ---
-title: SimpleLine.Width
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleLine 财产. 指定线条的宽度
+title: "SimpleLine.Width"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleLine 属性。指定线条的宽度"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.rendering.symbolizers/simpleline/width/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.gis.rendering.symbolizers/simpleline/width/
 public Measurement Width { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleLine](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simpleline/)
+* assembly [Aspose.GIS](../../../)
 
 

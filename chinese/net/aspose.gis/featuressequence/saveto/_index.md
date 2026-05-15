@@ -1,7 +1,7 @@
 ---
-title: FeaturesSequence.SaveTo
-second_title: Aspose.GIS for .NET API 参考
-description: FeaturesSequence 方法. 将特征序列保存到图层
+title: "FeaturesSequence.SaveTo"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeaturesSequence 方法。将要素序列保存到图层。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/featuressequence/saveto/
@@ -14,26 +14,26 @@ url: /zh/net/aspose.gis/featuressequence/saveto/
 public void SaveTo(string destinationPath, FileDriver destinationDriver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationPath | String | 输出层的路径。 |
-| destinationDriver | FileDriver | 输出层的格式驱动程序。 |
+| destinationPath | String | 输出图层的路径。 |
+| destinationDriver | FileDriver | 输出图层的格式驱动程序。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任何论点都是`null`. |
-| [GisException](../../gisexception/) | 从文件读取或写入特征时出错。 |
+| ArgumentNullException | 任何参数为 `null`。 |
+| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
 | IOException | 发生 I/O 错误。 |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 将要素几何从源空间参考系统转换到目标空间参考系统失败。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -45,26 +45,26 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationPath | AbstractPath | 输出层的路径。 |
-| destinationDriver | FileDriver | 输出层的格式驱动程序。 |
+| destinationPath | AbstractPath | 输出图层的路径。 |
+| destinationDriver | FileDriver | 输出图层的格式驱动程序。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [GisException](../../gisexception/) | 从文件读取或写入特征时出错。 |
+| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
 | IOException | 发生 I/O 错误。 |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 将要素几何从源空间参考系统转换到目标空间参考系统失败。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -76,28 +76,28 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationPath | String | 输出层的路径。 |
-| destinationDriver | FileDriver | 输出层的格式驱动程序。 |
+| destinationPath | String | 输出图层的路径。 |
+| destinationDriver | FileDriver | 输出图层的格式驱动程序。 |
 | options | SavingOptions | 保存过程的选项。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [GisException](../../gisexception/) | 从文件读取或写入特征时出错。 |
+| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
 | IOException | 发生 I/O 错误。 |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
-| NotSupportedException | 中指定的空间参考系统*options*不支持*destinationDriver*. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 将要素几何从源空间参考系统转换到目标空间参考系统失败。 |
+| NotSupportedException | 在 *options* 中指定的空间参考系统不受 *destinationDriver* 支持。 |
 
-### 也可以看看
+### 另见
 
 * class [FileDriver](../../filedriver/)
 * class [SavingOptions](../../savingoptions/)
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 ---
 
@@ -110,28 +110,28 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
     SavingOptions options)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destinationPath | AbstractPath | 输出层的路径。 |
-| destinationDriver | FileDriver | 输出层的格式驱动程序。 |
+| destinationPath | AbstractPath | 输出图层的路径。 |
+| destinationDriver | FileDriver | 输出图层的格式驱动程序。 |
 | options | SavingOptions | 保存过程的选项。 |
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [GisException](../../gisexception/) | 从文件读取或写入特征时出错。 |
+| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
 | IOException | 发生 I/O 错误。 |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 要素几何从源空间参考系统到目标空间参考系统的转换失败。 |
-| NotSupportedException | 中指定的空间参考系统*options*不支持*destinationDriver*. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | 将要素几何从源空间参考系统转换到目标空间参考系统失败。 |
+| NotSupportedException | 在 *options* 中指定的空间参考系统不受 *destinationDriver* 支持。 |
 
-### 也可以看看
+### 另见
 
 * class [AbstractPath](../../abstractpath/)
 * class [FileDriver](../../filedriver/)
 * class [SavingOptions](../../savingoptions/)
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

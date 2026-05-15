@@ -1,49 +1,49 @@
 ---
-title: IGeometry.Covers
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometry 方法. 判断这个几何图形是否覆盖指定的几何图形
+title: "IGeometry.Covers"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometry 方法。确定此几何对象是否覆盖指定的几何对象。"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.geometries/igeometry/covers/
 ---
 ## IGeometry.Covers method
 
-判断这个几何图形是否覆盖指定的几何图形。
+确定此几何体是否覆盖指定几何体。
 
 ```csharp
 public bool Covers(IGeometry other)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | IGeometry | 一个几何。 |
+| 其他 | IGeometry | 一个几何体。 |
 
 ### 返回值
 
-`true`如果此几何图形“空间覆盖”另一个几何图形。`false`否则.
+`true` 表示此几何对象在空间上覆盖另一个几何对象。`false` 表示否则。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 参数是`null`. |
-| ArgumentException | 其中一个几何图形无效，无法完成操作。 |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/)几何形状不等价。 您可以使用[`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/)为了将几何图形转换为相同的 spatial 参考系统。 |
+| ArgumentNullException | 参数为 `null`。 |
+| ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) 的几何体不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
-### 评论
+## 备注
 
-此方法根据 DE-9IM 交集矩阵测试一个几何是否覆盖另一个。 如果几何包含另一个几何的每个点，则一个几何覆盖另一个。 此方法类似于[`SpatiallyContains`](../spatiallycontains/)，但返回`true`更多时候， 因为它不区分内部点和边界点。因此，如果几何 A 位于 几何 B 的边界上，[`SpatiallyContains`](../spatiallycontains/)回报`false`, 而此方法返回`true`. 这个方法等同于：
+此方法根据 DE-9IM 交叉矩阵测试一个几何对象是否覆盖另一个几何对象。如果一个几何对象包含另一个几何对象的所有点，则前者覆盖后者。此方法类似于 [`SpatiallyContains`](../spatiallycontains/)，但更常返回 `true`，因为它不区分内部点和边界点。因此，如果几何对象 A 位于几何对象 B 的边界上，[`SpatiallyContains`](../spatiallycontains/) 返回 `false`，而此方法返回 `true`。此方法等价于：
 
 ```csharp
 this.Relate(other, "T*****FF*") || this.Relate(other, "*T****FF*") || this.Relate(other, "***T**FF*) || this.Relate(other, "***T*FF*");
 ```
 
-### 也可以看看
+### 另见
 
 * method [SpatiallyContains](../spatiallycontains/)
 * method [CoveredBy](../coveredby/)
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,23 +1,23 @@
 ---
-title: CircularString.Reverse
-second_title: Aspose.GIS for .NET API 参考
-description: CircularString 方法. 反转点的顺序CircularString.
+title: "CircularString.Reverse"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "CircularString 方法。反转此 CircularString 中点的顺序"
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.geometries/circularstring/reverse/
 ---
 ## CircularString.Reverse method
 
-反转点的顺序[`CircularString`](../).
+反转此 [`CircularString`](../) 中点的顺序。
 
 ```csharp
 public override void Reverse()
 ```
 
-### 也可以看看
+### 另见
 
 * class [CircularString](../)
-* 命名空间 [Aspose.Gis.Geometries](../../circularstring/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../circularstring/)
+* assembly [Aspose.GIS](../../../)
 
 

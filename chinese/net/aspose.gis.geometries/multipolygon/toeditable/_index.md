@@ -1,7 +1,7 @@
 ---
-title: MultiPolygon.ToEditable
-second_title: Aspose.GIS for .NET API 参考
-description: MultiPolygon 方法. 获取此几何体的可编辑副本
+title: "MultiPolygon.ToEditable"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "MultiPolygon 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geometries/multipolygon/toeditable/
@@ -18,10 +18,10 @@ public MultiPolygon ToEditable()
 
 此几何体的可编辑副本。
 
-### 也可以看看
+### 另见
 
 * class [MultiPolygon](../)
-* 命名空间 [Aspose.Gis.Geometries](../../multipolygon/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../multipolygon/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,9 +1,9 @@
 ---
-title: Class RasterRect
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Raster.RasterRect 班级. 栅格单元块
+title: "类 RasterRect"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Raster.RasterRect 类。栅格单元块"
 type: docs
-weight: 1410
+weight: 3850
 url: /zh/net/aspose.gis.raster/rasterrect/
 ---
 ## RasterRect class
@@ -16,13 +16,13 @@ public class RasterRect
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [RasterRect](rasterrect/)(int, int, int, int) | 创建实例`RasterRect`. |
+| [RasterRect](rasterrect/)(int, int, int, int) | 创建 `RasterRect` 的实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Height](../../aspose.gis.raster/rasterrect/height/) { get; } | 获取高度（行数）。 |
 | [Width](../../aspose.gis.raster/rasterrect/width/) { get; } | 获取宽度（列数）。 |
@@ -31,13 +31,13 @@ public class RasterRect
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | override [ToString](../../aspose.gis.raster/rasterrect/tostring/)() | 返回表示当前对象的字符串。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.Raster](../../aspose.gis.raster/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Raster](../../aspose.gis.raster/)
+* assembly [Aspose.GIS](../../)
 
 

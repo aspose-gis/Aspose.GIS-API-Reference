@@ -1,24 +1,24 @@
 ---
-title: SimpleFill.StrokeLineJoin
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleFill 财产. 确定如何在线段的交点处呈现线条
+title: "SimpleFill.StrokeLineJoin"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleFill 属性。确定线段交叉处的线条渲染方式"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/strokelinejoin/
 ---
 ## SimpleFill.StrokeLineJoin property
 
-确定如何在线段的交点处呈现线条。
+确定线段交叉处的渲染方式。
 
 ```csharp
 public LineJoin StrokeLineJoin { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * enum [LineJoin](../../../aspose.gis.rendering/linejoin/)
 * class [SimpleFill](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplefill/)
+* assembly [Aspose.GIS](../../../)
 
 

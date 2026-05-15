@@ -1,27 +1,27 @@
 ---
-title: WarpOptions.Width
-second_title: Aspose.GIS for .NET API 参考
-description: WarpOptions 财产. 以像素和列为单位指定输出栅格宽度 如果该值设置为 0则会自动计算宽度默认值为0.
+title: "WarpOptions.Width"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "WarpOptions 属性。指定输出栅格的宽度（以像素和列计）。如果值设置为 0，宽度将自动计算。默认值为 0。"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.raster/warpoptions/width/
 ---
 ## WarpOptions.Width property
 
-以像素和列为单位指定输出栅格宽度。 如果该值设置为 0，则会自动计算宽度。默认值为“0”.
+指定输出栅格的宽度（以像素和列计）。如果该值设置为 0，则会自动计算宽度。默认值为 "0"。
 
 ```csharp
 public int Width { get; set; }
 ```
 
-### 评论
+## 备注
 
-如果宽度设置为 0，则该值将从原始宽度中获取或从[`CellWidth`](../cellwidth/). 注意`Width`不能与[`CellWidth`](../cellwidth/).
+如果宽度设置为 0，值将取自原始宽度或从 [`CellWidth`](../cellwidth/) 计算得出。请注意，`Width` 不能与 [`CellWidth`](../cellwidth/) 一起使用。
 
-### 也可以看看
+### 另见
 
 * class [WarpOptions](../)
-* 命名空间 [Aspose.Gis.Raster](../../warpoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Raster](../../warpoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

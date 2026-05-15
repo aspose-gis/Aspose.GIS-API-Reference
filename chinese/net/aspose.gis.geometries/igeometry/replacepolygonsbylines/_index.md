@@ -1,14 +1,14 @@
 ---
-title: IGeometry.ReplacePolygonsByLines
-second_title: Aspose.GIS for .NET API 参考
-description: IGeometry 方法. 获取表示为该几何体的线的多边形
+title: "IGeometry.ReplacePolygonsByLines"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "IGeometry 方法。获取此几何对象以线段形式表示的多边形"
 type: docs
 weight: 300
 url: /zh/net/aspose.gis.geometries/igeometry/replacepolygonsbylines/
 ---
 ## IGeometry.ReplacePolygonsByLines method
 
-获取表示为该几何体的线的多边形。
+获取此几何体中表示为线的多边形。
 
 ```csharp
 public IGeometry ReplacePolygonsByLines()
@@ -16,18 +16,18 @@ public IGeometry ReplacePolygonsByLines()
 
 ### 返回值
 
-没有多边形几何的几何。应用以下转换： Polygon 是 linearized （转化为LineString秒）MultiPolygon s 连接成MultiLineString秒
+一种没有多边形几何体的几何体。应用以下转换：多边形被线性化（转换为 LineString），MultiPolygon 被合并为 MultiLineString。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException |  |
 
-### 也可以看看
+### 另见
 
 * interface [IGeometry](../)
-* 命名空间 [Aspose.Gis.Geometries](../../igeometry/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Geometries](../../igeometry/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,7 +1,7 @@
 ---
-title: SimpleMarker.StrokeWidth
-second_title: Aspose.GIS for .NET API 参考
-description: SimpleMarker 财产. 指定线条的宽度
+title: "SimpleMarker.StrokeWidth"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SimpleMarker 属性。指定线条的宽度"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/strokewidth/
@@ -14,17 +14,17 @@ url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/strokewidth/
 public Measurement StrokeWidth { get; set; }
 ```
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
 | ArgumentOutOfRangeException | 值小于零。 |
 
-### 也可以看看
+### 另见
 
 * struct [Measurement](../../../aspose.gis.rendering/measurement/)
 * class [SimpleMarker](../)
-* 命名空间 [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Symbolizers](../../simplemarker/)
+* assembly [Aspose.GIS](../../../)
 
 

@@ -1,37 +1,37 @@
 ---
-title: FeaturesSequence.WhereSet
-second_title: Aspose.GIS for .NET API 参考
-description: FeaturesSequence 方法. 选择具有属性集的要素
+title: "FeaturesSequence.WhereSet"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeaturesSequence 方法。选择属性已设置的要素"
 type: docs
-weight: 140
+weight: 150
 url: /zh/net/aspose.gis/featuressequence/whereset/
 ---
 ## FeaturesSequence.WhereSet method
 
-选择具有属性集的要素。
+选择已设置属性的要素。
 
 ```csharp
 public virtual FeaturesSequence WhereSet(string attributeName)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attributeName | String | 筛选依据的属性。 |
+| attributeName | String | 用于过滤的属性。 |
 
 ### 返回值
 
-具有设置属性值的功能。
+属性已设置的要素。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 此要素序列中不存在具有此类名称的属性。 |
+| ArgumentException | 此要素序列中不存在具有该名称的属性。 |
 
-### 也可以看看
+### 另见
 
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

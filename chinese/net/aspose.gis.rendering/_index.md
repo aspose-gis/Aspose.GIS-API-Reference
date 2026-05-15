@@ -1,37 +1,37 @@
 ---
-title: Aspose.Gis.Rendering
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.渲染命名空间提供了渲染地图的类
+title: "Aspose.Gis.Rendering"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering 命名空间提供用于渲染地图的类"
 type: docs
-weight: 280
+weight: 660
 url: /zh/net/aspose.gis.rendering/
 ---
-`Aspose.Gis.渲染`命名空间提供了渲染地图的类。
+`Aspose.Gis.Rendering` 命名空间提供用于渲染地图的类。
 
-## 课程
+## 类
 
-| 班级 | 描述 |
+| 类 | 描述 |
 | --- | --- |
-| [Map](./map/) | Map 是层的集合，可以通过[`Renderer`](../aspose.gis.rendering/renderer/). |
-| [MapLayer](./maplayer/) | A`地图图层`是内部图层的基类[`Map`](../aspose.gis.rendering/map/). |
-| [RasterMapLayer](./rastermaplayer/) | 里面一层[`Map`](../aspose.gis.rendering/map/)表示栅格层数据. |
-| [RasterMapResampling](./rastermapresampling/) | 此类描述了在渲染地图时如何对栅格图层重新采样。 |
+| [Map](./map/) | Map 是一个图层集合，可通过 [`Renderer`](../aspose.gis.rendering/renderer/) 叠加渲染。 |
+| [MapLayer](./maplayer/) | `MapLayer` 是 [`Map`](../aspose.gis.rendering/map/) 内图层的基类。 |
+| [RasterMapLayer](./rastermaplayer/) | [`Map`](../aspose.gis.rendering/map/) 内的图层，表示栅格图层数据。 |
+| [RasterMapResampling](./rastermapresampling/) | 此类描述在渲染地图时如何对栅格图层进行重采样。 |
 | [Renderer](./renderer/) | 渲染器的基类。 |
-| [Renderers](./renderers/) | 所有支持格式的渲染器。 |
-| [VectorMapLayer](./vectormaplayer/) | 里面一层[`Map`](../aspose.gis.rendering/map/)表示向量层数据. |
-## 结构
+| [Renderers](./renderers/) | 所有受支持格式的渲染器。 |
+| [VectorMapLayer](./vectormaplayer/) | [`Map`](../aspose.gis.rendering/map/) 内的图层，表示矢量图层数据。 |
+## Structures
 
 | 结构 | 描述 |
 | --- | --- |
-| [Measurement](./measurement/) | 表示渲染测量的数字。 |
+| [Measurement](./measurement/) | 指示渲染度量的数字。 |
 ## 枚举
 
 | 枚举 | 描述 |
 | --- | --- |
-| [CapStyle](./capstyle/) | 指定线条在其末端的呈现方式。 |
+| [CapStyle](./capstyle/) | 指定线条在端点的渲染方式。 |
 | [FillStyle](./fillstyle/) | 指定填充模式。 |
-| [LineJoin](./linejoin/) | 确定如何在线段的交点处呈现线条。 |
-| [StrokeStyle](./strokestyle/) | 指定笔划样式。 |
-| [Unit](./unit/) | 测量单位。 |
+| [LineJoin](./linejoin/) | 确定线段交叉处的线条渲染方式。 |
+| [StrokeStyle](./strokestyle/) | 指定笔画样式。 |
+| [Unit](./unit/) | 一个计量单位。 |
 
 

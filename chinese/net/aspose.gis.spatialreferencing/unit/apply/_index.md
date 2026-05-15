@@ -1,31 +1,31 @@
 ---
-title: Unit.Apply
-second_title: Aspose.GIS for .NET API 参考
-description: Unit 方法. 将参数转换为单位由此实例描述
+title: "Unit.Apply"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Unit 方法。将参数转换为此实例描述的单位"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.spatialreferencing/unit/apply/
 ---
 ## Unit.Apply method
 
-将参数转换为单位，由此实例描述。
+将参数转换为此实例描述的单位。
 
 ```csharp
 public double Apply(double value)
 ```
 
-| 范围 | 类型 | 描述 |
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 要转换的值。必须以弧度或米为单位。 |
+| 值 | Double | 要转换的值。必须是弧度或米。 |
 
 ### 返回值
 
-值，转换为此单位。
+值，已转换为此单位。
 
-### 也可以看看
+### 另见
 
 * class [Unit](../)
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../unit/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../unit/)
+* assembly [Aspose.GIS](../../../)
 
 

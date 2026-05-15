@@ -1,29 +1,29 @@
 ---
-title: Class NullLabeling
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.Rendering.Labelings.NullLabeling 班级. 的NullLabeling跳过对其应用的几何体的标记
+title: "NullLabeling 类"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.Rendering.Labelings.NullLabeling 类。NullLabeling 跳过对其所应用的几何体的标注"
 type: docs
-weight: 1670
+weight: 4120
 url: /zh/net/aspose.gis.rendering.labelings/nulllabeling/
 ---
 ## NullLabeling class
 
-的`NullLabeling`跳过对其应用的几何体的标记。
+`NullLabeling` 跳过对其所应用的几何体的标注。
 
 ```csharp
 public class NullLabeling : Labeling
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| static [Instance](../../aspose.gis.rendering.labelings/nulllabeling/instance/) { get; } | 获取一个实例`NullLabeling`. |
+| static [Instance](../../aspose.gis.rendering.labelings/nulllabeling/instance/) { get; } | 获取 `NullLabeling` 的实例。 |
 
-### 也可以看看
+### 另见
 
 * class [Labeling](../labeling/)
-* 命名空间 [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.Rendering.Labelings](../../aspose.gis.rendering.labelings/)
+* assembly [Aspose.GIS](../../)
 
 

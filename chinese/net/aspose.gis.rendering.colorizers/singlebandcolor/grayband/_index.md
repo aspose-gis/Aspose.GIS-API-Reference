@@ -1,24 +1,24 @@
 ---
-title: SingleBandColor.GrayBand
-second_title: Aspose.GIS for .NET API 参考
-description: SingleBandColor 财产. 指定光栅的灰色分量
+title: "SingleBandColor.GrayBand"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "SingleBandColor 属性。指定我们栅格的灰度分量"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.colorizers/singlebandcolor/grayband/
 ---
 ## SingleBandColor.GrayBand property
 
-指定光栅的灰色分量。
+指定我们栅格的灰度分量。
 
 ```csharp
 public BandColor GrayBand { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * class [BandColor](../../bandcolor/)
 * class [SingleBandColor](../)
-* 命名空间 [Aspose.Gis.Rendering.Colorizers](../../singlebandcolor/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Rendering.Colorizers](../../singlebandcolor/)
+* assembly [Aspose.GIS](../../../)
 
 

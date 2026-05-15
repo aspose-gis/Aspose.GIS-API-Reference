@@ -1,24 +1,24 @@
 ---
-title: GpxOptions.MAttribute
-second_title: Aspose.GIS for .NET API 参考
-description: GpxOptions 财产. 确定哪个 GPX 属性将导出为路点路线点和跟踪点的M坐标 行为与ZAttribute 默认为null.
+title: "GpxOptions.MAttribute"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "GpxOptions 属性。确定哪个 GPX 属性将被导出为航点、路线点和轨迹点的 M 坐标。行为与 ZAttribute 相同，默认值为 null。"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.gpx/gpxoptions/mattribute/
 ---
 ## GpxOptions.MAttribute property
 
-确定哪个 GPX 属性将导出为路点、路线点和跟踪点的“M”坐标。 行为与[`ZAttribute`](../zattribute/) 默认为`null`.
+确定哪个 GPX 属性将被导出为航点、路线点和轨迹点的 “M” 坐标。行为与 [`ZAttribute`](../zattribute/) 相同，默认值为 `null`。
 
 ```csharp
 public string MAttribute { get; set; }
 ```
 
-### 也可以看看
+### 另见
 
 * property [ZAttribute](../zattribute/)
 * class [GpxOptions](../)
-* 命名空间 [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis.Formats.Gpx](../../gpxoptions/)
+* assembly [Aspose.GIS](../../../)
 
 

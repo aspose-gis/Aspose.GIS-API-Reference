@@ -1,14 +1,14 @@
 ---
-title: FeaturesSequence.SplitTo
-second_title: Aspose.GIS for .NET API 参考
-description: FeaturesSequence 方法. 按几何类型拆分要素
+title: "FeaturesSequence.SplitTo"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "FeaturesSequence 方法。按几何类型拆分要素"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/featuressequence/splitto/
 ---
 ## FeaturesSequence.SplitTo method
 
-按几何类型拆分要素。
+按几何类型拆分特征。
 
 ```csharp
 public VectorLayer[] SplitTo()
@@ -18,17 +18,17 @@ public VectorLayer[] SplitTo()
 
 具有相同几何类型的图层。
 
-### 例外
+### 异常
 
-| 例外 | （健康）状况 |
+| 异常 | 条件 |
 | --- | --- |
-| [GisException](../../gisexception/) | 从文件读取或写入特征时出错。 |
+| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
 
-### 也可以看看
+### 另见
 
 * class [VectorLayer](../../vectorlayer/)
 * class [FeaturesSequence](../)
-* 命名空间 [Aspose.Gis](../../featuressequence/)
-* 部件 [Aspose.GIS](../../../)
+* namespace [Aspose.Gis](../../featuressequence/)
+* assembly [Aspose.GIS](../../../)
 
 

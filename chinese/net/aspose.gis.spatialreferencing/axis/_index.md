@@ -1,14 +1,14 @@
 ---
-title: Class Axis
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.SpatialReferencing.Axis 班级. 一个轴描述了 SRS 的一个维度
+title: "类 Axis"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.SpatialReferencing.Axis 类。轴描述 SRS 的一个维度。"
 type: docs
-weight: 2030
+weight: 4480
 url: /zh/net/aspose.gis.spatialreferencing/axis/
 ---
 ## Axis class
 
-一个轴描述了 SRS 的一个维度。
+轴描述 SRS 的一个维度。
 
 ```csharp
 public class Axis
@@ -16,24 +16,24 @@ public class Axis
 
 ## 构造函数
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
 | [Axis](axis/)(string, AxisDirection) | 创建新实例。 |
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Direction](../../aspose.gis.spatialreferencing/axis/direction/) { get; } | 这个轴的方向。 |
-| [IsEastWestAxis](../../aspose.gis.spatialreferencing/axis/iseastwestaxis/) { get; } | 检测轴的方向是东还是西。 |
-| [IsNorthSouthAxis](../../aspose.gis.spatialreferencing/axis/isnorthsouthaxis/) { get; } | 检测轴的方向是北还是南。 |
-| [IsOtherAxis](../../aspose.gis.spatialreferencing/axis/isotheraxis/) { get; } | 检测此轴方向是否为其他。 |
-| [IsUpDownAxis](../../aspose.gis.spatialreferencing/axis/isupdownaxis/) { get; } | 检测轴的方向是向上还是向下。 |
-| [Name](../../aspose.gis.spatialreferencing/axis/name/) { get; } | 该轴的名称。 |
+| [Direction](../../aspose.gis.spatialreferencing/axis/direction/) { get; } | 此轴的方向。 |
+| [IsEastWestAxis](../../aspose.gis.spatialreferencing/axis/iseastwestaxis/) { get; } | 检测轴的方向是否为东或西。 |
+| [IsNorthSouthAxis](../../aspose.gis.spatialreferencing/axis/isnorthsouthaxis/) { get; } | 检测轴的方向是否为北或南。 |
+| [IsOtherAxis](../../aspose.gis.spatialreferencing/axis/isotheraxis/) { get; } | 检测此轴的方向是否为其他。 |
+| [IsUpDownAxis](../../aspose.gis.spatialreferencing/axis/isupdownaxis/) { get; } | 检测轴的方向是否为上或下。 |
+| [Name](../../aspose.gis.spatialreferencing/axis/name/) { get; } | 此轴的名称。 |
 
-### 也可以看看
+### 另见
 
-* 命名空间 [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis.SpatialReferencing](../../aspose.gis.spatialreferencing/)
+* assembly [Aspose.GIS](../../)
 
 

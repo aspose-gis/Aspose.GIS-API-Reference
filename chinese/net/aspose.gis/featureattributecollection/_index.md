@@ -1,44 +1,44 @@
 ---
-title: Class FeatureAttributeCollection
-second_title: Aspose.GIS for .NET API 参考
-description: Aspose.Gis.FeatureAttributeCollection 班级. 一个FeatureAttributeCollection定义哪些属性可用于Feature.
+title: "类 FeatureAttributeCollection"
+second_title: "Aspose.GIS for .NET API 参考"
+description: "Aspose.Gis.FeatureAttributeCollection 类。FeatureAttributeCollection 定义了 Feature 可用的属性。"
 type: docs
-weight: 150
+weight: 1640
 url: /zh/net/aspose.gis/featureattributecollection/
 ---
 ## FeatureAttributeCollection class
 
-一个`FeatureAttributeCollection`定义哪些属性可用于[`Feature`](../feature/).
+`FeatureAttributeCollection` 定义了可用于 [`Feature`](../feature/) 的属性。
 
 ```csharp
 public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
 ```
 
-## 特性
+## 属性
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.gis/featureattributecollection/count/) { get; } | 获取a中的属性个数[`Feature`](../feature/). |
-| [IsLocked](../../aspose.gis/featureattributecollection/islocked/) { get; } | 获取一个值，指示此属性集合是否被锁定。 |
-| [Item](../../aspose.gis/featureattributecollection/item/) { get; set; } | 获取或设置[`FeatureAttribute`](../featureattribute/)在指定的索引处. |
-| [Item](../../aspose.gis/featureattributecollection/item/) { get; } | 获取或设置[`FeatureAttribute`](../featureattribute/)具有指定名称. |
+| [Count](../../aspose.gis/featureattributecollection/count/) { get; } | 获取 [`Feature`](../feature/) 中属性的数量。 |
+| [IsLocked](../../aspose.gis/featureattributecollection/islocked/) { get; } | 获取一个值，指示此属性集合是否已锁定。 |
+| [Item](../../aspose.gis/featureattributecollection/item/) { get; set; } | 获取或设置指定索引处的 [`FeatureAttribute`](../featureattribute/)。 |
+| [Item](../../aspose.gis/featureattributecollection/item/) { get; } | 获取或设置具有指定名称的 [`FeatureAttribute`](../featureattribute/)。 |
 
 ## 方法
 
-| 姓名 | 描述 |
+| 名称 | 描述 |
 | --- | --- |
-| [Add](../../aspose.gis/featureattributecollection/add/)(FeatureAttribute) | 向集合中添加一个属性。 |
+| [Add](../../aspose.gis/featureattributecollection/add/)(FeatureAttribute) | 向集合中添加属性。 |
 | [Contains](../../aspose.gis/featureattributecollection/contains/)(string) | 确定属性集合是否包含具有指定名称的属性。 |
-| [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator/)() | 返回循环访问集合的枚举器。 |
-| [IndexOf](../../aspose.gis/featureattributecollection/indexof/)(string) | 搜索属性并返回其从零开始的索引。 |
+| [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator/)() | 返回遍历集合的枚举器。 |
+| [IndexOf](../../aspose.gis/featureattributecollection/indexof/)(string) | 搜索属性并返回其零基索引。 |
 | [Lock](../../aspose.gis/featureattributecollection/lock/)() | 锁定此属性集合以防止进一步修改。 |
-| [Remove](../../aspose.gis/featureattributecollection/remove/#remove)(int) | 从集合中删除属性。 |
-| [Remove](../../aspose.gis/featureattributecollection/remove/#remove_1)(string) | 从集合中删除属性。 |
+| [Remove](../../aspose.gis/featureattributecollection/remove/#remove)(int) | 从集合中移除属性。 |
+| [Remove](../../aspose.gis/featureattributecollection/remove/#remove_1)(string) | 从集合中移除属性。 |
 
-### 也可以看看
+### 另见
 
 * class [FeatureAttribute](../featureattribute/)
-* 命名空间 [Aspose.Gis](../../aspose.gis/)
-* 部件 [Aspose.GIS](../../)
+* namespace [Aspose.Gis](../../aspose.gis/)
+* assembly [Aspose.GIS](../../)
 
 
