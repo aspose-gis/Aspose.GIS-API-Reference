@@ -1,0 +1,26 @@
+---
+title: "MifTokenType Aufzählung"
+type: docs
+weight: 50
+url: /de/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokentype/
+---
+
+
+
+**Module:** [aspose.gis.common.formats.mapinfo.interchangeformat](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/)
+
+**Full Name:** aspose.gis.common.formats.mapinfo.interchangeformat.MifTokenType
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Members**
+| **Membername** | **Beschreibung** |
+| :- | :- |
+| SCHLIESSEN |  |
+| KOMMA |  |
+| EOF |  |
+| SCHLÜSSELWORT |  |
+| NEUEZEILE |  |
+| NUMMER |  |
+| ÖFFNEN |  |
+| STRING |  |
