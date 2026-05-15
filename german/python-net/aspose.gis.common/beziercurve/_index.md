@@ -1,0 +1,73 @@
+---
+title: "BezierCurve Klasse"
+type: docs
+weight: 40
+url: /de/python-net/aspose.gis.common/beziercurve/
+---
+
+**Summary:** 
+
+**Module:** [aspose.gis.common](/psd/python-net/aspose.gis.common/)
+
+**Full Name:** aspose.gis.common.BezierCurve
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Constructors**
+| **Name** | **Beschreibung** |
+| :- | :- |
+| [BezierCurve(c0, c1, c2, c3)](#BezierCurve_c0_c1_c2_c3_1) | Initialisiert eine neue Instanz der BezierCurve-Klasse |
+## **Properties**
+| **Name** | **Type** | **Access** | **Beschreibung** |
+| :- | :- | :- | :- |
+| c0 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
+| c1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
+| c2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
+| c3 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
+## **Methods**
+| **Name** | **Beschreibung** |
+| :- | :- |
+| [coordinate_at(t)](#coordinate_at_t_1) |    |
+| linearize(coordinates, step_size_in_degree) |  |
+
+
+### Constructor: BezierCurve(c0, c1, c2, c3) {#BezierCurve_c0_c1_c2_c3_1}
+
+
+```
+ BezierCurve(c0, c1, c2, c3) 
+```
+
+Initialisiert eine neue Instanz der BezierCurve-Klasse
+
+**Parameters:**
+
+| Parameter | Typ | Beschreibung |
+| :- | :- | :- |
+| c0 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
+| c1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
+| c2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
+| c3 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
+
+### Method: coordinate_at(t) {#coordinate_at_t_1}
+
+
+```
+ coordinate_at(t) 
+```
+
+  
+
+**Parameters:**
+
+| Parameter | Typ | Beschreibung |
+| :- | :- | :- |
+| t | double |  |
+
+**Returns**
+
+| Typ | Beschreibung |
+| :- | :- |
+| [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
+
+
