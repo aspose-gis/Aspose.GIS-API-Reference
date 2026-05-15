@@ -1,0 +1,15 @@
+---
+title: "aspose.gis.indexing.rtree"
+type: docs
+weight: 600
+url: /ar/python-net/aspose.gis.indexing.rtree/
+---
+
+
+
+
+## **Classes**
+| **الفئة** | **الوصف** |
+| :- | :- |
+| [RTree](/psd/python-net/aspose.gis.indexing.rtree/rtree/) |  |
+| [RTreeOptions](/psd/python-net/aspose.gis.indexing.rtree/rtreeoptions/) |  |

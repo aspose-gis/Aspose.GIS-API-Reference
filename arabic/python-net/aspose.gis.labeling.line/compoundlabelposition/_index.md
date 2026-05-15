@@ -1,0 +1,45 @@
+---
+title: "فئة CompoundLabelPosition"
+type: docs
+weight: 10
+url: /ar/python-net/aspose.gis.labeling.line/compoundlabelposition/
+---
+
+**Summary:** 
+
+**Module:** [aspose.gis.labeling.line](/psd/python-net/aspose.gis.labeling.line/)
+
+**Full Name:** aspose.gis.labeling.line.CompoundLabelPosition
+
+**Inheritance:** LabelPosition
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Constructors**
+| **Name** | **الوصف** |
+| :- | :- |
+| [CompoundLabelPosition(parts, cost)](#CompoundLabelPosition_parts_cost_1) | يقوم بإنشاء نسخة جديدة من الفئة CompoundLabelPosition |
+## **Properties**
+| **Name** | **Type** | **Access** | **الوصف** |
+| :- | :- | :- | :- |
+| bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |
+| التكلفة | double | r |  |
+| الأجزاء | System.Collections.Generic.IReadOnlyList<SymbolTetragon> | r |  |
+
+
+### Constructor: CompoundLabelPosition(parts, cost) {#CompoundLabelPosition_parts_cost_1}
+
+
+```
+ CompoundLabelPosition(parts, cost) 
+```
+
+يقوم بإنشاء نسخة جديدة من الفئة CompoundLabelPosition
+
+**Parameters:**
+
+| معامل | نوع | الوصف |
+| :- | :- | :- |
+| الأجزاء | System.Collections.Generic.IReadOnlyList<SymbolTetragon> |  |
+| التكلفة | double |  |
+
