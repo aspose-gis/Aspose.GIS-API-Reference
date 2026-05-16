@@ -1,0 +1,83 @@
+---
+title: "PaintEngine क्लास"
+type: docs
+weight: 10
+url: /hi/python-net/aspose.gis.painting/paintengine/
+---
+
+**Summary:** 
+
+**Module:** [aspose.gis.painting](/psd/python-net/aspose.gis.painting/)
+
+**Full Name:** aspose.gis.painting.PaintEngine
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Properties**
+| **नाम** | **प्रकार** | **पहुँच** | **विवरण** |
+| :- | :- | :- | :- |
+| rounded_height | double | r |  |
+| rounded_width | double | r |  |
+## **Methods**
+| **नाम** | **विवरण** |
+| :- | :- |
+| close() |  |
+| draw_characters(path) |  |
+| draw_ellipse(center, rx, ry) |  |
+| draw_image(stream, width, height, opacity) |  |
+| draw_polyline(polyline) |  |
+| draw_rectangle(rectangle) |  |
+| draw_shape(shape) |  |
+| draw_text(bottom_left, text) |  |
+| [measure_text(text, font)](#measure_text_text_font_1) |    |
+| [measure_text_characters(text, font)](#measure_text_characters_text_font_2) |    |
+| start_new_layer(new_options) |  |
+| update_state(state) |  |
+
+
+### Method: measure_text(text, font) {#measure_text_text_font_1}
+
+
+```
+ measure_text(text, font) 
+```
+
+  
+
+**Parameters:**
+
+| पैरामीटर | प्रकार | विवरण |
+| :- | :- | :- |
+| text | string |  |
+| फ़ॉन्ट | System.Drawing.Font |  |
+
+**Returns**
+
+| प्रकार | विवरण |
+| :- | :- |
+| [Size](/psd/python-net/aspose.gis.common/size/) |  |
+
+
+### Method: measure_text_characters(text, font) {#measure_text_characters_text_font_2}
+
+
+```
+ measure_text_characters(text, font) 
+```
+
+  
+
+**Parameters:**
+
+| पैरामीटर | प्रकार | विवरण |
+| :- | :- | :- |
+| text | string |  |
+| फ़ॉन्ट | System.Drawing.Font |  |
+
+**Returns**
+
+| प्रकार | विवरण |
+| :- | :- |
+| System.Collections.Generic.List<Aspose.Gis.Common.Size> |  |
+
+
