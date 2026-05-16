@@ -1,0 +1,574 @@
+---
+title: "FileDriver 클래스"
+type: docs
+weight: 880
+url: /ko/python-net/aspose.gis/filedriver/
+---
+
+**Summary:** A driver for a specific file based format.
+
+**Module:** [aspose.gis](/psd/python-net/aspose.gis/)
+
+**Full Name:** aspose.gis.FileDriver
+
+**Inheritance:** Driver
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| can_create_datasets | bool | r | 이 드라이버가 데이터 세트를 생성할 수 있는지 여부를 나타내는 값을 가져옵니다. |
+| can_create_layers | bool | r | 이 드라이버가 벡터 레이어를 생성할 수 있는지 여부를 나타내는 값을 가져옵니다. |
+| can_open_datasets | bool | r | 이 드라이버가 데이터 세트를 열 수 있는지 여부를 나타내는 값을 가져옵니다. |
+| can_open_layers | bool | r | 이 드라이버가 벡터 레이어를 열 수 있는지 여부를 나타내는 값을 가져옵니다. |
+## **Methods**
+| **Name** | **Description** |
+| :- | :- |
+| [create_dataset(path)](#create_dataset_path_1) | 데이터 세트를 생성합니다. |
+| [create_dataset(path)](#create_dataset_path_2) | 데이터 세트를 생성합니다. |
+| [create_dataset(path, options)](#create_dataset_path_options_3) | 데이터 세트를 생성합니다. |
+| [create_dataset(path, options)](#create_dataset_path_options_4) | 데이터 세트를 생성합니다. |
+| [create_layer(path)](#create_layer_path_5) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [create_layer(path)](#create_layer_path_6) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [create_layer(path, options)](#create_layer_path_options_7) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [create_layer(path, options)](#create_layer_path_options_8) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [create_layer(path, options, spatial_reference_system)](#create_layer_path_options_spatial_reference_system_9) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [create_layer(path, options, spatial_reference_system)](#create_layer_path_options_spatial_reference_system_10) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [create_layer(path, spatial_reference_system)](#create_layer_path_spatial_reference_system_11) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [create_layer(path, spatial_reference_system)](#create_layer_path_spatial_reference_system_12) | 레이어를 생성하고 추가를 위해 엽니다. |
+| [edit_layer(path, options)](#edit_layer_path_options_13) | 편집을 위해 레이어를 엽니다. |
+| [edit_layer(path, options)](#edit_layer_path_options_14) | 편집을 위해 레이어를 엽니다. |
+| [open_dataset(path)](#open_dataset_path_15) | 데이터세트를 엽니다. |
+| [open_dataset(path)](#open_dataset_path_16) | 데이터세트를 엽니다. |
+| [open_dataset(path, options)](#open_dataset_path_options_17) | 데이터세트를 엽니다. |
+| [open_dataset(path, options)](#open_dataset_path_options_18) | 데이터세트를 엽니다. |
+| [open_layer(path)](#open_layer_path_19) | 읽기를 위해 레이어를 엽니다. |
+| [open_layer(path)](#open_layer_path_20) | 읽기를 위해 레이어를 엽니다. |
+| [open_layer(path, options)](#open_layer_path_options_21) | 읽기를 위해 레이어를 엽니다. |
+| [open_layer(path, options)](#open_layer_path_options_22) | 읽기를 위해 레이어를 엽니다. |
+| [supports_spatial_reference_system(spatial_reference_system)](#supports_spatial_reference_system_spatial_reference_system_23) | 지정된 공간 참조 시스템이 드라이버에서 지원되는지 여부를 결정합니다. |
+
+
+### Method: create_dataset(path) {#create_dataset_path_1}
+
+
+```
+ create_dataset(path) 
+```
+
+데이터 세트를 생성합니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 데이터세트 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: create_dataset(path) {#create_dataset_path_2}
+
+
+```
+ create_dataset(path) 
+```
+
+데이터 세트를 생성합니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 데이터세트 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: create_dataset(path, options) {#create_dataset_path_options_3}
+
+
+```
+ create_dataset(path, options) 
+```
+
+데이터 세트를 생성합니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 데이터세트 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: create_dataset(path, options) {#create_dataset_path_options_4}
+
+
+```
+ create_dataset(path, options) 
+```
+
+데이터 세트를 생성합니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 데이터세트 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: create_layer(path) {#create_layer_path_5}
+
+
+```
+ create_layer(path) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 파일 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: create_layer(path) {#create_layer_path_6}
+
+
+```
+ create_layer(path) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 파일 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: create_layer(path, options) {#create_layer_path_options_7}
+
+
+```
+ create_layer(path, options) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: create_layer(path, options) {#create_layer_path_options_8}
+
+
+```
+ create_layer(path, options) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: create_layer(path, options, spatial_reference_system) {#create_layer_path_options_spatial_reference_system_9}
+
+
+```
+ create_layer(path, options, spatial_reference_system) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | 공간 참조 시스템. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: create_layer(path, options, spatial_reference_system) {#create_layer_path_options_spatial_reference_system_10}
+
+
+```
+ create_layer(path, options, spatial_reference_system) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | 공간 참조 시스템. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: create_layer(path, spatial_reference_system) {#create_layer_path_spatial_reference_system_11}
+
+
+```
+ create_layer(path, spatial_reference_system) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 파일 경로. |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | 공간 참조 시스템. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: create_layer(path, spatial_reference_system) {#create_layer_path_spatial_reference_system_12}
+
+
+```
+ create_layer(path, spatial_reference_system) 
+```
+
+레이어를 생성하고 추가를 위해 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 파일 경로. |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | 공간 참조 시스템. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: edit_layer(path, options) {#edit_layer_path_options_13}
+
+
+```
+ edit_layer(path, options) 
+```
+
+편집을 위해 레이어를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: edit_layer(path, options) {#edit_layer_path_options_14}
+
+
+```
+ edit_layer(path, options) 
+```
+
+편집을 위해 레이어를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: open_dataset(path) {#open_dataset_path_15}
+
+
+```
+ open_dataset(path) 
+```
+
+데이터세트를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 데이터세트 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: open_dataset(path) {#open_dataset_path_16}
+
+
+```
+ open_dataset(path) 
+```
+
+데이터세트를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 데이터세트 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: open_dataset(path, options) {#open_dataset_path_options_17}
+
+
+```
+ open_dataset(path, options) 
+```
+
+데이터세트를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 데이터세트 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: open_dataset(path, options) {#open_dataset_path_options_18}
+
+
+```
+ open_dataset(path, options) 
+```
+
+데이터세트를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 데이터세트 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 다음의 인스턴스: [Dataset](/psd/python-net/aspose.gis/dataset/). |
+
+
+### Method: open_layer(path) {#open_layer_path_19}
+
+
+```
+ open_layer(path) 
+```
+
+읽기를 위해 레이어를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 파일 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: open_layer(path) {#open_layer_path_20}
+
+
+```
+ open_layer(path) 
+```
+
+읽기를 위해 레이어를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 파일 경로. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: open_layer(path, options) {#open_layer_path_options_21}
+
+
+```
+ open_layer(path, options) 
+```
+
+읽기를 위해 레이어를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | string | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: open_layer(path, options) {#open_layer_path_options_22}
+
+
+```
+ open_layer(path, options) 
+```
+
+읽기를 위해 레이어를 엽니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 파일 경로. |
+| options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | 드라이버별 옵션. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 다음의 인스턴스: [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
+
+
+### Method: supports_spatial_reference_system(spatial_reference_system) {#supports_spatial_reference_system_spatial_reference_system_23}
+
+
+```
+ supports_spatial_reference_system(spatial_reference_system) 
+```
+
+지정된 공간 참조 시스템이 드라이버에서 지원되는지 여부를 결정합니다.
+
+**Parameters:**
+
+| 매개변수 | 형식 | 설명 |
+| :- | :- | :- |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | 공간 참조 시스템. |
+
+**Returns**
+
+| 형식 | 설명 |
+| :- | :- |
+| bool | 드라이버가 지정된 공간 참조 시스템을 지원하는지 여부를 나타내는 Boolean 값.<br/>            <see langword="null" />은 모든 드라이버에서 지원되는 것으로 간주됩니다. |
+
+
