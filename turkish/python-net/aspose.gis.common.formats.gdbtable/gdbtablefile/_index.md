@@ -1,0 +1,284 @@
+---
+title: "GdbTableFile Sınıf"
+type: docs
+weight: 140
+url: /tr/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile/
+---
+
+**Summary:** 
+
+**Module:** [aspose.gis.common.formats.gdbtable](/psd/python-net/aspose.gis.common.formats.gdbtable/)
+
+**Full Name:** aspose.gis.common.formats.gdbtable.GdbTableFile
+
+**Aspose.PSD Version:** 25.9.0
+
+## **Properties**
+| **Name** | **Type** | **Access** | **Description** |
+| :- | :- | :- | :- |
+| sayım | int | r |  |
+| alanlar | System.Collections.Generic.IReadOnlyList<GdbFieldDescription> | r |  |
+| gdb_table_version | [GdbTableVersion](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableversion) | r |    |
+| is_dirty | bool | r |  |
+| next_row_id | int | r |  |
+| object_id_field | [GdbFieldDescription](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription) | r |    |
+| shape_field | [GdbShapeFieldDescription](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbshapefielddescription) | r |    |
+| shape_type | [GdbTableShapeType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableshapetype) | r/w |    |
+## **Methods**
+| **Name** | **Description** |
+| :- | :- |
+| add_field(field) |  |
+| [add_row(row)](#add_row_row_1) |    |
+| [create(path)](#create_path_2) |    |
+| [create(path)](#create_path_3) |    |
+| [create_row()](#create_row__4) |    |
+| delete_row(row_id) |  |
+| delete_row_at(row_index) |  |
+| [has_field(name)](#has_field_name_5) |    |
+| [is_valid_and_unqiue_field_name(name, error)](#is_valid_and_unqiue_field_name_name_error_6) |    |
+| [is_valid_field_name(name, error)](#is_valid_field_name_name_error_7) |    |
+| [open(path)](#open_path_8) |    |
+| [open(path)](#open_path_9) |    |
+| [read_row(row_id)](#read_row_row_id_10) |    |
+| [read_row_at(row_index)](#read_row_at_row_index_11) |    |
+| update_row(row, row_index) |  |
+
+
+### Method: add_row(row) {#add_row_row_1}
+
+
+```
+ add_row(row) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| row | [GdbTableRowWriter](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowwriter) |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| int |  |
+
+
+### Method: create(path)  [static] {#create_path_2}
+
+
+```
+ create(path) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| yol | string |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| [GdbTableFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile) |  |
+
+
+### Method: create(path)  [static] {#create_path_3}
+
+
+```
+ create(path) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| [GdbTableFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile) |  |
+
+
+### Method: create_row() {#create_row__4}
+
+
+```
+ create_row() 
+```
+
+  
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| [GdbTableRowWriter](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowwriter) |  |
+
+
+### Method: has_field(name) {#has_field_name_5}
+
+
+```
+ has_field(name) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| ad | string |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| bool |  |
+
+
+### Method: is_valid_and_unqiue_field_name(name, error) {#is_valid_and_unqiue_field_name_name_error_6}
+
+
+```
+ is_valid_and_unqiue_field_name(name, error) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| ad | string |  |
+| hata | Dize |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| bool |  |
+
+
+### Method: is_valid_field_name(name, error)  [static] {#is_valid_field_name_name_error_7}
+
+
+```
+ is_valid_field_name(name, error) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| ad | string |  |
+| hata | Dize |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| bool |  |
+
+
+### Method: open(path)  [static] {#open_path_8}
+
+
+```
+ open(path) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| yol | string |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| [GdbTableFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile) |  |
+
+
+### Method: open(path)  [static] {#open_path_9}
+
+
+```
+ open(path) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| [GdbTableFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile) |  |
+
+
+### Method: read_row(row_id) {#read_row_row_id_10}
+
+
+```
+ read_row(row_id) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| row_id | int |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| [GdbTableRowReader](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader) |  |
+
+
+### Method: read_row_at(row_index) {#read_row_at_row_index_11}
+
+
+```
+ read_row_at(row_index) 
+```
+
+  
+
+**Parameters:**
+
+| Parametre | Tür | Açıklama |
+| :- | :- | :- |
+| row_index | int |  |
+
+**Returns**
+
+| Tür | Açıklama |
+| :- | :- |
+| [GdbTableRowReader](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader) |  |
+
+
