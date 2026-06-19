@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.geotools/generatortilesrenderoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GeneratorTilesRenderOptions()](#GeneratorTilesRenderOptions__1) | يُهيئ مثيلاً جديداً لفئة GeneratorTilesRenderOptions |
+| [GeneratorTilesRenderOptions()](#GeneratorTilesRenderOptions__1) | يُنشئ مثلاً جديداً من فئة GeneratorTilesRenderOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| background_color | System.Drawing.Color | r/w | لون الخلفية |
-| geometry_symbolizer | [MixedGeometrySymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/) | r/w | يطبق الرموز الصحيحة على هندسة الميزة وفقًا لنوع هندستها |
-| tile_name_template | string | r/w | قالب اسم البلاطة |
-| tile_size | double | r/w | حجم البلاطة |
+| background_color | System.Drawing.Color | قراءة/كتابة | لون الخلفية |
+| geometry_symbolizer | [MixedGeometrySymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/) | r/w | يطبق الرموز الصحيح على هندسة الميزة وفقًا لنوع هندستها |
+| tile_name_template | string | قراءة/كتابة | قالب اسم البلاطة |
+| tile_size | double | قراءة/كتابة | حجم البلاطة |
 
 
 ### Constructor: GeneratorTilesRenderOptions() {#GeneratorTilesRenderOptions__1}
@@ -33,5 +33,5 @@ url: /ar/python-net/aspose.gis.geotools/generatortilesrenderoptions/
  GeneratorTilesRenderOptions() 
 ```
 
-يُهيئ مثيلاً جديداً لفئة GeneratorTilesRenderOptions
+يُنشئ مثلاً جديداً من فئة GeneratorTilesRenderOptions
 

@@ -1,5 +1,5 @@
 ---
-title: "فئة LabelingRule"
+title: "LabelingRule فئة"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.rendering.labelings/labelingrule/
@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.rendering.labelings/labelingrule/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | is_else_rule | bool | r | يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة "else-rule". |
 | is_filter_rule | bool | r | يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة "filter-rule". |
 | labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling) | r | التسمية لتطبيقها على الميزة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [create_else_rule(labeling)](#create_else_rule_labeling_1) | ينشئ قاعدة جديدة تطبق تسمية على الميزة كلما لم تتطابق مع أي قاعدة تصفية. |
+| [create_else_rule(labeling)](#create_else_rule_labeling_1) | ينشئ قاعدة جديدة تطبق تسمية على الميزة كلما لم تتطابق مع أي قاعدة filter rule. |
 
 
 ### Method: create_else_rule(labeling)  [static] {#create_else_rule_labeling_1}
@@ -32,18 +32,18 @@ url: /ar/python-net/aspose.gis.rendering.labelings/labelingrule/
  create_else_rule(labeling) 
 ```
 
-ينشئ قاعدة جديدة تطبق تسمية على الميزة كلما لم تتطابق مع أي قاعدة تصفية.
+ينشئ قاعدة جديدة تطبق تسمية على الميزة كلما لم تتطابق مع أي قاعدة filter rule.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling) | التصنيف للتطبيق. |
+| labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling) | التوسيم للتطبيق. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [LabelingRule](/psd/python-net/aspose.gis.rendering.labelings/labelingrule) | كائن LabelingRule جديد. |
+| [LabelingRule](/psd/python-net/aspose.gis.rendering.labelings/labelingrule) | كائن LabelingRule الجديد. |
 
 

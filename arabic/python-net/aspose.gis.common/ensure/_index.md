@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common/ensure/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | in_range(arg, min, max_exclusive, parameter_name) |  |
 | in_range(arg, min, max_exclusive, parameter_name) |  |

@@ -1,5 +1,5 @@
 ---
-title: "Feature فئة"
+title: "فئة Feature"
 type: docs
 weight: 830
 url: /ar/python-net/aspose.gis/feature/
@@ -14,24 +14,24 @@ url: /ar/python-net/aspose.gis/feature/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | r/w | يحصل أو يضبط هندسة العنصر.<br/>            لا يمكن أن تكون <see langword=\"null\" />، استخدم [Geometry.null](/psd/python-net/aspose.gis.geometries/geometry/) للإشارة إلى هندسة مفقودة. |
+| geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | r/w | يحصل على أو يضبط هندسة العنصر.<br/>            لا يمكن أن تكون <see langword=\"null\" />، استخدم [Geometry.null](/psd/python-net/aspose.gis.geometries/geometry/) للإشارة إلى هندسة مفقودة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [copy_values(input_feature)](#copy_values_input_feature_1) | ينسخ قيم السمات من عنصر آخر. |
-| [get_value(attribute_name)](#get_value_attribute_name_2) | يحصل على قيمة سمة. |
-| [get_value_or_default(attribute_name, default_value)](#get_value_or_default_attribute_name_default_value_3) | يحصل على قيمة سمة، أو [FeatureAttribute.default_value](/psd/python-net/aspose.gis/featureattribute/) إذا كانت القيمة غير مضبوطة أو <c>null</c>. |
-| [get_values(values, default_value)](#get_values_values_default_value_4) | يرجع القيم لجميع السمات في مصفوفة. |
-| [get_values(values_count, default_value)](#get_values_values_count_default_value_5) | يرجع القيم لجميع السمات في مصفوفة. |
-| [get_values_dump(default_value)](#get_values_dump_default_value_6) | يرجع القيم لجميع السمات في مصفوفة.<br/>            يُنصح باستخدام طريقة Aspose.Gis.Feature.GetValues(int,System.Object) لتجنب تخصيص الذاكرة الإضافي. |
+| [copy_values(input_feature)](#copy_values_input_feature_1) | ينسخ قيم الخصائص من عنصر آخر. |
+| [get_value(attribute_name)](#get_value_attribute_name_2) | يحصل على قيمة الخاصية. |
+| [get_value_or_default(attribute_name, default_value)](#get_value_or_default_attribute_name_default_value_3) | يحصل على قيمة الخاصية، أو [FeatureAttribute.default_value](/psd/python-net/aspose.gis/featureattribute/) إذا كانت القيمة غير مضبوطة أو <c>null</c>. |
+| [get_values(values, default_value)](#get_values_values_default_value_4) | يعيد القيم لجميع الخصائص في مصفوفة. |
+| [get_values(values_count, default_value)](#get_values_values_count_default_value_5) | يعيد القيم لجميع الخصائص في مصفوفة. |
+| [get_values_dump(default_value)](#get_values_dump_default_value_6) | يعيد القيم لجميع الخصائص في مصفوفة.<br/>            يُنصح باستخدام طريقة Aspose.Gis.Feature.GetValues(int,System.Object) لتجنب تخصيص الذاكرة الإضافي. |
 | [get_values_list(attribute_name, separator, count)](#get_values_list_attribute_name_separator_count_7) | يحصل على قائمة القيم. نظير غير عام لـ List T GetValuesList |
 | [is_value_null(attribute_name)](#is_value_null_attribute_name_8) | يحدد ما إذا كان السمة المحددة قد تم تعيينها صراحةً إلى القيمة <c>null</c>. |
 | [is_value_set(attribute_name)](#is_value_set_attribute_name_9) | يتحقق مما إذا كانت قيمة السمة مضبوطة في هذه الميزة. |
 | [set_value(attribute_name, value)](#set_value_attribute_name_value_10) | يضبط القيمة. نظير غير عام لـ void SetValue (string attributeName, T value) |
 | [set_value_null(attribute_name)](#set_value_null_attribute_name_11) | يضبط قيمة السمة إلى <c>null</c>. |
-| [set_values(values)](#set_values_values_12) | يضبط قيمًا جديدة لجميع السمات.<br/>            كما يُنصح باستخدام طريقة [Feature.copy_values(input_feature)](/psd/python-net/aspose.gis/feature/) لتبسيط تعيين القيم في استدعاء واحد. |
+| [set_values(values)](#set_values_values_12) | يضبط قيمًا جديدة لجميع السمات.<br/>            كما يُنصح باستخدام طريقة [Feature.copy_values(input_feature)](/psd/python-net/aspose.gis/feature/) لتبسيط ضبط القيم في استدعاء واحد. |
 | [unset_value(attribute_name)](#unset_value_attribute_name_13) | يزيل قيمة السمة من هذه الميزة. |
 
 
@@ -42,13 +42,13 @@ url: /ar/python-net/aspose.gis/feature/
  copy_values(input_feature) 
 ```
 
-ينسخ قيم السمات من عنصر آخر.
+ينسخ قيم الخصائص من عنصر آخر.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| input_feature | [Feature](/psd/python-net/aspose.gis/feature) | الميزة التي تُنسخ القيم منها. |
+| input_feature | [Feature](/psd/python-net/aspose.gis/feature) | الميزة التي يتم نسخ القيم منها. |
 
 ### Method: get_value(attribute_name) {#get_value_attribute_name_2}
 
@@ -57,17 +57,17 @@ url: /ar/python-net/aspose.gis/feature/
  get_value(attribute_name) 
 ```
 
-يحصل على قيمة سمة.
+يحصل على قيمة الخاصية.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | object | قيمة السمة. |
 
@@ -79,18 +79,18 @@ url: /ar/python-net/aspose.gis/feature/
  get_value_or_default(attribute_name, default_value) 
 ```
 
-يحصل على قيمة سمة، أو [FeatureAttribute.default_value](/psd/python-net/aspose.gis/featureattribute/) إذا كانت القيمة غير مضبوطة أو <c>null</c>.
+يحصل على قيمة الخاصية، أو [FeatureAttribute.default_value](/psd/python-net/aspose.gis/featureattribute/) إذا كانت القيمة غير مضبوطة أو <c>null</c>.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
 | default_value | object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة. القيمة الافتراضية هي <see langword="null" />. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | object | قيمة السمة. |
 
@@ -102,20 +102,20 @@ url: /ar/python-net/aspose.gis/feature/
  get_values(values, default_value) 
 ```
 
-يرجع القيم لجميع السمات في مصفوفة.
+يعيد القيم لجميع الخصائص في مصفوفة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| القيم | object |  |
-| default_value | object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة (غير مضبوطة). القيمة الافتراضية هي <see langword="null" />.<br/>            يُنصح باستخدام '.Value' للفصل بين القيم 'غير المضبوطة' و '<see langword="null" />'. |
+| values | object |  |
+| default_value | object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة (غير مضبوطة). القيمة الافتراضية هي <see langword="null" />.<br/>            يُنصح باستخدام '.Value' للتمييز بين القيم 'غير المضبوطة' و '<see langword="null" />'. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| int | عدد من السمات تم نسخها. |
+| int | عدد السمات التي تم نسخها. |
 
 
 ### Method: get_values(values_count, default_value) {#get_values_values_count_default_value_5}
@@ -125,20 +125,20 @@ url: /ar/python-net/aspose.gis/feature/
  get_values(values_count, default_value) 
 ```
 
-يرجع القيم لجميع السمات في مصفوفة.
+يعيد القيم لجميع الخصائص في مصفوفة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | values_count | int | عدد القيم. |
-| default_value | object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة (غير مضبوطة). القيمة الافتراضية هي <see langword="null" />.<br/>            يُنصح باستخدام '.Value' للفصل بين القيم 'غير المضبوطة' و '<see langword="null" />'. |
+| default_value | object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة (غير مضبوطة). القيمة الافتراضية هي <see langword="null" />.<br/>            يُنصح باستخدام '.Value' للتمييز بين القيم 'غير المضبوطة' و '<see langword="null" />'. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| object | عدد من السمات تم نسخها. |
+| object | عدد السمات التي تم نسخها. |
 
 
 ### Method: get_values_dump(default_value) {#get_values_dump_default_value_6}
@@ -148,17 +148,17 @@ url: /ar/python-net/aspose.gis/feature/
  get_values_dump(default_value) 
 ```
 
-يرجع القيم لجميع السمات في مصفوفة.<br/>            يُنصح باستخدام طريقة Aspose.Gis.Feature.GetValues(int,System.Object) لتجنب تخصيص الذاكرة الإضافي.
+يعيد القيم لجميع الخصائص في مصفوفة.<br/>            يُنصح باستخدام طريقة Aspose.Gis.Feature.GetValues(int,System.Object) لتجنب تخصيص الذاكرة الإضافي.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| default_value | object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة (غير مضبوطة). القيمة الافتراضية هي <see langword="null" />.<br/>            يُنصح باستخدام '.Value' للفصل بين القيم 'غير المضبوطة' و '<see langword="null" />'. |
+| default_value | object | القيمة التي تُرجع إذا كانت قيمة السمة مفقودة (غير مضبوطة). القيمة الافتراضية هي <see langword="null" />.<br/>            يُنصح باستخدام '.Value' للتمييز بين القيم 'غير المضبوطة' و '<see langword="null" />'. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | object | مصفوفة جديدة تُنسخ إليها قيم السمات. |
 
@@ -174,17 +174,17 @@ url: /ar/python-net/aspose.gis/feature/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
-| فاصل | string | سلسلة تُستخدم لفصل اسم السمة وقيمة الفهرس في التسلسل. |
-| عدد | int | عدد القيم التي تُرجع (القيمة المفقودة تُملأ كـ null) |
+| separator | string | سلسلة تُستخدم لفصل اسم السمة وقيمة الفهرس في التسلسل. |
+| العدد | int | عدد القيم التي تُرجع (القيمة المفقودة تُملأ كـ null) |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| object | قائمة قيم السمات التي تختلف أسماؤها حسب قيمة فهرس التسلسل. |
+| object | قائمة القيم للسمات التي تختلف أسماؤها حسب قيمة فهرس التسلسل. |
 
 
 ### Method: is_value_null(attribute_name) {#is_value_null_attribute_name_8}
@@ -198,13 +198,13 @@ url: /ar/python-net/aspose.gis/feature/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | <see langword="true" /> إذا كانت قيمة السمة <c>null</c>; وإلا، <see langword="false" />. |
 
@@ -220,15 +220,15 @@ url: /ar/python-net/aspose.gis/feature/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا تم ضبط قيمة السمة المحددة; وإلا، <see langword="false" />. |
+| bool | <see langword="true" /> إذا تم تعيين قيمة السمة المحددة; وإلا، <see langword="false" />. |
 
 
 ### Method: set_value(attribute_name, value) {#set_value_attribute_name_value_10}
@@ -242,7 +242,7 @@ url: /ar/python-net/aspose.gis/feature/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
 | القيمة | object | قيمة السمة. |
@@ -258,7 +258,7 @@ url: /ar/python-net/aspose.gis/feature/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
 
@@ -269,17 +269,17 @@ url: /ar/python-net/aspose.gis/feature/
  set_values(values) 
 ```
 
-يضبط قيمًا جديدة لجميع السمات.<br/>            كما يُنصح باستخدام طريقة [Feature.copy_values(input_feature)](/psd/python-net/aspose.gis/feature/) لتبسيط تعيين القيم في استدعاء واحد.
+يضبط قيمًا جديدة لجميع السمات.<br/>            كما يُنصح باستخدام طريقة [Feature.copy_values(input_feature)](/psd/python-net/aspose.gis/feature/) لتبسيط ضبط القيم في استدعاء واحد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| القيم | object | المصفوفة الجديدة للقيم. |
+| values | object | المصفوفة التي تحتوي على القيم الجديدة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int | عدد قيم السمة المحددة. |
 
@@ -295,7 +295,7 @@ url: /ar/python-net/aspose.gis/feature/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | اسم السمة. |
 

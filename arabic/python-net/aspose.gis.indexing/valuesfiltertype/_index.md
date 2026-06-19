@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.indexing/valuesfiltertype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | EQUAL |  |
 | GREATER |  |

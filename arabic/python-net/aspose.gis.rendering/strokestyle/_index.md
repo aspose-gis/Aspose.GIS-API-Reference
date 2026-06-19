@@ -5,7 +5,7 @@ weight: 500
 url: /ar/python-net/aspose.gis.rendering/strokestyle/
 ---
 
-يحدد نمط الضربة.
+يحدد نمط الخط.
 
 **Module:** [aspose.gis.rendering](/psd/python-net/aspose.gis.rendering/)
 
@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.rendering/strokestyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| مخصص | خط بنمط شرطة مخصص. |
+| CUSTOM | خط بنمط شرطة مخصص. |
 | DASH | يحدد خطًا متقطعًا. |
 | DASH_DOT | يحدد نقاطًا وخطوطًا متناوبة. |
-| DASH_DOT_DOT | يحدد خطًا بنقطة-نقطتين متقطعة. |
+| DASH_DOT_DOT | يحدد خطًا بنمط شرطة-نقطة-نقطة. |
 | DOT | يحدد خطًا منقّطًا. |
-| لا شيء | يحدد أنه لا يجب رسم أي خط. |
-| SOLID | يحدد خطًا صلبًا. |
+| بدون | يحدد أنه لا يجب رسم أي خط. |
+| SOLID | يحدد خطًا عاديًا. |

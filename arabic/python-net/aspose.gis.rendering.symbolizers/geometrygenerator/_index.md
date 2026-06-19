@@ -1,5 +1,5 @@
 ---
-title: "GeometryGenerator الفئة"
+title: "GeometryGenerator فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.rendering.symbolizers/geometrygenerator/
@@ -16,14 +16,14 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/geometrygenerator/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GeometryGenerator()](#GeometryGenerator__1) | يُنشئ مثيلاً جديدًا لفئة GeometryGenerator |
+| [GeometryGenerator()](#GeometryGenerator__1) | يقوم بإنشاء نسخة جديدة من الفئة GeometryGenerator |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) بعدم رسم أي شيء ويتخطى فعلياً رسم الهندسة التي يُطبق عليها. |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | يحدد مُرمِّزًا لتطبيقه على الهندسة المعدلة.<br/>            الافتراضي هو <see langword="NullVectorSymbolizer" />. |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) برسم لا شيء ويتخطى فعليًا رسم الهندسة التي يُطبق عليها. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | يحدد مُرمّزًا لتطبيقه على الهندسة المعدلة.<br/>            الافتراضي هو <see langword=\"NullVectorSymbolizer\" />. |
 
 
 ### Constructor: GeometryGenerator() {#GeometryGenerator__1}
@@ -33,5 +33,5 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/geometrygenerator/
  GeometryGenerator() 
 ```
 
-يُنشئ مثيلاً جديدًا لفئة GeometryGenerator
+يقوم بإنشاء نسخة جديدة من الفئة GeometryGenerator
 

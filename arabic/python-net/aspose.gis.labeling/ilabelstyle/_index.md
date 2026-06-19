@@ -1,5 +1,5 @@
 ---
-title: "ILabelStyle فئة"
+title: "فئة ILabelStyle"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.labeling/ilabelstyle/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.labeling/ilabelstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [measure_text(text)](#measure_text_text_1) |    |
 | [measure_text_characters(text)](#measure_text_characters_text_2) |    |
@@ -31,13 +31,13 @@ url: /ar/python-net/aspose.gis.labeling/ilabelstyle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Size](/psd/python-net/aspose.gis.common/size/) |  |
 
@@ -53,13 +53,13 @@ url: /ar/python-net/aspose.gis.labeling/ilabelstyle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.List<Aspose.Gis.Common.Size> |  |
 

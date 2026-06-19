@@ -1,5 +1,5 @@
 ---
-title: "فئة VectorMapLayer"
+title: "الفئة VectorMapLayer"
 type: docs
 weight: 390
 url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
@@ -16,28 +16,28 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [VectorMapLayer(features_sequence)](#VectorMapLayer_features_sequence_1) | ينشئ نسخة جديدة مع المُرمّز الافتراضي. |
 | [VectorMapLayer(features_sequence, symbolizer)](#VectorMapLayer_features_sequence_symbolizer_2) | ينشئ نسخة جديدة مع المُرمّز الافتراضي. |
 | [VectorMapLayer(features_sequence, symbolizer, labeling, default_reference_system)](#VectorMapLayer_features_sequence_symbolizer_labeling_default_reference_system_3) | ينشئ نسخة جديدة مع المُرمّز الافتراضي. |
 | [VectorMapLayer(layer, keep_open)](#VectorMapLayer_layer_keep_open_4) | ينشئ نسخة جديدة مع المُرمّز الافتراضي. |
-| [VectorMapLayer(layer, symbolizer, keep_open)](#VectorMapLayer_layer_symbolizer_keep_open_5) | ينشئ نسخة جديدة. |
-| [VectorMapLayer(layer, symbolizer, labeling, default_reference_system, keep_open)](#VectorMapLayer_layer_symbolizer_labeling_default_reference_system_keep_open_6) | ينشئ نسخة جديدة. |
-| [VectorMapLayer(layer, symbolizer, labeling, keep_open)](#VectorMapLayer_layer_symbolizer_labeling_keep_open_7) | ينشئ نسخة جديدة. |
+| [VectorMapLayer(layer, symbolizer, keep_open)](#VectorMapLayer_layer_symbolizer_keep_open_5) | ينشئ مثلاً جديداً. |
+| [VectorMapLayer(layer, symbolizer, labeling, default_reference_system, keep_open)](#VectorMapLayer_layer_symbolizer_labeling_default_reference_system_keep_open_6) | ينشئ مثلاً جديداً. |
+| [VectorMapLayer(layer, symbolizer, labeling, keep_open)](#VectorMapLayer_layer_symbolizer_labeling_keep_open_7) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | r | تسلسل الميزات الممثلة بواسطة هذا <c>VectorMapLayer</c>. |
+| features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | r | تسلسل الميزات المُمثل بواسطة هذا <c>VectorMapLayer</c>. |
 | labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling/) | r/w | يحدد خيارات الالتواء لطبقة الخريطة. |
-| opacity | double | r/w | شفافية الطبقة. |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | r/w | المُرمّز لاستخدامه في عرض ميزات الطبقة. |
+| opacity | double | قراءة/كتابة | شفافية الطبقة. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | r/w | المُرمّز لاستخدامه لتصيير ميزات الطبقة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [import_sld(path, options)](#import_sld_path_options_1) | يستورد النمط من ملف وصف الطبقة المُنسق الموجود في المسار المحدد. |
-| [import_sld(path, options)](#import_sld_path_options_2) | يستورد النمط من ملف وصف الطبقة المُنسق الموجود في المسار المحدد. |
-| [import_sld_from_string(sld, options)](#import_sld_from_string_sld_options_3) | يستورد النمط من سلسلة وصف الطبقة المُنسقة المحددة. |
+| [import_sld(path, options)](#import_sld_path_options_1) | يستورد النمط من ملف وصف الطبقة المُنسَّق الموجود في المسار المحدد. |
+| [import_sld(path, options)](#import_sld_path_options_2) | يستورد النمط من ملف وصف الطبقة المُنسَّق الموجود في المسار المحدد. |
+| [import_sld_from_string(sld, options)](#import_sld_from_string_sld_options_3) | يستورد النمط من سلسلة وصف الطبقة المُنسَّقة المحددة. |
 
 
 ### Constructor: VectorMapLayer(features_sequence) {#VectorMapLayer_features_sequence_1}
@@ -51,7 +51,7 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | تسلسل الميزات. |
 
@@ -66,10 +66,10 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | تسلسل الميزات. |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه في عرض الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه لتصيير الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
 
 ### Constructor: VectorMapLayer(features_sequence, symbolizer, labeling, default_reference_system) {#VectorMapLayer_features_sequence_symbolizer_labeling_default_reference_system_3}
 
@@ -82,12 +82,12 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | تسلسل الميزات. |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه في عرض الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه لتصيير الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
 | labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling/) | التسمية لاستخدامها لتسمية الميزات في الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/) الافتراضي. |
-| default_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | يحدد قيمة للمرجع المكاني المصدر (الطبقة\\التسلسل) إذا كانت مفقودة. سيتم استخدام القيمة الافتراضية null. |
+| default_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | يحدد قيمة لمرجع الفضاء المصدر (الطبقة\\التسلسل) إذا كان مفقودًا. سيتم استخدام null افتراضيًا. |
 
 ### Constructor: VectorMapLayer(layer, keep_open) {#VectorMapLayer_layer_keep_open_4}
 
@@ -100,10 +100,10 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة متجهة. |
-| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/)؛ وإلا، <see langword=\"false\" />. |
+| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/); وإلا، <see langword=\"false\" />. |
 
 ### Constructor: VectorMapLayer(layer, symbolizer, keep_open) {#VectorMapLayer_layer_symbolizer_keep_open_5}
 
@@ -112,15 +112,15 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
  VectorMapLayer(layer, symbolizer, keep_open) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة متجهة. |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه في عرض الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
-| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/)؛ وإلا، <see langword=\"false\" />. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه لتصيير الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
+| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/); وإلا، <see langword=\"false\" />. |
 
 ### Constructor: VectorMapLayer(layer, symbolizer, labeling, default_reference_system, keep_open) {#VectorMapLayer_layer_symbolizer_labeling_default_reference_system_keep_open_6}
 
@@ -129,17 +129,17 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
  VectorMapLayer(layer, symbolizer, labeling, default_reference_system, keep_open) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة متجهة. |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه في عرض الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه لتصيير الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
 | labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling/) | التسمية لاستخدامها لتسمية الميزات في الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/) الافتراضي. |
-| default_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | يحدد قيمة للمرجع المكاني المصدر (الطبقة\\التسلسل) إذا كانت مفقودة. سيتم استخدام القيمة الافتراضية null. |
-| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/)؛ وإلا، <see langword=\"false\" />. |
+| default_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | يحدد قيمة لمرجع الفضاء المصدر (الطبقة\\التسلسل) إذا كان مفقودًا. سيتم استخدام null افتراضيًا. |
+| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/); وإلا، <see langword=\"false\" />. |
 
 ### Constructor: VectorMapLayer(layer, symbolizer, labeling, keep_open) {#VectorMapLayer_layer_symbolizer_labeling_keep_open_7}
 
@@ -148,16 +148,16 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
  VectorMapLayer(layer, symbolizer, labeling, keep_open) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة متجهة. |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه في عرض الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | المُرمّز لاستخدامه لتصيير الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام المُرمّز الافتراضي. |
 | labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling/) | التسمية لاستخدامها لتسمية الميزات في الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/) الافتراضي. |
-| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/)؛ وإلا، <see langword=\"false\" />. |
+| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/); وإلا، <see langword=\"false\" />. |
 
 ### Method: import_sld(path, options) {#import_sld_path_options_1}
 
@@ -166,13 +166,13 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
  import_sld(path, options) 
 ```
 
-يستورد النمط من ملف وصف الطبقة المُنسق الموجود في المسار المحدد.
+يستورد النمط من ملف وصف الطبقة المُنسَّق الموجود في المسار المحدد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى ملف وصف الطبقة المُنسق. |
+| path | string | المسار إلى ملف وصف الطبقة المُنسَّق. |
 | options | [SldImportOptions](/psd/python-net/aspose.gis.rendering.sld/sldimportoptions/) | خيارات الاستيراد. |
 
 ### Method: import_sld(path, options) {#import_sld_path_options_2}
@@ -182,13 +182,13 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
  import_sld(path, options) 
 ```
 
-يستورد النمط من ملف وصف الطبقة المُنسق الموجود في المسار المحدد.
+يستورد النمط من ملف وصف الطبقة المُنسَّق الموجود في المسار المحدد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى ملف وصف الطبقة المُنسق. |
+| path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى ملف وصف الطبقة المُنسَّق. |
 | options | [SldImportOptions](/psd/python-net/aspose.gis.rendering.sld/sldimportoptions/) | خيارات الاستيراد. |
 
 ### Method: import_sld_from_string(sld, options) {#import_sld_from_string_sld_options_3}
@@ -198,11 +198,11 @@ url: /ar/python-net/aspose.gis.rendering/vectormaplayer/
  import_sld_from_string(sld, options) 
 ```
 
-يستورد النمط من سلسلة وصف الطبقة المُنسقة المحددة.
+يستورد النمط من سلسلة وصف الطبقة المُنسَّقة المحددة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | sld | string | وصف الطبقة المنسقة. |
 | options | [SldImportOptions](/psd/python-net/aspose.gis.rendering.sld/sldimportoptions/) | خيارات الاستيراد. |

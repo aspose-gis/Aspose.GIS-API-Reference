@@ -14,19 +14,19 @@ url: /ar/python-net/aspose.gis.geotools/linegeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [LineGeneratorOptions()](#LineGeneratorOptions__1) | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
+| [LineGeneratorOptions()](#LineGeneratorOptions__1) | إنشاء مثيل مع حقول التهيئة بشكل افتراضي. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| عدد | int | r/w | عدد الخطوط لإنشائها. |
-| place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | وضعية التوزيع في الخلايا المُولدة. |
-| seed | int | r/w | رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة. |
+| العدد | int | قراءة/كتابة | عدد الخطوط التي سيتم إنشاؤها. |
+| place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | وضع التوضع في الخلايا المُولدة. |
+| seed | int | قراءة/كتابة | رقم يُستخدم لحساب قيمة البذرة لتسلسل من الأعداد العشوائية الزائفة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | استنساخ الكائن إلى آخر. |
+| [clone()](#clone__1) | استنساخ الكائن إلى كائن آخر. |
 
 
 ### Constructor: LineGeneratorOptions() {#LineGeneratorOptions__1}
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.geotools/linegeneratoroptions/
  LineGeneratorOptions() 
 ```
 
-إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
+إنشاء مثيل مع حقول التهيئة بشكل افتراضي.
 
 ### Method: clone() {#clone__1}
 
@@ -45,11 +45,11 @@ url: /ar/python-net/aspose.gis.geotools/linegeneratoroptions/
  clone() 
 ```
 
-استنساخ الكائن إلى آخر.
+استنساخ الكائن إلى كائن آخر.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [LineGeneratorOptions](/psd/python-net/aspose.gis.geotools/linegeneratoroptions) | استنساخ الكائن إلى آخر [LineGeneratorOptions](/psd/python-net/aspose.gis.geotools/linegeneratoroptions/). |
 

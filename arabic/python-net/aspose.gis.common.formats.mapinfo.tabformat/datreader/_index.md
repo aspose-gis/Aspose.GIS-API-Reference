@@ -1,5 +1,5 @@
 ---
-title: "DatReader فئة"
+title: "فئة DatReader"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
@@ -16,7 +16,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [open_dbf(path, encoding, columns)](#open_dbf_path_encoding_columns_1) |    |
 | [open_dbf(path, encoding, columns)](#open_dbf_path_encoding_columns_2) |    |
@@ -35,15 +35,15 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 | الترميز | System.Text.Encoding |  |
 | الأعمدة | System.Collections.Generic.IReadOnlyList<Column> |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatReader](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader) |  |
 
@@ -59,7 +59,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | الترميز | System.Text.Encoding |  |
@@ -67,7 +67,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatReader](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader) |  |
 
@@ -83,15 +83,15 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 | الترميز | System.Text.Encoding |  |
 | الأعمدة | System.Collections.Generic.IReadOnlyList<Column> |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatReader](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader) |  |
 
@@ -107,7 +107,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | الترميز | System.Text.Encoding |  |
@@ -115,7 +115,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatReader](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader) |  |
 

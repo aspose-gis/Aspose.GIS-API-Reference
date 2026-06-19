@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmldisplaymodes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| إخفاء | يحدد إخفاء العنصر. |
-| إظهار | يحدد إظهار العنصر (المعروف باسم 'default' في مواصفة kml). |
+| HIDE | يحدد إخفاء العنصر. |
+| SHOW | يحدد إظهار العنصر (المعروف باسم 'default' في مواصفة kml). |

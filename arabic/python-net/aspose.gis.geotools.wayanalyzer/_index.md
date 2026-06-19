@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) | مولّد طبقات الطرق |
+| [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) | مولد طبقات الطرق |
 | [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/) | خيارات للعثور على طريق على الخريطة |

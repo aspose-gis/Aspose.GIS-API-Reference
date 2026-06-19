@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.formats.pngw/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [PngWDriver](/psd/python-net/aspose.gis.formats.pngw/pngwdriver/) | برنامج تشغيل لتنسيق PngW النقطي. |

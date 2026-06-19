@@ -16,14 +16,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| can_create_datasets | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه إنشاء مجموعات البيانات. |
-| can_create_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه إنشاء طبقات المتجهات. |
-| can_open_datasets | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح مجموعات البيانات. |
-| can_open_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات المتجهات. |
+| can_create_datasets | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا المشغل يمكنه إنشاء مجموعات البيانات. |
+| can_create_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا المشغل يمكنه إنشاء طبقات المتجهات. |
+| can_open_datasets | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا المشغل يمكنه فتح مجموعات البيانات. |
+| can_open_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا المشغل يمكنه فتح طبقات المتجهات. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create_dataset(path)](#create_dataset_path_1) | ينشئ مجموعة بيانات. |
 | [create_dataset(path)](#create_dataset_path_2) | ينشئ مجموعة بيانات. |
@@ -33,8 +33,8 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 | [create_layer(path)](#create_layer_path_6) | ينشئ الطبقة ويفتحها للإلحاق. |
 | [create_layer(path, options)](#create_layer_path_options_7) | ينشئ الطبقة ويفتحها للإلحاق. |
 | [create_layer(path, options)](#create_layer_path_options_8) | ينشئ الطبقة ويفتحها للإلحاق. |
-| [create_layer(path, options, spatial_reference_system)](#create_layer_path_options_spatial_reference_system_9) | يقوم بإنشاء طبقة ويفتحها لإضافة ميزات جديدة. |
-| [create_layer(path, options, spatial_reference_system)](#create_layer_path_options_spatial_reference_system_10) | يقوم بإنشاء طبقة ويفتحها لإضافة ميزات جديدة. |
+| [create_layer(path, options, spatial_reference_system)](#create_layer_path_options_spatial_reference_system_9) | ينشئ طبقة ويفتحها لإضافة ميزات جديدة. |
+| [create_layer(path, options, spatial_reference_system)](#create_layer_path_options_spatial_reference_system_10) | ينشئ طبقة ويفتحها لإضافة ميزات جديدة. |
 | [create_layer(path, spatial_reference_system)](#create_layer_path_spatial_reference_system_11) | ينشئ الطبقة ويفتحها للإلحاق. |
 | [create_layer(path, spatial_reference_system)](#create_layer_path_spatial_reference_system_12) | ينشئ الطبقة ويفتحها للإلحاق. |
 | [edit_layer(path, options)](#edit_layer_path_options_13) | يفتح طبقة للتحرير. |
@@ -62,13 +62,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -84,13 +84,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -106,14 +106,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -129,14 +129,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -152,13 +152,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -174,13 +174,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -196,14 +196,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -219,14 +219,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -238,11 +238,11 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
  create_layer(path, options, spatial_reference_system) 
 ```
 
-يقوم بإنشاء طبقة ويفتحها لإضافة ميزات جديدة.
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
@@ -250,7 +250,7 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -262,19 +262,19 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
  create_layer(path, options, spatial_reference_system) 
 ```
 
-يقوم بإنشاء طبقة ويفتحها لإضافة ميزات جديدة.
+ينشئ طبقة ويفتحها لإضافة ميزات جديدة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -290,14 +290,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -313,14 +313,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -336,14 +336,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -359,14 +359,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -382,13 +382,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -404,13 +404,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -426,14 +426,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -449,14 +449,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -472,13 +472,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -494,13 +494,13 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -516,14 +516,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [GdalOptions](/psd/python-net/aspose.gis.formats.gdal/gdaloptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -539,14 +539,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -562,14 +562,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | مثال على [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
 
@@ -585,14 +585,14 @@ url: /ar/python-net/aspose.gis.formats.gdal/gdaldriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | قيمة منطقية، تشير إلى ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل السائق. |
+| bool | قيمة منطقية تشير إلى ما إذا كان نظام الإسناد المكاني المحدد مدعومًا من قبل السائق. |
 
 

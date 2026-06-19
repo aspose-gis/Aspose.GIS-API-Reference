@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbmultipointshape/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbMultiPointShape()](#GdbMultiPointShape__1) | يُنشئ مثلاً جديداً من الفئة GdbMultiPointShape |
+| [GdbMultiPointShape()](#GdbMultiPointShape__1) | يقوم بتهيئة نسخة جديدة من الفئة GdbMultiPointShape |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r/w |    |
 | has_m | bool | r |  |
 | has_z | bool | r |  |
-| m | double | r/w |  |
+| m | double | قراءة/كتابة |  |
 | xy | [Coordinate[]](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
-| z | double | r/w |  |
+| z | double | قراءة/كتابة |  |
 
 
 ### Constructor: GdbMultiPointShape() {#GdbMultiPointShape__1}
@@ -37,5 +37,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbmultipointshape/
  GdbMultiPointShape() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة GdbMultiPointShape
+يقوم بتهيئة نسخة جديدة من الفئة GdbMultiPointShape
 

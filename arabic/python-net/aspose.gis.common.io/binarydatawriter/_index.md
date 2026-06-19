@@ -1,5 +1,5 @@
 ---
-title: "BinaryDataWriter الفئة"
+title: "BinaryDataWriter فئة"
 type: docs
 weight: 20
 url: /ar/python-net/aspose.gis.common.io/binarydatawriter/
@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.io/binarydatawriter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | base_stream | _io.BufferedRandom | r |  |
 | is_little_endian | bool | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [big_endian(output, leave_open)](#big_endian_output_leave_open_1) |    |
 | [little_endian(output, leave_open)](#little_endian_output_leave_open_2) |    |
@@ -47,14 +47,14 @@ url: /ar/python-net/aspose.gis.common.io/binarydatawriter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| الإخراج | _io.BufferedRandom |  |
+| output | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BinaryDataWriter](/psd/python-net/aspose.gis.common.io/binarydatawriter) |  |
 
@@ -70,14 +70,14 @@ url: /ar/python-net/aspose.gis.common.io/binarydatawriter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| الإخراج | _io.BufferedRandom |  |
+| output | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BinaryDataWriter](/psd/python-net/aspose.gis.common.io/binarydatawriter) |  |
 

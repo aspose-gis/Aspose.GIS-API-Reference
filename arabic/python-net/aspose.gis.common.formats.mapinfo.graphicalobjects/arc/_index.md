@@ -16,20 +16,20 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Arc()](#Arc__1) | يقوم بإنشاء نسخة جديدة من الفئة Arc |
+| [Arc()](#Arc__1) | يقوم بإنشاء نسخة جديدة من فئة Arc |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | ellipse_coordinate1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | ellipse_coordinate2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
-| زاوية_النهاية | double | r/w |  |
+| end_angle | double | قراءة/كتابة |  |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
-| قلم | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
-| زاوية_البداية | double | r/w |  |
+| pen | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | قراءة/كتابة |  |
+| start_angle | double | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -41,7 +41,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
  Arc() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة Arc
+يقوم بإنشاء نسخة جديدة من فئة Arc
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -54,7 +54,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

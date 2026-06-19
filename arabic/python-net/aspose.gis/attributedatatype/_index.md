@@ -5,7 +5,7 @@ weight: 4420
 url: /ar/python-net/aspose.gis/attributedatatype/
 ---
 
-نوع البيانات لخاصية الميزة.
+نوع البيانات لسمة الميزة.
 
 **Module:** [aspose.gis](/psd/python-net/aspose.gis/)
 
@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis/attributedatatype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| BOOLEAN | قيمة Boolean (صحيح/خطأ). |
-| DATE | قيمة التاريخ. |
-| DATE_TIME | قيمة التاريخ والوقت. |
+| BOOLEAN | قيمة منطقية (true/false). |
+| DATE | قيمة تاريخ. |
+| DATE_TIME | قيمة تاريخ ووقت. |
 | DOUBLE | عدد حقيقي بدقة مزدوجة. |
-| GUID | معرف فريد عالميًا (GUID). |
-| INTEGER | عدد صحيح 32-بت. |
-| LONG | عدد صحيح 64-بت. |
-| STRING | قيمة سلسلة. |
-| TIME | قيمة الوقت. |
+| GUID | معرّف فريد عالميًا (GUID). |
+| عدد صحيح | عدد صحيح 32-بت. |
+| طويل | عدد صحيح 64-بت. |
+| سلسلة | قيمة السلسلة. |
+| وقت | قيمة الوقت. |

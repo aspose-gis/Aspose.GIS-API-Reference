@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.geotools/simplifysegmentsoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SimplifySegmentsOptions()](#SimplifySegmentsOptions__1) | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
+| [SimplifySegmentsOptions()](#SimplifySegmentsOptions__1) | إنشاء مثيل مع حقول التهيئة بشكل افتراضي. |
 | [SimplifySegmentsOptions(source)](#SimplifySegmentsOptions_source_2) | إنشاء نسخة من المثيل [SimplifySegmentsOptions](/psd/python-net/aspose.gis.geotools/simplifysegmentsoptions/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| المسافة | double | r/w | معامل للتحقق ما إذا كانت النقطة قريبة من مقطع الخط. القيمة الافتراضية هي 0. |
+| distance | double | قراءة/كتابة | معامل للتحقق هو أن النقطة قريبة من مقطع الخط. القيمة الافتراضية هي 0. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | إنشاء نسخة من الكائن. |
 
@@ -35,7 +35,7 @@ url: /ar/python-net/aspose.gis.geotools/simplifysegmentsoptions/
  SimplifySegmentsOptions() 
 ```
 
-إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
+إنشاء مثيل مع حقول التهيئة بشكل افتراضي.
 
 ### Constructor: SimplifySegmentsOptions(source) {#SimplifySegmentsOptions_source_2}
 
@@ -48,7 +48,7 @@ url: /ar/python-net/aspose.gis.geotools/simplifysegmentsoptions/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | source | [SimplifySegmentsOptions](/psd/python-net/aspose.gis.geotools/simplifysegmentsoptions) | الكائن المصدر. |
 
@@ -63,7 +63,7 @@ url: /ar/python-net/aspose.gis.geotools/simplifysegmentsoptions/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [SimplifySegmentsOptions](/psd/python-net/aspose.gis.geotools/simplifysegmentsoptions) | نسخة الخيارات. |
 

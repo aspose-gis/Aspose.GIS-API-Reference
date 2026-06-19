@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternalextensions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create_or_open(path, created)](#create_or_open_path_created_1) |    |
 
@@ -30,14 +30,14 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternalextensions/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | تم الإنشاء | Boolean |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | _io.BufferedRandom |  |
 

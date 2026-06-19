@@ -9,8 +9,8 @@ url: /ar/python-net/aspose.gis.formats.filegdb/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [FileGdbCoordinatePrecisionGrid](/psd/python-net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/) | شبكة دقة إحداثيات داخل طبقة FileGDB. |
-| [FileGdbDriver](/psd/python-net/aspose.gis.formats.filegdb/filegdbdriver/) | برنامج تشغيل لتنسيق قاعدة بيانات ESRI File Geodatabase. |
-| [FileGdbOptions](/psd/python-net/aspose.gis.formats.filegdb/filegdboptions/) | خيارات خاصة بالبرنامج لتنسيق FileGDB. |
+| [FileGdbCoordinatePrecisionGrid](/psd/python-net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/) | شبكة دقة إحداثية داخل طبقة FileGDB. |
+| [FileGdbDriver](/psd/python-net/aspose.gis.formats.filegdb/filegdbdriver/) | برنامج تشغيل لتنسيق ESRI File Geodatabase. |
+| [FileGdbOptions](/psd/python-net/aspose.gis.formats.filegdb/filegdboptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق FileGDB. |

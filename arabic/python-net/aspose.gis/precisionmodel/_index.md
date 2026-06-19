@@ -1,5 +1,5 @@
 ---
-title: "الفئة PrecisionModel"
+title: "PrecisionModel Class"
 type: docs
 weight: 3200
 url: /ar/python-net/aspose.gis/precisionmodel/
@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis/precisionmodel/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| exact [static] | [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel) | r | يعيد نموذج دقة دقيق.<br/>            وفقًا لنموذج الدقة الدقيق جميع الأرقام في قيمة مزدوجة تعتبر ذات أهمية. |
+| exact [static] | [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel) | r | يرجع نموذج دقة دقيق.<br/>            وفقًا لنموذج الدقة الدقيق جميع الأرقام في قيمة مزدوجة ذات أهمية. |
 | is_exact | bool | r | يحصل على قيمة تشير إلى ما إذا كان نموذج الدقة هذا دقيقًا. |
-| is_rounding | bool | r | يحصل على قيمة تشير إلى ما إذا كان نموذج الدقة هذا يستخدم التقريب. |
-| significant_digits | int | r | يحصل على عدد الأرقام ذات الأهمية في نموذج الدقة إذا كان يستخدم التقريب. |
+| is_rounding | bool | r | يحصل على قيمة تشير إلى ما إذا كان نموذج الدقة هذا يقوم بالتقريب. |
+| significant_digits | int | r | يحصل على عدد الأرقام ذات الأهمية في نموذج الدقة إذا كان يقوم بالتقريب. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [rounding(significant_digits)](#rounding_significant_digits_1) | يعيد نموذج دقة تقريبي.<br/>            وفقًا لنموذج الدقة التقريبي يتم اعتبار عدد محدود فقط من الأرقام ذات أهمية. |
+| [rounding(significant_digits)](#rounding_significant_digits_1) | يرجع نموذج دقة تقريبي.<br/>            وفقًا لنموذج الدقة التقريبي عدد محدود فقط من الأرقام ذات الأهمية. |
 
 
 ### Method: rounding(significant_digits)  [static] {#rounding_significant_digits_1}
@@ -33,18 +33,18 @@ url: /ar/python-net/aspose.gis/precisionmodel/
  rounding(significant_digits) 
 ```
 
-يعيد نموذج دقة تقريبي.<br/>            وفقًا لنموذج الدقة التقريبي يتم اعتبار عدد محدود فقط من الأرقام ذات أهمية.
+يرجع نموذج دقة تقريبي.<br/>            وفقًا لنموذج الدقة التقريبي عدد محدود فقط من الأرقام ذات الأهمية.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | significant_digits | int | عدد الأرقام ذات الأهمية. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel) | نموذج دقة التقريب. |
+| [PrecisionModel](/psd/python-net/aspose.gis/precisionmodel) | نموذج دقة تقريبي. |
 
 

@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats/delayedreadwritestream/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(path, initial_access)](#create_path_initial_access_1) |    |
 
@@ -30,14 +30,14 @@ url: /ar/python-net/aspose.gis.common.formats/delayedreadwritestream/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | initial_access | System.IO.FileAccess |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DelayedReadWriteStream](/psd/python-net/aspose.gis.common.formats/delayedreadwritestream) |  |
 

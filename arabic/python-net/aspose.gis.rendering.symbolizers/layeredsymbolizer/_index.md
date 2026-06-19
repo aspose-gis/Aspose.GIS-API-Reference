@@ -16,17 +16,17 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [LayeredSymbolizer()](#LayeredSymbolizer__1) | ينشئ نسخة جديدة. |
-| [LayeredSymbolizer(rendering_order)](#LayeredSymbolizer_rendering_order_2) | ينشئ نسخة جديدة. |
+| [LayeredSymbolizer()](#LayeredSymbolizer__1) | ينشئ مثلاً جديداً. |
+| [LayeredSymbolizer(rendering_order)](#LayeredSymbolizer_rendering_order_2) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) بعدم رسم أي شيء ويتخطى فعلياً رسم الهندسة التي يُطبق عليها. |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) برسم لا شيء ويتخطى فعليًا رسم الهندسة التي يُطبق عليها. |
 | rendering_order | [RenderingOrder](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder) | r/w | يحدد ترتيب العرض.<br/>            <ul><br/>            <li>[RenderingOrder.BY_FEATURES](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder/) -<br/>            عرض جميع الرموز للميزة، ثم الانتقال إلى الميزة التالية. </li><br/>            <li>[RenderingOrder.BY_LAYERS](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder/) -<br/>            عرض جميع الميزات باستخدام الرمز، ثم الانتقال إلى الرمز التالي. </li><br/>            </ul> |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [add(symbolizer)](#add_symbolizer_1) | يضيف الرمز المحدد. |
 
@@ -38,7 +38,7 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
  LayeredSymbolizer() 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 ### Constructor: LayeredSymbolizer(rendering_order) {#LayeredSymbolizer_rendering_order_2}
 
@@ -47,13 +47,13 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
  LayeredSymbolizer(rendering_order) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| rendering_order | [RenderingOrder](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder) | يحدد ترتيب العرض.<br/>            <ul><br/>            <li>[RenderingOrder.BY_FEATURES](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder/) -<br/>            عرض الميزة بجميع الرموز، ثم الانتقال إلى الميزة التالية. </li><br/>            <li>[RenderingOrder.BY_LAYERS](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder/) -<br/>            عرض جميع الميزات باستخدام رمز واحد، ثم المتابعة برسم الميزات إلى الرمز التالي. </li><br/>            </ul> |
+| rendering_order | [RenderingOrder](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder) | يحدد ترتيب العرض.<br/>            <ul><br/>            <li>[RenderingOrder.BY_FEATURES](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder/) -<br/>            عرض الميزة مع جميع الرموز، ثم الانتقال إلى الميزة التالية. </li><br/>            <li>[RenderingOrder.BY_LAYERS](/psd/python-net/aspose.gis.rendering.symbolizers/renderingorder/) -<br/>            عرض جميع الميزات باستخدام رمز واحد، ثم المتابعة برسم الميزات إلى الرمز التالي. </li><br/>            </ul> |
 
 ### Method: add(symbolizer) {#add_symbolizer_1}
 
@@ -66,7 +66,7 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/layeredsymbolizer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | الرمز المراد إضافته. |
 

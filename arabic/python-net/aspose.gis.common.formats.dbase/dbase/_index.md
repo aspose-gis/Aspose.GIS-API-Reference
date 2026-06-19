@@ -1,5 +1,5 @@
 ---
-title: "فئة DBase"
+title: "DBase فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الترميز | System.Text.Encoding | r |  |
 | الحقول | System.Collections.Generic.IList<DBaseField> | r |  |
 | records_count | long | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | add_field(name, type, width, precision) |  |
 | [add_record()](#add_record__1) |    |
@@ -65,7 +65,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | long |  |
 
@@ -81,14 +81,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 | options | [DBaseOptions](/psd/python-net/aspose.gis.common.formats.dbase/dbaseoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DBase](/psd/python-net/aspose.gis.common.formats.dbase/dbase) |  |
 
@@ -104,14 +104,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | options | [DBaseOptions](/psd/python-net/aspose.gis.common.formats.dbase/dbaseoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DBase](/psd/python-net/aspose.gis.common.formats.dbase/dbase) |  |
 
@@ -127,7 +127,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | options | [DBaseOptions](/psd/python-net/aspose.gis.common.formats.dbase/dbaseoptions) |  |
@@ -135,7 +135,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DBase](/psd/python-net/aspose.gis.common.formats.dbase/dbase) |  |
 
@@ -151,14 +151,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -174,13 +174,13 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -196,14 +196,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 | الترميز | System.Text.Encoding |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DBase](/psd/python-net/aspose.gis.common.formats.dbase/dbase) |  |
 
@@ -219,14 +219,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | الترميز | System.Text.Encoding |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DBase](/psd/python-net/aspose.gis.common.formats.dbase/dbase) |  |
 
@@ -242,14 +242,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -265,14 +265,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 
@@ -288,7 +288,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
@@ -296,7 +296,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | datetime |  |
 
@@ -312,14 +312,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 
@@ -335,7 +335,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
@@ -343,7 +343,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -359,7 +359,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
@@ -367,7 +367,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | long |  |
 
@@ -383,7 +383,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
@@ -391,7 +391,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -407,7 +407,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
@@ -415,7 +415,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -431,14 +431,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbase/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | record_index | long |  |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 

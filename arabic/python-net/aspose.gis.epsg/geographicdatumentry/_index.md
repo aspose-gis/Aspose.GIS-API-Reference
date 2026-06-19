@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.epsg/geographicdatumentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GeographicDatumEntry()](#GeographicDatumEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة GeographicDatumEntry |
+| [GeographicDatumEntry()](#GeographicDatumEntry__1) | يُنشئ مثلاً جديداً من الفئة GeographicDatumEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| رمز_البيضاوي | int | r |  |
+| ellipsoid_code | int | r |  |
 | الاسم | string | r |  |
-| رمز_خط_الطول_الأولي | int | r |  |
+| prime_meridian_code | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, ellipsoid_code, prime_meridian_code)](#create_name_ellipsoid_code_prime_meridian_code_1) |    |
 
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.epsg/geographicdatumentry/
  GeographicDatumEntry() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة GeographicDatumEntry
+يُنشئ مثلاً جديداً من الفئة GeographicDatumEntry
 
 ### Method: create(name, ellipsoid_code, prime_meridian_code)  [static] {#create_name_ellipsoid_code_prime_meridian_code_1}
 
@@ -49,15 +49,15 @@ url: /ar/python-net/aspose.gis.epsg/geographicdatumentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| رمز_البيضاوي | int |  |
-| رمز_خط_الطول_الأولي | int |  |
+| ellipsoid_code | int |  |
+| prime_meridian_code | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GeographicDatumEntry](/psd/python-net/aspose.gis.epsg/geographicdatumentry) |  |
 

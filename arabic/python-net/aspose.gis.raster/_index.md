@@ -9,19 +9,19 @@ url: /ar/python-net/aspose.gis.raster/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [IRasterBand](/psd/python-net/aspose.gis.raster/irasterband/) | يحتوي على بيانات تعريفية حول شريط الراستر. |
+| [IRasterBand](/psd/python-net/aspose.gis.raster/irasterband/) | يحتوي على بيانات تعريفية حول قناة الراستر. |
 | [IRasterCellSize](/psd/python-net/aspose.gis.raster/irastercellsize/) | يصف الحجم والقياس والدوران لخلية الراستر على الخريطة. |
-| [IRasterValues](/psd/python-net/aspose.gis.raster/irastervalues/) | يوفر الوصول إلى قيم شرائط الراستر. |
-| [RasterBand](/psd/python-net/aspose.gis.raster/rasterband/) | يحتوي على بيانات حول شريط الراستر. |
+| [IRasterValues](/psd/python-net/aspose.gis.raster/irastervalues/) | يوفر الوصول إلى قيم قنوات الراستر. |
+| [RasterBand](/psd/python-net/aspose.gis.raster/rasterband/) | يحتوي على بيانات حول قناة الراستر. |
 | [RasterCellSize](/psd/python-net/aspose.gis.raster/rastercellsize/) | يصف الحجم والقياس والدوران لخلية الراستر على الخريطة. |
-| [RasterExpressionContext](/psd/python-net/aspose.gis.raster/rasterexpressioncontext/) | هذه الفئة تصف سياق القيمة عند قراءة شريط الراستر. |
+| [RasterExpressionContext](/psd/python-net/aspose.gis.raster/rasterexpressioncontext/) | هذه الفئة تصف سياق القيمة عندما تقرأ قناة الراستر. |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | يمثل طبقة راستر. |
 | [RasterRect](/psd/python-net/aspose.gis.raster/rasterrect/) | كتلة من خلايا الراستر. |
-| [RasterStatistics](/psd/python-net/aspose.gis.raster/rasterstatistics/) | الإحصائيات لأي طبقة راستر. |
+| [RasterStatistics](/psd/python-net/aspose.gis.raster/rasterstatistics/) | الإحصاءات لأي طبقة راستر. |
 | [WarpOptions](/psd/python-net/aspose.gis.raster/warpoptions/) | خيارات لتشويه الراستر. |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
-| [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes/) | أنواع شريط الراستر. |
+| [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes/) | أنواع قناة الراستر. |

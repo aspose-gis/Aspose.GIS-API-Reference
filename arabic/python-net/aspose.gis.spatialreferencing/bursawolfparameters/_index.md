@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [BursaWolfParameters(dx, dy, dz)](#BursaWolfParameters_dx_dy_dz_1) | ينشئ نسخة جديدة من [BursaWolfParameters](/psd/python-net/aspose.gis.spatialreferencing/bursawolfparameters/). |
 | [BursaWolfParameters(dx, dy, dz, rx, ry, rz, scale)](#BursaWolfParameters_dx_dy_dz_rx_ry_rz_scale_2) | ينشئ نسخة جديدة من [BursaWolfParameters](/psd/python-net/aspose.gis.spatialreferencing/bursawolfparameters/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | dx | double | r | Dx بالأمتار. |
 | dy | double | r | Dy بالأمتار. |
@@ -29,7 +29,7 @@ url: /ar/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 | rx | double | r | Rx بالثواني. |
 | ry | double | r | Ry بالثواني. |
 | rz | double | r | Rz بالثواني. |
-| المقياس | double | r | المقياس بالأجزاء لكل مليون. |
+| المقياس | double | r | المقياس بالأجزاء في المليون. |
 
 
 ### Constructor: BursaWolfParameters(dx, dy, dz) {#BursaWolfParameters_dx_dy_dz_1}
@@ -43,7 +43,7 @@ url: /ar/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | dx | double | Dx بالأمتار. |
 | dy | double | Dy بالأمتار. |
@@ -60,7 +60,7 @@ url: /ar/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | dx | double | Dx بالأمتار. |
 | dy | double | Dy بالأمتار. |
@@ -68,5 +68,5 @@ url: /ar/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 | rx | double | Rx بالثواني. |
 | ry | double | Ry بالثواني. |
 | rz | double | Rz بالثواني. |
-| المقياس | double | المقياس بالأجزاء لكل مليون. |
+| المقياس | double | المقياس بالأجزاء في المليون. |
 

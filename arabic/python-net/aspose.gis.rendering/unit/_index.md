@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.rendering/unit/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | INCHES | يحدد البوصات. البوصة الواحدة تساوي 25.4 مليمتر. |
-| MAP_UNITS | يحدد وحدات الخريطة الخاصة بالإشارة المكانية. |
+| MAP_UNITS | يحدد وحدات الخريطة الخاصة بالمرجع المكاني. |
 | METERS_ON_EARTH | يحدد طولًا بالأمتار الفعلية على الأرض بغض النظر عما هو [Map.spatial_reference_system](/psd/python-net/aspose.gis.rendering/map/). |
 | MILLIMETERS | يحدد المليمترات. |
 | بكسل | يحدد البكسلات. |

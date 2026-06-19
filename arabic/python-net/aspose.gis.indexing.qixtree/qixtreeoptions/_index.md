@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/qixtreeoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [QixTreeOptions()](#QixTreeOptions__1) | يُنشئ مثلاً جديداً من الفئة QixTreeOptions |
+| [QixTreeOptions()](#QixTreeOptions__1) | يقوم بإنشاء نسخة جديدة من فئة QixTreeOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| cache_size | int | r/w |  |
+| cache_size | int | قراءة/كتابة |  |
 
 
 ### Constructor: QixTreeOptions() {#QixTreeOptions__1}
@@ -30,5 +30,5 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/qixtreeoptions/
  QixTreeOptions() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة QixTreeOptions
+يقوم بإنشاء نسخة جديدة من فئة QixTreeOptions
 

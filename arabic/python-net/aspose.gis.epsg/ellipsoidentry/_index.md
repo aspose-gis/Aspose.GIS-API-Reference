@@ -1,5 +1,5 @@
 ---
-title: "الفئة EllipsoidEntry"
+title: "فئة EllipsoidEntry"
 type: docs
 weight: 20
 url: /ar/python-net/aspose.gis.epsg/ellipsoidentry/
@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.epsg/ellipsoidentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [EllipsoidEntry()](#EllipsoidEntry__1) | ينشئ مثيلاً جديدًا للفئة EllipsoidEntry |
-| [EllipsoidEntry(name, semi_major_axis, inverse_flattening)](#EllipsoidEntry_name_semi_major_axis_inverse_flattening_2) | ينشئ مثيلاً جديدًا للفئة EllipsoidEntry |
+| [EllipsoidEntry()](#EllipsoidEntry__1) | ينشئ مثلاً جديداً من فئة EllipsoidEntry |
+| [EllipsoidEntry(name, semi_major_axis, inverse_flattening)](#EllipsoidEntry_name_semi_major_axis_inverse_flattening_2) | ينشئ مثلاً جديداً من فئة EllipsoidEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | inverse_flattening | double | r |  |
 | الاسم | string | r |  |
 | semi_major_axis | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, semi_major_axis, inverse_flattening)](#create_name_semi_major_axis_inverse_flattening_1) |    |
 
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.epsg/ellipsoidentry/
  EllipsoidEntry() 
 ```
 
-ينشئ مثيلاً جديدًا للفئة EllipsoidEntry
+ينشئ مثلاً جديداً من فئة EllipsoidEntry
 
 ### Constructor: EllipsoidEntry(name, semi_major_axis, inverse_flattening) {#EllipsoidEntry_name_semi_major_axis_inverse_flattening_2}
 
@@ -46,11 +46,11 @@ url: /ar/python-net/aspose.gis.epsg/ellipsoidentry/
  EllipsoidEntry(name, semi_major_axis, inverse_flattening) 
 ```
 
-ينشئ مثيلاً جديدًا للفئة EllipsoidEntry
+ينشئ مثلاً جديداً من فئة EllipsoidEntry
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 | semi_major_axis | double |  |
@@ -67,7 +67,7 @@ url: /ar/python-net/aspose.gis.epsg/ellipsoidentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 | semi_major_axis | double |  |
@@ -75,7 +75,7 @@ url: /ar/python-net/aspose.gis.epsg/ellipsoidentry/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [EllipsoidEntry](/psd/python-net/aspose.gis.epsg/ellipsoidentry) |  |
 

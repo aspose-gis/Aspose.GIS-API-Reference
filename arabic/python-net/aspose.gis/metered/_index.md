@@ -1,5 +1,5 @@
 ---
-title: "Metered Class"
+title: "فئة Metered"
 type: docs
 weight: 2640
 url: /ar/python-net/aspose.gis/metered/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis/metered/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_consumption_credit()](#get_consumption_credit__1) | يحصل على رصيد الاستهلاك |
 | [get_consumption_quantity()](#get_consumption_quantity__2) | يحصل على حجم ملف الاستهلاك |
-| reset_metered_key() | يزيل الترخيص الذي تم إعداده مسبقًا |
+| reset_metered_key() | يزيل الترخيص المُعد مسبقًا |
 | [set_metered_key(public_key, private_key)](#set_metered_key_public_key_private_key_3) | يضبط المفتاح العام والخاص القائم على القياس |
 
 
@@ -33,7 +33,7 @@ url: /ar/python-net/aspose.gis/metered/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | عشري | كمية الاستهلاك |
 
@@ -49,7 +49,7 @@ url: /ar/python-net/aspose.gis/metered/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | عشري | كمية الاستهلاك |
 
@@ -65,7 +65,7 @@ url: /ar/python-net/aspose.gis/metered/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | public_key | string | المفتاح العام |
 | private_key | string | المفتاح الخاص |

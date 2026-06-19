@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.formats.topojson/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [TopoJsonDriver](/psd/python-net/aspose.gis.formats.topojson/topojsondriver/) | برنامج تشغيل لتنسيق TopoJSON. |
 | [TopoJsonOptions](/psd/python-net/aspose.gis.formats.topojson/topojsonoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق TopoJSON. |

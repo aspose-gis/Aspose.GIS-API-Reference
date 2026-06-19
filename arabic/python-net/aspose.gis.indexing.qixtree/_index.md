@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [QixTree](/psd/python-net/aspose.gis.indexing.qixtree/qixtree/) |  |
 | [QixTreeOptions](/psd/python-net/aspose.gis.indexing.qixtree/qixtreeoptions/) |  |

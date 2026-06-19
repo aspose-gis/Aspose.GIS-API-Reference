@@ -16,15 +16,15 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmllinestyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [KmlLineStyle()](#KmlLineStyle__1) | ينشئ نسخة جديدة من فئة KmlLineStyle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| اللون | System.Drawing.Color | r/w | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
-| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: normal. |
-| العرض | double | r/w | عرض الخط، بوحدات البكسل. القيمة الافتراضية هي '1'. |
+| اللون | System.Drawing.Color | قراءة/كتابة | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
+| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| width | double | قراءة/كتابة | عرض الخط، بالبكسل. القيمة الافتراضية هي '1'. |
 
 
 ### Constructor: KmlLineStyle() {#KmlLineStyle__1}

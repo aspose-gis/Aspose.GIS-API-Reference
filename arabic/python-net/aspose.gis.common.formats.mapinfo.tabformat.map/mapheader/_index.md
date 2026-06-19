@@ -14,36 +14,36 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapHeader()](#MapHeader__1) | يقوم بإنشاء نسخة جديدة من فئة MapHeader |
+| [MapHeader()](#MapHeader__1) | يقوم بإنشاء نسخة جديدة من الفئة MapHeader |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| block_size | short | r/w |  |
+| block_size | short | قراءة/كتابة |  |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r |    |
-| brushes_count | int | r/w |  |
-| coordinate_precision | byte | r/w |  |
+| brushes_count | int | قراءة/كتابة |  |
+| coordinate_precision | byte | قراءة/كتابة |  |
 | coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |
-| coordinate_system_to_distance_units | double | r/w |  |
-| distance_units_code | byte | r/w |  |
+| coordinate_system_to_distance_units | double | قراءة/كتابة |  |
+| distance_units_code | byte | قراءة/كتابة |  |
 | first_block_size | short | r |  |
-| first_garbage_block_position | int | r/w |  |
-| first_index_block_position | int | r/w |  |
-| first_tool_block_position | int | r/w |  |
-| fonts_count | int | r/w |  |
-| lines_count | int | r/w |  |
-| map_file_version | short | r/w |  |
-| maximal_coordinates_buffer_size | int | r/w |  |
-| maximal_spatial_index_depth | byte | r/w |  |
-| objects_length_array_id | byte | r/w |  |
-| pens_count | int | r/w |  |
-| points_count | int | r/w |  |
-| reflect_x_axis_coordinate | byte | r/w |  |
-| regions_count | int | r/w |  |
-| symbols_count | int | r/w |  |
-| texts_count | int | r/w |  |
-| tool_blocks_count | int | r/w |  |
+| first_garbage_block_position | int | قراءة/كتابة |  |
+| first_index_block_position | int | قراءة/كتابة |  |
+| first_tool_block_position | int | قراءة/كتابة |  |
+| fonts_count | int | قراءة/كتابة |  |
+| lines_count | int | قراءة/كتابة |  |
+| map_file_version | short | قراءة/كتابة |  |
+| maximal_coordinates_buffer_size | int | قراءة/كتابة |  |
+| maximal_spatial_index_depth | byte | قراءة/كتابة |  |
+| objects_length_array_id | byte | قراءة/كتابة |  |
+| pens_count | int | قراءة/كتابة |  |
+| points_count | int | قراءة/كتابة |  |
+| reflect_x_axis_coordinate | byte | قراءة/كتابة |  |
+| regions_count | int | قراءة/كتابة |  |
+| symbols_count | int | قراءة/كتابة |  |
+| texts_count | int | قراءة/كتابة |  |
+| tool_blocks_count | int | قراءة/كتابة |  |
 | transform | [MapTransform](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform) | r/w |    |
 
 
@@ -54,5 +54,5 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheader/
  MapHeader() 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة MapHeader
+يقوم بإنشاء نسخة جديدة من الفئة MapHeader
 

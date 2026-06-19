@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis.rendering/maplayer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| opacity | double | r/w | شفافية الطبقة. |
+| opacity | double | قراءة/كتابة | شفافية الطبقة. |
 
 

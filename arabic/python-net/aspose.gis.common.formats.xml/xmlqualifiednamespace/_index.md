@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.xml/xmlqualifiednamespace/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [XmlQualifiedNamespace()](#XmlQualifiedNamespace__1) | ينشئ مثلاً جديداً من فئة XmlQualifiedNamespace |
+| [XmlQualifiedNamespace()](#XmlQualifiedNamespace__1) | ينشئ مثيلاً جديداً لفئة XmlQualifiedNamespace |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| بادئة | string | r/w |  |
-| uri | string | r/w |  |
+| بادئة | string | قراءة/كتابة |  |
+| uri | string | قراءة/كتابة |  |
 
 
 ### Constructor: XmlQualifiedNamespace() {#XmlQualifiedNamespace__1}
@@ -31,5 +31,5 @@ url: /ar/python-net/aspose.gis.common.formats.xml/xmlqualifiednamespace/
  XmlQualifiedNamespace() 
 ```
 
-ينشئ مثلاً جديداً من فئة XmlQualifiedNamespace
+ينشئ مثيلاً جديداً لفئة XmlQualifiedNamespace
 

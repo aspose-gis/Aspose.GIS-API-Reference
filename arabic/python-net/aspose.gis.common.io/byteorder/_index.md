@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.io/byteorder/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BIG_ENDIAN |  |
 | LITTLE_ENDIAN |  |

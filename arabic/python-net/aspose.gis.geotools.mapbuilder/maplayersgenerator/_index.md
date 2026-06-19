@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapLayersGenerator()](#MapLayersGenerator__1) | يُنشئ مثلاً جديدًا لفئة MapLayersGenerator |
+| [MapLayersGenerator()](#MapLayersGenerator__1) | يُهيئ نسخة جديدة من فئة MapLayersGenerator |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_list_of_layers(options)](#get_list_of_layers_options_1) | احصل على قائمة الطبقات: roadLayer, buildingLayer, parkLayer, parkRoadLayer, industrialLayer. |
 | [produce_map(options)](#produce_map_options_2) | إنشاء الخريطة. |
@@ -31,7 +31,7 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
  MapLayersGenerator() 
 ```
 
-يُنشئ مثلاً جديدًا لفئة MapLayersGenerator
+يُهيئ نسخة جديدة من فئة MapLayersGenerator
 
 ### Method: get_list_of_layers(options)  [static] {#get_list_of_layers_options_1}
 
@@ -44,15 +44,15 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | options | [MapGeneratorOptions](/psd/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions) | خيارات مولد الخريطة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| System.Collections.Generic.List<VectorLayer> | قائمة الطبقات مع الهندسة المولدة. |
+| System.Collections.Generic.List<VectorLayer> | قائمة الطبقات مع الهندسة المُولدة. |
 
 
 ### Method: produce_map(options)  [static] {#produce_map_options_2}
@@ -66,13 +66,13 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | options | [MapGeneratorOptions](/psd/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions) | خيارات مولد الخريطة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Map](/psd/python-net/aspose.gis.rendering/map/) | الخريطة المكتملة. |
 

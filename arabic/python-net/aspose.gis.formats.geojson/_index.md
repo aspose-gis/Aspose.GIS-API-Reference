@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.formats.geojson/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [GeoJsonDriver](/psd/python-net/aspose.gis.formats.geojson/geojsondriver/) | محرك لتنسيق GeoJSON. |
-| [GeoJsonOptions](/psd/python-net/aspose.gis.formats.geojson/geojsonoptions/) | خيارات خاصة بالمحرك لتنسيق GeoJSON. |
+| [GeoJsonOptions](/psd/python-net/aspose.gis.formats.geojson/geojsonoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق GeoJSON. |

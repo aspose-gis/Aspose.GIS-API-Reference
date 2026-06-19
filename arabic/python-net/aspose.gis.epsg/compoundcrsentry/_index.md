@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.epsg/compoundcrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [CompoundCrsEntry()](#CompoundCrsEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة CompoundCrsEntry |
+| [CompoundCrsEntry()](#CompoundCrsEntry__1) | يُنشئ مثلاً جديداً من الفئة CompoundCrsEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| رمز_نظام_الإحداثيات_الأفقي | int | r |  |
+| horizontal_crs_code | int | r |  |
 | الاسم | string | r |  |
-| رمز_نظام_الإحداثيات_العمودي | int | r |  |
+| vertical_crs_code | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, horizontal_crs_code, vertical_crs_code)](#create_name_horizontal_crs_code_vertical_crs_code_1) |    |
 
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.epsg/compoundcrsentry/
  CompoundCrsEntry() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة CompoundCrsEntry
+يُنشئ مثلاً جديداً من الفئة CompoundCrsEntry
 
 ### Method: create(name, horizontal_crs_code, vertical_crs_code)  [static] {#create_name_horizontal_crs_code_vertical_crs_code_1}
 
@@ -49,15 +49,15 @@ url: /ar/python-net/aspose.gis.epsg/compoundcrsentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| رمز_نظام_الإحداثيات_الأفقي | int |  |
-| رمز_نظام_الإحداثيات_العمودي | int |  |
+| horizontal_crs_code | int |  |
+| vertical_crs_code | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [CompoundCrsEntry](/psd/python-net/aspose.gis.epsg/compoundcrsentry) |  |
 

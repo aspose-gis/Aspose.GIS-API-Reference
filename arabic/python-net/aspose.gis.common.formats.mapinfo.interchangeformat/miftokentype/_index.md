@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | إغلاق |  |
 | فاصلة |  |
 | نهاية الملف |  |
 | كلمة مفتاحية |  |
 | سطر جديد |  |
-| رقم |  |
+| الرقم |  |
 | فتح |  |
-| STRING |  |
+| سلسلة |  |

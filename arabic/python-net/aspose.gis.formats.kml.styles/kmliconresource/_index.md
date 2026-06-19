@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmliconresource/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [KmlIconResource()](#KmlIconResource__1) | ينشئ مثيلاً جديدًا من فئة KmlIconResource |
+| [KmlIconResource()](#KmlIconResource__1) | ينشئ مثلاً جديداً من فئة KmlIconResource |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| href | string | r/w | يحدد موقع المورد كعنوان URL.<br/>            القيمة الافتراضية هي <see langword=\"null\" /> يعني أن href لا شيء. |
+| href | string | قراءة/كتابة | يحدد موقع المورد كعنوان URL.<br/>            القيمة الافتراضية هي <see langword="null" /> يعني أن href لا شيء. |
 
 
 ### Constructor: KmlIconResource() {#KmlIconResource__1}
@@ -30,5 +30,5 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmliconresource/
  KmlIconResource() 
 ```
 
-ينشئ مثيلاً جديدًا من فئة KmlIconResource
+ينشئ مثلاً جديداً من فئة KmlIconResource
 

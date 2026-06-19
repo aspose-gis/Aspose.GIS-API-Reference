@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common/quadrant/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | NORTH_EAST |  |
 | NORTH_WEST |  |

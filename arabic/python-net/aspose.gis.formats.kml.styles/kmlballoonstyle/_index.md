@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlballoonstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [KmlBalloonStyle()](#KmlBalloonStyle__1) | ينشئ مثيلاً جديدًا من فئة KmlBalloonStyle |
+| [KmlBalloonStyle()](#KmlBalloonStyle__1) | ينشئ مثلاً جديداً من فئة KmlBalloonStyle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| background_color | System.Drawing.Color | r/w | يحدد لون الخلفية للعنصر الرسومي. القيمة الافتراضية هي . |
+| background_color | System.Drawing.Color | قراءة/كتابة | يحدد لون الخلفية للعنصر الرسومي. القيمة الافتراضية هي . |
 | display_mode | [KmlDisplayModes](/psd/python-net/aspose.gis.formats.kml.styles/kmldisplaymodes) | r/w | يتحكم فيما إذا كان البالون معروضًا أو مخفيًا. القيمة الافتراضية هي [KmlDisplayModes.SHOW](/psd/python-net/aspose.gis.formats.kml.styles/kmldisplaymodes/) |
-| text | string | r/w | يحدد النص المعروض في البالون. القيمة الافتراضية هي <see langword=\"null\" />. |
-| text_color | System.Drawing.Color | r/w | يحدد لون المقدمة للنص. القيمة الافتراضية هي . |
+| text | string | قراءة/كتابة | يحدد النص المعروض في البالون. القيمة الافتراضية هي <see langword="null" />. |
+| text_color | System.Drawing.Color | قراءة/كتابة | يحدد لون المقدمة للنص. القيمة الافتراضية هي . |
 
 
 ### Constructor: KmlBalloonStyle() {#KmlBalloonStyle__1}
@@ -33,5 +33,5 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlballoonstyle/
  KmlBalloonStyle() 
 ```
 
-ينشئ مثيلاً جديدًا من فئة KmlBalloonStyle
+ينشئ مثلاً جديداً من فئة KmlBalloonStyle
 

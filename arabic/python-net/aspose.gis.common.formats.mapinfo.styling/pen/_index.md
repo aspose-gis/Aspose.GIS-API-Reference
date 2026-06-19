@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/pen/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Pen()](#Pen__1) | يُنشئ نسخة جديدة من الفئة Pen |
-| [Pen(width, pattern, color)](#Pen_width_pattern_color_2) | يُنشئ نسخة جديدة من الفئة Pen |
+| [Pen()](#Pen__1) | يُهيئ نسخة جديدة من فئة Pen |
+| [Pen(width, pattern, color)](#Pen_width_pattern_color_2) | يُهيئ نسخة جديدة من فئة Pen |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) | r |    |
 | النمط | int | r |  |
-| العرض | int | r |  |
+| width | int | r |  |
 
 
 ### Constructor: Pen() {#Pen__1}
@@ -33,7 +33,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/pen/
  Pen() 
 ```
 
-يُنشئ نسخة جديدة من الفئة Pen
+يُهيئ نسخة جديدة من فئة Pen
 
 ### Constructor: Pen(width, pattern, color) {#Pen_width_pattern_color_2}
 
@@ -42,13 +42,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/pen/
  Pen(width, pattern, color) 
 ```
 
-يُنشئ نسخة جديدة من الفئة Pen
+يُهيئ نسخة جديدة من فئة Pen
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| العرض | int |  |
+| width | int |  |
 | النمط | int |  |
 | color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) |  |
 

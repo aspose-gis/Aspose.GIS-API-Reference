@@ -1,5 +1,5 @@
 ---
-title: "فئة الإهليلج"
+title: "فئة القطع الناقص"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.spatialreferencing/ellipsoid/
@@ -16,29 +16,29 @@ url: /ar/python-net/aspose.gis.spatialreferencing/ellipsoid/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Ellipsoid(name, semi_major_axis, inverse_flattening, identifier)](#Ellipsoid_name_semi_major_axis_inverse_flattening_identifier_1) | إنشاء Ellipsoid جديد. |
+| [Ellipsoid(name, semi_major_axis, inverse_flattening, identifier)](#Ellipsoid_name_semi_major_axis_inverse_flattening_identifier_1) | ينشئ قطعًا ناقصًا جديدًا. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| airy [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | القطيع الهوائي Airy. |
-| epsg_code | int | r | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
-| grs80 [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | القطيع الهوائي GRS 1980. |
+| airy [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | البيضاوي Airy. |
+| epsg_code | int | r | إذا كان معرف هذا الكائن هو معرف EPSG - يتم إرجاع رمزه. وإلا - يتم إرجاع -1. |
+| grs80 [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | البيضاوي GRS 1980. |
 | identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | r | معرف هذا الكائن القابل للتعريف. |
-| inverse_flattening | double | r | العكسية المسطحة للقطيع. 0 إذا كان هذا كرة. |
-| is_sphere | bool | r | يكشف ما إذا كان هذا القطع الناقص كرة. |
-| is_valid | bool | r | يكشف ما إذا كان القطع الناقص صالحًا: نصف المحور الرئيسي أكبر من 0 والعكسية المسطحة موجبة أو مساوية لـ 0. |
+| inverse_flattening | double | r | معكوس الانسداد للبيضاوي. 0 إذا كان هذا كرة. |
+| is_sphere | bool | r | يكشف ما إذا كان هذا البيضاوي كرة. |
+| is_valid | bool | r | يكشف ما إذا كان البيضاوي صالحًا: نصف المحور الرئيسي أكبر من 0 ومعكوس الانسداد إيجابي أو يساوي 0. |
 | الاسم | string | r | اسم هذا الكائن. |
-| semi_major_axis | double | r | نصف المحور الرئيسي للقطيع. |
-| semi_minor_axis | double | r | نصف المحور الثانوي للقطيع. يساوي نصف المحور الرئيسي إذا كان هذا كرة. |
-| wgs72 [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | القطيع الهوائي WGS 72. |
-| wgs84 [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | القطيع الهوائي WGS 84. |
+| semi_major_axis | double | r | نصف المحور الرئيسي للبيضاوي. |
+| semi_minor_axis | double | r | نصف المحور الثانوي للبيضاوي. يساوي نصف المحور الرئيسي إذا كان هذا كرة. |
+| wgs72 [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | البيضاوي WGS 72. |
+| wgs84 [static] | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | r | البيضاوي WGS 84. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [is_equivalent(ellipsoid1, ellipsoid2)](#is_equivalent_ellipsoid1_ellipsoid2_1) | يحدد ما إذا كان قطعتان ناقصتان متكافئتين.<br/>            إذا كان القطع الناقص A متكافئًا مع القطع الناقص B، فإنهما يمتلكان نفس نصف المحور الرئيسي والعكسية المسطحة. |
-| [is_equivalent(other)](#is_equivalent_other_2) | يحدد ما إذا كان قطعتان ناقصتان متكافئتين.<br/>            إذا كان القطع الناقص A متكافئًا مع القطع الناقص B، فإنهما يمتلكان نفس نصف المحور الرئيسي والعكسية المسطحة. |
+| [is_equivalent(ellipsoid1, ellipsoid2)](#is_equivalent_ellipsoid1_ellipsoid2_1) | يحدد ما إذا كان بيضاويان متكافئان.<br/>            إذا كان البيضاوي A متكافئًا مع البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي ومعكوس الانسداد. |
+| [is_equivalent(other)](#is_equivalent_other_2) | يحدد ما إذا كان بيضاويان متكافئان.<br/>            إذا كان البيضاوي A متكافئًا مع البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي ومعكوس الانسداد. |
 
 
 ### Constructor: Ellipsoid(name, semi_major_axis, inverse_flattening, identifier) {#Ellipsoid_name_semi_major_axis_inverse_flattening_identifier_1}
@@ -48,16 +48,16 @@ url: /ar/python-net/aspose.gis.spatialreferencing/ellipsoid/
  Ellipsoid(name, semi_major_axis, inverse_flattening, identifier) 
 ```
 
-إنشاء Ellipsoid جديد.
+ينشئ قطعًا ناقصًا جديدًا.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| الاسم | string | اسم القطع الناقص. |
-| semi_major_axis | double | نصف المحور الرئيسي للقطيع. |
-| inverse_flattening | double | العكسية المسطحة للقطيع. يجب أن تكون 0 لإنشاء كروية. |
-| identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | معرف القطع الناقص. |
+| الاسم | string | اسم البيضاوي. |
+| semi_major_axis | double | نصف المحور الرئيسي للبيضاوي. |
+| inverse_flattening | double | معكوس الانسداد للبيضاوي. يجب أن يكون 0 لإنشاء شبه كروي. |
+| identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | معرف البيضاوي. |
 
 ### Method: is_equivalent(ellipsoid1, ellipsoid2)  [static] {#is_equivalent_ellipsoid1_ellipsoid2_1}
 
@@ -66,20 +66,20 @@ url: /ar/python-net/aspose.gis.spatialreferencing/ellipsoid/
  is_equivalent(ellipsoid1, ellipsoid2) 
 ```
 
-يحدد ما إذا كان قطعتان ناقصتان متكافئتين.<br/>            إذا كان القطع الناقص A متكافئًا مع القطع الناقص B، فإنهما يمتلكان نفس نصف المحور الرئيسي والعكسية المسطحة.
+يحدد ما إذا كان بيضاويان متكافئان.<br/>            إذا كان البيضاوي A متكافئًا مع البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي ومعكوس الانسداد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| ellipsoid1 | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | القطيع الأول. |
-| ellipsoid2 | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | القطيع الثاني. |
+| ellipsoid1 | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | البيضاوي الأول. |
+| ellipsoid2 | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | البيضاوي الثاني. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | قيمة منطقية، تشير إلى ما إذا كان قطعتان ناقصتان متكافئتين. |
+| bool | قيمة منطقية، تشير إلى ما إذا كان بيضاويان متكافئان. |
 
 
 ### Method: is_equivalent(other) {#is_equivalent_other_2}
@@ -89,18 +89,18 @@ url: /ar/python-net/aspose.gis.spatialreferencing/ellipsoid/
  is_equivalent(other) 
 ```
 
-يحدد ما إذا كان قطعتان ناقصتان متكافئتين.<br/>            إذا كان القطع الناقص A متكافئًا مع القطع الناقص B، فإنهما يمتلكان نفس نصف المحور الرئيسي والعكسية المسطحة.
+يحدد ما إذا كان بيضاويان متكافئان.<br/>            إذا كان البيضاوي A متكافئًا مع البيضاوي B، فإنهما يمتلكان نفس نصف المحور الرئيسي ومعكوس الانسداد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| other | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | القطيع الآخر. |
+| other | [Ellipsoid](/psd/python-net/aspose.gis.spatialreferencing/ellipsoid) | البيضاوي الآخر. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | قيمة منطقية، تشير إلى ما إذا كان قطعتان ناقصتان متكافئتين. |
+| bool | قيمة منطقية، تشير إلى ما إذا كان بيضاويان متكافئان. |
 
 

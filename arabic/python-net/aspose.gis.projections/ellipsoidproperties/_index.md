@@ -1,5 +1,5 @@
 ---
-title: "فئة EllipsoidProperties"
+title: "EllipsoidProperties فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.projections/ellipsoidproperties/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.projections/ellipsoidproperties/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [EllipsoidProperties(semi_major_axis, inverse_flattening)](#EllipsoidProperties_semi_major_axis_inverse_flattening_1) | يُنشئ مثيلًا جديدًا من فئة EllipsoidProperties |
+| [EllipsoidProperties(semi_major_axis, inverse_flattening)](#EllipsoidProperties_semi_major_axis_inverse_flattening_1) | يقوم بإنشاء نسخة جديدة من الفئة EllipsoidProperties |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | first_eccentricity | double | r |  |
 | first_eccentricity_squared | double | r |  |
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.projections/ellipsoidproperties/
  EllipsoidProperties(semi_major_axis, inverse_flattening) 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة EllipsoidProperties
+يقوم بإنشاء نسخة جديدة من الفئة EllipsoidProperties
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | semi_major_axis | double |  |
 | inverse_flattening | double |  |

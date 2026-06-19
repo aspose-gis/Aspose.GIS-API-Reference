@@ -16,13 +16,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| عدد | int | r |  |
+| العدد | int | r |  |
 | الاسم | string | r |  |
 | parent | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(wkt)](#create_wkt_1) |    |
 | [get_composite_value(index)](#get_composite_value_index_2) |    |
@@ -54,13 +54,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | wkt | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -76,13 +76,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -98,14 +98,14 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 | expected_name | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -121,13 +121,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other_names | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -143,14 +143,14 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | regular_name | string |  |
 | other_name | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -166,13 +166,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | value_name | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -188,13 +188,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -210,7 +210,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -226,13 +226,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -248,13 +248,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 
@@ -270,14 +270,14 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 | default_value | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -293,13 +293,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 
@@ -315,7 +315,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 
@@ -331,15 +331,15 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 | expected_name | string |  |
 | output | [WktCompositeValue[]](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -355,14 +355,14 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
+| الفهرس | int |  |
 | output | [WktCompositeValue[]](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -378,14 +378,14 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | value_name | string |  |
 | value | [WktCompositeValue[]](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -401,14 +401,14 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int |  |
-| الإخراج | float[] |  |
+| الفهرس | int |  |
+| output | float[] |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

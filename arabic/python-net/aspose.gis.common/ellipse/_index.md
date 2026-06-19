@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.common/ellipse/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Ellipse(center, x_radius, y_radius, rotation)](#Ellipse_center_x_radius_y_radius_rotation_1) | يقوم بإنشاء نسخة جديدة من الفئة Ellipse |
+| [Ellipse(center, x_radius, y_radius, rotation)](#Ellipse_center_x_radius_y_radius_rotation_1) | يقوم بإنشاء نسخة جديدة من فئة Ellipse |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | دوران | double | r |  |
 | x_radius | double | r |  |
 | y_radius | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_angle(coordinate)](#get_angle_coordinate_1) |    |
 | [get_arc(start, end, clockwise)](#get_arc_start_end_clockwise_2) |    |
@@ -40,11 +40,11 @@ url: /ar/python-net/aspose.gis.common/ellipse/
  Ellipse(center, x_radius, y_radius, rotation) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة Ellipse
+يقوم بإنشاء نسخة جديدة من فئة Ellipse
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 | x_radius | double |  |
@@ -62,13 +62,13 @@ url: /ar/python-net/aspose.gis.common/ellipse/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -84,7 +84,7 @@ url: /ar/python-net/aspose.gis.common/ellipse/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 | end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
@@ -92,7 +92,7 @@ url: /ar/python-net/aspose.gis.common/ellipse/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [EllipticArc](/psd/python-net/aspose.gis.common/ellipticarc) |  |
 
@@ -108,13 +108,13 @@ url: /ar/python-net/aspose.gis.common/ellipse/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | parametric_angle | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 

@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.indexing/indexingexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [IndexingException()](#IndexingException__1) | يقوم بإنشاء نسخة جديدة من الفئة IndexingException |
-| [IndexingException(message)](#IndexingException_message_2) | يقوم بإنشاء نسخة جديدة من الفئة IndexingException |
+| [IndexingException()](#IndexingException__1) | إنشاء نسخة جديدة من الفئة IndexingException |
+| [IndexingException(message)](#IndexingException_message_2) | إنشاء نسخة جديدة من الفئة IndexingException |
 
 
 ### Constructor: IndexingException() {#IndexingException__1}
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis.indexing/indexingexception/
  IndexingException() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة IndexingException
+إنشاء نسخة جديدة من الفئة IndexingException
 
 ### Constructor: IndexingException(message) {#IndexingException_message_2}
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.indexing/indexingexception/
  IndexingException(message) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة IndexingException
+إنشاء نسخة جديدة من الفئة IndexingException
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الرسالة | string |  |
 

@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Point()](#Point__1) | ينشئ مثلاً جديداً لفئة النقطة |
+| [Point()](#Point__1) | يُنشئ مثلاً جديداً لفئة النقطة |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
-| الرمز | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol> | r/w |  |
-| معرف_الرمز | byte | r/w |  |
+| الرمز | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol> | قراءة/كتابة |  |
+| معرف_الرمز | byte | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/
  Point() 
 ```
 
-ينشئ مثلاً جديداً لفئة النقطة
+يُنشئ مثلاً جديداً لفئة النقطة
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -52,7 +52,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

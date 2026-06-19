@@ -1,5 +1,5 @@
 ---
-title: "VerticalDatumEntry فئة"
+title: "فئة VerticalDatumEntry"
 type: docs
 weight: 140
 url: /ar/python-net/aspose.gis.epsg/verticaldatumentry/
@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.epsg/verticaldatumentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [VerticalDatumEntry()](#VerticalDatumEntry__1) | يُنشئ مثيلًا جديدًا لفئة VerticalDatumEntry |
-| [VerticalDatumEntry(name)](#VerticalDatumEntry_name_2) | يُنشئ مثيلًا جديدًا لفئة VerticalDatumEntry |
+| [VerticalDatumEntry()](#VerticalDatumEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة VerticalDatumEntry |
+| [VerticalDatumEntry(name)](#VerticalDatumEntry_name_2) | يقوم بإنشاء نسخة جديدة من الفئة VerticalDatumEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الاسم | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name)](#create_name_1) |    |
 
@@ -35,7 +35,7 @@ url: /ar/python-net/aspose.gis.epsg/verticaldatumentry/
  VerticalDatumEntry() 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة VerticalDatumEntry
+يقوم بإنشاء نسخة جديدة من الفئة VerticalDatumEntry
 
 ### Constructor: VerticalDatumEntry(name) {#VerticalDatumEntry_name_2}
 
@@ -44,11 +44,11 @@ url: /ar/python-net/aspose.gis.epsg/verticaldatumentry/
  VerticalDatumEntry(name) 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة VerticalDatumEntry
+يقوم بإنشاء نسخة جديدة من الفئة VerticalDatumEntry
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 
@@ -63,13 +63,13 @@ url: /ar/python-net/aspose.gis.epsg/verticaldatumentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VerticalDatumEntry](/psd/python-net/aspose.gis.epsg/verticaldatumentry) |  |
 

@@ -14,19 +14,19 @@ url: /ar/python-net/aspose.gis.common/coordinate/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Coordinate()](#Coordinate__1) | يقوم بإنشاء نسخة جديدة من فئة Coordinate |
-| [Coordinate(x, y)](#Coordinate_x_y_2) | يقوم بإنشاء نسخة جديدة من فئة Coordinate |
+| [Coordinate()](#Coordinate__1) | يُنشئ مثلاً جديداً من فئة Coordinate |
+| [Coordinate(x, y)](#Coordinate_x_y_2) | يُنشئ مثلاً جديداً من فئة Coordinate |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | max_value [static] | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | min_value [static] | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | x | double | r |  |
 | y | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [compare_to(other)](#compare_to_other_1) |    |
 | [distance_to(other)](#distance_to_other_2) |    |
@@ -40,7 +40,7 @@ url: /ar/python-net/aspose.gis.common/coordinate/
  Coordinate() 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة Coordinate
+يُنشئ مثلاً جديداً من فئة Coordinate
 
 ### Constructor: Coordinate(x, y) {#Coordinate_x_y_2}
 
@@ -49,11 +49,11 @@ url: /ar/python-net/aspose.gis.common/coordinate/
  Coordinate(x, y) 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة Coordinate
+يُنشئ مثلاً جديداً من فئة Coordinate
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
@@ -69,13 +69,13 @@ url: /ar/python-net/aspose.gis.common/coordinate/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -91,13 +91,13 @@ url: /ar/python-net/aspose.gis.common/coordinate/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -113,13 +113,13 @@ url: /ar/python-net/aspose.gis.common/coordinate/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

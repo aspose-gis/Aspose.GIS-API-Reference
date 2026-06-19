@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.rendering/fillstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BACKWARD_DIAGONAL_HATCH | نمط من الخطوط على القطر من الأعلى يمينًا إلى الأسفل يسارًا. |
-| CROSS_HATCH | نمط من الخطوط الأفقية والعمودية التي تتقاطع. |
+| CROSS_HATCH | نمط من الخطوط الأفقية والرأسية التي تتقاطع. |
 | DIAGONAL_CROSS_HATCH | نمط من الخطوط القطرية المتقاطعة. |
 | FORWARD_DIAGONAL_HATCH | نمط من الخطوط على القطر من الأعلى يسارًا إلى الأسفل يمينًا. |
 | HORIZONTAL_HATCH | نمط من الخطوط الأفقية. |
-| لا شيء | لا تعبئة. |
+| بدون | لا تقم بالتعبئة. |
 | SOLID | تعبئة صلبة. |
 | VERTICAL_HATCH | نمط من الخطوط العمودية. |

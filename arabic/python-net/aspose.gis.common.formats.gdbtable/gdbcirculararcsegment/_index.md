@@ -16,21 +16,21 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbCircularArcSegment()](#GdbCircularArcSegment__1) | يُهيئ نسخة جديدة من الفئة GdbCircularArcSegment |
+| [GdbCircularArcSegment()](#GdbCircularArcSegment__1) | يُنشئ مثلاً جديداً من فئة GdbCircularArcSegment |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
-| coordinate_is_interior | bool | r/w |  |
-| is_counter_clockwise | bool | r/w |  |
-| is_empty | bool | r/w |  |
-| is_line | bool | r/w |  |
-| is_minor | bool | r/w |  |
-| is_point | bool | r/w |  |
+| coordinate_is_interior | bool | قراءة/كتابة |  |
+| is_counter_clockwise | bool | قراءة/كتابة |  |
+| is_empty | bool | قراءة/كتابة |  |
+| is_line | bool | قراءة/كتابة |  |
+| is_minor | bool | قراءة/كتابة |  |
+| is_point | bool | قراءة/كتابة |  |
 | segment_type | [GdbCurveSegmentType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype) | r |    |
-| start_point_index | int | r/w |  |
+| start_point_index | int | قراءة/كتابة |  |
 
 
 ### Constructor: GdbCircularArcSegment() {#GdbCircularArcSegment__1}
@@ -40,5 +40,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/
  GdbCircularArcSegment() 
 ```
 
-يُهيئ نسخة جديدة من الفئة GdbCircularArcSegment
+يُنشئ مثلاً جديداً من فئة GdbCircularArcSegment
 

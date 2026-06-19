@@ -16,28 +16,28 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| children | [NodeLink[]](/psd/python-net/aspose.gis/nodelink) | r | يحصل على الأطفال. |
-| max_fade_extent | int | r/w | MaxFadeExtent لعقدة 'Lod'. |
-| max_lod_pixels | int | r/w | MaxLodPixels لعقدة 'Lod'. |
-| min_fade_extent | int | r/w | MinFadeExtent لعقدة 'Lod'. |
-| min_lod_pixels | int | r/w | MinLodPixels من عقدة 'Lod'. |
+| children | [NodeLink[]](/psd/python-net/aspose.gis/nodelink) | r | يحصل على العناصر الفرعية. |
+| max_fade_extent | int | قراءة/كتابة | المدى الأقصى للبهتان لعقدة 'Lod'. |
+| max_lod_pixels | int | قراءة/كتابة | الحد الأقصى لبكسلات LOD لعقدة 'Lod'. |
+| min_fade_extent | int | قراءة/كتابة | الحد الأدنى للبهتان لعقدة 'Lod'. |
+| min_lod_pixels | int | قراءة/كتابة | MinLodPixels من عقدة 'Lod'. |
 | name_without_prefix | string | r | يحصل على الاسم بدون البادئة. |
-| node_name | string | r/w | يحصل أو يعيّن الاسم. |
-| node_value | string | r/w | يحصل أو يعيّن القيمة. |
+| node_name | string | قراءة/كتابة | يحصل أو يضبط الاسم. |
+| node_value | string | قراءة/كتابة | يحصل أو يضبط القيمة. |
 | بادئة | string | r | يحصل على البادئة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [add_child(child)](#add_child_child_1) | يضيف الطفل. |
-| [as_bool()](#as_bool__2) | يرجع القيمة محوّلة إلى bool |
-| [as_double()](#as_double__3) | يرجع القيمة محوّلة إلى double. |
-| [as_int()](#as_int__4) | يعيد القيمة محوَّلة إلى int. |
+| [add_child(child)](#add_child_child_1) | يضيف العنصر الفرعي. |
+| [as_bool()](#as_bool__2) | يعيد القيمة محوّلة إلى النوع bool |
+| [as_double()](#as_double__3) | يعيد القيمة محوّلة إلى النوع double. |
+| [as_int()](#as_int__4) | يعيد القيمة محوّلة إلى int. |
 | [find_nodes_by_name(name)](#find_nodes_by_name_name_5) | يبحث عن عقد XML بالاسم |
-| [get_node_by_name(name)](#get_node_by_name_name_6) | يحصل على العقدة بالاسم. يرجى ملاحظة أن هذه الطريقة ستعيد أول عقدة تم العثور عليها.<br/>            لا يهم في أي مستوى سيتم العثور عليها |
+| [get_node_by_name(name)](#get_node_by_name_name_6) | يحصل على العقدة بالاسم. يرجى ملاحظة أن هذه الطريقة ستعيد أول عقدة تم العثور عليها.<br/>            لا يهم في أي مستوى تم العثور عليها |
 | [get_node_content()](#get_node_content__7) | يحصل على محتوى العقدة. |
-| [get_nodes_by_name(names)](#get_nodes_by_name_names_8) | يحصل على جميع العقد بالاسم المحدد. <br/>            لا يهم في أي مستوى سيتم العثور عليها |
+| [get_nodes_by_name(names)](#get_nodes_by_name_names_8) | يحصل على جميع العقد بالاسم المحدد. <br/>            لا يهم في أي مستوى تم العثور عليها |
 
 
 ### Method: add_child(child) {#add_child_child_1}
@@ -47,13 +47,13 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
  add_child(child) 
 ```
 
-يضيف الطفل.
+يضيف العنصر الفرعي.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| child | [NodeLink](/psd/python-net/aspose.gis/nodelink) | العنصر الفرعي. |
+| child | [NodeLink](/psd/python-net/aspose.gis/nodelink) | الطفل. |
 
 ### Method: as_bool() {#as_bool__2}
 
@@ -62,13 +62,13 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
  as_bool() 
 ```
 
-يرجع القيمة محوّلة إلى bool
+يعيد القيمة محوّلة إلى النوع bool
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | القيمة المنطقية للعقدة |
+| bool | قيمة bool للعقدة |
 
 
 ### Method: as_double() {#as_double__3}
@@ -78,13 +78,13 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
  as_double() 
 ```
 
-يرجع القيمة محوّلة إلى double.
+يعيد القيمة محوّلة إلى النوع double.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| double | القيمة double للعقدة |
+| double | قيمة double للعقدة |
 
 
 ### Method: as_int() {#as_int__4}
@@ -94,13 +94,13 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
  as_int() 
 ```
 
-يعيد القيمة محوَّلة إلى int.
+يعيد القيمة محوّلة إلى int.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| int | القيمة int للعقدة |
+| int | قيمة int للعقدة |
 
 
 ### Method: find_nodes_by_name(name) {#find_nodes_by_name_name_5}
@@ -114,13 +114,13 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم العقدة |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [NodeLink[]](/psd/python-net/aspose.gis/nodelink) | مصفوفة من عقد XML بالاسم |
 
@@ -132,19 +132,19 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
  get_node_by_name(name) 
 ```
 
-يحصل على العقدة بالاسم. يرجى ملاحظة أن هذه الطريقة ستعيد أول عقدة تم العثور عليها.<br/>            لا يهم في أي مستوى سيتم العثور عليها
+يحصل على العقدة بالاسم. يرجى ملاحظة أن هذه الطريقة ستعيد أول عقدة تم العثور عليها.<br/>            لا يهم في أي مستوى تم العثور عليها
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم العقدة التي تريد العثور عليها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [NodeLink](/psd/python-net/aspose.gis/nodelink) | العقدة التي تم العثور عليها باستخدام واجهة NodeLink API |
+| [NodeLink](/psd/python-net/aspose.gis/nodelink) | العقدة التي تم العثور عليها باستخدام NodeLink API |
 
 
 ### Method: get_node_content() {#get_node_content__7}
@@ -158,7 +158,7 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | محتوى العقدة |
 
@@ -170,17 +170,17 @@ url: /ar/python-net/aspose.gis.formats.kml.specificfields/kmllodsettings/
  get_nodes_by_name(names) 
 ```
 
-يحصل على جميع العقد بالاسم المحدد. <br/>            لا يهم في أي مستوى سيتم العثور عليها
+يحصل على جميع العقد بالاسم المحدد. <br/>            لا يهم في أي مستوى تم العثور عليها
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الأسماء | string | الأسماء. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [NodeLink[]](/psd/python-net/aspose.gis/nodelink) | مصفوفة العقد التي تم العثور عليها. |
 

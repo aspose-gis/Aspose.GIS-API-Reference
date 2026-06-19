@@ -1,5 +1,5 @@
 ---
-title: "فئة PaintEngines"
+title: "PaintEngines فئة"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.painting/paintengines/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.painting/paintengines/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [bmp(path, options)](#bmp_path_options_1) |    |
 | [g_svg(path, options)](#g_svg_path_options_2) |    |
@@ -34,14 +34,14 @@ url: /ar/python-net/aspose.gis.painting/paintengines/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | options | [PaintEngineOptions](/psd/python-net/aspose.gis.painting/paintengineoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintEngine](/psd/python-net/aspose.gis.painting/paintengine) |  |
 
@@ -57,14 +57,14 @@ url: /ar/python-net/aspose.gis.painting/paintengines/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | options | [SvgGeometryOptions](/psd/python-net/aspose.gis.painting/svggeometryoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintEngine](/psd/python-net/aspose.gis.painting/paintengine) |  |
 
@@ -80,14 +80,14 @@ url: /ar/python-net/aspose.gis.painting/paintengines/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | options | [PaintEngineOptions](/psd/python-net/aspose.gis.painting/paintengineoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintEngine](/psd/python-net/aspose.gis.painting/paintengine) |  |
 
@@ -103,14 +103,14 @@ url: /ar/python-net/aspose.gis.painting/paintengines/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | options | [PaintEngineOptions](/psd/python-net/aspose.gis.painting/paintengineoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintEngine](/psd/python-net/aspose.gis.painting/paintengine) |  |
 
@@ -126,14 +126,14 @@ url: /ar/python-net/aspose.gis.painting/paintengines/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | options | [SvgOptions](/psd/python-net/aspose.gis.painting/svgoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintEngine](/psd/python-net/aspose.gis.painting/paintengine) |  |
 

@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wkttokentype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | إغلاق |  |
 | فاصلة |  |
 | DATE_TIME |  |
 | نهاية الملف |  |
 | EQUALS |  |
-| غير صالح |  |
+| غير_صالح |  |
 | كلمة مفتاحية |  |
-| رقم |  |
+| الرقم |  |
 | فتح |  |
 | SEMI_COLON |  |
-| STRING |  |
+| سلسلة |  |

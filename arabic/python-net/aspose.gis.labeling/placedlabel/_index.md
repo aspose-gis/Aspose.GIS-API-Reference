@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.labeling/placedlabel/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [PlacedLabel(label, position_index)](#PlacedLabel_label_position_index_1) | يُهيئ نسخة جديدة من فئة PlacedLabel |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | label | [Label](/psd/python-net/aspose.gis.topology.graph/label) | r |    |
 | position | [LabelPosition](/psd/python-net/aspose.gis.labeling/labelposition) | r |    |
@@ -35,7 +35,7 @@ url: /ar/python-net/aspose.gis.labeling/placedlabel/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | label | [Label](/psd/python-net/aspose.gis.topology.graph/label) |  |
 | position_index | int |  |

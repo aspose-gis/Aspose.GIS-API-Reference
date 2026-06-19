@@ -1,5 +1,5 @@
 ---
-title: "فئة LineGeometryUtils"
+title: "LineGeometryUtils فئة"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.labeling.line/linegeometryutils/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.labeling.line/linegeometryutils/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [angle(end, start)](#angle_end_start_1) |    |
 | [angle_anti(end, start)](#angle_anti_end_start_2) |    |
@@ -33,14 +33,14 @@ url: /ar/python-net/aspose.gis.labeling.line/linegeometryutils/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -56,14 +56,14 @@ url: /ar/python-net/aspose.gis.labeling.line/linegeometryutils/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -79,16 +79,16 @@ url: /ar/python-net/aspose.gis.labeling.line/linegeometryutils/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | charter_start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
-| diameter | double |  |
+| قطر | double |  |
 | segment_start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 | segment_end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
@@ -104,13 +104,13 @@ url: /ar/python-net/aspose.gis.labeling.line/linegeometryutils/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | زاوية | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 

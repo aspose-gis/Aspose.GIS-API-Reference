@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbTableException()](#GdbTableException__1) | يُنشئ مثلاً جديداً من الفئة GdbTableException |
-| [GdbTableException(message)](#GdbTableException_message_2) | يُنشئ مثلاً جديداً من الفئة GdbTableException |
+| [GdbTableException()](#GdbTableException__1) | ينشئ مثيلاً جديدًا لفئة GdbTableException |
+| [GdbTableException(message)](#GdbTableException_message_2) | ينشئ مثيلاً جديدًا لفئة GdbTableException |
 
 
 ### Constructor: GdbTableException() {#GdbTableException__1}
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableexception/
  GdbTableException() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة GdbTableException
+ينشئ مثيلاً جديدًا لفئة GdbTableException
 
 ### Constructor: GdbTableException(message) {#GdbTableException_message_2}
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableexception/
  GdbTableException(message) 
 ```
 
-يُنشئ مثلاً جديداً من الفئة GdbTableException
+ينشئ مثيلاً جديدًا لفئة GdbTableException
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الرسالة | string |  |
 

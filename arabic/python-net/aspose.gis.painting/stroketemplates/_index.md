@@ -1,5 +1,5 @@
 ---
-title: "StrokeTemplates فئة"
+title: "StrokeTemplates الفئة"
 type: docs
 weight: 140
 url: /ar/python-net/aspose.gis.painting/stroketemplates/
@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.painting/stroketemplates/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [StrokeTemplates()](#StrokeTemplates__1) | ينشئ مثيلاً جديدًا من الفئة StrokeTemplates |
+| [StrokeTemplates()](#StrokeTemplates__1) | يقوم بإنشاء نسخة جديدة من الفئة StrokeTemplates |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | DASH_DOT_DOT_MULTIPLIERS [static] | double | r |  |
 | DASH_DOT_MULTIPLIERS [static] | double | r |  |
 | DASH_MULTIPLIERS [static] | double | r |  |
 | DOT_MULTIPLIERS [static] | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_equal_pattern(multipliers, pattern)](#is_equal_pattern_multipliers_pattern_1) |    |
 
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.painting/stroketemplates/
  StrokeTemplates() 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة StrokeTemplates
+يقوم بإنشاء نسخة جديدة من الفئة StrokeTemplates
 
 ### Method: is_equal_pattern(multipliers, pattern)  [static] {#is_equal_pattern_multipliers_pattern_1}
 
@@ -50,14 +50,14 @@ url: /ar/python-net/aspose.gis.painting/stroketemplates/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | المضاعفات | double |  |
 | النمط | float |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

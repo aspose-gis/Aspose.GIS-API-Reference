@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.formats.worldfile/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [WorldRasterDriver](/psd/python-net/aspose.gis.formats.worldfile/worldrasterdriver/) | برنامج تشغيل لتنسيقات الصور النقطية مع ملف العالم |
+| [WorldRasterDriver](/psd/python-net/aspose.gis.formats.worldfile/worldrasterdriver/) | برنامج تشغيل لتنسيقات الصور النقطية مع ملف world |

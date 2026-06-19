@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktstring/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [WktString(value)](#WktString_value_1) | ينشئ مثيلاً جديدًا من فئة WktString |
+| [WktString(value)](#WktString_value_1) | ينشئ مثيلاً جديداً لفئة WktString |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | parent | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) | r |    |
 | القيمة | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(wkt)](#create_wkt_1) |    |
 | [get_hash_code()](#get_hash_code__2) |    |
@@ -39,11 +39,11 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktstring/
  WktString(value) 
 ```
 
-ينشئ مثيلاً جديدًا من فئة WktString
+ينشئ مثيلاً جديداً لفئة WktString
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | string |  |
 
@@ -58,13 +58,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktstring/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | wkt | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -80,7 +80,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktstring/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -96,7 +96,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktstring/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 

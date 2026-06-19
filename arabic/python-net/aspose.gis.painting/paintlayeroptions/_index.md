@@ -1,5 +1,5 @@
 ---
-title: "فئة PaintLayerOptions"
+title: "PaintLayerOptions فئة"
 type: docs
 weight: 50
 url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | by_default [static] | [PaintLayerOptions](/psd/python-net/aspose.gis.painting/paintlayeroptions) | r |    |
 | crisp_edges | bool | r |  |
@@ -22,7 +22,7 @@ url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
 | scale_x | double | r |  |
 | scale_y | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [allow_crisp_edges()](#allow_crisp_edges__1) |    |
 | [clone()](#clone__2) | ينشئ كائنًا جديدًا يكون نسخة من المثيل الحالي. |
@@ -42,7 +42,7 @@ url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintLayerOptions](/psd/python-net/aspose.gis.painting/paintlayeroptions) |  |
 
@@ -58,7 +58,7 @@ url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintLayerOptions](/psd/python-net/aspose.gis.painting/paintlayeroptions) |  |
 
@@ -74,13 +74,13 @@ url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [PaintLayerOptions](/psd/python-net/aspose.gis.painting/paintlayeroptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -96,13 +96,13 @@ url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | new_opacity | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintLayerOptions](/psd/python-net/aspose.gis.painting/paintlayeroptions) |  |
 
@@ -118,14 +118,14 @@ url: /ar/python-net/aspose.gis.painting/paintlayeroptions/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | new_scale_x | double |  |
 | new_scale_y | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintLayerOptions](/psd/python-net/aspose.gis.painting/paintlayeroptions) |  |
 

@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.formats.inmemory/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [InMemoryDriver](/psd/python-net/aspose.gis.formats.inmemory/inmemorydriver/) | محرك للعمل مع البيانات في الذاكرة. |
+| [InMemoryDriver](/psd/python-net/aspose.gis.formats.inmemory/inmemorydriver/) | برنامج تشغيل للعمل مع البيانات في الذاكرة. |

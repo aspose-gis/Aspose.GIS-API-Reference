@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbFieldDescription(type)](#GdbFieldDescription_type_1) | يقوم بتهيئة نسخة جديدة من الفئة GdbFieldDescription |
+| [GdbFieldDescription(type)](#GdbFieldDescription_type_1) | يُنشئ مثيلًا جديدًا من فئة GdbFieldDescription |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الاسم المستعار | string | r/w |  |
-| default_value | object | r/w |  |
+| الاسم المستعار | string | قراءة/كتابة |  |
+| default_value | object | قراءة/كتابة |  |
 | field_type | [GdbFieldType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfieldtype) | r |    |
-| is_nullable | bool | r/w |  |
-| الاسم | string | r/w |  |
-| العرض | uint | r/w |  |
+| is_nullable | bool | قراءة/كتابة |  |
+| الاسم | string | قراءة/كتابة |  |
+| width | uint | قراءة/كتابة |  |
 
 
 ### Constructor: GdbFieldDescription(type) {#GdbFieldDescription_type_1}
@@ -35,11 +35,11 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription/
  GdbFieldDescription(type) 
 ```
 
-يقوم بتهيئة نسخة جديدة من الفئة GdbFieldDescription
+يُنشئ مثيلًا جديدًا من فئة GdbFieldDescription
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | type | [GdbFieldType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfieldtype) |  |
 

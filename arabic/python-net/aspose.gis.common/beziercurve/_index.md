@@ -1,5 +1,5 @@
 ---
-title: "فئة BezierCurve"
+title: "BezierCurve فئة"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.common/beziercurve/
@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.common/beziercurve/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [BezierCurve(c0, c1, c2, c3)](#BezierCurve_c0_c1_c2_c3_1) | ينشئ مثيلًا جديدًا من فئة BezierCurve |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | c0 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | c1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | c2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | c3 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [coordinate_at(t)](#coordinate_at_t_1) |    |
 | linearize(coordinates, step_size_in_degree) |  |
@@ -42,7 +42,7 @@ url: /ar/python-net/aspose.gis.common/beziercurve/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | c0 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 | c1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
@@ -60,13 +60,13 @@ url: /ar/python-net/aspose.gis.common/beziercurve/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | t | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 

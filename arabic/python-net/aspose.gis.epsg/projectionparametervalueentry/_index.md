@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameterValueEntry فئة"
+title: "فئة ProjectionParameterValueEntry"
 type: docs
 weight: 100
 url: /ar/python-net/aspose.gis.epsg/projectionparametervalueentry/
@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.epsg/projectionparametervalueentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [ProjectionParameterValueEntry()](#ProjectionParameterValueEntry__1) | يُنشئ مثيلًا جديدًا لفئة ProjectionParameterValueEntry |
-| [ProjectionParameterValueEntry(parameter_code, value)](#ProjectionParameterValueEntry_parameter_code_value_2) | يُنشئ مثيلًا جديدًا لفئة ProjectionParameterValueEntry |
+| [ProjectionParameterValueEntry()](#ProjectionParameterValueEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة ProjectionParameterValueEntry |
+| [ProjectionParameterValueEntry(parameter_code, value)](#ProjectionParameterValueEntry_parameter_code_value_2) | يقوم بإنشاء نسخة جديدة من الفئة ProjectionParameterValueEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | parameter_code | int | r |  |
 | القيمة | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(parameter_code, value)](#create_parameter_code_value_1) |    |
 
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.epsg/projectionparametervalueentry/
  ProjectionParameterValueEntry() 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة ProjectionParameterValueEntry
+يقوم بإنشاء نسخة جديدة من الفئة ProjectionParameterValueEntry
 
 ### Constructor: ProjectionParameterValueEntry(parameter_code, value) {#ProjectionParameterValueEntry_parameter_code_value_2}
 
@@ -45,11 +45,11 @@ url: /ar/python-net/aspose.gis.epsg/projectionparametervalueentry/
  ProjectionParameterValueEntry(parameter_code, value) 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة ProjectionParameterValueEntry
+يقوم بإنشاء نسخة جديدة من الفئة ProjectionParameterValueEntry
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | parameter_code | int |  |
 | القيمة | double |  |
@@ -65,14 +65,14 @@ url: /ar/python-net/aspose.gis.epsg/projectionparametervalueentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | parameter_code | int |  |
 | القيمة | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [ProjectionParameterValueEntry](/psd/python-net/aspose.gis.epsg/projectionparametervalueentry) |  |
 

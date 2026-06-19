@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SingleStreamPath(stream)](#SingleStreamPath_stream_1) | يُنشئ مثيلًا جديدًا لفئة SingleStreamPath |
+| [SingleStreamPath(stream)](#SingleStreamPath_stream_1) | يُهيئ مثيلًا جديدًا من فئة SingleStreamPath |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الموقع | string | r |  |
-| فاصل | char | r |  |
+| separator | حرف | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [combine(path)](#combine_path_1) |    |
 | delete() |  |
@@ -43,11 +43,11 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
  SingleStreamPath(stream) 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة SingleStreamPath
+يُهيئ مثيلًا جديدًا من فئة SingleStreamPath
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 
@@ -62,13 +62,13 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
@@ -84,7 +84,7 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -100,7 +100,7 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<AbstractPathInternal> |  |
 
@@ -116,13 +116,13 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الوصول | System.IO.FileAccess |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | _io.BufferedRandom |  |
 
@@ -138,13 +138,13 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | new_extension | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
@@ -160,13 +160,13 @@ url: /ar/python-net/aspose.gis.common/singlestreampath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 

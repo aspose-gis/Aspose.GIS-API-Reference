@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/color/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Color()](#Color__1) | يُنشئ نسخة جديدة من الفئة Color |
-| [Color(r, g, b)](#Color_r_g_b_2) | يُنشئ نسخة جديدة من الفئة Color |
+| [Color()](#Color__1) | يُهيئ نسخة جديدة من فئة Color |
+| [Color(r, g, b)](#Color_r_g_b_2) | يُهيئ نسخة جديدة من فئة Color |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | أزرق | byte | r |  |
 | أخضر | byte | r |  |
@@ -33,7 +33,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/color/
  Color() 
 ```
 
-يُنشئ نسخة جديدة من الفئة Color
+يُهيئ نسخة جديدة من فئة Color
 
 ### Constructor: Color(r, g, b) {#Color_r_g_b_2}
 
@@ -42,11 +42,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/color/
  Color(r, g, b) 
 ```
 
-يُنشئ نسخة جديدة من الفئة Color
+يُهيئ نسخة جديدة من فئة Color
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | r | byte |  |
 | g | byte |  |

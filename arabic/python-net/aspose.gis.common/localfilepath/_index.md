@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [LocalFilePath(path)](#LocalFilePath_path_1) | يُنشئ مثلاً جديداً من فئة LocalFilePath |
+| [LocalFilePath(path)](#LocalFilePath_path_1) | يُنشئ مثلاً جديداً من الفئة LocalFilePath |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الموقع | string | r |  |
-| فاصل | char | r |  |
+| separator | حرف | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [combine(filename)](#combine_filename_1) |    |
 | delete() |  |
@@ -43,13 +43,13 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
  LocalFilePath(path) 
 ```
 
-يُنشئ مثلاً جديداً من فئة LocalFilePath
+يُنشئ مثلاً جديداً من الفئة LocalFilePath
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 ### Method: combine(filename) {#combine_filename_1}
 
@@ -62,13 +62,13 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | filename | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
@@ -84,7 +84,7 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -100,7 +100,7 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<AbstractPathInternal> |  |
 
@@ -116,13 +116,13 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الوصول | System.IO.FileAccess |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | _io.BufferedRandom |  |
 
@@ -138,13 +138,13 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | new_extension | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
@@ -160,13 +160,13 @@ url: /ar/python-net/aspose.gis.common/localfilepath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | new_location | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 

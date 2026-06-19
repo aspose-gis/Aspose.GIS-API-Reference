@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RuleBasedSymbolizer()](#RuleBasedSymbolizer__1) | يُهيئ نسخة جديدة من فئة RuleBasedSymbolizer |
+| [RuleBasedSymbolizer()](#RuleBasedSymbolizer__1) | ينشئ نسخة جديدة من فئة RuleBasedSymbolizer |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) بعدم رسم أي شيء ويتخطى فعلياً رسم الهندسة التي يُطبق عليها. |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) برسم لا شيء ويتخطى فعليًا رسم الهندسة التي يُطبق عليها. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [add(rule)](#add_rule_1) | يضيف قاعدة. |
-| [add_else_rule(symbolizer)](#add_else_rule_symbolizer_2) | يضيف مُرمّزًا سيتم تطبيقه على العناصر التي لا تتطابق مع أي قاعدة تصفية. |
+| [add(rule)](#add_rule_1) | يضيف قاعدةً. |
+| [add_else_rule(symbolizer)](#add_else_rule_symbolizer_2) | يضيف symbolizer الذي سيتم تطبيقه على العناصر التي لا تتطابق مع أي قاعدة تصفية. |
 
 
 ### Constructor: RuleBasedSymbolizer() {#RuleBasedSymbolizer__1}
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
  RuleBasedSymbolizer() 
 ```
 
-يُهيئ نسخة جديدة من فئة RuleBasedSymbolizer
+ينشئ نسخة جديدة من فئة RuleBasedSymbolizer
 
 ### Method: add(rule) {#add_rule_1}
 
@@ -46,11 +46,11 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
  add(rule) 
 ```
 
-يضيف قاعدة.
+يضيف قاعدةً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | rule | [Rule](/psd/python-net/aspose.gis.rendering.symbolizers/rule) | القاعدة للإضافة. |
 
@@ -61,11 +61,11 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
  add_else_rule(symbolizer) 
 ```
 
-يضيف مُرمّزًا سيتم تطبيقه على العناصر التي لا تتطابق مع أي قاعدة تصفية.
+يضيف symbolizer الذي سيتم تطبيقه على العناصر التي لا تتطابق مع أي قاعدة تصفية.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | مُرمّز. |
+| symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | رمز. |
 

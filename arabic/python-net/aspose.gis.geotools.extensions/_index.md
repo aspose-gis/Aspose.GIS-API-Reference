@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.geotools.extensions/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [VectorLayerExtention](/psd/python-net/aspose.gis.geotools.extensions/vectorlayerextention/) | امتداد طبقة المتجهات. |

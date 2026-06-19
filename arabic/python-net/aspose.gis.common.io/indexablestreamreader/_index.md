@@ -1,5 +1,5 @@
 ---
-title: "فئة IndexableStreamReader"
+title: "IndexableStreamReader فئة"
 type: docs
 weight: 60
 url: /ar/python-net/aspose.gis.common.io/indexablestreamreader/
@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.common.io/indexablestreamreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [IndexableStreamReader(stream)](#IndexableStreamReader_stream_1) | يُنشئ مثالا جديدا من الفئة IndexableStreamReader |
+| [IndexableStreamReader(stream)](#IndexableStreamReader_stream_1) | يقوم بإنشاء نسخة جديدة من فئة IndexableStreamReader |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | offsets_pos | System.Collections.Generic.IReadOnlyList<long> | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | set_split_settings(words) |  |
 | set_symbol_to_replace_illegal(symbol_to_replace_illegal) |  |
@@ -35,11 +35,11 @@ url: /ar/python-net/aspose.gis.common.io/indexablestreamreader/
  IndexableStreamReader(stream) 
 ```
 
-يُنشئ مثالا جديدا من الفئة IndexableStreamReader
+يقوم بإنشاء نسخة جديدة من فئة IndexableStreamReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | stream | [BomStream](/psd/python-net/aspose.gis.common.io/bomstream) |  |
 

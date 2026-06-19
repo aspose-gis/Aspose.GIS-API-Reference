@@ -1,5 +1,5 @@
 ---
-title: "فئة EllipticArc"
+title: "EllipticArc فئة"
 type: docs
 weight: 280
 url: /ar/python-net/aspose.gis.common/ellipticarc/
@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.common/ellipticarc/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [EllipticArc()](#EllipticArc__1) | ينشئ مثيلًا جديدًا من فئة EllipticArc |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | مع اتجاه عقارب الساعة | bool | r |  |
 | ellipse | [Ellipse](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/ellipse) | r |    |
 | end_coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | start_coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | linearize(coordinates, step_size_in_degree) |  |
 

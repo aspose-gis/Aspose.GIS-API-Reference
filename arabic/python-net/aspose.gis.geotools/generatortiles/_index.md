@@ -1,5 +1,5 @@
 ---
-title: "GeneratorTiles فئة"
+title: "فئة GeneratorTiles"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.geotools/generatortiles/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.geotools/generatortiles/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [generate_tiles(layer, out_directory, zoom, extent, options)](#generate_tiles_layer_out_directory_zoom_extent_options_1) | إنشاء بلاطات مع التكبير إلى دليل الإخراج |
 | [generate_tiles(layer, out_directory, zoom, options)](#generate_tiles_layer_out_directory_zoom_options_2) | إنشاء بلاطات مع التكبير إلى دليل الإخراج |
@@ -33,12 +33,12 @@ url: /ar/python-net/aspose.gis.geotools/generatortiles/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) |  |
 | out_directory | string | دليل الإخراج |
 | zoom | int | مستوى التكبير للبلاطات |
-| extent | [Extent](/psd/python-net/aspose.gis/extent) | صندوق الحدود لتصوير البلاطات |
+| extent | [Extent](/psd/python-net/aspose.gis/extent) | صندوق الحدود لتصيير البلاطات |
 | options | [GeneratorTilesRenderOptions](/psd/python-net/aspose.gis.geotools/generatortilesrenderoptions) | خيارات عرض البلاط |
 
 ### Method: generate_tiles(layer, out_directory, zoom, options)  [static] {#generate_tiles_layer_out_directory_zoom_options_2}
@@ -52,7 +52,7 @@ url: /ar/python-net/aspose.gis.geotools/generatortiles/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) |  |
 | out_directory | string | دليل الإخراج |
@@ -70,12 +70,12 @@ url: /ar/python-net/aspose.gis.geotools/generatortiles/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الطبقات | System.Collections.Generic.IEnumerable<VectorLayer> | طبقات الإدخال |
 | out_directory | string | دليل الإخراج |
 | zoom | int | مستوى التكبير للبلاطات |
-| extent | [Extent](/psd/python-net/aspose.gis/extent) | صندوق الحدود لتصوير البلاطات |
+| extent | [Extent](/psd/python-net/aspose.gis/extent) | صندوق الحدود لتصيير البلاطات |
 | options | [GeneratorTilesRenderOptions](/psd/python-net/aspose.gis.geotools/generatortilesrenderoptions) | خيارات عرض البلاط |
 
 ### Method: generate_tiles(layers, out_directory, zoom, options)  [static] {#generate_tiles_layers_out_directory_zoom_options_4}
@@ -89,7 +89,7 @@ url: /ar/python-net/aspose.gis.geotools/generatortiles/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الطبقات | System.Collections.Generic.IEnumerable<VectorLayer> | طبقات الإدخال |
 | out_directory | string | دليل الإخراج |

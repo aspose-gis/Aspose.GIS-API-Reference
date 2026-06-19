@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.formats.esriascii/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [EsriAsciiDriver](/psd/python-net/aspose.gis.formats.esriascii/esriasciidriver/) | برنامج تشغيل لتنسيق Esri ASCII Grid. |
-| [EsriAsciiOptions](/psd/python-net/aspose.gis.formats.esriascii/esriasciioptions/) | خيارات خاصة بالمشغل لتنسيق EsriAscii. |
+| [EsriAsciiOptions](/psd/python-net/aspose.gis.formats.esriascii/esriasciioptions/) | خيارات خاصة بالسائق لتنسيق EsriAscii. |

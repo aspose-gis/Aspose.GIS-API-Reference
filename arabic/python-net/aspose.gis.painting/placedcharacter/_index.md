@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.painting/placedcharacter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PlacedCharacter()](#PlacedCharacter__1) | يُنشئ مثيلاً جديدًا من فئة PlacedCharacter |
+| [PlacedCharacter()](#PlacedCharacter__1) | ينشئ مثلاً جديداً من فئة PlacedCharacter |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bottom_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) | r/w |    |
-| تدوير | double | r/w |  |
-| الرمز | char | r/w |  |
+| تدوير | double | قراءة/كتابة |  |
+| الرمز | حرف | قراءة/كتابة |  |
 
 
 ### Constructor: PlacedCharacter() {#PlacedCharacter__1}
@@ -32,5 +32,5 @@ url: /ar/python-net/aspose.gis.painting/placedcharacter/
  PlacedCharacter() 
 ```
 
-يُنشئ مثيلاً جديدًا من فئة PlacedCharacter
+ينشئ مثلاً جديداً من فئة PlacedCharacter
 

@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.rendering.labelings/rulebasedlabeling/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RuleBasedLabeling()](#RuleBasedLabeling__1) | يُنشئ نسخة جديدة من فئة RuleBasedLabeling |
+| [RuleBasedLabeling()](#RuleBasedLabeling__1) | يُهيئ مثلاً جديداً لفئة RuleBasedLabeling |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| null [static] | [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling) | r | يحصل على نسخة من [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/). |
+| null [static] | [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling) | r | يحصل على مثيل من [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/). |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [add(rule)](#add_rule_1) | يضيف قاعدة. |
-| [add_else_rule(labeling)](#add_else_rule_labeling_2) | يضيف تصنيفًا سيتم تطبيقه على العناصر التي لا تتطابق مع أي قاعدة تصفية. |
+| [add(rule)](#add_rule_1) | يضيف قاعدةً. |
+| [add_else_rule(labeling)](#add_else_rule_labeling_2) | يضيف تسمية سيتم تطبيقها على العناصر التي لا تطابق أي قاعدة تصفية. |
 
 
 ### Constructor: RuleBasedLabeling() {#RuleBasedLabeling__1}
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.rendering.labelings/rulebasedlabeling/
  RuleBasedLabeling() 
 ```
 
-يُنشئ نسخة جديدة من فئة RuleBasedLabeling
+يُهيئ مثلاً جديداً لفئة RuleBasedLabeling
 
 ### Method: add(rule) {#add_rule_1}
 
@@ -46,11 +46,11 @@ url: /ar/python-net/aspose.gis.rendering.labelings/rulebasedlabeling/
  add(rule) 
 ```
 
-يضيف قاعدة.
+يضيف قاعدةً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | rule | [LabelingRule](/psd/python-net/aspose.gis.rendering.labelings/labelingrule) | القاعدة للإضافة. |
 
@@ -61,11 +61,11 @@ url: /ar/python-net/aspose.gis.rendering.labelings/rulebasedlabeling/
  add_else_rule(labeling) 
 ```
 
-يضيف تصنيفًا سيتم تطبيقه على العناصر التي لا تتطابق مع أي قاعدة تصفية.
+يضيف تسمية سيتم تطبيقها على العناصر التي لا تطابق أي قاعدة تصفية.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling) | تصنيف. |
+| labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling) | تسمية. |
 

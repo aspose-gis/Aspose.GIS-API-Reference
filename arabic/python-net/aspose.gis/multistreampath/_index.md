@@ -16,28 +16,28 @@ url: /ar/python-net/aspose.gis/multistreampath/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MultiStreamPath(entry_file_name, file_names, streams)](#MultiStreamPath_entry_file_name_file_names_streams_1) | ينشئ مثلاً جديداً من الفئة [MultiStreamPath](/psd/python-net/aspose.gis/multistreampath/). |
+| [MultiStreamPath(entry_file_name, file_names, streams)](#MultiStreamPath_entry_file_name_file_names_streams_1) | يُنشئ مثلاً جديداً من الفئة [MultiStreamPath](/psd/python-net/aspose.gis/multistreampath/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الموقع | string | r | يحصل على تمثيل نصي لموقع هذا <c>AbstractPath</c>. |
+| الموقع | string | r | يحصل على تمثيل نصي للموقع لهذا <c>AbstractPath</c>. |
 | separator | char | r | يحصل على حرف الفاصل المستخدم لفصل مستويات الدليل في سلسلة [MultiStreamPath.location](/psd/python-net/aspose.gis/multistreampath/). |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [combine(location)](#combine_location_1) | يجمع هذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) مع مكوّنات المسار المحددة. |
 | delete() | يحذف ملفًا يشير إليه هذا المسار. |
 | [from_local_path(path)](#from_local_path_path_2) | ينشئ [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) يمثل موقعًا على نظام الملفات المحلي. |
 | [from_stream(stream)](#from_stream_stream_3) | ينشئ [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) من تدفق. |
-| [get_extension()](#get_extension__4) | يرجع الامتداد لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/). |
-| [get_file_name()](#get_file_name__5) | يرجع اسم الملف والامتداد لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/). |
-| [get_file_name_without_extension()](#get_file_name_without_extension__6) | يرجع اسم الملف لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) بدون الامتداد. |
+| [get_extension()](#get_extension__4) | يعيد امتداد هذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/). |
+| [get_file_name()](#get_file_name__5) | يعيد اسم الملف والامتداد لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/). |
+| [get_file_name_without_extension()](#get_file_name_without_extension__6) | يعيد اسم الملف لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) بدون الامتداد. |
 | [is_file()](#is_file__7) | يحصل على قيمة تشير إلى ما إذا كان هذا المسار يشير إلى ملف موجود يمكن فتحه للقراءة. |
-| [list_directory()](#list_directory__8) | يرجع المسارات الموجودة داخل هذا <c>AbstractPath</c>، إذا كان دليلًا. |
-| [open(access)](#open_access_9) | يُجرد مجموعة من تنسيقات الملفات المتعددة المفتوحة عبر البث كمسار للوصول إلى البيانات. |
-| [with_extension(new_extension)](#with_extension_new_extension_10) | يرجع [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) جديدًا مع تغيير امتداد الملف إلى القيمة المحددة. |
+| [list_directory()](#list_directory__8) | يعيد المسارات الموجودة داخل هذا <c>AbstractPath</c>، إذا كان دليلًا. |
+| [open(access)](#open_access_9) | يُجرد مجموعة من صيغ الملفات المتعددة المفتوحة المتدفقة كمسار للوصول إلى البيانات. |
+| [with_extension(new_extension)](#with_extension_new_extension_10) | يعيد [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) جديدًا مع تغيير امتداد الملف إلى القيمة المحددة. |
 
 
 ### Constructor: MultiStreamPath(entry_file_name, file_names, streams) {#MultiStreamPath_entry_file_name_file_names_streams_1}
@@ -47,11 +47,11 @@ url: /ar/python-net/aspose.gis/multistreampath/
  MultiStreamPath(entry_file_name, file_names, streams) 
 ```
 
-ينشئ مثلاً جديداً من الفئة [MultiStreamPath](/psd/python-net/aspose.gis/multistreampath/).
+يُنشئ مثلاً جديداً من الفئة [MultiStreamPath](/psd/python-net/aspose.gis/multistreampath/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | entry_file_name | string | اسم ملف الإدخال. |
 | file_names | string | أسماء الملفات. |
@@ -68,15 +68,15 @@ url: /ar/python-net/aspose.gis/multistreampath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | location | string | مكوّن مسار لإضافته إلى هذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/). |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) جديد يشير إلى [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/) وهو مزيج من مواقع هذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) و<br/>            الوسيط. |
+| [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) جديد يشير إلى [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/) وهو مزيج من مواقع هذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) و<br/>            الوسيطة. |
 
 
 ### Method: from_local_path(path)  [static] {#from_local_path_path_2}
@@ -90,13 +90,13 @@ url: /ar/python-net/aspose.gis/multistreampath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | مسار على نظام الملفات المحلي، مثل <c>"C:\\file.shp"</c> أو <c>"D:\\directory\\"</c>. |
+| path | string | مسار على نظام الملفات المحلي، مثل <c>"C:\\file.shp"</c> أو <c>"D:\\directory\\"</c>. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) يمثل الموقع المحدد بواسطة <paramref name="path" />. |
 
@@ -112,15 +112,15 @@ url: /ar/python-net/aspose.gis/multistreampath/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | stream | _io.BufferedRandom | دفق لإنشاء [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) منه. <c>Aspose.GIS</c> لا يقوم بتحرير الدفق. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | كائن من [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) مع الدفق المحدد كمحتواه. |
+| [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | كائن من [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) يحتوي على الدفق المحدد كمحتواه. |
 
 
 ### Method: get_extension() {#get_extension__4}
@@ -130,11 +130,11 @@ url: /ar/python-net/aspose.gis/multistreampath/
  get_extension() 
 ```
 
-يرجع الامتداد لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/).
+يعيد امتداد هذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/).
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | امتداد هذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) (بما في ذلك النقطة ".") أو<br/>            سلسلة فارغة إذا كان [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) لا يحتوي على امتداد. |
 
@@ -146,13 +146,13 @@ url: /ar/python-net/aspose.gis/multistreampath/
  get_file_name() 
 ```
 
-يرجع اسم الملف والامتداد لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/).
+يعيد اسم الملف والامتداد لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/).
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| string | الأحرف التي تلي آخر حرف [AbstractPath.separator](/psd/python-net/aspose.gis/abstractpath/) في [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/). إذا كان<br/>            الحرف الأخير هو حرف [AbstractPath.separator](/psd/python-net/aspose.gis/abstractpath/)، تُرجع سلسلة فارغة. إذا لم يكن هناك<br/>            أحرف [AbstractPath.separator](/psd/python-net/aspose.gis/abstractpath/) في [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/)، تُرجع [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/) نفسه<br/>            . |
+| string | الأحرف التي تلي آخر حرف [AbstractPath.separator](/psd/python-net/aspose.gis/abstractpath/) في [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/). إذا كان<br/>            الحرف الأخير هو حرف [AbstractPath.separator](/psd/python-net/aspose.gis/abstractpath/)، تُرجع سلسلة فارغة. إذا لم يكن هناك<br/>            أحرف [AbstractPath.separator](/psd/python-net/aspose.gis/abstractpath/) في [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/)، تُرجع [AbstractPath.location](/psd/python-net/aspose.gis/abstractpath/) نفسه. |
 
 
 ### Method: get_file_name_without_extension() {#get_file_name_without_extension__6}
@@ -162,13 +162,13 @@ url: /ar/python-net/aspose.gis/multistreampath/
  get_file_name_without_extension() 
 ```
 
-يرجع اسم الملف لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) بدون الامتداد.
+يعيد اسم الملف لهذا [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) بدون الامتداد.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| string | السلسلة التي تُرجعها [AbstractPath.get_file_name()](/psd/python-net/aspose.gis/abstractpath/) بدون آخر نقطة وجميع الأحرف التي تليها. |
+| string | السلسلة التي تُرجعها [AbstractPath.get_file_name()](/psd/python-net/aspose.gis/abstractpath/) بعد حذف آخر نقطة وجميع الأحرف التي تليها. |
 
 
 ### Method: is_file() {#is_file__7}
@@ -182,7 +182,7 @@ url: /ar/python-net/aspose.gis/multistreampath/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | <see langword="true" /> إذا كان الموقع يشير إلى ملف؛ <see langword="false" /> غير ذلك. |
 
@@ -194,11 +194,11 @@ url: /ar/python-net/aspose.gis/multistreampath/
  list_directory() 
 ```
 
-يرجع المسارات الموجودة داخل هذا <c>AbstractPath</c>، إذا كان دليلًا.
+يعيد المسارات الموجودة داخل هذا <c>AbstractPath</c>، إذا كان دليلًا.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<AbstractPath> | المسارات الموجودة داخل هذا <c>AbstractPath</c>. |
 
@@ -210,17 +210,17 @@ url: /ar/python-net/aspose.gis/multistreampath/
  open(access) 
 ```
 
-يُجرد مجموعة من تنسيقات الملفات المتعددة المفتوحة عبر البث كمسار للوصول إلى البيانات.
+يُجرد مجموعة من صيغ الملفات المتعددة المفتوحة المتدفقة كمسار للوصول إلى البيانات.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الوصول | System.IO.FileAccess | يحدد مجموعة فرعية من العمليات التي يمكن إجراؤها على دفق. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | _io.BufferedRandom | يمكن أن يكون هذا إما   أو الدفق الذي تم تمريره أصلاً من قبل العميل. |
 
@@ -232,17 +232,17 @@ url: /ar/python-net/aspose.gis/multistreampath/
  with_extension(new_extension) 
 ```
 
-يرجع [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) جديدًا مع تغيير امتداد الملف إلى القيمة المحددة.
+يعيد [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) جديدًا مع تغيير امتداد الملف إلى القيمة المحددة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | new_extension | string | امتداد جديد. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | [AbstractPath](/psd/python-net/aspose.gis/abstractpath/) جديد، يشير إلى ملف في نفس الدليل، ولكن بامتداد جديد. |
 

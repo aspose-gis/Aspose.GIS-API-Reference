@@ -1,5 +1,5 @@
 ---
-title: "فئة MapInfoSizes"
+title: "MapInfoSizes فئة"
 type: docs
 weight: 200
 url: /ar/python-net/aspose.gis.common.formats.mapinfo/mapinfosizes/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/mapinfosizes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapInfoSizes()](#MapInfoSizes__1) | يقوم بإنشاء نسخة جديدة من فئة MapInfoSizes |
+| [MapInfoSizes()](#MapInfoSizes__1) | يُنشئ مثلاً جديداً من الفئة MapInfoSizes |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | COMPRESSED_COORDINATE [static] | short | r |  |
 | COORDINATE_HEADER [static] | short | r |  |
@@ -36,5 +36,5 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/mapinfosizes/
  MapInfoSizes() 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة MapInfoSizes
+يُنشئ مثلاً جديداً من الفئة MapInfoSizes
 

@@ -9,9 +9,9 @@ url: /ar/python-net/aspose.gis.common.formats/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [DelayedReadWriteStream](/psd/python-net/aspose.gis.common.formats/delayedreadwritestream/) |  |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |

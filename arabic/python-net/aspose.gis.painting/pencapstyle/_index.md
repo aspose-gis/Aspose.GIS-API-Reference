@@ -1,5 +1,5 @@
 ---
-title: "تعداد PenCapStyle"
+title: "PenCapStyle تعداد"
 type: docs
 weight: 220
 url: /ar/python-net/aspose.gis.painting/pencapstyle/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.painting/pencapstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BUTT |  |
 | ROUND |  |

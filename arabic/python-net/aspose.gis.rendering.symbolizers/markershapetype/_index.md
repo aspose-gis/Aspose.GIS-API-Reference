@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/markershapetype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | CIRCLE | شكل دائرة. |
 | CROSS | شكل صليب. |

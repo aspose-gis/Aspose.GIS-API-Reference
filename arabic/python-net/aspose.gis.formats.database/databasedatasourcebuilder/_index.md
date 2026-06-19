@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.formats.database/databasedatasourcebuilder/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [DatabaseDataSourceBuilder()](#DatabaseDataSourceBuilder__1) | يُنشئ مثيلًا جديدًا من فئة DatabaseDataSourceBuilder |
+| [DatabaseDataSourceBuilder()](#DatabaseDataSourceBuilder__1) | يُنشئ نسخة جديدة من فئة DatabaseDataSourceBuilder |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [from_query(query)](#from_query_query_1) | تكوين مصدر البيانات لاستعلامات قاعدة بيانات مخصصة. |
 
@@ -30,7 +30,7 @@ url: /ar/python-net/aspose.gis.formats.database/databasedatasourcebuilder/
  DatabaseDataSourceBuilder() 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة DatabaseDataSourceBuilder
+يُنشئ نسخة جديدة من فئة DatabaseDataSourceBuilder
 
 ### Method: from_query(query) {#from_query_query_1}
 
@@ -43,13 +43,13 @@ url: /ar/python-net/aspose.gis.formats.database/databasedatasourcebuilder/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | query | string | سلسلة الاستعلام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatabaseQueryDataSourceBuilder](/psd/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder) | [DatabaseQueryDataSourceBuilder](/psd/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/) |
 

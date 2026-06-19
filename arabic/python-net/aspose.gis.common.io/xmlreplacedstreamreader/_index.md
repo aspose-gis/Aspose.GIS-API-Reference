@@ -1,5 +1,5 @@
 ---
-title: "فئة XmlReplacedStreamReader"
+title: "XmlReplacedStreamReader فئة"
 type: docs
 weight: 90
 url: /ar/python-net/aspose.gis.common.io/xmlreplacedstreamreader/
@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.io/xmlreplacedstreamreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [XmlReplacedStreamReader(stream)](#XmlReplacedStreamReader_stream_1) | يُنشئ مثيلًا جديدًا من الفئة XmlReplacedStreamReader |
-| [XmlReplacedStreamReader(stream, encoding, detect_encoding_from_byte_order_marks)](#XmlReplacedStreamReader_stream_encoding_detect_encoding_from_byte_order_marks_2) | يُنشئ مثيلًا جديدًا من الفئة XmlReplacedStreamReader |
+| [XmlReplacedStreamReader(stream)](#XmlReplacedStreamReader_stream_1) | يُنشئ مثيلاً جديدًا لفئة XmlReplacedStreamReader |
+| [XmlReplacedStreamReader(stream, encoding, detect_encoding_from_byte_order_marks)](#XmlReplacedStreamReader_stream_encoding_detect_encoding_from_byte_order_marks_2) | يُنشئ مثيلاً جديدًا لفئة XmlReplacedStreamReader |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | set_symbol_to_replace_illegal(symbol_to_replace_illegal) |  |
 
@@ -31,11 +31,11 @@ url: /ar/python-net/aspose.gis.common.io/xmlreplacedstreamreader/
  XmlReplacedStreamReader(stream) 
 ```
 
-يُنشئ مثيلًا جديدًا من الفئة XmlReplacedStreamReader
+يُنشئ مثيلاً جديدًا لفئة XmlReplacedStreamReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 
@@ -46,11 +46,11 @@ url: /ar/python-net/aspose.gis.common.io/xmlreplacedstreamreader/
  XmlReplacedStreamReader(stream, encoding, detect_encoding_from_byte_order_marks) 
 ```
 
-يُنشئ مثيلًا جديدًا من الفئة XmlReplacedStreamReader
+يُنشئ مثيلاً جديدًا لفئة XmlReplacedStreamReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 | الترميز | System.Text.Encoding |  |

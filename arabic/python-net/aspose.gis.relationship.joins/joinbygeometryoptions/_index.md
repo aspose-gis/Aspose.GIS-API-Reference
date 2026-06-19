@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.relationship.joins/joinbygeometryoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [JoinByGeometryOptions()](#JoinByGeometryOptions__1) | إنشاء نسخة جديدة. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| joined_attributes_prefix | string | r/w | يحدد سلسلة بادئة لأسماء السمات المدمجة. القيمة الافتراضية هي \"joined_\". |
-| نصف القطر | double | r/w | يحدد نصف قطر للبحث عن الهندسة المدمجة. |
+| joined_attributes_prefix | string | قراءة/كتابة | يحدد سلسلة بادئة لأسماء السمات المرتبطة. القيمة الافتراضية هي "joined_". |
+| نصف القطر | double | قراءة/كتابة | يحدد نصف قطر للبحث عن الهندسة المرتبطة. |
 
 
 ### Constructor: JoinByGeometryOptions() {#JoinByGeometryOptions__1}

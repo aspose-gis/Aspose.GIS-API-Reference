@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.rendering.labelings/labelplacement/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينسخ هذا الكائن. |
 
@@ -30,8 +30,8 @@ url: /ar/python-net/aspose.gis.rendering.labelings/labelplacement/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [LabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/labelplacement) | نسخة مكررة من هذه النسخة. |
+| [LabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/labelplacement) | نسخة من هذا المثيل. |
 
 

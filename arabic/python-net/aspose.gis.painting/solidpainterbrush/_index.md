@@ -1,5 +1,5 @@
 ---
-title: "فئة SolidPainterBrush"
+title: "SolidPainterBrush فئة"
 type: docs
 weight: 130
 url: /ar/python-net/aspose.gis.painting/solidpainterbrush/
@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.painting/solidpainterbrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SolidPainterBrush()](#SolidPainterBrush__1) | ينشئ مثلاً جديداً من فئة SolidPainterBrush |
-| [SolidPainterBrush(color, style)](#SolidPainterBrush_color_style_2) | ينشئ مثلاً جديداً من فئة SolidPainterBrush |
+| [SolidPainterBrush()](#SolidPainterBrush__1) | تهيئة نسخة جديدة من فئة SolidPainterBrush |
+| [SolidPainterBrush(color, style)](#SolidPainterBrush_color_style_2) | تهيئة نسخة جديدة من فئة SolidPainterBrush |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | اللون | System.Drawing.Color | r |  |
 | no_brush [static] | [SolidPainterBrush](/psd/python-net/aspose.gis.painting/solidpainterbrush) | r |    |
 | style | [BrushStyle](/psd/python-net/aspose.gis.painting/brushstyle) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.painting/solidpainterbrush/
  SolidPainterBrush() 
 ```
 
-ينشئ مثلاً جديداً من فئة SolidPainterBrush
+تهيئة نسخة جديدة من فئة SolidPainterBrush
 
 ### Constructor: SolidPainterBrush(color, style) {#SolidPainterBrush_color_style_2}
 
@@ -48,11 +48,11 @@ url: /ar/python-net/aspose.gis.painting/solidpainterbrush/
  SolidPainterBrush(color, style) 
 ```
 
-ينشئ مثلاً جديداً من فئة SolidPainterBrush
+تهيئة نسخة جديدة من فئة SolidPainterBrush
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | اللون | System.Drawing.Color |  |
 | style | [BrushStyle](/psd/python-net/aspose.gis.painting/brushstyle) |  |
@@ -68,7 +68,7 @@ url: /ar/python-net/aspose.gis.painting/solidpainterbrush/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

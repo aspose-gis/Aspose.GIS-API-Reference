@@ -1,5 +1,5 @@
 ---
-title: "EpsgDatabase فئة"
+title: "فئة EpsgDatabase"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.epsg/epsgdatabase/

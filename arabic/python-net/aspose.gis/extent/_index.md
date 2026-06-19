@@ -14,31 +14,31 @@ url: /ar/python-net/aspose.gis/extent/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Extent()](#Extent__1) | ينشئ نسخة جديدة. |
-| [Extent(srs)](#Extent_srs_2) | ينشئ نسخة جديدة. |
-| [Extent(x_min, y_min, x_max, y_max, srs)](#Extent_x_min_y_min_x_max_y_max_srs_3) | ينشئ نسخة جديدة. |
+| [Extent()](#Extent__1) | ينشئ مثلاً جديداً. |
+| [Extent(srs)](#Extent_srs_2) | ينشئ مثلاً جديداً. |
+| [Extent(x_min, y_min, x_max, y_max, srs)](#Extent_x_min_y_min_x_max_y_max_srs_3) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | center | [IPoint](/psd/python-net/aspose.gis.geometries/ipoint/) | r | مركز الـ extent. |
 | الارتفاع | double | r | ارتفاع الـ extent. |
 | is_valid | bool | r | يحدد ما إذا كان هذا [Extent](/psd/python-net/aspose.gis/extent/) صالحًا. |
-| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا الـ extent.<br/>            يمكن أن يكون <see langword=\"null\" /> إذا كان [Extent.spatial_reference_system](/psd/python-net/aspose.gis/extent/) غير معروف.<br/>            استخدم Aspose.Gis.Extent.GetTransformed(Aspose.Gis.SpatialReferencing.SpatialReferenceSystem)<br/>            لتحويل الـ extent بين أنظمة الإسناد المكاني المختلفة. |
-| العرض | double | r | عرض الـ extent. |
-| x_max | double | r/w | القيمة القصوى لإحداثي X. |
-| x_min | double | r/w | القيمة الدنيا لإحداثي X. |
-| y_max | double | r/w | القيمة القصوى لإحداثي Y. |
-| y_min | double | r/w | القيمة الدنيا لإحداثي Y. |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) مرتبط بهذا الـ extent.<br/>            يمكن أن يكون <see langword="null" /> إذا كان [Extent.spatial_reference_system](/psd/python-net/aspose.gis/extent/) غير معروف.<br/>            استخدم Aspose.Gis.Extent.GetTransformed(Aspose.Gis.SpatialReferencing.SpatialReferenceSystem)<br/>            لتحويل الـ extent بين أنظمة الإسناد المكاني المختلفة. |
+| width | double | r | عرض الـ extent. |
+| x_max | double | قراءة/كتابة | القيمة القصوى لإحداثي X. |
+| x_min | double | قراءة/كتابة | القيمة الدنيا لإحداثي X. |
+| y_max | double | قراءة/كتابة | القيمة القصوى لإحداثي Y. |
+| y_min | double | قراءة/كتابة | القيمة الدنيا لإحداثي Y. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينسخ هذا الكائن. |
 | [contains(extent)](#contains_extent_2) | يحدد ما إذا كان هذا النطاق يحتوي على الوسيط. |
 | [contains(geometry)](#contains_geometry_3) | يحدد ما إذا كان هذا النطاق يحتوي على الوسيط. |
 | [contains(x, y)](#contains_x_y_4) | يحدد ما إذا كان هذا النطاق يحتوي على إحداثي معرف بالوسائط. |
-| [get_transformed(target_srs)](#get_transformed_target_srs_5) | يعيد نطاقًا جديدًا في [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) المحدد الذي يحتوي على هذا النطاق. |
+| [get_transformed(target_srs)](#get_transformed_target_srs_5) | يعيد نطاقًا جديدًا في نظام الإسناد المكاني المحدد [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) الذي يحتوي على هذا النطاق. |
 | [grow(extent)](#grow_extent_6) | يوسع هذا النطاق بحيث يشمل الوسيط. |
 | [grow(x, y)](#grow_x_y_7) | يوسع هذا النطاق بحيث يشمل النقطة المحددة. |
 | [grow_x(value)](#grow_x_value_8) | يوسع هذا النطاق على محور X بحيث يشمل القيمة المحددة. |
@@ -56,7 +56,7 @@ url: /ar/python-net/aspose.gis/extent/
  Extent() 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 ### Constructor: Extent(srs) {#Extent_srs_2}
 
@@ -65,13 +65,13 @@ url: /ar/python-net/aspose.gis/extent/
  Extent(srs) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| srs | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا النطاق.<br/>            يمكن أن يكون <see langword=\"null\" /> للدلالة على أن SRS غير معروف. |
+| srs | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا النطاق.<br/>            يمكن أن يكون <see langword=\"null\" /> للدلالة على أن نظام الإسناد المكاني غير معروف. |
 
 ### Constructor: Extent(x_min, y_min, x_max, y_max, srs) {#Extent_x_min_y_min_x_max_y_max_srs_3}
 
@@ -80,17 +80,17 @@ url: /ar/python-net/aspose.gis/extent/
  Extent(x_min, y_min, x_max, y_max, srs) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x_min | double | القيمة الدنيا لـ X. |
 | y_min | double | القيمة الدنيا لـ Y. |
 | x_max | double | القيمة القصوى لـ X. |
 | y_max | double | القيمة القصوى لـ Y. |
-| srs | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا النطاق.<br/>            يمكن أن يكون <see langword=\"null\" /> للدلالة على أن SRS غير معروف. |
+| srs | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا النطاق.<br/>            يمكن أن يكون <see langword=\"null\" /> للدلالة على أن نظام الإسناد المكاني غير معروف. |
 
 ### Method: clone() {#clone__1}
 
@@ -103,9 +103,9 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Extent](/psd/python-net/aspose.gis/extent) | نسخة من هذه الحالة. |
+| [Extent](/psd/python-net/aspose.gis/extent) | نسخة متماثلة من هذه الحالة. |
 
 
 ### Method: contains(extent) {#contains_extent_2}
@@ -119,15 +119,15 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | نطاق آخر. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | القيمة التي تشير إلى ما إذا كان هذا النطاق يحتوي على الوسيط. |
+| bool | القيمة، التي تشير إلى ما إذا كان هذا النطاق يحتوي على الوسيط. |
 
 
 ### Method: contains(geometry) {#contains_geometry_3}
@@ -141,15 +141,15 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | هندسة لاختبار الاحتواء. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | القيمة التي تشير إلى ما إذا كان هذا النطاق يحتوي على الوسيط. |
+| bool | القيمة، التي تشير إلى ما إذا كان هذا النطاق يحتوي على الوسيط. |
 
 
 ### Method: contains(x, y) {#contains_x_y_4}
@@ -163,16 +163,16 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double | X للإحداثي. |
 | y | double | Y للإحداثي. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | القيمة التي تشير إلى ما إذا كان الإحداثي داخل صندوق الحدود. |
+| bool | القيمة، التي تشير إلى ما إذا كان الإحداثي داخل صندوق الحدود. |
 
 
 ### Method: get_transformed(target_srs) {#get_transformed_target_srs_5}
@@ -182,19 +182,19 @@ url: /ar/python-net/aspose.gis/extent/
  get_transformed(target_srs) 
 ```
 
-يعيد نطاقًا جديدًا في [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) المحدد الذي يحتوي على هذا النطاق.
+يعيد نطاقًا جديدًا في نظام الإسناد المكاني المحدد [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) الذي يحتوي على هذا النطاق.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | target_srs | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) للتحويل إليه. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Extent](/psd/python-net/aspose.gis/extent) | نتيجة تحويل هذا النطاق إلى نظام الإحداثيات المحدد. |
+| [Extent](/psd/python-net/aspose.gis/extent) | نتيجة تحويل هذا النطاق إلى نظام الإحداثيات المحدد SRS. |
 
 
 ### Method: grow(extent) {#grow_extent_6}
@@ -208,7 +208,7 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | نطاق آخر. |
 
@@ -223,10 +223,10 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| x | double | إحداثي X لتضمينه. |
-| y | double | إحداثي Y لتضمينه. |
+| x | double | إحداثي X للإدراج. |
+| y | double | إحداثي Y للإدراج. |
 
 ### Method: grow_x(value) {#grow_x_value_8}
 
@@ -239,9 +239,9 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| القيمة | double | القيمة لتضمينها. |
+| القيمة | double | القيمة للإدراج. |
 
 ### Method: grow_y(value) {#grow_y_value_9}
 
@@ -254,9 +254,9 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| القيمة | double | القيمة لتضمينها. |
+| القيمة | double | القيمة للإدراج. |
 
 ### Method: intersects(extent) {#intersects_extent_10}
 
@@ -269,13 +269,13 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | نطاق آخر. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | القيمة، التي تشير إلى ما إذا كان هذا النطاق يتقاطع مع الوسيط. |
 
@@ -291,13 +291,13 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | هندسة لاختبار التقاطع |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | القيمة، التي تشير إلى ما إذا كان هذا النطاق يتقاطع مع الوسيط. |
 
@@ -313,8 +313,8 @@ url: /ar/python-net/aspose.gis/extent/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Polygon](/psd/python-net/aspose.gis.geometries/polygon/) | مضلع مستطيل [Polygon](/psd/python-net/aspose.gis.geometries/polygon/) يمثل هذا النطاق. بالنسبة للنطاقات غير الصالحة<br/>            يتم إرجاع مضلع فارغ. |
+| [Polygon](/psd/python-net/aspose.gis.geometries/polygon/) | مستطيل [Polygon](/psd/python-net/aspose.gis.geometries/polygon/) يمثل هذا النطاق. بالنسبة للنطاقات غير الصالحة<br/>            يتم إرجاع مضلع فارغ. |
 
 

@@ -1,5 +1,5 @@
 ---
-title: "فئة QueryableLayerExtension"
+title: "QueryableLayerExtension فئة"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.formats.database.fromdefinition/queryablelayerextension/

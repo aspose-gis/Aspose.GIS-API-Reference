@@ -1,5 +1,5 @@
 ---
-title: "LabelPosition فئة"
+title: "فئة LabelPosition"
 type: docs
 weight: 60
 url: /ar/python-net/aspose.gis.labeling/labelposition/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.labeling/labelposition/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |
 | التكلفة | double | r |  |

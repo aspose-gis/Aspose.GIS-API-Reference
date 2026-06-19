@@ -1,5 +1,5 @@
 ---
-title: "SvgGeometryOptions فئة"
+title: "SvgGeometryOptions الفئة"
 type: docs
 weight: 150
 url: /ar/python-net/aspose.gis.painting/svggeometryoptions/
@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.painting/svggeometryoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SvgGeometryOptions()](#SvgGeometryOptions__1) | ينشئ مثيلاً جديدًا من الفئة SvgGeometryOptions |
+| [SvgGeometryOptions()](#SvgGeometryOptions__1) | يقوم بإنشاء نسخة جديدة من الفئة SvgGeometryOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| background_color | System.Drawing.Color | r/w |  |
+| background_color | System.Drawing.Color | قراءة/كتابة |  |
 
 
 ### Constructor: SvgGeometryOptions() {#SvgGeometryOptions__1}
@@ -30,5 +30,5 @@ url: /ar/python-net/aspose.gis.painting/svggeometryoptions/
  SvgGeometryOptions() 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة SvgGeometryOptions
+يقوم بإنشاء نسخة جديدة من الفئة SvgGeometryOptions
 

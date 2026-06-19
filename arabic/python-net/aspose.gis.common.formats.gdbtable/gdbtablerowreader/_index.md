@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | field_description | [GdbFieldDescription](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription) | r |    |
 | has_field | bool | r |  |
@@ -22,7 +22,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 | row_id | int | r |  |
 | table | [GdbTableFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [read_binary()](#read_binary__1) |    |
 | [read_date_time()](#read_date_time__2) |    |
@@ -50,7 +50,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -66,7 +66,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | datetime |  |
 
@@ -82,7 +82,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | float |  |
 
@@ -98,7 +98,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -114,7 +114,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | Guid |  |
 
@@ -130,7 +130,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | Guid |  |
 
@@ -146,7 +146,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | short |  |
 
@@ -162,7 +162,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -178,7 +178,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -194,7 +194,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GdbShape](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbshape) |  |
 
@@ -210,7 +210,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 
@@ -226,7 +226,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 

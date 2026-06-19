@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlunits/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | FRACTION | يشير إلى أن قيمة x هي جزء من الأيقونة. |
 | INSET_PIXELS | يشير إلى المسافة البادئة من الحافة اليمنى للأيقونة. |
-| بكسل | يشير إلى قيمة x بوحدات البكسل. |
+| بكسل | يشير إلى قيمة x بالبكسل. |

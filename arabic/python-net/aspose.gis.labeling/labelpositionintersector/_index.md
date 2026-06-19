@@ -1,5 +1,5 @@
 ---
-title: "LabelPositionIntersector فئة"
+title: "فئة LabelPositionIntersector"
 type: docs
 weight: 70
 url: /ar/python-net/aspose.gis.labeling/labelpositionintersector/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.labeling/labelpositionintersector/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [intersects(position1, position2)](#intersects_position1_position2_1) |    |
 
@@ -30,14 +30,14 @@ url: /ar/python-net/aspose.gis.labeling/labelpositionintersector/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | position1 | [LabelPosition](/psd/python-net/aspose.gis.labeling/labelposition) |  |
 | position2 | [LabelPosition](/psd/python-net/aspose.gis.labeling/labelposition) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

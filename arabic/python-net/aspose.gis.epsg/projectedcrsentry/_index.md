@@ -1,5 +1,5 @@
 ---
-title: "الفئة ProjectedCrsEntry"
+title: "فئة ProjectedCrsEntry"
 type: docs
 weight: 80
 url: /ar/python-net/aspose.gis.epsg/projectedcrsentry/
@@ -14,20 +14,20 @@ url: /ar/python-net/aspose.gis.epsg/projectedcrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [ProjectedCrsEntry()](#ProjectedCrsEntry__1) | ينشئ مثيلاً جديدًا للفئة ProjectedCrsEntry |
+| [ProjectedCrsEntry()](#ProjectedCrsEntry__1) | ينشئ مثلاً جديداً من فئة ProjectedCrsEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | axises_orientation | string | r |  |
 | geographic_crs_code | int | r |  |
 | الاسم | string | r |  |
 | projection_method_code | int | r |  |
-| رمز_قيمة_معلمات_الإسقاط | int | r |  |
-| رمز_الوحدة | int | r |  |
+| projection_parameters_value_code | int | r |  |
+| unit_code | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, geog_crs_code, unit_code, projection_method_code, projection_parameters_value_code, axises_orientation)](#create_name_geog_crs_code_unit_code_projection_method_code_projection_parameters_value_code_axises_orientation_1) |    |
 
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.epsg/projectedcrsentry/
  ProjectedCrsEntry() 
 ```
 
-ينشئ مثيلاً جديدًا للفئة ProjectedCrsEntry
+ينشئ مثلاً جديداً من فئة ProjectedCrsEntry
 
 ### Method: create(name, geog_crs_code, unit_code, projection_method_code, projection_parameters_value_code, axises_orientation)  [static] {#create_name_geog_crs_code_unit_code_projection_method_code_projection_parameters_value_code_axises_orientation_1}
 
@@ -52,18 +52,18 @@ url: /ar/python-net/aspose.gis.epsg/projectedcrsentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| رمز_نظام_الإحداثيات_الجغرافي | int |  |
-| رمز_الوحدة | int |  |
+| geog_crs_code | int |  |
+| unit_code | int |  |
 | projection_method_code | int |  |
-| رمز_قيمة_معلمات_الإسقاط | int |  |
+| projection_parameters_value_code | int |  |
 | axises_orientation | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [ProjectedCrsEntry](/psd/python-net/aspose.gis.epsg/projectedcrsentry) |  |
 

@@ -14,22 +14,22 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [WayOptions(scale)](#WayOptions_scale_1) | إنشاء مثيل باستخدام الخيارات الافتراضية. |
+| [WayOptions(scale)](#WayOptions_scale_1) | إنشاء نسخة باستخدام الخيارات الافتراضية. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| goal_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | r/w | نقطة هدف الطريق |
-| is_move_only_road | bool | r/w | اعثر على الطريق فقط عبر الطريق |
+| goal_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | r/w | نقطة الهدف للطريق |
+| is_move_only_road | bool | قراءة/كتابة | اعثر على الطريق باستخدام الطريق فقط |
 | is_scale_fixed | bool | r | هل المقياس ثابت |
-| نصف القطر | double | r/w | نصف القطر للبحث |
-| المقياس | int | r/w | مقياس الخريطة |
+| نصف القطر | double | قراءة/كتابة | نصف القطر للبحث |
+| المقياس | int | قراءة/كتابة | مقياس الخريطة |
 | start_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | r/w | نقطة بداية الطريق |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | استنساخ الكائن إلى آخر. |
+| [clone()](#clone__1) | استنساخ الكائن إلى كائن آخر. |
 
 
 ### Constructor: WayOptions(scale) {#WayOptions_scale_1}
@@ -39,11 +39,11 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/
  WayOptions(scale) 
 ```
 
-إنشاء مثيل باستخدام الخيارات الافتراضية.
+إنشاء نسخة باستخدام الخيارات الافتراضية.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | المقياس | int | ثابت المقياس |
 
@@ -54,12 +54,12 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/
  clone() 
 ```
 
-استنساخ الكائن إلى آخر.
+استنساخ الكائن إلى كائن آخر.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions) | استنساخ الكائن إلى آخر [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/). |
+| [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions) | استنساخ الكائن إلى كائن آخر [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/). |
 
 

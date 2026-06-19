@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.formats.infile/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [InFileDriver](/psd/python-net/aspose.gis.formats.infile/infiledriver/) | محرك للعمل مع البيانات وحفظ مؤقت في الملف. |
-| [InFileOptions](/psd/python-net/aspose.gis.formats.infile/infileoptions/) | خيارات خاصة بالمحرك لطبقة InFile. |
+| [InFileDriver](/psd/python-net/aspose.gis.formats.infile/infiledriver/) | برنامج تشغيل للعمل مع البيانات والحفظ المؤقت في ملف. |
+| [InFileOptions](/psd/python-net/aspose.gis.formats.infile/infileoptions/) | خيارات خاصة ببرنامج التشغيل لطبقة InFile. |

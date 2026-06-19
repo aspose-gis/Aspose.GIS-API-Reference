@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [WayLayerGenerator(options)](#WayLayerGenerator_options_1) | إنشاء مثيل من [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) |
+| [WayLayerGenerator(options)](#WayLayerGenerator_options_1) | إنشاء نسخة من [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [add_block(x, y, size_x, size_y, velocity)](#add_block_x_y_size_x_size_y_velocity_1) | إضافة كتلة إلى الخلية |
 | [add_road(start_point, end_point, velocity)](#add_road_start_point_end_point_velocity_2) | إضافة طريق إلى الخلية |
-| [find_the_way(start_point, goal_point, radius)](#find_the_way_start_point_goal_point_radius_3) | العثور على الطريق من نقطة البداية إلى الهدف |
+| [find_the_way(start_point, goal_point, radius)](#find_the_way_start_point_goal_point_radius_3) | العثور على المسار من نقطة البداية إلى الهدف |
 
 
 ### Constructor: WayLayerGenerator(options) {#WayLayerGenerator_options_1}
@@ -32,11 +32,11 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
  WayLayerGenerator(options) 
 ```
 
-إنشاء مثيل من [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/)
+إنشاء نسخة من [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/)
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | options | [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions) | خيارات المولد. |
 
@@ -51,12 +51,12 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| x | int | قيمة x للكتلة |
-| y | int | قيمة y للكتلة |
-| size_x | int | حجم sizeX للكتلة |
-| size_y | int | حجم sizeY للكتلة |
+| x | int | الإحداثي x للكتلة |
+| y | int | الإحداثي y للكتلة |
+| size_x | int | الحجم sizeX للكتلة |
+| size_y | int | حجم Y للكتلة |
 | السرعة | double | سرعة الكتلة |
 
 ### Method: add_road(start_point, end_point, velocity) {#add_road_start_point_end_point_velocity_2}
@@ -70,7 +70,7 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | start_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | نقطة البداية. |
 | end_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | نقطة النهاية. |
@@ -83,19 +83,19 @@ url: /ar/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
  find_the_way(start_point, goal_point, radius) 
 ```
 
-العثور على الطريق من نقطة البداية إلى الهدف
+العثور على المسار من نقطة البداية إلى الهدف
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | start_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | نقطة البداية |
 | goal_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | نقطة الهدف |
-| نصف القطر | double | نصف القطر للبحث عنه |
+| نصف القطر | double | نصف القطر للبحث |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [LineString](/psd/python-net/aspose.gis.geometries/linestring/) | الطريق المكتشف. |
 

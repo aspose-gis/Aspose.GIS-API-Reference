@@ -16,29 +16,29 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| عدد | int | r | يحصل على عدد الأشكال الهندسية في هذه المجموعة. |
-| dimension | [GeometryDimension](/psd/python-net/aspose.gis.geometries/geometrydimension) | r | يحصل على البُعد الطوبولوجي لهذا [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/).<br/>            إذا كان البُعد غير معروف (مثلاً لمجموعة GEOMETRYCOLLECTION فارغة) يتم إرجاع [GeometryDimension.POINT](/psd/python-net/aspose.gis.geometries/geometrydimension/). |
+| العدد | int | r | يحصل على عدد الأشكال الهندسية في هذه المجموعة. |
+| dimension | [GeometryDimension](/psd/python-net/aspose.gis.geometries/geometrydimension) | r | يحصل على البُعد الطوبولوجي لهذا [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/).<br/>            إذا كان البُعد غير معروف (مثال: لمجموعة GEOMETRYCOLLECTION فارغة) يتم إرجاع [GeometryDimension.POINT](/psd/python-net/aspose.gis.geometries/geometrydimension/) . |
 | geometry_type | [GeometryType](/psd/python-net/aspose.gis.geometries/geometrytype) | r | يحصل على نوع الهندسة. |
 | has_curve_geometry | bool | r | يحصل على قيمة تشير إلى ما إذا كانت هذه الهندسة أو تحتوي على هندسة منحنية (غير خطية). |
-| has_m | bool | r | يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية M. |
-| has_z | bool | r | يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية Z. |
-| is_empty | bool | r | يحصل على قيمة تشير إلى ما إذا كانت هذه الحالة فارغة (تمثل مجموعة نقاط فارغة). |
+| has_m | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على إحداثية M. |
+| has_z | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على إحداثية Z. |
+| is_empty | bool | r | يحصل على قيمة تشير إلى ما إذا كانت هذه الحالة فارغة (تمثل مجموعة النقاط الفارغة). |
 | is_simple | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن بسيطًا من منظور SFA. |
 | is_valid | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا الكائن صالحًا. |
-| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r | يحصل على نظام الإحداثيات المكاني (SpatialReferenceSystem) لهذه الحالة.<br/>            يمكن أن تكون هذه الخاصية <see langword=\"null\" /> إذا كان نظام الإحداثيات المكاني غير معروف. |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r | يحصل على SpatialReferenceSystem لهذه الحالة.<br/>            يمكن أن تكون هذه الخاصية <see langword="null" /> إذا كان SpatialReferenceSystem غير معروف. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [as_binary()](#as_binary__1) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary. |
-| [as_binary(variant)](#as_binary_variant_2) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary. |
+| [as_binary()](#as_binary__1) | يحوّل هذه الهندسة إلى تمثيلها الثنائي المعروف. |
+| [as_binary(variant)](#as_binary_variant_2) | يحوّل هذه الهندسة إلى تمثيلها الثنائي المعروف. |
 | [as_image(output_path, width, height, renderer, symbolizer)](#as_image_output_path_width_height_renderer_symbolizer_3) | يصدّر هذه الهندسة إلى تمثيل صورة. |
 | [as_image(output_path, width, height, renderer, symbolizer)](#as_image_output_path_width_height_renderer_symbolizer_4) | يصدّر هذه الهندسة إلى تمثيل صورة. |
 | [as_image(width, height, renderer, symbolizer)](#as_image_width_height_renderer_symbolizer_5) | يصدّر هذه الهندسة إلى تمثيل صورة. |
-| [as_text()](#as_text__6) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text. |
-| [as_text(variant)](#as_text_variant_7) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text. |
-| [as_text(variant, format)](#as_text_variant_format_8) | يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text. |
+| [as_text()](#as_text__6) | يحوّل هذه الهندسة إلى تمثيلها النصي المعروف. |
+| [as_text(variant)](#as_text_variant_7) | يحوّل هذه الهندسة إلى تمثيلها النصي المعروف. |
+| [as_text(variant, format)](#as_text_variant_format_8) | يحوّل هذه الهندسة إلى تمثيلها النصي المعروف. |
 | [clone()](#clone__9) | ينسخ هذا الكائن. |
 | [covered_by(other)](#covered_by_other_10) | يحدد ما إذا كانت هذه الهندسة مغطاة بواسطة هندسة محددة. |
 | [covers(other)](#covers_other_11) | يحدد ما إذا كانت هذه الهندسة تغطي هندسة محددة. |
@@ -46,10 +46,10 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 | [difference(other)](#difference_other_13) | يطرح هندسة محددة من هذه الهندسة. |
 | [disjoint(other)](#disjoint_other_14) | يحدد ما إذا كانت هذه الهندسة منفصلة عن هندسة محددة. |
 | [get_area()](#get_area__15) | يحسب مساحة هذه الهندسة. |
-| [get_buffer(distance, quadrant_segments)](#get_buffer_distance_quadrant_segments_16) | يحسب منطقة العازلة حول هذه الهندسة. |
+| [get_buffer(distance, quadrant_segments)](#get_buffer_distance_quadrant_segments_16) | يحسب منطقة عازلة حول هذه الهندسة. |
 | [get_centroid()](#get_centroid__17) | يحسب مركز الثقل لهذه الهندسة. |
 | [get_convex_hull()](#get_convex_hull__18) | يحسب الغلاف المحدب لهذه الهندسة. |
-| [get_distance_to(other)](#get_distance_to_other_19) | يحسب المسافة الدنيا بين هذه الهندسة وهندسة محددة. |
+| [get_distance_to(other)](#get_distance_to_other_19) | يحسب الحد الأدنى للمسافة بين هذه الهندسة وهندسة محددة. |
 | [get_extent()](#get_extent__20) | يحسب ويعيد نطاقًا محيطًا لهذه الهندسة. |
 | [get_length()](#get_length__21) | يحسب طول هذه الهندسة. |
 | [get_point_on_surface()](#get_point_on_surface__22) | يبحث عن نقطة مضمونة أن تكون على أحد الأسطح في هذه المجموعة. |
@@ -63,8 +63,8 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 | [spatially_equals(other)](#spatially_equals_other_30) | يحدد ما إذا كانت هذه الهندسة مساوية مكانيًا لهندسة محددة. |
 | [sym_difference(other)](#sym_difference_other_31) | يبني فرقًا متماثلًا بين هذه الهندسة وهندسة محددة. |
 | [to_editable()](#to_editable__32) | يحصل على نسخة قابلة للتحرير من هذه الهندسة. |
-| [to_linear_geometry()](#to_linear_geometry__33) | يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> الافتراضي. |
-| [to_linear_geometry(tolerance)](#to_linear_geometry_tolerance_34) | يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> المحدد. |
+| [to_linear_geometry()](#to_linear_geometry__33) | يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> الافتراضية. |
+| [to_linear_geometry(tolerance)](#to_linear_geometry_tolerance_34) | يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> المحددة. |
 | [touches(other)](#touches_other_35) | يحدد ما إذا كانت هذه الهندسة وهندسة محددة تلامسان. |
 | [union(other)](#union_other_36) | يوحد هذه الهندسة وهندسة محددة. |
 | [union(other)](#union_other_37) | يوحد هذه الهندسة وهندسة محددة. |
@@ -79,11 +79,11 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  as_binary() 
 ```
 
-يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary.
+يحوّل هذه الهندسة إلى تمثيلها الثنائي المعروف.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte | تمثيل Well-Known Binary لهذه الهندسة. |
 
@@ -95,17 +95,17 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  as_binary(variant) 
 ```
 
-يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary.
+يحوّل هذه الهندسة إلى تمثيلها الثنائي المعروف.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | variant | [WkbVariant](/psd/python-net/aspose.gis.geometries/wkbvariant) | متغيّر Well-Known Binary للاستخدام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte | تمثيل Well-Known Binary لهذه الهندسة. |
 
@@ -121,12 +121,12 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | output_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى صورة الإخراج. |
 | width | [Measurement](/psd/python-net/aspose.gis.rendering/measurement/) | عرض الخريطة. |
 | height | [Measurement](/psd/python-net/aspose.gis.rendering/measurement/) | ارتفاع الخريطة. |
-| renderer | [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) | المُعالج للاستخدام. |
+| renderer | [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) | المُصيّر للاستخدام. |
 | symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | مُرمّز للاستخدام في التصيير. إذا كان <see langword="null" />, يُستخدم المُرمّز الافتراضي. |
 
 ### Method: as_image(output_path, width, height, renderer, symbolizer) {#as_image_output_path_width_height_renderer_symbolizer_4}
@@ -140,12 +140,12 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | output_path | string | المسار إلى صورة الإخراج. |
 | width | [Measurement](/psd/python-net/aspose.gis.rendering/measurement/) | عرض الخريطة. |
 | height | [Measurement](/psd/python-net/aspose.gis.rendering/measurement/) | ارتفاع الخريطة. |
-| renderer | [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) | المُعالج للاستخدام. |
+| renderer | [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) | المُصيّر للاستخدام. |
 | symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | مُرمّز للاستخدام في التصيير. إذا كان <see langword="null" />, يُستخدم المُرمّز الافتراضي. |
 
 ### Method: as_image(width, height, renderer, symbolizer) {#as_image_width_height_renderer_symbolizer_5}
@@ -159,16 +159,16 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | width | [Measurement](/psd/python-net/aspose.gis.rendering/measurement/) | عرض الخريطة. |
 | height | [Measurement](/psd/python-net/aspose.gis.rendering/measurement/) | ارتفاع الخريطة. |
-| renderer | [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) | المُعالج للاستخدام. |
+| renderer | [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) | المُصيّر للاستخدام. |
 | symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | مُرمّز للاستخدام في التصيير. إذا كان <see langword="null" />, يُستخدم المُرمّز الافتراضي. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | _io.BufferedRandom | الصورة كتيار |
 
@@ -180,11 +180,11 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  as_text() 
 ```
 
-يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text.
+يحوّل هذه الهندسة إلى تمثيلها النصي المعروف.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | تمثيل Well-Known Text لهذه الهندسة. |
 
@@ -196,17 +196,17 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  as_text(variant) 
 ```
 
-يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text.
+يحوّل هذه الهندسة إلى تمثيلها النصي المعروف.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | variant | [WktVariant](/psd/python-net/aspose.gis.geometries/wktvariant) | متغيّر Well-Known Text للاستخدام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | تمثيل Well-Known Text لهذه الهندسة. |
 
@@ -218,18 +218,18 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  as_text(variant, format) 
 ```
 
-يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Text.
+يحوّل هذه الهندسة إلى تمثيلها النصي المعروف.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | variant | [WktVariant](/psd/python-net/aspose.gis.geometries/wktvariant) | متغيّر Well-Known Text للاستخدام. |
 | format | [NumericFormat](/psd/python-net/aspose.gis/numericformat) | تنسيق الإحداثيات للتحويل إلى سلسلة. راجع [NumericFormat](/psd/python-net/aspose.gis/numericformat/) للحصول عليه. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | تمثيل Well-Known Text لهذه الهندسة. |
 
@@ -245,9 +245,9 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Geometry](/psd/python-net/aspose.gis.geometries/geometry) | نسخة هذا الكائن |
+| [Geometry](/psd/python-net/aspose.gis.geometries/geometry) | نسخة متماثلة من هذه الحالة |
 
 
 ### Method: covered_by(other) {#covered_by_other_10}
@@ -261,15 +261,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كانت هذه الهندسة "مغطاة مكانيًا بواسطة" هندسة أخرى. <see langword="false" /> خلاف ذلك. |
+| bool | <see langword=\"true\" /> إذا كانت هذه الهندسة \"مغطاة مكانيًا بواسطة\" هندسة أخرى. <see langword=\"false\" /> خلاف ذلك. |
 
 
 ### Method: covers(other) {#covers_other_11}
@@ -283,15 +283,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كانت هذه الهندسة "تغطي مكانيًا" هندسة أخرى. <see langword="false" /> خلاف ذلك. |
+| bool | <see langword=\"true\" /> إذا كانت هذه الهندسة \"تغطي مكانيًا\" هندسة أخرى. <see langword=\"false\" /> خلاف ذلك. |
 
 
 ### Method: crosses(other) {#crosses_other_12}
@@ -305,15 +305,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كانت هذه الهندسة "تعبر مكانيًا" هندسة أخرى. <see langword="false" /> خلاف ذلك. |
+| bool | <see langword=\"true\" /> إذا كانت هذه الهندسة \"تتقاطع مكانيًا\" مع هندسة أخرى. <see langword=\"false\" /> خلاف ذلك. |
 
 
 ### Method: difference(other) {#difference_other_13}
@@ -327,15 +327,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة للطرح. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل الفرق بين هذه الهندسة ومعطى. هندسة النتيجة تحتوي على<br/>            مجموعة نقاط موجودة في هذه الهندسة ولكنها غير موجودة في المعطى. |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل الفرق بين هذه الهندسة ومعامل. الهندسة الناتجة تحتوي على<br/>            مجموعة نقاط موجودة في هذه الهندسة ولكنها غير موجودة في المعامل. |
 
 
 ### Method: disjoint(other) {#disjoint_other_14}
@@ -349,15 +349,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword=\"true\" /> إذا كانت هذه الهندسة \"متباعدة مكانيًا\" عن هندسة أخرى. <see langword=\"false\" /> غير ذلك. |
+| bool | <see langword=\"true\" /> إذا كانت هذه الهندسة \"متباعدة مكانيًا\" عن هندسة أخرى. <see langword=\"false\" /> خلاف ذلك. |
 
 
 ### Method: get_area() {#get_area__15}
@@ -371,7 +371,7 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double | مساحة هذه الهندسة.<br/>            مجموع مساحات عناصر هذه الهندسة إذا كانت هذه الهندسة [GeometryCollection](/psd/python-net/aspose.gis.geometries/geometrycollection/). |
 
@@ -383,20 +383,20 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  get_buffer(distance, quadrant_segments) 
 ```
 
-يحسب منطقة العازلة حول هذه الهندسة.
+يحسب منطقة عازلة حول هذه الهندسة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسافة | double | عرض منطقة المخزن المؤقت (بوحدات نظام الإحداثيات المكاني). |
-| quadrant_segments | int | عدد القطاعات المستخدمة لتقريب انحناء 90 درجة.<br/>            كلما كان هذا العدد أكبر، كلما كان تقريب المنحنيات أفضل.<br/>            القيمة الافتراضية هي 30. |
+| distance | double | عرض منطقة التخزين المؤقت (بوحدات الإشارة المكانية). |
+| quadrant_segments | int | عدد المقاطع المستخدمة لتقريب انحناء 90 درجة.<br/>            كلما كان هذا العدد أكبر، كلما كان التقريب للمنحنيات أفضل.<br/>            القيمة الافتراضية هي 30. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل جميع النقاط التي تقع ضمن مسافة محددة من<br/>            هذه الهندسة.<br/>            نوع النتيجة يكون إما [Geometry.null](/psd/python-net/aspose.gis.geometries/geometry/)، أو [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon/)، أو [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon/). |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل جميع النقاط التي تقع ضمن مسافة محددة من<br/>            هذه الهندسة.<br/>            نوع النتيجة إما [Geometry.null](/psd/python-net/aspose.gis.geometries/geometry/)، [IPolygon](/psd/python-net/aspose.gis.geometries/ipolygon/) أو [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon/). |
 
 
 ### Method: get_centroid() {#get_centroid__17}
@@ -410,9 +410,9 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IPoint](/psd/python-net/aspose.gis.geometries/ipoint) | مركز الثقل لهذه الهندسة. إذا كانت هذه الهندسة فارغة تُرجَع نقطة فارغة.<br/>            مركز الثقل يساوي مركز الثقل لأعلى أبعاد الهندسات في هذه الهندسة<br/>            (مثال: إذا كانت الهندسة تحتوي على نقاط وخطوط، فإن الخطوط فقط تساهم في مركز الثقل). |
+| [IPoint](/psd/python-net/aspose.gis.geometries/ipoint) | مركز الثقل لهذه الهندسة. إذا كانت هذه الهندسة فارغة تُرجع نقطة فارغة.<br/>            مركز الثقل يساوي مركز الثقل لأعلى أبعاد الهندسات في هذه الهندسة<br/>            (مثلاً إذا كانت النقاط والخطوط موجودة في الهندسة، فإن الخطوط فقط تساهم في مركز الثقل). |
 
 
 ### Method: get_convex_hull() {#get_convex_hull__18}
@@ -426,9 +426,9 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل الغلاف المحدب لهذه الهندسة.<br/>            إذا لم تحتوي هذه الهندسة على نقاط فإن النتيجة هي [Geometry.null](/psd/python-net/aspose.gis.geometries/geometry/).<br/>            إذا كانت هذه الهندسة تحتوي على نقطة واحدة فقط فإن النتيجة هي تلك النقطة.<br/>            إذا كانت هذه الهندسة تحتوي على نقطتين فقط فإن النتيجة هي [ILineString](/psd/python-net/aspose.gis.geometries/ilinestring/) بالنقاط.<br/>            إذا كانت هذه الهندسة تحتوي على ثلاث نقاط أو أكثر فإن النتيجة هي [ILinearRing](/psd/python-net/aspose.gis.geometries/ilinearring/) الذي يمثل غلافًا محدبًا<br/>            حول جميع نقاط الهندسات. |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل الغلاف المحدب لهذه الهندسة.<br/>            إذا لم تحتوي هذه الهندسة على نقاط فإن النتيجة هي [Geometry.null](/psd/python-net/aspose.gis.geometries/geometry/).<br/>            إذا كان لهذه الهندسة نقطة واحدة فقط فإن النتيجة هي تلك النقطة.<br/>            إذا كان لهذه الهندسة نقطتين فقط فإن النتيجة هي [ILineString](/psd/python-net/aspose.gis.geometries/ilinestring/) مع النقاط.<br/>            إذا كان لهذه الهندسة ثلاث نقاط أو أكثر فإن النتيجة هي [ILinearRing](/psd/python-net/aspose.gis.geometries/ilinearring/) الذي يمثل غلافًا محدبًا<br/>            حول جميع نقاط الهندسات. |
 
 
 ### Method: get_distance_to(other) {#get_distance_to_other_19}
@@ -438,19 +438,19 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  get_distance_to(other) 
 ```
 
-يحسب المسافة الدنيا بين هذه الهندسة وهندسة محددة.
+يحسب الحد الأدنى للمسافة بين هذه الهندسة وهندسة محددة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة لإيجاد المسافة إليها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| double | إذا لم تكن كلتا الشكلين الهندسيين غير [IGeometry.is_empty](/psd/python-net/aspose.gis.geometries/igeometry/) - تكون المسافة بين أقرب نقطتين من الشكلين.<br/>            إذا كان أحد الشكلين على الأقل فارغًا يتم إرجاع -1. |
+| double | إذا لم تكن كلتا الأشكال الهندسية غير [IGeometry.is_empty](/psd/python-net/aspose.gis.geometries/igeometry/) - تكون المسافة بين أقرب نقطتين من الأشكال.<br/>            إذا كان هناك شكل هندسي واحد على الأقل فارغًا يتم إرجاع -1. |
 
 
 ### Method: get_extent() {#get_extent__20}
@@ -464,7 +464,7 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Extent](/psd/python-net/aspose.gis/extent) | امتداد حدودي لهذه الهندسة. |
 
@@ -480,7 +480,7 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double | طول هذه الهندسة.<br/>            المحيط إذا كانت هذه [Polygon](/psd/python-net/aspose.gis.geometries/polygon/).<br/>            مجموع أطوال عناصر هذه الهندسة إذا كانت هذه الهندسة [GeometryCollection](/psd/python-net/aspose.gis.geometries/geometrycollection/). |
 
@@ -496,9 +496,9 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IPoint](/psd/python-net/aspose.gis.geometries/ipoint) | نقطة على أحد الأسطح. نقطة فارغة إذا لم تحتوي هذه المجموعة على أسطح أو كانت جميع الأسطح فارغة. |
+| [IPoint](/psd/python-net/aspose.gis.geometries/ipoint) | نقطة على أحد الأسطح. نقطة فارغة إذا لم تحتوِ هذه المجموعة أسطحًا أو كانت جميع الأسطح فارغة. |
 
 
 ### Method: intersection(other) {#intersection_other_23}
@@ -512,15 +512,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة لحساب التقاطع معها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل تقاطع هذه الهندسة ومعطى. هندسة النتيجة تحتوي على<br/>            مجموعة نقاط موجودة في كل من هذه الهندسة والمعطى. |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة تمثل تقاطع هذه الهندسة ومعامل. الهندسة الناتجة تحتوي على<br/>            مجموعة نقاط موجودة في كل من هذه الهندسة والمعامل. |
 
 
 ### Method: intersects(extent) {#intersects_extent_24}
@@ -534,15 +534,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | الامتداد. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي يتقاطع مع النطاق؛ <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي يتقاطع مع النطاق؛ <see langword=\"false\" /> وإلا. |
 
 
 ### Method: intersects(other) {#intersects_other_25}
@@ -556,15 +556,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي \"يتقاطع مكانيًا\" مع شكل هندسي آخر. <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي \"spatially intersects\" شكلًا هندسيًا آخر. <see langword=\"false\" /> وإلا. |
 
 
 ### Method: overlaps(other) {#overlaps_other_26}
@@ -578,15 +578,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي \"يتداخل مكانيًا\" مع شكل هندسي آخر. <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي \"spatially overlaps\" شكلًا هندسيًا آخر. <see langword=\"false\" /> وإلا. |
 
 
 ### Method: relate(other, intersection_pattern_matrix) {#relate_other_intersection_pattern_matrix_27}
@@ -600,16 +600,16 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
-| intersection_pattern_matrix | string | نمط للمطابقة معه.<br/>            يجب أن تكون هذه سلسلة بطول يساوي 9.<br/>            كل حرف من السلسلة يمثل البُعد المتوقع لتقاطع:<br/>            <ul><br/>            <li>الحرف 0 - بين داخل الأشكال الهندسية.</li><br/>            <li>الحرف 1 - بين داخل هذا الشكل الهندسي وحدود شكل هندسي آخر.</li><br/>            <li>الحرف 2 - بين داخل هذا الشكل الهندسي وخارج شكل هندسي آخر.</li><br/>            <li>الحرف 3 - بين حدود هذا الشكل الهندسي وداخل شكل هندسي آخر.</li><br/>            <li>الحرف 4 - بين حدود الأشكال الهندسية.</li><br/>            <li>الحرف 5 - بين حدود هذا الشكل الهندسي وخارج شكل هندسي آخر.</li><br/>            <li>الحرف 6 - بين خارج هذا الشكل الهندسي وداخل شكل هندسي آخر.</li><br/>            <li>الحرف 7 - بين خارج هذا الشكل الهندسي وحدود شكل هندسي آخر.</li><br/>            <li>الحرف 8 - بين خارج الأشكال الهندسية.</li><br/>            </ul><br/>            القيم الممكنة لكل حرف هي:<br/>            <ul><br/>            <li>* - أي قيمة؛</li><br/>            <li>F - لا تقاطع؛</li><br/>            <li>T - أي تقاطع؛</li><br/>            <li>0 - تقاطع نقطة (مثال: نقطة مشتركة);</li><br/>            <li>1 - تقاطع خط (مثال: قطعة خط مشتركة);</li><br/>            <li>2 - تقاطع مساحة (مثال: جزء مشترك من مضلع);</li><br/>            </ul><br/>            على سبيل المثال، نمط التقاطع \"F0*******\" يعني أنه لا يجب أن يكون هناك تقاطع بين داخل الأشكال الهندسية<br/>            ويجب أن يكون تقاطع حدود الأشكال الهندسية نقطة.<br/>            راجع مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول نمط مصفوفة التقاطع. |
+| intersection_pattern_matrix | string | نمط للمطابقة معه.<br/> يجب أن تكون هذه سلسلة بطول يساوي 9.<br/> كل حرف من السلسلة يمثل البعد المتوقع للتقاطع:<br/> <ul><br/> <li>الحرف 0 - بين داخل الأشكال الهندسية.</li><br/> <li>الحرف 1 - بين داخل هذا الشكل الهندسي وحدود شكل هندسي آخر.</li><br/> <li>الحرف 2 - بين داخل هذا الشكل الهندسي وخارج شكل هندسي آخر.</li><br/> <li>الحرف 3 - بين حدود هذا الشكل الهندسي وداخل شكل هندسي آخر.</li><br/> <li>الحرف 4 - بين حدود الأشكال الهندسية.</li><br/> <li>الحرف 5 - بين حدود هذا الشكل الهندسي وخارج شكل هندسي آخر.</li><br/> <li>الحرف 6 - بين خارج هذا الشكل الهندسي وداخل شكل هندسي آخر.</li><br/> <li>الحرف 7 - بين خارج هذا الشكل الهندسي وحدود شكل هندسي آخر.</li><br/> <li>الحرف 8 - بين خارج الأشكال الهندسية.</li><br/> </ul><br/> القيم الممكنة لكل حرف هي:<br/> <ul><br/> <li>* - أي قيمة؛</li><br/> <li>F - لا تقاطع؛</li><br/> <li>T - أي تقاطع؛</li><br/> <li>0 - تقاطع نقطة (مثال: نقطة مشتركة);</li><br/> <li>1 - تقاطع خط (مثال: جزء خط مشترك);</li><br/> <li>2 - تقاطع مساحة (مثال: جزء مشترك من مضلع);</li><br/> </ul><br/> على سبيل المثال، نمط التقاطع \"F0*******\" يعني أنه لا يجب أن يكون هناك تقاطع بين داخل الأشكال الهندسية<br/> ويجب أن يكون تقاطع حدود الأشكال الهندسية نقطة.<br/> راجع مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول نمط مصفوفة التقاطع. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كانت مصفوفة التقاطع هذه تطابق النمط؛ <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كانت مصفوفة التقاطع هذه تطابق النمط؛ <see langword=\"false\" /> وإلا. |
 
 
 ### Method: replace_polygons_by_lines() {#replace_polygons_by_lines__28}
@@ -623,9 +623,9 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometryCollection](/psd/python-net/aspose.gis.geometries/igeometrycollection) | شكل هندسي لا يحتوي على أشكال مضلعة. تم تطبيق التحويلات التالية:<br/>            <ul><br/>            <li> يتم تحويل [GeometryType.POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى خطية<br/>            (تحويل إلى [GeometryType.LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s)</li><br/>            <li> يتم دمج [GeometryType.MULTI_POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s في [GeometryType.MULTI_LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s</li><br/>            </ul> |
+| [IGeometryCollection](/psd/python-net/aspose.gis.geometries/igeometrycollection) | شكل هندسي لا يحتوي على أشكال مضلع. يتم تطبيق التحويلات التالية:<br/> <ul><br/> <li> يتم تحويل [GeometryType.POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى خطية<br/> (تحويل إلى [GeometryType.LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s)</li><br/> <li> يتم دمج [GeometryType.MULTI_POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s في [GeometryType.MULTI_LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s</li><br/> </ul> |
 
 
 ### Method: spatially_contains(other) {#spatially_contains_other_29}
@@ -639,15 +639,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي \"يحتوي مكانيًا\" على شكل هندسي آخر. <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي \"spatially contains\" شكلًا هندسيًا آخر. <see langword=\"false\" /> وإلا. |
 
 
 ### Method: spatially_equals(other) {#spatially_equals_other_30}
@@ -661,15 +661,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي \"يساوي مكانيًا\" الشكل الهندسي المحدد. <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي \"spatially equals\" إلى الشكل الهندسي المحدد. <see langword=\"false\" /> وإلا. |
 
 
 ### Method: sym_difference(other) {#sym_difference_other_31}
@@ -683,15 +683,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي لحساب الفرق المتناظر معه. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي يمثل الفرق المتناظر بين هذا الشكل الهندسي ومعطى. الشكل الناتج يحتوي على<br/>            مجموعة نقاط موجودة في أحد الشكلين ولكن ليست موجودة في كليهما. |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي يمثل الفرق المتناظر بين هذا الشكل الهندسي ومعطى. يحتوي الشكل الهندسي الناتج على<br/> مجموعة نقاط موجودة في أحد الشكلين الهندسيين ولكن ليست موجودة في كليهما. |
 
 
 ### Method: to_editable() {#to_editable__32}
@@ -705,7 +705,7 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [MultiPolygon](/psd/python-net/aspose.gis.geometries/multipolygon) | نسخة قابلة للتحرير من هذا الشكل الهندسي. |
 
@@ -717,13 +717,13 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  to_linear_geometry() 
 ```
 
-يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> الافتراضي.
+يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> الافتراضية.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon) | شكل هندسي لا يحتوي على أشكال هندسية منحنية. هذا يعادل <DOM Element: class at 0x2a1791a70d0>.IGeometry.to_linear_geometry()(float) مع<br/>            <c>tolerance</c> الافتراضية. يتم تعريف <c>tolerance</c> الافتراضية بواسطة [IGeometry.spatial_reference_system](/psd/python-net/aspose.gis.geometries/igeometry/)<br/>            لهذا الشكل الهندسي:<br/>            <ul><br/>            <li> بالنسبة لنظام إحداثيات مكاني (SRS) الإسقاطي، تكون التسامح 0.001 متر (بوحدات SRS) </li><br/>            <li> بالنسبة لنظام إحداثيات مكاني جغرافي، تكون التسامح <c>1e-5</c> درجة (بوحدات SRS) </li><br/>            <li> بالنسبة لنظام إحداثيات مكاني غير معروف، تكون التسامح <c>1e-5</c> </li><br/>            </ul><br/>            لمزيد من التفاصيل حول التحويلات المطبقة راجع مواصفة <DOM Element: class at 0x2a1791a70d0>.IGeometry.to_linear_geometry()(float). |
+| [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon) | شكل هندسي لا يحتوي على أشكال منحنية. هذا يعادل <DOM Element: class at 0x2a1791a70d0>.IGeometry.to_linear_geometry()(float) مع<br/>            <c>tolerance</c> الافتراضية. <c>tolerance</c> الافتراضية محددة بواسطة [IGeometry.spatial_reference_system](/psd/python-net/aspose.gis.geometries/igeometry/)<br/>            لهذا الشكل الهندسي:<br/>            <ul><br/>            <li> بالنسبة لنظام الإحداثيات المسقطة SRS يكون التسامح 0.001 متر (بوحدات SRS) </li><br/>            <li> بالنسبة لنظام الإحداثيات الجغرافي SRS يكون التسامح <c>1e-5</c> درجة (بوحدات SRS) </li><br/>            <li> بالنسبة لنظام إحداثيات غير معروف يكون التسامح <c>1e-5</c> </li><br/>            </ul><br/>            لمزيد من التفاصيل حول التحويلات المطبقة راجع مواصفات <DOM Element: class at 0x2a1791a70d0>.IGeometry.to_linear_geometry()(float). |
 
 
 ### Method: to_linear_geometry(tolerance) {#to_linear_geometry_tolerance_34}
@@ -733,19 +733,19 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
  to_linear_geometry(tolerance) 
 ```
 
-يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> المحدد.
+يحصل على نسخة تقريبية أو مكافئة غير منحنية من هذه الهندسة باستخدام <c>tolerance</c> المحددة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| التسامح | double | <c>tolerance</c> المراد استخدامها. النتيجة مضمونة أن تكون أقل من <c>tolerance</c> بعيدًا عن الشكل الهندسي المنحني، ما لم يتجاوز عدد النقاط اللازمة لتقويم الشكل الهندسي الحد الأقصى لكل ربع وهو حاليًا يساوي 10000 نقطة. |
+| التحمل | double | ال<c>tolerance</c> المراد استخدامه. النتيجة مضمونة أن تكون أقل من <c>tolerance</c> بعيدًا عن الشكل المنحني<br/>            ما لم يتجاوز عدد النقاط المطلوبة لتقويم الشكل الحد الأقصى لكل ربع<br/>            وهو حاليًا يساوي 10000 نقطة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon) | شكل هندسي لا يحتوي على أشكال هندسية منحنية. يتم تطبيق التحويلات التالية:<br/>            <ul><br/>            <li> يتم تقويم [GeometryType.CIRCULAR_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s<br/>            (تحويلها إلى [GeometryType.LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s مع <paramref name=\"tolerance\" /> المحدد) </li><br/>            <li> يتم دمج [GeometryType.COMPOUND_CURVE](/psd/python-net/aspose.gis.geometries/geometrytype/)s في <c>LineString</c>s </li><br/>            <li> يتم تحويل [GeometryType.CURVE_POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى [GeometryType.POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s </li><br/>            <li> يتم تحويل [GeometryType.MULTI_CURVE](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى [GeometryType.MULTI_LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s </li><br/>            <li> يتم تحويل [GeometryType.MULTI_SURFACE](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى [GeometryType.MULTI_POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s </li><br/>            </ul><br/>            نتيجةً لذلك، تكون قيمة [IGeometry.has_curve_geometry](/psd/python-net/aspose.gis.geometries/igeometry/) للشكل الهندسي الناتج <see langword=\"false\" />. |
+| [IMultiPolygon](/psd/python-net/aspose.gis.geometries/imultipolygon) | شكل هندسي لا يحتوي على أشكال منحنية. يتم تطبيق التحويلات التالية:<br/>            <ul><br/>            <li> يتم تقويم [GeometryType.CIRCULAR_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى خطوط مستقيمة (تحويل إلى [GeometryType.LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s مع <paramref name="tolerance" /> المحدد) </li><br/>            <li> يتم دمج [GeometryType.COMPOUND_CURVE](/psd/python-net/aspose.gis.geometries/geometrytype/)s في <c>LineString</c>s </li><br/>            <li> يتم تحويل [GeometryType.CURVE_POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى [GeometryType.POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s </li><br/>            <li> يتم تحويل [GeometryType.MULTI_CURVE](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى [GeometryType.MULTI_LINE_STRING](/psd/python-net/aspose.gis.geometries/geometrytype/)s </li><br/>            <li> يتم تحويل [GeometryType.MULTI_SURFACE](/psd/python-net/aspose.gis.geometries/geometrytype/)s إلى [GeometryType.MULTI_POLYGON](/psd/python-net/aspose.gis.geometries/geometrytype/)s </li><br/>            </ul><br/>            نتيجةً لذلك، تكون الخاصية [IGeometry.has_curve_geometry](/psd/python-net/aspose.gis.geometries/igeometry/) للنتيجة <see langword="false" />. |
 
 
 ### Method: touches(other) {#touches_other_35}
@@ -759,15 +759,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي \"يلمس مكانيًا\" شكل هندسي آخر. <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي \"spatially touches\" شكلًا هندسيًا آخر. <see langword=\"false\" /> وإلا. |
 
 
 ### Method: union(other) {#union_other_36}
@@ -781,15 +781,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي للاتحاد معه. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي يمثل اتحاد هذا الشكل الهندسي ومعطى. الشكل الناتج يحتوي على<br/>            مجموعة نقاط موجودة في هذا الشكل الهندسي أو في المعطى. |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي يمثل اتحاد هذا الشكل الهندسي ومعطى. يحتوي الشكل الهندسي الناتج على<br/> مجموعة نقاط موجودة في هذا الشكل الهندسي أو في المعطى. |
 
 
 ### Method: union(other) {#union_other_37}
@@ -803,15 +803,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry[]](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي للاتحاد معه. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي يمثل اتحاد هذا الشكل الهندسي ومعطى. الشكل الناتج يحتوي على<br/>            مجموعة نقاط موجودة في هذا الشكل الهندسي أو في المعطى. |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | شكل هندسي يمثل اتحاد هذا الشكل الهندسي ومعطى. يحتوي الشكل الهندسي الناتج على<br/> مجموعة نقاط موجودة في هذا الشكل الهندسي أو في المعطى. |
 
 
 ### Method: within(extent) {#within_extent_38}
@@ -825,15 +825,15 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | الامتداد. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي داخل النطاق؛ <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي داخل النطاق؛ <see langword=\"false\" /> وإلا. |
 
 
 ### Method: within(other) {#within_other_39}
@@ -847,14 +847,14 @@ url: /ar/python-net/aspose.gis.geometries/imultipolygon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry) | هندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كان هذا الشكل الهندسي \"داخل مكانيًا\" شكل هندسي آخر. <see langword="false" /> وإلا. |
+| bool | <see langword=\"true\" /> إذا كان هذا الشكل الهندسي \"spatially within\" شكلًا هندسيًا آخر. <see langword=\"false\" /> وإلا. |
 
 

@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [as_boolean(band_index)](#as_boolean_band_index_1) | يقوم بتحويل بيانات النطاق المحدد إلى قيمة <see langword="bool" />. |
 | [as_byte(band_index)](#as_byte_band_index_2) | يقوم بتحويل بيانات النطاق المحدد إلى قيمة <see langword="byte" />. |
@@ -25,7 +25,7 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 | [as_short(band_index)](#as_short_band_index_7) | يقوم بتحويل بيانات النطاق المحدد إلى قيمة <see langword="short" />. |
 | [equals_no_data(band_index)](#equals_no_data_band_index_8) | يتحقق مما إذا كانت القيمة تمثل الخلفية أو 'لا بيانات' في النطاق المحدد. |
 | [get_data_type(band_index)](#get_data_type_band_index_9) | يحصل على نوع القيم. |
-| [is_null(band_index)](#is_null_band_index_10) | يتحقق مما إذا كانت قيمة الراستر محددة في النطاق المحدد. |
+| [is_null(band_index)](#is_null_band_index_10) | يتحقق مما إذا كانت قيمة الراستر مضبوطة في النطاق المحدد. |
 
 
 ### Method: as_boolean(band_index) {#as_boolean_band_index_1}
@@ -39,15 +39,15 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | القيمة المحوَّلة. |
+| bool | القيمة المحوّلة. |
 
 
 ### Method: as_byte(band_index) {#as_byte_band_index_2}
@@ -61,15 +61,15 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| byte | القيمة المحوَّلة. |
+| byte | القيمة المحوّلة. |
 
 
 ### Method: as_double(band_index) {#as_double_band_index_3}
@@ -83,15 +83,15 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| double | القيمة المحوَّلة. |
+| double | القيمة المحوّلة. |
 
 
 ### Method: as_float(band_index) {#as_float_band_index_4}
@@ -105,15 +105,15 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| float | القيمة المحوَّلة. |
+| float | القيمة المحوّلة. |
 
 
 ### Method: as_integer(band_index) {#as_integer_band_index_5}
@@ -127,15 +127,15 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| int | القيمة المحوَّلة. |
+| int | القيمة المحوّلة. |
 
 
 ### Method: as_long(band_index) {#as_long_band_index_6}
@@ -149,15 +149,15 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| long | القيمة المحوَّلة. |
+| long | القيمة المحوّلة. |
 
 
 ### Method: as_short(band_index) {#as_short_band_index_7}
@@ -171,15 +171,15 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| short | القيمة المحوَّلة. |
+| short | القيمة المحوّلة. |
 
 
 ### Method: equals_no_data(band_index) {#equals_no_data_band_index_8}
@@ -193,13 +193,13 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | إرجاع 'true' إذا كانت تمثل الخلفية أو 'لا بيانات'. |
 
@@ -215,13 +215,13 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes) | نوع القيم. |
 
@@ -233,17 +233,17 @@ url: /ar/python-net/aspose.gis.raster/irastervalues/
  is_null(band_index) 
 ```
 
-يتحقق مما إذا كانت قيمة الراستر محددة في النطاق المحدد.
+يتحقق مما إذا كانت قيمة الراستر مضبوطة في النطاق المحدد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | band_index | int | فهرس النطاق. يبدأ الترقيم من 0. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | إرجاع 'false' إذا لم توجد. |
 

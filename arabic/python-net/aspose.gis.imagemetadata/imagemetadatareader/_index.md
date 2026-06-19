@@ -14,25 +14,25 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [get_reader(file_name)](#get_reader_file_name_1) | ينشئ مثيل قارئ لوسوم EXIF |
-| [get_reader(stream)](#get_reader_stream_2) | ينشئ مثيل قارئ لوسوم EXIF |
-| [read_data()](#read_data__3) | يستخرج جميع وسوم EXIF المدعومة |
+| [get_reader(file_name)](#get_reader_file_name_1) | ينشئ مثيل قارئ لعلامات EXIF |
+| [get_reader(stream)](#get_reader_stream_2) | ينشئ مثيل قارئ لعلامات EXIF |
+| [read_data()](#read_data__3) | يستخرج جميع علامات EXIF المدعومة |
 | [save(file_name)](#save_file_name_4) | احفظ إلى ملف جديد لأن الملف الأصلي مقفل للتغييرات |
 | [save(file_name, format)](#save_file_name_format_5) | احفظ إلى ملف جديد لأن الملف الأصلي مقفل للتغييرات |
 | [save(stream)](#save_stream_6) | حفظ التغييرات إلى تدفق منفصل |
 | [save(stream, format)](#save_stream_format_7) | حفظ التغييرات إلى تدفق منفصل |
-| [set_artist(artist)](#set_artist_artist_8) | حفظ وسم EXIF Artist، مع إضافة أو استبدال البيانات. |
+| [set_artist(artist)](#set_artist_artist_8) | حفظ علامة EXIF Artist، إضافة أو استبدال البيانات. |
 | [set_description(description)](#set_description_description_9) | حفظ علامة EXIF ImageDescription، إضافة أو استبدال البيانات. |
 | [set_geo_location(latitude, longitude)](#set_geo_location_latitude_longitude_10) | حفظ علامات EXIF GPSLatitudeRef و GPSLongitudeRef و GPSLatitude و GPSLongitude، إضافة أو استبدال البيانات. |
 | [set_image_size(width, height)](#set_image_size_width_height_11) | حفظ علامات EXIF ImageWidth و ImageHeight، إضافة أو استبدال البيانات. |
 | [set_modify_date(modify_date)](#set_modify_date_modify_date_12) | حفظ علامة EXIF ModifyDate (DataTime)، إضافة أو استبدال البيانات. |
-| [try_get_artist(artist)](#try_get_artist_artist_13) | يحاول العثور على علامة EXIF Artist، إذا لم يتم العثور على العلامة فإنه يُعيد null |
-| [try_get_description(description)](#try_get_description_description_14) | يحاول العثور على علامة EXIF ImageDescription، إذا لم يتم العثور على العلامة فإنه يُعيد null |
-| [try_get_geo_location(geo_location)](#try_get_geo_location_geo_location_15) | يحاول العثور على مجموعة علامات EXIF GPSLatitudeRef و GPSLongitudeRef و GPSLatitude و GPSLongitude، إذا لم تكن العلامات موجودة فإنه يُعيد null |
-| [try_get_image_size(image_size)](#try_get_image_size_image_size_16) | يحاول العثور على مجموعة علامات EXIF ImageWidth و ImageHeight، إذا لم تكن العلامات موجودة فإنه يُعيد null |
-| [try_get_modify_date(modify_date)](#try_get_modify_date_modify_date_17) | يحاول العثور على علامة EXIF ModifyDate (DataTime)، إذا لم يتم العثور على العلامة فإنه يُعيد القيمة الافتراضية لـ DataTime |
+| [try_get_artist(artist)](#try_get_artist_artist_13) | يحاول العثور على علامة EXIF Artist، إذا لم يتم العثور على العلامة يُعيد null |
+| [try_get_description(description)](#try_get_description_description_14) | يحاول العثور على علامة EXIF ImageDescription، إذا لم يتم العثور على العلامة يُعيد null |
+| [try_get_geo_location(geo_location)](#try_get_geo_location_geo_location_15) | يحاول العثور على مجموعة علامات EXIF GPSLatitudeRef و GPSLongitudeRef و GPSLatitude و GPSLongitude، إذا لم تكن العلامات موجودة يُعيد null |
+| [try_get_image_size(image_size)](#try_get_image_size_image_size_16) | يحاول العثور على مجموعة علامات EXIF ImageWidth و ImageHeight، إذا لم تكن العلامات موجودة يُعيد null |
+| [try_get_modify_date(modify_date)](#try_get_modify_date_modify_date_17) | يحاول العثور على علامة EXIF ModifyDate (DataTime)، إذا لم يتم العثور على العلامة يُعيد القيمة الافتراضية لـ DataTime |
 
 
 ### Method: get_reader(file_name)  [static] {#get_reader_file_name_1}
@@ -42,17 +42,17 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  get_reader(file_name) 
 ```
 
-ينشئ مثيل قارئ لوسوم EXIF
+ينشئ مثيل قارئ لعلامات EXIF
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | file_name | string | الاسم الكامل لملف الصورة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [ImageMetadataReader](/psd/python-net/aspose.gis.imagemetadata/imagemetadatareader) | مثيل قارئ البيانات الوصفية |
 
@@ -64,17 +64,17 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  get_reader(stream) 
 ```
 
-ينشئ مثيل قارئ لوسوم EXIF
+ينشئ مثيل قارئ لعلامات EXIF
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom | دفق مصدر بيانات الصورة |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [ImageMetadataReader](/psd/python-net/aspose.gis.imagemetadata/imagemetadatareader) | مثيل قارئ البيانات الوصفية |
 
@@ -86,11 +86,11 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  read_data() 
 ```
 
-يستخرج جميع وسوم EXIF المدعومة
+يستخرج جميع علامات EXIF المدعومة
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [ImageData](/psd/python-net/aspose.gis.imagemetadata/imagedata) | ImageData التي تمثل مجموعة العلامات المدعومة |
 
@@ -106,7 +106,7 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | file_name | string | الاسم الكامل للملف الوجهة |
 
@@ -121,10 +121,10 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | file_name | string | الاسم الكامل للملف الوجهة |
-| format | [ImageFormat](/psd/python-net/aspose.gis.imagemetadata/imageformat) | يحدد الصيغة للحفظ |
+| format | [ImageFormat](/psd/python-net/aspose.gis.imagemetadata/imageformat) | يحدد التنسيق للحفظ |
 
 ### Method: save(stream) {#save_stream_6}
 
@@ -137,7 +137,7 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom | دفق الوجهة |
 
@@ -152,10 +152,10 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom | دفق الوجهة |
-| format | [ImageFormat](/psd/python-net/aspose.gis.imagemetadata/imageformat) | يحدد الصيغة للحفظ |
+| format | [ImageFormat](/psd/python-net/aspose.gis.imagemetadata/imageformat) | يحدد التنسيق للحفظ |
 
 ### Method: set_artist(artist) {#set_artist_artist_8}
 
@@ -164,11 +164,11 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  set_artist(artist) 
 ```
 
-حفظ وسم EXIF Artist، مع إضافة أو استبدال البيانات.
+حفظ علامة EXIF Artist، إضافة أو استبدال البيانات.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الفنان | string | الفنان. |
 
@@ -183,7 +183,7 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الوصف | string | الوصف. |
 
@@ -198,7 +198,7 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | خط العرض | double | خط العرض. |
 | خط الطول | double | خط الطول. |
@@ -214,9 +214,9 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| العرض | int | العرض. |
+| width | int | العرض. |
 | الارتفاع | int | الارتفاع. |
 
 ### Method: set_modify_date(modify_date) {#set_modify_date_modify_date_12}
@@ -230,7 +230,7 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | modify_date | datetime | تاريخ التعديل. |
 
@@ -241,17 +241,17 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  try_get_artist(artist) 
 ```
 
-يحاول العثور على علامة EXIF Artist، إذا لم يتم العثور على العلامة فإنه يُعيد null
+يحاول العثور على علامة EXIF Artist، إذا لم يتم العثور على العلامة يُعيد null
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الفنان | سلسلة | الفنان. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | صحيح إذا نجح |
 
@@ -263,17 +263,17 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  try_get_description(description) 
 ```
 
-يحاول العثور على علامة EXIF ImageDescription، إذا لم يتم العثور على العلامة فإنه يُعيد null
+يحاول العثور على علامة EXIF ImageDescription، إذا لم يتم العثور على العلامة يُعيد null
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الوصف | سلسلة | الوصف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | صحيح إذا نجح |
 
@@ -285,17 +285,17 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  try_get_geo_location(geo_location) 
 ```
 
-يحاول العثور على مجموعة علامات EXIF GPSLatitudeRef و GPSLongitudeRef و GPSLatitude و GPSLongitude، إذا لم تكن العلامات موجودة فإنه يُعيد null
+يحاول العثور على مجموعة علامات EXIF GPSLatitudeRef و GPSLongitudeRef و GPSLatitude و GPSLongitude، إذا لم تكن العلامات موجودة يُعيد null
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geo_location | [GeoLocation[]](/psd/python-net/aspose.gis.imagemetadata/geolocation) | الموقع الجغرافي. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | صحيح إذا نجح |
 
@@ -307,17 +307,17 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  try_get_image_size(image_size) 
 ```
 
-يحاول العثور على مجموعة علامات EXIF ImageWidth و ImageHeight، إذا لم تكن العلامات موجودة فإنه يُعيد null
+يحاول العثور على مجموعة علامات EXIF ImageWidth و ImageHeight، إذا لم تكن العلامات موجودة يُعيد null
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | image_size | [ImageSize[]](/psd/python-net/aspose.gis.imagemetadata/imagesize) | حجم الصورة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | صحيح إذا نجح |
 
@@ -329,17 +329,17 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagemetadatareader/
  try_get_modify_date(modify_date) 
 ```
 
-يحاول العثور على علامة EXIF ModifyDate (DataTime)، إذا لم يتم العثور على العلامة فإنه يُعيد القيمة الافتراضية لـ DataTime
+يحاول العثور على علامة EXIF ModifyDate (DataTime)، إذا لم يتم العثور على العلامة يُعيد القيمة الافتراضية لـ DataTime
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | modify_date | datetime[] | تاريخ التعديل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool | صحيح إذا نجح |
 

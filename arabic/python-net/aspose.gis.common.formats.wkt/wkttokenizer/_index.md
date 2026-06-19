@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wkttokenizer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [WktTokenizer(text)](#WktTokenizer_text_1) | ينشئ مثيلاً جديدًا من فئة WktTokenizer |
+| [WktTokenizer(text)](#WktTokenizer_text_1) | ينشئ مثيلاً جديداً لفئة WktTokenizer |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | current_token | [WktToken](/psd/python-net/aspose.gis.common.formats.wkt/wkttoken) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | extract_next_token() |  |
 
@@ -34,11 +34,11 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wkttokenizer/
  WktTokenizer(text) 
 ```
 
-ينشئ مثيلاً جديدًا من فئة WktTokenizer
+ينشئ مثيلاً جديداً لفئة WktTokenizer
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 

@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [MapGeneratorOptions](/psd/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/) | خيارات لإنشاء الأشكال الهندسية على السطح أو المنطقة. |
-| [MapLayersGenerator](/psd/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/) | مولّد طبقات الخريطة |
+| [MapLayersGenerator](/psd/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/) | مولد طبقات الخريطة |

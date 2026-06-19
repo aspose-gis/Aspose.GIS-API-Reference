@@ -1,5 +1,5 @@
 ---
-title: "الفئة FeaturesSequence"
+title: "FeaturesSequence Class"
 type: docs
 weight: 870
 url: /ar/python-net/aspose.gis/featuressequence/
@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis/featuressequence/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | attributes | [BaseFeatureAttributeCollection](/psd/python-net/aspose.gis/basefeatureattributecollection) | r | يحصل على مجموعة السمات المخصصة للميزات في هذا [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/). |
-| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r | يحصل على نظام الإحداثيات المكانية لهذه السلسلة من الميزات. |
+| spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r | يحصل على نظام الإحداثيات المكانية لتسلسل الميزات هذا. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_extent()](#get_extent__1) | يحصل على الامتداد المكاني لهذه الطبقة. |
 | [save_to(destination_path, destination_driver)](#save_to_destination_path_destination_driver_2) | يحفظ تسلسل الميزات إلى الطبقة. |
@@ -53,7 +53,7 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Extent](/psd/python-net/aspose.gis/extent) | نطاق مكاني لهذه الطبقة. |
 
@@ -69,10 +69,10 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | destination_path | string | المسار إلى طبقة الإخراج. |
-| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | محرك تنسيق طبقة الإخراج. |
+| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | برنامج تشغيل الصيغة لطبقة الإخراج. |
 
 ### Method: save_to(destination_path, destination_driver) {#save_to_destination_path_destination_driver_3}
 
@@ -85,10 +85,10 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى طبقة الإخراج. |
-| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | محرك تنسيق طبقة الإخراج. |
+| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | برنامج تشغيل الصيغة لطبقة الإخراج. |
 
 ### Method: save_to(destination_path, destination_driver, options) {#save_to_destination_path_destination_driver_options_4}
 
@@ -101,11 +101,11 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | destination_path | string | المسار إلى طبقة الإخراج. |
-| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | محرك تنسيق طبقة الإخراج. |
-| options | [SavingOptions](/psd/python-net/aspose.gis/savingoptions) | خيارات إجراء الحفظ. |
+| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | برنامج تشغيل الصيغة لطبقة الإخراج. |
+| options | [SavingOptions](/psd/python-net/aspose.gis/savingoptions) | خيارات عملية الحفظ. |
 
 ### Method: save_to(destination_path, destination_driver, options) {#save_to_destination_path_destination_driver_options_5}
 
@@ -118,11 +118,11 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى طبقة الإخراج. |
-| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | محرك تنسيق طبقة الإخراج. |
-| options | [SavingOptions](/psd/python-net/aspose.gis/savingoptions) | خيارات إجراء الحفظ. |
+| destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | برنامج تشغيل الصيغة لطبقة الإخراج. |
+| options | [SavingOptions](/psd/python-net/aspose.gis/savingoptions) | خيارات عملية الحفظ. |
 
 ### Method: split_to() {#split_to__6}
 
@@ -135,7 +135,7 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer[]](/psd/python-net/aspose.gis/vectorlayer) | طبقات بنفس نوع الهندسة. |
 
@@ -151,14 +151,14 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 | القيمة | object | القيمة للمقارنة بها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | عناصر ذات قيمة السمة مساوية للقيمة المقدمة. |
 
@@ -174,14 +174,14 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 | القيمة | object | القيمة للمقارنة بها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | عناصر ذات قيمة السمة أكبر من القيمة المقدمة. |
 
@@ -197,14 +197,14 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 | القيمة | object | القيمة للمقارنة بها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | عناصر ذات قيمة السمة أكبر أو مساوية للقيمة المقدمة. |
 
@@ -220,13 +220,13 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | تصفية النطاق. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي تتقاطع مع الهندسة المقدمة. |
 
@@ -242,13 +242,13 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | تصفية الهندسة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي تتقاطع مع الهندسة المقدمة. |
 
@@ -264,13 +264,13 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | تسلسل العناصر الأخرى. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي تتقاطع مع اتحاد جميع الهندسات في تسلسل العناصر الأخرى. |
 
@@ -286,14 +286,14 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 | القيمة | object | القيمة للمقارنة بها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي قيمة الخاصية فيها لا تساوي القيمة المقدمة. |
 
@@ -309,13 +309,13 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي قيمة الخاصية فيها لا تساوي null. |
 
@@ -331,13 +331,13 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي قيمة الخاصية فيها تساوي null. |
 
@@ -353,15 +353,15 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي لها قيمة خاصية محددة. |
+| [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي لديها قيمة خاصية محددة. |
 
 
 ### Method: where_smaller(attribute_name, value) {#where_smaller_attribute_name_value_17}
@@ -375,14 +375,14 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 | القيمة | object | القيمة للمقارنة بها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي قيمة الخاصية فيها أصغر من القيمة المقدمة. |
 
@@ -398,14 +398,14 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 | القيمة | object | القيمة للمقارنة بها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي قيمة الخاصية فيها أصغر أو تساوي القيمة المقدمة. |
 
@@ -421,13 +421,13 @@ url: /ar/python-net/aspose.gis/featuressequence/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute_name | string | السمة للتصفية حسبها. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | العناصر التي قيمة الخاصية فيها غير محددة. |
 

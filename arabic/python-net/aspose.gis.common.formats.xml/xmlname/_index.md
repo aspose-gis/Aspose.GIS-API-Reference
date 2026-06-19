@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.common.formats.xml/xmlname/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [XmlName(local_name)](#XmlName_local_name_1) | ينشئ مثلاً جديداً من فئة XmlName |
+| [XmlName(local_name)](#XmlName_local_name_1) | ينشئ مثيلاً جديداً لفئة XmlName |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | local_name | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [equals_name(name_of_local)](#equals_name_name_of_local_1) |    |
 
@@ -34,11 +34,11 @@ url: /ar/python-net/aspose.gis.common.formats.xml/xmlname/
  XmlName(local_name) 
 ```
 
-ينشئ مثلاً جديداً من فئة XmlName
+ينشئ مثيلاً جديداً لفئة XmlName
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | local_name | string |  |
 
@@ -53,13 +53,13 @@ url: /ar/python-net/aspose.gis.common.formats.xml/xmlname/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | name_of_local | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.rendering.sld/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [SldImportOptions](/psd/python-net/aspose.gis.rendering.sld/sldimportoptions/) | خيارات لاستيراد ملف وصف الطبقة المصمم (Sld). |
+| [SldImportOptions](/psd/python-net/aspose.gis.rendering.sld/sldimportoptions/) | خيارات لاستيراد ملف وصف الطبقة المصممة (Sld). |

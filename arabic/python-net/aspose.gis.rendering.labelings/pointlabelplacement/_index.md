@@ -16,20 +16,20 @@ url: /ar/python-net/aspose.gis.rendering.labelings/pointlabelplacement/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PointLabelPlacement()](#PointLabelPlacement__1) | ينشئ نسخة جديدة. |
-| [PointLabelPlacement(other)](#PointLabelPlacement_other_2) | ينشئ نسخة جديدة. |
+| [PointLabelPlacement()](#PointLabelPlacement__1) | ينشئ مثلاً جديداً. |
+| [PointLabelPlacement(other)](#PointLabelPlacement_other_2) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| horizontal_anchor_point | [HorizontalAnchor](/psd/python-net/aspose.gis.rendering.symbolizers/horizontalanchor/) | r/w | يحدد أي جانب من التسمية سيُمحاذى أفقيًا مع موقع النقطة. |
+| horizontal_anchor_point | [HorizontalAnchor](/psd/python-net/aspose.gis.rendering.symbolizers/horizontalanchor/) | r/w | يحدد أي جانب من التسمية سيتم محاذاته أفقياً مع موقع النقطة. |
 | horizontal_offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | يحدد الإزاحة الأفقية من موقع النقطة إلى نقطة ارتكاز التسمية. |
-| دوران | double | r/w | يحدد دوران التسمية بالدرجات. |
-| vertical_anchor_point | [VerticalAnchor](/psd/python-net/aspose.gis.rendering.symbolizers/verticalanchor/) | r/w | يحدد أي جانب من التسمية سيُمحاذى عموديًا مع موقع النقطة. |
-| vertical_offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | يحدد الإزاحة العمودية من موقع النقطة إلى نقطة ارتكاز التسمية. |
+| دوران | double | قراءة/كتابة | يحدد دوران التسمية بالدرجات. |
+| vertical_anchor_point | [VerticalAnchor](/psd/python-net/aspose.gis.rendering.symbolizers/verticalanchor/) | r/w | يحدد أي جانب من التسمية سيتم محاذاته رأسياً مع موقع النقطة. |
+| vertical_offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | يحدد الإزاحة الرأسية من موقع النقطة إلى نقطة ارتكاز التسمية. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينسخ هذا الكائن. |
 
@@ -41,7 +41,7 @@ url: /ar/python-net/aspose.gis.rendering.labelings/pointlabelplacement/
  PointLabelPlacement() 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 ### Constructor: PointLabelPlacement(other) {#PointLabelPlacement_other_2}
 
@@ -50,11 +50,11 @@ url: /ar/python-net/aspose.gis.rendering.labelings/pointlabelplacement/
  PointLabelPlacement(other) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [PointLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/pointlabelplacement) | الآخر [PointLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/pointlabelplacement/) لنسخ البيانات منه. |
 
@@ -69,8 +69,8 @@ url: /ar/python-net/aspose.gis.rendering.labelings/pointlabelplacement/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [LabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/labelplacement) | نسخة مكررة من هذه النسخة. |
+| [LabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/labelplacement) | نسخة من هذا المثيل. |
 
 

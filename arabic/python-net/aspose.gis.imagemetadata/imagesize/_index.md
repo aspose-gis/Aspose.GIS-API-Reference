@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagesize/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الارتفاع | int | r | ارتفاع الصورة |
-| العرض | int | r | عرض الصورة |
+| width | int | r | عرض الصورة |
 
 

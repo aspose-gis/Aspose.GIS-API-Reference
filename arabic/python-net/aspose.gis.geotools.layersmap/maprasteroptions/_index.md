@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/maprasteroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapRasterOptions()](#MapRasterOptions__1) | ينشئ مثلاً جديداً من فئة MapRasterOptions |
+| [MapRasterOptions()](#MapRasterOptions__1) | يُنشئ نسخة جديدة من فئة MapRasterOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| layer_spatial_ref_sys | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | يحدد قيمة للمرجع المكاني للطبقة. |
-| pixel_per_column | int | r/w | عرض الراستر بالبكسل. |
-| pixel_per_row | int | r/w | ارتفاع الراستر بالبكسل. |
-| raster | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | r/w | طبقة raster. |
+| layer_spatial_ref_sys | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | يحدد قيمة للإشارة المكانية للطبقة. |
+| pixel_per_column | int | قراءة/كتابة | عرض الراستر بالبكسل. |
+| pixel_per_row | int | قراءة/كتابة | ارتفاع الراستر بالبكسل. |
+| raster | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | r/w | طبقة نقطية. |
 
 
 ### Constructor: MapRasterOptions() {#MapRasterOptions__1}
@@ -33,5 +33,5 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/maprasteroptions/
  MapRasterOptions() 
 ```
 
-ينشئ مثلاً جديداً من فئة MapRasterOptions
+يُنشئ نسخة جديدة من فئة MapRasterOptions
 

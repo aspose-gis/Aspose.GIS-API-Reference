@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.indexing.rtree/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [RTree](/psd/python-net/aspose.gis.indexing.rtree/rtree/) |  |
 | [RTreeOptions](/psd/python-net/aspose.gis.indexing.rtree/rtreeoptions/) |  |

@@ -16,14 +16,14 @@ url: /ar/python-net/aspose.gis.spatialreferencing/localdatum/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [LocalDatum(name, datum_type, identifier)](#LocalDatum_name_datum_type_identifier_1) | إنشاء مثال جديد. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | datum_type | int | r | عدد صحيح، يشير إلى طريقة القياس التي تم استخدامها. |
-| epsg_code | int | r | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
+| epsg_code | int | r | إذا كان معرف هذا الكائن هو معرف EPSG - يتم إرجاع رمزه. وإلا - يتم إرجاع -1. |
 | identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | r | معرف هذا الكائن القابل للتعريف. |
 | الاسم | string | r | اسم هذا الكائن. |
 
@@ -39,9 +39,9 @@ url: /ar/python-net/aspose.gis.spatialreferencing/localdatum/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| الاسم | string | اسم datum. |
-| datum_type | int | عدد صحيح، يمثل نوع datum. |
-| identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | معرف datum. |
+| الاسم | string | اسم المرجع. |
+| datum_type | int | عدد صحيح، يمثل نوع المرجع. |
+| identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | معرف المرجع. |
 

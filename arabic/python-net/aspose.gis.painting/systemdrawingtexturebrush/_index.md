@@ -1,5 +1,5 @@
 ---
-title: "فئة SystemDrawingTextureBrush"
+title: "SystemDrawingTextureBrush فئة"
 type: docs
 weight: 200
 url: /ar/python-net/aspose.gis.painting/systemdrawingtexturebrush/
@@ -16,15 +16,15 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingtexturebrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SystemDrawingTextureBrush(brush)](#SystemDrawingTextureBrush_brush_1) | ينشئ مثلاً جديداً من فئة SystemDrawingTextureBrush |
+| [SystemDrawingTextureBrush(brush)](#SystemDrawingTextureBrush_brush_1) | تهيئة نسخة جديدة من فئة SystemDrawingTextureBrush |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | فرشاة | System.Drawing.TextureBrush | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingtexturebrush/
  SystemDrawingTextureBrush(brush) 
 ```
 
-ينشئ مثلاً جديداً من فئة SystemDrawingTextureBrush
+تهيئة نسخة جديدة من فئة SystemDrawingTextureBrush
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | فرشاة | System.Drawing.TextureBrush |  |
 
@@ -55,7 +55,7 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingtexturebrush/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

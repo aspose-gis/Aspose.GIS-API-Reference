@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [build_centerline(polygon)](#build_centerline_polygon_1) | إنشاء مخطط الخط المركزي للمضلع |
 | [build_centerline(sites)](#build_centerline_sites_2) | إنشاء مخطط الخط المركزي لمجموعة من النقاط (المواقع) |
 | [close_linear_ring(geometry)](#close_linear_ring_geometry_3) | يغلق المقاطع الهندسية في الحلقات إذا لزم الأمر. |
-| [create_midpoints(geometry)](#create_midpoints_geometry_4) | إنشاء نقاط وسطى بإضافة نقطة جديدة في الوسط لكل مقطع. |
-| [delete_near_points(geometry, options)](#delete_near_points_geometry_options_5) | حذف النقاط التي هي قريبة جدًا من بعضها البعض. |
+| [create_midpoints(geometry)](#create_midpoints_geometry_4) | إنشاء نقاط وسط عن طريق إضافة نقطة جديدة في الوسط لكل مقطع. |
+| [delete_near_points(geometry, options)](#delete_near_points_geometry_options_5) | حذف النقاط التي تكون قريبة جدًا من بعضها البعض. |
 | [extract_geometry_collection(layer)](#extract_geometry_collection_layer_6) | استخراج مجموعة الهندسة من الطبقة |
 | [get_centerline_length(polygon)](#get_centerline_length_polygon_7) | الحصول على طول الخط المركزي |
 | [get_centerline_length(sites)](#get_centerline_length_sites_8) | الحصول على طول الخط المركزي |
-| [make_voronoi_graph(sites)](#make_voronoi_graph_sites_9) | إنشاء مخطط "Voronoi" لمجموعة من النقاط (المواقع) |
-| [order_geometry_collection(geometry)](#order_geometry_collection_geometry_10) | ترتيب مجموعة الهندسة حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر) |
+| [make_voronoi_graph(sites)](#make_voronoi_graph_sites_9) | إنشاء مخطط "فورونوي" لمجموعة من النقاط (المواقع) |
+| [order_geometry_collection(geometry)](#order_geometry_collection_geometry_10) | رتب مجموعة الهندسة حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر) |
 | [simplify_segments(geometry, options)](#simplify_segments_geometry_options_11) | حذف النقاط الواقعة على نفس المقطع. |
 
 
@@ -40,13 +40,13 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | polygon | [Polygon](/psd/python-net/aspose.gis.geometries/polygon/) | مضلع لمخطط الخط المركزي |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.List<Aspose.Gis.Geometries.LineString> | مجموعة من حواف الخط المركزي |
 
@@ -62,13 +62,13 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | المواقع | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.Point> | مجموعة من النقاط (المواقع) |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.List<Aspose.Gis.Geometries.LineString> | مجموعة من حواف الخط المركزي |
 
@@ -84,13 +84,13 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة للإغلاق. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة بعد الإغلاق. |
 
@@ -102,17 +102,17 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
  create_midpoints(geometry) 
 ```
 
-إنشاء نقاط وسطى بإضافة نقطة جديدة في الوسط لكل مقطع.
+إنشاء نقاط وسط عن طريق إضافة نقطة جديدة في الوسط لكل مقطع.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة للمعالجة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة بعد المعالجة. |
 
@@ -124,18 +124,18 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
  delete_near_points(geometry, options) 
 ```
 
-حذف النقاط التي هي قريبة جدًا من بعضها البعض.
+حذف النقاط التي تكون قريبة جدًا من بعضها البعض.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة لحذف النقاط الأقرب. |
-| options | [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions) | خيارات حذف النقاط الأقرب. |
+| geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة لحذف أقرب النقاط. |
+| options | [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions) | خيارات حذف أقرب النقاط. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة بعد حذف أقرب نقطة. |
 
@@ -151,13 +151,13 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة الإدخال |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | المجموعة تحتوي على جميع الهندسات لطبقة الإدخال |
 
@@ -173,13 +173,13 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | polygon | [Polygon](/psd/python-net/aspose.gis.geometries/polygon/) | مضلع لمخطط الخط المركزي |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double | طول حواف الخط المركزي |
 
@@ -195,13 +195,13 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | المواقع | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.Point> | مجموعة من النقاط (المواقع) |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double | طول حواف الخط المركزي |
 
@@ -213,19 +213,19 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
  make_voronoi_graph(sites) 
 ```
 
-إنشاء مخطط "Voronoi" لمجموعة من النقاط (المواقع)
+إنشاء مخطط "فورونوي" لمجموعة من النقاط (المواقع)
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | المواقع | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IPoint> | مجموعة من النقاط (المواقع) |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| System.Collections.Generic.List<Aspose.Gis.Geometries.LineString> | مجموعة حواف مخطط فوروينوي |
+| System.Collections.Generic.List<Aspose.Gis.Geometries.LineString> | مجموعة حواف مخطط فورونوي |
 
 
 ### Method: order_geometry_collection(geometry)  [static] {#order_geometry_collection_geometry_10}
@@ -235,17 +235,17 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
  order_geometry_collection(geometry) 
 ```
 
-ترتيب مجموعة الهندسة حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر)
+رتب مجموعة الهندسة حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر)
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | مجموعة الهندسة للترتيب |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | المجموعة تحتوي على أربع مجموعات (نقطة، خط، مضلع ونوع آخر) |
 
@@ -261,14 +261,14 @@ url: /ar/python-net/aspose.gis.geotools/geometryoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة لحذف النقطة الزائدة |
 | options | [SimplifySegmentsOptions](/psd/python-net/aspose.gis.geotools/simplifysegmentsoptions) | خيارات حذف النقطة الزائدة |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | الهندسة بعد حذف النقطة الزائدة |
 

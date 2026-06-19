@@ -1,5 +1,5 @@
 ---
-title: "فئة MarkerLine"
+title: "الفئة MarkerLine"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.rendering.symbolizers/markerline/
@@ -16,19 +16,19 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/markerline/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MarkerLine()](#MarkerLine__1) | يُنشئ مثيلاً جديدًا لفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/). |
-| [MarkerLine(other)](#MarkerLine_other_2) | يُنشئ مثيلاً جديدًا لفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/). |
+| [MarkerLine()](#MarkerLine__1) | يقوم بإنشاء نسخة جديدة من الفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/). |
+| [MarkerLine(other)](#MarkerLine_other_2) | يقوم بإنشاء نسخة جديدة من الفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | interval | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | يحدد الفاصل الزمني بين العلامات على طول الخط. |
-| marker | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | يحدد مُرمِّز العلامة على طول الخط. |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) بعدم رسم أي شيء ويتخطى فعلياً رسم الهندسة التي يُطبق عليها. |
-| offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | يحدد الإزاحة من الخط الأصلي.<br/>            بالنسبة للمسافة الإيجابية ستكون الإزاحة على الجانب الأيسر من الخط المدخل (وفقًا لاتجاه الخط).<br/>            بالنسبة للمسافة السلبية ستكون على الجانب الأيمن. |
+| marker | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | يحدد مُرمّز العلامة على طول الخط. |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) برسم لا شيء ويتخطى فعليًا رسم الهندسة التي يُطبق عليها. |
+| offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | يحدد الإزاحة من الخط الأصلي.<br/>            بالنسبة للمسافة الإيجابية ستكون الإزاحة على الجانب الأيسر من الخط المدخل (بالنسبة إلى اتجاه الخط).<br/>            بالنسبة للمسافة السلبية ستكون على الجانب الأيمن. |
 | offset_along_line | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | يحدد الإزاحة على طول الخط للعلامة الأولى. |
-| rotate_markers | bool | r/w | يحدد ما إذا كان يجب تدوير العلامات على طول الخط. |
+| rotate_markers | bool | قراءة/كتابة | يحدد ما إذا كان يجب تدوير العلامات على طول الخط. |
 
 
 ### Constructor: MarkerLine() {#MarkerLine__1}
@@ -38,7 +38,7 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/markerline/
  MarkerLine() 
 ```
 
-يُنشئ مثيلاً جديدًا لفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/).
+يقوم بإنشاء نسخة جديدة من الفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/).
 
 ### Constructor: MarkerLine(other) {#MarkerLine_other_2}
 
@@ -47,11 +47,11 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/markerline/
  MarkerLine(other) 
 ```
 
-يُنشئ مثيلاً جديدًا لفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/).
+يقوم بإنشاء نسخة جديدة من الفئة [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| other | [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline) | الـ [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/) الآخر لنسخ البيانات منه. |
+| other | [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline) | العنصر الآخر [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/) لنسخ البيانات منه. |
 

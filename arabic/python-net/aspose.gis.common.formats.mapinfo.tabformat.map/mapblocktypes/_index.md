@@ -1,5 +1,5 @@
 ---
-title: "فئة MapBlockTypes"
+title: "MapBlockTypes فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapblocktypes/
@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapblocktype
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| COORDINATES [ثابت] | short | r |  |
-| GARBAGE [ثابت] | short | r |  |
-| HEADER [ثابت] | short | r |  |
-| OBJECTS [ثابت] | short | r |  |
-| RAW_BIN [ثابت] | short | r |  |
-| SPATIAL_INDEX [ثابت] | short | r |  |
-| أداة [ثابت] | short | r |  |
+| COORDINATES [static] | short | r |  |
+| GARBAGE [static] | short | r |  |
+| HEADER [static] | short | r |  |
+| OBJECTS [static] | short | r |  |
+| RAW_BIN [static] | short | r |  |
+| SPATIAL_INDEX [static] | short | r |  |
+| TOOL [static] | short | r |  |
 
 

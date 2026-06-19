@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [KmlAbstractColorStyle()](#KmlAbstractColorStyle__1) | ينشئ نسخة جديدة من فئة KmlAbstractColorStyle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| اللون | System.Drawing.Color | r/w | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
-| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: normal. |
+| اللون | System.Drawing.Color | قراءة/كتابة | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
+| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
 
 
 ### Constructor: KmlAbstractColorStyle() {#KmlAbstractColorStyle__1}

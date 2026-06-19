@@ -5,7 +5,7 @@ weight: 130
 url: /ar/python-net/aspose.gis.raster/bandtypes/
 ---
 
-أنواع شريط الراستر.
+أنواع قناة الراستر.
 
 **Module:** [aspose.gis.raster](/psd/python-net/aspose.gis.raster/)
 
@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.raster/bandtypes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BIT | 1-بت. يُعرف بأنه bool. |
 | BYTE | عدد صحيح غير موقع 8-بت. يُعرف بأنه int. |
 | DOUBLE | عدد عائم 64-بت. يُعرف بأنه float. |
 | FLOAT | عدد عائم 64-بت. float. يُعرف بأنه float. |
-| INTEGER | عدد صحيح 32-بت. يُعرف بأنه int. |
-| LONG | عدد صحيح 64-بت. يُعرف بأنه int. |
+| عدد صحيح | عدد صحيح 32-بت. يُعرف بأنه int. |
+| طويل | عدد صحيح 64-بت. يُعرف بأنه int. |
 | RAW_BITS | نوع النطاق غير معروف. راجع Aspose.Gis.Raster.IRasterValues.AsRawBits للحصول على القيم. |
 | SHORT | عدد صحيح موقّع 16‑بت. يُعرف باسم int. |
 | S_BYTE | عدد صحيح موقّع 8‑بت. يُعرف باسم int. |

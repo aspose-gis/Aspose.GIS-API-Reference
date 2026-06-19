@@ -1,5 +1,5 @@
 ---
-title: "BinaryDataReader الفئة"
+title: "BinaryDataReader فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.common.io/binarydatareader/
@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | base_stream | _io.BufferedRandom | r |  |
 | is_little_endian | bool | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [big_endian(input, leave_open)](#big_endian_input_leave_open_1) |    |
 | [create(byte_order, input, leave_open)](#create_byte_order_input_leave_open_2) |    |
@@ -47,14 +47,14 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| الإدخال | _io.BufferedRandom |  |
+| input | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BinaryDataReader](/psd/python-net/aspose.gis.common.io/binarydatareader) |  |
 
@@ -70,15 +70,15 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | byte_order | [ByteOrder](/psd/python-net/aspose.gis.common.io/byteorder) |  |
-| الإدخال | _io.BufferedRandom |  |
+| input | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BinaryDataReader](/psd/python-net/aspose.gis.common.io/binarydatareader) |  |
 
@@ -94,14 +94,14 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| الإدخال | _io.BufferedRandom |  |
+| input | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BinaryDataReader](/psd/python-net/aspose.gis.common.io/binarydatareader) |  |
 
@@ -117,7 +117,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -133,7 +133,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -149,7 +149,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | short |  |
 
@@ -165,7 +165,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -181,7 +181,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | long |  |
 
@@ -197,7 +197,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | sbyte |  |
 
@@ -213,7 +213,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | float |  |
 
@@ -229,7 +229,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | ushort |  |
 
@@ -245,7 +245,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | uint |  |
 
@@ -261,7 +261,7 @@ url: /ar/python-net/aspose.gis.common.io/binarydatareader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | ulong |  |
 

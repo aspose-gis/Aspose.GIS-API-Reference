@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.rendering.formats.jpeg/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [JpegRenderer](/psd/python-net/aspose.gis.rendering.formats.jpeg/jpegrenderer/) | مُكوّن [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) الذي يُحوِّل [Map](/psd/python-net/aspose.gis.rendering/map/) إلى ملف JPEG. |
+| [JpegRenderer](/psd/python-net/aspose.gis.rendering.formats.jpeg/jpegrenderer/) | أداة [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) التي تقوم بعرض [Map](/psd/python-net/aspose.gis.rendering/map/) في ملف JPEG. |

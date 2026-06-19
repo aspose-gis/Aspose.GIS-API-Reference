@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphical
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | قوس |  |
 | قطع ناقص |  |
 | مجموعة_رسومية |  |
 | خط |  |
-| متعدد_النقاط |  |
-| لا شيء |  |
+| نقطة_متعددة |  |
+| بدون |  |
 | نقطة |  |
 | متعدد_الخطوط |  |
 | مستطيل |  |

@@ -16,33 +16,33 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbshapefielddescription/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbShapeFieldDescription()](#GdbShapeFieldDescription__1) | يُنشئ مثلاً جديداً من الفئة GdbShapeFieldDescription |
+| [GdbShapeFieldDescription()](#GdbShapeFieldDescription__1) | يقوم بتهيئة نسخة جديدة من الفئة GdbShapeFieldDescription |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الاسم المستعار | string | r/w |  |
+| الاسم المستعار | string | قراءة/كتابة |  |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r |    |
-| default_value | object | r/w |  |
+| default_value | object | قراءة/كتابة |  |
 | field_type | [GdbFieldType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfieldtype) | r |    |
-| has_m | bool | r/w |  |
-| has_z | bool | r/w |  |
-| is_nullable | bool | r/w |  |
-| m_origin | double | r/w |  |
-| m_scale | double | r/w |  |
-| m_tolerance | double | r/w |  |
-| الاسم | string | r/w |  |
-| srs_wkt | string | r/w |  |
-| unknown_srs_string [ثابت] | string | r |  |
-| العرض | uint | r/w |  |
-| x_origin | double | r/w |  |
-| xy_scale | double | r/w |  |
-| xy_tolerance | double | r/w |  |
-| y_origin | double | r/w |  |
-| z_origin | double | r/w |  |
-| z_scale | double | r/w |  |
-| z_tolerance | double | r/w |  |
+| has_m | bool | قراءة/كتابة |  |
+| has_z | bool | قراءة/كتابة |  |
+| is_nullable | bool | قراءة/كتابة |  |
+| m_origin | double | قراءة/كتابة |  |
+| m_scale | double | قراءة/كتابة |  |
+| m_tolerance | double | قراءة/كتابة |  |
+| الاسم | string | قراءة/كتابة |  |
+| srs_wkt | string | قراءة/كتابة |  |
+| unknown_srs_string [static] | string | r |  |
+| width | uint | قراءة/كتابة |  |
+| x_origin | double | قراءة/كتابة |  |
+| xy_scale | double | قراءة/كتابة |  |
+| xy_tolerance | double | قراءة/كتابة |  |
+| y_origin | double | قراءة/كتابة |  |
+| z_origin | double | قراءة/كتابة |  |
+| z_scale | double | قراءة/كتابة |  |
+| z_tolerance | double | قراءة/كتابة |  |
 
 
 ### Constructor: GdbShapeFieldDescription() {#GdbShapeFieldDescription__1}
@@ -52,5 +52,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbshapefielddescription/
  GdbShapeFieldDescription() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة GdbShapeFieldDescription
+يقوم بتهيئة نسخة جديدة من الفئة GdbShapeFieldDescription
 

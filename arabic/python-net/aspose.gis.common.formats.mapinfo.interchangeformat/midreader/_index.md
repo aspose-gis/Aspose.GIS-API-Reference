@@ -1,5 +1,5 @@
 ---
-title: "فئة MidReader"
+title: "MidReader فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/midreader/
@@ -16,10 +16,10 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/midreade
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MidReader(path, separator, encoding)](#MidReader_path_separator_encoding_1) | يُنشئ مثالا جديدا من الفئة MidReader |
-| [MidReader(path, separator, encoding)](#MidReader_path_separator_encoding_2) | يُنشئ مثالا جديدا من الفئة MidReader |
+| [MidReader(path, separator, encoding)](#MidReader_path_separator_encoding_1) | يقوم بإنشاء نسخة جديدة من فئة MidReader |
+| [MidReader(path, separator, encoding)](#MidReader_path_separator_encoding_2) | يقوم بإنشاء نسخة جديدة من فئة MidReader |
 
 
 ### Constructor: MidReader(path, separator, encoding) {#MidReader_path_separator_encoding_1}
@@ -29,14 +29,14 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/midreade
  MidReader(path, separator, encoding) 
 ```
 
-يُنشئ مثالا جديدا من الفئة MidReader
+يقوم بإنشاء نسخة جديدة من فئة MidReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
-| فاصل | char |  |
+| path | string |  |
+| separator | حرف |  |
 | الترميز | System.Text.Encoding |  |
 
 ### Constructor: MidReader(path, separator, encoding) {#MidReader_path_separator_encoding_2}
@@ -46,13 +46,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/midreade
  MidReader(path, separator, encoding) 
 ```
 
-يُنشئ مثالا جديدا من الفئة MidReader
+يقوم بإنشاء نسخة جديدة من فئة MidReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
-| فاصل | char |  |
+| separator | حرف |  |
 | الترميز | System.Text.Encoding |  |
 

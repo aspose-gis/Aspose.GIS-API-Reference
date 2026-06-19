@@ -1,5 +1,5 @@
 ---
-title: "تعداد ImageFormat"
+title: "ImageFormat تعداد"
 type: docs
 weight: 50
 url: /ar/python-net/aspose.gis.imagemetadata/imageformat/
@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.imagemetadata/imageformat/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| BMP | تنسيق صورة Bmp |
-| EMF | تنسيق صورة Emf |
-| EXIF | تنسيق صورة Exif |
-| GIF | تنسيق صورة Gif |
-| ICON | تنسيق صورة Icon |
-| JPEG | تنسيق صورة Jpeg |
-| MEMORY_BMP | تنسيق الصورة MemoryBmp |
-| PNG | تنسيق الصورة PNG |
-| TIFF | تنسيق الصورة TIFF |
-| WMF | تنسيق الصورة WMF |
+| BMP | Bmp تنسيق الصورة |
+| EMF | Emf تنسيق الصورة |
+| EXIF | Exif تنسيق الصورة |
+| GIF | Gif تنسيق الصورة |
+| ICON | Icon تنسيق الصورة |
+| JPEG | Jpeg تنسيق الصورة |
+| MEMORY_BMP | تنسيق صورة MemoryBmp |
+| PNG | تنسيق صورة Png |
+| TIFF | تنسيق صورة Tiff |
+| WMF | تنسيق صورة Wmf |

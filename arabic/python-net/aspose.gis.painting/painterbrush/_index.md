@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.painting/painterbrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -30,7 +30,7 @@ url: /ar/python-net/aspose.gis.painting/painterbrush/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

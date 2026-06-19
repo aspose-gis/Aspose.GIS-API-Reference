@@ -5,7 +5,7 @@ weight: 4930
 url: /ar/python-net/aspose.gis/spatialreferencesystemmode/
 ---
 
-يحدد وضع كتابة نظام الإسناد المكاني (SRS) في قاعدة البيانات<br/>            إذا كان SRS غير معروف.
+يحدد وضع كتابة نظام الإحداثيات المكانية (SRS) في قاعدة البيانات<br/>            إذا كان SRS غير معروف.
 
 **Module:** [aspose.gis](/psd/python-net/aspose.gis/)
 
@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis/spatialreferencesystemmode/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| SETUP_TO_ZERO | إعداد SRID للهندسة إلى 'صفر' إذا كان SRS غير معروف لقاعدة البيانات. |
-| THROW_EXCEPTION | إلقاء استثناءات إذا كان SRS غير معروف لقاعدة البيانات. |
-| WRITE_IN_SYSTEM_TABLE | اكتب معلومات SRS في جدول النظام إذا كان SRS غير معروف لقاعدة البيانات. |
+| SETUP_TO_ZERO | قم بإعداد SRID للكيان الهندسي إلى 'صفر' إذا كان نظام الإحداثيات المرجعي غير معروف لقاعدة البيانات. |
+| THROW_EXCEPTION | ارمِ الاستثناءات إذا كان نظام الإحداثيات المرجعي غير معروف لقاعدة البيانات. |
+| WRITE_IN_SYSTEM_TABLE | اكتب معلومات SRS في جدول النظام إذا كان نظام الإحداثيات المرجعي غير معروف لقاعدة البيانات. |

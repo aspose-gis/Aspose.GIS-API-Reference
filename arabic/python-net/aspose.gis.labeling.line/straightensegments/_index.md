@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.labeling.line/straightensegments/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [StraightenSegments(measured_line)](#StraightenSegments_measured_line_1) | يُنشئ مثيلًا جديدًا من فئة StraightenSegments |
+| [StraightenSegments(measured_line)](#StraightenSegments_measured_line_1) | يُنشئ مثيلًا جديدًا من الفئة StraightenSegments |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | longest_length | double | r |  |
 | segments | System.Collections.Generic.IReadOnlyList<MeasuredLineSegment> | r |  |
@@ -31,11 +31,11 @@ url: /ar/python-net/aspose.gis.labeling.line/straightensegments/
  StraightenSegments(measured_line) 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة StraightenSegments
+يُنشئ مثيلًا جديدًا من الفئة StraightenSegments
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | measured_line | [MeasuredLine](/psd/python-net/aspose.gis.labeling.line/measuredline) |  |
 

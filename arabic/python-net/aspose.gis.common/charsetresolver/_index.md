@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common/charsetresolver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_encoding(charset_name)](#get_encoding_charset_name_1) |    |
 
@@ -30,13 +30,13 @@ url: /ar/python-net/aspose.gis.common/charsetresolver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | charset_name | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Text.Encoding |  |
 

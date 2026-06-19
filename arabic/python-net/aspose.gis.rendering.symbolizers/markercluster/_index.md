@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/markercluster/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MarkerCluster(distance)](#MarkerCluster_distance_1) | ينشئ مثيلًا جديدًا من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/). |
-| [MarkerCluster(other)](#MarkerCluster_other_2) | ينشئ مثيلًا جديدًا من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/). |
+| [MarkerCluster(distance)](#MarkerCluster_distance_1) | ينشئ مثيلاً جديداً من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/). |
+| [MarkerCluster(other)](#MarkerCluster_other_2) | ينشئ مثيلاً جديداً من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | marker | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | يحدد رمز العلامة في مركز العنقود. |
 | nested_marker | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | يحدد رمز العلامة لنقاط العنقود المتداخلة. القيمة الافتراضية هي [VectorSymbolizer.null](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/). |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) بعدم رسم أي شيء ويتخطى فعلياً رسم الهندسة التي يُطبق عليها. |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) برسم لا شيء ويتخطى فعليًا رسم الهندسة التي يُطبق عليها. |
 
 
 ### Constructor: MarkerCluster(distance) {#MarkerCluster_distance_1}
@@ -35,11 +35,11 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/markercluster/
  MarkerCluster(distance) 
 ```
 
-ينشئ مثيلًا جديدًا من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/).
+ينشئ مثيلاً جديداً من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | distance | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | يحدد المسافة التي تجمع أقرب النقاط. |
 
@@ -50,11 +50,11 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/markercluster/
  MarkerCluster(other) 
 ```
 
-ينشئ مثيلًا جديدًا من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/).
+ينشئ مثيلاً جديداً من الفئة [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster) | الـ[MarkerCluster](/psd/python-net/aspose.gis.rendering.symbolizers/markercluster/) الآخر لنسخ البيانات منه. |
 

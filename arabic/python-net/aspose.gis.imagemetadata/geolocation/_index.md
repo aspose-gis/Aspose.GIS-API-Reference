@@ -1,5 +1,5 @@
 ---
-title: "فئة GeoLocation"
+title: "GeoLocation فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.imagemetadata/geolocation/
@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis.imagemetadata/geolocation/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| خط العرض | double | r | خط العرض ل GeoLocation |
-| خط الطول | double | r | خط الطول ل GeoLocation |
+| خط العرض | double | r | خط العرض لـ GeoLocation |
+| خط الطول | double | r | خط الطول لـ GeoLocation |
 
 

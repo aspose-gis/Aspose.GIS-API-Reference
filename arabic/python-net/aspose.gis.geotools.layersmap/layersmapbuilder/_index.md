@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/layersmapbuilder/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [LayersMapBuilder()](#LayersMapBuilder__1) | ينشئ مثلاً جديداً من فئة LayersMapBuilder |
+| [LayersMapBuilder()](#LayersMapBuilder__1) | ينشئ مثيلاً جديداً لفئة LayersMapBuilder |
 
 
 ### Constructor: LayersMapBuilder() {#LayersMapBuilder__1}
@@ -26,5 +26,5 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/layersmapbuilder/
  LayersMapBuilder() 
 ```
 
-ينشئ مثلاً جديداً من فئة LayersMapBuilder
+ينشئ مثيلاً جديداً لفئة LayersMapBuilder
 

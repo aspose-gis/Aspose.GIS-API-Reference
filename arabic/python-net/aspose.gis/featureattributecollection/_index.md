@@ -1,5 +1,5 @@
 ---
-title: "FeatureAttributeCollection فئة"
+title: "فئة FeatureAttributeCollection"
 type: docs
 weight: 850
 url: /ar/python-net/aspose.gis/featureattributecollection/
@@ -16,17 +16,17 @@ url: /ar/python-net/aspose.gis/featureattributecollection/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | count | int | r | يحصل على عدد السمات في [Feature](/psd/python-net/aspose.gis/feature/). |
-| is_locked | bool | r | يحصل على قيمة تشير إلى ما إذا كان مجموعة السمات هذه مقفلة. |
+| is_locked | bool | r | يحصل على قيمة تشير إلى ما إذا كانت مجموعة السمات هذه مقفلة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [add(attribute)](#add_attribute_1) | يضيف سمة إلى المجموعة. |
 | [contains(name)](#contains_name_2) | يحدد ما إذا كانت مجموعة السمات تحتوي على سمة بالاسم المحدد. |
 | [index_of(name)](#index_of_name_3) | يبحث عن السمة ويعيد الفهرس الصفري الخاص بها. |
-| lock() | يقفل مجموعة السمات هذه لمنع أي تعديلات أخرى. |
+| lock() | يقفل مجموعة السمات هذه لمنع التعديلات الإضافية. |
 | [remove(index)](#remove_index_4) | يزيل السمة من المجموعة. |
 | [remove(name)](#remove_name_5) | يزيل السمة من المجموعة. |
 
@@ -42,7 +42,7 @@ url: /ar/python-net/aspose.gis/featureattributecollection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute | [FeatureAttribute](/psd/python-net/aspose.gis/featureattribute) | السمة المراد إضافتها. |
 
@@ -57,15 +57,15 @@ url: /ar/python-net/aspose.gis/featureattributecollection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم السمة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword="true" /> إذا كانت مجموعة السمات تحتوي على سمة بالاسم المحدد؛ وإلا، <see langword="false" />. |
+| bool | <see langword=\"true\" /> إذا كانت مجموعة السمات تحتوي على سمة بالاسم المحدد؛ وإلا، <see langword=\"false\" />. |
 
 
 ### Method: index_of(name) {#index_of_name_3}
@@ -79,15 +79,15 @@ url: /ar/python-net/aspose.gis/featureattributecollection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم السمة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| int | الفهرس الصفري للسمة داخل المجموعة، إذا وجدت؛ وإلا، –1. |
+| int | الفهرس الصفري للسمة داخل المجموعة، إذا تم العثور عليها؛ وإلا، –1. |
 
 
 ### Method: remove(index) {#remove_index_4}
@@ -101,9 +101,9 @@ url: /ar/python-net/aspose.gis/featureattributecollection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس السمة. |
+| الفهرس | int | فهرس السمة. |
 
 ### Method: remove(name) {#remove_name_5}
 
@@ -116,7 +116,7 @@ url: /ar/python-net/aspose.gis/featureattributecollection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم السمة. |
 

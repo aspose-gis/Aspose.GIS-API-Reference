@@ -1,5 +1,5 @@
 ---
-title: "Tetragon فئة"
+title: "فئة Tetragon"
 type: docs
 weight: 190
 url: /ar/python-net/aspose.gis.labeling/tetragon/
@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.labeling/tetragon/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Tetragon()](#Tetragon__1) | يُنشئ مثلاً جديداً من فئة Tetragon |
-| [Tetragon(rectangle, angle)](#Tetragon_rectangle_angle_2) | يُنشئ مثلاً جديداً من فئة Tetragon |
-| [Tetragon(x, y, width, height, angle)](#Tetragon_x_y_width_height_angle_3) | يُنشئ مثلاً جديداً من فئة Tetragon |
+| [Tetragon()](#Tetragon__1) | يُنشئ مثلاً جديداً من الفئة Tetragon |
+| [Tetragon(rectangle, angle)](#Tetragon_rectangle_angle_2) | يُنشئ مثلاً جديداً من الفئة Tetragon |
+| [Tetragon(x, y, width, height, angle)](#Tetragon_x_y_width_height_angle_3) | يُنشئ مثلاً جديداً من الفئة Tetragon |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | زاوية | double | r |  |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |
@@ -29,7 +29,7 @@ url: /ar/python-net/aspose.gis.labeling/tetragon/
 | c2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) | r |    |
 | c3 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [intersects(tetragon)](#intersects_tetragon_1) |    |
 | [translate(delta)](#translate_delta_2) |    |
@@ -42,7 +42,7 @@ url: /ar/python-net/aspose.gis.labeling/tetragon/
  Tetragon() 
 ```
 
-يُنشئ مثلاً جديداً من فئة Tetragon
+يُنشئ مثلاً جديداً من الفئة Tetragon
 
 ### Constructor: Tetragon(rectangle, angle) {#Tetragon_rectangle_angle_2}
 
@@ -51,11 +51,11 @@ url: /ar/python-net/aspose.gis.labeling/tetragon/
  Tetragon(rectangle, angle) 
 ```
 
-يُنشئ مثلاً جديداً من فئة Tetragon
+يُنشئ مثلاً جديداً من الفئة Tetragon
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | rectangle | [Rectangle](/psd/python-net/aspose.gis.common/rectangle/) |  |
 | زاوية | double |  |
@@ -67,15 +67,15 @@ url: /ar/python-net/aspose.gis.labeling/tetragon/
  Tetragon(x, y, width, height, angle) 
 ```
 
-يُنشئ مثلاً جديداً من فئة Tetragon
+يُنشئ مثلاً جديداً من الفئة Tetragon
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
-| العرض | double |  |
+| width | double |  |
 | الارتفاع | double |  |
 | زاوية | double |  |
 
@@ -90,13 +90,13 @@ url: /ar/python-net/aspose.gis.labeling/tetragon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | tetragon | [Tetragon](/psd/python-net/aspose.gis.labeling/tetragon) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -112,13 +112,13 @@ url: /ar/python-net/aspose.gis.labeling/tetragon/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | delta | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Tetragon](/psd/python-net/aspose.gis.labeling/tetragon) |  |
 

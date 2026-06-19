@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis/license/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [License()](#License__1) | يُنشئ نسخة جديدة من هذه الفئة. |
+| [License()](#License__1) | يُهيئ نسخة جديدة من هذه الفئة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | set_license(license_name) |  |
 | [set_license(stream)](#set_license_stream_1) | يُرخص المكوّن. |
@@ -31,7 +31,7 @@ url: /ar/python-net/aspose.gis/license/
  License() 
 ```
 
-يُنشئ نسخة جديدة من هذه الفئة.
+يُهيئ نسخة جديدة من هذه الفئة.
 
 ### Method: set_license(stream) {#set_license_stream_1}
 
@@ -44,7 +44,7 @@ url: /ar/python-net/aspose.gis/license/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom | دفق يحتوي على الترخيص. |
 

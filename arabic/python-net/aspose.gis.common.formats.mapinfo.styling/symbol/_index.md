@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/symbol/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Symbol()](#Symbol__1) | يُنشئ نسخة جديدة من الفئة Symbol |
-| [Symbol(shape, color, size)](#Symbol_shape_color_size_2) | يُنشئ نسخة جديدة من الفئة Symbol |
+| [Symbol()](#Symbol__1) | يُهيئ نسخة جديدة من فئة Symbol |
+| [Symbol(shape, color, size)](#Symbol_shape_color_size_2) | يُهيئ نسخة جديدة من فئة Symbol |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) | r |    |
 | الشكل | int | r |  |
@@ -33,7 +33,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/symbol/
  Symbol() 
 ```
 
-يُنشئ نسخة جديدة من الفئة Symbol
+يُهيئ نسخة جديدة من فئة Symbol
 
 ### Constructor: Symbol(shape, color, size) {#Symbol_shape_color_size_2}
 
@@ -42,11 +42,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/symbol/
  Symbol(shape, color, size) 
 ```
 
-يُنشئ نسخة جديدة من الفئة Symbol
+يُهيئ نسخة جديدة من فئة Symbol
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الشكل | int |  |
 | color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) |  |

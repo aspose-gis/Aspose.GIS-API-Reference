@@ -14,21 +14,21 @@ url: /ar/python-net/aspose.gis.geotools/stargeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [StarGeneratorOptions()](#StarGeneratorOptions__1) | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
+| [StarGeneratorOptions()](#StarGeneratorOptions__1) | إنشاء مثيل مع حقول التهيئة بشكل افتراضي. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| عدد | int | r/w | عدد المضلعات التي سيتم إنشاؤها. |
-| maximum_star_vertex | int | r/w | الحد الأقصى للنقطة الخارجية للجانب المُولد. |
-| minimum_star_vertex | int | r/w | الحد الأدنى للنقطة الخارجية للجانب المُولد. |
-| place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | وضعية التوزيع في الخلايا المُولدة. |
-| seed | int | r/w | رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة. |
+| العدد | int | قراءة/كتابة | عدد المضلعات لإنشائها. |
+| maximum_star_vertex | int | قراءة/كتابة | أقصى رأس خارجي للجانب المُولد. |
+| minimum_star_vertex | int | قراءة/كتابة | أدنى رأس خارجي للجانب المُولد. |
+| place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | وضع التوضع في الخلايا المُولدة. |
+| seed | int | قراءة/كتابة | رقم يُستخدم لحساب قيمة البذرة لتسلسل من الأعداد العشوائية الزائفة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | استنساخ الكائن إلى آخر. |
+| [clone()](#clone__1) | استنساخ الكائن إلى كائن آخر. |
 
 
 ### Constructor: StarGeneratorOptions() {#StarGeneratorOptions__1}
@@ -38,7 +38,7 @@ url: /ar/python-net/aspose.gis.geotools/stargeneratoroptions/
  StarGeneratorOptions() 
 ```
 
-إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
+إنشاء مثيل مع حقول التهيئة بشكل افتراضي.
 
 ### Method: clone() {#clone__1}
 
@@ -47,11 +47,11 @@ url: /ar/python-net/aspose.gis.geotools/stargeneratoroptions/
  clone() 
 ```
 
-استنساخ الكائن إلى آخر.
+استنساخ الكائن إلى كائن آخر.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [StarGeneratorOptions](/psd/python-net/aspose.gis.geotools/stargeneratoroptions) | استنساخ الكائن إلى آخر [PolygonGeneratorOptions](/psd/python-net/aspose.gis.geotools/polygongeneratoroptions/). |
 

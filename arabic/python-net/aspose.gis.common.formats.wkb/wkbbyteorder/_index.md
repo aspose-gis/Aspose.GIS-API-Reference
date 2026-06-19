@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkb/wkbbyteorder/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BIG_ENDIAN |  |
 | LITTLE_ENDIAN |  |

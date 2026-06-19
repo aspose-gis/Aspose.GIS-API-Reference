@@ -9,10 +9,10 @@ url: /ar/python-net/aspose.gis.indexing/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [IndexingException](/psd/python-net/aspose.gis.indexing/indexingexception/) |  |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [ValuesFilterType](/psd/python-net/aspose.gis.indexing/valuesfiltertype/) |  |

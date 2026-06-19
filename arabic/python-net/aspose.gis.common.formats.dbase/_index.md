@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [DBase](/psd/python-net/aspose.gis.common.formats.dbase/dbase/) |  |
 | [DBaseException](/psd/python-net/aspose.gis.common.formats.dbase/dbaseexception/) |  |

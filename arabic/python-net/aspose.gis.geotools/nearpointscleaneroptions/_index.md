@@ -1,5 +1,5 @@
 ---
-title: "NearPointsCleanerOptions فئة"
+title: "فئة NearPointsCleanerOptions"
 type: docs
 weight: 130
 url: /ar/python-net/aspose.gis.geotools/nearpointscleaneroptions/
@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.geotools/nearpointscleaneroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [NearPointsCleanerOptions()](#NearPointsCleanerOptions__1) | إنشاء نسخة مع الحقول الأولية بشكل افتراضي. |
-| [NearPointsCleanerOptions(source)](#NearPointsCleanerOptions_source_2) | إنشاء نسخة من العنصر [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/). |
+| [NearPointsCleanerOptions()](#NearPointsCleanerOptions__1) | إنشاء مثيل مع حقول التهيئة بشكل افتراضي. |
+| [NearPointsCleanerOptions(source)](#NearPointsCleanerOptions_source_2) | إنشاء نسخة من المثيل [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| المسافة | double | r/w | معامل للتحقق ما إذا كانت النقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0. |
+| distance | double | قراءة/كتابة | معامل للتحقق ما إذا كانت النقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | إنشاء نسخة من الكائن. |
 
@@ -35,7 +35,7 @@ url: /ar/python-net/aspose.gis.geotools/nearpointscleaneroptions/
  NearPointsCleanerOptions() 
 ```
 
-إنشاء نسخة مع الحقول الأولية بشكل افتراضي.
+إنشاء مثيل مع حقول التهيئة بشكل افتراضي.
 
 ### Constructor: NearPointsCleanerOptions(source) {#NearPointsCleanerOptions_source_2}
 
@@ -44,11 +44,11 @@ url: /ar/python-net/aspose.gis.geotools/nearpointscleaneroptions/
  NearPointsCleanerOptions(source) 
 ```
 
-إنشاء نسخة من العنصر [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/).
+إنشاء نسخة من المثيل [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | source | [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions) | الكائن المصدر. |
 
@@ -63,7 +63,7 @@ url: /ar/python-net/aspose.gis.geotools/nearpointscleaneroptions/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions) | نسخة الخيارات. |
 

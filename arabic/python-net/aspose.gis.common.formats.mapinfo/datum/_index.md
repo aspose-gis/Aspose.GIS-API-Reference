@@ -14,23 +14,23 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/datum/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Datum()](#Datum__1) | يُنشئ مثلاً جديداً من فئة Datum |
+| [Datum()](#Datum__1) | يُنشئ مثلاً جديداً من الفئة Datum |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| ellipsoid_id | byte | r/w |  |
-| has_datum_parameters | bool | r/w |  |
-| id | short | r/w |  |
-| prime_meridian | double | r/w |  |
-| rotation_x | double | r/w |  |
-| rotation_y | double | r/w |  |
-| rotation_z | double | r/w |  |
-| المقياس | double | r/w |  |
-| shift_x | double | r/w |  |
-| shift_y | double | r/w |  |
-| shift_z | double | r/w |  |
+| ellipsoid_id | byte | قراءة/كتابة |  |
+| has_datum_parameters | bool | قراءة/كتابة |  |
+| id | short | قراءة/كتابة |  |
+| prime_meridian | double | قراءة/كتابة |  |
+| rotation_x | double | قراءة/كتابة |  |
+| rotation_y | double | قراءة/كتابة |  |
+| rotation_z | double | قراءة/كتابة |  |
+| المقياس | double | قراءة/كتابة |  |
+| shift_x | double | قراءة/كتابة |  |
+| shift_y | double | قراءة/كتابة |  |
+| shift_z | double | قراءة/كتابة |  |
 
 
 ### Constructor: Datum() {#Datum__1}
@@ -40,5 +40,5 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/datum/
  Datum() 
 ```
 
-يُنشئ مثلاً جديداً من فئة Datum
+يُنشئ مثلاً جديداً من الفئة Datum
 

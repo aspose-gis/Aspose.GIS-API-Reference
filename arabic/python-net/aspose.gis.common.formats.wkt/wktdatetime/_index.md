@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktdatetime/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [WktDateTime(value)](#WktDateTime_value_1) | يُنشئ نسخة جديدة من الفئة WktDateTime |
+| [WktDateTime(value)](#WktDateTime_value_1) | يُنشئ مثلاً جديداً من الفئة WktDateTime |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | parent | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) | r |    |
 | القيمة | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(wkt)](#create_wkt_1) |    |
 | [get_hash_code()](#get_hash_code__2) |    |
@@ -39,11 +39,11 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktdatetime/
  WktDateTime(value) 
 ```
 
-يُنشئ نسخة جديدة من الفئة WktDateTime
+يُنشئ مثلاً جديداً من الفئة WktDateTime
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | string |  |
 
@@ -58,13 +58,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktdatetime/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | wkt | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -80,7 +80,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktdatetime/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -96,7 +96,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktdatetime/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 

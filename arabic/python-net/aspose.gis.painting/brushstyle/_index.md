@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.painting/brushstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BACKWARD_DIAGONAL_HATCH |  |
 | CROSS_HATCH |  |
 | DIAGONAL_CROSS_HATCH |  |
 | FORWARD_DIAGONAL_HATCH |  |
 | HORIZONTAL_HATCH |  |
-| لا شيء |  |
+| بدون |  |
 | SOLID |  |
 | VERTICAL_HATCH |  |

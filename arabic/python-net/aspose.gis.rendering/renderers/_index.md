@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.rendering/renderers/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| bmp [static] | [BmpRenderer](/psd/python-net/aspose.gis.rendering.formats.bmp/bmprenderer/) | r | معالج يرسم إلى تنسيق BMP. |
-| jpeg [static] | [JpegRenderer](/psd/python-net/aspose.gis.rendering.formats.jpeg/jpegrenderer/) | r | معالج يرسم إلى تنسيق JPEG. |
-| png [static] | [PngRenderer](/psd/python-net/aspose.gis.rendering.formats.png/pngrenderer/) | r | معالج يرسم إلى تنسيق PNG. |
-| svg [static] | [SvgRenderer](/psd/python-net/aspose.gis.rendering.formats.svg/svgrenderer/) | r | معالج يرسم إلى تنسيق SVG. |
+| bmp [static] | [BmpRenderer](/psd/python-net/aspose.gis.rendering.formats.bmp/bmprenderer/) | r | مُعالج عرض يُحوِّل إلى تنسيق BMP. |
+| jpeg [static] | [JpegRenderer](/psd/python-net/aspose.gis.rendering.formats.jpeg/jpegrenderer/) | r | مُعالج عرض يُحوِّل إلى تنسيق JPEG. |
+| png [static] | [PngRenderer](/psd/python-net/aspose.gis.rendering.formats.png/pngrenderer/) | r | مُعالج عرض يُحوِّل إلى تنسيق PNG. |
+| svg [static] | [SvgRenderer](/psd/python-net/aspose.gis.rendering.formats.svg/svgrenderer/) | r | مُعالج عرض يُحوِّل إلى تنسيق SVG. |
 
 

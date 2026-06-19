@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis.rendering.colorizers/rastercolorizer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | يقوم [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) بعدم رسم أي شيء ويتخطى فعليًا تصيير الخلايا التي يُطبق عليها. |
+| null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | ال [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) لا يرسم شيئًا ويتخطى فعليًا عملية رسم الخلايا التي يُطبق عليها. |
 
 

@@ -1,5 +1,5 @@
 ---
-title: "فئة ProjectionParameters"
+title: "ProjectionParameters فئة"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.projections/projectionparameters/
@@ -14,24 +14,24 @@ url: /ar/python-net/aspose.gis.projections/projectionparameters/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [ProjectionParameters()](#ProjectionParameters__1) | يُنشئ مثيلًا جديدًا من فئة ProjectionParameters |
+| [ProjectionParameters()](#ProjectionParameters__1) | يقوم بإنشاء نسخة جديدة من الفئة ProjectionParameters |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| السمت | Nullable<double> | r/w |  |
+| السمت | Nullable<double> | قراءة/كتابة |  |
 | ellipsoid_properties | [EllipsoidProperties](/psd/python-net/aspose.gis.projections/ellipsoidproperties) | r/w |    |
-| false_easting | double | r/w |  |
-| false_northing | double | r/w |  |
-| height_of_origin | double | r/w |  |
-| latitude_of_first_standard_parallel | Nullable<double> | r/w |  |
-| latitude_of_origin | double | r/w |  |
-| latitude_of_pseudo_standard_parallel | Nullable<double> | r/w |  |
-| latitude_of_second_standard_parallel | Nullable<double> | r/w |  |
-| longitude_of_origin | double | r/w |  |
-| rectified_grid_angle | Nullable<double> | r/w |  |
-| scale_factor | Nullable<double> | r/w |  |
+| false_easting | double | قراءة/كتابة |  |
+| false_northing | double | قراءة/كتابة |  |
+| height_of_origin | double | قراءة/كتابة |  |
+| latitude_of_first_standard_parallel | Nullable<double> | قراءة/كتابة |  |
+| latitude_of_origin | double | قراءة/كتابة |  |
+| latitude_of_pseudo_standard_parallel | Nullable<double> | قراءة/كتابة |  |
+| latitude_of_second_standard_parallel | Nullable<double> | قراءة/كتابة |  |
+| longitude_of_origin | double | قراءة/كتابة |  |
+| rectified_grid_angle | Nullable<double> | قراءة/كتابة |  |
+| scale_factor | Nullable<double> | قراءة/كتابة |  |
 
 
 ### Constructor: ProjectionParameters() {#ProjectionParameters__1}
@@ -41,5 +41,5 @@ url: /ar/python-net/aspose.gis.projections/projectionparameters/
  ProjectionParameters() 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة ProjectionParameters
+يقوم بإنشاء نسخة جديدة من الفئة ProjectionParameters
 

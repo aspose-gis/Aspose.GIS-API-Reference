@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | blocks_count | int | r |  |
 | last_row_id | int | r |  |
 | next_row_id | int | r |  |
 | number_of_offsets_in_block | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [add(offset)](#add_offset_1) |    |
 | [create(path)](#create_path_2) |    |
@@ -44,13 +44,13 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الإزاحة | long |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -66,13 +66,13 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GdbTableIndexFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile) |  |
 
@@ -88,13 +88,13 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GdbTableIndexFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile) |  |
 
@@ -110,13 +110,13 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | row_id | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | long |  |
 
@@ -132,13 +132,13 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | block_number | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -154,13 +154,13 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GdbTableIndexFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile) |  |
 
@@ -176,13 +176,13 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GdbTableIndexFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile) |  |
 
