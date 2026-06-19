@@ -1,5 +1,5 @@
 ---
-title: "تعداد MultipartMode"
+title: "MultipartMode تعداد"
 type: docs
 weight: 110
 url: /ar/python-net/aspose.gis.rendering.labelings/multipartmode/
@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis.rendering.labelings/multipartmode/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| ALL | يضع تسمية بالقرب من كل جزء من الشكل طالما هناك مساحة بالقرب من الجزء. |
-| ANY | يضع تسمية واحدة لكامل الشكل. |
-| LARGEST | يضع تسمية للجزء الأكبر من الشكل طالما هناك مساحة للتسمية. |
+| ALL | يضع تسمية بالقرب من كل جزء من الهندسة طالما توجد مساحة بالقرب من الجزء. |
+| ANY | يضع تسمية واحدة لكامل الهندسة. |
+| LARGEST | يضع تسمية للجزء الأكبر من الهندسة طالما توجد مساحة للتسمية. |

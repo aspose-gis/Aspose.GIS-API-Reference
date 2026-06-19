@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.relationship.joins/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [JoinByGeometryOptions](/psd/python-net/aspose.gis.relationship.joins/joinbygeometryoptions/) | خيارات لدمج الطبقات. |
 | [JoinOptions](/psd/python-net/aspose.gis.relationship.joins/joinoptions/) | خيارات لدمج الطبقات. |

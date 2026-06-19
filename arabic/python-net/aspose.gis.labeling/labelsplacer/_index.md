@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.labeling/labelsplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [LabelsPlacer(bounding_rectangle)](#LabelsPlacer_bounding_rectangle_1) | يُهيئ نسخة جديدة من فئة LabelsPlacer |
 | [LabelsPlacer(x_min, y_min, x_max, y_max)](#LabelsPlacer_x_min_y_min_x_max_y_max_2) | يُهيئ نسخة جديدة من فئة LabelsPlacer |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | add_label_to_place(label) |  |
 | add_label_to_place(text, style, positions) |  |
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.labeling/labelsplacer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) |  |
 
@@ -52,7 +52,7 @@ url: /ar/python-net/aspose.gis.labeling/labelsplacer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x_min | double |  |
 | y_min | double |  |
@@ -70,7 +70,7 @@ url: /ar/python-net/aspose.gis.labeling/labelsplacer/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<PlacedLabel> |  |
 

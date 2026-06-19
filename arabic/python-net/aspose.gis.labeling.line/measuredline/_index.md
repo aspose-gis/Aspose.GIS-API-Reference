@@ -1,5 +1,5 @@
 ---
-title: "فئة MeasuredLine"
+title: "MeasuredLine فئة"
 type: docs
 weight: 60
 url: /ar/python-net/aspose.gis.labeling.line/measuredline/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.labeling.line/measuredline/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MeasuredLine(line)](#MeasuredLine_line_1) | يُنشئ مثلاً جديداً من الفئة MeasuredLine |
+| [MeasuredLine(line)](#MeasuredLine_line_1) | ينشئ مثيلًا جديدًا لفئة MeasuredLine |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | distance_to_segment | System.Collections.Generic.IReadOnlyList<double> | r |  |
 | is_closed | bool | r |  |
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis.labeling.line/measuredline/
 | segment_lengths | System.Collections.Generic.IReadOnlyList<double> | r |  |
 | total_line_length | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_point_by_distance(distance_along_line)](#get_point_by_distance_distance_along_line_1) |    |
 | [get_segment_index(distance_along_line)](#get_segment_index_distance_along_line_2) |    |
@@ -40,11 +40,11 @@ url: /ar/python-net/aspose.gis.labeling.line/measuredline/
  MeasuredLine(line) 
 ```
 
-يُنشئ مثلاً جديداً من الفئة MeasuredLine
+ينشئ مثيلًا جديدًا لفئة MeasuredLine
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | line | System.Collections.Generic.IReadOnlyList<Aspose.Gis.Common.Coordinate> |  |
 
@@ -59,13 +59,13 @@ url: /ar/python-net/aspose.gis.labeling.line/measuredline/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | distance_along_line | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
@@ -81,13 +81,13 @@ url: /ar/python-net/aspose.gis.labeling.line/measuredline/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | distance_along_line | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

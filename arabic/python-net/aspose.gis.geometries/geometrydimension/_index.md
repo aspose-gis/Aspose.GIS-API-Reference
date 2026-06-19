@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.geometries/geometrydimension/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | خط | أحادي البُعد (خط). |
 | نقطة | صفر البُعد (نقطة). |

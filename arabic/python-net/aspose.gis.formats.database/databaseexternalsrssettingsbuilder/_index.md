@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.formats.database/databaseexternalsrssettingsbuild
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [end_external_srs()](#end_external_srs__1) | أكمل تكوين نظام الإحداثيات المكاني الخارجي (srs) وأعد السياق الأصلي. |
-| [external_srs_fields(auth_srid_field, sr_text_field)](#external_srs_fields_auth_srid_field_sr_text_field_2) | يحدد أسماء الحقول الخاصة التي يُقرأ منها معلومات حول أنظمة الإحداثيات المكانية المطلوبة إضافيًا. |
+| [end_external_srs()](#end_external_srs__1) | أكمل تكوين نظام الإحداثيات المكاني الخارجي srs وأعد السياق الأصلي. |
+| [external_srs_fields(auth_srid_field, sr_text_field)](#external_srs_fields_auth_srid_field_sr_text_field_2) | يحدد أسماء الحقول الخاصة التي يتم منها قراءة المعلومات حول أنظمة الإحداثيات المكاني المطلوبة إضافيًا. |
 
 
 ### Method: end_external_srs() {#end_external_srs__1}
@@ -27,11 +27,11 @@ url: /ar/python-net/aspose.gis.formats.database/databaseexternalsrssettingsbuild
  end_external_srs() 
 ```
 
-أكمل تكوين نظام الإحداثيات المكاني الخارجي (srs) وأعد السياق الأصلي.
+أكمل تكوين نظام الإحداثيات المكاني الخارجي srs وأعد السياق الأصلي.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatabaseQueryDataSourceBuilder](/psd/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder) | [DatabaseQueryDataSourceBuilder](/psd/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/) |
 
@@ -43,18 +43,18 @@ url: /ar/python-net/aspose.gis.formats.database/databaseexternalsrssettingsbuild
  external_srs_fields(auth_srid_field, sr_text_field) 
 ```
 
-يحدد أسماء الحقول الخاصة التي يُقرأ منها معلومات حول أنظمة الإحداثيات المكانية المطلوبة إضافيًا.
+يحدد أسماء الحقول الخاصة التي يتم منها قراءة المعلومات حول أنظمة الإحداثيات المكاني المطلوبة إضافيًا.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| auth_srid_field | string | حقل لقراءة معرف نظام الإحداثيات المكانية، الافتراضي: auth_srid. |
-| sr_text_field | string | حقل لقراءة نظام الإحداثيات المكانية المُمَثَّل بصيغة WKT، الافتراضي: srtext. |
+| auth_srid_field | string | حقل لقراءة معرف نظام الإحداثيات المكاني، الافتراضي: auth_srid. |
+| sr_text_field | string | حقل لقراءة نظام الإحداثيات المكاني الممثل بصيغة WKT، الافتراضي: srtext. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatabaseExternalSrsSettingsBuilder](/psd/python-net/aspose.gis.formats.database/databaseexternalsrssettingsbuilder) | [DatabaseExternalSrsSettingsBuilder](/psd/python-net/aspose.gis.formats.database/databaseexternalsrssettingsbuilder/) |
 

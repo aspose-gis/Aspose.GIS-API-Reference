@@ -1,5 +1,5 @@
 ---
-title: "الفئة AttributesConverterActions"
+title: "AttributesConverterActions Class"
 type: docs
 weight: 50
 url: /ar/python-net/aspose.gis/attributesconverteractions/
@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis/attributesconverteractions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [AttributesConverterActions()](#AttributesConverterActions__1) | يُنشئ مثيلاً جديداً من الفئة AttributesConverterActions |
+| [AttributesConverterActions()](#AttributesConverterActions__1) | ينشئ مثيلاً جديداً لفئة AttributesConverterActions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| استبعاد | bool | r/w | يضبط <see langword="true" /> لاستبعاد الخاصية من طبقة الوجهة. القيمة الأولية هي <see langword="false" />. |
+| استبعاد | bool | قراءة/كتابة | يضبط <see langword="true" /> لاستبعاد الخاصية من الطبقة الوجهة. القيمة الأولية هي <see langword="false" />. |
 
 
 ### Constructor: AttributesConverterActions() {#AttributesConverterActions__1}
@@ -30,5 +30,5 @@ url: /ar/python-net/aspose.gis/attributesconverteractions/
  AttributesConverterActions() 
 ```
 
-يُنشئ مثيلاً جديداً من الفئة AttributesConverterActions
+ينشئ مثيلاً جديداً لفئة AttributesConverterActions
 

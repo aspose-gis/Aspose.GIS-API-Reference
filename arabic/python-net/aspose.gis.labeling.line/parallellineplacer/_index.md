@@ -16,11 +16,11 @@ url: /ar/python-net/aspose.gis.labeling.line/parallellineplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [ParallelLinePlacer(context, is_parallel)](#ParallelLinePlacer_context_is_parallel_1) | يُنشئ مثيلًا جديدًا من فئة ParallelLinePlacer |
+| [ParallelLinePlacer(context, is_parallel)](#ParallelLinePlacer_context_is_parallel_1) | يُنشئ مثيلًا جديدًا من الفئة ParallelLinePlacer |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | accumulate_candidates(candidates, line) |  |
 
@@ -32,11 +32,11 @@ url: /ar/python-net/aspose.gis.labeling.line/parallellineplacer/
  ParallelLinePlacer(context, is_parallel) 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة ParallelLinePlacer
+يُنشئ مثيلًا جديدًا من الفئة ParallelLinePlacer
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | context | [LinePlacerContext](/psd/python-net/aspose.gis.labeling.line/lineplacercontext) |  |
 | is_parallel | bool |  |

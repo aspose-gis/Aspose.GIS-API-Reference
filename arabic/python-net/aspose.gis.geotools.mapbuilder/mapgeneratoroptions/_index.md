@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapGeneratorOptions()](#MapGeneratorOptions__1) | إنشاء مثيل باستخدام الخيارات الافتراضية. |
+| [MapGeneratorOptions()](#MapGeneratorOptions__1) | إنشاء نسخة باستخدام الخيارات الافتراضية. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الارتفاع | int | r/w | ارتفاع الخريطة (عدد الصفوف). |
-| العرض | int | r/w | عرض الخريطة (عدد الأعمدة). |
+| الارتفاع | int | قراءة/كتابة | ارتفاع الخريطة (عدد الصفوف). |
+| width | int | قراءة/كتابة | عرض الخريطة (عدد الأعمدة). |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | استنساخ الكائن إلى آخر. |
+| [clone()](#clone__1) | استنساخ الكائن إلى كائن آخر. |
 
 
 ### Constructor: MapGeneratorOptions() {#MapGeneratorOptions__1}
@@ -35,7 +35,7 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
  MapGeneratorOptions() 
 ```
 
-إنشاء مثيل باستخدام الخيارات الافتراضية.
+إنشاء نسخة باستخدام الخيارات الافتراضية.
 
 ### Method: clone() {#clone__1}
 
@@ -44,12 +44,12 @@ url: /ar/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
  clone() 
 ```
 
-استنساخ الكائن إلى آخر.
+استنساخ الكائن إلى كائن آخر.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [MapGeneratorOptions](/psd/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions) | استنساخ الكائن إلى آخر [MapGeneratorOptions](/psd/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/). |
+| [MapGeneratorOptions](/psd/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions) | استنساخ الكائن إلى كائن آخر [MapGeneratorOptions](/psd/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/). |
 
 

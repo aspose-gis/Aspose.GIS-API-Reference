@@ -1,5 +1,5 @@
 ---
-title: "فئة SimpleLabeling"
+title: "SimpleLabeling فئة"
 type: docs
 weight: 80
 url: /ar/python-net/aspose.gis.rendering.labelings/simplelabeling/
@@ -16,27 +16,27 @@ url: /ar/python-net/aspose.gis.rendering.labelings/simplelabeling/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SimpleLabeling()](#SimpleLabeling__1) | ينشئ مثيلاً جديدًا من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) |
-| [SimpleLabeling(label_attribute)](#SimpleLabeling_label_attribute_2) | ينشئ مثيلاً جديدًا من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) |
-| [SimpleLabeling(other)](#SimpleLabeling_other_3) | ينشئ مثيلاً جديدًا من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) |
+| [SimpleLabeling()](#SimpleLabeling__1) | يُنشئ مثلاً جديداً من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/). |
+| [SimpleLabeling(label_attribute)](#SimpleLabeling_label_attribute_2) | يُنشئ مثلاً جديداً من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/). |
+| [SimpleLabeling(other)](#SimpleLabeling_other_3) | يُنشئ مثلاً جديداً من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| font_color | System.Drawing.Color | r/w | يحدد لون النص. |
-| font_family | string | r/w | عائلة الخط المستخدمة لعرض النص. القيمة الافتراضية تعتمد على النظام. |
+| font_color | System.Drawing.Color | قراءة/كتابة | يحدد لون النص. |
+| font_family | string | قراءة/كتابة | عائلة الخط المستخدمة لعرض النص. القيمة الافتراضية تعتمد على النظام. |
 | font_size | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | حجم النص. |
 | font_style | [FontStyle](/psd/python-net/aspose.gis.rendering.labelings/fontstyle) | r/w | النمط المطبق على النص. |
-| halo_color | System.Drawing.Color | r/w | لون الهالة (الحد) حول النص. |
+| halo_color | System.Drawing.Color | قراءة/كتابة | لون الهالة (الحد) حول النص. |
 | halo_size | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | حجم الهالة (الحد) حول النص. |
-| label_attribute | string | r/w | اسم السمة لاستخدامه كمصدر للتسميات. يتم تجاهله إذا تم تعيين [None](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) .<br/> إما يجب تعيين [SimpleLabeling.label_attribute](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) أو [None](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) قبل التصيير؛<br/> يتم إلقاء استثناء InvalidOperationException خلاف ذلك. |
+| label_attribute | string | r/w | اسم السمة لاستخدامه كمصدر للتسميات. يتم تجاهله إذا تم تعيين [None](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) .<br/> إما [SimpleLabeling.label_attribute](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) أو [None](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) يجب تعيينه قبل التصيير;<br/> يتم رفع استثناء InvalidOperationException خلاف ذلك. |
 | multipart_mode | [MultipartMode](/psd/python-net/aspose.gis.rendering.labelings/multipartmode) | r/w | يحدد سلوك التصيير للأشكال المتعددة الأجزاء. القيمة الافتراضية هي [MultipartMode.ALL](/psd/python-net/aspose.gis.rendering.labelings/multipartmode/). |
-| null [static] | [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling) | r | يحصل على نسخة من [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/). |
+| null [static] | [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling) | r | يحصل على مثيل من [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/). |
 | placement | [LabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/labelplacement) | r/w | تحديد موضع التسمية يوضح كيفية وضع التسميات بالنسبة لأشكال الميزة. |
-| الأولوية | int | r/w | يشير إلى أولوية هذه التسمية في حال تداخلها مع تسمية أخرى. التسمية ذات الأولوية الأقل لا يتم تصييرها.<br/> القيمة الافتراضية هي 1000. |
+| الأولوية | int | قراءة/كتابة | يشير إلى أولوية هذه التسمية في حالة تداخلها مع تسمية أخرى. التسمية ذات الأولوية الأقل لا يتم تصييرها.<br/> القيمة الافتراضية هي 1000. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينسخ هذا الكائن. |
 
@@ -48,7 +48,7 @@ url: /ar/python-net/aspose.gis.rendering.labelings/simplelabeling/
  SimpleLabeling() 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/)
+يُنشئ مثلاً جديداً من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/).
 
 ### Constructor: SimpleLabeling(label_attribute) {#SimpleLabeling_label_attribute_2}
 
@@ -57,11 +57,11 @@ url: /ar/python-net/aspose.gis.rendering.labelings/simplelabeling/
  SimpleLabeling(label_attribute) 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/)
+يُنشئ مثلاً جديداً من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | label_attribute | string | اسم السمة لاستخدامه كمصدر للتسميات. |
 
@@ -72,11 +72,11 @@ url: /ar/python-net/aspose.gis.rendering.labelings/simplelabeling/
  SimpleLabeling(other) 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/)
+يُنشئ مثلاً جديداً من الفئة [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling) | الـ [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling/) الآخر لنسخ البيانات منه. |
 
@@ -91,8 +91,8 @@ url: /ar/python-net/aspose.gis.rendering.labelings/simplelabeling/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling) | نسخة مكررة من هذه النسخة. |
+| [SimpleLabeling](/psd/python-net/aspose.gis.rendering.labelings/simplelabeling) | نسخة من هذا المثيل. |
 
 

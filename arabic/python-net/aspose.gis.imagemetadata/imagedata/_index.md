@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.imagemetadata/imagedata/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الفنان | string | r | وسم EXIF Artist |
-| الوصف | string | r | وسم EXIF ImageDescription |
-| geo_location | [GeoLocation](/psd/python-net/aspose.gis.imagemetadata/geolocation) | r | وسوم EXIF GPSLatitude, GPSLongitude |
-| image_size | [ImageSize](/psd/python-net/aspose.gis.imagemetadata/imagesize) | r | وسوم EXIF ImageWidth و ImageHeight |
-| modify_date | datetime | r | وسم EXIF ModifyDate (DataTime) |
+| الفنان | string | r | علامة EXIF Artist |
+| الوصف | string | r | علامة EXIF ImageDescription |
+| geo_location | [GeoLocation](/psd/python-net/aspose.gis.imagemetadata/geolocation) | r | علامات EXIF GPSLatitude, GPSLongitude |
+| image_size | [ImageSize](/psd/python-net/aspose.gis.imagemetadata/imagesize) | r | علامات EXIF ImageWidth و ImageHeight |
+| modify_date | datetime | r | علامة EXIF ModifyDate (DataTime) |
 
 

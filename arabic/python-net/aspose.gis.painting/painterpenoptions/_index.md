@@ -14,19 +14,19 @@ url: /ar/python-net/aspose.gis.painting/painterpenoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PainterPenOptions()](#PainterPenOptions__1) | تهيئة نسخة جديدة من PainterPenOptions فئة |
+| [PainterPenOptions()](#PainterPenOptions__1) | يقوم بإنشاء نسخة جديدة من الفئة PainterPenOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | cap_style | [PenCapStyle](/psd/python-net/aspose.gis.painting/pencapstyle) | r/w |    |
-| اللون | System.Drawing.Color | r/w |  |
-| dash_offset | Nullable<double> | r/w |  |
-| dash_pattern | System.Collections.Generic.IEnumerable<double> | r/w |  |
+| اللون | System.Drawing.Color | قراءة/كتابة |  |
+| dash_offset | Nullable<double> | قراءة/كتابة |  |
+| dash_pattern | System.Collections.Generic.IEnumerable<double> | قراءة/كتابة |  |
 | line_join | [PenLineJoin](/psd/python-net/aspose.gis.painting/penlinejoin) | r/w |    |
 | style | [PenStyle](/psd/python-net/aspose.gis.painting/penstyle) | r/w |    |
-| العرض | double | r/w |  |
+| width | double | قراءة/كتابة |  |
 
 
 ### Constructor: PainterPenOptions() {#PainterPenOptions__1}
@@ -36,5 +36,5 @@ url: /ar/python-net/aspose.gis.painting/painterpenoptions/
  PainterPenOptions() 
 ```
 
-تهيئة نسخة جديدة من PainterPenOptions فئة
+يقوم بإنشاء نسخة جديدة من الفئة PainterPenOptions
 

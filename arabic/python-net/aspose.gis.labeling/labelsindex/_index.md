@@ -1,5 +1,5 @@
 ---
-title: "LabelsIndex فئة"
+title: "فئة LabelsIndex"
 type: docs
 weight: 80
 url: /ar/python-net/aspose.gis.labeling/labelsindex/
@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.labeling/labelsindex/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [LabelsIndex()](#LabelsIndex__1) | يُنشئ مثلاً جديداً من فئة LabelsIndex |
+| [LabelsIndex()](#LabelsIndex__1) | يُنشئ مثلاً جديداً من الفئة LabelsIndex |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| عدد | int | r |  |
+| العدد | int | r |  |
 | التسميات | System.Collections.Generic.IEnumerable<PlacedLabel> | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | add_label(label) |  |
 | [has_intersections(position)](#has_intersections_position_1) |    |
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.labeling/labelsindex/
  LabelsIndex() 
 ```
 
-يُنشئ مثلاً جديداً من فئة LabelsIndex
+يُنشئ مثلاً جديداً من الفئة LabelsIndex
 
 ### Method: has_intersections(position) {#has_intersections_position_1}
 
@@ -49,13 +49,13 @@ url: /ar/python-net/aspose.gis.labeling/labelsindex/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | position | [LabelPosition](/psd/python-net/aspose.gis.labeling/labelposition) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

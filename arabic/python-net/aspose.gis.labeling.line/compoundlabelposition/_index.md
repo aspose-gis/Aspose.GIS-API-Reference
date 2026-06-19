@@ -16,11 +16,11 @@ url: /ar/python-net/aspose.gis.labeling.line/compoundlabelposition/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [CompoundLabelPosition(parts, cost)](#CompoundLabelPosition_parts_cost_1) | يقوم بإنشاء نسخة جديدة من الفئة CompoundLabelPosition |
+| [CompoundLabelPosition(parts, cost)](#CompoundLabelPosition_parts_cost_1) | إنشاء نسخة جديدة من الفئة CompoundLabelPosition |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |
 | التكلفة | double | r |  |
@@ -34,11 +34,11 @@ url: /ar/python-net/aspose.gis.labeling.line/compoundlabelposition/
  CompoundLabelPosition(parts, cost) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة CompoundLabelPosition
+إنشاء نسخة جديدة من الفئة CompoundLabelPosition
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الأجزاء | System.Collections.Generic.IReadOnlyList<SymbolTetragon> |  |
 | التكلفة | double |  |

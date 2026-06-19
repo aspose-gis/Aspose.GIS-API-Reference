@@ -1,5 +1,5 @@
 ---
-title: "فئة MapHeaderConst"
+title: "MapHeaderConst فئة"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheaderconst/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheadercon
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| FILE_MAGIC_NUMBER [ثابت] | int | r |  |
-| HEADER_OBJECT_SIZES [ثابت] | byte | r |  |
-| MAP_VERSION [ثابت] | short | r |  |
-| TAB_VERSION [ثابت] | short | r |  |
+| FILE_MAGIC_NUMBER [static] | int | r |  |
+| HEADER_OBJECT_SIZES [static] | byte | r |  |
+| MAP_VERSION [static] | short | r |  |
+| TAB_VERSION [static] | short | r |  |
 
 

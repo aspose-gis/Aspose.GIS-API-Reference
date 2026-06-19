@@ -16,15 +16,15 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmllabelstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [KmlLabelStyle()](#KmlLabelStyle__1) | ينشئ مثيلًا جديدًا لفئة KmlLabelStyle |
+| [KmlLabelStyle()](#KmlLabelStyle__1) | ينشئ مثلاً جديداً من فئة KmlLabelStyle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| اللون | System.Drawing.Color | r/w | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
-| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: normal. |
-| المقياس | double | r/w | يحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي '1'. |
+| اللون | System.Drawing.Color | قراءة/كتابة | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
+| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| المقياس | double | قراءة/كتابة | يحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي '1'. |
 
 
 ### Constructor: KmlLabelStyle() {#KmlLabelStyle__1}
@@ -34,5 +34,5 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmllabelstyle/
  KmlLabelStyle() 
 ```
 
-ينشئ مثيلًا جديدًا لفئة KmlLabelStyle
+ينشئ مثلاً جديداً من فئة KmlLabelStyle
 

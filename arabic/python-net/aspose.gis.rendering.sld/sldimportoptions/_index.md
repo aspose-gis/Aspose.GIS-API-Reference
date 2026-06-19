@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.rendering.sld/sldimportoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SldImportOptions()](#SldImportOptions__1) | تهيئ نسخة جديدة من فئة SldImportOptions |
+| [SldImportOptions()](#SldImportOptions__1) | يُهيئ نسخة جديدة من فئة SldImportOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| load_internet_resources | bool | r/w | يحدد ما إذا كان يُسمح لـ Aspose.GIS بتحميل المصادر من الإنترنت.<br/>            إذا تم تعيينه إلى <see langword=\"false\" />, فإن المخططات ذات عناوين URI المطلقة التي لا تبدأ بـ 'file://' لن يتم تحميلها.<br/>            القيمة الافتراضية هي <see langword=\"false\" />. |
+| load_internet_resources | bool | قراءة/كتابة | يحدد ما إذا كان يُسمح لـ Aspose.GIS بتحميل المصادر من الإنترنت.<br/>            إذا تم تعيينه إلى <see langword="false" />, لن يتم تحميل المخططات التي لها عناوين URI مطلقة لا تبدأ بـ 'file://'.<br/>            القيمة الافتراضية هي <see langword="false" />. |
 
 
 ### Constructor: SldImportOptions() {#SldImportOptions__1}
@@ -30,5 +30,5 @@ url: /ar/python-net/aspose.gis.rendering.sld/sldimportoptions/
  SldImportOptions() 
 ```
 
-تهيئ نسخة جديدة من فئة SldImportOptions
+يُهيئ نسخة جديدة من فئة SldImportOptions
 

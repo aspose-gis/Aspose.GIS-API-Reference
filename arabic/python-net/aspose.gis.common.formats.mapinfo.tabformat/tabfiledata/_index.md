@@ -1,5 +1,5 @@
 ---
-title: "TabFileData فئة"
+title: "فئة TabFileData"
 type: docs
 weight: 90
 url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/
@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |
 | الحقول | System.Collections.Generic.IReadOnlyList<Column> | r |  |
 | table_encoding | System.Text.Encoding | r |  |
 | table_type | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [read(tab_file_path)](#read_tab_file_path_1) |    |
 | [read(tab_path)](#read_tab_path_2) |    |
@@ -38,13 +38,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | tab_file_path | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [TabFileData](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata) |  |
 
@@ -60,13 +60,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | tab_path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [TabFileData](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata) |  |
 

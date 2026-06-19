@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.painting/penstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| مخصص |  |
+| CUSTOM |  |
 | DASH |  |
 | DASH_DOT |  |
 | DASH_DOT_DOT |  |
 | DOT |  |
-| لا شيء |  |
+| بدون |  |
 | SOLID |  |

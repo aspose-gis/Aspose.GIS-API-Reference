@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.common.formats.xml/trackingxmlreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [TrackingXmlReader(stream, dispose_stream)](#TrackingXmlReader_stream_dispose_stream_1) | ينشئ مثلاً جديداً من فئة TrackingXmlReader |
+| [TrackingXmlReader(stream, dispose_stream)](#TrackingXmlReader_stream_dispose_stream_1) | ينشئ مثيلاً جديداً لفئة TrackingXmlReader |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | file_offset | long | r |  |
-| رقم_السطر | int | r |  |
+| line_number | int | r |  |
 | line_position | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [has_line_info()](#has_line_info__1) |    |
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.common.formats.xml/trackingxmlreader/
  TrackingXmlReader(stream, dispose_stream) 
 ```
 
-ينشئ مثلاً جديداً من فئة TrackingXmlReader
+ينشئ مثيلاً جديداً لفئة TrackingXmlReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 | dispose_stream | bool |  |
@@ -56,7 +56,7 @@ url: /ar/python-net/aspose.gis.common.formats.xml/trackingxmlreader/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

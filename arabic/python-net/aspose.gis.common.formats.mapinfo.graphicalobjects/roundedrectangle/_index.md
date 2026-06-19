@@ -16,21 +16,21 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/roundedre
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RoundedRectangle()](#RoundedRectangle__1) | ينشئ مثيلًا جديدًا من فئة RoundedRectangle |
+| [RoundedRectangle()](#RoundedRectangle__1) | يُنشئ مثلاً جديدًا من فئة RoundedRectangle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| فرشاة | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Brush> | r/w |  |
+| فرشاة | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Brush> | قراءة/كتابة |  |
 | coordinate1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | coordinate2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
-| قلم | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
-| x_radius | double | r/w |  |
-| y_radius | double | r/w |  |
+| pen | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | قراءة/كتابة |  |
+| x_radius | double | قراءة/كتابة |  |
+| y_radius | double | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -42,7 +42,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/roundedre
  RoundedRectangle() 
 ```
 
-ينشئ مثيلًا جديدًا من فئة RoundedRectangle
+يُنشئ مثلاً جديدًا من فئة RoundedRectangle
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -55,7 +55,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/roundedre
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

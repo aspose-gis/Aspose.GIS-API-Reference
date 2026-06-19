@@ -1,5 +1,5 @@
 ---
-title: "فئة MeasuredLineSegment"
+title: "MeasuredLineSegment فئة"
 type: docs
 weight: 70
 url: /ar/python-net/aspose.gis.labeling.line/measuredlinesegment/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.labeling.line/measuredlinesegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MeasuredLineSegment(measured_line, start_index, end_index)](#MeasuredLineSegment_measured_line_start_index_end_index_1) | يُنشئ مثلاً جديداً من الفئة MeasuredLineSegment |
+| [MeasuredLineSegment(measured_line, start_index, end_index)](#MeasuredLineSegment_measured_line_start_index_end_index_1) | ينشئ مثيلًا جديدًا لفئة MeasuredLineSegment |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | along_line_center | double | r |  |
 | along_line_end | double | r |  |
@@ -34,11 +34,11 @@ url: /ar/python-net/aspose.gis.labeling.line/measuredlinesegment/
  MeasuredLineSegment(measured_line, start_index, end_index) 
 ```
 
-يُنشئ مثلاً جديداً من الفئة MeasuredLineSegment
+ينشئ مثيلًا جديدًا لفئة MeasuredLineSegment
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | measured_line | [MeasuredLine](/psd/python-net/aspose.gis.labeling.line/measuredline) |  |
 | start_index | int |  |

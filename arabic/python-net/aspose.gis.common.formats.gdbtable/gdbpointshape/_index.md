@@ -16,19 +16,19 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbpointshape/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbPointShape()](#GdbPointShape__1) | يُنشئ مثلاً جديداً من الفئة GdbPointShape |
+| [GdbPointShape()](#GdbPointShape__1) | يقوم بتهيئة نسخة جديدة من الفئة GdbPointShape |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r/w |    |
 | has_m | bool | r |  |
 | has_z | bool | r |  |
-| m | Nullable<double> | r/w |  |
-| x | double | r/w |  |
-| y | double | r/w |  |
-| z | Nullable<double> | r/w |  |
+| m | Nullable<double> | قراءة/كتابة |  |
+| x | double | قراءة/كتابة |  |
+| y | double | قراءة/كتابة |  |
+| z | Nullable<double> | قراءة/كتابة |  |
 
 
 ### Constructor: GdbPointShape() {#GdbPointShape__1}
@@ -38,5 +38,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbpointshape/
  GdbPointShape() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة GdbPointShape
+يقوم بتهيئة نسخة جديدة من الفئة GdbPointShape
 

@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.formats.bmpw/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [BmpWDriver](/psd/python-net/aspose.gis.formats.bmpw/bmpwdriver/) | برنامج تشغيل لتنسيق BmpW raster. |

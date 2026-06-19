@@ -16,19 +16,19 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GeoPackageDataset(path, options)](#GeoPackageDataset_path_options_1) | ينشئ نسخة جديدة. |
+| [GeoPackageDataset(path, options)](#GeoPackageDataset_path_options_1) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | can_create_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا مجموعة البيانات يمكنها إنشاء طبقات متجهية. |
 | can_remove_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا مجموعة البيانات يمكنها إزالة طبقات متجهية. |
-| driver | [Driver](/psd/python-net/aspose.gis/driver) | r | يحصل على [GeoPackageDataset.driver](/psd/python-net/aspose.gis.formats.geopackage/geopackagedataset/) الذي أنشأ مجموعة البيانات هذه. |
+| driver | [Driver](/psd/python-net/aspose.gis/driver) | r | يحصل على [GeoPackageDataset.driver](/psd/python-net/aspose.gis.formats.geopackage/geopackagedataset/) الذي أنشأ هذه مجموعة البيانات. |
 | layers_count | int | r | يحصل على عدد الطبقات في مجموعة البيانات هذه. |
 | tile_layers_count | int | r | يحصل على عدد طبقات البلاط في مجموعة البيانات هذه. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(path, driver)](#create_path_driver_1) | ينشئ مجموعة بيانات. |
 | [create(path, driver)](#create_path_driver_2) | ينشئ مجموعة بيانات. |
@@ -42,18 +42,18 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 | [edit_layer(name, options, spatial_reference_system)](#edit_layer_name_options_spatial_reference_system_10) | هذه الطريقة لا تزال قيد التطوير. |
 | [edit_layer_at(index, options, spatial_reference_system)](#edit_layer_at_index_options_spatial_reference_system_11) | هذه الطريقة لا تزال قيد التطوير. |
 | [get_layer_name(index)](#get_layer_name_index_12) | يحصل على اسم الطبقة في الفهرس المحدد. |
-| [get_tile_layer_name(index)](#get_tile_layer_name_index_13) | يحصل على اسم طبقة البلاط في الفهرس المحدد. |
+| [get_tile_layer_name(index)](#get_tile_layer_name_index_13) | يحصل على اسم طبقة البلاط عند الفهرس المحدد. |
 | [has_layer_with_name(name)](#has_layer_with_name_name_14) | تحقق مما إذا كان مجموعة البيانات الحالية تحتوي على طبقة بالاسم المحدد |
 | [open(path, driver)](#open_path_driver_15) | يفتح مجموعة البيانات. |
 | [open(path, driver)](#open_path_driver_16) | يفتح مجموعة البيانات. |
 | [open(path, driver, options)](#open_path_driver_options_17) | يفتح مجموعة البيانات. |
 | [open(path, driver, options)](#open_path_driver_options_18) | يفتح مجموعة البيانات. |
-| [open(path, options)](#open_path_options_19) | طريقة مصنع لإنشاء مجموعة بيانات من ملف gpkg. |
+| [open(path, options)](#open_path_options_19) | طريقة المصنع لإنشاء مجموعة بيانات من ملف gpkg. |
 | [open_layer(name, options)](#open_layer_name_options_20) | يفتح الطبقة بالاسم المحدد للقراءة. |
 | [open_layer_at(index, options)](#open_layer_at_index_options_21) | يفتح الطبقة في الفهرس المحدد للقراءة. |
 | [open_layer_at(index, options)](#open_layer_at_index_options_22) | يفتح الطبقة في الفهرس المحدد للقراءة. |
 | [open_tile_layer(name, options)](#open_tile_layer_name_options_23) | يفتح طبقة البلاط بالاسم المحدد للقراءة. |
-| [open_tile_layer_at(index, options)](#open_tile_layer_at_index_options_24) | يفتح طبقة البلاط في الفهرس المحدد للقراءة. |
+| [open_tile_layer_at(index, options)](#open_tile_layer_at_index_options_24) | يفتح طبقة البلاط عند الفهرس المحدد للقراءة. |
 | [remove_layer(name)](#remove_layer_name_25) | يزيل الطبقة المتجهة بالاسم المحدد. |
 | [remove_layer_at(index)](#remove_layer_at_index_26) | يزيل الطبقة المتجهة في الفهرس المحدد. |
 | [rename_layer(current_name, new_name)](#rename_layer_current_name_new_name_27) | إعادة تسمية الطبقة في مجموعة البيانات |
@@ -66,11 +66,11 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
  GeoPackageDataset(path, options) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | مسار ملف gpkg. |
 | options | [GeoPackageOptions](/psd/python-net/aspose.gis.formats.geopackage/geopackageoptions) | إعدادات تتعلق بخصوصيات قراءة ملف gpkg. |
@@ -86,14 +86,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -109,14 +109,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -132,15 +132,15 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -156,7 +156,7 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
@@ -164,7 +164,7 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -180,9 +180,9 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوحة للكتابة. |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوح للكتابة. |
 
 
 ### Method: create_layer(name, options, spatial_reference_system) {#create_layer_name_options_spatial_reference_system_6}
@@ -196,7 +196,7 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم الطبقة. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات الفتح. |
@@ -204,9 +204,9 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوحة للكتابة. |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوح للكتابة. |
 
 
 ### Method: create_layer(name, spatial_reference_system) {#create_layer_name_spatial_reference_system_7}
@@ -220,16 +220,16 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم الطبقة. |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني للطبقة الجديدة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوحة للكتابة. |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوح للكتابة. |
 
 
 ### Method: create_layer(options, spatial_reference_system) {#create_layer_options_spatial_reference_system_8}
@@ -243,16 +243,16 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات الفتح. |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني للطبقة الجديدة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوحة للكتابة. |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوح للكتابة. |
 
 
 ### Method: create_layer(spatial_reference_system) {#create_layer_spatial_reference_system_9}
@@ -266,15 +266,15 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني للطبقة الجديدة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | طبقة [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوحة للكتابة. |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) مفتوح للكتابة. |
 
 
 ### Method: edit_layer(name, options, spatial_reference_system) {#edit_layer_name_options_spatial_reference_system_10}
@@ -288,15 +288,15 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| الاسم | string | اسم الطبقة للتعديل. |
+| الاسم | string | اسم الطبقة للتحرير. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات الفتح. |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني للأشكال الهندسية الجديدة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) |
 
@@ -312,15 +312,15 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس الطبقة للتعديل. |
+| الفهرس | int | فهرس الطبقة للتحرير. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات الفتح. |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | نظام الإسناد المكاني للأشكال الهندسية الجديدة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) |
 
@@ -336,13 +336,13 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس الطبقة. |
+| الفهرس | int | فهرس الطبقة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | اسم الطبقة. |
 
@@ -354,17 +354,17 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
  get_tile_layer_name(index) 
 ```
 
-يحصل على اسم طبقة البلاط في الفهرس المحدد.
+يحصل على اسم طبقة البلاط عند الفهرس المحدد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس الطبقة. |
+| الفهرس | int | فهرس الطبقة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | اسم الطبقة. |
 
@@ -380,15 +380,15 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم الطبقة |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| bool | <see langword=\"true\" />, إذا كان مجموعة البيانات تحتوي على طبقة بهذا الاسم؛ وإلا، <see langword=\"false\" /> |
+| bool | <see langword=\"true\" />, إذا كانت مجموعة البيانات تحتوي على طبقة بهذا الاسم؛ وإلا، <see langword=\"false\" /> |
 
 
 ### Method: open(path, driver)  [static] {#open_path_driver_15}
@@ -402,14 +402,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -425,14 +425,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -448,15 +448,15 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى مجموعة البيانات. |
+| path | string | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -472,7 +472,7 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى مجموعة البيانات. |
 | driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | المشغل للاستخدام. |
@@ -480,7 +480,7 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Dataset](/psd/python-net/aspose.gis/dataset) | مثال على [Dataset](/psd/python-net/aspose.gis/dataset/). |
 
@@ -492,18 +492,18 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
  open(path, options) 
 ```
 
-طريقة مصنع لإنشاء مجموعة بيانات من ملف gpkg.
+طريقة المصنع لإنشاء مجموعة بيانات من ملف gpkg.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | مسار ملف gpkg. |
 | options | [GeoPackageOptions](/psd/python-net/aspose.gis.formats.geopackage/geopackageoptions) | إعدادات تتعلق بخصوصيات قراءة ملف gpkg. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GeoPackageDataset](/psd/python-net/aspose.gis.formats.geopackage/geopackagedataset) | [GeoPackageDataset](/psd/python-net/aspose.gis.formats.geopackage/geopackagedataset/) |
 
@@ -519,14 +519,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم الطبقة للفتح. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات الفتح. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | الطبقة المفتوحة للقراءة. |
 
@@ -542,14 +542,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس الطبقة للفتح. |
+| الفهرس | int | فهرس الطبقة للفتح. |
 | options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | خيارات الفتح. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | الطبقة المفتوحة للقراءة. |
 
@@ -565,14 +565,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس الطبقة للفتح. |
+| الفهرس | int | فهرس الطبقة للفتح. |
 | options | [GeoPackageOptions](/psd/python-net/aspose.gis.formats.geopackage/geopackageoptions) | خيارات الفتح. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | الطبقة المفتوحة للقراءة. |
 
@@ -588,14 +588,14 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم الطبقة للفتح. |
 | options | [GeoPackageOptions](/psd/python-net/aspose.gis.formats.geopackage/geopackageoptions) | خيارات الفتح. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles/) | تم فتح طبقة البلاط للقراءة. |
 
@@ -607,18 +607,18 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
  open_tile_layer_at(index, options) 
 ```
 
-يفتح طبقة البلاط في الفهرس المحدد للقراءة.
+يفتح طبقة البلاط عند الفهرس المحدد للقراءة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس الطبقة للفتح. |
+| الفهرس | int | فهرس الطبقة للفتح. |
 | options | [GeoPackageOptions](/psd/python-net/aspose.gis.formats.geopackage/geopackageoptions) | خيارات الفتح. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles/) | [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles/) |
 
@@ -634,7 +634,7 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string | اسم الطبقة |
 
@@ -649,9 +649,9 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| index | int | فهرس الطبقة |
+| الفهرس | int | فهرس الطبقة |
 
 ### Method: rename_layer(current_name, new_name) {#rename_layer_current_name_new_name_27}
 
@@ -664,7 +664,7 @@ url: /ar/python-net/aspose.gis.formats.geopackage/geopackagedataset/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | current_name | string | الاسم الحالي للطبقة |
 | new_name | string | اسم جديد للطبقة |

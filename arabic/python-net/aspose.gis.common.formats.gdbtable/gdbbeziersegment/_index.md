@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbbeziersegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbBezierSegment()](#GdbBezierSegment__1) | يُنشئ مثلاً جديداً من الفئة GdbBezierSegment |
+| [GdbBezierSegment()](#GdbBezierSegment__1) | يقوم بتهيئة نسخة جديدة من الفئة GdbBezierSegment |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | c1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | c2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | segment_type | [GdbCurveSegmentType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype) | r |    |
-| start_point_index | int | r/w |  |
+| start_point_index | int | قراءة/كتابة |  |
 
 
 ### Constructor: GdbBezierSegment() {#GdbBezierSegment__1}
@@ -35,5 +35,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbbeziersegment/
  GdbBezierSegment() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة GdbBezierSegment
+يقوم بتهيئة نسخة جديدة من الفئة GdbBezierSegment
 

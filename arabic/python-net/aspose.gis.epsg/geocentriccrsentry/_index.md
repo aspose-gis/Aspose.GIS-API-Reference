@@ -1,5 +1,5 @@
 ---
-title: "GeocentricCrsEntry فئة"
+title: "فئة GeocentricCrsEntry"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.epsg/geocentriccrsentry/
@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.epsg/geocentriccrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GeocentricCrsEntry()](#GeocentricCrsEntry__1) | يُنشئ مثيلًا جديدًا لفئة GeocentricCrsEntry |
+| [GeocentricCrsEntry()](#GeocentricCrsEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة GeocentricCrsEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| رمز_المرجع | int | r |  |
+| datum_code | int | r |  |
 | الاسم | string | r |  |
-| رمز_الوحدة | int | r |  |
+| unit_code | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, unit_code, datum_code)](#create_name_unit_code_datum_code_1) |    |
 
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.epsg/geocentriccrsentry/
  GeocentricCrsEntry() 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة GeocentricCrsEntry
+يقوم بإنشاء نسخة جديدة من الفئة GeocentricCrsEntry
 
 ### Method: create(name, unit_code, datum_code)  [static] {#create_name_unit_code_datum_code_1}
 
@@ -49,15 +49,15 @@ url: /ar/python-net/aspose.gis.epsg/geocentriccrsentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| رمز_الوحدة | int |  |
-| رمز_المرجع | int |  |
+| unit_code | int |  |
+| datum_code | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GeocentricCrsEntry](/psd/python-net/aspose.gis.epsg/geocentriccrsentry) |  |
 

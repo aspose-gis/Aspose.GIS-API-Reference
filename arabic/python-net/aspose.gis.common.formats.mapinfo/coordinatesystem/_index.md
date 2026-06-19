@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [CoordinateSystem()](#CoordinateSystem__1) | يُنشئ مثلاً جديداً من الفئة CoordinateSystem |
+| [CoordinateSystem()](#CoordinateSystem__1) | يقوم بتهيئة نسخة جديدة من الفئة CoordinateSystem |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | datum | [Datum](/psd/python-net/aspose.gis.common.formats.mapinfo/datum) | r |    |
-| projection_id | byte | r/w |  |
+| projection_id | byte | قراءة/كتابة |  |
 | projection_parameters | double | r |  |
 | unit_id | [UnitId](/psd/python-net/aspose.gis.common.formats.mapinfo/unitid) | r/w |    |
 
@@ -33,5 +33,5 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem/
  CoordinateSystem() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة CoordinateSystem
+يقوم بتهيئة نسخة جديدة من الفئة CoordinateSystem
 

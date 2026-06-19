@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.geometries/geometrytype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | CIRCULAR_STRING | الهندسة هي [ICircularString](/psd/python-net/aspose.gis.geometries/icircularstring/). |
 | COMPOUND_CURVE | الهندسة هي [ICompoundCurve](/psd/python-net/aspose.gis.geometries/icompoundcurve/). |

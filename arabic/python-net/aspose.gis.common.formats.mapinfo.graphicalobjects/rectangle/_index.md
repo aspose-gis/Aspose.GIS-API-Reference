@@ -16,19 +16,19 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Rectangle()](#Rectangle__1) | يقوم بإنشاء نسخة جديدة من الفئة Rectangle |
+| [Rectangle()](#Rectangle__1) | يقوم بإنشاء نسخة جديدة من فئة Rectangle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| فرشاة | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Brush> | r/w |  |
+| فرشاة | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Brush> | قراءة/كتابة |  |
 | coordinate1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | coordinate2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
-| قلم | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
+| pen | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -40,7 +40,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle
  Rectangle() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة Rectangle
+يقوم بإنشاء نسخة جديدة من فئة Rectangle
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -53,7 +53,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

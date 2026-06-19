@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphical
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GraphicalCollection()](#GraphicalCollection__1) | ينشئ مثيلًا جديدًا من فئة GraphicalCollection |
+| [GraphicalCollection()](#GraphicalCollection__1) | يُنشئ مثلاً جديدًا من فئة GraphicalCollection |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| العناصر | System.Collections.Generic.List<GraphicalObject> | r/w |  |
+| العناصر | System.Collections.Generic.List<GraphicalObject> | قراءة/كتابة |  |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphical
  GraphicalCollection() 
 ```
 
-ينشئ مثيلًا جديدًا من فئة GraphicalCollection
+يُنشئ مثلاً جديدًا من فئة GraphicalCollection
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -50,7 +50,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphical
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

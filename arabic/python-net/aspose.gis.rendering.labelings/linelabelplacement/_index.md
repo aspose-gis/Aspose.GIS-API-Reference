@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.rendering.labelings/linelabelplacement/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [LineLabelPlacement()](#LineLabelPlacement__1) | ينشئ نسخة جديدة. |
-| [LineLabelPlacement(other)](#LineLabelPlacement_other_2) | ينشئ نسخة جديدة. |
+| [LineLabelPlacement()](#LineLabelPlacement__1) | ينشئ مثلاً جديداً. |
+| [LineLabelPlacement(other)](#LineLabelPlacement_other_2) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| alignment | [LineLabelAlignment](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment) | r/w | يحدد كيفية محاذاة التسمية مع المسار الخطي. القيمة الافتراضية هي [LineLabelAlignment.PARALLEL](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment/). |
+| alignment | [LineLabelAlignment](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment) | r/w | يحدد كيف يتم محاذاة التسمية مع المسار الخطي. القيمة الافتراضية هي [LineLabelAlignment.PARALLEL](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment/). |
 | max_angle_delta | double | r/w | عند الاستخدام مع [LineLabelAlignment.CURVED](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment/) يحدد الحد الأقصى للزاوية بالدرجات بين حرفين<br/>            متتاليين في تسمية منحنية. القيمة الافتراضية هي 25. |
 | offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | الإزاحة من المسار الخطي.<br/>            القيم الموجبة تُزاح إلى يسار الخط، والقيم السالبة إلى اليمين. القيمة الافتراضية هي 0. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينسخ هذا الكائن. |
 
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.rendering.labelings/linelabelplacement/
  LineLabelPlacement() 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 ### Constructor: LineLabelPlacement(other) {#LineLabelPlacement_other_2}
 
@@ -48,11 +48,11 @@ url: /ar/python-net/aspose.gis.rendering.labelings/linelabelplacement/
  LineLabelPlacement(other) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [LineLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/linelabelplacement) | الآخر [LineLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/linelabelplacement/) لنسخ البيانات منه. |
 
@@ -67,8 +67,8 @@ url: /ar/python-net/aspose.gis.rendering.labelings/linelabelplacement/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [LabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/labelplacement) | نسخة مكررة من هذه النسخة. |
+| [LabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/labelplacement) | نسخة من هذا المثيل. |
 
 

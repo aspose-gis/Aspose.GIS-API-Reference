@@ -16,14 +16,14 @@ url: /ar/python-net/aspose.gis.rendering.colorizers/singlebandcolor/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [SingleBandColor()](#SingleBandColor__1) | يُهيئ نسخة جديدة من فئة [SingleBandColor](/psd/python-net/aspose.gis.rendering.colorizers/singlebandcolor/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | gray_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن الرمادي للراستر الخاص بنا. |
-| null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | يقوم [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) بعدم رسم أي شيء ويتخطى فعليًا تصيير الخلايا التي يُطبق عليها. |
+| null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | ال [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) لا يرسم شيئًا ويتخطى فعليًا عملية رسم الخلايا التي يُطبق عليها. |
 
 
 ### Constructor: SingleBandColor() {#SingleBandColor__1}

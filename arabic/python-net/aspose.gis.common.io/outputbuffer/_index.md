@@ -1,5 +1,5 @@
 ---
-title: "OutputBuffer الفئة"
+title: "OutputBuffer فئة"
 type: docs
 weight: 70
 url: /ar/python-net/aspose.gis.common.io/outputbuffer/
@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.common.io/outputbuffer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [OutputBuffer(initial_size)](#OutputBuffer_initial_size_1) | يُنشئ مثيلًا جديدًا من الفئة OutputBuffer |
+| [OutputBuffer(initial_size)](#OutputBuffer_initial_size_1) | يُنشئ مثيلاً جديدًا لفئة OutputBuffer |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الحجم | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | reset_and_fix_size(size_limit) |  |
 | reset_and_grow() |  |
@@ -39,11 +39,11 @@ url: /ar/python-net/aspose.gis.common.io/outputbuffer/
  OutputBuffer(initial_size) 
 ```
 
-يُنشئ مثيلًا جديدًا من الفئة OutputBuffer
+يُنشئ مثيلاً جديدًا لفئة OutputBuffer
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | initial_size | int |  |
 

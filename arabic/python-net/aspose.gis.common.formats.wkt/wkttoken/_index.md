@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wkttoken/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [WktToken()](#WktToken__1) | يُنشئ نسخة جديدة من الفئة WktToken |
-| [WktToken(type, text, position)](#WktToken_type_text_position_2) | يُنشئ نسخة جديدة من الفئة WktToken |
+| [WktToken()](#WktToken__1) | يُنشئ مثلاً جديداً من الفئة WktToken |
+| [WktToken(type, text, position)](#WktToken_type_text_position_2) | يُنشئ مثلاً جديداً من الفئة WktToken |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الموضع | int | r |  |
 | text | string | r |  |
 | type | [WktTokenType](/psd/python-net/aspose.gis.common.formats.wkt/wkttokentype) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_keyword_with_text(text)](#is_keyword_with_text_text_1) |    |
 
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wkttoken/
  WktToken() 
 ```
 
-يُنشئ نسخة جديدة من الفئة WktToken
+يُنشئ مثلاً جديداً من الفئة WktToken
 
 ### Constructor: WktToken(type, text, position) {#WktToken_type_text_position_2}
 
@@ -46,11 +46,11 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wkttoken/
  WktToken(type, text, position) 
 ```
 
-يُنشئ نسخة جديدة من الفئة WktToken
+يُنشئ مثلاً جديداً من الفئة WktToken
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | type | [WktTokenType](/psd/python-net/aspose.gis.common.formats.wkt/wkttokentype) |  |
 | text | string |  |
@@ -67,13 +67,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wkttoken/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/columntype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | CHAR |  |
 | DATE |  |
 | DATE_TIME |  |
 | DECIMAL |  |
 | FLOAT |  |
-| INTEGER |  |
+| عدد صحيح |  |
 | LARGE_INTEGER |  |
 | LOGICAL |  |
 | SMALL_INTEGER |  |
-| TIME |  |
+| وقت |  |

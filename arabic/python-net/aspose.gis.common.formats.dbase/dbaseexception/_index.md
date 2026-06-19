@@ -1,5 +1,5 @@
 ---
-title: "فئة DBaseException"
+title: "DBaseException فئة"
 type: docs
 weight: 20
 url: /ar/python-net/aspose.gis.common.formats.dbase/dbaseexception/
@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbaseexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [DBaseException()](#DBaseException__1) | ينشئ مثلاً جديداً من فئة DBaseException |
-| [DBaseException(message)](#DBaseException_message_2) | ينشئ مثلاً جديداً من فئة DBaseException |
+| [DBaseException()](#DBaseException__1) | يُنشئ مثيلًا جديدًا من فئة DBaseException |
+| [DBaseException(message)](#DBaseException_message_2) | يُنشئ مثيلًا جديدًا من فئة DBaseException |
 
 
 ### Constructor: DBaseException() {#DBaseException__1}
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbaseexception/
  DBaseException() 
 ```
 
-ينشئ مثلاً جديداً من فئة DBaseException
+يُنشئ مثيلًا جديدًا من فئة DBaseException
 
 ### Constructor: DBaseException(message) {#DBaseException_message_2}
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbaseexception/
  DBaseException(message) 
 ```
 
-ينشئ مثلاً جديداً من فئة DBaseException
+يُنشئ مثيلًا جديدًا من فئة DBaseException
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الرسالة | string |  |
 

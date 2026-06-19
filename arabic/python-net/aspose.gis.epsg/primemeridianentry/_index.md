@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.epsg/primemeridianentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PrimeMeridianEntry()](#PrimeMeridianEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة PrimeMeridianEntry |
-| [PrimeMeridianEntry(name, longitude_in_degrees)](#PrimeMeridianEntry_name_longitude_in_degrees_2) | يقوم بإنشاء نسخة جديدة من الفئة PrimeMeridianEntry |
+| [PrimeMeridianEntry()](#PrimeMeridianEntry__1) | يُنشئ مثلاً جديداً من الفئة PrimeMeridianEntry |
+| [PrimeMeridianEntry(name, longitude_in_degrees)](#PrimeMeridianEntry_name_longitude_in_degrees_2) | يُنشئ مثلاً جديداً من الفئة PrimeMeridianEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| خط_الطول_بالدرجات | double | r |  |
+| longitude_in_degrees | double | r |  |
 | الاسم | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, longitude_in_degrees)](#create_name_longitude_in_degrees_1) |    |
 
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.epsg/primemeridianentry/
  PrimeMeridianEntry() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة PrimeMeridianEntry
+يُنشئ مثلاً جديداً من الفئة PrimeMeridianEntry
 
 ### Constructor: PrimeMeridianEntry(name, longitude_in_degrees) {#PrimeMeridianEntry_name_longitude_in_degrees_2}
 
@@ -45,14 +45,14 @@ url: /ar/python-net/aspose.gis.epsg/primemeridianentry/
  PrimeMeridianEntry(name, longitude_in_degrees) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة PrimeMeridianEntry
+يُنشئ مثلاً جديداً من الفئة PrimeMeridianEntry
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| خط_الطول_بالدرجات | double |  |
+| longitude_in_degrees | double |  |
 
 ### Method: create(name, longitude_in_degrees)  [static] {#create_name_longitude_in_degrees_1}
 
@@ -65,14 +65,14 @@ url: /ar/python-net/aspose.gis.epsg/primemeridianentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| خط_الطول_بالدرجات | double |  |
+| longitude_in_degrees | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PrimeMeridianEntry](/psd/python-net/aspose.gis.epsg/primemeridianentry) |  |
 

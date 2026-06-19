@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.formats.csv/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [CsvDriver](/psd/python-net/aspose.gis.formats.csv/csvdriver/) | برنامج تشغيل لتنسيق CSV. |
 | [CsvOptions](/psd/python-net/aspose.gis.formats.csv/csvoptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق CSV. |

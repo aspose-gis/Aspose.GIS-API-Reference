@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtableversion/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | VERSION10 |  |
 | VERSION9 |  |

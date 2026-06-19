@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbfieldtype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BINARY |  |
 | DATE_TIME |  |
@@ -27,5 +27,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbfieldtype/
 | OBJECT_ID |  |
 | RASTER |  |
 | SHAPE |  |
-| STRING |  |
+| سلسلة |  |
 | XML |  |

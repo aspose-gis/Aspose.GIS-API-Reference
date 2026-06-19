@@ -1,5 +1,5 @@
 ---
-title: "WorldRasterDriver فئة"
+title: "WorldRasterDriver الفئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.formats.worldfile/worldrasterdriver/
@@ -16,11 +16,11 @@ url: /ar/python-net/aspose.gis.formats.worldfile/worldrasterdriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | can_open_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا المشغل يمكنه فتح طبقات الراستر. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [open_layer(path)](#open_layer_path_1) | يفتح طبقة للقراءة. |
 | [open_layer(path)](#open_layer_path_2) | يفتح طبقة للقراءة. |
@@ -39,13 +39,13 @@ url: /ar/python-net/aspose.gis.formats.worldfile/worldrasterdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -61,13 +61,13 @@ url: /ar/python-net/aspose.gis.formats.worldfile/worldrasterdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -83,14 +83,14 @@ url: /ar/python-net/aspose.gis.formats.worldfile/worldrasterdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | options | [RasterDriverOptions](/psd/python-net/aspose.gis/rasterdriveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -106,14 +106,14 @@ url: /ar/python-net/aspose.gis.formats.worldfile/worldrasterdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [RasterDriverOptions](/psd/python-net/aspose.gis/rasterdriveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 

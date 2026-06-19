@@ -1,5 +1,5 @@
 ---
-title: "فئة MapReader"
+title: "MapReader فئة"
 type: docs
 weight: 60
 url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/
@@ -16,12 +16,12 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapReader(path, encoding)](#MapReader_path_encoding_1) | يُنشئ مثلاً جديداً من الفئة MapReader |
 | [MapReader(path, encoding)](#MapReader_path_encoding_2) | يُنشئ مثلاً جديداً من الفئة MapReader |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | common_graphical_objects_type | Nullable<Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType> | r |  |
 | coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |
@@ -38,9 +38,9 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 | الترميز | System.Text.Encoding |  |
 
 ### Constructor: MapReader(path, encoding) {#MapReader_path_encoding_2}
@@ -54,7 +54,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 | الترميز | System.Text.Encoding |  |

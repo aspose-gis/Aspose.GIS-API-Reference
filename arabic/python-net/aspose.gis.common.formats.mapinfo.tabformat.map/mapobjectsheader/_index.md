@@ -1,5 +1,5 @@
 ---
-title: "فئة MapObjectsHeader"
+title: "MapObjectsHeader فئة"
 type: docs
 weight: 50
 url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjectsheader/
@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjectshe
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapObjectsHeader()](#MapObjectsHeader__1) | يُنشئ مثلاً جديداً من الفئة MapObjectsHeader |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| center_x | int | r/w |  |
-| center_y | int | r/w |  |
-| first_coordinate_block | int | r/w |  |
-| identifier | short | r/w |  |
-| last_coordinate_block | int | r/w |  |
-| used_bytes_count | short | r/w |  |
+| center_x | int | قراءة/كتابة |  |
+| center_y | int | قراءة/كتابة |  |
+| first_coordinate_block | int | قراءة/كتابة |  |
+| identifier | short | قراءة/كتابة |  |
+| last_coordinate_block | int | قراءة/كتابة |  |
+| used_bytes_count | short | قراءة/كتابة |  |
 
 
 ### Constructor: MapObjectsHeader() {#MapObjectsHeader__1}

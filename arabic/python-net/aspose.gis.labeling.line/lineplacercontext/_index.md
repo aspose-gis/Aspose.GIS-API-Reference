@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.labeling.line/lineplacercontext/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [LinePlacerContext()](#LinePlacerContext__1) | يُنشئ مثيلًا جديدًا من فئة LinePlacerContext |
+| [LinePlacerContext()](#LinePlacerContext__1) | يُنشئ مثيلًا جديدًا من الفئة LinePlacerContext |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| candidates_limit | double | r/w |  |
-| label_height | double | r/w |  |
-| label_width | double | r/w |  |
-| line_offset | double | r/w |  |
-| max_angle_inside | double | r/w |  |
-| max_angle_outside | double | r/w |  |
+| candidates_limit | double | قراءة/كتابة |  |
+| label_height | double | قراءة/كتابة |  |
+| label_width | double | قراءة/كتابة |  |
+| line_offset | double | قراءة/كتابة |  |
+| max_angle_inside | double | قراءة/كتابة |  |
+| max_angle_outside | double | قراءة/كتابة |  |
 
 
 ### Constructor: LinePlacerContext() {#LinePlacerContext__1}
@@ -35,5 +35,5 @@ url: /ar/python-net/aspose.gis.labeling.line/lineplacercontext/
  LinePlacerContext() 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة LinePlacerContext
+يُنشئ مثيلًا جديدًا من الفئة LinePlacerContext
 

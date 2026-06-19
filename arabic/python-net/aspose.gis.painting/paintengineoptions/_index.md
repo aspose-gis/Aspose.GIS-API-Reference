@@ -1,5 +1,5 @@
 ---
-title: "فئة PaintEngineOptions"
+title: "PaintEngineOptions فئة"
 type: docs
 weight: 20
 url: /ar/python-net/aspose.gis.painting/paintengineoptions/
@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.painting/paintengineoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PaintEngineOptions()](#PaintEngineOptions__1) | ينشئ مثلاً جديداً من فئة PaintEngineOptions |
+| [PaintEngineOptions()](#PaintEngineOptions__1) | تهيئة نسخة جديدة من فئة PaintEngineOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| background_color | System.Drawing.Color | r/w |  |
-| الارتفاع | int | r/w |  |
-| الدقة | int | r/w |  |
-| العرض | int | r/w |  |
+| background_color | System.Drawing.Color | قراءة/كتابة |  |
+| الارتفاع | int | قراءة/كتابة |  |
+| الدقة | int | قراءة/كتابة |  |
+| width | int | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينشئ كائنًا جديدًا يكون نسخة من المثيل الحالي. |
 
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.painting/paintengineoptions/
  PaintEngineOptions() 
 ```
 
-ينشئ مثلاً جديداً من فئة PaintEngineOptions
+تهيئة نسخة جديدة من فئة PaintEngineOptions
 
 ### Method: clone() {#clone__1}
 
@@ -50,7 +50,7 @@ url: /ar/python-net/aspose.gis.painting/paintengineoptions/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintEngineOptions](/psd/python-net/aspose.gis.painting/paintengineoptions) |  |
 

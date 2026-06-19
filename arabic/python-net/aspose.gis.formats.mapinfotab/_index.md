@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.formats.mapinfotab/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [MapInfoTabDriver](/psd/python-net/aspose.gis.formats.mapinfotab/mapinfotabdriver/) | برنامج تشغيل لتنسيق MapInfo Tab. |
 | [MapInfoTabOptions](/psd/python-net/aspose.gis.formats.mapinfotab/mapinfotaboptions/) | خيارات خاصة ببرنامج التشغيل لتنسيق MapInfo Tab. |

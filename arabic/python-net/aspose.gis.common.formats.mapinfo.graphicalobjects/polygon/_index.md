@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/polygon/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Polygon()](#Polygon__1) | يقوم بإنشاء نسخة جديدة من الفئة Polygon |
+| [Polygon()](#Polygon__1) | يقوم بإنشاء نسخة جديدة من فئة Polygon |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الحلقة_الخارجية | System.Collections.Generic.List<Coordinate> | r/w |  |
-| الحلقات_الداخلية | System.Collections.Generic.IReadOnlyList<System.Collections.Generic.List<Coordinate>> | r/w |  |
+| exterior_ring | System.Collections.Generic.List<Coordinate> | قراءة/كتابة |  |
+| interior_rings | System.Collections.Generic.IReadOnlyList<System.Collections.Generic.List<Coordinate>> | قراءة/كتابة |  |
 
 
 ### Constructor: Polygon() {#Polygon__1}
@@ -31,5 +31,5 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/polygon/
  Polygon() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة Polygon
+يقوم بإنشاء نسخة جديدة من فئة Polygon
 

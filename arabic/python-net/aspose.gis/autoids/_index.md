@@ -1,11 +1,11 @@
 ---
-title: "AutoIds تعداد"
+title: "تعداد AutoIds"
 type: docs
 weight: 4430
 url: /ar/python-net/aspose.gis/autoids/
 ---
 
-إنشاء معرّفات تلقائيًا.
+إنشاء معرفات تلقائيًا.
 
 **Module:** [aspose.gis](/psd/python-net/aspose.gis/)
 
@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis/autoids/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | GUID | إنشاء معرفات Guid. |
-| لا شيء | إخفاء Auto Ids. |
-| رقم | زيادة معرفات الرقم. |
+| بدون | إخفاء Auto Ids. |
+| الرقم | زيادة معرفات الرقم. |

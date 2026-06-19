@@ -5,7 +5,7 @@ weight: 150
 url: /ar/python-net/aspose.gis.rendering.symbolizers/horizontalanchor/
 ---
 
-يحدد الجانب الذي سيتم محاذاته أفقيًا.
+يحدد الجانب الذي سيتم محاذاته أفقياً.
 
 **Module:** [aspose.gis.rendering.symbolizers](/psd/python-net/aspose.gis.rendering.symbolizers/)
 
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/horizontalanchor/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | CENTER | يحدد أن المراكز سيتم محاذاتها. |
 | LEFT | يحدد أن الجوانب اليسرى سيتم محاذاتها. |

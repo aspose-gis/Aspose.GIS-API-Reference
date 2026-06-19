@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.raster/rastercellsize/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RasterCellSize()](#RasterCellSize__1) | إنشاء مثال من [RasterCellSize](/psd/python-net/aspose.gis.raster/rastercellsize/). |
+| [RasterCellSize()](#RasterCellSize__1) | إنشاء نسخة من [RasterCellSize](/psd/python-net/aspose.gis.raster/rastercellsize/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الارتفاع | double | r | احسب ارتفاع البكسل. |
-| scale_x | double | r/w | يحصل أو يعيّن المكوّن س لعرض البكسل (مقياس س). |
-| scale_y | double | r/w | يحصل أو يعيّن المكوّن ص لارتفاع البكسل (مقياس ص)، عادةً سالب. |
-| skew_x | double | r/w | يحصل أو يعيّن المكوّن س لارتفاع البكسل (انحراف س). |
-| skew_y | double | r/w | يحصل أو يعيّن المكوّن ص لعرض البكسل (انحراف ص). |
-| العرض | double | r | احسب عرض البكسل. |
+| scale_x | double | قراءة/كتابة | يحصل أو يضبط المكوّن س لعرض البكسل (مقياس س). |
+| scale_y | double | قراءة/كتابة | يحصل أو يضبط المكوّن ص لارتفاع البكسل (مقياس ص)، عادةً سالب. |
+| skew_x | double | قراءة/كتابة | يحصل أو يضبط المكوّن س لارتفاع البكسل (انحراف س). |
+| skew_y | double | قراءة/كتابة | يحصل أو يضبط المكوّن ص لعرض البكسل (انحراف ص). |
+| width | double | r | احسب عرض البكسل. |
 
 
 ### Constructor: RasterCellSize() {#RasterCellSize__1}
@@ -37,5 +37,5 @@ url: /ar/python-net/aspose.gis.raster/rastercellsize/
  RasterCellSize() 
 ```
 
-إنشاء مثال من [RasterCellSize](/psd/python-net/aspose.gis.raster/rastercellsize/).
+إنشاء نسخة من [RasterCellSize](/psd/python-net/aspose.gis.raster/rastercellsize/).
 

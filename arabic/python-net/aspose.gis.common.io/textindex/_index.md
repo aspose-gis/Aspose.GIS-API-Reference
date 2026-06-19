@@ -1,5 +1,5 @@
 ---
-title: "فئة TextIndex"
+title: "TextIndex فئة"
 type: docs
 weight: 80
 url: /ar/python-net/aspose.gis.common.io/textindex/
@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.common.io/textindex/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [TextIndex(stream, buffer_size)](#TextIndex_stream_buffer_size_1) | يُنشئ مثالا جديدا من الفئة TextIndex |
+| [TextIndex(stream, buffer_size)](#TextIndex_stream_buffer_size_1) | يقوم بإنشاء نسخة جديدة من فئة TextIndex |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | end_of_stream | bool | r |  |
-| الموضع | long | r/w |  |
+| الموضع | long | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [read_line()](#read_line__1) |    |
 
@@ -35,11 +35,11 @@ url: /ar/python-net/aspose.gis.common.io/textindex/
  TextIndex(stream, buffer_size) 
 ```
 
-يُنشئ مثالا جديدا من الفئة TextIndex
+يقوم بإنشاء نسخة جديدة من فئة TextIndex
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 | buffer_size | int |  |
@@ -55,7 +55,7 @@ url: /ar/python-net/aspose.gis.common.io/textindex/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 

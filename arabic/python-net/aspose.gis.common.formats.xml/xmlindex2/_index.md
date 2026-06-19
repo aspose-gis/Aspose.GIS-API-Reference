@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.common.formats.xml/xmlindex2/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [XmlIndex2(stream)](#XmlIndex2_stream_1) | ينشئ مثلاً جديداً من فئة XmlIndex2 |
+| [XmlIndex2(stream)](#XmlIndex2_stream_1) | ينشئ مثيلاً جديداً لفئة XmlIndex2 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| عدد | int | r |  |
+| العدد | int | r |  |
 | offsets_pos | System.Collections.Generic.IReadOnlyList<long> | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | build(root_name, split_name, symbol_to_replace_illegal) |  |
 | build(root_name, split_names, symbol_to_replace_illegal) |  |
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.common.formats.xml/xmlindex2/
  XmlIndex2(stream) 
 ```
 
-ينشئ مثلاً جديداً من فئة XmlIndex2
+ينشئ مثيلاً جديداً لفئة XmlIndex2
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 

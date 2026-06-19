@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtreeoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RTreeOptions()](#RTreeOptions__1) | ينشئ مثيلاً جديدًا لفئة RTreeOptions |
+| [RTreeOptions()](#RTreeOptions__1) | ينشئ مثيلاً جديداً لفئة RTreeOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| cache_size | int | r/w |  |
-| dirty_nodes_capacity | int | r/w |  |
-| max_values_per_node | int | r/w |  |
+| cache_size | int | قراءة/كتابة |  |
+| dirty_nodes_capacity | int | قراءة/كتابة |  |
+| max_values_per_node | int | قراءة/كتابة |  |
 
 
 ### Constructor: RTreeOptions() {#RTreeOptions__1}
@@ -32,5 +32,5 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtreeoptions/
  RTreeOptions() 
 ```
 
-ينشئ مثيلاً جديدًا لفئة RTreeOptions
+ينشئ مثيلاً جديداً لفئة RTreeOptions
 

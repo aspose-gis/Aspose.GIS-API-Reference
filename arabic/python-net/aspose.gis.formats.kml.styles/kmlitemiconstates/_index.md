@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| مغلق | مجلد مغلق. |
-| خطأ | خطأ في الجلب. |
+| CLOSED | مجلد مغلق. |
+| ERROR | خطأ في جلب البيانات. |
 | FETCHING0 | حالة الجلب 0. |
 | FETCHING1 | حالة الجلب 1. |
 | FETCHING2 | حالة الجلب 2. |
-| لا شيء | غير معرف (بدون). |
+| بدون | غير معرف (بدون). |
 | فتح | فتح المجلد. |

@@ -1,5 +1,5 @@
 ---
-title: "MapTilesOptions فئة"
+title: "فئة MapTilesOptions"
 type: docs
 weight: 50
 url: /ar/python-net/aspose.gis.geotools.layersmap/maptilesoptions/
@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/maptilesoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapTilesOptions()](#MapTilesOptions__1) | ينشئ مثلاً جديداً من فئة MapTilesOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| level | int | r/w | مستوى التكبير لتحميل البلاط. القيمة الافتراضية هي 3. |
-| url | string | r/w | URL أو مسار إلى ملف. |
+| level | int | قراءة/كتابة | مستوى التكبير لتحميل البلاط. القيمة الافتراضية هي 3. |
+| url | string | قراءة/كتابة | عنوان URL أو مسار إلى ملف. |
 
 
 ### Constructor: MapTilesOptions() {#MapTilesOptions__1}

@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.formats.geotiff/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [GeoTiffDriver](/psd/python-net/aspose.gis.formats.geotiff/geotiffdriver/) | مشغل لراستر Geo TIFF. |
-| [GeoTiffOptions](/psd/python-net/aspose.gis.formats.geotiff/geotiffoptions/) | خيارات خاصة بالمشغل لتنسيق GeoTiff. |
+| [GeoTiffDriver](/psd/python-net/aspose.gis.formats.geotiff/geotiffdriver/) | برنامج تشغيل لراستر Geo TIFF. |
+| [GeoTiffOptions](/psd/python-net/aspose.gis.formats.geotiff/geotiffoptions/) | خيارات خاصة بالسائق لتنسيق GeoTiff. |

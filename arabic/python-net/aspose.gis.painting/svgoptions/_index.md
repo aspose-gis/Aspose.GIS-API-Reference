@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.painting/svgoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SvgOptions()](#SvgOptions__1) | تهيئة نسخة جديدة من SvgOptions فئة |
+| [SvgOptions()](#SvgOptions__1) | يقوم بإنشاء نسخة جديدة من الفئة SvgOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| background_color | System.Drawing.Color | r/w |  |
-| الارتفاع | string | r/w |  |
-| pixel_height | double | r/w |  |
-| pixel_width | double | r/w |  |
-| view_box | Nullable<Aspose.Gis.Common.Rectangle> | r/w |  |
-| العرض | string | r/w |  |
+| background_color | System.Drawing.Color | قراءة/كتابة |  |
+| الارتفاع | string | قراءة/كتابة |  |
+| pixel_height | double | قراءة/كتابة |  |
+| pixel_width | double | قراءة/كتابة |  |
+| view_box | Nullable<Aspose.Gis.Common.Rectangle> | قراءة/كتابة |  |
+| width | string | قراءة/كتابة |  |
 
 
 ### Constructor: SvgOptions() {#SvgOptions__1}
@@ -35,5 +35,5 @@ url: /ar/python-net/aspose.gis.painting/svgoptions/
  SvgOptions() 
 ```
 
-تهيئة نسخة جديدة من SvgOptions فئة
+يقوم بإنشاء نسخة جديدة من الفئة SvgOptions
 

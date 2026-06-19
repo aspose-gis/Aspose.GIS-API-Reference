@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbaseoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [DBaseOptions()](#DBaseOptions__1) | ينشئ مثالا جديدا من فئة DBaseOptions |
+| [DBaseOptions()](#DBaseOptions__1) | ينشئ مثيلاً جديدًا من فئة DBaseOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| is_trim_long_data | bool | r/w |  |
-| write_code_page_file | bool | r/w |  |
+| is_trim_long_data | bool | قراءة/كتابة |  |
+| write_code_page_file | bool | قراءة/كتابة |  |
 
 
 ### Constructor: DBaseOptions() {#DBaseOptions__1}
@@ -31,5 +31,5 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbaseoptions/
  DBaseOptions() 
 ```
 
-ينشئ مثالا جديدا من فئة DBaseOptions
+ينشئ مثيلاً جديدًا من فئة DBaseOptions
 

@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkb/wkbtype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | CIRCULAR_STRING |  |
 | COMPOUND_CURVE |  |
@@ -23,7 +23,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkb/wkbtype/
 | LINE_STRING |  |
 | MULTI_CURVE |  |
 | MULTI_LINE_STRING |  |
-| متعدد_النقاط |  |
+| نقطة_متعددة |  |
 | MULTI_POLYGON |  |
 | MULTI_SURFACE |  |
 | نقطة |  |

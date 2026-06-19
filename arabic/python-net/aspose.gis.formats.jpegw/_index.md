@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.formats.jpegw/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [JpegWDriver](/psd/python-net/aspose.gis.formats.jpegw/jpegwdriver/) | محرك لتنسيق JpegW النقطي. |
+| [JpegWDriver](/psd/python-net/aspose.gis.formats.jpegw/jpegwdriver/) | برنامج تشغيل لتنسيق JpegW النقطي. |

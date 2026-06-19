@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) بعدم رسم أي شيء ويتخطى فعلياً رسم الهندسة التي يُطبق عليها. |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | يقوم [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) برسم لا شيء ويتخطى فعليًا رسم الهندسة التي يُطبق عليها. |
 
 

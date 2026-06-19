@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.labeling.line/symboltetragon/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SymbolTetragon(x, y, width, height, angle, symbol_index)](#SymbolTetragon_x_y_width_height_angle_symbol_index_1) | يقوم بإنشاء نسخة جديدة من الفئة SymbolTetragon |
+| [SymbolTetragon(x, y, width, height, angle, symbol_index)](#SymbolTetragon_x_y_width_height_angle_symbol_index_1) | إنشاء نسخة جديدة من الفئة SymbolTetragon |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | زاوية | double | r |  |
 | symbol_index | int | r |  |
 | tetragon | [Tetragon](/psd/python-net/aspose.gis.labeling/tetragon) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | translate(delta) |  |
 
@@ -36,15 +36,15 @@ url: /ar/python-net/aspose.gis.labeling.line/symboltetragon/
  SymbolTetragon(x, y, width, height, angle, symbol_index) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة SymbolTetragon
+إنشاء نسخة جديدة من الفئة SymbolTetragon
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
-| العرض | double |  |
+| width | double |  |
 | الارتفاع | double |  |
 | زاوية | double |  |
 | symbol_index | int |  |

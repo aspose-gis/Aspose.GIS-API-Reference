@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | segment_type | [GdbCurveSegmentType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype) | r |    |
-| start_point_index | int | r/w |  |
+| start_point_index | int | قراءة/كتابة |  |
 
 

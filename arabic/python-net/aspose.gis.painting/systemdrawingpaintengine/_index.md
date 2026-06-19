@@ -16,12 +16,12 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingpaintengine/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | rounded_height | double | r |  |
 | rounded_width | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | close() |  |
 | draw_characters(text_path) |  |
@@ -48,14 +48,14 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingpaintengine/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 | text_font | System.Drawing.Font |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Size](/psd/python-net/aspose.gis.common/size/) |  |
 
@@ -71,14 +71,14 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingpaintengine/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 | text_font | System.Drawing.Font |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.List<Aspose.Gis.Common.Size> |  |
 

@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlitemicon/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [KmlItemIcon()](#KmlItemIcon__1) | يُنشئ مثيلًا جديدًا من الفئة KmlItemIcon |
+| [KmlItemIcon()](#KmlItemIcon__1) | يُنشئ مثلاً جديداً من الفئة KmlItemIcon |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| href | string | r/w | يحدد موقع المورد كعنوان URL.<br/>القيمة الافتراضية هي <see langword="null" /> تعني أن href غير موجود. |
-| state | [KmlItemIconStates](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates) | r/w | يحدد الحالة الحالية لـ NetworkLink أو Folder.<br/>القيمة الافتراضية هي [KmlItemIconStates.NONE](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates/). |
-| sub_state | [KmlItemIconStates](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates) | r/w | يحدد الحالة الإضافية لـ NetworkLink أو Folder.<br/>القيمة الافتراضية هي [KmlItemIconStates.NONE](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates/). |
+| href | string | قراءة/كتابة | يحدد موقع المورد كعنوان URL.<br/>            القيمة الافتراضية هي <see langword="null" /> تعني أن href غير موجود. |
+| state | [KmlItemIconStates](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates) | r/w | يحدد الحالة الحالية للـ NetworkLink أو المجلد.<br/>            القيمة الافتراضية هي [KmlItemIconStates.NONE](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates/). |
+| sub_state | [KmlItemIconStates](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates) | r/w | يحدد الحالة الإضافية للـ NetworkLink أو المجلد.<br/>            القيمة الافتراضية هي [KmlItemIconStates.NONE](/psd/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates/). |
 
 
 ### Constructor: KmlItemIcon() {#KmlItemIcon__1}
@@ -32,5 +32,5 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlitemicon/
  KmlItemIcon() 
 ```
 
-يُنشئ مثيلًا جديدًا من الفئة KmlItemIcon
+يُنشئ مثلاً جديداً من الفئة KmlItemIcon
 

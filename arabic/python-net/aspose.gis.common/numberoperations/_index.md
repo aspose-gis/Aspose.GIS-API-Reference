@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| EPSILON [ثابت] | double | r |  |
+| EPSILON [static] | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clamp(value, min, max)](#clamp_value_min_max_1) |    |
 | [degrees_to_radians(degrees)](#degrees_to_radians_degrees_2) |    |
@@ -43,7 +43,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double |  |
 | min | double |  |
@@ -51,7 +51,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -67,13 +67,13 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | درجات | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -89,13 +89,13 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | درجات | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -111,7 +111,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | أ | double |  |
 | b | double |  |
@@ -119,7 +119,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -135,7 +135,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | أ | double |  |
 | b | double |  |
@@ -143,7 +143,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -159,7 +159,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | أ | double |  |
 | b | double |  |
@@ -167,7 +167,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -183,13 +183,13 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | راديان | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -205,7 +205,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | أ | double |  |
 | b | double |  |
@@ -213,7 +213,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -229,7 +229,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | أ | double |  |
 | b | double |  |
@@ -237,7 +237,7 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -253,14 +253,14 @@ url: /ar/python-net/aspose.gis.common/numberoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| خط_الطول_بالراديان | double |  |
-| التسامح | double |  |
+| longitude_in_radians | double |  |
+| التحمل | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 

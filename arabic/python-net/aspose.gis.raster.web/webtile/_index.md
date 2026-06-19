@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.raster.web/webtile/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | cell_x | int | r | عمود X للقطعة. |
 | cell_y | int | r | صف Y للقطعة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [as_binary()](#as_binary__1) | يرجع تسلسل بايتات الصورة |
-| [as_path()](#as_path__2) | يعرض محتوى القطعة كعنوان URL أو مسار إلى ملف. |
+| [as_path()](#as_path__2) | يعرض محتوى القطعة كUrl أو مسار إلى ملف. |
 | [as_raster()](#as_raster__3) | يعرض محتوى البلاطة كطبقة Raster. |
-| [get_extent()](#get_extent__4) | يعرض الامتداد المكاني لهذه الطبقة. |
+| [get_extent()](#get_extent__4) | يعرض مدى مكاني لهذه الطبقة. |
 
 
 ### Method: as_binary() {#as_binary__1}
@@ -38,7 +38,7 @@ url: /ar/python-net/aspose.gis.raster.web/webtile/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte | تسلسل بايت |
 
@@ -50,11 +50,11 @@ url: /ar/python-net/aspose.gis.raster.web/webtile/
  as_path() 
 ```
 
-يعرض محتوى القطعة كعنوان URL أو مسار إلى ملف.
+يعرض محتوى القطعة كUrl أو مسار إلى ملف.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string | Url أو مسار إلى ملف |
 
@@ -70,9 +70,9 @@ url: /ar/python-net/aspose.gis.raster.web/webtile/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer) | الـ Raster. |
+| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer) | ال Raster. |
 
 
 ### Method: get_extent() {#get_extent__4}
@@ -82,11 +82,11 @@ url: /ar/python-net/aspose.gis.raster.web/webtile/
  get_extent() 
 ```
 
-يعرض الامتداد المكاني لهذه الطبقة.
+يعرض مدى مكاني لهذه الطبقة.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Extent](/psd/python-net/aspose.gis/extent) | نطاق مكاني لهذه الطبقة. |
 

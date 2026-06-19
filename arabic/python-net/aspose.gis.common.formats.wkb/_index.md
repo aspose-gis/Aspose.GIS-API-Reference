@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkb/
 
 
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [EWkbFlags](/psd/python-net/aspose.gis.common.formats.wkb/ewkbflags/) |  |
 | [WkbByteOrder](/psd/python-net/aspose.gis.common.formats.wkb/wkbbyteorder/) |  |

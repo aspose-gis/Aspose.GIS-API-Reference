@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MifToken()](#MifToken__1) | يُهيئ نسخة جديدة من فئة MifToken |
+| [MifToken()](#MifToken__1) | ينشئ نسخة جديدة من فئة MifToken |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | close [static] | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken) | r |    |
 | comma [static] | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken) | r |    |
@@ -28,7 +28,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 | text | string | r |  |
 | token_type | [MifTokenType](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokentype) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_keyword(keyword)](#is_keyword_keyword_1) |    |
 | [keyword(text)](#keyword_text_2) |    |
@@ -43,7 +43,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
  MifToken() 
 ```
 
-يُهيئ نسخة جديدة من فئة MifToken
+ينشئ نسخة جديدة من فئة MifToken
 
 ### Method: is_keyword(keyword) {#is_keyword_keyword_1}
 
@@ -56,13 +56,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| كلمة مفتاح | string |  |
+| كلمة مفتاحية | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -78,13 +78,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken) |  |
 
@@ -100,13 +100,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken) |  |
 
@@ -122,13 +122,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken) |  |
 

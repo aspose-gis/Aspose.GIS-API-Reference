@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common/idsequence/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [IdSequence(prefix)](#IdSequence_prefix_1) | يقوم بإنشاء نسخة جديدة من فئة IdSequence |
+| [IdSequence(prefix)](#IdSequence_prefix_1) | يُنشئ مثلاً جديداً من فئة IdSequence |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_next()](#get_next__1) |    |
 
@@ -30,11 +30,11 @@ url: /ar/python-net/aspose.gis.common/idsequence/
  IdSequence(prefix) 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة IdSequence
+يُنشئ مثلاً جديداً من فئة IdSequence
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | بادئة | string |  |
 
@@ -49,7 +49,7 @@ url: /ar/python-net/aspose.gis.common/idsequence/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 

@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.common/rectangle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Rectangle()](#Rectangle__1) | يقوم بإنشاء نسخة جديدة من الفئة Rectangle |
-| [Rectangle(top_left, size)](#Rectangle_top_left_size_2) | يقوم بإنشاء نسخة جديدة من الفئة Rectangle |
-| [Rectangle(x, y, width, height)](#Rectangle_x_y_width_height_3) | يقوم بإنشاء نسخة جديدة من الفئة Rectangle |
+| [Rectangle()](#Rectangle__1) | يقوم بإنشاء نسخة جديدة من فئة Rectangle |
+| [Rectangle(top_left, size)](#Rectangle_top_left_size_2) | يقوم بإنشاء نسخة جديدة من فئة Rectangle |
+| [Rectangle(x, y, width, height)](#Rectangle_x_y_width_height_3) | يقوم بإنشاء نسخة جديدة من فئة Rectangle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| مساحة | double | r |  |
+| المساحة | double | r |  |
 | bottom_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | bottom_right | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
@@ -30,7 +30,7 @@ url: /ar/python-net/aspose.gis.common/rectangle/
 | size | [Size](/psd/python-net/aspose.gis.common/size) | r |    |
 | top_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | top_right | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
-| العرض | double | r |  |
+| width | double | r |  |
 | x | double | r |  |
 | y | double | r |  |
 
@@ -42,7 +42,7 @@ url: /ar/python-net/aspose.gis.common/rectangle/
  Rectangle() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة Rectangle
+يقوم بإنشاء نسخة جديدة من فئة Rectangle
 
 ### Constructor: Rectangle(top_left, size) {#Rectangle_top_left_size_2}
 
@@ -51,11 +51,11 @@ url: /ar/python-net/aspose.gis.common/rectangle/
  Rectangle(top_left, size) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة Rectangle
+يقوم بإنشاء نسخة جديدة من فئة Rectangle
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | top_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 | size | [Size](/psd/python-net/aspose.gis.common/size) |  |
@@ -67,14 +67,14 @@ url: /ar/python-net/aspose.gis.common/rectangle/
  Rectangle(x, y, width, height) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة Rectangle
+يقوم بإنشاء نسخة جديدة من فئة Rectangle
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
-| العرض | double |  |
+| width | double |  |
 | الارتفاع | double |  |
 

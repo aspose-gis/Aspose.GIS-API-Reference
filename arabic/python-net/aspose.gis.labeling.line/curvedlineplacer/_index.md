@@ -1,5 +1,5 @@
 ---
-title: "فئة CurvedLinePlacer"
+title: "CurvedLinePlacer فئة"
 type: docs
 weight: 20
 url: /ar/python-net/aspose.gis.labeling.line/curvedlineplacer/
@@ -16,11 +16,11 @@ url: /ar/python-net/aspose.gis.labeling.line/curvedlineplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [CurvedLinePlacer(context, label_widths)](#CurvedLinePlacer_context_label_widths_1) | يُنشئ مثلاً جديداً من الفئة CurvedLinePlacer |
+| [CurvedLinePlacer(context, label_widths)](#CurvedLinePlacer_context_label_widths_1) | ينشئ مثيلًا جديدًا لفئة CurvedLinePlacer |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | accumulate_candidates(candidates, line) |  |
 
@@ -32,11 +32,11 @@ url: /ar/python-net/aspose.gis.labeling.line/curvedlineplacer/
  CurvedLinePlacer(context, label_widths) 
 ```
 
-يُنشئ مثلاً جديداً من الفئة CurvedLinePlacer
+ينشئ مثيلًا جديدًا لفئة CurvedLinePlacer
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | context | [LinePlacerContext](/psd/python-net/aspose.gis.labeling.line/lineplacercontext) |  |
 | label_widths | double |  |

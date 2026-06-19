@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktwriteroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [WktWriterOptions()](#WktWriterOptions__1) | يُنشئ نسخة جديدة من الفئة WktWriterOptions |
+| [WktWriterOptions()](#WktWriterOptions__1) | يُنشئ مثلاً جديداً من الفئة WktWriterOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| dispose_writer | bool | r/w |  |
-| force_uppercase_keywords | bool | r/w |  |
-| use_square_brackets | bool | r/w |  |
+| dispose_writer | bool | قراءة/كتابة |  |
+| force_uppercase_keywords | bool | قراءة/كتابة |  |
+| use_square_brackets | bool | قراءة/كتابة |  |
 
 
 ### Constructor: WktWriterOptions() {#WktWriterOptions__1}
@@ -32,5 +32,5 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktwriteroptions/
  WktWriterOptions() 
 ```
 
-يُنشئ نسخة جديدة من الفئة WktWriterOptions
+يُنشئ مثلاً جديداً من الفئة WktWriterOptions
 

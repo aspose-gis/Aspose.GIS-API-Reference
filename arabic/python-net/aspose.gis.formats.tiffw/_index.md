@@ -9,6 +9,6 @@ url: /ar/python-net/aspose.gis.formats.tiffw/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [TiffWDriver](/psd/python-net/aspose.gis.formats.tiffw/tiffwdriver/) | برنامج تشغيل لتنسيق TiffW النقطي. |

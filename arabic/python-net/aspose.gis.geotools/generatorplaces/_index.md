@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.geotools/generatorplaces/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| عشوائي | الأماكن عشوائياً. |
+| RANDOM | الأماكن عشوائياً. |
 | REGULAR | الأماكن في المراكز |

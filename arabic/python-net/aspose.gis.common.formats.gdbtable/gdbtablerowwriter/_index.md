@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowwriter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | field_description | [GdbFieldDescription](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription) | r |    |
 | has_field | bool | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | write_binary(bytes) |  |
 | write_date_time(date_time) |  |

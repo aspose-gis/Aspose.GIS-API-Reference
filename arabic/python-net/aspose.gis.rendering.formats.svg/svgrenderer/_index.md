@@ -16,7 +16,7 @@ url: /ar/python-net/aspose.gis.rendering.formats.svg/svgrenderer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [render(map, output_path)](#render_map_output_path_1) | يعرض الخريطة. |
 | [render(map, output_path)](#render_map_output_path_2) | يعرض الخريطة. |
@@ -33,7 +33,7 @@ url: /ar/python-net/aspose.gis.rendering.formats.svg/svgrenderer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | map | [Map](/psd/python-net/aspose.gis.rendering/map) | الخريطة للعرض. |
 | output_path | string | المسار إلى ملف الإخراج. |
@@ -49,7 +49,7 @@ url: /ar/python-net/aspose.gis.rendering.formats.svg/svgrenderer/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | map | [Map](/psd/python-net/aspose.gis.rendering/map) | الخريطة للعرض. |
 | output_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى ملف الإخراج. |

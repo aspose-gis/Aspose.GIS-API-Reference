@@ -1,5 +1,5 @@
 ---
-title: "فئة XyzConnection"
+title: "XyzConnection فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.formats.xyztile/xyzconnection/
@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.formats.xyztile/xyzconnection/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [XyzConnection(url_template)](#XyzConnection_url_template_1) | إنشاء نسخة جديدة من [XyzConnection](/psd/python-net/aspose.gis.formats.xyztile/xyzconnection/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| url | string | r | قالب URL. |
+| url | string | r | قالب Url. |
 
 
 ### Constructor: XyzConnection(url_template) {#XyzConnection_url_template_1}
@@ -34,7 +34,7 @@ url: /ar/python-net/aspose.gis.formats.xyztile/xyzconnection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| url_template | string | قالب URL لخادم البلاط. يحتوي هذا القالب على العناصر النائبة {z} و {x} و {y}. |
+| url_template | string | قالب URL لخادم البلاط. يحتوي هذا القالب على {z} و {x} و {y}. |
 

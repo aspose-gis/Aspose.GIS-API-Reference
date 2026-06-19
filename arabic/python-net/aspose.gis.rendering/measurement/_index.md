@@ -14,25 +14,25 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Measurement()](#Measurement__1) | ينشئ مثيلاً جديدًا لفئة Measurement |
-| [Measurement(value, unit)](#Measurement_value_unit_2) | ينشئ نسخة جديدة. |
+| [Measurement()](#Measurement__1) | يقوم بتهيئة نسخة جديدة من فئة Measurement |
+| [Measurement(value, unit)](#Measurement_value_unit_2) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | unit | [Unit](/psd/python-net/aspose.gis.spatialreferencing/unit) | r | وحدة قياس. |
-| القيمة | double | r | عدد يشير إلى طول القياس. |
+| القيمة | double | r | رقم يشير إلى طول القياس. |
 | zero [static] | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r | قياس بطول صفر. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [inches(value)](#inches_value_1) | يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالبوصات. |
-| [map_units(value)](#map_units_value_2) | يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بوحدات الإشارة المكانية للخرائط. |
-| [meters_on_earth(value)](#meters_on_earth_value_3) | يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالأمتار على الأرض. |
-| [millimeters(value)](#millimeters_value_4) | يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالمليمترات. |
-| [pixels(value)](#pixels_value_5) | يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالبكسلات. |
-| [points(value)](#points_value_6) | يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالنقاط. |
+| [inches(value)](#inches_value_1) | يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالبوصات. |
+| [map_units(value)](#map_units_value_2) | يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بوحدات الإشارة المكانية للخرائط. |
+| [meters_on_earth(value)](#meters_on_earth_value_3) | يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالأمتار على الأرض. |
+| [millimeters(value)](#millimeters_value_4) | يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالمليمترات. |
+| [pixels(value)](#pixels_value_5) | يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالبكسلات. |
+| [points(value)](#points_value_6) | يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالنقاط. |
 
 
 ### Constructor: Measurement() {#Measurement__1}
@@ -42,7 +42,7 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  Measurement() 
 ```
 
-ينشئ مثيلاً جديدًا لفئة Measurement
+يقوم بتهيئة نسخة جديدة من فئة Measurement
 
 ### Constructor: Measurement(value, unit) {#Measurement_value_unit_2}
 
@@ -51,13 +51,13 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  Measurement(value, unit) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| القيمة | double | عدد يشير إلى طول القياس. |
+| القيمة | double | رقم يشير إلى طول القياس. |
 | unit | [Unit](/psd/python-net/aspose.gis.spatialreferencing/unit) | وحدة قياس. |
 
 ### Method: inches(value)  [static] {#inches_value_1}
@@ -67,19 +67,19 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  inches(value) 
 ```
 
-يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالبوصات.
+يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالبوصات.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double | عدد البوصات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | مثيل جديد من فئة <c>Measurement</c>. |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | نسخة جديدة من فئة <c>Measurement</c>. |
 
 
 ### Method: map_units(value)  [static] {#map_units_value_2}
@@ -89,19 +89,19 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  map_units(value) 
 ```
 
-يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بوحدات الإشارة المكانية للخرائط.
+يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بوحدات الإشارة المكانية للخرائط.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double | عدد الوحدات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | مثيل جديد من فئة <c>Measurement</c>. |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | نسخة جديدة من فئة <c>Measurement</c>. |
 
 
 ### Method: meters_on_earth(value)  [static] {#meters_on_earth_value_3}
@@ -111,19 +111,19 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  meters_on_earth(value) 
 ```
 
-يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالأمتار على الأرض.
+يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالأمتار على الأرض.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double | عدد الأمتار. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | مثيل جديد من فئة <c>Measurement</c>. |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | نسخة جديدة من فئة <c>Measurement</c>. |
 
 
 ### Method: millimeters(value)  [static] {#millimeters_value_4}
@@ -133,19 +133,19 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  millimeters(value) 
 ```
 
-يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالمليمترات.
+يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالمليمترات.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double | عدد المليمترات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | مثيل جديد من فئة <c>Measurement</c>. |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | نسخة جديدة من فئة <c>Measurement</c>. |
 
 
 ### Method: pixels(value)  [static] {#pixels_value_5}
@@ -155,19 +155,19 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  pixels(value) 
 ```
 
-يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالبكسلات.
+يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالبكسلات.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double | عدد البكسلات. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | مثيل جديد من فئة <c>Measurement</c>. |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | نسخة جديدة من فئة <c>Measurement</c>. |
 
 
 ### Method: points(value)  [static] {#points_value_6}
@@ -177,18 +177,18 @@ url: /ar/python-net/aspose.gis.rendering/measurement/
  points(value) 
 ```
 
-يعيد مثيلاً جديدًا من <c>Measurement</c> يمثل الطول بالنقاط.
+يعيد نسخة جديدة من <c>Measurement</c> تمثل الطول بالنقاط.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double | عدد النقاط. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | مثيل جديد من فئة <c>Measurement</c>. |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | نسخة جديدة من فئة <c>Measurement</c>. |
 
 

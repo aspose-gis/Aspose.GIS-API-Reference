@@ -1,5 +1,5 @@
 ---
-title: "VectorLayerExtention فئة"
+title: "فئة VectorLayerExtention"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.geotools.extensions/vectorlayerextention/
@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis.geotools.extensions/vectorlayerextention/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [add_features(layer, geometries)](#add_features_layer_geometries_1) | أضف الميزات باستخدام قائمة عامة. |
+| [add_features(layer, geometries)](#add_features_layer_geometries_1) | إضافة ميزات باستخدام قائمة عامة. |
 | [read_geometries(layer)](#read_geometries_layer_2) | قراءة الأشكال فقط من الطبقة. |
 
 
@@ -27,14 +27,14 @@ url: /ar/python-net/aspose.gis.geotools.extensions/vectorlayerextention/
  add_features(layer, geometries) 
 ```
 
-أضف الميزات باستخدام قائمة عامة.
+إضافة ميزات باستخدام قائمة عامة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | الطبقة المراد إضافتها. |
-| geometries | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | الأشكال المدخلة. |
+| الأشكال | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | الأشكال المدخلة. |
 
 ### Method: read_geometries(layer)  [static] {#read_geometries_layer_2}
 
@@ -47,13 +47,13 @@ url: /ar/python-net/aspose.gis.geotools.extensions/vectorlayerextention/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | الطبقة للقراءة. |
+| layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | الـ Layer للقراءة. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | الميزات. |
 

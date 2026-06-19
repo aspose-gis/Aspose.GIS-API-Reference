@@ -16,12 +16,12 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/none/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | instance [static] | [None](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/none) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/none/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

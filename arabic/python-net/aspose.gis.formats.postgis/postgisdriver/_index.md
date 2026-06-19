@@ -16,7 +16,7 @@ url: /ar/python-net/aspose.gis.formats.postgis/postgisdriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [from_definition(table_name)](#from_definition_table_name_1) | يسمح ببدء عملية تكوين مصدر البيانات [IFromDefinitionDataSource](/psd/python-net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/) للعمل معه لاحقًا. |
 | [from_query(query)](#from_query_query_2) | تكوين مصدر البيانات لاستعلامات قاعدة بيانات مخصصة. |
@@ -33,13 +33,13 @@ url: /ar/python-net/aspose.gis.formats.postgis/postgisdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | table_name | string | اسم جدول قاعدة البيانات الذي سيتم استخراج البيانات منه |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [FromDefinitionDataSourceBuilder](/psd/python-net/aspose.gis.formats.database.fromdefinition/fromdefinitiondatasourcebuilder/) | [FromDefinitionDataSourceBuilder](/psd/python-net/aspose.gis.formats.database.fromdefinition/fromdefinitiondatasourcebuilder/) |
 
@@ -55,13 +55,13 @@ url: /ar/python-net/aspose.gis.formats.postgis/postgisdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | query | string | سلسلة الاستعلام. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [DatabaseQueryDataSourceBuilder](/psd/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/) | [DatabaseQueryDataSourceBuilder](/psd/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/) |
 

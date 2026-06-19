@@ -1,5 +1,5 @@
 ---
-title: "تعداد FontStyle"
+title: "FontStyle تعداد"
 type: docs
 weight: 90
 url: /ar/python-net/aspose.gis.rendering.labelings/fontstyle/
@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.rendering.labelings/fontstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| غامق | نص غامق. |
-| مائل | نص مائل. |
+| BOLD | نص غامق. |
+| ITALIC | نص مائل. |
 | REGULAR | نص عادي. |
-| مشطوب | نص مع خط عبر الوسط. |
-| تحته خط | نص تحته خط. |
+| STRIKEOUT | نص مع خط عبر الوسط. |
+| UNDERLINE | نص مسطر. |

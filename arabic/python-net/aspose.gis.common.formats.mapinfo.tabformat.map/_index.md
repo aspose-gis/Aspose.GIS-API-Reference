@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [MapBlockTypes](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapblocktypes/) |  |
 | [MapCoordinatesSection](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapcoordinatessection/) |  |
@@ -19,6 +19,6 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/
 | [MapReader](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/) |  |
 | [MapTransform](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform/) |  |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [MapObjectTypeCodes](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjecttypecodes/) |  |

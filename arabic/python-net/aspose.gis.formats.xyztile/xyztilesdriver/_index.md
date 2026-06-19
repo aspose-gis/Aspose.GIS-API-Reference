@@ -16,11 +16,11 @@ url: /ar/python-net/aspose.gis.formats.xyztile/xyztilesdriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [XyzTilesDriver()](#XyzTilesDriver__1) | ينشئ نسخة جديدة من فئة XyzTilesDriver |
+| [XyzTilesDriver()](#XyzTilesDriver__1) | يُنشئ مثلاً جديداً من فئة XyzTilesDriver |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [open_layer(connection)](#open_layer_connection_1) | يفتح مجموعة البلاط. |
 
@@ -32,7 +32,7 @@ url: /ar/python-net/aspose.gis.formats.xyztile/xyztilesdriver/
  XyzTilesDriver() 
 ```
 
-ينشئ نسخة جديدة من فئة XyzTilesDriver
+يُنشئ مثلاً جديداً من فئة XyzTilesDriver
 
 ### Method: open_layer(connection) {#open_layer_connection_1}
 
@@ -45,14 +45,14 @@ url: /ar/python-net/aspose.gis.formats.xyztile/xyztilesdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | connection | [XyzConnection](/psd/python-net/aspose.gis.formats.xyztile/xyzconnection) | اتصال لتنسيق XyzTiles. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles) | نسخة من [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles/). |
+| [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles) | مثال على [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles/). |
 
 

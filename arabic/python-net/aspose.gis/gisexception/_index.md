@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis/gisexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GisException()](#GisException__1) | يُنشئ مثلاً جديداً من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/). |
-| [GisException(message)](#GisException_message_2) | يُنشئ مثلاً جديداً من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/). |
+| [GisException()](#GisException__1) | يقوم بإنشاء نسخة جديدة من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/). |
+| [GisException(message)](#GisException_message_2) | يقوم بإنشاء نسخة جديدة من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/). |
 
 
 ### Constructor: GisException() {#GisException__1}
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis/gisexception/
  GisException() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/).
+يقوم بإنشاء نسخة جديدة من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/).
 
 ### Constructor: GisException(message) {#GisException_message_2}
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis/gisexception/
  GisException(message) 
 ```
 
-يُنشئ مثلاً جديداً من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/).
+يقوم بإنشاء نسخة جديدة من الفئة [GisException](/psd/python-net/aspose.gis/gisexception/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الرسالة | string | الرسالة التي تصف الخطأ. |
 

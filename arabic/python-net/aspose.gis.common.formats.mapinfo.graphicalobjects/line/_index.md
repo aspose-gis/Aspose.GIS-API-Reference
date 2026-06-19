@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Line()](#Line__1) | ينشئ مثلاً جديداً لفئة الخط |
+| [Line()](#Line__1) | يُنشئ مثلاً جديداً لفئة الخط |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
-| قلم | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
+| pen | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | قراءة/كتابة |  |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/
  Line() 
 ```
 
-ينشئ مثلاً جديداً لفئة الخط
+يُنشئ مثلاً جديداً لفئة الخط
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -52,7 +52,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

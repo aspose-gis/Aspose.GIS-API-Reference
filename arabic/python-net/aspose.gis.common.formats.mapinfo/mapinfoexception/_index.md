@@ -1,5 +1,5 @@
 ---
-title: "فئة MapInfoException"
+title: "MapInfoException فئة"
 type: docs
 weight: 190
 url: /ar/python-net/aspose.gis.common.formats.mapinfo/mapinfoexception/
@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/mapinfoexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapInfoException()](#MapInfoException__1) | يقوم بإنشاء نسخة جديدة من فئة MapInfoException |
-| [MapInfoException(message)](#MapInfoException_message_2) | يقوم بإنشاء نسخة جديدة من فئة MapInfoException |
+| [MapInfoException()](#MapInfoException__1) | يُنشئ مثلاً جديداً من الفئة MapInfoException |
+| [MapInfoException(message)](#MapInfoException_message_2) | يُنشئ مثلاً جديداً من الفئة MapInfoException |
 
 
 ### Constructor: MapInfoException() {#MapInfoException__1}
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/mapinfoexception/
  MapInfoException() 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة MapInfoException
+يُنشئ مثلاً جديداً من الفئة MapInfoException
 
 ### Constructor: MapInfoException(message) {#MapInfoException_message_2}
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/mapinfoexception/
  MapInfoException(message) 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة MapInfoException
+يُنشئ مثلاً جديداً من الفئة MapInfoException
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الرسالة | string |  |
 

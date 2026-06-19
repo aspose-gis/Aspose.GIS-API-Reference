@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis.formats.database.fromdefinition/ifromdefinitionda
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [get_empty_layer()](#get_empty_layer__1) | يسمح بإنشاء طبقة فارغة. يمكن أن يكون ذلك مفيدًا عند إضافة سجل جديد إلى قاعدة البيانات فقط.<br/>            لكن لاحقًا يمكن استخدام الطبقة لتعديل السجلات التي تم إضافتها حديثًا. |
+| [get_empty_layer()](#get_empty_layer__1) | يسمح بإنشاء طبقة فارغة. يمكن أن يكون ذلك مفيدًا عند إضافة سجل جديد إلى قاعدة البيانات فقط.<br/>            ولكن لاحقًا يمكن استخدام الطبقة لتعديل السجلات التي تمت إضافتها حديثًا. |
 
 
 ### Method: get_empty_layer() {#get_empty_layer__1}
@@ -26,11 +26,11 @@ url: /ar/python-net/aspose.gis.formats.database.fromdefinition/ifromdefinitionda
  get_empty_layer() 
 ```
 
-يسمح بإنشاء طبقة فارغة. يمكن أن يكون ذلك مفيدًا عند إضافة سجل جديد إلى قاعدة البيانات فقط.<br/>            لكن لاحقًا يمكن استخدام الطبقة لتعديل السجلات التي تم إضافتها حديثًا.
+يسمح بإنشاء طبقة فارغة. يمكن أن يكون ذلك مفيدًا عند إضافة سجل جديد إلى قاعدة البيانات فقط.<br/>            ولكن لاحقًا يمكن استخدام الطبقة لتعديل السجلات التي تمت إضافتها حديثًا.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) |
 

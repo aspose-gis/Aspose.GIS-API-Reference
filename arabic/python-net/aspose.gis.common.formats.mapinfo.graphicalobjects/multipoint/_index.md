@@ -16,17 +16,17 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/multipoin
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MultiPoint()](#MultiPoint__1) | ينشئ مثيلًا جديدًا من فئة MultiPoint |
+| [MultiPoint()](#MultiPoint__1) | يُنشئ مثلاً جديدًا من فئة MultiPoint |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الإحداثيات | System.Collections.Generic.List<Coordinate> | r/w |  |
+| الإحداثيات | System.Collections.Generic.List<Coordinate> | قراءة/كتابة |  |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
-| الرمز | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol> | r/w |  |
+| الرمز | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol> | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -38,7 +38,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/multipoin
  MultiPoint() 
 ```
 
-ينشئ مثيلًا جديدًا من فئة MultiPoint
+يُنشئ مثلاً جديدًا من فئة MultiPoint
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -51,7 +51,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/multipoin
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

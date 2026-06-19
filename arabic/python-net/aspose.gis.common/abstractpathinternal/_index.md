@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternal/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الموقع | string | r |  |
-| فاصل | char | r |  |
+| separator | حرف | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [combine(path)](#combine_path_1) |    |
 | delete() |  |
@@ -41,13 +41,13 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternal/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
@@ -63,7 +63,7 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternal/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -79,7 +79,7 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternal/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<AbstractPathInternal> |  |
 
@@ -95,13 +95,13 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternal/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الوصول | System.IO.FileAccess |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | _io.BufferedRandom |  |
 
@@ -117,13 +117,13 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternal/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | new_extension | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 
@@ -139,13 +139,13 @@ url: /ar/python-net/aspose.gis.common/abstractpathinternal/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 

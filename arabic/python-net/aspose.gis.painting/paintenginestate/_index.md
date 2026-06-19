@@ -1,5 +1,5 @@
 ---
-title: "PaintEngineState فئة"
+title: "PaintEngineState الفئة"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.painting/paintenginestate/
@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.painting/paintenginestate/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PaintEngineState()](#PaintEngineState__1) | ينشئ مثيلاً جديدًا من الفئة PaintEngineState |
+| [PaintEngineState()](#PaintEngineState__1) | يقوم بإنشاء نسخة جديدة من الفئة PaintEngineState |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | brush | [PainterBrush](/psd/python-net/aspose.gis.painting/painterbrush) | r/w |    |
-| خط | System.Drawing.Font | r/w |  |
+| خط | System.Drawing.Font | قراءة/كتابة |  |
 | is_brush_dirty | bool | r |  |
 | is_dirty | bool | r |  |
 | is_font_dirty | bool | r |  |
@@ -30,10 +30,10 @@ url: /ar/python-net/aspose.gis.painting/paintenginestate/
 | pen | [PainterPen](/psd/python-net/aspose.gis.painting/painterpen) | r/w |    |
 | transformation | [MatrixTransformation](/psd/python-net/aspose.gis.common/matrixtransformation/) | r/w |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | rotate(cos, sin) |  |
-| rotate(درجات) |  |
+| rotate(degrees) |  |
 | scale(x, y) |  |
 | translate(x, y) |  |
 
@@ -45,5 +45,5 @@ url: /ar/python-net/aspose.gis.painting/paintenginestate/
  PaintEngineState() 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة PaintEngineState
+يقوم بإنشاء نسخة جديدة من الفئة PaintEngineState
 

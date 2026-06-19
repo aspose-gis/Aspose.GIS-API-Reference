@@ -1,5 +1,5 @@
 ---
-title: "فئة IAlongLinePlacer"
+title: "IAlongLinePlacer فئة"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.labeling.line/ialonglineplacer/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.labeling.line/ialonglineplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | accumulate_candidates(candidates, line) |  |
 

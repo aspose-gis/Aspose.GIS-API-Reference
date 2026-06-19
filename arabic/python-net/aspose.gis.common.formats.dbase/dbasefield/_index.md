@@ -1,5 +1,5 @@
 ---
-title: "فئة DBaseField"
+title: "DBaseField فئة"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.common.formats.dbase/dbasefield/
@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbasefield/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [DBaseField()](#DBaseField__1) | ينشئ مثلاً جديداً من فئة DBaseField |
-| [DBaseField(name, type, length, decimals, offset)](#DBaseField_name_type_length_decimals_offset_2) | ينشئ مثلاً جديداً من فئة DBaseField |
+| [DBaseField()](#DBaseField__1) | يُنشئ مثيلًا جديدًا من فئة DBaseField |
+| [DBaseField(name, type, length, decimals, offset)](#DBaseField_name_type_length_decimals_offset_2) | يُنشئ مثيلًا جديدًا من فئة DBaseField |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | عشريات | int | r |  |
 | الطول | int | r |  |
 | الاسم | string | r |  |
 | الإزاحة | int | r |  |
-| النوع | char | r |  |
+| النوع | حرف | r |  |
 
 
 ### Constructor: DBaseField() {#DBaseField__1}
@@ -35,7 +35,7 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbasefield/
  DBaseField() 
 ```
 
-ينشئ مثلاً جديداً من فئة DBaseField
+يُنشئ مثيلًا جديدًا من فئة DBaseField
 
 ### Constructor: DBaseField(name, type, length, decimals, offset) {#DBaseField_name_type_length_decimals_offset_2}
 
@@ -44,14 +44,14 @@ url: /ar/python-net/aspose.gis.common.formats.dbase/dbasefield/
  DBaseField(name, type, length, decimals, offset) 
 ```
 
-ينشئ مثلاً جديداً من فئة DBaseField
+يُنشئ مثيلًا جديدًا من فئة DBaseField
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| النوع | char |  |
+| النوع | حرف |  |
 | الطول | int |  |
 | عشريات | int |  |
 | الإزاحة | int |  |

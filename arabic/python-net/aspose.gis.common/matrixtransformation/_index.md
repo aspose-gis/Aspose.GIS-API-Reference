@@ -14,28 +14,28 @@ url: /ar/python-net/aspose.gis.common/matrixtransformation/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MatrixTransformation()](#MatrixTransformation__1) | يُنشئ مثيلًا جديدًا من فئة MatrixTransformation |
+| [MatrixTransformation()](#MatrixTransformation__1) | يُنشئ مثيلاً جديدًا من فئة MatrixTransformation |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| dx | double | r/w |  |
-| dy | double | r/w |  |
-| قابل_للتحرير | bool | r |  |
-| خالي | bool | r |  |
-| m11 | double | r/w |  |
-| m12 | double | r/w |  |
-| m21 | double | r/w |  |
-| m22 | double | r/w |  |
+| dx | double | قراءة/كتابة |  |
+| dy | double | قراءة/كتابة |  |
+| is_editable | bool | r |  |
+| is_null | bool | r |  |
+| m11 | double | قراءة/كتابة |  |
+| m12 | double | قراءة/كتابة |  |
+| m21 | double | قراءة/كتابة |  |
+| m22 | double | قراءة/كتابة |  |
 | دوران | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينشئ كائنًا جديدًا يكون نسخة من المثيل الحالي. |
 | lock_from_editing() |  |
 | rotate(cos, sin) |  |
-| rotate(درجات) |  |
+| rotate(degrees) |  |
 | scale(zoom_x, zoom_y) |  |
 | [transform(coordinate)](#transform_coordinate_2) |    |
 | [transform(x, y)](#transform_x_y_3) |    |
@@ -50,7 +50,7 @@ url: /ar/python-net/aspose.gis.common/matrixtransformation/
  MatrixTransformation() 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة MatrixTransformation
+يُنشئ مثيلاً جديدًا من فئة MatrixTransformation
 
 ### Method: clone() {#clone__1}
 
@@ -63,7 +63,7 @@ url: /ar/python-net/aspose.gis.common/matrixtransformation/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [MatrixTransformation](/psd/python-net/aspose.gis.common/matrixtransformation) |  |
 
@@ -79,13 +79,13 @@ url: /ar/python-net/aspose.gis.common/matrixtransformation/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
@@ -101,14 +101,14 @@ url: /ar/python-net/aspose.gis.common/matrixtransformation/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 

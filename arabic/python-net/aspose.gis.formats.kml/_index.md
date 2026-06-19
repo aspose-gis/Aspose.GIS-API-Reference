@@ -9,12 +9,12 @@ url: /ar/python-net/aspose.gis.formats.kml/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
-| [KmlDriver](/psd/python-net/aspose.gis.formats.kml/kmldriver/) | مشغل لتنسيق KML |
+| [KmlDriver](/psd/python-net/aspose.gis.formats.kml/kmldriver/) | برنامج تشغيل لتنسيق KML. |
 | [KmlLayer](/psd/python-net/aspose.gis.formats.kml/kmllayer/) | يمثل طبقة Kml بسلوك غير مدمر يدعم القراءة والكتابة للميزات والسمات في وقت واحد.<br/>            طبقة Kml هي مجموعة من الميزات الجغرافية، مخزنة في ملف. |
-| [KmlOptions](/psd/python-net/aspose.gis.formats.kml/kmloptions/) | خيارات خاصة بالمشغل لتنسيق KML. |
+| [KmlOptions](/psd/python-net/aspose.gis.formats.kml/kmloptions/) | خيارات خاصة بالسائق لتنسيق KML. |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [AltitudeModes](/psd/python-net/aspose.gis.formats.kml/altitudemodes/) | وضع الارتفاع لأشكال KML الهندسية. |

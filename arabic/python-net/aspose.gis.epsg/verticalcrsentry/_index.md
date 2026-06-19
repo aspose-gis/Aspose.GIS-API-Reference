@@ -14,18 +14,18 @@ url: /ar/python-net/aspose.gis.epsg/verticalcrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [VerticalCrsEntry()](#VerticalCrsEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة VerticalCrsEntry |
+| [VerticalCrsEntry()](#VerticalCrsEntry__1) | يُنشئ مثلاً جديداً من الفئة VerticalCrsEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| رمز_المرجع | int | r |  |
+| datum_code | int | r |  |
 | الاسم | string | r |  |
-| رمز_الوحدة | int | r |  |
+| unit_code | int | r |  |
 | أعلى | bool | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, unit_code, datum_code, up)](#create_name_unit_code_datum_code_up_1) |    |
 
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.epsg/verticalcrsentry/
  VerticalCrsEntry() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة VerticalCrsEntry
+يُنشئ مثلاً جديداً من الفئة VerticalCrsEntry
 
 ### Method: create(name, unit_code, datum_code, up)  [static] {#create_name_unit_code_datum_code_up_1}
 
@@ -50,16 +50,16 @@ url: /ar/python-net/aspose.gis.epsg/verticalcrsentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| رمز_الوحدة | int |  |
-| رمز_المرجع | int |  |
+| unit_code | int |  |
+| datum_code | int |  |
 | أعلى | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [VerticalCrsEntry](/psd/python-net/aspose.gis.epsg/verticalcrsentry) |  |
 

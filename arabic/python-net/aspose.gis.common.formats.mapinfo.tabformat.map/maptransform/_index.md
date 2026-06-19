@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapTransform(x_displacement, y_displacement, x_scale, y_scale, coordinates_origin_quadrant)](#MapTransform_x_displacement_y_displacement_x_scale_y_scale_coordinates_origin_quadrant_1) | يُهيئ مثلاً جديداً من فئة MapTransform |
+| [MapTransform(x_displacement, y_displacement, x_scale, y_scale, coordinates_origin_quadrant)](#MapTransform_x_displacement_y_displacement_x_scale_y_scale_coordinates_origin_quadrant_1) | يُهيئ نسخة جديدة من فئة MapTransform |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinates_origin_quadrant | [Quadrant](/psd/python-net/aspose.gis.common/quadrant) | r |    |
 | coordinates_origin_quadrant_byte | byte | r |  |
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform
 | y_displacement | double | r |  |
 | y_scale | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [apply(ix, iy)](#apply_ix_iy_1) |    |
 | to_int_coordinate(coordinate, n_x, n_y) |  |
@@ -40,11 +40,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform
  MapTransform(x_displacement, y_displacement, x_scale, y_scale, coordinates_origin_quadrant) 
 ```
 
-يُهيئ مثلاً جديداً من فئة MapTransform
+يُهيئ نسخة جديدة من فئة MapTransform
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x_displacement | double |  |
 | y_displacement | double |  |
@@ -63,14 +63,14 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | ix | int |  |
 | iy | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 

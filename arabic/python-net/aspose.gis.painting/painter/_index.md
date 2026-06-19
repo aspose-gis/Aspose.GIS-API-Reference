@@ -14,20 +14,20 @@ url: /ar/python-net/aspose.gis.painting/painter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Painter(engine)](#Painter_engine_1) | تهيئة نسخة جديدة من Painter فئة |
+| [Painter(engine)](#Painter_engine_1) | يقوم بإنشاء نسخة جديدة من الفئة Painter |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | brush | [PainterBrush](/psd/python-net/aspose.gis.painting/painterbrush) | r/w |    |
-| خط | System.Drawing.Font | r/w |  |
+| خط | System.Drawing.Font | قراءة/كتابة |  |
 | pen | [PainterPen](/psd/python-net/aspose.gis.painting/painterpen) | r/w |    |
 | rounded_height | double | r |  |
 | rounded_width | double | r |  |
 | tranformation | [MatrixTransformation](/psd/python-net/aspose.gis.common/matrixtransformation/) | r/w |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | draw_characters(path) |  |
 | draw_ellipse(center, rx, ry) |  |
@@ -40,7 +40,7 @@ url: /ar/python-net/aspose.gis.painting/painter/
 | [measure_text(text, font)](#measure_text_text_font_1) |    |
 | [measure_text_characters(text, font)](#measure_text_characters_text_font_2) |    |
 | rotate(cos, sin) |  |
-| rotate(درجات) |  |
+| rotate(degrees) |  |
 | scale(zoom_x, zoom_y) |  |
 | start_new_layer(opacity) |  |
 | start_new_layer(options) |  |
@@ -55,11 +55,11 @@ url: /ar/python-net/aspose.gis.painting/painter/
  Painter(engine) 
 ```
 
-تهيئة نسخة جديدة من Painter فئة
+يقوم بإنشاء نسخة جديدة من الفئة Painter
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | engine | [PaintEngine](/psd/python-net/aspose.gis.painting/paintengine) |  |
 
@@ -74,14 +74,14 @@ url: /ar/python-net/aspose.gis.painting/painter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 | خط | System.Drawing.Font |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Size](/psd/python-net/aspose.gis.common/size/) |  |
 
@@ -97,14 +97,14 @@ url: /ar/python-net/aspose.gis.painting/painter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 | خط | System.Drawing.Font |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.List<Aspose.Gis.Common.Size> |  |
 

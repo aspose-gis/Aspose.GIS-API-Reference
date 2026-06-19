@@ -16,21 +16,21 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbmultipartshape/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbMultiPartShape()](#GdbMultiPartShape__1) | يقوم بتهيئة نسخة جديدة من الفئة GdbMultiPartShape |
+| [GdbMultiPartShape()](#GdbMultiPartShape__1) | يُنشئ مثيلًا جديدًا من فئة GdbMultiPartShape |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r/w |    |
 | curves | [GdbCurveSegment[]](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegment) | r/w |    |
 | has_curves | bool | r |  |
 | has_m | bool | r |  |
 | has_z | bool | r |  |
-| m | double | r/w |  |
-| parts_sizes | int | r/w |  |
+| m | double | قراءة/كتابة |  |
+| parts_sizes | int | قراءة/كتابة |  |
 | xy | [Coordinate[]](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
-| z | double | r/w |  |
+| z | double | قراءة/كتابة |  |
 
 
 ### Constructor: GdbMultiPartShape() {#GdbMultiPartShape__1}
@@ -40,5 +40,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbmultipartshape/
  GdbMultiPartShape() 
 ```
 
-يقوم بتهيئة نسخة جديدة من الفئة GdbMultiPartShape
+يُنشئ مثيلًا جديدًا من فئة GdbMultiPartShape
 

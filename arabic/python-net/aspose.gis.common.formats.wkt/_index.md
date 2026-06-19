@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/) |  |
 | [WktDateTime](/psd/python-net/aspose.gis.common.formats.wkt/wktdatetime/) |  |
@@ -22,6 +22,6 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/
 | [WktWriter](/psd/python-net/aspose.gis.common.formats.wkt/wktwriter/) |  |
 | [WktWriterOptions](/psd/python-net/aspose.gis.common.formats.wkt/wktwriteroptions/) |  |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [WktTokenType](/psd/python-net/aspose.gis.common.formats.wkt/wkttokentype/) |  |

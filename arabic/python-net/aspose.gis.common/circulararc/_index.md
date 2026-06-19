@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [CircularArc()](#CircularArc__1) | يُنشئ مثيلًا جديدًا من فئة CircularArc |
-| [CircularArc(start, mid, end)](#CircularArc_start_mid_end_2) | يُنشئ مثيلًا جديدًا من فئة CircularArc |
-| [CircularArc(x0, y0, x1, y1, x2, y2)](#CircularArc_x0_y0_x1_y1_x2_y2_3) | يُنشئ مثيلًا جديدًا من فئة CircularArc |
+| [CircularArc()](#CircularArc__1) | يُنشئ مثيلاً جديدًا من فئة CircularArc |
+| [CircularArc(start, mid, end)](#CircularArc_start_mid_end_2) | يُنشئ مثيلاً جديدًا من فئة CircularArc |
+| [CircularArc(x0, y0, x1, y1, x2, y2)](#CircularArc_x0_y0_x1_y1_x2_y2_3) | يُنشئ مثيلاً جديدًا من فئة CircularArc |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | circle_center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
-| دائري | bool | r |  |
+| is_circle | bool | r |  |
 | is_clockwise | bool | r |  |
 | is_line | bool | r |  |
 | is_minor | bool | r |  |
@@ -34,7 +34,7 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 | نصف القطر | double | r |  |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [equal(other)](#equal_other_1) |    |
 | [from_center(center, radius, start_angle_rad, end_angle_rad, clockwise)](#from_center_center_radius_start_angle_rad_end_angle_rad_clockwise_2) |    |
@@ -53,7 +53,7 @@ url: /ar/python-net/aspose.gis.common/circulararc/
  CircularArc() 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة CircularArc
+يُنشئ مثيلاً جديدًا من فئة CircularArc
 
 ### Constructor: CircularArc(start, mid, end) {#CircularArc_start_mid_end_2}
 
@@ -62,11 +62,11 @@ url: /ar/python-net/aspose.gis.common/circulararc/
  CircularArc(start, mid, end) 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة CircularArc
+يُنشئ مثيلاً جديدًا من فئة CircularArc
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 | mid | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
@@ -79,11 +79,11 @@ url: /ar/python-net/aspose.gis.common/circulararc/
  CircularArc(x0, y0, x1, y1, x2, y2) 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة CircularArc
+يُنشئ مثيلاً جديدًا من فئة CircularArc
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x0 | double |  |
 | y0 | double |  |
@@ -103,13 +103,13 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [CircularArc](/psd/python-net/aspose.gis.common/circulararc) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -125,7 +125,7 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 | نصف القطر | double |  |
@@ -135,7 +135,7 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [CircularArc](/psd/python-net/aspose.gis.common/circulararc) |  |
 
@@ -151,7 +151,7 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
@@ -160,7 +160,7 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [CircularArc](/psd/python-net/aspose.gis.common/circulararc) |  |
 
@@ -176,13 +176,13 @@ url: /ar/python-net/aspose.gis.common/circulararc/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | زاوية | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 

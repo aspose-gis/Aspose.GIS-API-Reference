@@ -14,20 +14,20 @@ url: /ar/python-net/aspose.gis.epsg/geographiccrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GeographicCrsEntry()](#GeographicCrsEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة GeographicCrsEntry |
+| [GeographicCrsEntry()](#GeographicCrsEntry__1) | يُنشئ مثلاً جديداً من الفئة GeographicCrsEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| رمز_المرجع | int | r |  |
-| متقادم | bool | r |  |
+| datum_code | int | r |  |
+| مهمل | bool | r |  |
 | الاسم | string | r |  |
-| ثلاثي_الأبعاد | bool | r |  |
-| إلى_فهرس_إدخال_wgs_84 | int | r |  |
-| رمز_الوحدة | int | r |  |
+| three_dimensional | bool | r |  |
+| to_wgs_84_entry_index | int | r |  |
+| unit_code | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, to_wgs_84_entry_index, datum_code, unit_code, three_dimensional, deprecated)](#create_name_to_wgs_84_entry_index_datum_code_unit_code_three_dimensional_deprecated_1) |    |
 
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.epsg/geographiccrsentry/
  GeographicCrsEntry() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة GeographicCrsEntry
+يُنشئ مثلاً جديداً من الفئة GeographicCrsEntry
 
 ### Method: create(name, to_wgs_84_entry_index, datum_code, unit_code, three_dimensional, deprecated)  [static] {#create_name_to_wgs_84_entry_index_datum_code_unit_code_three_dimensional_deprecated_1}
 
@@ -52,18 +52,18 @@ url: /ar/python-net/aspose.gis.epsg/geographiccrsentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
-| إلى_فهرس_إدخال_wgs_84 | int |  |
-| رمز_المرجع | int |  |
-| رمز_الوحدة | int |  |
-| ثلاثي_الأبعاد | bool |  |
-| متقادم | bool |  |
+| to_wgs_84_entry_index | int |  |
+| datum_code | int |  |
+| unit_code | int |  |
+| three_dimensional | bool |  |
+| مهمل | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [GeographicCrsEntry](/psd/python-net/aspose.gis.epsg/geographiccrsentry) |  |
 

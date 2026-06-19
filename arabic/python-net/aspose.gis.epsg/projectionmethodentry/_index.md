@@ -14,16 +14,16 @@ url: /ar/python-net/aspose.gis.epsg/projectionmethodentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [ProjectionMethodEntry()](#ProjectionMethodEntry__1) | يقوم بإنشاء نسخة جديدة من الفئة ProjectionMethodEntry |
-| [ProjectionMethodEntry(name)](#ProjectionMethodEntry_name_2) | يقوم بإنشاء نسخة جديدة من الفئة ProjectionMethodEntry |
+| [ProjectionMethodEntry()](#ProjectionMethodEntry__1) | يُنشئ مثلاً جديداً من الفئة ProjectionMethodEntry |
+| [ProjectionMethodEntry(name)](#ProjectionMethodEntry_name_2) | يُنشئ مثلاً جديداً من الفئة ProjectionMethodEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الاسم | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name)](#create_name_1) |    |
 
@@ -35,7 +35,7 @@ url: /ar/python-net/aspose.gis.epsg/projectionmethodentry/
  ProjectionMethodEntry() 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة ProjectionMethodEntry
+يُنشئ مثلاً جديداً من الفئة ProjectionMethodEntry
 
 ### Constructor: ProjectionMethodEntry(name) {#ProjectionMethodEntry_name_2}
 
@@ -44,11 +44,11 @@ url: /ar/python-net/aspose.gis.epsg/projectionmethodentry/
  ProjectionMethodEntry(name) 
 ```
 
-يقوم بإنشاء نسخة جديدة من الفئة ProjectionMethodEntry
+يُنشئ مثلاً جديداً من الفئة ProjectionMethodEntry
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 
@@ -63,13 +63,13 @@ url: /ar/python-net/aspose.gis.epsg/projectionmethodentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [ProjectionMethodEntry](/psd/python-net/aspose.gis.epsg/projectionmethodentry) |  |
 

@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreade
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MifReader(path)](#MifReader_path_1) | يُهيئ نسخة جديدة من فئة MifReader |
-| [MifReader(path)](#MifReader_path_2) | يُهيئ نسخة جديدة من فئة MifReader |
+| [MifReader(path)](#MifReader_path_1) | ينشئ نسخة جديدة من فئة MifReader |
+| [MifReader(path)](#MifReader_path_2) | ينشئ نسخة جديدة من فئة MifReader |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | charset_encoding | System.Text.Encoding | r |  |
 | الأعمدة | System.Collections.Generic.IReadOnlyList<Column> | r |  |
 | common_graphical_objects_type | Nullable<Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType> | r |  |
 | coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |
-| فاصل | char | r |  |
+| الفاصل | حرف | r |  |
 | الإصدار | int | r |  |
 
 
@@ -38,13 +38,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreade
  MifReader(path) 
 ```
 
-يُهيئ نسخة جديدة من فئة MifReader
+ينشئ نسخة جديدة من فئة MifReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string |  |
+| path | string |  |
 
 ### Constructor: MifReader(path) {#MifReader_path_2}
 
@@ -53,11 +53,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreade
  MifReader(path) 
 ```
 
-يُهيئ نسخة جديدة من فئة MifReader
+ينشئ نسخة جديدة من فئة MifReader
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
 

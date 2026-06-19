@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis.geometries/wktvariant/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
-| EXTENDED_POST_GIS | متغيّر نص معروف موسع صُمم بواسطة PostGIS لتصدير معرف نظام الإحداثيات المكاني (رمز EPSG). |
-| ISO | نص معروف متوافق مع معيار ISO "SQL Multimedia and application packages - Part 3: Spatial" و<br/>            مواصفة Simple Feature Access، الإصدار 1.2. |
-| SIMPLE_FEATURE_ACCESS_OUTDATED | نص معروف متوافق مع مواصفة Simple Feature Access، الإصدار 1.1. |
+| EXTENDED_POST_GIS | متغيّر Well-Known Text الموسّع صُمم بواسطة PostGIS لتصدير معرف نظام الإحداثيات المكانية (رمز EPSG). |
+| ISO | نص Well-Known Text متوافق مع معيار ISO \"SQL Multimedia and application packages - Part 3: Spatial\" و<br/>            مواصفة Simple Feature Access، الإصدار 1.2. |
+| SIMPLE_FEATURE_ACCESS_OUTDATED | نص Well-Known Text متوافق مع مواصفة Simple Feature Access، الإصدار 1.1. |

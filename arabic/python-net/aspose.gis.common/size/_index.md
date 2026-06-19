@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.common/size/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Size()](#Size__1) | يُنشئ مثيلًا جديدًا لفئة Size |
-| [Size(width, height)](#Size_width_height_2) | يُنشئ مثيلًا جديدًا لفئة Size |
+| [Size()](#Size__1) | يُهيئ مثيلًا جديدًا من فئة Size |
+| [Size(width, height)](#Size_width_height_2) | يُهيئ مثيلًا جديدًا من فئة Size |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | الارتفاع | double | r |  |
-| العرض | double | r |  |
+| width | double | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [to_coordinate()](#to_coordinate__1) |    |
 
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.common/size/
  Size() 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة Size
+يُهيئ مثيلًا جديدًا من فئة Size
 
 ### Constructor: Size(width, height) {#Size_width_height_2}
 
@@ -45,13 +45,13 @@ url: /ar/python-net/aspose.gis.common/size/
  Size(width, height) 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة Size
+يُهيئ مثيلًا جديدًا من فئة Size
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| العرض | double |  |
+| width | double |  |
 | الارتفاع | double |  |
 
 ### Method: to_coordinate() {#to_coordinate__1}
@@ -65,7 +65,7 @@ url: /ar/python-net/aspose.gis.common/size/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 

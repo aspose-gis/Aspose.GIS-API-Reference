@@ -1,5 +1,5 @@
 ---
-title: "فئة BufferingReadStream"
+title: "BufferingReadStream فئة"
 type: docs
 weight: 40
 url: /ar/python-net/aspose.gis.common.io/bufferingreadstream/
@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis.common.io/bufferingreadstream/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [BufferingReadStream(stream)](#BufferingReadStream_stream_1) | يُنشئ مثالا جديدا من الفئة BufferingReadStream |
+| [BufferingReadStream(stream)](#BufferingReadStream_stream_1) | يقوم بإنشاء نسخة جديدة من فئة BufferingReadStream |
 
 
 ### Constructor: BufferingReadStream(stream) {#BufferingReadStream_stream_1}
@@ -26,11 +26,11 @@ url: /ar/python-net/aspose.gis.common.io/bufferingreadstream/
  BufferingReadStream(stream) 
 ```
 
-يُنشئ مثالا جديدا من الفئة BufferingReadStream
+يقوم بإنشاء نسخة جديدة من فئة BufferingReadStream
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 

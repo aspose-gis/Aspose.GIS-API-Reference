@@ -1,5 +1,5 @@
 ---
-title: "PainterPen فئة"
+title: "PainterPen الفئة"
 type: docs
 weight: 80
 url: /ar/python-net/aspose.gis.painting/painterpen/
@@ -14,13 +14,13 @@ url: /ar/python-net/aspose.gis.painting/painterpen/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PainterPen()](#PainterPen__1) | ينشئ مثيلاً جديدًا من الفئة PainterPen |
-| [PainterPen(color, width, style, line_join)](#PainterPen_color_width_style_line_join_2) | ينشئ مثيلاً جديدًا من الفئة PainterPen |
-| [PainterPen(options)](#PainterPen_options_3) | ينشئ مثيلاً جديدًا من الفئة PainterPen |
+| [PainterPen()](#PainterPen__1) | يقوم بإنشاء نسخة جديدة من الفئة PainterPen |
+| [PainterPen(color, width, style, line_join)](#PainterPen_color_width_style_line_join_2) | يقوم بإنشاء نسخة جديدة من الفئة PainterPen |
+| [PainterPen(options)](#PainterPen_options_3) | يقوم بإنشاء نسخة جديدة من الفئة PainterPen |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | cap_style | [PenCapStyle](/psd/python-net/aspose.gis.painting/pencapstyle) | r |    |
 | اللون | System.Drawing.Color | r |  |
@@ -29,7 +29,7 @@ url: /ar/python-net/aspose.gis.painting/painterpen/
 | line_join | [PenLineJoin](/psd/python-net/aspose.gis.painting/penlinejoin) | r |    |
 | no_pen [static] | [PainterPen](/psd/python-net/aspose.gis.painting/painterpen) | r |    |
 | style | [PenStyle](/psd/python-net/aspose.gis.painting/penstyle) | r |    |
-| العرض | double | r |  |
+| width | double | r |  |
 
 
 ### Constructor: PainterPen() {#PainterPen__1}
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.painting/painterpen/
  PainterPen() 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة PainterPen
+يقوم بإنشاء نسخة جديدة من الفئة PainterPen
 
 ### Constructor: PainterPen(color, width, style, line_join) {#PainterPen_color_width_style_line_join_2}
 
@@ -48,14 +48,14 @@ url: /ar/python-net/aspose.gis.painting/painterpen/
  PainterPen(color, width, style, line_join) 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة PainterPen
+يقوم بإنشاء نسخة جديدة من الفئة PainterPen
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | اللون | System.Drawing.Color |  |
-| العرض | double |  |
+| width | double |  |
 | style | [PenStyle](/psd/python-net/aspose.gis.painting/penstyle) |  |
 | line_join | [PenLineJoin](/psd/python-net/aspose.gis.painting/penlinejoin) |  |
 
@@ -66,11 +66,11 @@ url: /ar/python-net/aspose.gis.painting/painterpen/
  PainterPen(options) 
 ```
 
-ينشئ مثيلاً جديدًا من الفئة PainterPen
+يقوم بإنشاء نسخة جديدة من الفئة PainterPen
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | options | [PainterPenOptions](/psd/python-net/aspose.gis.painting/painterpenoptions) |  |
 

@@ -9,8 +9,8 @@ url: /ar/python-net/aspose.gis.formats.geopackage/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [GeoPackageDataset](/psd/python-net/aspose.gis.formats.geopackage/geopackagedataset/) | يمثل مجموعة من طبقات الميزات وطبقات البلاط في تنسيق GeoPackage. |
-| [GeoPackageDriver](/psd/python-net/aspose.gis.formats.geopackage/geopackagedriver/) | مشغل لتنسيق ملف GPKG. |
-| [GeoPackageOptions](/psd/python-net/aspose.gis.formats.geopackage/geopackageoptions/) | خيارات خاصة بالمشغل لتنسيق GPKG. |
+| [GeoPackageDriver](/psd/python-net/aspose.gis.formats.geopackage/geopackagedriver/) | برنامج تشغيل لتنسيق ملف GPKG. |
+| [GeoPackageOptions](/psd/python-net/aspose.gis.formats.geopackage/geopackageoptions/) | خيارات خاصة بالسائق لتنسيق GPKG. |

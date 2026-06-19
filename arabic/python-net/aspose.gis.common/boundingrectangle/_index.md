@@ -1,5 +1,5 @@
 ---
-title: "فئة BoundingRectangle"
+title: "BoundingRectangle فئة"
 type: docs
 weight: 100
 url: /ar/python-net/aspose.gis.common/boundingrectangle/
@@ -14,26 +14,26 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [BoundingRectangle()](#BoundingRectangle__1) | ينشئ مثيلًا جديدًا من فئة BoundingRectangle |
 | [BoundingRectangle(x_min, y_min, x_max, y_max)](#BoundingRectangle_x_min_y_min_x_max_y_max_2) | ينشئ مثيلًا جديدًا من فئة BoundingRectangle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| مساحة | double | r |  |
+| المساحة | double | r |  |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | has_values | bool | r |  |
 | الارتفاع | double | r |  |
 | max_coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | min_coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
-| العرض | double | r |  |
-| x_max | double | r/w |  |
-| x_min | double | r/w |  |
-| y_max | double | r/w |  |
-| y_min | double | r/w |  |
+| width | double | r |  |
+| x_max | double | قراءة/كتابة |  |
+| x_min | double | قراءة/كتابة |  |
+| y_max | double | قراءة/كتابة |  |
+| y_min | double | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | ينشئ كائنًا جديدًا يكون نسخة من المثيل الحالي. |
 | [contains(c)](#contains_c_2) |    |
@@ -76,7 +76,7 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x_min | double |  |
 | y_min | double |  |
@@ -94,7 +94,7 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) |  |
 
@@ -110,13 +110,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | c | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -132,13 +132,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -154,14 +154,14 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -177,13 +177,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -199,13 +199,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | y | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -221,13 +221,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -243,13 +243,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -265,14 +265,14 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -288,13 +288,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) |  |
 
@@ -310,13 +310,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -332,13 +332,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | c | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -354,13 +354,13 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | other | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -376,14 +376,14 @@ url: /ar/python-net/aspose.gis.common/boundingrectangle/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | x | double |  |
 | y | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 

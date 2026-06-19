@@ -1,5 +1,5 @@
 ---
-title: "فئة BomStream"
+title: "BomStream فئة"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.common.io/bomstream/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common.io/bomstream/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [BomStream(stream)](#BomStream_stream_1) | يُنشئ مثالا جديدا من الفئة BomStream |
+| [BomStream(stream)](#BomStream_stream_1) | يقوم بإنشاء نسخة جديدة من فئة BomStream |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bom_offset | int | r |  |
 
@@ -30,11 +30,11 @@ url: /ar/python-net/aspose.gis.common.io/bomstream/
  BomStream(stream) 
 ```
 
-يُنشئ مثالا جديدا من الفئة BomStream
+يقوم بإنشاء نسخة جديدة من فئة BomStream
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | دفق | _io.BufferedRandom |  |
 

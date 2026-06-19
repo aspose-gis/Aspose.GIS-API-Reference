@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.projections/projection/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(projection_method_id, parameters)](#create_projection_method_id_parameters_1) |    |
 | [to_geographic(easting, northing, longitude, latitude)](#to_geographic_easting_northing_longitude_latitude_2) |    |
@@ -32,14 +32,14 @@ url: /ar/python-net/aspose.gis.projections/projection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | projection_method_id | [ProjectionMethodIdentifier](/psd/python-net/aspose.gis.projections/projectionmethodidentifier) |  |
 | parameters | [ProjectionParameters](/psd/python-net/aspose.gis.projections/projectionparameters) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Projection](/psd/python-net/aspose.gis.spatialreferencing/projection) |  |
 
@@ -55,7 +55,7 @@ url: /ar/python-net/aspose.gis.projections/projection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الإحداثي الشرقي | double |  |
 | الإحداثي الشمالي | double |  |
@@ -64,7 +64,7 @@ url: /ar/python-net/aspose.gis.projections/projection/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -80,7 +80,7 @@ url: /ar/python-net/aspose.gis.projections/projection/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | خط الطول | double |  |
 | خط العرض | double |  |
@@ -89,7 +89,7 @@ url: /ar/python-net/aspose.gis.projections/projection/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

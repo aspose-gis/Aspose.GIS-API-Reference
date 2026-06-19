@@ -14,14 +14,14 @@ url: /ar/python-net/aspose.gis.rendering/rastermapresampling/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RasterMapResampling()](#RasterMapResampling__1) | يُنشئ مثيلًا جديدًا لفئة RasterMapResampling |
+| [RasterMapResampling()](#RasterMapResampling__1) | يُنشئ نسخة جديدة من فئة RasterMapResampling |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| الارتفاع | int | r/w | يحدد ارتفاع الراستر على الخريطة بوحدات البكسل والأعمدة.<br/>            إذا تم تعيين القيمة إلى 0، يتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي "0". |
-| العرض | int | r/w | يحدد عرض الراستر على الخريطة بوحدات البكسل والأعمدة.<br/>            إذا تم تعيين القيمة إلى 0، يتم حساب العرض تلقائيًا. القيمة الافتراضية هي "0". |
+| الارتفاع | int | قراءة/كتابة | يحدد ارتفاع البكسل على الخريطة بوحدات البكسل والأعمدة.<br/>            إذا تم تعيين القيمة إلى 0، يتم حساب الارتفاع تلقائيًا. القيمة الافتراضية هي "0". |
+| width | int | قراءة/كتابة | يحدد عرض البكسل على الخريطة بوحدات البكسل والأعمدة.<br/>            إذا تم تعيين القيمة إلى 0، يتم حساب العرض تلقائيًا. القيمة الافتراضية هي "0". |
 
 
 ### Constructor: RasterMapResampling() {#RasterMapResampling__1}
@@ -31,5 +31,5 @@ url: /ar/python-net/aspose.gis.rendering/rastermapresampling/
  RasterMapResampling() 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة RasterMapResampling
+يُنشئ نسخة جديدة من فئة RasterMapResampling
 

@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbshape/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r/w |    |
 | has_m | bool | r |  |

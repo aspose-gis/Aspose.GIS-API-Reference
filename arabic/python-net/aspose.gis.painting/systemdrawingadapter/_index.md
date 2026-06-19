@@ -1,5 +1,5 @@
 ---
-title: "فئة SystemDrawingAdapter"
+title: "SystemDrawingAdapter فئة"
 type: docs
 weight: 180
 url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| string_format [ثابت] | System.Drawing.StringFormat | r |  |
+| string_format [static] | System.Drawing.StringFormat | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [convert_brush(brush)](#convert_brush_brush_1) |    |
 | [convert_coordinate(coordinate)](#convert_coordinate_coordinate_2) |    |
@@ -42,13 +42,13 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | brush | [SolidPainterBrush](/psd/python-net/aspose.gis.painting/solidpainterbrush) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Drawing.Brush |  |
 
@@ -64,13 +64,13 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Drawing.PointF |  |
 
@@ -86,13 +86,13 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | pen | [PainterPen](/psd/python-net/aspose.gis.painting/painterpen) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Drawing.Pen |  |
 
@@ -108,13 +108,13 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | shape | [PolylinesShape](/psd/python-net/aspose.gis.painting/polylinesshape) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Drawing.Drawing2D.GraphicsPath |  |
 
@@ -130,13 +130,13 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | transformation | [MatrixTransformation](/psd/python-net/aspose.gis.common/matrixtransformation/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Drawing.Drawing2D.Matrix |  |
 
@@ -152,14 +152,14 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | خط | System.Drawing.Font |  |
 | value_in_design_units | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -175,13 +175,13 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | خط | System.Drawing.Font |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -197,13 +197,13 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | خط | System.Drawing.Font |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -219,7 +219,7 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الرسومات | System.Drawing.Graphics |  |
 | text | string |  |
@@ -227,7 +227,7 @@ url: /ar/python-net/aspose.gis.painting/systemdrawingadapter/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [Size](/psd/python-net/aspose.gis.common/size/) |  |
 

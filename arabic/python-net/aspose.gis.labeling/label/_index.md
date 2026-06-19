@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.labeling/label/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [Label(text, style, positions, priority)](#Label_text_style_positions_priority_1) | يُهيئ نسخة جديدة من فئة Label |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | possible_positions | System.Collections.Generic.IReadOnlyList<LabelPosition> | r |  |
 | الأولوية | int | r |  |
@@ -37,7 +37,7 @@ url: /ar/python-net/aspose.gis.labeling/label/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 | style | [ILabelStyle](/psd/python-net/aspose.gis.labeling/ilabelstyle) |  |

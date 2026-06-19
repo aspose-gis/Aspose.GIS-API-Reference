@@ -16,11 +16,11 @@ url: /ar/python-net/aspose.gis.formats.geotiff/geotiffdriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | can_open_layers | bool | r | يحصل على قيمة تشير إلى ما إذا كان هذا المشغل يمكنه فتح طبقات الراستر. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [open_layer(path)](#open_layer_path_1) | يفتح الطبقة للقراءة. |
 | [open_layer(path)](#open_layer_path_2) | يفتح الطبقة للقراءة. |
@@ -41,13 +41,13 @@ url: /ar/python-net/aspose.gis.formats.geotiff/geotiffdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -63,13 +63,13 @@ url: /ar/python-net/aspose.gis.formats.geotiff/geotiffdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -85,14 +85,14 @@ url: /ar/python-net/aspose.gis.formats.geotiff/geotiffdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | options | [RasterDriverOptions](/psd/python-net/aspose.gis/rasterdriveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -108,14 +108,14 @@ url: /ar/python-net/aspose.gis.formats.geotiff/geotiffdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [GeoTiffOptions](/psd/python-net/aspose.gis.formats.geotiff/geotiffoptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -131,14 +131,14 @@ url: /ar/python-net/aspose.gis.formats.geotiff/geotiffdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | المسار إلى الملف. |
 | options | [GeoTiffOptions](/psd/python-net/aspose.gis.formats.geotiff/geotiffoptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 
@@ -154,14 +154,14 @@ url: /ar/python-net/aspose.gis.formats.geotiff/geotiffdriver/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| المسار | string | المسار إلى الملف. |
+| path | string | المسار إلى الملف. |
 | options | [RasterDriverOptions](/psd/python-net/aspose.gis/rasterdriveroptions) | خيارات خاصة بالمشغل. |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | مثال على [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/). |
 

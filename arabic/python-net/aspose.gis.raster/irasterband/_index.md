@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.raster/irasterband/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | data_type | [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes) | r | يحصل على نوع القيم المخزنة في كل خلية. |
 

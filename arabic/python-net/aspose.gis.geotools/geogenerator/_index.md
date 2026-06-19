@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.geotools/geogenerator/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [produce_lines(rect, options)](#produce_lines_rect_options_1) | ينشئ عدّاد ILineString جديد بعدد معين من العناصر العشوائية، جميعها داخل مدى محدد. |
+| [produce_lines(rect, options)](#produce_lines_rect_options_1) | ينشئ عداد ILineString جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق محدد. |
 | [produce_points(rect, options)](#produce_points_rect_options_2) | ينشئ مصفوفة من النقاط التي تنتمي إلى المنطقة المحددة. |
-| [produce_polygons(rect, options)](#produce_polygons_rect_options_3) | ينشئ عدّاد IPolygon جديد بعدد معين من العناصر العشوائية، جميعها داخل مدى محدد. |
-| [produce_stars(rect, options)](#produce_stars_rect_options_4) | ينشئ مصفوفة من النجوم، جميعها داخل مدى محدد. |
+| [produce_polygons(rect, options)](#produce_polygons_rect_options_3) | ينشئ عداد IPolygon جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق محدد. |
+| [produce_stars(rect, options)](#produce_stars_rect_options_4) | ينشئ مصفوفة من النجوم، جميعها ضمن نطاق محدد. |
 
 
 ### Method: produce_lines(rect, options)  [static] {#produce_lines_rect_options_1}
@@ -29,18 +29,18 @@ url: /ar/python-net/aspose.gis.geotools/geogenerator/
  produce_lines(rect, options) 
 ```
 
-ينشئ عدّاد ILineString جديد بعدد معين من العناصر العشوائية، جميعها داخل مدى محدد.
+ينشئ عداد ILineString جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق محدد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | rect | [Extent](/psd/python-net/aspose.gis/extent) | المنطقة المحددة (انظر <see cref=\"T:Aspose.Gis.Extent\">Extent</see>) |
 | options | [LineGeneratorOptions](/psd/python-net/aspose.gis.geotools/linegeneratoroptions) | خيارات إنشاء الخط (انظر <see cref=\"T:Aspose.Gis.GeoTools.LineGeneratorOptions\">LineGeneratorOptions</see>) |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.ILineString> | مصفوفة من الخطوط (انظر تعداد <see cref=\"T:Aspose.Gis.Geometries.ILineString\">ILineString</see>) |
 
@@ -56,14 +56,14 @@ url: /ar/python-net/aspose.gis.geotools/geogenerator/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | rect | [Extent](/psd/python-net/aspose.gis/extent) | المنطقة المحددة (انظر <see cref=\"T:Aspose.Gis.Extent\">Extent</see>). |
 | options | [PointGeneratorOptions](/psd/python-net/aspose.gis.geotools/pointgeneratoroptions) | خيارات إنشاء النقطة (انظر <see cref=\"T:Aspose.Gis.GeoTools.PointGeneratorOptions\">PointGeneratorOptions</see>). |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | مصفوفة من النقاط (انظر تعداد <see cref=\"T:Aspose.Gis.Geometries.IGeometry\">IGeometry</see>). |
 
@@ -75,18 +75,18 @@ url: /ar/python-net/aspose.gis.geotools/geogenerator/
  produce_polygons(rect, options) 
 ```
 
-ينشئ عدّاد IPolygon جديد بعدد معين من العناصر العشوائية، جميعها داخل مدى محدد.
+ينشئ عداد IPolygon جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق محدد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | rect | [Extent](/psd/python-net/aspose.gis/extent) | المنطقة المحددة (انظر <see cref=\"T:Aspose.Gis.Extent\">Extent</see>) |
 | options | [PolygonGeneratorOptions](/psd/python-net/aspose.gis.geotools/polygongeneratoroptions) | خيارات إنشاء المضلع (انظر <see cref=\"T:Aspose.Gis.GeoTools.PolygonGeneratorOptions\">PolygonGeneratorOptions</see>) |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IPolygon> | مصفوفة من المضلعات (انظر تعداد <see cref="T:Aspose.Gis.Geometries.IPolygon">IPolygon</see>) |
 
@@ -98,18 +98,18 @@ url: /ar/python-net/aspose.gis.geotools/geogenerator/
  produce_stars(rect, options) 
 ```
 
-ينشئ مصفوفة من النجوم، جميعها داخل مدى محدد.
+ينشئ مصفوفة من النجوم، جميعها ضمن نطاق محدد.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | rect | [Extent](/psd/python-net/aspose.gis/extent) | المنطقة المحددة (انظر <see cref=\"T:Aspose.Gis.Extent\">Extent</see>) |
 | options | [StarGeneratorOptions](/psd/python-net/aspose.gis.geotools/stargeneratoroptions) | خيارات إنشاء المضلعات (انظر <see cref="T:Aspose.Gis.GeoTools.StarGeneratorOptions">StarGeneratorOptions</see>) |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IPolygon> | مصفوفة من النجوم (انظر تعداد <see cref="T:Aspose.Gis.Geometries.IPolygon">IPolygon</see>) |
 

@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/qixtree/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [nearest_candidate_to(point)](#nearest_candidate_to_point_1) |    |
 | [open(path)](#open_path_2) |    |
@@ -33,13 +33,13 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/qixtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | point | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | list[int] |  |
 
@@ -55,13 +55,13 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/qixtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [QixTree](/psd/python-net/aspose.gis.indexing.qixtree/qixtree) |  |
 
@@ -77,14 +77,14 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/qixtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | options | [QixTreeOptions](/psd/python-net/aspose.gis.indexing.qixtree/qixtreeoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [QixTree](/psd/python-net/aspose.gis.indexing.qixtree/qixtree) |  |
 
@@ -100,13 +100,13 @@ url: /ar/python-net/aspose.gis.indexing.qixtree/qixtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | search_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | list[int] |  |
 

@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktvalue/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | parent | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(wkt)](#create_wkt_1) |    |
 | [get_hash_code()](#get_hash_code__2) |    |
@@ -36,13 +36,13 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktvalue/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | wkt | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -58,7 +58,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktvalue/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -74,7 +74,7 @@ url: /ar/python-net/aspose.gis.common.formats.wkt/wktvalue/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 

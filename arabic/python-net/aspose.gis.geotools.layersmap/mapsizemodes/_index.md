@@ -14,8 +14,8 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/mapsizemodes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | AUTO | أحجام الخريطة التلقائية. |
 | CUSTOM | استخدم الأحجام من الخيارات [MapOptions.width](/psd/python-net/aspose.gis.geotools.layersmap/mapoptions/) و [MapOptions.height](/psd/python-net/aspose.gis.geotools.layersmap/mapoptions/). |
-| لا شيء | وضع حجم غير معروف. |
+| بدون | وضع حجم غير معروف. |

@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.rendering/capstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BUTT | حافة مربعة حادة. |
 | ROUND | حافة مستديرة. |

@@ -16,15 +16,15 @@ url: /ar/python-net/aspose.gis.rendering/rastermaplayer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RasterMapLayer(layer, colorizer, keep_open)](#RasterMapLayer_layer_colorizer_keep_open_1) | ينشئ نسخة جديدة. |
+| [RasterMapLayer(layer, colorizer, keep_open)](#RasterMapLayer_layer_colorizer_keep_open_1) | ينشئ مثلاً جديداً. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| colorizer | [RasterColorizer](/psd/python-net/aspose.gis.rendering.colorizers/rastercolorizer/) | r/w | Colorizer لاستخدامه في عرض خلايا raster. |
-| opacity | double | r/w | شفافية الطبقة. |
-| resampling | [RasterMapResampling](/psd/python-net/aspose.gis.rendering/rastermapresampling) | r/w | يحدد خيارات الالتواء للطبقة على الخريطة. |
+| colorizer | [RasterColorizer](/psd/python-net/aspose.gis.rendering.colorizers/rastercolorizer/) | r/w | مُلوّن لاستخدامه في عرض خلايا الصورة النقطية. |
+| opacity | double | قراءة/كتابة | شفافية الطبقة. |
+| resampling | [RasterMapResampling](/psd/python-net/aspose.gis.rendering/rastermapresampling) | r/w | يحدد خيارات التشويه للطبقة على الخريطة. |
 
 
 ### Constructor: RasterMapLayer(layer, colorizer, keep_open) {#RasterMapLayer_layer_colorizer_keep_open_1}
@@ -34,13 +34,13 @@ url: /ar/python-net/aspose.gis.rendering/rastermaplayer/
  RasterMapLayer(layer, colorizer, keep_open) 
 ```
 
-ينشئ نسخة جديدة.
+ينشئ مثلاً جديداً.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| layer | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | طبقة raster. |
-| colorizer | [RasterColorizer](/psd/python-net/aspose.gis.rendering.colorizers/rastercolorizer/) | Symbolizer لاستخدامه في عرض الطبقة. إذا كان <see langword=\"null\" />, سيتم استخدام الـ colorizer الافتراضي. |
-| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/)؛ وإلا، <see langword=\"false\" />. |
+| layer | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | طبقة نقطية. |
+| colorizer | [RasterColorizer](/psd/python-net/aspose.gis.rendering.colorizers/rastercolorizer/) | مُرمّز لاستخدامه في عرض الطبقة. إذا كان <see langword=\"null\" />، سيتم استخدام المُلوّن الافتراضي. |
+| keep_open | bool | <see langword=\"true\" /> لترك الطبقة مفتوحة بعد التخلص من كائن [VectorMapLayer](/psd/python-net/aspose.gis.rendering/vectormaplayer/); وإلا، <see langword=\"false\" />. |
 

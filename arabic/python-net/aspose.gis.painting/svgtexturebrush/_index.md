@@ -16,15 +16,15 @@ url: /ar/python-net/aspose.gis.painting/svgtexturebrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [SvgTextureBrush(url_pattern_id)](#SvgTextureBrush_url_pattern_id_1) | تهيئة نسخة جديدة من SvgTextureBrush فئة |
+| [SvgTextureBrush(url_pattern_id)](#SvgTextureBrush_url_pattern_id_1) | يقوم بإنشاء نسخة جديدة من الفئة SvgTextureBrush |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | url_pattern_id | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.painting/svgtexturebrush/
  SvgTextureBrush(url_pattern_id) 
 ```
 
-تهيئة نسخة جديدة من SvgTextureBrush فئة
+يقوم بإنشاء نسخة جديدة من الفئة SvgTextureBrush
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | url_pattern_id | string |  |
 
@@ -55,7 +55,7 @@ url: /ar/python-net/aspose.gis.painting/svgtexturebrush/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

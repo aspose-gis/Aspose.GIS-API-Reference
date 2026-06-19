@@ -16,17 +16,17 @@ url: /ar/python-net/aspose.gis.rendering.colorizers/multibandcolor/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MultiBandColor()](#MultiBandColor__1) | ينشئ مثلاً جديداً من الفئة [MultiBandColor](/psd/python-net/aspose.gis.rendering.colorizers/multibandcolor/). |
+| [MultiBandColor()](#MultiBandColor__1) | يُنشئ مثلاً جديداً من الفئة [MultiBandColor](/psd/python-net/aspose.gis.rendering.colorizers/multibandcolor/) |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | alpha_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن ألفا للراستر الخاص بنا. |
-| blue_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن أزرق للراستر الخاص بنا. |
-| green_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن أخضر للراستر الخاص بنا. |
-| null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | يقوم [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) بعدم رسم أي شيء ويتخطى فعليًا تصيير الخلايا التي يُطبق عليها. |
-| red_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن أحمر للراستر الخاص بنا. |
+| blue_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن الأزرق للراستر الخاص بنا. |
+| green_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن الأخضر للراستر الخاص بنا. |
+| null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | ال [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) لا يرسم شيئًا ويتخطى فعليًا عملية رسم الخلايا التي يُطبق عليها. |
+| red_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | يحدد المكوّن الأحمر للراستر الخاص بنا. |
 
 
 ### Constructor: MultiBandColor() {#MultiBandColor__1}
@@ -36,5 +36,5 @@ url: /ar/python-net/aspose.gis.rendering.colorizers/multibandcolor/
  MultiBandColor() 
 ```
 
-ينشئ مثلاً جديداً من الفئة [MultiBandColor](/psd/python-net/aspose.gis.rendering.colorizers/multibandcolor/).
+يُنشئ مثلاً جديداً من الفئة [MultiBandColor](/psd/python-net/aspose.gis.rendering.colorizers/multibandcolor/)
 

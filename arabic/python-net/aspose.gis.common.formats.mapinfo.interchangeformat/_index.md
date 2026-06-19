@@ -9,13 +9,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [MidReader](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/midreader/) |  |
 | [MifReader](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreader/) |  |
 | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken/) |  |
 | [MifTokenizer](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokenizer/) |  |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [MifTokenType](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokentype/) |  |

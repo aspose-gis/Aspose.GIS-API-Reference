@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.raster/rasterexpressioncontext/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RasterExpressionContext()](#RasterExpressionContext__1) | يُنشئ مثيلًا جديدًا من فئة RasterExpressionContext |
+| [RasterExpressionContext()](#RasterExpressionContext__1) | يُنشئ مثيلًا جديدًا من الفئة RasterExpressionContext |
 | [RasterExpressionContext(cell_x, cell_y)](#RasterExpressionContext_cell_x_cell_y_2) | إنشاء مثيل من [RasterExpressionContext](/psd/python-net/aspose.gis.raster/rasterexpressioncontext/) |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| cell_x | int | r | يحصل أو يضبط قيمة العمود (الإحداثي x). يبدأ الترقيم من 0. |
-| cell_y | int | r | يحصل أو يضبط قيمة الصف (الإحداثي y). يبدأ الترقيم من 0. |
+| cell_x | int | r | يحصل أو يضبط قيمة العمود (الإحداثي س). يبدأ الترقيم من 0. |
+| cell_y | int | r | يحصل أو يضبط قيمة الصف (الإحداثي ص). يبدأ الترقيم من 0. |
 
 
 ### Constructor: RasterExpressionContext() {#RasterExpressionContext__1}
@@ -32,7 +32,7 @@ url: /ar/python-net/aspose.gis.raster/rasterexpressioncontext/
  RasterExpressionContext() 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة RasterExpressionContext
+يُنشئ مثيلًا جديدًا من الفئة RasterExpressionContext
 
 ### Constructor: RasterExpressionContext(cell_x, cell_y) {#RasterExpressionContext_cell_x_cell_y_2}
 
@@ -45,8 +45,8 @@ url: /ar/python-net/aspose.gis.raster/rasterexpressioncontext/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| cell_x | int | قيمة العمود (الإحداثي x). |
-| cell_y | int | قيمة الصف (الإحداثي y). |
+| cell_x | int | قيمة العمود (الإحداثي س). |
+| cell_y | int | قيمة الصف (الإحداثي ص). |
 

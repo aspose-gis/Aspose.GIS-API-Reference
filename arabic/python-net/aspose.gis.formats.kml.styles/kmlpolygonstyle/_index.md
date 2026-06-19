@@ -16,16 +16,16 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlpolygonstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [KmlPolygonStyle()](#KmlPolygonStyle__1) | ينشئ مثيلاً جديدًا من فئة KmlPolygonStyle |
+| [KmlPolygonStyle()](#KmlPolygonStyle__1) | ينشئ مثلاً جديداً من فئة KmlPolygonStyle |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| اللون | System.Drawing.Color | r/w | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
-| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: normal. |
-| fill | bool | r/w | يحدد ما إذا كان يجب تعبئة المضلع. القيمة الافتراضية هي <see langword=\"true\" />. |
-| outline | bool | r/w | يحدد ما إذا كان يجب وضع حد للمضلع. القيمة الافتراضية هي <see langword=\"true\" />. |
+| اللون | System.Drawing.Color | قراءة/كتابة | يحدد لون العنصر الرسومي. القيمة الافتراضية . |
+| color_mode | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes) | r/w | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| fill | bool | قراءة/كتابة | يحدد ما إذا كان سيتم تعبئة المضلع. القيمة الافتراضية هي <see langword="true" />. |
+| outline | bool | قراءة/كتابة | يحدد ما إذا كان سيتم تحديد حدود المضلع. القيمة الافتراضية هي <see langword="true" />. |
 
 
 ### Constructor: KmlPolygonStyle() {#KmlPolygonStyle__1}
@@ -35,5 +35,5 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlpolygonstyle/
  KmlPolygonStyle() 
 ```
 
-ينشئ مثيلاً جديدًا من فئة KmlPolygonStyle
+ينشئ مثلاً جديداً من فئة KmlPolygonStyle
 

@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.formats.database.dataediting/databaseeditabledata
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [build()](#build__1) | يقوم بتهيئة وبناء [IDatabaseEditableDataSource](/psd/python-net/aspose.gis.formats.database.dataediting/idatabaseeditabledatasource/) |
 
@@ -30,7 +30,7 @@ url: /ar/python-net/aspose.gis.formats.database.dataediting/databaseeditabledata
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [IDatabaseEditableDataSource](/psd/python-net/aspose.gis.formats.database.dataediting/idatabaseeditabledatasource) | [IDatabaseEditableDataSource](/psd/python-net/aspose.gis.formats.database.dataediting/idatabaseeditabledatasource/) |
 

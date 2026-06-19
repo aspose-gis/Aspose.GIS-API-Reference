@@ -1,5 +1,5 @@
 ---
-title: "فئة StringOperations"
+title: "StringOperations فئة"
 type: docs
 weight: 870
 url: /ar/python-net/aspose.gis.common/stringoperations/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common/stringoperations/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_ascii(text)](#is_ascii_text_1) |    |
 | [matches(text, pattern, options)](#matches_text_pattern_options_2) |    |
@@ -31,13 +31,13 @@ url: /ar/python-net/aspose.gis.common/stringoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -53,7 +53,7 @@ url: /ar/python-net/aspose.gis.common/stringoperations/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | text | string |  |
 | النمط | string |  |
@@ -61,7 +61,7 @@ url: /ar/python-net/aspose.gis.common/stringoperations/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

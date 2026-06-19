@@ -16,29 +16,29 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbellipticarcsegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [GdbEllipticArcSegment()](#GdbEllipticArcSegment__1) | يُنشئ مثلاً جديداً من الفئة GdbEllipticArcSegment |
+| [GdbEllipticArcSegment()](#GdbEllipticArcSegment__1) | ينشئ مثيلاً جديدًا لفئة GdbEllipticArcSegment |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| زاوية | double | r/w |  |
-| angle_delta | double | r/w |  |
+| زاوية | double | قراءة/كتابة |  |
+| angle_delta | double | قراءة/كتابة |  |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
-| center_from | bool | r/w |  |
-| center_to | bool | r/w |  |
-| is_circular | bool | r/w |  |
-| is_complete | bool | r/w |  |
-| is_counter_clockwise | bool | r/w |  |
-| is_empty | bool | r/w |  |
-| is_line | bool | r/w |  |
-| is_minor | bool | r/w |  |
-| is_point | bool | r/w |  |
-| minor_major_ratio | double | r/w |  |
-| دوران | double | r/w |  |
+| center_from | bool | قراءة/كتابة |  |
+| center_to | bool | قراءة/كتابة |  |
+| is_circular | bool | قراءة/كتابة |  |
+| is_complete | bool | قراءة/كتابة |  |
+| is_counter_clockwise | bool | قراءة/كتابة |  |
+| is_empty | bool | قراءة/كتابة |  |
+| is_line | bool | قراءة/كتابة |  |
+| is_minor | bool | قراءة/كتابة |  |
+| is_point | bool | قراءة/كتابة |  |
+| minor_major_ratio | double | قراءة/كتابة |  |
+| دوران | double | قراءة/كتابة |  |
 | segment_type | [GdbCurveSegmentType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype) | r |    |
-| semi_major_radius | double | r/w |  |
-| start_point_index | int | r/w |  |
+| semi_major_radius | double | قراءة/كتابة |  |
+| start_point_index | int | قراءة/كتابة |  |
 
 
 ### Constructor: GdbEllipticArcSegment() {#GdbEllipticArcSegment__1}
@@ -48,5 +48,5 @@ url: /ar/python-net/aspose.gis.common.formats.gdbtable/gdbellipticarcsegment/
  GdbEllipticArcSegment() 
 ```
 
-يُنشئ مثلاً جديداً من الفئة GdbEllipticArcSegment
+ينشئ مثيلاً جديدًا لفئة GdbEllipticArcSegment
 

@@ -1,5 +1,5 @@
 ---
-title: "فئة RTree"
+title: "RTree فئة"
 type: docs
 weight: 10
 url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | is_new | bool | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | insert(data_extent, data_id) |  |
 | [nearest_candidate_to(point)](#nearest_candidate_to_point_1) |    |
@@ -40,13 +40,13 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | point | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | list[int] |  |
 
@@ -62,14 +62,14 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | filename | string |  |
 | options | [RTreeOptions](/psd/python-net/aspose.gis.indexing.rtree/rtreeoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RTree](/psd/python-net/aspose.gis.indexing.rtree/rtree) |  |
 
@@ -85,14 +85,14 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | max_values_per_node | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RTree](/psd/python-net/aspose.gis.indexing.rtree/rtree) |  |
 
@@ -108,14 +108,14 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | options | [RTreeOptions](/psd/python-net/aspose.gis.indexing.rtree/rtreeoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RTree](/psd/python-net/aspose.gis.indexing.rtree/rtree) |  |
 
@@ -131,13 +131,13 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | max_values_per_node | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [RTree](/psd/python-net/aspose.gis.indexing.rtree/rtree) |  |
 
@@ -153,13 +153,13 @@ url: /ar/python-net/aspose.gis.indexing.rtree/rtree/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | search_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | list[int] |  |
 

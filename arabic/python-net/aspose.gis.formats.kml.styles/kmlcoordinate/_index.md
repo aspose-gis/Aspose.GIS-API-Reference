@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.formats.kml.styles/kmlcoordinate/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [KmlCoordinate()](#KmlCoordinate__1) | ينشئ نسخة جديدة من فئة KmlCoordinate |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| x | double | r/w | المكوّن X للنقطة. القيمة الافتراضية هي 0.5. |
+| x | double | قراءة/كتابة | المكوّن X لنقطة. القيمة الافتراضية هي 0.5. |
 | x_units | [KmlUnits](/psd/python-net/aspose.gis.formats.kml.styles/kmlunits) | r/w | الوحدات التي تُحدد بها قيمة X. القيمة الافتراضية هي [KmlUnits.FRACTION](/psd/python-net/aspose.gis.formats.kml.styles/kmlunits/). |
-| y | double | r/w | المكوّن Y للنقطة. القيمة الافتراضية هي 0.5. |
+| y | double | قراءة/كتابة | المكوّن Y لنقطة. القيمة الافتراضية هي 0.5. |
 | y_units | [KmlUnits](/psd/python-net/aspose.gis.formats.kml.styles/kmlunits) | r/w | الوحدات التي تُحدد بها قيمة Y. القيمة الافتراضية هي [KmlUnits.FRACTION](/psd/python-net/aspose.gis.formats.kml.styles/kmlunits/). |
 
 

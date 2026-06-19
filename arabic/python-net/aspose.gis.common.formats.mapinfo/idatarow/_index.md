@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | fields_count | int | r |  |
 | row_number | int | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_null(field_index)](#is_null_field_index_1) |    |
 | [read_character(field_index)](#read_character_field_index_2) |    |
@@ -45,13 +45,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -67,13 +67,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | string |  |
 
@@ -89,13 +89,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | datetime |  |
 
@@ -111,13 +111,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | datetime |  |
 
@@ -133,13 +133,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -155,13 +155,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -177,13 +177,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -199,13 +199,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | long |  |
 
@@ -221,13 +221,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -243,13 +243,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | short |  |
 
@@ -265,13 +265,13 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | field_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | datetime |  |
 

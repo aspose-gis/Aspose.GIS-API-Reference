@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | big_endian [static] | [BinaryConverter](/psd/python-net/aspose.gis.common/binaryconverter) | r |    |
 | little_endian [static] | [BinaryConverter](/psd/python-net/aspose.gis.common/binaryconverter) | r |    |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_bytes(value)](#get_bytes_value_1) |    |
 | [get_bytes(value)](#get_bytes_value_2) |    |
@@ -55,13 +55,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | bool |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -77,13 +77,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | short |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -99,13 +99,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -121,13 +121,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | long |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -143,13 +143,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| القيمة | char |  |
+| القيمة | حرف |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -165,13 +165,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | ushort |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -187,13 +187,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | uint |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -209,13 +209,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | ulong |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -231,13 +231,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | float |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -253,13 +253,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | byte |  |
 
@@ -275,14 +275,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 
@@ -298,16 +298,16 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
-| char |  |
+| حرف |  |
 
 
 ### Method: to_double(value, start_index) {#to_double_value_start_index_13}
@@ -321,14 +321,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | double |  |
 
@@ -344,14 +344,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | short |  |
 
@@ -367,14 +367,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 
@@ -390,14 +390,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | long |  |
 
@@ -413,13 +413,13 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | sbyte |  |
 
@@ -435,14 +435,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | float |  |
 
@@ -458,14 +458,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | ushort |  |
 
@@ -481,14 +481,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | uint |  |
 
@@ -504,14 +504,14 @@ url: /ar/python-net/aspose.gis.common/binaryconverter/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | القيمة | byte |  |
 | start_index | int |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | ulong |  |
 

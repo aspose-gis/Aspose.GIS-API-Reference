@@ -14,34 +14,34 @@ url: /ar/python-net/aspose.gis.common/boundingbox/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [BoundingBox()](#BoundingBox__1) | يُنشئ مثيلًا جديدًا لفئة BoundingBox |
+| [BoundingBox()](#BoundingBox__1) | يُهيئ مثيلًا جديدًا من فئة BoundingBox |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) | r |    |
 | has_m | bool | r |  |
 | has_z | bool | r |  |
 | m_center | double | r |  |
 | m_length | double | r |  |
-| m_max | double | r/w |  |
-| m_min | double | r/w |  |
+| m_max | double | قراءة/كتابة |  |
+| m_min | double | قراءة/كتابة |  |
 | x_center | double | r |  |
 | x_length | double | r |  |
-| x_max | double | r/w |  |
-| x_min | double | r/w |  |
+| x_max | double | قراءة/كتابة |  |
+| x_min | double | قراءة/كتابة |  |
 | xy_center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | y_center | double | r |  |
 | y_length | double | r |  |
-| y_max | double | r/w |  |
-| y_min | double | r/w |  |
+| y_max | double | قراءة/كتابة |  |
+| y_min | double | قراءة/كتابة |  |
 | z_center | double | r |  |
 | z_length | double | r |  |
-| z_max | double | r/w |  |
-| z_min | double | r/w |  |
+| z_max | double | قراءة/كتابة |  |
+| z_min | double | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | clear() |  |
 | [clone()](#clone__1) | ينشئ كائنًا جديدًا يكون نسخة من المثيل الحالي. |
@@ -60,7 +60,7 @@ url: /ar/python-net/aspose.gis.common/boundingbox/
  BoundingBox() 
 ```
 
-يُنشئ مثيلًا جديدًا لفئة BoundingBox
+يُهيئ مثيلًا جديدًا من فئة BoundingBox
 
 ### Method: clone() {#clone__1}
 
@@ -73,7 +73,7 @@ url: /ar/python-net/aspose.gis.common/boundingbox/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) |  |
 
@@ -89,7 +89,7 @@ url: /ar/python-net/aspose.gis.common/boundingbox/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | bool |  |
 

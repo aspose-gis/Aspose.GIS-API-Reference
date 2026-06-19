@@ -16,11 +16,11 @@ url: /ar/python-net/aspose.gis.raster/rasterband/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [RasterBand(data_type)](#RasterBand_data_type_1) | إنشاء نسخة من [RasterBand](/psd/python-net/aspose.gis.raster/rasterband/). |
+| [RasterBand(data_type)](#RasterBand_data_type_1) | إنشاء مثال من [RasterBand](/psd/python-net/aspose.gis.raster/rasterband/). |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | data_type | [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes) | r | يحصل على نوع القيم المخزنة في كل خلية. |
 
@@ -32,11 +32,11 @@ url: /ar/python-net/aspose.gis.raster/rasterband/
  RasterBand(data_type) 
 ```
 
-إنشاء نسخة من [RasterBand](/psd/python-net/aspose.gis.raster/rasterband/).
+إنشاء مثال من [RasterBand](/psd/python-net/aspose.gis.raster/rasterband/).
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
-| data_type | [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes) | يحدد نوع وحجم القيم المخزنة في كل بكسل أو خلية. |
+| data_type | [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes) | يحدد النوع والحجم للقيم المخزنة في كل بكسل أو خلية. |
 

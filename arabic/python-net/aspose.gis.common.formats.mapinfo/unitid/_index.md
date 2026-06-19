@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/unitid/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | CENTIMETER |  |
 | CHAIN |  |
@@ -27,8 +27,8 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/unitid/
 | متر |  |
 | ميل |  |
 | ملليمتر |  |
-| ميل_بحري |  |
+| ميل بحري |  |
 | قضيب |  |
 | غير معروف |  |
-| قدم_المسح_الأمريكي |  |
+| قدم مسح أمريكي |  |
 | يارد |  |

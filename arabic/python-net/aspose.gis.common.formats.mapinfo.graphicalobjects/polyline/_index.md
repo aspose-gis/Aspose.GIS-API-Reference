@@ -16,18 +16,18 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/polyline/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Polyline()](#Polyline__1) | ينشئ مثيلًا جديدًا من فئة Polyline |
+| [Polyline()](#Polyline__1) | يُنشئ مثلاً جديدًا من فئة Polyline |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
-| الخطوط | System.Collections.Generic.List<System.Collections.Generic.List<Coordinate>> | r/w |  |
-| قلم | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
-| ناعم | bool | r/w |  |
+| الخطوط | System.Collections.Generic.List<System.Collections.Generic.List<Coordinate>> | قراءة/كتابة |  |
+| pen | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | قراءة/كتابة |  |
+| سلس | bool | قراءة/كتابة |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -39,7 +39,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/polyline/
  Polyline() 
 ```
 
-ينشئ مثيلًا جديدًا من فئة Polyline
+يُنشئ مثلاً جديدًا من فئة Polyline
 
 ### Method: get_hash_code() {#get_hash_code__1}
 
@@ -52,7 +52,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/polyline/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | int |  |
 

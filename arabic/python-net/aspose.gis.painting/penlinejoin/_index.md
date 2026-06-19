@@ -1,5 +1,5 @@
 ---
-title: "تعداد PenLineJoin"
+title: "PenLineJoin تعداد"
 type: docs
 weight: 230
 url: /ar/python-net/aspose.gis.painting/penlinejoin/
@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.painting/penlinejoin/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **اسم العضو** | **الوصف** |
+| **اسم العضو** | **Description** |
 | :- | :- |
 | BEVEL |  |
 | MITER |  |

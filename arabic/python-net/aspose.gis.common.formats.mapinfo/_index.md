@@ -9,7 +9,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/
 
 
 ## **Classes**
-| **الفئة** | **الوصف** |
+| **Class** | **Description** |
 | :- | :- |
 | [Column](/psd/python-net/aspose.gis.common.formats.mapinfo/column/) |  |
 | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem/) |  |
@@ -20,7 +20,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo/
 | [MapInfoException](/psd/python-net/aspose.gis.common.formats.mapinfo/mapinfoexception/) |  |
 | [MapInfoSizes](/psd/python-net/aspose.gis.common.formats.mapinfo/mapinfosizes/) |  |
 ## **Enumerations**
-| **التعداد** | **الوصف** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [ColumnType](/psd/python-net/aspose.gis.common.formats.mapinfo/columntype/) |  |
 | [UnitId](/psd/python-net/aspose.gis.common.formats.mapinfo/unitid/) |  |

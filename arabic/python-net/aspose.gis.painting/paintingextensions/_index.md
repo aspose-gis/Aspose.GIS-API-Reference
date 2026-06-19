@@ -14,7 +14,7 @@ url: /ar/python-net/aspose.gis.painting/paintingextensions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [customize_background_to_white(options)](#customize_background_to_white_options_1) |    |
 
@@ -30,13 +30,13 @@ url: /ar/python-net/aspose.gis.painting/paintingextensions/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | options | [PaintEngineOptions](/psd/python-net/aspose.gis.painting/paintengineoptions) |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PaintEngineOptions](/psd/python-net/aspose.gis.painting/paintengineoptions) |  |
 

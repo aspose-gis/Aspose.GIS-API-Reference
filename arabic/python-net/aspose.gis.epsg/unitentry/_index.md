@@ -1,5 +1,5 @@
 ---
-title: "الفئة UnitEntry"
+title: "فئة UnitEntry"
 type: docs
 weight: 120
 url: /ar/python-net/aspose.gis.epsg/unitentry/
@@ -14,17 +14,17 @@ url: /ar/python-net/aspose.gis.epsg/unitentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [UnitEntry()](#UnitEntry__1) | ينشئ مثيلاً جديدًا للفئة UnitEntry |
-| [UnitEntry(name, factor)](#UnitEntry_name_factor_2) | ينشئ مثيلاً جديدًا للفئة UnitEntry |
+| [UnitEntry()](#UnitEntry__1) | ينشئ مثلاً جديداً من فئة UnitEntry |
+| [UnitEntry(name, factor)](#UnitEntry_name_factor_2) | ينشئ مثلاً جديداً من فئة UnitEntry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | عامل | double | r |  |
 | الاسم | string | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, factor)](#create_name_factor_1) |    |
 
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.epsg/unitentry/
  UnitEntry() 
 ```
 
-ينشئ مثيلاً جديدًا للفئة UnitEntry
+ينشئ مثلاً جديداً من فئة UnitEntry
 
 ### Constructor: UnitEntry(name, factor) {#UnitEntry_name_factor_2}
 
@@ -45,11 +45,11 @@ url: /ar/python-net/aspose.gis.epsg/unitentry/
  UnitEntry(name, factor) 
 ```
 
-ينشئ مثيلاً جديدًا للفئة UnitEntry
+ينشئ مثلاً جديداً من فئة UnitEntry
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 | عامل | double |  |
@@ -65,14 +65,14 @@ url: /ar/python-net/aspose.gis.epsg/unitentry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الاسم | string |  |
 | عامل | double |  |
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [UnitEntry](/psd/python-net/aspose.gis.epsg/unitentry) |  |
 

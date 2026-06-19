@@ -1,5 +1,5 @@
 ---
-title: "الفئة ToWgs84Entry"
+title: "فئة ToWgs84Entry"
 type: docs
 weight: 110
 url: /ar/python-net/aspose.gis.epsg/towgs84entry/
@@ -14,11 +14,11 @@ url: /ar/python-net/aspose.gis.epsg/towgs84entry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [ToWgs84Entry()](#ToWgs84Entry__1) | ينشئ مثيلاً جديدًا للفئة ToWgs84Entry |
+| [ToWgs84Entry()](#ToWgs84Entry__1) | ينشئ مثلاً جديداً من فئة ToWgs84Entry |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | dx | float | r |  |
 | dy | float | r |  |
@@ -28,7 +28,7 @@ url: /ar/python-net/aspose.gis.epsg/towgs84entry/
 | rz | float | r |  |
 | المقياس | float | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(dx, dy, dz, rx, ry, rz, scale)](#create_dx_dy_dz_rx_ry_rz_scale_1) |    |
 
@@ -40,7 +40,7 @@ url: /ar/python-net/aspose.gis.epsg/towgs84entry/
  ToWgs84Entry() 
 ```
 
-ينشئ مثيلاً جديدًا للفئة ToWgs84Entry
+ينشئ مثلاً جديداً من فئة ToWgs84Entry
 
 ### Method: create(dx, dy, dz, rx, ry, rz, scale)  [static] {#create_dx_dy_dz_rx_ry_rz_scale_1}
 
@@ -53,7 +53,7 @@ url: /ar/python-net/aspose.gis.epsg/towgs84entry/
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | dx | float |  |
 | dy | float |  |
@@ -65,7 +65,7 @@ url: /ar/python-net/aspose.gis.epsg/towgs84entry/
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [ToWgs84Entry](/psd/python-net/aspose.gis.epsg/towgs84entry) |  |
 

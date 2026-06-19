@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.rendering.colorizers/bandcolor/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [BandColor()](#BandColor__1) | ينشئ مثلاً جديداً من الفئة [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor/). |
+| [BandColor()](#BandColor__1) | يُنشئ مثلاً جديداً من الفئة [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor/) |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| band_index | int | r/w | يحدد فهرس النطاق. يبدأ الترقيم من 0. |
-| max | double | r/w | يحدد القيمة القصوى. |
-| min | double | r/w | يحدد القيمة الدنيا. |
+| band_index | int | قراءة/كتابة | يحدد فهرس النطاق. يبدأ الترقيم من 0. |
+| max | double | قراءة/كتابة | يحدد القيمة القصوى. |
+| min | double | قراءة/كتابة | يحدد القيمة الدنيا. |
 
 
 ### Constructor: BandColor() {#BandColor__1}
@@ -32,5 +32,5 @@ url: /ar/python-net/aspose.gis.rendering.colorizers/bandcolor/
  BandColor() 
 ```
 
-ينشئ مثلاً جديداً من الفئة [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor/).
+يُنشئ مثلاً جديداً من الفئة [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor/)
 

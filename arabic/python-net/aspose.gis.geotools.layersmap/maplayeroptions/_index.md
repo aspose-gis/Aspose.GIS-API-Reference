@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/maplayeroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapLayerOptions()](#MapLayerOptions__1) | ينشئ مثلاً جديداً من فئة MapLayerOptions |
+| [MapLayerOptions()](#MapLayerOptions__1) | يُنشئ نسخة جديدة من فئة MapLayerOptions |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling/) | r/w | وضع العلامات للميزات. القيمة الافتراضية هي null. |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | r/w | طبقة متجهة. |
-| layer_spatial_ref_sys | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | يحدد قيمة للمرجع المكاني للطبقة. |
+| layer_spatial_ref_sys | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | يحدد قيمة للإشارة المكانية للطبقة. |
 | symbolyzer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | r/w | مُرمّز المتجهات. |
 
 
@@ -33,5 +33,5 @@ url: /ar/python-net/aspose.gis.geotools.layersmap/maplayeroptions/
  MapLayerOptions() 
 ```
 
-ينشئ مثلاً جديداً من فئة MapLayerOptions
+يُنشئ نسخة جديدة من فئة MapLayerOptions
 

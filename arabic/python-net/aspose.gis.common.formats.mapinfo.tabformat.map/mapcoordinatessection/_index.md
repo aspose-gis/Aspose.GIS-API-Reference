@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapcoordinat
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [MapCoordinatesSection()](#MapCoordinatesSection__1) | يقوم بإنشاء نسخة جديدة من فئة MapCoordinatesSection |
-| [MapCoordinatesSection(coordinates_count, holes_count)](#MapCoordinatesSection_coordinates_count_holes_count_2) | يقوم بإنشاء نسخة جديدة من فئة MapCoordinatesSection |
+| [MapCoordinatesSection()](#MapCoordinatesSection__1) | يقوم بإنشاء نسخة جديدة من الفئة MapCoordinatesSection |
+| [MapCoordinatesSection(coordinates_count, holes_count)](#MapCoordinatesSection_coordinates_count_holes_count_2) | يقوم بإنشاء نسخة جديدة من الفئة MapCoordinatesSection |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinates_count | int | r |  |
 | holes_count | int | r |  |
@@ -32,7 +32,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapcoordinat
  MapCoordinatesSection() 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة MapCoordinatesSection
+يقوم بإنشاء نسخة جديدة من الفئة MapCoordinatesSection
 
 ### Constructor: MapCoordinatesSection(coordinates_count, holes_count) {#MapCoordinatesSection_coordinates_count_holes_count_2}
 
@@ -41,11 +41,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapcoordinat
  MapCoordinatesSection(coordinates_count, holes_count) 
 ```
 
-يقوم بإنشاء نسخة جديدة من فئة MapCoordinatesSection
+يقوم بإنشاء نسخة جديدة من الفئة MapCoordinatesSection
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | coordinates_count | int |  |
 | holes_count | int |  |

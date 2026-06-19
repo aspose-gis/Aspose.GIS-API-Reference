@@ -14,12 +14,12 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/brush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [Brush()](#Brush__1) | يُنشئ نسخة جديدة من الفئة Brush |
-| [Brush(pattern, fore_color, back_color)](#Brush_pattern_fore_color_back_color_2) | يُنشئ نسخة جديدة من الفئة Brush |
+| [Brush()](#Brush__1) | يُهيئ نسخة جديدة من فئة Brush |
+| [Brush(pattern, fore_color, back_color)](#Brush_pattern_fore_color_back_color_2) | يُهيئ نسخة جديدة من فئة Brush |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | back_color | Nullable<Color> | r |  |
 | fore_color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) | r |    |
@@ -33,7 +33,7 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/brush/
  Brush() 
 ```
 
-يُنشئ نسخة جديدة من الفئة Brush
+يُهيئ نسخة جديدة من فئة Brush
 
 ### Constructor: Brush(pattern, fore_color, back_color) {#Brush_pattern_fore_color_back_color_2}
 
@@ -42,11 +42,11 @@ url: /ar/python-net/aspose.gis.common.formats.mapinfo.styling/brush/
  Brush(pattern, fore_color, back_color) 
 ```
 
-يُنشئ نسخة جديدة من الفئة Brush
+يُهيئ نسخة جديدة من فئة Brush
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | النمط | int |  |
 | fore_color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) |  |

@@ -14,15 +14,15 @@ url: /ar/python-net/aspose.gis.painting/polylinesshape/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PolylinesShape()](#PolylinesShape__1) | يُنشئ مثيلاً جديدًا من فئة PolylinesShape |
+| [PolylinesShape()](#PolylinesShape__1) | ينشئ مثلاً جديداً من فئة PolylinesShape |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| polylines | System.Collections.Generic.IReadOnlyList<System.Collections.Generic.IReadOnlyList<Aspose.Gis.Common.Coordinate>> | r |  |
+| متعدد الخطوط | System.Collections.Generic.IReadOnlyList<System.Collections.Generic.IReadOnlyList<Aspose.Gis.Common.Coordinate>> | r |  |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
 | add_polyline(coordinates) |  |
 | add_rectangle(rectangle) |  |
@@ -35,5 +35,5 @@ url: /ar/python-net/aspose.gis.painting/polylinesshape/
  PolylinesShape() 
 ```
 
-يُنشئ مثيلاً جديدًا من فئة PolylinesShape
+ينشئ مثلاً جديداً من فئة PolylinesShape
 

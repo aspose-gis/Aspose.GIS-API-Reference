@@ -14,19 +14,19 @@ url: /ar/python-net/aspose.gis.geotools/pointgeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [PointGeneratorOptions()](#PointGeneratorOptions__1) | إنشاء مثيل باستخدام الخيارات الافتراضية. |
+| [PointGeneratorOptions()](#PointGeneratorOptions__1) | إنشاء نسخة باستخدام الخيارات الافتراضية. |
 ## **Properties**
-| **Name** | **Type** | **Access** | **الوصف** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| عدد | int | r/w | عدد النقاط التي سيتم إنشاؤها. |
-| place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | وضعية التوزيع في الخلايا المُولدة. |
-| seed | int | r/w | رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة. |
+| العدد | int | قراءة/كتابة | عدد النقاط لإنشائها. |
+| place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | وضع التوضع في الخلايا المُولدة. |
+| seed | int | قراءة/كتابة | رقم يُستخدم لحساب قيمة البذرة لتسلسل من الأعداد العشوائية الزائفة. |
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | استنساخ الكائن إلى آخر. |
+| [clone()](#clone__1) | استنساخ الكائن إلى كائن آخر. |
 
 
 ### Constructor: PointGeneratorOptions() {#PointGeneratorOptions__1}
@@ -36,7 +36,7 @@ url: /ar/python-net/aspose.gis.geotools/pointgeneratoroptions/
  PointGeneratorOptions() 
 ```
 
-إنشاء مثيل باستخدام الخيارات الافتراضية.
+إنشاء نسخة باستخدام الخيارات الافتراضية.
 
 ### Method: clone() {#clone__1}
 
@@ -45,11 +45,11 @@ url: /ar/python-net/aspose.gis.geotools/pointgeneratoroptions/
  clone() 
 ```
 
-استنساخ الكائن إلى آخر.
+استنساخ الكائن إلى كائن آخر.
 
 **Returns**
 
-| نوع | الوصف |
+| نوع | وصف |
 | :- | :- |
 | [PointGeneratorOptions](/psd/python-net/aspose.gis.geotools/pointgeneratoroptions) | استنساخ الكائن إلى آخر [PointGeneratorOptions](/psd/python-net/aspose.gis.geotools/pointgeneratoroptions/). |
 

@@ -14,9 +14,9 @@ url: /ar/python-net/aspose.gis/iattributesconverter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [modify_attribute(attribute, actions)](#modify_attribute_attribute_actions_1) | يضبط [FeatureAttribute](/psd/python-net/aspose.gis/featureattribute/) حسب الحاجة للطبقة الهدف. |
+| [modify_attribute(attribute, actions)](#modify_attribute_attribute_actions_1) | يضبط [FeatureAttribute](/psd/python-net/aspose.gis/featureattribute/) حسب الحاجة للطبقة المستهدفة. |
 
 
 ### Method: modify_attribute(attribute, actions) {#modify_attribute_attribute_actions_1}
@@ -26,11 +26,11 @@ url: /ar/python-net/aspose.gis/iattributesconverter/
  modify_attribute(attribute, actions) 
 ```
 
-يضبط [FeatureAttribute](/psd/python-net/aspose.gis/featureattribute/) حسب الحاجة للطبقة الهدف.
+يضبط [FeatureAttribute](/psd/python-net/aspose.gis/featureattribute/) حسب الحاجة للطبقة المستهدفة.
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | attribute | [FeatureAttribute](/psd/python-net/aspose.gis/featureattribute) | نسخة من سمة الطبقة المصدر. |
 | actions | [AttributesConverterActions](/psd/python-net/aspose.gis/attributesconverteractions) | يحدد الإجراءات الاختيارية مع سمات الطبقة الوجهة.<br/>            على سبيل المثال، يسمح لنا باستبعاد السمة الخاصة بنا. |

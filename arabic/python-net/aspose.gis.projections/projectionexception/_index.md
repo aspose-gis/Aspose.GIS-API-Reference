@@ -1,5 +1,5 @@
 ---
-title: "فئة ProjectionException"
+title: "ProjectionException فئة"
 type: docs
 weight: 30
 url: /ar/python-net/aspose.gis.projections/projectionexception/
@@ -14,10 +14,10 @@ url: /ar/python-net/aspose.gis.projections/projectionexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **الوصف** |
+| **Name** | **Description** |
 | :- | :- |
-| [ProjectionException()](#ProjectionException__1) | يُنشئ مثيلًا جديدًا من فئة ProjectionException |
-| [ProjectionException(message)](#ProjectionException_message_2) | يُنشئ مثيلًا جديدًا من فئة ProjectionException |
+| [ProjectionException()](#ProjectionException__1) | يقوم بإنشاء نسخة جديدة من الفئة ProjectionException |
+| [ProjectionException(message)](#ProjectionException_message_2) | يقوم بإنشاء نسخة جديدة من الفئة ProjectionException |
 
 
 ### Constructor: ProjectionException() {#ProjectionException__1}
@@ -27,7 +27,7 @@ url: /ar/python-net/aspose.gis.projections/projectionexception/
  ProjectionException() 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة ProjectionException
+يقوم بإنشاء نسخة جديدة من الفئة ProjectionException
 
 ### Constructor: ProjectionException(message) {#ProjectionException_message_2}
 
@@ -36,11 +36,11 @@ url: /ar/python-net/aspose.gis.projections/projectionexception/
  ProjectionException(message) 
 ```
 
-يُنشئ مثيلًا جديدًا من فئة ProjectionException
+يقوم بإنشاء نسخة جديدة من الفئة ProjectionException
 
 **Parameters:**
 
-| معامل | نوع | الوصف |
+| معامل | نوع | وصف |
 | :- | :- | :- |
 | الرسالة | string |  |
 
