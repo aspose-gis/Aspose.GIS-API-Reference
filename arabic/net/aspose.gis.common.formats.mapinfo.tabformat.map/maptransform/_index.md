@@ -1,5 +1,5 @@
 ---
-title: "فئة MapTransform"
+title: "الفئة MapTransform"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Common.Formats.MapInfo.TabFormat.Map.MapTransform فئة."
 type: docs
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform/
 public class MapTransform
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

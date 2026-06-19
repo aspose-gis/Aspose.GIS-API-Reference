@@ -1,7 +1,7 @@
 ---
 title: "CompoundSpatialReferenceSystem.IsEquivalent"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CompoundSpatialReferenceSystem. يكتشف ما إذا كان هذا النظام المرجعي المكاني مكافئًا لنظام مرجعي مكاني آخر."
+description: "طريقة CompoundSpatialReferenceSystem. يكتشف ما إذا كان هذا SRS مكافئًا لـ SRS آخر."
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/isequivalent/
@@ -20,7 +20,7 @@ public override bool IsEquivalent(SpatialReferenceSystem other)
 
 ### قيمة الإرجاع
 
-قيمة bool، تُشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
+قيمة من نوع bool، تشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
 ### انظر أيضًا
 

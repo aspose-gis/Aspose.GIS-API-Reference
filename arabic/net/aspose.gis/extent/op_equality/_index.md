@@ -1,14 +1,14 @@
 ---
 title: "Extent.op_Equality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Extent. تنفّذ عامل عدم المساواة."
+description: "طريقة Extent. تنفذ العامل."
 type: docs
 weight: 230
 url: /ar/net/aspose.gis/extent/op_equality/
 ---
 ## Extent Equality operator
 
-ينفّذ العامل '=='.
+ينفّذ العامل '==' .
 
 ```csharp
 public static bool operator ==(Extent left, Extent right)
@@ -16,8 +16,8 @@ public static bool operator ==(Extent left, Extent right)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| اليسار | مدى | المعامل الأول. |
-| اليمين | مدى | المعامل الثاني. |
+| اليسار | مدى | الوسيط الأول. |
+| اليمين | مدى | الوسيط الثاني. |
 
 ### قيمة الإرجاع
 

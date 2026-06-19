@@ -1,7 +1,7 @@
 ---
-title: "تعداد KmlColorModes"
+title: "Enum KmlColorModes"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "تعداد Aspose.Gis.Formats.Kml.Styles.KmlColorModes. يحدد وضع اللون لعنصر رسومي"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlColorModes enum. يحدد وضع اللون لعنصر رسومي"
 type: docs
 weight: 2080
 url: /ar/net/aspose.gis.formats.kml.styles/kmlcolormodes/

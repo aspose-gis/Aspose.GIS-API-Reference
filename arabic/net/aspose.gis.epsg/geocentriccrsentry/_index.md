@@ -1,7 +1,7 @@
 ---
 title: "الفئة GeocentricCrsEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Epsg.GeocentricCrsEntry فئة."
+description: "فئة Aspose.Gis.Epsg.GeocentricCrsEntry."
 type: docs
 weight: 1500
 url: /ar/net/aspose.gis.epsg/geocentriccrsentry/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.epsg/geocentriccrsentry/
 public class GeocentricCrsEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GeocentricCrsEntry](geocentriccrsentry/)() | المُنشئ الافتراضي. |
+| [GeocentricCrsEntry](geocentriccrsentry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

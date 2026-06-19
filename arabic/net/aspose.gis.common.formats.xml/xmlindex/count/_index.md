@@ -1,7 +1,7 @@
 ---
 title: "XmlIndex.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlIndex property."
+description: "XmlIndex خاصية."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.xml/xmlindex/count/

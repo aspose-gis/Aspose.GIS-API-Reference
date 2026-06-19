@@ -1,7 +1,7 @@
 ---
 title: "Curve.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Curve. تحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي."
+description: "طريقة Curve. يحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geometries/curve/toeditable/
@@ -16,7 +16,7 @@ public Curve ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

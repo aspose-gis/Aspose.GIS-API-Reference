@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling/placedlabel/
 public class PlacedLabel
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

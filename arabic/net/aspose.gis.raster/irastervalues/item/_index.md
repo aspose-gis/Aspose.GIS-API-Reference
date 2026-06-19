@@ -1,14 +1,14 @@
 ---
 title: "IRasterValues.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية IRasterValues. تحصل على قيمة النطاق كنوع double"
+description: "خاصية IRasterValues. تحصل على قيمة النطاق كنوع مزدوج"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/irastervalues/item/
 ---
 ## IRasterValues indexer
 
-يحصل على قيمة الشريط كنوع `double`.
+يسترجع قيمة النطاق كنوع `double`.
 
 ```csharp
 public double this[int bandIndex] { get; }
@@ -24,7 +24,7 @@ public double this[int bandIndex] { get; }
 
 ## ملاحظات
 
-إذا كان نوع النطاق هو RawBits فكر في استخدام طريقة [`AsRawBits`](../asrawbits/) لتجنب الاستثناءات.
+إذا كان نوع النطاق RawBits، فكر في استخدام طريقة [`AsRawBits`](../asrawbits/) لتجنب الاستثناءات.
 
 ### انظر أيضًا
 

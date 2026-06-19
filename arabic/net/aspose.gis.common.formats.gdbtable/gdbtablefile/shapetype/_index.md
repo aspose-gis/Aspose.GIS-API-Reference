@@ -1,7 +1,7 @@
 ---
 title: "GdbTableFile.ShapeType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "GdbTableFile خاصية."
+description: "GdbTableFile property."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbtablefile/shapetype/

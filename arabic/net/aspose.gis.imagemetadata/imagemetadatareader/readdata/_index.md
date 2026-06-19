@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.ReadData"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. تستخرج جميع علامات EXIF المدعومة"
+description: "طريقة ImageMetadataReader. تستخرج جميع وسوم EXIF المدعومة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/readdata/
@@ -16,7 +16,7 @@ public ImageData ReadData()
 
 ### قيمة الإرجاع
 
-ImageData التي تمثل مجموعة العلامات المدعومة
+ImageData التي تمثل مجموعة الوسوم المدعومة
 
 ### انظر أيضًا
 

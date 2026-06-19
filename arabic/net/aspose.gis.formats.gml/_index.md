@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.Gml"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الأسماء Aspose.Gis.Formats.Gml توفر فئات للعمل مع تنسيق GML"
+description: "مساحة الاسم Aspose.Gis.Formats.Gml توفر فئات للعمل مع تنسيق GML"
 type: docs
 weight: 300
 url: /ar/net/aspose.gis.formats.gml/

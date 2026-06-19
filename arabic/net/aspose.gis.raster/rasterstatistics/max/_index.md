@@ -1,7 +1,7 @@
 ---
 title: "RasterStatistics.Max"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterStatistics. القيمة القصوى للخلايا أو قيم البكسل التي تم عدّها"
+description: "خاصية RasterStatistics. القيمة القصوى للخلايا أو قيم البكسل المُحصاة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/rasterstatistics/max/

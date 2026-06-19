@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabelPosition.Rotation"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabelPosition."
+description: "SimpleLabelPosition خاصية."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.labeling/simplelabelposition/rotation/

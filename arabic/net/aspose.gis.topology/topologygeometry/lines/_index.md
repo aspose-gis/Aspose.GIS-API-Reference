@@ -1,7 +1,7 @@
 ---
 title: "TopologyGeometry.Lines"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية TopologyGeometry."
+description: "TopologyGeometry خاصية."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.topology/topologygeometry/lines/

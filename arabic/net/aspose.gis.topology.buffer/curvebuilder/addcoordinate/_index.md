@@ -1,7 +1,7 @@
 ---
 title: "CurveBuilder.AddCoordinate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CurveBuilder طريقة."
+description: "طريقة CurveBuilder."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.topology.buffer/curvebuilder/addcoordinate/

@@ -1,14 +1,14 @@
 ---
 title: "NumericFormat.RoundTrip"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية NumericFormat. تقوم بتحويل ومحاولة ضمان أن القيمة الرقمية التي تم تحويلها إلى سلسلة يتم تحليلها مرة أخرى إلى نفس القيمة الرقمية"
+description: "خاصية NumericFormat. يحول ويحاول التأكد من أن القيمة الرقمية التي تم تحويلها إلى سلسلة يتم تحليلها مرة أخرى إلى نفس القيمة الرقمية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/numericformat/roundtrip/
 ---
 ## NumericFormat.RoundTrip property
 
-يحول ويحاول التأكد من أن القيمة الرقمية التي تم تحويلها إلى سلسلة يتم تحليلها مرة أخرى إلى نفس القيمة الرقمية.
+يحول ويحاول التأكد من أن القيمة العددية التي تم تحويلها إلى سلسلة تُعاد تحليلها إلى نفس القيمة العددية.
 
 ```csharp
 public static NumericFormat RoundTrip { get; }

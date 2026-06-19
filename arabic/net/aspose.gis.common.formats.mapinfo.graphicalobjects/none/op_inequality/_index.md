@@ -1,7 +1,7 @@
 ---
 title: "None.op_Inequality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "None الطريقة."
+description: "None طريقة."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/none/op_inequality/

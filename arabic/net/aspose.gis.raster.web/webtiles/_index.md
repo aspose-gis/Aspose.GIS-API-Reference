@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster.web/webtiles/
 ---
 ## WebTiles class
 
-يوفر الوصول إلى تجزئات الويب.
+يوفر الوصول إلى بلاط الويب.
 
 ```csharp
 public abstract class WebTiles : IDisposable
@@ -18,7 +18,7 @@ public abstract class WebTiles : IDisposable
 
 | الاسم | الوصف |
 | --- | --- |
-| abstract [Dispose](../../aspose.gis.raster.web/webtiles/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المُدارة. |
+| abstract [Dispose](../../aspose.gis.raster.web/webtiles/dispose/)() | ينفذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
 
 ### انظر أيضًا
 

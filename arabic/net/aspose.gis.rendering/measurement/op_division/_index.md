@@ -1,7 +1,7 @@
 ---
 title: "Measurement.op_Division"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة القياس. قسّ القياس على العامل."
+description: "طريقة القياس. قس القياس على العامل"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.rendering/measurement/op_division/
@@ -16,8 +16,8 @@ public static Measurement operator /(Measurement measurement, double factor)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قياس | القياس | القياس للضرب. |
-| عامل | Double | العامل للقسمة عليه. |
+| measurement | القياس | القياس للضرب. |
+| factor | Double | العامل الذي يتم القسمة عليه. |
 
 ### قيمة الإرجاع
 

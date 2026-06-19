@@ -1,14 +1,14 @@
 ---
 title: "SpatialReferenceSystem.AsCompound"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SpatialReferenceSystem. تُعيد هذا الـ SRS محوّلاً إلى CompoundSpatialReferenceSystem. استخدم IsCompound لمعرفة ما إذا كان التحويل ممكنًا."
+description: "خاصية SpatialReferenceSystem. تُعيد هذا الـ SRS محوَّلًا إلى CompoundSpatialReferenceSystem. استخدم IsCompound لمعرفة ما إذا كان التحويل ممكنًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/ascompound/
 ---
 ## SpatialReferenceSystem.AsCompound property
 
-تُعيد هذا الـ SRS محوّلاً إلى [`CompoundSpatialReferenceSystem`](../../compoundspatialreferencesystem/). استخدم [`IsCompound`](../iscompound/) لمعرفة ما إذا كان التحويل ممكنًا.
+يعيد هذا الـ SRS محوَّلًا إلى [`CompoundSpatialReferenceSystem`](../../compoundspatialreferencesystem/). استخدم [`IsCompound`](../iscompound/) لمعرفة ما إذا كان التحويل ممكنًا.
 
 ```csharp
 public virtual CompoundSpatialReferenceSystem AsCompound { get; }

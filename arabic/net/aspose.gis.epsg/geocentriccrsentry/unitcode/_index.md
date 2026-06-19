@@ -1,5 +1,5 @@
 ---
-title: "GeocentricCrsEntry.رمز_الوحدة"
+title: "GeocentricCrsEntry.UnitCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "GeocentricCrsEntry خاصية."
 type: docs

@@ -1,7 +1,7 @@
 ---
 title: "PainterPen.Width"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PainterPen خاصية."
+description: "خاصية PainterPen."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.painting/painterpen/width/

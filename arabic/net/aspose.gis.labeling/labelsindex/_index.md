@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.labeling/labelsindex/
 public class LabelsIndex
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [LabelsIndex](labelsindex/)() | المُنشئ الافتراضي. |
+| [LabelsIndex](labelsindex/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

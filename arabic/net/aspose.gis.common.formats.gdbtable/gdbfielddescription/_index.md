@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbfielddescription/
 public class GdbFieldDescription
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

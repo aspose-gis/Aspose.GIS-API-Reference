@@ -1,5 +1,5 @@
 ---
-title: "فئة MatrixTransformation"
+title: "الفئة MatrixTransformation"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Common.MatrixTransformation."
 type: docs
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common/matrixtransformation/
 public class MatrixTransformation : IEquatable<MatrixTransformation>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MatrixTransformation](matrixtransformation/)() | المُنشئ الافتراضي. |
+| [MatrixTransformation](matrixtransformation/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

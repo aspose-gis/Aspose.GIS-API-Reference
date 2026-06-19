@@ -1,7 +1,7 @@
 ---
 title: "IMultiPolygon.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IMultiPolygon. تحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
+description: "طريقة IMultiPolygon. يحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/imultipolygon/toeditable/
@@ -16,7 +16,7 @@ public MultiPolygon ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

@@ -1,5 +1,5 @@
 ---
-title: "BoundingRectangle.Intersection"
+title: "BoundingRectangle تقاطع"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "BoundingRectangle طريقة."
 type: docs

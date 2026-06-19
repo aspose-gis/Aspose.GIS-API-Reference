@@ -1,7 +1,7 @@
 ---
 title: "EllipsoidEntry.EllipsoidEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ EllipsoidEntry."
+description: "EllipsoidEntry منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.epsg/ellipsoidentry/ellipsoidentry/

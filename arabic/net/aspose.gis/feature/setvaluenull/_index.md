@@ -1,7 +1,7 @@
 ---
 title: "Feature.SetValueNull"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Feature. تُعيّن قيمة السمة إلى null"
+description: "طريقة Feature. تعيين قيمة السمة إلى null"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/feature/setvaluenull/
@@ -16,7 +16,7 @@ public void SetValueNull(string attributeName)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| attributeName | String | اسم الخاصية. |
+| attributeName | String | اسم السمة. |
 
 ### استثناءات
 

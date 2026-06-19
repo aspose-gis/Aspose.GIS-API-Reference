@@ -1,7 +1,7 @@
 ---
 title: "EventableStream.CanRead"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "EventableStream خاصية."
+description: "خاصية EventableStream."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.io/eventablestream/canread/

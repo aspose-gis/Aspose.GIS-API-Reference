@@ -23,8 +23,8 @@ public void AddPoint(IPoint point)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | المعامل فارغ (دالة [`IsEmpty`](../../igeometry/isempty/) الخاصة به هي `true`). |
-| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
+| ArgumentException | المعامل فارغ (دالته [`IsEmpty`](../../igeometry/isempty/) هي `true`). |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليس `null` ولا يساويان بعضهما البعض. |
 
 ### انظر أيضًا
 
@@ -45,8 +45,8 @@ public void AddPoint(double x, double y)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | القيمة لإحداثي X. |
-| y | Double | القيمة لإحداثي Y. |
+| x | Double | القيمة لمحور X. |
+| y | Double | القيمة لمحور Y. |
 
 ### انظر أيضًا
 
@@ -66,9 +66,9 @@ public void AddPoint(double x, double y, double z)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | القيمة لإحداثي X. |
-| y | Double | القيمة لإحداثي Y. |
-| z | Double | القيمة لإحداثي Z. |
+| x | Double | القيمة لمحور X. |
+| y | Double | القيمة لمحور Y. |
+| z | Double | القيمة لمحور Z. |
 
 ### انظر أيضًا
 
@@ -88,10 +88,10 @@ public void AddPoint(double x, double y, double z, double m)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | القيمة لإحداثي X. |
-| y | Double | القيمة لإحداثي Y. |
-| z | Double | القيمة لإحداثي Z. |
-| m | Double | القيمة لإحداثي M. |
+| x | Double | القيمة لمحور X. |
+| y | Double | القيمة لمحور Y. |
+| z | Double | القيمة لمحور Z. |
+| m | Double | القيمة لمحور M. |
 
 ### انظر أيضًا
 

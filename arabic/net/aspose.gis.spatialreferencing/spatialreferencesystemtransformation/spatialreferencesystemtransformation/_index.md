@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/
 ---
 ## SpatialReferenceSystemTransformation constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public SpatialReferenceSystemTransformation(SpatialReferenceSystem sourceSrs, 
@@ -24,8 +24,8 @@ public SpatialReferenceSystemTransformation(SpatialReferenceSystem sourceSrs,
 
 | استثناء | شرط |
 | --- | --- |
-| NotSupportedException | التحويل بين أنظمة الإسناد الفضائية المعطاة غير مدعوم. |
-| [TransformationException](../../transformationexception/) | فشل إنشاء التحويل بسبب معلمات خاطئة داخل SRS. |
+| NotSupportedException | التحويل بين أنظمة الإحداثيات المحددة غير مدعوم. |
+| [TransformationException](../../transformationexception/) | فشل إنشاء التحويل بسبب معلمات غير صحيحة داخل SRS. |
 
 ### انظر أيضًا
 

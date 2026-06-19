@@ -1,7 +1,7 @@
 ---
 title: "GdbCircularArcSegment.IsLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GdbCircularArcSegment."
+description: "GdbCircularArcSegment خاصية."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/isline/

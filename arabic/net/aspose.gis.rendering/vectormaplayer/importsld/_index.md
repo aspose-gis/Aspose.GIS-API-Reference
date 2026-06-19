@@ -1,7 +1,7 @@
 ---
 title: "VectorMapLayer.ImportSld"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorMapLayer. تستورد النمط من ملف وصف الطبقة المنسق (Styled Layer Descriptor) الموجود في المسار المحدد."
+description: "طريقة VectorMapLayer. تستورد النمط من ملف Styled Layer Descriptor الموجود في المسار المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering/vectormaplayer/importsld/
@@ -16,8 +16,8 @@ public void ImportSld(string path, SldImportOptions options = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى ملف وصف الطبقة المنسق (Styled Layer Descriptor). |
-| الخيارات | SldImportOptions | خيارات الاستيراد. |
+| path | String | المسار إلى ملف Styled Layer Descriptor. |
+| options | SldImportOptions | خيارات الاستيراد. |
 
 ### استثناءات
 
@@ -29,7 +29,7 @@ public void ImportSld(string path, SldImportOptions options = null)
 
 ## ملاحظات
 
-هذه الطريقة تستبدل قيمة الخاصية [`Symbolizer`](../symbolizer/).
+هذه الطريقة تستبدل قيمة خاصية [`Symbolizer`](../symbolizer/).
 
 ### انظر أيضًا
 
@@ -50,8 +50,8 @@ public void ImportSld(AbstractPath path, SldImportOptions options = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى ملف وصف الطبقة المنسق (Styled Layer Descriptor). |
-| الخيارات | SldImportOptions | خيارات الاستيراد. |
+| path | AbstractPath | المسار إلى ملف Styled Layer Descriptor. |
+| options | SldImportOptions | خيارات الاستيراد. |
 
 ### استثناءات
 
@@ -63,7 +63,7 @@ public void ImportSld(AbstractPath path, SldImportOptions options = null)
 
 ## ملاحظات
 
-هذه الطريقة تستبدل قيمة الخاصية [`Symbolizer`](../symbolizer/).
+هذه الطريقة تستبدل قيمة خاصية [`Symbolizer`](../symbolizer/).
 
 ### انظر أيضًا
 

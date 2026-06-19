@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameters.ارتفاع_الأصل"
+title: "ProjectionParameters.HeightOfOrigin"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية ProjectionParameters."
 type: docs

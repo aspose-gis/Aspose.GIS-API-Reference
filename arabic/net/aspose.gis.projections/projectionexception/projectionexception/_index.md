@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.projections/projectionexception/projectionexception/
 ---
 ## ProjectionException() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public ProjectionException()

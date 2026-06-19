@@ -1,14 +1,14 @@
 ---
 title: "VectorLayer.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية VectorLayer. الحصول على عدد الـ features في هذه الطبقة"
+description: "خاصية VectorLayer. يحصل على عدد الـ features في هذه الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/vectorlayer/count/
 ---
 ## VectorLayer.Count property
 
-يحصل على عدد الميزات في هذه الطبقة.
+يسترجع عدد الميزات في هذه الطبقة.
 
 ```csharp
 public virtual int Count { get; }
@@ -22,7 +22,7 @@ public virtual int Count { get; }
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم رميه إذا تم فتح الطبقة للكتابة فقط. |
+| InvalidOperationException | يتم إلقاؤه إذا تم فتح الطبقة للكتابة فقط. |
 
 ### انظر أيضًا
 

@@ -1,14 +1,14 @@
 ---
 title: "SimpleMarker.SimpleMarker"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ SimpleMarker. يهيئ نسخة جديدة من فئة SimpleMarker"
+description: "منشئ SimpleMarker. يهيئ مثيلاً جديداً من الفئة SimpleMarker"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/simplemarker/
 ---
 ## SimpleMarker() {#constructor}
 
-يهيئ نسخة جديدة من فئة [`SimpleMarker`](../).
+يهيئ مثيلاً جديداً من الفئة [`SimpleMarker`](../).
 
 ```csharp
 public SimpleMarker()
@@ -24,7 +24,7 @@ public SimpleMarker()
 
 ## SimpleMarker(SimpleMarker) {#constructor_1}
 
-يهيئ نسخة جديدة من فئة [`SimpleMarker`](../).
+يهيئ مثيلاً جديداً من الفئة [`SimpleMarker`](../).
 
 ```csharp
 public SimpleMarker(SimpleMarker other)

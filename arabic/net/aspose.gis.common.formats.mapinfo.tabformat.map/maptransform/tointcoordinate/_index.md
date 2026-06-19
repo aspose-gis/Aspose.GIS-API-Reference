@@ -1,7 +1,7 @@
 ---
 title: "MapTransform.ToIntCoordinate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapTransform طريقة."
+description: "طريقة MapTransform."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform/tointcoordinate/

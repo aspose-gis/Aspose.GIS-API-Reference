@@ -1,7 +1,7 @@
 ---
 title: "NearPointsCleanerOptions.NearPointsCleanerOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ NearPointsCleanerOptions. إنشاء كائن مع الحقول الأولية بشكل افتراضي"
+description: "منشئ NearPointsCleanerOptions. إنشاء نسخة مع الحقول الأولية بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/nearpointscleaneroptions/nearpointscleaneroptions/
@@ -24,7 +24,7 @@ public NearPointsCleanerOptions()
 
 ## NearPointsCleanerOptions(NearPointsCleanerOptions) {#constructor_1}
 
-إنشاء نسخة من الكائن [`NearPointsCleanerOptions`](../).
+إنشاء نسخة من المثيل [`NearPointsCleanerOptions`](../).
 
 ```csharp
 public NearPointsCleanerOptions(NearPointsCleanerOptions source)

@@ -1,7 +1,7 @@
 ---
 title: "الفئة MarkerCluster"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.Symbolizers.MarkerCluster الفئة. مُرمّز مجموعة العلامات"
+description: "Aspose.Gis.Rendering.Symbolizers.MarkerCluster فئة. مُرمّز مجموعة العلامات"
 type: docs
 weight: 4290
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/
@@ -14,12 +14,12 @@ url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/
 public class MarkerCluster : VectorSymbolizer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MarkerCluster](markercluster/#constructor_1)(MarkerCluster) | ينشئ مثيلاً جديدًا للفئة `MarkerCluster`. |
-| [MarkerCluster](markercluster/#constructor)(Measurement) | ينشئ مثيلاً جديدًا للفئة `MarkerCluster`. |
+| [MarkerCluster](markercluster/#constructor_1)(MarkerCluster) | ينشئ مثلاً جديداً من الفئة `MarkerCluster`. |
+| [MarkerCluster](markercluster/#constructor)(Measurement) | ينشئ مثلاً جديداً من الفئة `MarkerCluster`. |
 
 ## الخصائص
 
@@ -27,7 +27,7 @@ public class MarkerCluster : VectorSymbolizer
 | --- | --- |
 | [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration/) { get; set; } | استدعاء رد نداء يُستخدم لتكوين هذا المُرمّز قبل رسم مركز المجموعة. |
 | [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker/) { get; set; } | يحدد مُرمّز العلامة في مركز المجموعة. |
-| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker/) { get; set; } | يحدد مُرمّز العلامة لنقاط المجموعة المتداخلة. القيمة الافتراضية هي [`Null`](../vectorsymbolizer/null/). |
+| [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker/) { get; set; } | يحدد مُرمّز العلامة لنقاط المجموعة المتداخلة. الافتراضي هو [`Null`](../vectorsymbolizer/null/). |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
-title: "تعداد KmlDisplayModes"
+title: "Enum KmlDisplayModes"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "تعداد Aspose.Gis.Formats.Kml.Styles.KmlDisplayModes. يتحكم فيما إذا كان العنصر معروضًا أم مخفيًا"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlDisplayModes enum. يتحكم فيما إذا كان العنصر معروضًا أم مخفيًا"
 type: docs
 weight: 2100
 url: /ar/net/aspose.gis.formats.kml.styles/kmldisplaymodes/

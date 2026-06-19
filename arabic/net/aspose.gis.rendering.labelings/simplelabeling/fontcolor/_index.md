@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.FontColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. تحدد لون النص"
+description: "خاصية SimpleLabeling. تحدد لون النص."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontcolor/

@@ -1,7 +1,7 @@
 ---
 title: "MarkerCluster.Marker"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MarkerCluster. تحدد symbolizer العلامة في مركز التجمع"
+description: "خاصية MarkerCluster. تحدد مُرمّز العلامة في مركز التجمع"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/marker/

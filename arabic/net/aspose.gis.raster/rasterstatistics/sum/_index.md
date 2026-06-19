@@ -1,7 +1,7 @@
 ---
 title: "RasterStatistics.Sum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterStatistics. مجموع جميع الخلايا أو قيم البكسل التي تم عدّها"
+description: "خاصية RasterStatistics. مجموع جميع الخلايا أو قيم البكسل المُحصاة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.raster/rasterstatistics/sum/

@@ -1,7 +1,7 @@
 ---
 title: "QixTree.Open"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "QixTree طريقة."
+description: "طريقة QixTree."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.indexing.qixtree/qixtree/open/

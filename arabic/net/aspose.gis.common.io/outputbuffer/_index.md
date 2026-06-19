@@ -1,7 +1,7 @@
 ---
 title: "الفئة OutputBuffer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.IO.OutputBuffer"
+description: "فئة Aspose.Gis.Common.IO.OutputBuffer."
 type: docs
 weight: 1270
 url: /ar/net/aspose.gis.common.io/outputbuffer/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.io/outputbuffer/
 public class OutputBuffer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

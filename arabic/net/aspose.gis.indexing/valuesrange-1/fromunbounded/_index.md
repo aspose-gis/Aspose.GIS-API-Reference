@@ -1,7 +1,7 @@
 ---
 title: "ValuesRange1.FromUnbounded"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ValuesRange."
+description: "ValuesRange خاصية."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.indexing/valuesrange-1/fromunbounded/

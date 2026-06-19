@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling/simplelabelposition/
 public class SimpleLabelPosition : LabelPosition
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

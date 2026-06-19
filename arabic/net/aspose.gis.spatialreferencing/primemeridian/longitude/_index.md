@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/primemeridian/longitude/
 ---
 ## PrimeMeridian.Longitude property
 
-المسافة من خط غرينتش إلى خط الزوال الأساسي بالدرجات.
+المسافة من خط غرينتش إلى خط الزوال الرئيسي بالدرجات.
 
 ```csharp
 public double Longitude { get; }

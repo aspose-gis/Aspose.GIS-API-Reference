@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/dimension
 ---
 ## LocalSpatialReferenceSystem.DimensionsCount property
 
-عدد الأبعاد في هذا الـ SRS.
+عدد الأبعاد في هذا SRS.
 
 ```csharp
 public override int DimensionsCount { get; }

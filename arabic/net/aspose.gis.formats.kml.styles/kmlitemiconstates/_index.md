@@ -1,7 +1,7 @@
 ---
-title: "تعداد KmlItemIconStates"
+title: "Enum KmlItemIconStates"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "تعداد Aspose.Gis.Formats.Kml.Styles.KmlItemIconStates. يحدد الحالة الحالية لـ kmlNetworkLink أو kmlFolder"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlItemIconStates enum. يحدد الحالة الحالية لـ kmlNetworkLink أو kmlFolder"
 type: docs
 weight: 2150
 url: /ar/net/aspose.gis.formats.kml.styles/kmlitemiconstates/
@@ -19,7 +19,7 @@ public enum KmlItemIconStates
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | None | `0` | غير معرف (لا شيء). |
-| Open | `1` | فتح المجلد. |
+| Open | `1` | مجلد مفتوح. |
 | Closed | `2` | مجلد مغلق. |
 | Error | `3` | خطأ في الجلب. |
 | Fetching0 | `4` | حالة الجلب 0. |

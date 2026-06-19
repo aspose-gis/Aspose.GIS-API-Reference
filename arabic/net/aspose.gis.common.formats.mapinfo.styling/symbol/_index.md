@@ -1,7 +1,7 @@
 ---
-title: "هيكل Symbol"
+title: "رمز الهيكل"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "هيكل Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol."
+description: "Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol بنية."
 type: docs
 weight: 840
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/symbol/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.styling/symbol/
 public struct Symbol : IEquatable<Symbol>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

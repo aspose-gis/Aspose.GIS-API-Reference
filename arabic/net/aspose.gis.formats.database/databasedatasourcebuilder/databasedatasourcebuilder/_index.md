@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.database/databasedatasourcebuilder/databasedatas
 ---
 ## DatabaseDataSourceBuilder constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public DatabaseDataSourceBuilder()

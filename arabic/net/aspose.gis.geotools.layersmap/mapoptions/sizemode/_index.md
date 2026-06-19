@@ -1,7 +1,7 @@
 ---
 title: "MapOptions.SizeMode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapOptions. وضع الحجم. الافتراضي Auto"
+description: "خاصية MapOptions. وضع الحجم. القيمة الافتراضية هي Auto"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geotools.layersmap/mapoptions/sizemode/

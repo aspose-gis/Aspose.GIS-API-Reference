@@ -1,14 +1,14 @@
 ---
 title: "CurvePolygon.CurvePolygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ CurvePolygon. يهيئ كائنًا جديدًا من فئة CurvePolygon"
+description: "منشئ CurvePolygon. يهيئ نسخة جديدة من فئة CurvePolygon"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/curvepolygon/curvepolygon/
 ---
 ## CurvePolygon() {#constructor}
 
-يهيئ كائنًا جديدًا من الفئة [`CurvePolygon`](../).
+يهيئ نسخة جديدة من فئة [`CurvePolygon`](../).
 
 ```csharp
 public CurvePolygon()
@@ -24,7 +24,7 @@ public CurvePolygon()
 
 ## CurvePolygon(ICurve) {#constructor_1}
 
-يهيئ كائنًا جديدًا من الفئة [`CurvePolygon`](../).
+يهيئ نسخة جديدة من فئة [`CurvePolygon`](../).
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing)
@@ -51,7 +51,7 @@ public CurvePolygon(ICurve exteriorRing)
 
 ## CurvePolygon(ICurve, IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-يهيئ كائنًا جديدًا من الفئة [`CurvePolygon`](../).
+يهيئ نسخة جديدة من فئة [`CurvePolygon`](../).
 
 ```csharp
 public CurvePolygon(ICurve exteriorRing, IEnumerable<ICurve> interiorRings)

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/igeometry/geometrytype/
 ---
 ## IGeometry.GeometryType property
 
-يحصل على نوع الهندسة.
+يحصل على نوع الـ geometry.
 
 ```csharp
 public GeometryType GeometryType { get; }

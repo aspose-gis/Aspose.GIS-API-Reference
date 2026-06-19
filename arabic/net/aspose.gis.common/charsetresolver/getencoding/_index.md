@@ -1,7 +1,7 @@
 ---
 title: "CharsetResolver.GetEncoding"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CharsetResolver."
+description: "CharsetResolver طريقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common/charsetresolver/getencoding/

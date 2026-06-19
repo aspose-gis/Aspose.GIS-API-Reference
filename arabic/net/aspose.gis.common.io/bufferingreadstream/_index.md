@@ -1,7 +1,7 @@
 ---
 title: "الفئة BufferingReadStream"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.IO.BufferingReadStream"
+description: "فئة Aspose.Gis.Common.IO.BufferingReadStream."
 type: docs
 weight: 1230
 url: /ar/net/aspose.gis.common.io/bufferingreadstream/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.io/bufferingreadstream/
 public class BufferingReadStream : Stream
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

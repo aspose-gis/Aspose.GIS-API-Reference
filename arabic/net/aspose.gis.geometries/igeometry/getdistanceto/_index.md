@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.GetDistanceTo"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IGeometry. تحسب الحد الأدنى للمسافة بين هذا الشكل وشكل محدد"
+description: "طريقة IGeometry. تحسب المسافة الدنيا بين هذا الشكل وشكل محدد"
 type: docs
 weight: 230
 url: /ar/net/aspose.gis.geometries/igeometry/getdistanceto/
@@ -27,7 +27,7 @@ public double GetDistanceTo(IGeometry other)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ### انظر أيضًا
 

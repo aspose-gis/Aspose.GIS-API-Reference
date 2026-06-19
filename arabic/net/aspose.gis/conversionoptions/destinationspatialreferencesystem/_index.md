@@ -1,14 +1,14 @@
 ---
 title: "ConversionOptions.DestinationSpatialReferenceSystem"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ConversionOptions. نظام الإحداثيات المكانية لتعيينه إلى طبقة الوجهة"
+description: "خاصية ConversionOptions. نظام الإحداثيات المرجعي لتعيينه إلى طبقة الوجهة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/conversionoptions/destinationspatialreferencesystem/
 ---
 ## ConversionOptions.DestinationSpatialReferenceSystem property
 
-نظام الإشارة المكانية لتعيينه للطبقة الوجهة.
+نظام الإشارة المكانية لتعيينه إلى الطبقة الوجهة.
 
 ```csharp
 public SpatialReferenceSystem DestinationSpatialReferenceSystem { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: "MixedGeometrySymbolizer.LineSymbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MixedGeometrySymbolizer. تحدد رمزًا لاستخدامه مع هندسات الخط في الطبقة"
+description: "خاصية MixedGeometrySymbolizer. تحدد رمزًا لاستخدامه لأشكال الخط في الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbolizer/

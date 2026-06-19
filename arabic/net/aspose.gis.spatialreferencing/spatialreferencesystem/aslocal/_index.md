@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/aslocal/
 ---
 ## SpatialReferenceSystem.AsLocal property
 
-تُعيد هذا الـ SRS محولًا إلى [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/). استخدم [`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
+يعيد هذا الـ SRS محولًا إلى [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/). استخدم [`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
 
 ```csharp
 public virtual LocalSpatialReferenceSystem AsLocal { get; }

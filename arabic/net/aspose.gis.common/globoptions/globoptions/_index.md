@@ -1,14 +1,14 @@
 ---
 title: "GlobOptions.GlobOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "GlobOptions المُنشئ. المُنشئ الافتراضي"
+description: "GlobOptions منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common/globoptions/globoptions/
 ---
 ## GlobOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GlobOptions()

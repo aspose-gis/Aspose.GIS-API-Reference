@@ -1,7 +1,7 @@
 ---
 title: "التعداد MarkerShapeType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "التعداد Aspose.Gis.Rendering.Symbolizers.MarkerShapeType. نوع الشكل للعلامة."
+description: "التعداد Aspose.Gis.Rendering.Symbolizers.MarkerShapeType. نوع شكل للعلامة."
 type: docs
 weight: 4320
 url: /ar/net/aspose.gis.rendering.symbolizers/markershapetype/

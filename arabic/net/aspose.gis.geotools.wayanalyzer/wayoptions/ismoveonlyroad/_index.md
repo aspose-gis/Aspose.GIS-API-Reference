@@ -1,14 +1,14 @@
 ---
 title: "WayOptions.IsMoveOnlyRoad"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية WayOptions. إيجاد الطريق عبر الطريق فقط"
+description: "خاصية WayOptions. العثور على الطريق عبر الطريق فقط"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools.wayanalyzer/wayoptions/ismoveonlyroad/
 ---
 ## WayOptions.IsMoveOnlyRoad property
 
-إيجاد المسار فقط عبر الطريق
+إيجاد الطريق عبر الطريق فقط
 
 ```csharp
 public bool IsMoveOnlyRoad { get; set; }

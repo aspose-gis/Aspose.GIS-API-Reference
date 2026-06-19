@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatefrome
 ---
 ## SpatialReferenceSystem.TryCreateFromEpsg method
 
-إنشاء نظام إحداثيات بناءً على رمز EPSG المحدد.
+أنشئ نظام إحداثيات مكاني بناءً على رمز EPSG المحدد.
 
 ```csharp
 public static bool TryCreateFromEpsg(int epsg, out SpatialReferenceSystem value)
@@ -17,7 +17,7 @@ public static bool TryCreateFromEpsg(int epsg, out SpatialReferenceSystem value)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | epsg | Int32 | رمز EPSG لنظام الإسناد المكاني. |
-| قيمة | SpatialReferenceSystem& | عند إرجاع هذه الطريقة `true`، تحتوي على SRS بالرمز EPSG المحدد؛ وإلا، تحتوي على `null`. |
+| القيمة | SpatialReferenceSystem& | عند إرجاع هذه الطريقة `true`، يحتوي على SRS بالرمز EPSG المحدد؛ وإلا، يحتوي على `null`. |
 
 ### قيمة الإرجاع
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometrycollection/op_inequality/
 ---
 ## GeometryCollection Inequality operator
 
-ينفذ العامل !=.
+ينفّذ العامل !=.
 
 ```csharp
 public static bool operator !=(GeometryCollection a, GeometryCollection b)
@@ -16,12 +16,12 @@ public static bool operator !=(GeometryCollection a, GeometryCollection b)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | GeometryCollection | الكائن A. |
-| b | GeometryCollection | الكائن B. |
+| a | GeometryCollection | مثيل A. |
+| b | GeometryCollection | مثيل B. |
 
 ### قيمة الإرجاع
 
-نتيجة المشغل.
+نتيجة العامل.
 
 ### انظر أيضًا
 

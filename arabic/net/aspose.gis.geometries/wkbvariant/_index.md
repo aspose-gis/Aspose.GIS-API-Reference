@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/wkbvariant/
 ---
 ## WkbVariant enumeration
 
-الصيغة من Well-Known Binary
+النسخة من Well-Known Binary
 
 ```csharp
 public enum WkbVariant
@@ -20,7 +20,7 @@ public enum WkbVariant
 | --- | --- | --- |
 | SimpleFeatureAccessOutdated | `0` | Well-Known Binary المتوافق مع مواصفة Simple Feature Access، الإصدار 1.1. |
 | Iso | `1` | Well-Known Binary المتوافق مع المعيار ISO "SQL Multimedia and application packages - Part 3: Spatial" ومواصفة Simple Feature Access، الإصدار 1.2. |
-| ExtendedPostGis | `2` | متغيّر Extended Well-Known Binary المصمم بواسطة PostGIS والذي يصدر معرف نظام الإحداثيات المرجعي (كود EPSG). |
+| ExtendedPostGis | `2` | متغيّر Extended Well-Known Binary المصمم بواسطة PostGIS والذي يصدر معرف نظام الإسناد المكاني (رمز EPSG). |
 
 ### انظر أيضًا
 

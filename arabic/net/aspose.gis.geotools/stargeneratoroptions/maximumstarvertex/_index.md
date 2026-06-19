@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/stargeneratoroptions/maximumstarvertex/
 ---
 ## StarGeneratorOptions.MaximumStarVertex property
 
-الحد الأقصى للنقطة الخارجية للجانب المُولد.
+الحد الأقصى للركن الخارجي للجانب المُولد.
 
 ```csharp
 public int MaximumStarVertex { get; set; }

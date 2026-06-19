@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparam
 ---
 ## GeographicSpatialReferenceSystemParameters.LongitudeAxis property
 
-المحور الذي يصف خط الطول. الافتراضي هو محور باتجاه الشرق.
+المحور الذي يصف خط الطول. القيمة الافتراضية هي محور باتجاه الشرق.
 
 ```csharp
 public Axis LongitudeAxis { get; set; }

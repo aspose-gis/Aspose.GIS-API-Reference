@@ -1,7 +1,7 @@
 ---
 title: "LabelsIndex.AddLabel"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LabelsIndex."
+description: "LabelsIndex طريقة."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.labeling/labelsindex/addlabel/

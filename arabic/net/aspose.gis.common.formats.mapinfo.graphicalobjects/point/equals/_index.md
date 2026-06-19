@@ -1,7 +1,7 @@
 ---
 title: "Point.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Point طريقة."
+description: "طريقة Point."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/equals/

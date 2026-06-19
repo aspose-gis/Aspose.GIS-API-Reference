@@ -1,7 +1,7 @@
 ---
 title: "فئة GdbTableRowWriter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.GdbTable.GdbTableRowWriter فئة."
+description: "فئة Aspose.Gis.Common.Formats.GdbTable.GdbTableRowWriter."
 type: docs
 weight: 490
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbtablerowwriter/

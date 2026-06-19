@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/rulebasedsymbo
 ---
 ## RuleBasedSymbolizer constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public RuleBasedSymbolizer()

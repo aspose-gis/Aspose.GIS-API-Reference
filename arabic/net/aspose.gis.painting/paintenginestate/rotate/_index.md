@@ -1,7 +1,7 @@
 ---
 title: "PaintEngineState.Rotate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PaintEngineState طريقة."
+description: "طريقة PaintEngineState."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.painting/paintenginestate/rotate/

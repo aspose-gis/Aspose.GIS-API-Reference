@@ -1,7 +1,7 @@
 ---
 title: "MapRasterOptions.PixelPerColumn"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapRasterOptions. عرض الصورة النقطية بالبكسل"
+description: "خاصية MapRasterOptions. عرض raster بالبكسل"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools.layersmap/maprasteroptions/pixelpercolumn/

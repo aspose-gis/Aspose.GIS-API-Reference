@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometrycollection/add/
 ---
 ## GeometryCollection.Add method
 
-يضيف الشكل المحدد إلى المجموعة.
+يضيف الهندسة المحددة إلى المجموعة.
 
 ```csharp
 public void Add(IGeometry geometry)
@@ -24,7 +24,7 @@ public void Add(IGeometry geometry)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | المجموعة لا تقبل الهندسات من هذا النوع. |
-| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليس `null` ولا يساويان بعضهما البعض. |
 
 ### انظر أيضًا
 

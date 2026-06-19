@@ -1,7 +1,7 @@
 ---
 title: "GeoJsonOptions.ArrayAsString"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeoJsonOptions. ما إذا كان يجب عرض مصفوفات JSON من السلاسل أو الأعداد الصحيحة أو القيم الحقيقية كسلسلة"
+description: "خاصية GeoJsonOptions. ما إذا كان يجب كشف مصفوفات JSon من السلاسل أو الأعداد الصحيحة أو القيم الحقيقية كقيمة نصية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/arrayasstring/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.dbase/dbaseexception/dbaseexception/
 ---
 ## DBaseException() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public DBaseException()

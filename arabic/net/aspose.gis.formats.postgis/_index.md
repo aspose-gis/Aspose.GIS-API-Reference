@@ -1,12 +1,12 @@
 ---
 title: "Aspose.Gis.Formats.PostGis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الأسماء Aspose.Gis.Formats.PostGis توفر فئات للعمل مع قاعدة بيانات PostGIS"
+description: "مساحة الاسم Aspose.Gis.Formats.PostGis توفر فئات للعمل مع قاعدة بيانات PostGIS"
 type: docs
 weight: 410
 url: /ar/net/aspose.gis.formats.postgis/
 ---
-`Aspose.Gis.Formats.PostGis` مساحة الاسم توفر فئات للعمل مع قاعدة بيانات PostGIS.
+مساحة الاسم `Aspose.Gis.Formats.PostGis` توفر فئات للعمل مع قاعدة بيانات PostGIS.
 
 ## الفئات
 

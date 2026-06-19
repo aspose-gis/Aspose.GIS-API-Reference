@@ -1,14 +1,14 @@
 ---
 title: "الفئة NullLabeling"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Rendering.Labelings.NullLabeling. الـ NullLabeling يتخطى تسمية الهندسة التي يُطبق عليها"
+description: "فئة Aspose.Gis.Rendering.Labelings.NullLabeling. يتخطى NullLabeling وضع العلامات على الهندسة التي يُطبق عليها"
 type: docs
 weight: 4120
 url: /ar/net/aspose.gis.rendering.labelings/nulllabeling/
 ---
 ## NullLabeling class
 
-الـ `NullLabeling` يتخطى تسمية الهندسة التي يُطبق عليها.
+يتخطى `NullLabeling` وضع العلامات على الهندسة التي يُطبق عليها.
 
 ```csharp
 public class NullLabeling : Labeling

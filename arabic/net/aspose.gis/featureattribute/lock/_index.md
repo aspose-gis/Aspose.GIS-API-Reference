@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttribute.Lock"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FeatureAttribute. تقفل هذه الخاصية"
+description: "طريقة FeatureAttribute. تقفل هذه الخاصية."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis/featureattribute/lock/

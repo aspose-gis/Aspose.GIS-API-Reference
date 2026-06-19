@@ -1,14 +1,14 @@
 ---
 title: "RasterRect.RasterRect"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ RasterRect. إنشاء نسخة من RasterRect"
+description: "منشئ RasterRect. أنشئ مثلاً من RasterRect"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/rasterrect/rasterrect/
 ---
 ## RasterRect constructor
 
-إنشاء نسخة من [`RasterRect`](../).
+أنشئ مثلاً من [`RasterRect`](../).
 
 ```csharp
 public RasterRect(int x, int y, int width, int height)
@@ -16,8 +16,8 @@ public RasterRect(int x, int y, int width, int height)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Int32 | الإحداثي x للزاوية العليا اليسرى (عمود البداية). يبدأ الترقيم من 0. |
-| y | Int32 | الإحداثي y للزاوية العليا اليسرى (صف البداية). يبدأ الترقيم من 0. |
+| x | Int32 | الإحداثي x للزاوية العلوية اليسرى (عمود البداية). يبدأ الترقيم من 0. |
+| y | Int32 | الإحداثي y للزاوية العلوية اليسرى (صف البداية). يبدأ الترقيم من 0. |
 | العرض | Int32 | القيمة للعرض (عدد الأعمدة). |
 | الارتفاع | Int32 | القيمة للارتفاع (عدد الصفوف). |
 

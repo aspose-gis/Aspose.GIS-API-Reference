@@ -1,7 +1,7 @@
 ---
 title: "تعداد IntersectionType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.IntersectionType تعداد."
+description: "تعداد Aspose.Gis.Topology.IntersectionType."
 type: docs
 weight: 5000
 url: /ar/net/aspose.gis.topology/intersectiontype/

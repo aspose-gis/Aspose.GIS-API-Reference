@@ -1,14 +1,14 @@
 ---
 title: "SimpleLabeling.LabelExpression"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. توفر طريقة لتخصيص وتنسيق نص التسمية. إذا تم ضبطها تتجاوز LabelAttribute. يجب ضبط إما LabelAttribute أو LabelExpression قبل العرض وإلا يُرمى InvalidOperationException"
+description: "خاصية SimpleLabeling. توفر طريقة لتخصيص وتنسيق نص التسمية. إذا تم تعيينها تتجاوز LabelAttribute. يجب تعيين إما LabelAttribute أو LabelExpression قبل العرض وإلا يتم رمي InvalidOperationException."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/labelexpression/
 ---
 ## SimpleLabeling.LabelExpression property
 
-توفر طريقة لتخصيص وتنسيق نص التسمية. إذا تم ضبطها، تتجاوز [`LabelAttribute`](../labelattribute/). يجب ضبط إما [`LabelAttribute`](../labelattribute/) أو `LabelExpression` قبل العرض؛ يُرمى InvalidOperationException إذا لم يحدث ذلك.
+توفر طريقة لتخصيص وتنسيق نص التسمية. إذا تم تعيينها، تتجاوز [`LabelAttribute`](../labelattribute/). يجب تعيين إما [`LabelAttribute`](../labelattribute/) أو `LabelExpression` قبل العرض؛ يتم رمي InvalidOperationException وإلا.
 
 ```csharp
 public Func<Feature, string> LabelExpression { get; set; }

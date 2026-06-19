@@ -1,7 +1,7 @@
 ---
 title: "IndexableStreamReader.IndexableStreamReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IndexableStreamReader منشئ."
+description: "منشئ IndexableStreamReader."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.io/indexablestreamreader/indexablestreamreader/

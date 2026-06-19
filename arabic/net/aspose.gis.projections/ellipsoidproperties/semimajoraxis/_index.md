@@ -1,7 +1,7 @@
 ---
-title: "EllipsoidProperties.المحور_الكبير_النصف"
+title: "EllipsoidProperties.SemiMajorAxis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية EllipsoidProperties."
+description: "EllipsoidProperties خاصية."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.projections/ellipsoidproperties/semimajoraxis/

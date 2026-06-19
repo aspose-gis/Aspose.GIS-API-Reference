@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbellipticarcsegment/
 public class GdbEllipticArcSegment : GdbCurveSegment
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GdbEllipticArcSegment](gdbellipticarcsegment/)() | المُنشئ الافتراضي. |
+| [GdbEllipticArcSegment](gdbellipticarcsegment/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

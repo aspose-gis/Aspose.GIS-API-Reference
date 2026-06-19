@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameterValueEntry.إنشاء"
+title: "ProjectionParameterValueEntry.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "ProjectionParameterValueEntry طريقة."
 type: docs

@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.SetArtist"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. حفظ وسم EXIF Artist وإضافة أو استبدال البيانات"
+description: "طريقة ImageMetadataReader. حفظ وسم EXIF Artist مع إضافة أو استبدال البيانات"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/setartist/

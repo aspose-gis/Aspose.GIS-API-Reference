@@ -1,7 +1,7 @@
 ---
 title: "LineString.EndPoint"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LineString. تُرجع نسخة من نقطة النهاية للمنحنى"
+description: "خاصية LineString. تُرجِع نسخة من نقطة النهاية للمنحنى"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/linestring/endpoint/

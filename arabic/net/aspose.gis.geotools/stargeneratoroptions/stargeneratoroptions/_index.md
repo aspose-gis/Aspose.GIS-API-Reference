@@ -1,7 +1,7 @@
 ---
 title: "StarGeneratorOptions.StarGeneratorOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ StarGeneratorOptions. إنشاء مثال مع حقول التهيئة بشكل افتراضي"
+description: "منشئ StarGeneratorOptions. إنشاء نسخة مع الحقول الابتدائية بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/stargeneratoroptions/

@@ -1,7 +1,7 @@
 ---
 title: "MeasuredLine.GetPointByDistance"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MeasuredLine طريقة"
+description: "طريقة MeasuredLine."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.labeling.line/measuredline/getpointbydistance/

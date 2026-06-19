@@ -1,7 +1,7 @@
 ---
 title: "الفئة MarkerPatternFill"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Symbolizers.MarkerPatternFill. مُرمّز تعبئة نمط العلامة."
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.MarkerPatternFill. مُرمّز تعبئة نمط العلامة"
 type: docs
 weight: 4310
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/
@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/
 public class MarkerPatternFill : VectorSymbolizer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -25,11 +25,11 @@ public class MarkerPatternFill : VectorSymbolizer
 
 | الاسم | الوصف |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerpatternfill/featurebasedconfiguration/) { get; set; } | دالة استدعاء تُستخدم لتكوين هذا symbolizer قبل عرض ميزة. |
-| [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement/) { get; set; } | يحدد الإزاحة الأفقية للعلامات في الخط الأفقي الزوجي. |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerpatternfill/featurebasedconfiguration/) { get; set; } | دالة رد نداء تُستخدم لتكوين هذا المُرمّز قبل عرض ميزة. |
+| [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement/) { get; set; } | يحدد الإزاحة الأفقية للعلامات في خط أفقي زوجي. |
 | [HorizontalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval/) { get; set; } | يحدد الفاصل الأفقي بين العلامات. |
 | [Marker](../../aspose.gis.rendering.symbolizers/markerpatternfill/marker/) { get; set; } | يحدد مُرمّز العلامة للتعبئة. |
-| [VerticalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/) { get; set; } | يحدد الإزاحة العمودية للعلامات في الخط العمودي الزوجي. |
+| [VerticalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/) { get; set; } | يحدد الإزاحة العمودية للعلامات في خط عمودي زوجي. |
 | [VerticalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/verticalinterval/) { get; set; } | يحدد الفاصل العمودي بين العلامات. |
 
 ### انظر أيضًا

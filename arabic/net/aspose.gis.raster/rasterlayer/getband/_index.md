@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/rasterlayer/getband/
 ---
 ## RasterLayer.GetBand method
 
-يحصل على قناة بالمؤشر المحدد.
+يسترجع قناة بالمؤشر المحدد.
 
 ```csharp
 public abstract IRasterBand GetBand(int index = 0)
@@ -16,7 +16,7 @@ public abstract IRasterBand GetBand(int index = 0)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | تبدأ أرقام النطاقات من 0 ويُفترض أن يكون النطاق 0 إذا لم يتم تحديده. |
+| فهرس | Int32 | تبدأ أرقام النطاقات من 0 ويُفترض أن يكون النطاق 0 إذا لم يُحدد. |
 
 ### قيمة الإرجاع
 
@@ -24,7 +24,7 @@ public abstract IRasterBand GetBand(int index = 0)
 
 ## ملاحظات
 
-إذا كان الراستر لا يحتوي على نطاقات، سيتم إلقاء خطأ.
+إذا كان الراستر لا يحتوي على نطاقات، يتم إلقاء خطأ.
 
 ### انظر أيضًا
 

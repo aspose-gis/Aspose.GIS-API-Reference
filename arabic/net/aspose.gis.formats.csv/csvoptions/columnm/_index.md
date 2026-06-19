@@ -1,14 +1,14 @@
 ---
 title: "CsvOptions.ColumnM"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CsvOptions. يحصل أو يعيّن اسم العمود الذي يحتوي على قيمة إحداثي M. القيمة الافتراضية هي null"
+description: "خاصية CsvOptions. يحصل أو يضبط اسم العمود الذي يحتوي على قيمة إحداثي M. القيمة الافتراضية هي null"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.csv/csvoptions/columnm/
 ---
 ## CsvOptions.ColumnM property
 
-يحصل أو يعيّن اسم العمود الذي يحتوي على قيمة إحداثي M. القيمة الافتراضية هي `null`.
+يحصل أو يضبط اسم العمود الذي يحتوي على قيمة إحداثي M. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string ColumnM { get; set; }
@@ -16,7 +16,7 @@ public string ColumnM { get; set; }
 
 ## ملاحظات
 
-إذا كانت قيمة العمود `null` أو `empty string` فسيتم استبعادها من الهندسة.
+إذا كانت قيمة العمود `null` أو `empty string` فستُستبعد من الهندسة.
 
 ### انظر أيضًا
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.indexing.rtree/rtreeoptions/rtreeoptions/
 ---
 ## RTreeOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public RTreeOptions()

@@ -1,20 +1,20 @@
 ---
 title: "الفئة BursaWolfParameters"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.SpatialReferencing.BursaWolfParameters. فئة تحتوي على معلمات صيغة BursaWolf للتحويل إلى نظام إسناد آخر."
+description: "الفئة Aspose.Gis.SpatialReferencing.BursaWolfParameters. فئة تحتوي على معلمات صيغة BursaWolf للتحويل إلى معيار آخر."
 type: docs
 weight: 4500
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/
 ---
 ## BursaWolfParameters class
 
-فئة تحتوي على معلمات صيغة بورسا-وولف لتحويل إلى معيار آخر.
+فئة تحتوي على معلمات صيغة بورسا-وولف للتحويل إلى مرجع آخر.
 
 ```csharp
 public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -29,7 +29,7 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 | [Dx](../../aspose.gis.spatialreferencing/bursawolfparameters/dx/) { get; } | Dx بالأمتار. |
 | [Dy](../../aspose.gis.spatialreferencing/bursawolfparameters/dy/) { get; } | Dy بالأمتار. |
 | [Dz](../../aspose.gis.spatialreferencing/bursawolfparameters/dz/) { get; } | Dz بالأمتار. |
-| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull/) { get; } | حدد ما إذا كانت هذه النسخة هي [`Null`](./null/). |
+| [IsNull](../../aspose.gis.spatialreferencing/bursawolfparameters/isnull/) { get; } | تحديد ما إذا كانت هذه النسخة هي [`Null`](./null/). |
 | [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx/) { get; } | Rx بالثواني. |
 | [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry/) { get; } | Ry بالثواني. |
 | [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz/) { get; } | Rz بالثواني. |
@@ -41,9 +41,9 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 | --- | --- |
 | [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals)(BursaWolfParameters) | يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع. |
 | override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals_1)(object) | يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي. |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | يعمل كدالة التجزئة الافتراضية. |
-| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality/) | ينفذ العامل ==. |
-| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/) | ينفذ العامل !=. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | يعمل كدالة تجزئة افتراضية. |
+| [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality/) | ينفّذ العامل ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/) | ينفّذ العامل !=. |
 
 ### انظر أيضًا
 

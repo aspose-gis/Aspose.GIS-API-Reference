@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.spatialreferencing/transformationexception/
 public class TransformationException : Exception
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

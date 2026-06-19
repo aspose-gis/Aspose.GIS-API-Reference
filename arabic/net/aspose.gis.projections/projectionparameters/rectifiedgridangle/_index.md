@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameters.زاوية_الشبكة_المصححة"
+title: "ProjectionParameters.RectifiedGridAngle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية ProjectionParameters."
 type: docs

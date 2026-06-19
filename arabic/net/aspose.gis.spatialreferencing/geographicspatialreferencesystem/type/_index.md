@@ -1,7 +1,7 @@
 ---
 title: "GeographicSpatialReferenceSystem.Type"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicSpatialReferenceSystem. تُرجع Geographic"
+description: "GeographicSpatialReferenceSystem خاصية. يرجع Geographic"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/type/

@@ -1,7 +1,7 @@
 ---
 title: "الفئة SvgTextureBrush"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.SvgTextureBrush فئة."
+description: "Aspose.Gis.Painting.SvgTextureBrush الفئة."
 type: docs
 weight: 3650
 url: /ar/net/aspose.gis.painting/svgtexturebrush/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.painting/svgtexturebrush/
 public class SvgTextureBrush : PainterBrush
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

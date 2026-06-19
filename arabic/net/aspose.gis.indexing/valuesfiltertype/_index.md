@@ -1,7 +1,7 @@
 ---
 title: "تعداد ValuesFilterType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Indexing.ValuesFilterType تعداد."
+description: "تعداد Aspose.Gis.Indexing.ValuesFilterType."
 type: docs
 weight: 3180
 url: /ar/net/aspose.gis.indexing/valuesfiltertype/

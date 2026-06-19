@@ -20,7 +20,7 @@ public bool Equals(RasterExpressionContext other)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
+صحيح إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -32,7 +32,7 @@ true إذا كان الكائن الحالي يساوي المعامل *other*؛
 
 ## Equals(object) {#equals_1}
 
-يشير إلى ما إذا كانت هذه النسخة والكائن المحدد متساويين.
+يشير إلى ما إذا كان هذا الكائن والكائن المحدد متساويين.
 
 ```csharp
 public override bool Equals(object obj)

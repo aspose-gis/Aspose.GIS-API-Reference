@@ -20,7 +20,7 @@ public bool Disjoint(IGeometry other)
 
 ### قيمة الإرجاع
 
-`true` إذا كان هذا الشكل الهندسي "منفصل مكانيًا" عن شكل هندسي آخر. `false` خلاف ذلك.
+`true` إذا كان هذا الشكل الهندسي "منفصل مكانيًا" عن شكل هندسي آخر. `false` غير ذلك.
 
 ### استثناءات
 
@@ -28,11 +28,11 @@ public bool Disjoint(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإسناد المكاني. |
 
 ## ملاحظات
 
-هذه الطريقة تختبر ما إذا كانت الأشكال الهندسية منفصلة من حيث مصفوفة تقاطع DE-9IM. أساسًا، تختبر أن الشكلين لا يملكان نقاطًا مشتركة. هذه الطريقة تعادل:
+تختبر هذه الطريقة ما إذا كانت الأشكال الهندسية منفصلة وفقًا لمصفوفة تقاطع DE-9IM. أساسًا، تختبر أن شكلين هندسيين لا يملكان نقاطًا مشتركة. هذه الطريقة تعادل:
 
 ```csharp
 this.Relate(other, "FF*FF****");

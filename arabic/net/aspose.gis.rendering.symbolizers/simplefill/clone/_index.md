@@ -1,7 +1,7 @@
 ---
 title: "SimpleFill.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SimpleFill. تستنسخ هذه النسخة"
+description: "طريقة SimpleFill. تنسخ هذا المثيل"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/clone/

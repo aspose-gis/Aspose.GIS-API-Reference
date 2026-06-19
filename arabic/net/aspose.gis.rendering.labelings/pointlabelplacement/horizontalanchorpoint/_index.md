@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/horizontalanchor
 ---
 ## PointLabelPlacement.HorizontalAnchorPoint property
 
-يحدد أي جانب من التسمية سيُمحاذى أفقيًا مع موقع النقطة.
+يحدد أي جانب من التسمية سيتم محاذاته أفقيًا مع موقع النقطة.
 
 ```csharp
 public HorizontalAnchor HorizontalAnchorPoint { get; set; }

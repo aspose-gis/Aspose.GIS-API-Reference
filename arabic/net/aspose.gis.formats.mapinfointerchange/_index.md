@@ -1,12 +1,12 @@
 ---
 title: "Aspose.Gis.Formats.MapInfoInterchange"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Formats.MapInfoInterchange توفر فئات للعمل مع تنسيق MapInfo Interchange."
+description: "مساحة الأسماء Aspose.Gis.Formats.MapInfoInterchange توفر فئات للعمل مع تنسيق MapInfo Interchange."
 type: docs
 weight: 370
 url: /ar/net/aspose.gis.formats.mapinfointerchange/
 ---
-`Aspose.Gis.Formats.MapInfoInterchange` مساحة الاسم توفر فئات للعمل مع صيغة MapInfo Interchange
+`Aspose.Gis.Formats.MapInfoInterchange` مساحة الاسم توفر فئات للعمل مع صيغة MapInfo Interchange.
 
 ## الفئات
 

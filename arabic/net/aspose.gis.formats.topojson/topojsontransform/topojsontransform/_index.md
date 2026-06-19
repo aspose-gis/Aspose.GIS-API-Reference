@@ -16,8 +16,8 @@ public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, do
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| xTranslate | Double | التحويل لتطبيقه على إحداثي X. |
-| yTranslate | Double | التحويل لتطبيقه على إحداثي Y. |
+| xTranslate | Double | الترجمة لتطبيقها على إحداثي X. |
+| yTranslate | Double | الترجمة لتطبيقها على إحداثي Y. |
 | xScale | Double | المقياس لتطبيقه على إحداثي X. |
 | yScale | Double | المقياس لتطبيقه على إحداثي Y. |
 

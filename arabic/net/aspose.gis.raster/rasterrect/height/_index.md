@@ -1,7 +1,7 @@
 ---
 title: "RasterRect.Height"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterRect. تُرجع عدد صفوف الارتفاع"
+description: "خاصية RasterRect. تحصل على عدد صفوف الارتفاع"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/rasterrect/height/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheader/mapheader
 ---
 ## MapHeader constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MapHeader()

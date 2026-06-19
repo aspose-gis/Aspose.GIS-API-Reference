@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.wkt/wktdatetime/
 public sealed class WktDateTime : WktSingleValue<string>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

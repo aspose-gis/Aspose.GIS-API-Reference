@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/extent/extent/
 ---
 ## Extent() {#constructor}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public Extent()
@@ -24,7 +24,7 @@ public Extent()
 
 ## Extent(SpatialReferenceSystem) {#constructor_1}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public Extent(SpatialReferenceSystem srs)
@@ -45,7 +45,7 @@ public Extent(SpatialReferenceSystem srs)
 
 ## Extent(double, double, double, double, SpatialReferenceSystem) {#constructor_2}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public Extent(double xMin, double yMin, double xMax, double yMax, SpatialReferenceSystem srs = null)
@@ -53,8 +53,8 @@ public Extent(double xMin, double yMin, double xMax, double yMax, SpatialReferen
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| xMin | Double | القيمة الصغرى لـ X. |
-| yMin | Double | القيمة الصغرى لـ Y. |
+| xMin | Double | القيمة الدنيا لـ X. |
+| yMin | Double | القيمة الدنيا لـ Y. |
 | xMax | Double | القيمة القصوى لـ X. |
 | yMax | Double | القيمة القصوى لـ Y. |
 | srs | SpatialReferenceSystem | [`SpatialReferenceSystem`](../../../aspose.gis.spatialreferencing/spatialreferencesystem/) المرتبط بهذا النطاق. يمكن أن يكون `null` للدلالة على أن نظام الإسناد المكاني غير معروف. |

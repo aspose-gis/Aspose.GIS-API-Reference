@@ -1,7 +1,7 @@
 ---
 title: "Brush.ForeColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Brush خاصية."
+description: "Brush الخاصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/brush/forecolor/

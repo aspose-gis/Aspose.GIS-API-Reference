@@ -1,5 +1,5 @@
 ---
-title: "فئة AbstractPathInternal"
+title: "الفئة AbstractPathInternal"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Common.AbstractPathInternal."
 type: docs

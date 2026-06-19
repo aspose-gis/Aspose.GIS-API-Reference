@@ -1,14 +1,14 @@
 ---
 title: "Extent.Center"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Extent. مركز الامتداد"
+description: "Extent خاصية. مركز الامتداد."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/extent/center/
 ---
 ## Extent.Center property
 
-مركز الامتداد.
+مركز النطاق.
 
 ```csharp
 public IPoint Center { get; }

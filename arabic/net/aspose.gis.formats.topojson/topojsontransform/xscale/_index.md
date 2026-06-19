@@ -1,7 +1,7 @@
 ---
 title: "TopoJsonTransform.XScale"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية TopoJsonTransform. المقياس لتطبيقه على إحداثي X"
+description: "خاصية TopoJsonTransform. مقياس لتطبيقه على إحداثي X"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.topojson/topojsontransform/xscale/

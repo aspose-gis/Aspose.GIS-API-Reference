@@ -16,12 +16,12 @@ public abstract RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | RasterDriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | RasterDriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -53,11 +53,11 @@ public RasterLayer OpenLayer(string path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
+| path | String | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -86,11 +86,11 @@ public RasterLayer OpenLayer(AbstractPath path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
+| path | AbstractPath | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -120,12 +120,12 @@ public RasterLayer OpenLayer(string path, RasterDriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | RasterDriverOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | RasterDriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 

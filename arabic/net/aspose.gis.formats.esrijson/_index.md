@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.EsriJson"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Formats.EsriJson توفر فئات للعمل مع تنسيق EsriJson"
+description: "مساحة الأسماء Aspose.Gis.Formats.EsriJson توفر فئات للعمل مع تنسيق EsriJson."
 type: docs
 weight: 240
 url: /ar/net/aspose.gis.formats.esrijson/

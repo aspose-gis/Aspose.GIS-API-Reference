@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.Gpx"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Formats.Gpx توفر فئات للعمل مع تنسيق GPX"
+description: "مساحة الأسماء Aspose.Gis.Formats.Gpx توفر فئات للعمل مع تنسيق GPX."
 type: docs
 weight: 310
 url: /ar/net/aspose.gis.formats.gpx/

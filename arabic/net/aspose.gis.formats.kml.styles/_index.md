@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.Kml.Styles"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Formats.Kml.Styles توفر فئات للعمل مع أنماط KML."
+description: "مساحة الأسماء `Aspose.Gis.Formats.Kml.Styles` توفر فئات للعمل مع أنماط KML."
 type: docs
 weight: 360
 url: /ar/net/aspose.gis.formats.kml.styles/
@@ -12,12 +12,12 @@ url: /ar/net/aspose.gis.formats.kml.styles/
 
 | فئة | الوصف |
 | --- | --- |
-| [KmlAbstractColorStyle](./kmlabstractcolorstyle/) | يوفر عناصر لتحديد اللون ووضع اللون لأنواع الأنماط التي تُستمد منه. |
+| [KmlAbstractColorStyle](./kmlabstractcolorstyle/) | يوفر عناصر لتحديد اللون ووضع اللون لأنواع الأنماط التي تُشتق منه. |
 | [KmlBalloonStyle](./kmlballoonstyle/) | يحدد كيفية رسم فقاعة الوصف. |
 | [KmlCoordinate](./kmlcoordinate/) | يحدد نظام إحداثيات الصورة. |
-| [KmlFeatureStyle](./kmlfeaturestyle/) | تؤثر الأنماط على طريقة عرض الهندسة. تُشفّر هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه باسم 'الأنماط المشتركة' في مواصفة kml. |
+| [KmlFeatureStyle](./kmlfeaturestyle/) | تؤثر الأنماط على طريقة عرض الهندسة. تُشفّر هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه بـ 'الأنماط المشتركة' في مواصفة kml. |
 | [KmlIconResource](./kmliconresource/) | يحدد موقع مورد الأيقونة |
-| [KmlIconStyle](./kmliconstyle/) | يحدد كيفية رسم الأيقونات لـ kml:Placemarks و kml:PhotoOverlay مع هندسة kml:Point في قائمة وعروض المتصفح الأرضية. |
+| [KmlIconStyle](./kmliconstyle/) | يحدد كيفية رسم الأيقونات لـ kml:Placemarks و kml:PhotoOverlay ذات هندسة kml:Point في قائمة متصفح الأرض والعروض الجغرافية. |
 | [KmlItemIcon](./kmlitemicon/) | يحدد موقع مورد الأيقونة في القائمة. |
 | [KmlLabelStyle](./kmllabelstyle/) | يحدد كيفية رسم التسمية في العرض الجغرافي. |
 | [KmlLineStyle](./kmllinestyle/) | يحدد كيفية رسم اسم kml:AbstractFeatureGroup في العرض الجغرافي. |

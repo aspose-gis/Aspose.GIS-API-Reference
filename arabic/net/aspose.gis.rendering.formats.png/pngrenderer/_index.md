@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.formats.png/pngrenderer/
 ---
 ## PngRenderer class
 
-عارض [`Renderer`](../../aspose.gis.rendering/renderer/) الذي يحول [`Map`](../../aspose.gis.rendering/map/) إلى ملف PNG.
+عارض [`Renderer`](../../aspose.gis.rendering/renderer/) يقوم بتحويل [`Map`](../../aspose.gis.rendering/map/) إلى ملف PNG.
 
 ```csharp
 public class PngRenderer : Renderer

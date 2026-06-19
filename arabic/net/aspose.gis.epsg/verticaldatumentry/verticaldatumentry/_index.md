@@ -1,7 +1,7 @@
 ---
 title: "VerticalDatumEntry.VerticalDatumEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "VerticalDatumEntry منشئ."
+description: "VerticalDatumEntry مُنشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.epsg/verticaldatumentry/verticaldatumentry/

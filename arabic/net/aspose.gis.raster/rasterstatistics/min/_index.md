@@ -1,7 +1,7 @@
 ---
 title: "RasterStatistics.Min"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterStatistics. القيمة الدنيا للخلايا أو قيم البكسل التي تم عدّها"
+description: "خاصية RasterStatistics. القيمة الدنيا للخلايا أو قيم البكسل المُحصاة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/rasterstatistics/min/

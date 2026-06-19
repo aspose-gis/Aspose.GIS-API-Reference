@@ -1,14 +1,14 @@
 ---
 title: "VectorLayer.Add"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. يضيف ميزة جديدة إلى الطبقة إذا كان مدعومًا من قبل VectorLayers Driver"
+description: "طريقة VectorLayer. يضيف عنصرًا جديدًا إلى الطبقة إذا كان VectorLayers Driver يدعم ذلك."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/vectorlayer/add/
 ---
 ## Add(Feature) {#add}
 
-يضيف ميزة جديدة إلى الطبقة، إذا كان مدعومًا من قبل [`VectorLayer`](../) الخاص بـ [`Driver`](../driver/).
+يضيف عنصرًا جديدًا إلى الطبقة، إذا كان [`VectorLayer`](../) الخاص بـ[`Driver`](../driver/) يدعم ذلك.
 
 ```csharp
 public virtual void Add(Feature feature)
@@ -16,7 +16,7 @@ public virtual void Add(Feature feature)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| ميزة | Feature | الميزة التي سيتم إضافتها. |
+| عنصر | Feature | العنصر المراد إضافته. |
 
 ### استثناءات
 
@@ -35,7 +35,7 @@ public virtual void Add(Feature feature)
 
 ## Add(Feature, IFeatureStyle) {#add_1}
 
-يضيف ميزة جديدة مع النمط المحدد إلى الطبقة، إذا كان مدعومًا من قبل [`VectorLayer`](../) الخاص بـ [`Driver`](../driver/).
+يضيف عنصرًا جديدًا مع النمط المحدد إلى الطبقة، إذا كان [`VectorLayer`](../) الخاص بـ[`Driver`](../driver/) يدعم ذلك.
 
 ```csharp
 public virtual void Add(Feature feature, IFeatureStyle style)
@@ -43,8 +43,8 @@ public virtual void Add(Feature feature, IFeatureStyle style)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| ميزة | Feature | الميزة التي سيتم إضافتها. |
-| نمط | IFeatureStyle | نمط الميزة. استخدم `null` للإشارة إلى عدم وجود نمط. |
+| عنصر | Feature | العنصر المراد إضافته. |
+| نمط | IFeatureStyle | نمط العنصر. استخدم `null` للإشارة إلى عدم وجود نمط. |
 
 ### استثناءات
 

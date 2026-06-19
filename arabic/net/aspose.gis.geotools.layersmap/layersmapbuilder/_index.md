@@ -8,17 +8,17 @@ url: /ar/net/aspose.gis.geotools.layersmap/layersmapbuilder/
 ---
 ## LayersMapBuilder class
 
-تحتوي على طريقة لإنشاء الخرائط وجميع الدوال التي تعتمد عليها.
+يحتوي على طريقة لإنشاء الخرائط وجميع الدوال التي تعتمد عليها.
 
 ```csharp
 public class LayersMapBuilder
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [LayersMapBuilder](layersmapbuilder/)() | المُنشئ الافتراضي. |
+| [LayersMapBuilder](layersmapbuilder/)() | المنشئ الافتراضي. |
 
 ## الطرق
 

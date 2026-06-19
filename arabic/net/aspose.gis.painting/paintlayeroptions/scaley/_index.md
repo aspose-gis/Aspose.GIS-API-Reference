@@ -1,7 +1,7 @@
 ---
 title: "PaintLayerOptions.ScaleY"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PaintLayerOptions خاصية."
+description: "خاصية PaintLayerOptions."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.painting/paintlayeroptions/scaley/

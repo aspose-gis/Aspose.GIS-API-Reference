@@ -1,14 +1,14 @@
 ---
 title: "TopologyException.TopologyException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "TopologyException منشئ. المنشئ الافتراضي"
+description: "TopologyException constructor. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.topology/topologyexception/topologyexception/
 ---
 ## TopologyException() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public TopologyException()

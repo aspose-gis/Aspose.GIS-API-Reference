@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmliconresource/
 public class KmlIconResource
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [KmlIconResource](kmliconresource/)() | المُنشئ الافتراضي. |
+| [KmlIconResource](kmliconresource/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

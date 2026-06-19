@@ -1,7 +1,7 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.YAxis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ProjectedSpatialReferenceSystemParameters. المحور الذي يصف البعد الرأسي Y. القيمة الافتراضية هي المحور المتجه نحو الشمال."
+description: "خاصية ProjectedSpatialReferenceSystemParameters. المحور الذي يصف البعد الرأسي Y. الافتراضي هو المحور المتجه شمالًا."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/

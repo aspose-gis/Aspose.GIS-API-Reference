@@ -1,14 +1,14 @@
 ---
 title: "PlacedCharacter.PlacedCharacter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PlacedCharacter منشئ. المُنشئ الافتراضي"
+description: "منشئ PlacedCharacter. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.painting/placedcharacter/placedcharacter/
 ---
 ## PlacedCharacter constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public PlacedCharacter()

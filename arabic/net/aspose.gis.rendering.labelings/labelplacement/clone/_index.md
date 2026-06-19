@@ -1,7 +1,7 @@
 ---
 title: "LabelPlacement.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LabelPlacement. تنسخ هذه المثيلة"
+description: "طريقة LabelPlacement. تنسخ هذا المثيل."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/labelplacement/clone/

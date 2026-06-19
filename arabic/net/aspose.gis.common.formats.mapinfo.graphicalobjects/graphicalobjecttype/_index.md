@@ -1,7 +1,7 @@
 ---
-title: "تعداد GraphicalObjectType"
+title: "التعداد GraphicalObjectType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType تعداد."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType التعداد."
 type: docs
 weight: 600
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlballoonstyle/text/
 ---
 ## KmlBalloonStyle.Text property
 
-يحدد النص المعروض في الفقاعة. القيمة الافتراضية هي `null`.
+تحدد النص المعروض في البالون. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string Text { get; set; }

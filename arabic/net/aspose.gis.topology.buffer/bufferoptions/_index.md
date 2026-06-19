@@ -1,7 +1,7 @@
 ---
 title: "الفئة BufferOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Buffer.BufferOptions فئة."
+description: "فئة Aspose.Gis.Topology.Buffer.BufferOptions."
 type: docs
 weight: 4810
 url: /ar/net/aspose.gis.topology.buffer/bufferoptions/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.topology.buffer/bufferoptions/
 public class BufferOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [BufferOptions](bufferoptions/)() | المُنشئ الافتراضي. |
+| [BufferOptions](bufferoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

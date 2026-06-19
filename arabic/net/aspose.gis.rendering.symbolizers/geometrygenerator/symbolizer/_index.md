@@ -1,7 +1,7 @@
 ---
 title: "GeometryGenerator.Symbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeometryGenerator. تحدد رمزًا لتطبيقه على الهندسة المعدلة. القيمة الافتراضية هي NullVectorSymbolizer"
+description: "خاصية GeometryGenerator. تحدد رمزًا لتطبيقه على الشكل المعدل. الافتراضي هو NullVectorSymbolizer"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/geometrygenerator/symbolizer/

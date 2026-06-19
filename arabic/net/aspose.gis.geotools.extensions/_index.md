@@ -6,7 +6,7 @@ type: docs
 weight: 500
 url: /ar/net/aspose.gis.geotools.extensions/
 ---
-`Aspose.Gis.GeoTools.Extensions` مساحة الاسم تحتوي على فئات تمثل الامتدادات.
+مساحة الاسم `Aspose.Gis.GeoTools.Extensions` تحتوي على فئات تمثل الامتدادات.
 
 ## الفئات
 

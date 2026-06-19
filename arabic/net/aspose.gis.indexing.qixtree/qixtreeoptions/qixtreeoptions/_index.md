@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.indexing.qixtree/qixtreeoptions/qixtreeoptions/
 ---
 ## QixTreeOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public QixTreeOptions()

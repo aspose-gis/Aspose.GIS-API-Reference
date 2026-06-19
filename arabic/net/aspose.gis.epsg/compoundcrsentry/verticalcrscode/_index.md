@@ -1,7 +1,7 @@
 ---
 title: "CompoundCrsEntry.VerticalCrsCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CompoundCrsEntry الخاصية."
+description: "CompoundCrsEntry خاصية."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.epsg/compoundcrsentry/verticalcrscode/

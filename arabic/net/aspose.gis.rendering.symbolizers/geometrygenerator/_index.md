@@ -1,7 +1,7 @@
 ---
 title: "الفئة GeometryGenerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Symbolizers.GeometryGenerator. زين رمزًا لتعديل هندسة المميزات قبل العرض"
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.GeometryGenerator. قم بتزيين رمز لتعديل هندسة المميزات قبل التصيير."
 type: docs
 weight: 4260
 url: /ar/net/aspose.gis.rendering.symbolizers/geometrygenerator/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/geometrygenerator/
 public class GeometryGenerator : VectorSymbolizer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GeometryGenerator](geometrygenerator/)() | المُنشئ الافتراضي. |
+| [GeometryGenerator](geometrygenerator/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

@@ -1,5 +1,5 @@
 ---
-title: "تعداد ColumnType"
+title: "التعداد ColumnType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Common.Formats.MapInfo.ColumnType تعداد."
 type: docs

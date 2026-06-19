@@ -1,7 +1,7 @@
 ---
-title: "Projection.إلى_مسقط"
+title: "Projection.ToProjected"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Projection."
+description: "Projection طريقة."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.projections/projection/toprojected/

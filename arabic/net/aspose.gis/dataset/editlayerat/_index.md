@@ -17,9 +17,9 @@ public abstract VectorLayer EditLayerAt(int index, DriverOptions options = null,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | فهرس الطبقة التي سيتم تعديلها. |
-| الخيارات | DriverOptions | خيارات الفتح. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية للأشكال الجديدة. |
+| فهرس | Int32 | فهرس الطبقة للتعديل. |
+| options | DriverOptions | خيارات الفتح. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية للأشكال الهندسية الجديدة. |
 
 ### قيمة الإرجاع
 
@@ -29,10 +29,10 @@ public abstract VectorLayer EditLayerAt(int index, DriverOptions options = null,
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | الطبقة بالاسم المحدد غير موجودة؛ كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
-| ArgumentException | كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
+| ArgumentException | الطبقة بالاسم المحدد غير موجودة؛ كائن Options له نوع غير صحيح لهذا مجموعة البيانات. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا مجموعة البيانات. |
 | ArgumentNullException | الاسم هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الطبقة. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الطبقة. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا

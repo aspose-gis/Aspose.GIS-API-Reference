@@ -1,14 +1,14 @@
 ---
 title: "CompoundCurve.CompoundCurve"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ CompoundCurve. يهيئ نسخة جديدة من فئة CompoundCurve"
+description: "منشئ CompoundCurve. يهيئ مثيلًا جديدًا من فئة CompoundCurve"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/compoundcurve/compoundcurve/
 ---
 ## CompoundCurve() {#constructor}
 
-يهيئ نسخة جديدة من فئة [`CompoundCurve`](../).
+يهيئ مثيلًا جديدًا من الفئة [`CompoundCurve`](../).
 
 ```csharp
 public CompoundCurve()
@@ -24,7 +24,7 @@ public CompoundCurve()
 
 ## CompoundCurve(IEnumerable&lt;ICurve&gt;) {#constructor_2}
 
-يهيئ نسخة جديدة من فئة [`CompoundCurve`](../).
+يهيئ مثيلًا جديدًا من الفئة [`CompoundCurve`](../).
 
 ```csharp
 public CompoundCurve(IEnumerable<ICurve> curves)
@@ -38,7 +38,7 @@ public CompoundCurve(IEnumerable<ICurve> curves)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المعامل أو أي من عناصره هو `null`. |
+| ArgumentNullException | الوسيط أو أي من عناصره هو `null`. |
 | ArgumentException | هناك نظاما إسناد مكاني غير فارغ على الأقل لا يتساويان مع بعضهما. |
 
 ### انظر أيضًا
@@ -52,7 +52,7 @@ public CompoundCurve(IEnumerable<ICurve> curves)
 
 ## CompoundCurve(ICompoundCurve) {#constructor_1}
 
-يهيئ نسخة جديدة من فئة [`CompoundCurve`](../).
+يهيئ مثيلًا جديدًا من الفئة [`CompoundCurve`](../).
 
 ```csharp
 public CompoundCurve(ICompoundCurve other)

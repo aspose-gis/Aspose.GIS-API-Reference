@@ -1,14 +1,14 @@
 ---
 title: "MultiDictionary2.MultiDictionary"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MultiDictionary منشئ. المنشئ الافتراضي"
+description: "MultiDictionary منشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.collections/multidictionary-2/multidictionary/
 ---
 ## MultiDictionary() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MultiDictionary()

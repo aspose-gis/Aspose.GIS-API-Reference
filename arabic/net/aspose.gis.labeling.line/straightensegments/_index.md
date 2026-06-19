@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling.line/straightensegments/
 public class StraightenSegments
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

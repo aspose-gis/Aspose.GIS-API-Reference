@@ -1,7 +1,7 @@
 ---
 title: "الفئة QixTreeOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Indexing.QixTree.QixTreeOptions فئة."
+description: "الفئة Aspose.Gis.Indexing.QixTree.QixTreeOptions."
 type: docs
 weight: 3150
 url: /ar/net/aspose.gis.indexing.qixtree/qixtreeoptions/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.indexing.qixtree/qixtreeoptions/
 public class QixTreeOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [QixTreeOptions](qixtreeoptions/)() | المُنشئ الافتراضي. |
+| [QixTreeOptions](qixtreeoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

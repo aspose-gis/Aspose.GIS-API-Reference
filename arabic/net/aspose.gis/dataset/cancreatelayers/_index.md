@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/dataset/cancreatelayers/
 ---
 ## Dataset.CanCreateLayers property
 
-يحصل على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إنشاء طبقات متجهة.
+يحصل على قيمة تشير إلى ما إذا كان يمكن لهذه مجموعة البيانات إنشاء طبقات متجهة.
 
 ```csharp
 public virtual bool CanCreateLayers { get; }
@@ -16,7 +16,7 @@ public virtual bool CanCreateLayers { get; }
 
 ### Property Value
 
-`true`، إذا كان بإمكان مجموعة البيانات هذه إنشاء طبقات متجهة؛ وإلا `false`.
+`true`، إذا كانت مجموعة البيانات هذه يمكنها إنشاء طبقات متجهة؛ وإلا، `false`.
 
 ### انظر أيضًا
 

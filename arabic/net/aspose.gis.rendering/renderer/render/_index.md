@@ -17,7 +17,7 @@ public void Render(Map map, string outputPath)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | خريطة | خريطة | خريطة للعرض. |
-| outputPath | String | مسار ملف الإخراج. |
+| outputPath | String | المسار إلى ملف الإخراج. |
 
 ### استثناءات
 
@@ -46,7 +46,7 @@ public void Render(Map map, AbstractPath outputPath)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | خريطة | خريطة | خريطة للعرض. |
-| outputPath | AbstractPath | مسار ملف الإخراج. |
+| outputPath | AbstractPath | المسار إلى ملف الإخراج. |
 
 ### استثناءات
 

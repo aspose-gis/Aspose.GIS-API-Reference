@@ -1,14 +1,14 @@
 ---
-title: "الواجهة IDatabaseEditableDataSource"
+title: "واجهة IDatabaseEditableDataSource"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Formats.Database.DataEditing.IDatabaseEditableDataSource. الكائن الذي ينفذ هذه الواجهة لديه القدرة على قبول طبقة مع القدرة على تتبع التغييرات وحفظها في قاعدة البيانات"
+description: "واجهة Aspose.Gis.Formats.Database.DataEditing.IDatabaseEditableDataSource. الكائن الذي يطبق هذه الواجهة لديه القدرة على قبول طبقة ذات القدرة على تتبع التغييرات وحفظها في قاعدة البيانات"
 type: docs
 weight: 1720
 url: /ar/net/aspose.gis.formats.database.dataediting/idatabaseeditabledatasource/
 ---
 ## IDatabaseEditableDataSource interface
 
-الكائن الذي يطبق هذه الواجهة يمتلك القدرة على قبول طبقة مع القدرة على تتبع التغييرات وحفظها في قاعدة البيانات.
+الكائن الذي ينفّذ هذه الواجهة يمتلك القدرة على قبول طبقة مع القدرة على تتبع التغييرات وحفظها في قاعدة البيانات.
 
 ```csharp
 public interface IDatabaseEditableDataSource : IDatabaseDataSource

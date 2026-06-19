@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbtableexception/gdbtableexcept
 ---
 ## GdbTableException() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GdbTableException()

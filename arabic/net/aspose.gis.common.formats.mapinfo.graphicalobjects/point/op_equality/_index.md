@@ -1,7 +1,7 @@
 ---
 title: "Point.op_Equality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Point طريقة."
+description: "طريقة Point."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/op_equality/

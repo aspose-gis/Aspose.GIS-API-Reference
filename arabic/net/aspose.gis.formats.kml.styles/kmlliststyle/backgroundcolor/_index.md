@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/backgroundcolor/
 ---
 ## KmlListStyle.BackgroundColor property
 
-يحدد لون الخلفية للعنصر الرسومي. القيمة الافتراضية أبيض.
+تحدد لون الخلفية للعنصر الرسومي. القيمة الافتراضية هي White.
 
 ```csharp
 public Color BackgroundColor { get; set; }

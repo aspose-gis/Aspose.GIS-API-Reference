@@ -1,7 +1,7 @@
 ---
 title: "AbstractPathInternal.Delete"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة AbstractPathInternal."
+description: "AbstractPathInternal طريقة."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common/abstractpathinternal/delete/

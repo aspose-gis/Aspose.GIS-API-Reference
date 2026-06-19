@@ -1,7 +1,7 @@
 ---
-title: "تعداد Quadrant"
+title: "التعداد Quadrant"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "تعداد Aspose.Gis.Common.Quadrant."
+description: "التعداد Aspose.Gis.Common.Quadrant."
 type: docs
 weight: 1340
 url: /ar/net/aspose.gis.common/quadrant/

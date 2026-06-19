@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/rastermapresampling/rastermapresampling/
 ---
 ## RasterMapResampling constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public RasterMapResampling()

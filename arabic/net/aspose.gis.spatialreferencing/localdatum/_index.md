@@ -1,20 +1,20 @@
 ---
 title: "الفئة LocalDatum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.SpatialReferencing.LocalDatum. تشير إلى الطريقة المستخدمة للقياسات في نظام إسناد مكاني محلي."
+description: "الفئة Aspose.Gis.SpatialReferencing.LocalDatum. تشير إلى الطريقة المستخدمة للقياسات في نظام الإسناد المكاني المحلي."
 type: docs
 weight: 4620
 url: /ar/net/aspose.gis.spatialreferencing/localdatum/
 ---
 ## LocalDatum class
 
-يشير إلى الطريقة المستخدمة للقياسات في نظام الإسناد المكاني المحلي.
+يشير إلى الطريقة المستخدمة للقياسات في نظام الإشارة المكانية المحلي.
 
 ```csharp
 public class LocalDatum : IdentifiableObject
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -33,7 +33,7 @@ public class LocalDatum : IdentifiableObject
 
 | الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
 
 ### انظر أيضًا
 

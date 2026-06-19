@@ -1,7 +1,7 @@
 ---
 title: "IndexableStreamReader.OffsetsPos"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IndexableStreamReader خاصية."
+description: "خاصية IndexableStreamReader."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.io/indexablestreamreader/offsetspos/

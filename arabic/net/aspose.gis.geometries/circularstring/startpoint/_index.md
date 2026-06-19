@@ -1,7 +1,7 @@
 ---
 title: "CircularString.StartPoint"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CircularString. تُرجع نسخة من نقطة البداية للمنحنى"
+description: "خاصية CircularString. تُعيد نسخة من نقطة البداية للمنحنى"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/circularstring/startpoint/

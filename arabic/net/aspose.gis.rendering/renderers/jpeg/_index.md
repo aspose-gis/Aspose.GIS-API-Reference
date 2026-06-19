@@ -1,14 +1,14 @@
 ---
 title: "Renderers.Jpeg"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Renderers property. مُعَرِّض يُحوِّل إلى تنسيق JPEG."
+description: "خاصية Renderers. عارض يقوم بالعرض بصيغة JPEG."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/renderers/jpeg/
 ---
 ## Renderers.Jpeg property
 
-عارض يقوم بالتحويل إلى صيغة JPEG.
+عارض يحول إلى صيغة JPEG.
 
 ```csharp
 public static JpegRenderer Jpeg { get; }

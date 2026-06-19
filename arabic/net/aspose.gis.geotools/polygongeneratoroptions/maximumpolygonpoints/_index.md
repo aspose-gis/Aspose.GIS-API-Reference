@@ -1,7 +1,7 @@
 ---
 title: "PolygonGeneratorOptions.MaximumPolygonPoints"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PolygonGeneratorOptions خاصية. الحد الأقصى لطول المضلع المولد"
+description: "PolygonGeneratorOptions property. الحد الأقصى لطول المضلع المولد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/warpoptions/targetextent/
 ---
 ## WarpOptions.TargetExtent property
 
-يحدد حدود طبقة الرستر للتشويه. إذا تم ضبطها على `null`، يتم حساب الامتداد أثناء التشويه لتضمين جميع الخلايا من الرستر.
+يحدد حدود طبقة الرستر للتشويه. إذا تم تعيينها إلى `null`، يتم حساب الامتداد أثناء التشويه لتضمين جميع الخلايا من الرستر.
 
 ```csharp
 public Extent TargetExtent { get; set; }

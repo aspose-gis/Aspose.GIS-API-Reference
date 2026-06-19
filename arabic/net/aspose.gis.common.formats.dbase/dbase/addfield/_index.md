@@ -1,5 +1,5 @@
 ---
-title: "DBase.أضف_حقل"
+title: "DBase.AddField"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

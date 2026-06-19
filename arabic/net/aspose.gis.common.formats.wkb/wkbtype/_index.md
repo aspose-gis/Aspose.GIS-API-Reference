@@ -1,5 +1,5 @@
 ---
-title: "عدد WkbType"
+title: "تعداد WkbType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Common.Formats.Wkb.WkbType عدد."
 type: docs

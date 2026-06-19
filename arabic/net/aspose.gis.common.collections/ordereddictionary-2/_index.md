@@ -1,7 +1,7 @@
 ---
 title: "الفئة OrderedDictionaryTKeyTValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.OrderedDictionary2TKeyTValue الفئة."
+description: "فئة Aspose.Gis.Common.Collections.OrderedDictionary2TKeyTValue."
 type: docs
 weight: 200
 url: /ar/net/aspose.gis.common.collections/ordereddictionary-2/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.collections/ordereddictionary-2/
 public class OrderedDictionary<TKey, TValue>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [OrderedDictionary](ordereddictionary/)() | المُنشئ الافتراضي. |
+| [OrderedDictionary](ordereddictionary/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

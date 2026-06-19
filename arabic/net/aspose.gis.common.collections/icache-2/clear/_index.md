@@ -1,5 +1,5 @@
 ---
-title: "ICache2.مسح"
+title: "ICache2.Clear"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة ICache."
 type: docs

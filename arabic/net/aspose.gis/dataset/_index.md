@@ -1,14 +1,14 @@
 ---
-title: "Class Dataset"
+title: "الفئة Dataset"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Dataset فئة. مجموعة البيانات هي مجموعة من كائنات VectorLayer"
+description: "الفئة Aspose.Gis.Dataset. مجموعة البيانات هي مجموعة من كائنات VectorLayer."
 type: docs
 weight: 1430
 url: /ar/net/aspose.gis/dataset/
 ---
 ## Dataset class
 
-مجموعة البيانات هي مجموعة من كائنات [`VectorLayer`](../vectorlayer/)
+مجموعة البيانات هي مجموعة من مثيلات [`VectorLayer`](../vectorlayer/).
 
 ```csharp
 public abstract class Dataset : IDisposable
@@ -18,8 +18,8 @@ public abstract class Dataset : IDisposable
 
 | الاسم | الوصف |
 | --- | --- |
-| virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إنشاء طبقات متجهة. |
-| virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إزالة طبقات متجهة. |
+| virtual [CanCreateLayers](../../aspose.gis/dataset/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان يمكن لهذه مجموعة البيانات إنشاء طبقات متجهة. |
+| virtual [CanRemoveLayers](../../aspose.gis/dataset/canremovelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان يمكن لهذه مجموعة البيانات إزالة طبقات متجهة. |
 | abstract [Driver](../../aspose.gis/dataset/driver/) { get; } | يحصل على [`Driver`](./driver/) الذي أنشأ مجموعة البيانات هذه. |
 | abstract [LayersCount](../../aspose.gis/dataset/layerscount/) { get; } | يحصل على عدد الطبقات في مجموعة البيانات هذه. |
 
@@ -50,7 +50,7 @@ public abstract class Dataset : IDisposable
 | abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat/)(int, DriverOptions) | يفتح الطبقة في الفهرس المحدد للقراءة. |
 | virtual [RemoveLayer](../../aspose.gis/dataset/removelayer/)(string) | يزيل الطبقة المتجهة بالاسم المحدد. |
 | virtual [RemoveLayerAt](../../aspose.gis/dataset/removelayerat/)(int) | يزيل الطبقة المتجهة في الفهرس المحدد. |
-| virtual [RenameLayer](../../aspose.gis/dataset/renamelayer/)(string, string) | إعادة تسمية الطبقة في مجموعة البيانات |
+| virtual [RenameLayer](../../aspose.gis/dataset/renamelayer/)(string, string) | إعادة تسمية الطبقة في مجموعة البيانات. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "MapTilesOptions.Url"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapTilesOptions. عنوان URL أو مسار إلى ملف"
+description: "خاصية MapTilesOptions. Url أو مسار إلى ملف"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools.layersmap/maptilesoptions/url/

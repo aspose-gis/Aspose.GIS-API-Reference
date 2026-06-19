@@ -17,8 +17,8 @@ public void SetValue<T>(string attributeName, T value)
 | معامل | الوصف |
 | --- | --- |
 | T | نوع القيمة. |
-| attributeName | اسم الخاصية. |
-| قيمة | قيمة السمة. |
+| attributeName | اسم السمة. |
+| القيمة | قيمة السمة. |
 
 ### استثناءات
 
@@ -33,7 +33,7 @@ public void SetValue<T>(string attributeName, T value)
 
 ## ملاحظات
 
-تحول هذه الطريقة القيمة تلقائيًا إلى نوع السمة.
+هذه الطريقة تحوّل القيمة تلقائيًا إلى نوع السمة.
 
 ### انظر أيضًا
 

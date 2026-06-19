@@ -1,7 +1,7 @@
 ---
 title: "SimpleLine.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SimpleLine. تستنسخ هذا المثيل"
+description: "طريقة SimpleLine. تنسخ هذا المثال"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/clone/

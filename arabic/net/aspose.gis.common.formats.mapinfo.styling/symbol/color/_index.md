@@ -1,7 +1,7 @@
 ---
 title: "Symbol.Color"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Symbol."
+description: "Symbol خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/symbol/color/

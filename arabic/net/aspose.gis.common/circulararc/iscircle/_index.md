@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.IsCircle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc خاصية."
+description: "CircularArc property."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.common/circulararc/iscircle/

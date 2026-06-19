@@ -1,7 +1,7 @@
 ---
 title: "GeoTiffOptions.GeoTiffOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "GeoTiffOptions منشئ. إنشاء نسخة جديدة"
+description: "منشئ GeoTiffOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.geotiff/geotiffoptions/geotiffoptions/

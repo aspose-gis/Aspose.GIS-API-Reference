@@ -1,5 +1,5 @@
 ---
-title: "فئة MapObjectsHeader"
+title: "الفئة MapObjectsHeader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Common.Formats.MapInfo.TabFormat.Map.MapObjectsHeader فئة."
 type: docs
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjectsheader/
 public class MapObjectsHeader
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapObjectsHeader](mapobjectsheader/)() | المُنشئ الافتراضي. |
+| [MapObjectsHeader](mapobjectsheader/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

@@ -1,7 +1,7 @@
 ---
 title: "PolylinesShape.AddPolyline"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PolylinesShape طريقة."
+description: "طريقة PolylinesShape."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.painting/polylinesshape/addpolyline/

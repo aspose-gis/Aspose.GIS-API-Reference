@@ -1,7 +1,7 @@
 ---
 title: "الفئة SingleBandColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Colorizers.SingleBandColor. يحدد ملون النطاق الأحادي مكوّنًا رماديًا للراستر."
+description: "الفئة Aspose.Gis.Rendering.Colorizers.SingleBandColor. يحدد مُلوّن النطاق الأحادي مكوّنًا رماديًا للراستر"
 type: docs
 weight: 3990
 url: /ar/net/aspose.gis.rendering.colorizers/singlebandcolor/
@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.rendering.colorizers/singlebandcolor/
 public class SingleBandColor : RasterColorizer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

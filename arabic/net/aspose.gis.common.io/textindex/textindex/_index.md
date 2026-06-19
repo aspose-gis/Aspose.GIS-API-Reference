@@ -1,7 +1,7 @@
 ---
 title: "TextIndex.TextIndex"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ TextIndex."
+description: "TextIndex منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.io/textindex/textindex/

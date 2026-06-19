@@ -1,7 +1,7 @@
 ---
 title: "Extent.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Extent. تشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع."
+description: "طريقة Extent. تشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis/extent/equals/
@@ -44,7 +44,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-`true` إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا `false`.
+`true` إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، `false`.
 
 ### انظر أيضًا
 

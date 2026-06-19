@@ -1,14 +1,14 @@
 ---
 title: "IndexingException.IndexingException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ IndexingException. المنشئ الافتراضي"
+description: "IndexingException منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.indexing/indexingexception/indexingexception/
 ---
 ## IndexingException() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public IndexingException()

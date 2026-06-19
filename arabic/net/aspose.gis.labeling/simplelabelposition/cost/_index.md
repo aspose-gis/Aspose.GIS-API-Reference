@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabelPosition.Cost"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabelPosition."
+description: "SimpleLabelPosition خاصية."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.labeling/simplelabelposition/cost/

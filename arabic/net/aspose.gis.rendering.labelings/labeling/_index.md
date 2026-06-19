@@ -18,7 +18,7 @@ public abstract class Labeling
 
 | الاسم | الوصف |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.labelings/labeling/null/) { get; } | يحصل على مثيل من [`NullLabeling`](../nulllabeling/). |
+| static [Null](../../aspose.gis.rendering.labelings/labeling/null/) { get; } | يحصل على نسخة من [`NullLabeling`](../nulllabeling/). |
 
 ### انظر أيضًا
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/iscomp
 ---
 ## CompoundSpatialReferenceSystem.IsCompound property
 
-يرجع `true`.
+تُعيد `true`.
 
 ```csharp
 public override bool IsCompound { get; }

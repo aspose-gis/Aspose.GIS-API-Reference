@@ -1,7 +1,7 @@
 ---
 title: "Symbol.Shape"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Symbol."
+description: "Symbol خاصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/symbol/shape/

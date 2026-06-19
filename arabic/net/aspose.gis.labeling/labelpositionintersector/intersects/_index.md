@@ -1,7 +1,7 @@
 ---
 title: "LabelPositionIntersector.Intersects"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LabelPositionIntersector."
+description: "LabelPositionIntersector طريقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.labeling/labelpositionintersector/intersects/

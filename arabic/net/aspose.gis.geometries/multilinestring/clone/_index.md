@@ -1,7 +1,7 @@
 ---
 title: "MultiLineString.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة MultiLineString. تستنسخ هذا المثيل."
+description: "طريقة MultiLineString. تستنسخ هذه النسخة."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/multilinestring/clone/
@@ -16,7 +16,7 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-نسخة هذا المثيل
+النسخة المستنسخة من هذه النسخة
 
 ### انظر أيضًا
 

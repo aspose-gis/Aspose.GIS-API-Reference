@@ -1,7 +1,7 @@
 ---
 title: "KmlPolygonStyle.Fill"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlPolygonStyle. تحدد ما إذا كان سيتم تعبئة المضلع. القيمة الافتراضية هي true"
+description: "خاصية KmlPolygonStyle. تحدد ما إذا كان يجب تعبئة المضلع. القيمة الافتراضية هي true"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/fill/

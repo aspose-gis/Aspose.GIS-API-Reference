@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.epsg/projectedcrsentry/
 public class ProjectedCrsEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [ProjectedCrsEntry](projectedcrsentry/)() | المُنشئ الافتراضي. |
+| [ProjectedCrsEntry](projectedcrsentry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

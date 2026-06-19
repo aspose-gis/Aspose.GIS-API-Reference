@@ -1,7 +1,7 @@
 ---
 title: "Dataset.RemoveLayer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Dataset. تزيل طبقة المتجه بالاسم المحدد"
+description: "طريقة Dataset. تزيل طبقة المتجه ذات الاسم المحدد"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis/dataset/removelayer/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/attributesconverteractions/attributesconverteractions/
 ---
 ## AttributesConverterActions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public AttributesConverterActions()

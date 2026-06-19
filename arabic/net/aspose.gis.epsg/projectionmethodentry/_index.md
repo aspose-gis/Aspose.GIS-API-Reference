@@ -1,7 +1,7 @@
 ---
-title: "البنية ProjectionMethodEntry"
+title: "الهيكل ProjectionMethodEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "البنية Aspose.Gis.Epsg.ProjectionMethodEntry."
+description: "الهيكل Aspose.Gis.Epsg.ProjectionMethodEntry."
 type: docs
 weight: 1550
 url: /ar/net/aspose.gis.epsg/projectionmethodentry/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.epsg/projectionmethodentry/
 public struct ProjectionMethodEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

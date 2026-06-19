@@ -1,7 +1,7 @@
 ---
 title: "Dataset.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Dataset. تنشئ مجموعة بيانات"
+description: "طريقة Dataset. ينشئ مجموعة بيانات"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/dataset/create/
@@ -16,8 +16,8 @@ public static Dataset Create(string path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | String | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -31,7 +31,7 @@ public static Dataset Create(string path, FileDriver driver)
 | ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ أثناء إنشاء مجموعة البيانات. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | المحرك لا يمكنه فتح مجموعات البيانات. |
+| NotSupportedException | Driver لا يمكنه فتح مجموعات البيانات. |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
 ### انظر أيضًا
@@ -53,8 +53,8 @@ public static Dataset Create(AbstractPath path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | AbstractPath | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -68,7 +68,7 @@ public static Dataset Create(AbstractPath path, FileDriver driver)
 | ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ أثناء إنشاء مجموعة البيانات. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | المحرك لا يمكنه فتح مجموعات البيانات. |
+| NotSupportedException | Driver لا يمكنه فتح مجموعات البيانات. |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
 ### انظر أيضًا
@@ -91,9 +91,9 @@ public static Dataset Create(string path, FileDriver driver, DriverOptions optio
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -107,7 +107,7 @@ public static Dataset Create(string path, FileDriver driver, DriverOptions optio
 | ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ أثناء إنشاء مجموعة البيانات. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | المحرك لا يمكنه فتح مجموعات البيانات. |
+| NotSupportedException | Driver لا يمكنه فتح مجموعات البيانات. |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
 ### انظر أيضًا
@@ -130,9 +130,9 @@ public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -146,7 +146,7 @@ public static Dataset Create(AbstractPath path, FileDriver driver, DriverOptions
 | ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ أثناء إنشاء مجموعة البيانات. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | المحرك لا يمكنه فتح مجموعات البيانات. |
+| NotSupportedException | Driver لا يمكنه فتح مجموعات البيانات. |
 | InvalidOperationException | مجموعة البيانات موجودة بالفعل. |
 
 ### انظر أيضًا

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/conversionoptions/sourcedriveroptions/
 ---
 ## ConversionOptions.SourceDriverOptions property
 
-خيارات خاصة بالسائق للطبقة المصدر.
+خيارات خاصة بالمحرك للطبقة المصدر.
 
 ```csharp
 public DriverOptions SourceDriverOptions { get; set; }

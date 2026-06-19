@@ -1,14 +1,14 @@
 ---
 title: "TopologyGeometry.TopologyGeometry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ TopologyGeometry. المنشئ الافتراضي"
+description: "TopologyGeometry منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.topology/topologygeometry/topologygeometry/
 ---
 ## TopologyGeometry constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public TopologyGeometry()

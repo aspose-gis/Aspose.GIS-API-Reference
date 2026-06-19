@@ -1,14 +1,14 @@
 ---
 title: "MultiCurve.Dimension"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MultiCurve. تحصل على البعد الطوبولوجي لهذه Geometry"
+description: "خاصية MultiCurve. تحصل على البعد الطوبولوجي لهذه الهندسة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/multicurve/dimension/
 ---
 ## MultiCurve.Dimension property
 
-تحصل على البعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
+يحصل على البُعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
 
 ```csharp
 public GeometryDimension Dimension { get; }

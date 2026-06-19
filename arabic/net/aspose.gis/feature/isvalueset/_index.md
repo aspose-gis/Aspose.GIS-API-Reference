@@ -1,14 +1,14 @@
 ---
 title: "Feature.IsValueSet"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Feature. تتحقق مما إذا كانت قيمة الخاصية مُعينة في هذه الميزة"
+description: "طريقة Feature. تتحقق مما إذا كانت قيمة الخاصية مضبوطة في هذه الميزة."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/feature/isvalueset/
 ---
 ## Feature.IsValueSet method
 
-يفحص ما إذا كانت قيمة السمة مُعينة في هذه الميزة.
+يتحقق مما إذا كانت قيمة السمة مُعينة في هذه الميزة.
 
 ```csharp
 public bool IsValueSet(string attributeName)
@@ -20,7 +20,7 @@ public bool IsValueSet(string attributeName)
 
 ### قيمة الإرجاع
 
-`true` إذا تم تعيين قيمة الخاصية المحددة؛ وإلا `false`.
+`true` إذا تم ضبط قيمة الخاصية المحددة؛ وإلا `false`.
 
 ### استثناءات
 

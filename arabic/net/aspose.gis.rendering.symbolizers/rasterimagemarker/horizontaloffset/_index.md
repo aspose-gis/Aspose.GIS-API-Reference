@@ -1,14 +1,14 @@
 ---
 title: "RasterImageMarker.HorizontalOffset"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterImageMarker. تحدد الإزاحة الأفقية من موقع النقطة إلى نقطة ربط الشكل"
+description: "خاصية RasterImageMarker. تحدد الإزاحة الأفقية من موقع النقطة إلى نقطة تثبيت الشكل"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/horizontaloffset/
 ---
 ## RasterImageMarker.HorizontalOffset property
 
-يحدد الإزاحة الأفقية من موقع النقطة إلى نقطة ارتكاز الشكل.
+يحدد الإزاحة الأفقية من موقع النقطة إلى نقطة تثبيت الشكل.
 
 ```csharp
 public Measurement HorizontalOffset { get; set; }

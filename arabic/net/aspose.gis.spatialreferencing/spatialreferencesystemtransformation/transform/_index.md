@@ -1,14 +1,14 @@
 ---
 title: "SpatialReferenceSystemTransformation.Transform"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SpatialReferenceSystemTransformation. تحول الشكل الهندسي من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف"
+description: "طريقة SpatialReferenceSystemTransformation. تحول الهندسة من نظام الإحداثيات المصدري إلى نظام الإحداثيات الهدف"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/
 ---
 ## SpatialReferenceSystemTransformation.Transform method
 
-يحول الشكل الهندسي من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف.
+يحول الهندسة من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف.
 
 ```csharp
 public Geometry Transform(IGeometry geometry)
@@ -16,18 +16,18 @@ public Geometry Transform(IGeometry geometry)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| هندسة | IGeometry | الشكل الهندسي للتحويل. |
+| هندسة | IGeometry | الهندسة للتحويل. |
 
 ### قيمة الإرجاع
 
-شكل هندسي جديد في نظام الإسناد المكاني الهدف.
+هندسة جديدة في نظام الإحداثيات الهدف.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الشكل الهندسي هو `null`. |
-| ArgumentException | الأشكال الهندسية [`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem/) ليست `null` ولا تعادل [`Source`](../source/) |
+| ArgumentNullException | الهندسة هي `null`. |
+| ArgumentException | الهندسات [`SpatialReferenceSystem`](../../../aspose.gis.geometries/igeometry/spatialreferencesystem/) ليست `null` ولا تعادل [`Source`](../source/) |
 | [TransformationException](../../transformationexception/) | فشل التحويل. |
 
 ### انظر أيضًا

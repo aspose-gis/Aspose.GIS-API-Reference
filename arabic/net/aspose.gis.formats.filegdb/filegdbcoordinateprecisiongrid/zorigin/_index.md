@@ -1,14 +1,14 @@
 ---
 title: "FileGdbCoordinatePrecisionGrid.ZOrigin"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعين أصل إحداثيات Z. إذا تم تعيينها إلى null تُستخدم القيمة الافتراضية."
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعيين أصل إحداثي Z. إذا تم تعيينها إلى null يتم استخدام القيمة الافتراضية."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/
 ---
 ## FileGdbCoordinatePrecisionGrid.ZOrigin property
 
-يحصل أو يضبط أصل إحداثية Z. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
+يحصل أو يضبط أصل إحداثية Z. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية.
 
 ```csharp
 public double? ZOrigin { get; set; }

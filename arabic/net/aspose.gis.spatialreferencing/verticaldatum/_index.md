@@ -1,20 +1,20 @@
 ---
 title: "الفئة VerticalDatum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.SpatialReferencing.VerticalDatum. تشير إلى الطريقة المستخدمة في القياسات الرأسية"
+description: "الفئة Aspose.Gis.SpatialReferencing.VerticalDatum. تشير إلى الطريقة المستخدمة للقياسات الرأسية"
 type: docs
 weight: 4750
 url: /ar/net/aspose.gis.spatialreferencing/verticaldatum/
 ---
 ## VerticalDatum class
 
-يشير إلى الطريقة المستخدمة للقياسات الرأسية.
+يشير إلى الطريقة المستخدمة للقياسات العمودية.
 
 ```csharp
 public class VerticalDatum : IdentifiableObject
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -33,7 +33,7 @@ public class VerticalDatum : IdentifiableObject
 
 | الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
 
 ### انظر أيضًا
 

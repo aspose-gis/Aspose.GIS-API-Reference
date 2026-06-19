@@ -1,14 +1,14 @@
 ---
 title: "MultiCurve.GeometryType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MultiCurve. يحصل على نوع الشكل الهندسي"
+description: "خاصية MultiCurve. يحصل على نوع الهندسة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/multicurve/geometrytype/
 ---
 ## MultiCurve.GeometryType property
 
-يحصل على نوع الهندسة.
+يحصل على نوع الـ geometry.
 
 ```csharp
 public override GeometryType GeometryType { get; }

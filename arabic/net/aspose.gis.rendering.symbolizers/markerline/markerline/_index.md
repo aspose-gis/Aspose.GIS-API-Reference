@@ -1,14 +1,14 @@
 ---
 title: "MarkerLine.MarkerLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ MarkerLine. يهيئ نسخة جديدة من فئة MarkerLine"
+description: "منشئ MarkerLine. يهيئ مثيلاً جديداً لفئة MarkerLine"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/markerline/markerline/
 ---
 ## MarkerLine() {#constructor}
 
-يهيئ نسخة جديدة من الفئة [`MarkerLine`](../).
+يهيئ مثيلاً جديداً للفئة [`MarkerLine`](../).
 
 ```csharp
 public MarkerLine()
@@ -24,7 +24,7 @@ public MarkerLine()
 
 ## MarkerLine(MarkerLine) {#constructor_1}
 
-يهيئ نسخة جديدة من الفئة [`MarkerLine`](../).
+يهيئ مثيلاً جديداً للفئة [`MarkerLine`](../).
 
 ```csharp
 public MarkerLine(MarkerLine other)

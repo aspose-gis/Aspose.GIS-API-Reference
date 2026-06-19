@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo/datum/datum/
 ---
 ## Datum constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public Datum()

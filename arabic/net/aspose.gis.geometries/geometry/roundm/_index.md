@@ -16,13 +16,13 @@ public void RoundM(int digits)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| أرقام | Int32 | عدد الأرقام العشرية. |
+| الأرقام | Int32 | عدد الأرقام العشرية. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *digits* أقل من 0 أو أكبر من 15. |
+| ArgumentOutOfRangeException | *الأرقام* أقل من 0 أو أكبر من 15. |
 
 ### انظر أيضًا
 

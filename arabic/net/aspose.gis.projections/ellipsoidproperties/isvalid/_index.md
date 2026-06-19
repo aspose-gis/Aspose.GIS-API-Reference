@@ -1,7 +1,7 @@
 ---
-title: "EllipsoidProperties.صالح"
+title: "EllipsoidProperties.IsValid"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية EllipsoidProperties."
+description: "EllipsoidProperties خاصية."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.projections/ellipsoidproperties/isvalid/

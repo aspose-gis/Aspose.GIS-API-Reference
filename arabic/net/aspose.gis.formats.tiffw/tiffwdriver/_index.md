@@ -1,14 +1,14 @@
 ---
-title: "فئة TiffWDriver"
+title: "الفئة TiffWDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Formats.TiffW.TiffWDriver. محرك لـ TiffW raster"
+description: "الفئة Aspose.Gis.Formats.TiffW.TiffWDriver. سائق لتنسيق TiffW الراستر"
 type: docs
 weight: 2350
 url: /ar/net/aspose.gis.formats.tiffw/tiffwdriver/
 ---
 ## TiffWDriver class
 
-برنامج تشغيل لتنسيق TiffW النقطي.
+محرك لصورة TiffW النقطية.
 
 ```csharp
 public class TiffWDriver : WorldRasterDriver
@@ -18,7 +18,7 @@ public class TiffWDriver : WorldRasterDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.tiffw/tiffwdriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.tiffw/tiffwdriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

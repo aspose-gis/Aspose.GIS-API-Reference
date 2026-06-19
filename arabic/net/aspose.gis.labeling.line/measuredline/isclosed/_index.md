@@ -1,7 +1,7 @@
 ---
 title: "MeasuredLine.IsClosed"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MeasuredLine خاصية"
+description: "خاصية MeasuredLine."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.labeling.line/measuredline/isclosed/

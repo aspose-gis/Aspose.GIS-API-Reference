@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/map/dispose/
 ---
 ## Map.Dispose method
 
-يحرّر الموارد.
+يقوم بتحرير الموارد.
 
 ```csharp
 public void Dispose()

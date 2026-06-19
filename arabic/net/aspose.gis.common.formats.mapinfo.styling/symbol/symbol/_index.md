@@ -1,7 +1,7 @@
 ---
 title: "Symbol.Symbol"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ Symbol."
+description: "Symbol منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/symbol/symbol/

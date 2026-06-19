@@ -1,7 +1,7 @@
 ---
 title: "Dataset.HasLayerWithName"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Dataset. تحقق مما إذا كانت مجموعة البيانات الحالية تحتوي على طبقة بالاسم المحدد"
+description: "طريقة Dataset. تحقق مما إذا كان لمجموعة البيانات الحالية طبقة باسم محدد"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis/dataset/haslayerwithname/
@@ -20,7 +20,7 @@ public virtual bool HasLayerWithName(string name)
 
 ### قيمة الإرجاع
 
-`true`، إذا كانت مجموعة البيانات تحتوي على طبقة بهذا الاسم؛ وإلا `false`
+`true`، إذا كانت مجموعة البيانات تحتوي على طبقة بهذا الاسم؛ وإلا، `false`
 
 ### انظر أيضًا
 

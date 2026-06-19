@@ -1,7 +1,7 @@
 ---
 title: "الفئة SystemDrawingPaintEngine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.SystemDrawingPaintEngine فئة."
+description: "Aspose.Gis.Painting.SystemDrawingPaintEngine الفئة."
 type: docs
 weight: 3670
 url: /ar/net/aspose.gis.painting/systemdrawingpaintengine/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.painting/systemdrawingpaintengine/
 public class SystemDrawingPaintEngine : PaintEngine
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

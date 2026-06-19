@@ -1,7 +1,7 @@
 ---
 title: "تعداد PointFormats"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.PointFormats تعداد. تُستخدم PointFormats لتحويل الإحداثيات في النص"
+description: "التعداد Aspose.Gis.PointFormats. تُستخدم PointFormats لتحويل الإحداثيات في النص."
 type: docs
 weight: 3690
 url: /ar/net/aspose.gis/pointformats/
@@ -18,15 +18,15 @@ public enum PointFormats
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| DecimalDegrees | `0` | صيغة الدرجات العشرية (DD). |
-| DegreeMinutesSeconds | `1` | صيغة الدرجات دقائق ثوانٍ (DMS). |
-| DegreeDecimalMinutes | `2` | صيغة الدرجات دقائق عشرية (DDM). |
+| DecimalDegrees | `0` | تنسيق الدرجات العشرية (DD). |
+| DegreeMinutesSeconds | `1` | تنسيق الدرجات دقائق وثوانٍ (DMS). |
+| DegreeDecimalMinutes | `2` | تنسيق الدرجات دقائق عشرية (DDM). |
 | GeoRef | `3` | نظام الإشارة الجغرافية العالمي. |
-| Mgrs | `4` | نظام الإشارة الشبكية العسكرية مع معيار WGS 84. |
-| Usng | `5` | الشبكة الوطنية للولايات المتحدة مع معيار WGS 84. |
+| Mgrs | `4` | نظام الإشارة الشبكية العسكرية مع مرجع WGS 84. |
+| Usng | `5` | الشبكة الوطنية للولايات المتحدة مع مرجع WGS 84. |
 | Gars | `6` | نظام الإشارة للمنطقة العالمية |
 | PlusCode | `7` | الرمز المفتوح للموقع (OLC) أو Plus Code |
-| Maidenhead | `8` | نظام موقع مايدن هيد (المعروف أيضًا باسم QTH Locator و IARU Locator) |
+| Maidenhead | `8` | نظام محدد الموقع مايدنهيد (المعروف أيضًا بـ QTH Locator و IARU Locator) |
 | Utm | `9` | نظام ميركاتور العرضي العالمي |
 
 ### انظر أيضًا

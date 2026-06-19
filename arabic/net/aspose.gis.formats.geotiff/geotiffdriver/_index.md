@@ -1,14 +1,14 @@
 ---
 title: "الفئة GeoTiffDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.GeoTiff.GeoTiffDriver فئة. مشغل لتنسيق Geo TIFF النقطي"
+description: "فئة Aspose.Gis.Formats.GeoTiff.GeoTiffDriver. محرك لتنسيق Geo TIFF النقطي"
 type: docs
 weight: 1930
 url: /ar/net/aspose.gis.formats.geotiff/geotiffdriver/
 ---
 ## GeoTiffDriver class
 
-محرك لتنسيق Geo TIFF للراستر.
+سائق لتنسيق Geo TIFF للراستر.
 
 ```csharp
 public class GeoTiffDriver : RasterDriver
@@ -18,7 +18,7 @@ public class GeoTiffDriver : RasterDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.geotiff/geotiffdriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.geotiff/geotiffdriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

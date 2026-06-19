@@ -1,7 +1,7 @@
 ---
 title: "LineGeneratorOptions.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LineGeneratorOptions. استنساخ الكائن إلى آخر"
+description: "طريقة LineGeneratorOptions. استنساخ الكائن إلى كائن آخر"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geotools/linegeneratoroptions/clone/
@@ -16,7 +16,7 @@ public LineGeneratorOptions Clone()
 
 ### قيمة الإرجاع
 
-استنساخ الكائن إلى آخر [`LineGeneratorOptions`](../).
+استنساخ الكائن إلى كائن آخر [`LineGeneratorOptions`](../).
 
 ### انظر أيضًا
 

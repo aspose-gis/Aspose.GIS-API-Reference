@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/text/
 public class Text : GraphicalObject, IEquatable<Text>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Text](text/)() | المُنشئ الافتراضي. |
+| [Text](text/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

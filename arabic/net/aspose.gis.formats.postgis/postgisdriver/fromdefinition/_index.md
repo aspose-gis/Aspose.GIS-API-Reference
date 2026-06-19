@@ -1,14 +1,14 @@
 ---
 title: "PostGisDriver.FromDefinition"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة PostGisDriver. تسمح ببدء عملية تكوين مصدر البيانات IFromDefinitionDataSource لمزيد من العمل معه."
+description: "طريقة PostGisDriver. يسمح ببدء عملية تكوين مصدر البيانات IFromDefinitionDataSource للعمل معه لاحقًا."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.postgis/postgisdriver/fromdefinition/
 ---
 ## PostGisDriver.FromDefinition method
 
-يسمح ببدء عملية تكوين مصدر البيانات [`IFromDefinitionDataSource`](../../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/) لمزيد من العمل معه.
+يسمح ببدء عملية تكوين مصدر البيانات [`IFromDefinitionDataSource`](../../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/) للعمل معه لاحقًا.
 
 ```csharp
 public FromDefinitionDataSourceBuilder FromDefinition(string tableName)

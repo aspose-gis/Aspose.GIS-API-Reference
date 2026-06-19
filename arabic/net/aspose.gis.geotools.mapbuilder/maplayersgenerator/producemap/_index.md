@@ -16,7 +16,7 @@ public static Map ProduceMap(MapGeneratorOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الخيارات | MapGeneratorOptions | خيارات مولد الخريطة. |
+| options | MapGeneratorOptions | خيارات مولد الخريطة. |
 
 ### قيمة الإرجاع
 

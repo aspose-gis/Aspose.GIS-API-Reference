@@ -1,7 +1,7 @@
 ---
 title: "Geometry.Null"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Geometry. يحصل على نسخة من الشكل الفارغ"
+description: "خاصية Geometry. تحصّل على مثيل من هندسة فارغة"
 type: docs
 weight: 460
 url: /ar/net/aspose.gis.geometries/geometry/null/

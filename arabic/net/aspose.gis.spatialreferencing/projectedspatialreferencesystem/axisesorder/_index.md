@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/axise
 ---
 ## ProjectedSpatialReferenceSystem.AxisesOrder property
 
-ترتيب المحاور في هذا SRS. إذا لم يكن هذا SRS صالحًا وكان لديه اتجاهات محاور خاطئة، يتم إرجاع Invalid.
+ترتيب المحاور في هذا الـ SRS. إذا لم يكن هذا الـ SRS صالحًا وكان لديه اتجاهات محاور خاطئة، يتم إرجاع Invalid.
 
 ```csharp
 public abstract ProjectedAxisesOrder AxisesOrder { get; }

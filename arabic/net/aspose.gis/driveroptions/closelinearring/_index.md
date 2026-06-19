@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/driveroptions/closelinearring/
 ---
 ## DriverOptions.CloseLinearRing property
 
-يحدد ما إذا كان يتم إغلاق LinearRing غير المغلقة في كل شكل هندسي. القيمة الافتراضية هي `false`.
+يحدد ما إذا كان سيتم إغلاق LinearRing غير المغلقة في كل شكل هندسي. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool CloseLinearRing { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: "IMultiSurface.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IMMultiSurface. تحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
+description: "طريقة IMMultiSurface. يحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/imultisurface/toeditable/
@@ -16,7 +16,7 @@ public MultiSurface ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

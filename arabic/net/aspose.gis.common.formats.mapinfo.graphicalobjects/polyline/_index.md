@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/polyline/
 public class Polyline : GraphicalObject, IEquatable<Polyline>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Polyline](polyline/)() | المُنشئ الافتراضي. |
+| [Polyline](polyline/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

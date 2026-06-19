@@ -1,20 +1,20 @@
 ---
 title: "الفئة StarGeneratorOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.GeoTools.StarGeneratorOptions. خيارات محددة للمولد لإنتاج المضلعات"
+description: "الفئة Aspose.Gis.GeoTools.StarGeneratorOptions. خيارات خاصة بالمولد لـ ProducePolygons"
 type: docs
 weight: 2630
 url: /ar/net/aspose.gis.geotools/stargeneratoroptions/
 ---
 ## StarGeneratorOptions class
 
-خيارات محددة للمولد لـ [`ProducePolygons`](../geogenerator/producepolygons/).
+خيارات خاصة بالمولد لـ [`ProducePolygons`](../geogenerator/producepolygons/).
 
 ```csharp
 public class StarGeneratorOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -24,18 +24,18 @@ public class StarGeneratorOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.geotools/stargeneratoroptions/count/) { get; set; } | عدد المضلعات التي سيتم إنشاؤها. |
-| [MaximumStarVertex](../../aspose.gis.geotools/stargeneratoroptions/maximumstarvertex/) { get; set; } | الحد الأقصى للنقطة الخارجية للجانب المُولد. |
-| [MinimumStarVertex](../../aspose.gis.geotools/stargeneratoroptions/minimumstarvertex/) { get; set; } | الحد الأدنى للنقطة الخارجية للجانب المُولد. |
+| [Count](../../aspose.gis.geotools/stargeneratoroptions/count/) { get; set; } | عدد المضلعات لإنشائها. |
+| [MaximumStarVertex](../../aspose.gis.geotools/stargeneratoroptions/maximumstarvertex/) { get; set; } | الحد الأقصى للركن الخارجي للجانب المُولد. |
+| [MinimumStarVertex](../../aspose.gis.geotools/stargeneratoroptions/minimumstarvertex/) { get; set; } | الحد الأدنى للركن الخارجي للجانب المُولد. |
 | [Place](../../aspose.gis.geotools/stargeneratoroptions/place/) { get; set; } | وضعية التوزيع في الخلايا المُولدة. |
-| [Seed](../../aspose.gis.geotools/stargeneratoroptions/seed/) { get; set; } | رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة. |
+| [Seed](../../aspose.gis.geotools/stargeneratoroptions/seed/) { get; set; } | عدد يُستخدم لحساب قيمة البذرة لتسلسل من الأعداد العشوائية الزائفة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
 | [Clone](../../aspose.gis.geotools/stargeneratoroptions/clone/)() | استنساخ الكائن إلى آخر. |
-| override [ToString](../../aspose.gis.geotools/stargeneratoroptions/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.geotools/stargeneratoroptions/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
 
 ### انظر أيضًا
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/labeling/null/
 ---
 ## Labeling.Null property
 
-تحصل على مثيل من [`NullLabeling`](../../nulllabeling/).
+يحصل على مثيل من [`NullLabeling`](../../nulllabeling/).
 
 ```csharp
 public static NullLabeling Null { get; }

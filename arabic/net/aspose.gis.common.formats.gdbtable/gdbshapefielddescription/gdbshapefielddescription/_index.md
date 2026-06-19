@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbshapefielddescription/gdbshap
 ---
 ## GdbShapeFieldDescription constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GdbShapeFieldDescription()

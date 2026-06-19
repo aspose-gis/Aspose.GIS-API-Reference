@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.GetHashCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc طريقة."
+description: "CircularArc method."
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.common/circulararc/gethashcode/

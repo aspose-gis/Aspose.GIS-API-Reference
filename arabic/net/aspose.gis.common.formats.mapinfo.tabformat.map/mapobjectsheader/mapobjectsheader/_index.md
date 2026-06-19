@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjectsheader/ma
 ---
 ## MapObjectsHeader constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MapObjectsHeader()

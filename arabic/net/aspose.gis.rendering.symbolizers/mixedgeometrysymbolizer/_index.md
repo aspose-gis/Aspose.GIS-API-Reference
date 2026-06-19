@@ -1,7 +1,7 @@
 ---
 title: "الفئة MixedGeometrySymbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Symbolizers.MixedGeometrySymbolizer. يطبق الرمز الصحيح على هندسة الميزة وفقًا لنوع هندستها."
+description: "الفئة Aspose.Gis.Rendering.Symbolizers.MixedGeometrySymbolizer. يطبق الرمز المناسب على هندسة الميزة وفقًا لنوع هندستها."
 type: docs
 weight: 4330
 url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/
 public class MixedGeometrySymbolizer : VectorSymbolizer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MixedGeometrySymbolizer](mixedgeometrysymbolizer/)() | ينشئ مثيلًا جديدًا. |
+| [MixedGeometrySymbolizer](mixedgeometrysymbolizer/)() | ينشئ نسخة جديدة. |
 
 ## الخصائص
 

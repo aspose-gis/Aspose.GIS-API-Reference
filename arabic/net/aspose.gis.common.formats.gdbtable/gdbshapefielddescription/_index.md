@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbshapefielddescription/
 public class GdbShapeFieldDescription : GdbFieldDescription
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GdbShapeFieldDescription](gdbshapefielddescription/)() | المُنشئ الافتراضي. |
+| [GdbShapeFieldDescription](gdbshapefielddescription/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.labeling/labelsindex/labelsindex/
 ---
 ## LabelsIndex constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public LabelsIndex()

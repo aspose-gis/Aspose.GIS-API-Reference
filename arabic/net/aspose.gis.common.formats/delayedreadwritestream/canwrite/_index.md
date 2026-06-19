@@ -1,7 +1,7 @@
 ---
 title: "DelayedReadWriteStream.CanWrite"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية DelayedReadWriteStream."
+description: "DelayedReadWriteStream خاصية."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.formats/delayedreadwritestream/canwrite/

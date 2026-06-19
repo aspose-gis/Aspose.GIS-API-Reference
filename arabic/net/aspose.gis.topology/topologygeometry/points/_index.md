@@ -1,7 +1,7 @@
 ---
 title: "TopologyGeometry.Points"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية TopologyGeometry."
+description: "TopologyGeometry خاصية."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.topology/topologygeometry/points/

@@ -1,7 +1,7 @@
 ---
 title: "MidReader.Dispose"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MidReader طريقة."
+description: "طريقة MidReader."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/midreader/dispose/

@@ -1,7 +1,7 @@
 ---
 title: "تعداد Unit"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.Unit enum. وحدة قياس."
+description: "تعداد Aspose.Gis.Rendering.Unit. وحدة قياس."
 type: docs
 weight: 4440
 url: /ar/net/aspose.gis.rendering/unit/
@@ -22,8 +22,8 @@ public enum Unit
 | Points | `1` | يحدد النقاط. هناك 72 نقطة في البوصة. |
 | Millimeters | `2` | يحدد المليمترات. |
 | Inches | `3` | يحدد البوصات. البوصة الواحدة تساوي 25.4 مليمتر. |
-| MapUnits | `4` | يحدد وحدات الخريطة الخاصة بالمرجع المكاني. |
-| MetersOnEarth | `5` | يحدد طولًا بالأمتار الفعلية على الأرض بغض النظر عما هو [`SpatialReferenceSystem`](../map/spatialreferencesystem/). |
+| MapUnits | `4` | يحدد وحدات الخريطة الخاصة بالإشارة المكانية. |
+| MetersOnEarth | `5` | يحدد طولًا بالمتر الفعلي على الأرض بغض النظر عما هو [`SpatialReferenceSystem`](../map/spatialreferencesystem/). |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "Ellipsoid.SemiMajorAxis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Ellipsoid. المحور الرئيسي شبه للقطعة الناقصة"
+description: "خاصية Ellipsoid. المحور الرئيسي الأكبر للإهليلج"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/semimajoraxis/

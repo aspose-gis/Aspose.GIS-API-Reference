@@ -16,8 +16,8 @@ public void Add(Func<Feature, bool> filter, VectorSymbolizer symbolizer)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| فلتر | Func`2 | يحدد متى يجب تطبيق symbolizer على ميزة. |
-| symbolizer | VectorSymbolizer | symbolizer لتطبيقه على ميزة عندما يُعيد *filter* true. |
+| فلتر | Func`2 | يحدد متى يجب تطبيق المُرمّز على ميزة. |
+| symbolizer | VectorSymbolizer | المُرمّز لتطبيقه على ميزة عندما يُعيد *filter* القيمة true. |
 
 ### انظر أيضًا
 

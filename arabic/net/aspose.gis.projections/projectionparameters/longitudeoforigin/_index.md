@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameters.خط_الطول_للأصل"
+title: "ProjectionParameters.LongitudeOfOrigin"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية ProjectionParameters."
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: "فئة XyzConnection"
+title: "الفئة XyzConnection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Formats.XyzTile.XyzConnection. اتصال لتنسيق XyzTiles"
 type: docs
@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.formats.xyztile/xyzconnection/
 public class XyzConnection
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

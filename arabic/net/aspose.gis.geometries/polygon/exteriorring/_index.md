@@ -16,17 +16,17 @@ public ILinearRing ExteriorRing { get; set; }
 
 ### قيمة الإرجاع
 
-الحلقة الخارجية. تُعيد [`ILinearRing`](../../ilinearring/)
+الحلقة الخارجية. تُرجع [`ILinearRing`](../../ilinearring/)
 
 ### Property Value
 
-الحلقة الخارجية. تُعيد [`ILinearRing`](../../ilinearring/)
+الحلقة الخارجية. تُرجع [`ILinearRing`](../../ilinearring/)
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليس `null` ولا يساويان بعضهما البعض. |
 
 ### انظر أيضًا
 

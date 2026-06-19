@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/multipoint/dimension/
 ---
 ## MultiPoint.Dimension property
 
-تحصل على البعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
+يحصل على البُعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
 
 ```csharp
 public GeometryDimension Dimension { get; }

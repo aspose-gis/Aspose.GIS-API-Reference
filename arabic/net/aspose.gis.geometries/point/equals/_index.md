@@ -1,7 +1,7 @@
 ---
 title: "Point.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Point. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
+description: "طريقة Point. تحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/point/equals/
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
+صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -44,7 +44,7 @@ public bool Equals(IPoint other)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
+صحيح إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا، خطأ.
 
 ### انظر أيضًا
 

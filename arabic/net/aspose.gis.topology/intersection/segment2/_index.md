@@ -1,7 +1,7 @@
 ---
 title: "Intersection.Segment2"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Intersection خاصية."
+description: "خاصية Intersection."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.topology/intersection/segment2/

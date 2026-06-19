@@ -1,7 +1,7 @@
 ---
-title: "الفئة TopoJsonTransform"
+title: "Class TopoJsonTransform"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Formats.TopoJson.TopoJsonTransform. كائن تحويل يمكن استخدامه لتكميم الإحداثيات عند كتابة ملف TopoJSON"
+description: "فئة Aspose.Gis.Formats.TopoJson.TopoJsonTransform. كائن تحويل يمكن استخدامه لتكميم الإحداثيات عند كتابة ملف TopoJSON"
 type: docs
 weight: 2380
 url: /ar/net/aspose.gis.formats.topojson/topojsontransform/
@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.formats.topojson/topojsontransform/
 public class TopoJsonTransform
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -25,9 +25,9 @@ public class TopoJsonTransform
 | الاسم | الوصف |
 | --- | --- |
 | [XScale](../../aspose.gis.formats.topojson/topojsontransform/xscale/) { get; set; } | المقياس لتطبيقه على إحداثي X. |
-| [XTranslate](../../aspose.gis.formats.topojson/topojsontransform/xtranslate/) { get; set; } | التحويل لتطبيقه على إحداثي X. |
+| [XTranslate](../../aspose.gis.formats.topojson/topojsontransform/xtranslate/) { get; set; } | الترجمة لتطبيقها على إحداثي X. |
 | [YScale](../../aspose.gis.formats.topojson/topojsontransform/yscale/) { get; set; } | المقياس لتطبيقه على إحداثي Y. |
-| [YTranslate](../../aspose.gis.formats.topojson/topojsontransform/ytranslate/) { get; set; } | التحويل لتطبيقه على إحداثي Y. |
+| [YTranslate](../../aspose.gis.formats.topojson/topojsontransform/ytranslate/) { get; set; } | الترجمة لتطبيقها على إحداثي Y. |
 
 ## ملاحظات
 

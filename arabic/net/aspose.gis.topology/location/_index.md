@@ -1,7 +1,7 @@
 ---
 title: "تعداد Location"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Location تعداد."
+description: "تعداد Aspose.Gis.Topology.Location."
 type: docs
 weight: 5010
 url: /ar/net/aspose.gis.topology/location/

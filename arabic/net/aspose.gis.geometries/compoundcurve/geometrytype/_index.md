@@ -1,14 +1,14 @@
 ---
 title: "CompoundCurve.GeometryType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CompoundCurve. تحصل على نوع الشكل"
+description: "خاصية CompoundCurve. تحصل على نوع الهندسة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/compoundcurve/geometrytype/
 ---
 ## CompoundCurve.GeometryType property
 
-يحصل على نوع الهندسة.
+يحصل على نوع الـ geometry.
 
 ```csharp
 public override GeometryType GeometryType { get; }

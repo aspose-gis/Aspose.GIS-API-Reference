@@ -1,5 +1,5 @@
 ---
-title: "BoundingRectangle.Grow"
+title: "BoundingRectangle تكبير"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "BoundingRectangle طريقة."
 type: docs

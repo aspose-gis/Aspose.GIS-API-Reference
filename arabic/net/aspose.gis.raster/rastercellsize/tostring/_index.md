@@ -1,14 +1,14 @@
 ---
 title: "RasterCellSize.ToString"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة RasterCellSize. تُرجع سلسلة تمثل الكائن الحالي"
+description: "طريقة RasterCellSize. يرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.raster/rastercellsize/tostring/
 ---
 ## RasterCellSize.ToString method
 
-يعيد سلسلة تمثل الكائن الحالي.
+يرجع سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تمثل الكائن الحالي.
+سلسلة تمثِّل الكائن الحالي.
 
 ### انظر أيضًا
 

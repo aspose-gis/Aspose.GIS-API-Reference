@@ -1,14 +1,14 @@
 ---
 title: "KmlBalloonStyle.DisplayMode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlBalloonStyle. تتحكم فيما إذا كان البالون معروضًا أم مخفيًا. القيمة الافتراضية هي Show"
+description: "خاصية KmlBalloonStyle. تتحكم فيما إذا كان البالون معروضًا أو مخفيًا. القيمة الافتراضية هي Show"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmlballoonstyle/displaymode/
 ---
 ## KmlBalloonStyle.DisplayMode property
 
-يتحكم فيما إذا كانت الفقاعة معروضة أو مخفية. القيمة الافتراضية هي إظهار
+تتحكم فيما إذا كان البالون معروضًا أو مخفيًا. القيمة الافتراضية هي Show
 
 ```csharp
 public KmlDisplayModes DisplayMode { get; set; }

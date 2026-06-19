@@ -1,12 +1,12 @@
 ---
 title: "Aspose.Gis.Rendering.Symbolizers"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Rendering.Symbolizers توفر فئات لتكوين ميزات المتجهات عند العرض"
+description: "مساحة الأسماء Aspose.Gis.Rendering.Symbolizers توفر فئات لتكوين ميزات المتجهات أثناء العرض."
 type: docs
 weight: 740
 url: /ar/net/aspose.gis.rendering.symbolizers/
 ---
-مساحة الاسم `Aspose.Gis.Rendering.Symbolizers` توفر فئات لتكوين عرض ميزات المتجه.
+مساحة الأسماء `Aspose.Gis.Rendering.Symbolizers` توفر فئات لتكوين عرض الميزات المتجهة.
 
 ## الفئات
 
@@ -18,21 +18,21 @@ url: /ar/net/aspose.gis.rendering.symbolizers/
 | [MarkerLine](./markerline/) | مُرمّز خط العلامة. |
 | [MarkerPatternFill](./markerpatternfill/) | مُرمّز تعبئة نمط العلامة. |
 | [MixedGeometrySymbolizer](./mixedgeometrysymbolizer/) | يطبق المُرمّز الصحيح على هندسة الميزة وفقًا لنوع هندستها. |
-| [NullVectorSymbolizer](./nullvectorsymbolizer/) | يقوم الـ `NullSymbolizer` بعدم رسم أي شيء ويتخطى فعليًا عملية عرض الهندسة التي يُطبّق عليها. |
-| [RasterImageMarker](./rasterimagemarker/) | يقوم هذا الرمز بعرض صورة نقطية مقدمة. |
+| [NullVectorSymbolizer](./nullvectorsymbolizer/) | يقوم الـ `NullSymbolizer` بعدم رسم أي شيء ويتخطى فعليًا عرض الهندسة التي يُطبق عليها. |
+| [RasterImageMarker](./rasterimagemarker/) | يقوم هذا الـ symbolizer بعرض صورة نقطية مُقدمة. |
 | [Rule](./rule/) | قاعدة معرفة من قبل المستخدم لـ [`RuleBasedSymbolizer`](../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/). |
-| [RuleBasedSymbolizer](./rulebasedsymbolizer/) | يطبق رمزًا على هندسات الميزة وفقًا للقواعد المعرفة من قبل المستخدم. |
-| [SimpleFill](./simplefill/) | رمز مضلع بسيط. |
-| [SimpleLine](./simpleline/) | رمز خط بسيط. |
-| [SimpleMarker](./simplemarker/) | رمز نقطة بسيط. |
-| [VectorSymbolizer](./vectorsymbolizer/) | الفئة الجذرية المجردة للرموز التي تعرض ميزات المتجهات. |
+| [RuleBasedSymbolizer](./rulebasedsymbolizer/) | يطبق الـ symbolizer على هندسات العناصر وفقًا لقواعد معرفة من قبل المستخدم. |
+| [SimpleFill](./simplefill/) | symbolizer مضلع بسيط. |
+| [SimpleLine](./simpleline/) | symbolizer خط بسيط. |
+| [SimpleMarker](./simplemarker/) | symbolizer نقطة بسيطة. |
+| [VectorSymbolizer](./vectorsymbolizer/) | الفئة الجذرية المجردة للـ symbolizers التي تقوم بتصيير العناصر المتجهة. |
 ## تعداد
 
 | تعداد | الوصف |
 | --- | --- |
-| [HorizontalAnchor](./horizontalanchor/) | يحدد الجانب الذي يُمحاذى أفقياً. |
+| [HorizontalAnchor](./horizontalanchor/) | يحدد الجانب الذي سيتم محاذاته أفقيًا. |
 | [MarkerShapeType](./markershapetype/) | نوع الشكل للعلامة. |
-| [RenderingOrder](./renderingorder/) | يحدد ترتيب العرض. |
-| [VerticalAnchor](./verticalanchor/) | يحدد الجانب الذي يُمحاذى عمودياً. |
+| [RenderingOrder](./renderingorder/) | يحدد ترتيب التصيير. |
+| [VerticalAnchor](./verticalanchor/) | يحدد الجانب الذي سيتم محاذاته عموديًا. |
 
 

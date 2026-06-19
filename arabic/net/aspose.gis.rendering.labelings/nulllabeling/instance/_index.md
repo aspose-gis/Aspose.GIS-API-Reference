@@ -1,7 +1,7 @@
 ---
 title: "NullLabeling.Instance"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية NullLabeling. تحصل على مثيل من NullLabeling"
+description: "خاصية NullLabeling. تحصل على مثيل من NullLabeling."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/nulllabeling/instance/

@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.GeoTiff"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الأسماء Aspose.Gis.Formats.GeoTiff توفر فئات للعمل مع تنسيق GeoTiff"
+description: "مساحة الأسماء Aspose.Gis.Formats.GeoTiff توفر فئات للعمل مع تنسيق GeoTiff."
 type: docs
 weight: 290
 url: /ar/net/aspose.gis.formats.geotiff/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.formats.geotiff/
 
 | فئة | الوصف |
 | --- | --- |
-| [GeoTiffDriver](./geotiffdriver/) | محرك لتنسيق Geo TIFF للراستر. |
-| [GeoTiffOptions](./geotiffoptions/) | خيارات خاصة بالمحرك لتنسيق GeoTiff. |
+| [GeoTiffDriver](./geotiffdriver/) | سائق لتنسيق Geo TIFF للراستر. |
+| [GeoTiffOptions](./geotiffoptions/) | خيارات خاصة بالسائق لتنسيق GeoTiff. |
 
 

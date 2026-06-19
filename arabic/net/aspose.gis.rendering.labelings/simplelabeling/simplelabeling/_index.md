@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.SimpleLabeling"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ SimpleLabeling. يهيئ مثيلًا جديدًا من الفئة SimpleLabeling"
+description: "منشئ SimpleLabeling. يهيئ مثيلًا جديدًا من فئة SimpleLabeling"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/simplelabeling/
@@ -52,7 +52,7 @@ public SimpleLabeling(SimpleLabeling other)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | SimpleLabeling | الـ[`SimpleLabeling`](../) الآخر لنسخ البيانات منه. |
+| other | SimpleLabeling | الـ [`SimpleLabeling`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 

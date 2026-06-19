@@ -1,14 +1,14 @@
 ---
 title: "VectorMapLayer.Symbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية VectorMapLayer. Symbolizer لاستخدامه في عرض ميزات الطبقة."
+description: "خاصية VectorMapLayer. Symbolizer لاستخدامه في عرض ميزات الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering/vectormaplayer/symbolizer/
 ---
 ## VectorMapLayer.Symbolizer property
 
-الرمز المستخدم لتصوير ميزات الطبقة.
+المُرمّز المستخدم لتصوير ميزات الطبقة.
 
 ```csharp
 public VectorSymbolizer Symbolizer { get; set; }

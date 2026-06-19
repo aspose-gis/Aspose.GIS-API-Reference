@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/conversionoptions/destinationdriveroptions/
 ---
 ## ConversionOptions.DestinationDriverOptions property
 
-خيارات خاصة بالسائق للطبقة الوجهة.
+خيارات خاصة بالمحرك للطبقة الوجهة.
 
 ```csharp
 public DriverOptions DestinationDriverOptions { get; set; }

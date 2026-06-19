@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/rasterlayer/nodatavalues/
 ---
 ## RasterLayer.NoDataValues property
 
-يحصل على القيم التي تمثل الخلفية أو 'لا بيانات' للراستر.
+يسترجع القيم التي تمثل الخلفية أو "لا بيانات" للراستر.
 
 ```csharp
 public abstract IRasterValues NoDataValues { get; }

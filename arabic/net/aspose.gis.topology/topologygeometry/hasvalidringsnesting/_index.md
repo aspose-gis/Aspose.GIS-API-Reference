@@ -1,7 +1,7 @@
 ---
 title: "TopologyGeometry.HasValidRingsNesting"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة TopologyGeometry."
+description: "TopologyGeometry طريقة."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.topology/topologygeometry/hasvalidringsnesting/

@@ -1,14 +1,14 @@
 ---
 title: "Measurement.ToString"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة القياس. تُرجع هذه النسخة محوّلة إلى نص"
+description: "طريقة القياس. تُرجع هذه النسخة محوَّلة إلى سلسلة"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.rendering/measurement/tostring/
 ---
 ## Measurement.ToString method
 
-يعيد هذه النسخة محوّلة إلى سلسلة.
+إرجاع هذه النسخة محوَّلة إلى سلسلة.
 
 ```csharp
 public override string ToString()

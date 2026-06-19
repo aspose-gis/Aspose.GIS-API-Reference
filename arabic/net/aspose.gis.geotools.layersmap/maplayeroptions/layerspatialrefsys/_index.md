@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.layersmap/maplayeroptions/layerspatialrefsys/
 ---
 ## MapLayerOptions.LayerSpatialRefSys field
 
-يحدد قيمة لإشارة الفضاء للطبقة.
+يحدد قيمة للمرجع المكاني للطبقة.
 
 ```csharp
 public SpatialReferenceSystem LayerSpatialRefSys;

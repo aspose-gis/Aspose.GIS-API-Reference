@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/
 public class MapReader : IGraphcialObjectsFile
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

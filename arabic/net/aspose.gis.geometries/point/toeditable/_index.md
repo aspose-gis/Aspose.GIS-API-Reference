@@ -1,7 +1,7 @@
 ---
 title: "Point.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Point. يحصل على نسخة قابلة للتحرير من هذه الهندسة"
+description: "طريقة Point. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/point/toeditable/
@@ -16,7 +16,7 @@ public Point ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

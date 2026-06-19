@@ -1,7 +1,7 @@
 ---
 title: "Map.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Map. تحصل على الطبقة عند الفهرس المحدد"
+description: "خاصية Map. تحصل على الطبقة في الفهرس المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering/map/item/
@@ -16,11 +16,11 @@ public MapLayer this[int index] { get; }
 
 | معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس الخاص بالطبقة المراد الحصول عليها. |
+| فهرس | الفهرس الخاص بالطبقة المراد الحصول عليها. |
 
 ### قيمة الإرجاع
 
-الطبقة عند الفهرس المحدد.
+الطبقة في الفهرس المحدد.
 
 ### استثناءات
 

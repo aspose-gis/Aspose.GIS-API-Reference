@@ -1,7 +1,7 @@
 ---
 title: "الفئة EventableStream"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.IO.EventableStream"
+description: "فئة Aspose.Gis.Common.IO.EventableStream."
 type: docs
 weight: 1250
 url: /ar/net/aspose.gis.common.io/eventablestream/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.io/eventablestream/
 public class EventableStream : Stream
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

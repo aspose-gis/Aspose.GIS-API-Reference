@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.IsClockwise"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc خاصية."
+description: "CircularArc property."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.common/circulararc/isclockwise/

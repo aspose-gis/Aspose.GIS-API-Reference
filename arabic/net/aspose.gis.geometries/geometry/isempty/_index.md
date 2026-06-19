@@ -1,7 +1,7 @@
 ---
 title: "Geometry.IsEmpty"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
+description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كانت هذه المثيلة فارغة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/geometry/isempty/

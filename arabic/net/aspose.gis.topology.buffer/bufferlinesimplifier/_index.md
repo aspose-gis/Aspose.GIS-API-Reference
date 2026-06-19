@@ -1,7 +1,7 @@
 ---
 title: "الفئة BufferLineSimplifier"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Buffer.BufferLineSimplifier فئة."
+description: "فئة Aspose.Gis.Topology.Buffer.BufferLineSimplifier."
 type: docs
 weight: 4800
 url: /ar/net/aspose.gis.topology.buffer/bufferlinesimplifier/

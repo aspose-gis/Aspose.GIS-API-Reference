@@ -1,5 +1,5 @@
 ---
-title: "DBase.اكتب_منطقي"
+title: "DBase.WriteLogical"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

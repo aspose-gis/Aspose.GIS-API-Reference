@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/rasterdriver/
 ---
 ## RasterDriver class
 
-محرك لتنسيق يعتمد على raster محدد.
+محرك لتنسيق مبني على raster محدد.
 
 ```csharp
 public abstract class RasterDriver : Driver
@@ -18,7 +18,7 @@ public abstract class RasterDriver : Driver
 
 | الاسم | الوصف |
 | --- | --- |
-| abstract [CanOpenLayers](../../aspose.gis/rasterdriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| abstract [CanOpenLayers](../../aspose.gis/rasterdriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

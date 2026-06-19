@@ -1,14 +1,14 @@
 ---
 title: "GeocentricCrsEntry.GeocentricCrsEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ GeocentricCrsEntry. المنشئ الافتراضي"
+description: "GeocentricCrsEntry مُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.epsg/geocentriccrsentry/geocentriccrsentry/
 ---
 ## GeocentricCrsEntry constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GeocentricCrsEntry()

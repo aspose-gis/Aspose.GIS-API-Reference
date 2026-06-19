@@ -1,7 +1,7 @@
 ---
 title: "CurvePolygon.GetInteriorRing"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CurvePolygon. يحصل على الحلقة الداخلية حسب فهرسها"
+description: "طريقة CurvePolygon. يحصل على الحلقة الداخلية حسب فهرستها"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/curvepolygon/getinteriorring/
@@ -16,7 +16,7 @@ public ICurve GetInteriorRing(int index)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | الفهرس. |
+| فهرس | Int32 | الفهرس. |
 
 ### قيمة الإرجاع
 
@@ -26,7 +26,7 @@ public ICurve GetInteriorRing(int index)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | المؤشر خارج النطاق. |
+| ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 
 ### انظر أيضًا
 

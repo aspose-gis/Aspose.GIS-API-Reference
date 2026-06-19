@@ -1,14 +1,14 @@
 ---
 title: "SimpleFill.SimpleFill"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ SimpleFill. ينشئ نسخة جديدة"
+description: "منشئ SimpleFill. ينشئ مثلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/simplefill/
 ---
 ## SimpleFill() {#constructor}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public SimpleFill()
@@ -24,7 +24,7 @@ public SimpleFill()
 
 ## SimpleFill(SimpleFill) {#constructor_1}
 
-يُهيئ نسخة جديدة من الفئة [`SimpleFill`](../).
+يُهيئ مثلاً جديداً من الفئة [`SimpleFill`](../).
 
 ```csharp
 public SimpleFill(SimpleFill other)

@@ -1,7 +1,7 @@
 ---
 title: "Point.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Point. تنسخ هذا الكائن"
+description: "طريقة Point. تستنسخ هذه المثيلة"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/point/clone/
@@ -16,7 +16,7 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-نسخة هذا المثيل
+النسخة المستنسخة من هذه النسخة
 
 ### انظر أيضًا
 

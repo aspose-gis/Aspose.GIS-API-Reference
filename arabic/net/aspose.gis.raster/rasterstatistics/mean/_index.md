@@ -1,7 +1,7 @@
 ---
 title: "RasterStatistics.Mean"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterStatistics. المتوسط الحسابي لجميع الخلايا أو قيم البكسل التي تم عدّها"
+description: "خاصية RasterStatistics. المتوسط الحسابي لجميع الخلايا أو قيم البكسل المُحصاة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rasterstatistics/mean/

@@ -1,7 +1,7 @@
 ---
 title: "بنية Rectangle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Rectangle بنية."
+description: "بنية Aspose.Gis.Common.Rectangle."
 type: docs
 weight: 1350
 url: /ar/net/aspose.gis.common/rectangle/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/rectangle/
 public struct Rectangle : IEquatable<Rectangle>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -43,7 +43,7 @@ public struct Rectangle : IEquatable<Rectangle>
 | [Equals](../../aspose.gis.common/rectangle/equals/#equals)(Rectangle) |  |
 | override [GetHashCode](../../aspose.gis.common/rectangle/gethashcode/)() |  |
 | [operator ==](../../aspose.gis.common/rectangle/op_equality/) |  |
-| [implicit operator](../../aspose.gis.common/rectangle/op_implicit/#op_implicit_1) | (2 معاملات) |
+| [implicit operator](../../aspose.gis.common/rectangle/op_implicit/#op_implicit_1) | (2 عوامل) |
 | [operator !=](../../aspose.gis.common/rectangle/op_inequality/) |  |
 
 ### انظر أيضًا

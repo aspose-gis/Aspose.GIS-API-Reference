@@ -1,7 +1,7 @@
 ---
 title: "تعداد FillStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.FillStyle تعداد. يحدد نمط تعبئة."
+description: "تعداد Aspose.Gis.Rendering.FillStyle. يحدد نمط التعبئة."
 type: docs
 weight: 4000
 url: /ar/net/aspose.gis.rendering/fillstyle/
@@ -22,10 +22,10 @@ public enum FillStyle
 | None | `1` | لا تقم بالتعبئة. |
 | HorizontalHatch | `2` | نمط من الخطوط الأفقية. |
 | VerticalHatch | `3` | نمط من الخطوط العمودية. |
-| CrossHatch | `4` | نمط من الخطوط الأفقية والعمودية المتقاطعة. |
-| ForwardDiagonalHatch | `5` | نمط من الخطوط على القطر من الأعلى اليسار إلى الأسفل اليمين. |
-| BackwardDiagonalHatch | `6` | نمط من الخطوط على القطر من الأعلى اليمين إلى الأسفل اليسار. |
-| DiagonalCrossHatch | `7` | نمط من الخطوط القطرية المتشابكة. |
+| CrossHatch | `4` | نمط من الخطوط الأفقية والعمودية المتقاطعّة. |
+| ForwardDiagonalHatch | `5` | نمط من الخطوط المائلة من الزاوية العلوية اليسرى إلى الزاوية السفلية اليمنى. |
+| BackwardDiagonalHatch | `6` | نمط من الخطوط المائلة من الزاوية العلوية اليمنى إلى الزاوية السفلية اليسرى. |
+| DiagonalCrossHatch | `7` | نمط من الخطوط المائلة المتقاطعة. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "MarkerLine.Offset"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MarkerLine. تحدد الإزاحة من الخط الأصلي. للمسافة الموجبة تكون الإزاحة على الجانب الأيسر من الخط المدخل بالنسبة لاتجاه الخط. للمسافة السالبة تكون على الجانب الأيمن."
+description: "خاصية MarkerLine. تحدد الإزاحة من الخط الأصلي. للمسافة الإيجابية تكون الإزاحة على الجانب الأيسر من الخط المدخل بالنسبة لاتجاه الخط. للمسافة السلبية تكون على الجانب الأيمن"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.symbolizers/markerline/offset/

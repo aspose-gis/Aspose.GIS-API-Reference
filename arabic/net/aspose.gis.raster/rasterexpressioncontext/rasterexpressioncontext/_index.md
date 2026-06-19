@@ -1,14 +1,14 @@
 ---
 title: "RasterExpressionContext.RasterExpressionContext"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ RasterExpressionContext. أنشئ مثيلاً من RasterExpressionContext"
+description: "منشئ RasterExpressionContext. إنشاء مثيل من RasterExpressionContext"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/rasterexpressioncontext/rasterexpressioncontext/
 ---
 ## RasterExpressionContext constructor
 
-أنشئ مثيلاً من [`RasterExpressionContext`](../)
+إنشاء مثيل من [`RasterExpressionContext`](../)
 
 ```csharp
 public RasterExpressionContext(int cellX, int cellY)

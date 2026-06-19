@@ -1,7 +1,7 @@
 ---
 title: "الفئة Arc"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Arc فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Arc الفئة."
 type: docs
 weight: 560
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
 public class Arc : GraphicalObject, IEquatable<Arc>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Arc](arc/)() | المُنشئ الافتراضي. |
+| [Arc](arc/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

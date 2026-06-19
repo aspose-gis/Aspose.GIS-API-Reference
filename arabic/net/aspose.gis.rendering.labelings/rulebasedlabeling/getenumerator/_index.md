@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/getenumerator/
 ---
 ## RuleBasedLabeling.GetEnumerator method
 
-يعيد عدّادًا يتنقل عبر القواعد.
+يعيد مُعددًا يتنقل عبر القواعد.
 
 ```csharp
 public IEnumerator<LabelingRule> GetEnumerator()

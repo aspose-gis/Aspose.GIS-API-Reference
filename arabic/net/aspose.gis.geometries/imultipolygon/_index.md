@@ -1,5 +1,5 @@
 ---
-title: "الواجهة IMultiPolygon"
+title: "واجهة IMultiPolygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "واجهة Aspose.Gis.Geometries.IMultiPolygon. IMultiPolygon هي IGeometryCollection أحادية البعد تكون عناصرها IPolygons."
 type: docs

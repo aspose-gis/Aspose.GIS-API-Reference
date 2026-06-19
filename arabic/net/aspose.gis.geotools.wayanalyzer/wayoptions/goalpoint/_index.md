@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.wayanalyzer/wayoptions/goalpoint/
 ---
 ## WayOptions.GoalPoint property
 
-نقطة الهدف للمسار
+نقطة الهدف للطريق
 
 ```csharp
 public Point GoalPoint { get; set; }

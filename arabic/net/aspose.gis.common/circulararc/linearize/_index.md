@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.Linearize"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc طريقة."
+description: "CircularArc method."
 type: docs
 weight: 200
 url: /ar/net/aspose.gis.common/circulararc/linearize/

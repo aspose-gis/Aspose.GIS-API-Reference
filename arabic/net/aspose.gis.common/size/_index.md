@@ -1,7 +1,7 @@
 ---
 title: "بنية Size"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Size بنية."
+description: "بنية Aspose.Gis.Common.Size."
 type: docs
 weight: 1380
 url: /ar/net/aspose.gis.common/size/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/size/
 public struct Size : IEquatable<Size>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

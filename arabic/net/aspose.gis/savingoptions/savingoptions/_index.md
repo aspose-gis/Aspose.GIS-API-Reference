@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/savingoptions/savingoptions/
 ---
 ## SavingOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public SavingOptions()

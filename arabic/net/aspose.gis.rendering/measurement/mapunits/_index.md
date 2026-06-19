@@ -1,7 +1,7 @@
 ---
 title: "Measurement.MapUnits"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بوحدات إسناد الفضاء للخرائط"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثل الطول بوحدات الإشارة المكانية للخرائط"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering/measurement/mapunits/
@@ -16,7 +16,7 @@ public static Measurement MapUnits(double value)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | عدد الوحدات. |
+| القيمة | Double | عدد الوحدات. |
 
 ### قيمة الإرجاع
 

@@ -1,7 +1,7 @@
 ---
 title: "CompoundCurve.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CompoundCurve. تُعيد نسخة قابلة للتحرير من هذا الشكل"
+description: "طريقة CompoundCurve. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/compoundcurve/toeditable/
@@ -16,7 +16,7 @@ public CompoundCurve ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

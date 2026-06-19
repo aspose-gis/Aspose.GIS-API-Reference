@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/solidpainterbrush/
 public class SolidPainterBrush : PainterBrush
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [SolidPainterBrush](solidpainterbrush/#constructor)() | المُنشئ الافتراضي. |
+| [SolidPainterBrush](solidpainterbrush/#constructor)() | المنشئ الافتراضي. |
 | [SolidPainterBrush](solidpainterbrush/#constructor_1)(Color, BrushStyle) |  |
 
 ## الخصائص

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.esriascii/esriasciidriver/
 ---
 ## EsriAsciiDriver class
 
-محرك لتنسيق Esri ASCII Grid.
+محرك لشبكة Esri ASCII Grid.
 
 ```csharp
 public class EsriAsciiDriver : RasterDriver
@@ -18,7 +18,7 @@ public class EsriAsciiDriver : RasterDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.esriascii/esriasciidriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.esriascii/esriasciidriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

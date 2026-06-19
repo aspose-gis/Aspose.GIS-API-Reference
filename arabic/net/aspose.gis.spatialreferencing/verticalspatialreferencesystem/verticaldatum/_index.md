@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/vertic
 ---
 ## VerticalSpatialReferenceSystem.VerticalDatum property
 
-Datum المستخدم في هذا SRS.
+المرجع الجيوديسي المستخدم في هذا SRS.
 
 ```csharp
 public VerticalDatum VerticalDatum { get; }

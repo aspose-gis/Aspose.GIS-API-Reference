@@ -14,18 +14,18 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/
 public class KmlPolygonStyle : KmlAbstractColorStyle
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [KmlPolygonStyle](kmlpolygonstyle/)() | المُنشئ الافتراضي. |
+| [KmlPolygonStyle](kmlpolygonstyle/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | تحدد لون العنصر الرسومي. القيمة الافتراضية White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | تحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: normal. |
 | [Fill](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/fill/) { get; set; } | تحدد ما إذا كان سيتم تعبئة المضلع. القيمة الافتراضية هي `true`. |
 | [Outline](../../aspose.gis.formats.kml.styles/kmlpolygonstyle/outline/) { get; set; } | تحدد ما إذا كان سيتم تحديد حدود المضلع. القيمة الافتراضية هي `true`. |
 

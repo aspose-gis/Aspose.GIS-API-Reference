@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.GetBuffer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IGeometry طريقة. يحسب منطقة العازلة حول هذه الهندسة"
+description: "طريقة IGeometry. تحسب منطقة العازلة حول هذه الهندسة"
 type: docs
 weight: 200
 url: /ar/net/aspose.gis.geometries/igeometry/getbuffer/
@@ -17,7 +17,7 @@ public IGeometry GetBuffer(double distance, int quadrantSegments = 30)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | المسافة | Double | عرض منطقة العازلة (بوحدات الإشارة المكانية). |
-| quadrantSegments | Int32 | عدد القطاعات المستخدمة لتقريب انحناء 90 درجة. كلما كان هذا العدد أكبر، كلما كان تقريب المنحنيات أفضل. القيمة الافتراضية هي 30. |
+| quadrantSegments | Int32 | عدد القطاعات المستخدمة لتقريب انحناء 90 درجة. كلما زاد هذا العدد، كان تقريب المنحنيات أفضل. القيمة الافتراضية هي 30. |
 
 ### قيمة الإرجاع
 

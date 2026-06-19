@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/nad83/
 ---
 ## SpatialReferenceSystem.Nad83 property
 
-NAD 83 (EPSG:4269) نظام الإحداثيات.
+نظام الإحداثيات المكانية NAD 83 (EPSG:4269).
 
 ```csharp
 public static GeographicSpatialReferenceSystem Nad83 { get; }

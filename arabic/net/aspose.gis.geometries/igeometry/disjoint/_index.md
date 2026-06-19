@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.Disjoint"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IGeometry. تحدد ما إذا كانت هذه الهندسة منفصلة عن هندسة محددة"
+description: "طريقة IGeometry. تحدد ما إذا كان هذا الشكل الهندسي منفصلًا عن شكل هندسي محدد"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.geometries/igeometry/disjoint/
@@ -20,7 +20,7 @@ public bool Disjoint(IGeometry other)
 
 ### قيمة الإرجاع
 
-`true` إذا كان هذا الشكل الهندسي "منفصل مكانيًا" عن شكل هندسي آخر. `false` خلاف ذلك.
+`true` إذا كان هذا الشكل الهندسي "منفصل مكانيًا" عن شكل هندسي آخر. `false` غير ذلك.
 
 ### استثناءات
 
@@ -28,11 +28,11 @@ public bool Disjoint(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ## ملاحظات
 
-هذه الطريقة تختبر ما إذا كانت الأشكال الهندسية منفصلة من حيث مصفوفة تقاطع DE-9IM. أساسًا، تختبر أن الشكلين لا يملكان نقاطًا مشتركة. هذه الطريقة تعادل:
+تختبر هذه الطريقة ما إذا كانت الأشكال الهندسية منفصلة وفقًا لمصفوفة تقاطع DE-9IM. أساسًا، تختبر أن شكلين هندسيين لا يملكان نقاطًا مشتركة. هذه الطريقة تعادل:
 
 ```csharp
 this.Relate(other, "FF*FF****");

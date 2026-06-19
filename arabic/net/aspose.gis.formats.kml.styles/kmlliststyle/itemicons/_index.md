@@ -1,14 +1,14 @@
 ---
 title: "KmlListStyle.ItemIcons"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlListStyle. الرمز المستخدم في عرض القائمة والذي يعكس حالة مجلد أو جلب رابط. القيمة الافتراضية هي null تعني عدم وجود أي رموز"
+description: "خاصية KmlListStyle. الأيقونة المستخدمة في عرض القائمة التي تعكس حالة مجلد أو رابط تم جلبه. القيمة الافتراضية هي null تعني عدم وجود أيقونات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/itemicons/
 ---
 ## KmlListStyle.ItemIcons property
 
-الأيقونة المستخدمة في عرض القائمة التي تعكس حالة جلب Folder أو Link. القيمة الافتراضية هي `null` تعني عدم وجود أيقونات.
+الأيقونة المستخدمة في عرض القائمة والتي تعكس حالة Folder أو جلب Link. القيمة الافتراضية هي `null` تعني أن الأيقونات غير موجودة.
 
 ```csharp
 public IReadOnlyList<KmlItemIcon> ItemIcons { get; set; }

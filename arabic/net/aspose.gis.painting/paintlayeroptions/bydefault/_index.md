@@ -1,7 +1,7 @@
 ---
 title: "PaintLayerOptions.ByDefault"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PaintLayerOptions خاصية."
+description: "خاصية PaintLayerOptions."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.painting/paintlayeroptions/bydefault/

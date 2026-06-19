@@ -1,7 +1,7 @@
 ---
 title: "IDatabaseDataSource.ReadAsync"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IDatabaseDataSource طريقة. طريقة لقراءة البيانات الجغرافية المكانية"
+description: "طريقة IDatabaseDataSource. طريقة لقراءة البيانات الجغرافية المكانية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.database/idatabasedatasource/readasync/
@@ -22,7 +22,7 @@ public Task<VectorLayer> ReadAsync(DbConnection connection,
 
 ### قيمة الإرجاع
 
-يعيد نسخة واحدة من InMemoryLayer ملفوفة في ReadVectorWrapper لإجراء تحويلات هندسية إضافية عند الطلب.
+يعيد نسخة واحدة من InMemoryLayer مغلفة في ReadVectorWrapper لتنفيذ تحويلات هندسية إضافية عند الطلب.
 
 ## ملاحظات
 
@@ -54,7 +54,7 @@ public Task<VectorLayer> ReadAsync(DbConnection connection, DbTransaction transa
 
 ### قيمة الإرجاع
 
-يعيد نسخة واحدة من InMemoryLayer ملفوفة في ReadVectorWrapper لإجراء تحويلات هندسية إضافية عند الطلب.
+يعيد نسخة واحدة من InMemoryLayer مغلفة في ReadVectorWrapper لتنفيذ تحويلات هندسية إضافية عند الطلب.
 
 ## ملاحظات
 

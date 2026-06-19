@@ -1,7 +1,7 @@
 ---
 title: "MapLayerOptions.Layer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapLayerOptions. طبقة متجهات"
+description: "خاصية MapLayerOptions. طبقة متجهة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools.layersmap/maplayeroptions/layer/

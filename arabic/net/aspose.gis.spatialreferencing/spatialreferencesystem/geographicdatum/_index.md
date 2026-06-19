@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/geographicdatu
 ---
 ## SpatialReferenceSystem.GeographicDatum property
 
-يرجع datum الجغرافي لهذا SRS.
+يعيد المرجع الجغرافي لهذا الـ SRS.
 
 ```csharp
 public abstract GeographicDatum GeographicDatum { get; }

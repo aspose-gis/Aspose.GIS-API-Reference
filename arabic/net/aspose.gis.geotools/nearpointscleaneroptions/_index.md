@@ -1,20 +1,20 @@
 ---
 title: "الفئة NearPointsCleanerOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.GeoTools.NearPointsCleanerOptions. خيارات لحذف النقاط التي تكون قريبة جدًا من بعضها البعض"
+description: "الفئة Aspose.Gis.GeoTools.NearPointsCleanerOptions. خيارات لحذف النقاط القريبة جدًا من بعضها البعض"
 type: docs
 weight: 2590
 url: /ar/net/aspose.gis.geotools/nearpointscleaneroptions/
 ---
 ## NearPointsCleanerOptions class
 
-خيارات حذف النقاط التي تكون قريبة جدًا من بعضها.
+خيارات حذف النقاط التي تكون قريبة جدًا من بعضها البعض.
 
 ```csharp
 public class NearPointsCleanerOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -25,7 +25,7 @@ public class NearPointsCleanerOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance/) { get; set; } | معامل للتحقق ما إذا كانت النقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0. |
+| [Distance](../../aspose.gis.geotools/nearpointscleaneroptions/distance/) { get; set; } | معامل للتحقق هو ما إذا كانت النقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0. |
 
 ## الطرق
 

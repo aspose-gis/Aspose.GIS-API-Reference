@@ -1,14 +1,14 @@
 ---
 title: "MultiSurface.Dimension"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MultiSurface. تحصل على البعد الطوبولوجي لهذا الشكل الهندسي"
+description: "خاصية MultiSurface. تحصل على البُعد الطوبولوجي لهذا الشكل الهندسي"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/multisurface/dimension/
 ---
 ## MultiSurface.Dimension property
 
-تحصل على البعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
+يحصل على البُعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
 
 ```csharp
 public GeometryDimension Dimension { get; }

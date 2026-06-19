@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.labeling.line/lineplacercontext/
 public class LinePlacerContext
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [LinePlacerContext](lineplacercontext/)() | المُنشئ الافتراضي. |
+| [LinePlacerContext](lineplacercontext/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

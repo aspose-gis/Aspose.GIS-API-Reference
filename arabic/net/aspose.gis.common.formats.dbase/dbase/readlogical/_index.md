@@ -1,5 +1,5 @@
 ---
-title: "DBase.اقرأ_منطقي"
+title: "DBase.ReadLogical"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

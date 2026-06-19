@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttribute.DataType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeatureAttribute. تحصل على نوع البيانات للخاصية"
+description: "خاصية FeatureAttribute. تحصّل على نوع البيانات للسمة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/featureattribute/datatype/
@@ -16,13 +16,13 @@ public AttributeDataType DataType { get; set; }
 
 ### Property Value
 
-نوع البيانات للخاصية.
+نوع البيانات للسمة.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | الخاصية مقفلة. |
+| InvalidOperationException | السمة مقفلة. |
 
 ### انظر أيضًا
 

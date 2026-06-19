@@ -1,7 +1,7 @@
 ---
 title: "IAttributesConverter.ModifyAttribute"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IAttributesConverter. تُعدِّل FeatureAttribute حسب الحاجة للطبقة المستهدفة"
+description: "طريقة IAttributesConverter. تعدّل FeatureAttribute حسب الحاجة للطبقة المستهدفة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/iattributesconverter/modifyattribute/

@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlitemicon/
 public class KmlItemIcon
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [KmlItemIcon](kmlitemicon/)() | المُنشئ الافتراضي. |
+| [KmlItemIcon](kmlitemicon/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

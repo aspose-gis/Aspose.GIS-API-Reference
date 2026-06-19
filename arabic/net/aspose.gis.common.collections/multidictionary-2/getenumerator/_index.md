@@ -1,7 +1,7 @@
 ---
 title: "MultiDictionary2.GetEnumerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MultiDictionary طريقة."
+description: "طريقة MultiDictionary."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.common.collections/multidictionary-2/getenumerator/

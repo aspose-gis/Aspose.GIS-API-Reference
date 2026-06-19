@@ -1,7 +1,7 @@
 ---
 title: "PainterPen.NoPen"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PainterPen خاصية."
+description: "خاصية PainterPen."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.painting/painterpen/nopen/

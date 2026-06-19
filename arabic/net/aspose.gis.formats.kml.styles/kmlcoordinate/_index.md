@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlcoordinate/
 public class KmlCoordinate
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [KmlCoordinate](kmlcoordinate/)() | المُنشئ الافتراضي. |
+| [KmlCoordinate](kmlcoordinate/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

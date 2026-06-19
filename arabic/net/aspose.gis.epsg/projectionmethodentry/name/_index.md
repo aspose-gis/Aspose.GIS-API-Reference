@@ -1,5 +1,5 @@
 ---
-title: "ProjectionMethodEntry.الاسم"
+title: "ProjectionMethodEntry.Name"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "ProjectionMethodEntry خاصية."
 type: docs

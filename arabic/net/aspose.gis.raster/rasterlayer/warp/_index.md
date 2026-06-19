@@ -16,7 +16,7 @@ public RasterLayer Warp(WarpOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الخيارات | WarpOptions | خيارات لإجراء إعادة الإسقاط. |
+| options | WarpOptions | خيارات لإجراء إعادة الإسقاط. |
 
 ### قيمة الإرجاع
 
@@ -26,8 +26,8 @@ public RasterLayer Warp(WarpOptions options)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المعامل لا يمكن أن يكون فارغًا. اسم المعامل: options. |
-| ArgumentException | نظام الإسناد المكاني للمصدر غير معروف. |
+| ArgumentNullException | لا يمكن أن يكون الوسيط null. اسم المعامل: options. |
+| ArgumentException | نظام الإحداثيات المكانية للمصدر غير معروف. |
 | InvalidOperationException | لا يمكن أن تكون الطبقة الأصلية WarpRasterLayer أخرى. |
 
 ### انظر أيضًا

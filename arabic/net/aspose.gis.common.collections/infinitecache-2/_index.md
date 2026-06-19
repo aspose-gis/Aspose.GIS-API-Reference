@@ -1,7 +1,7 @@
 ---
 title: "الفئة InfiniteCacheTKeyTValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.InfiniteCache2TKeyTValue الفئة."
+description: "فئة Aspose.Gis.Common.Collections.InfiniteCache2TKeyTValue."
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.common.collections/infinitecache-2/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.collections/infinitecache-2/
 public class InfiniteCache<TKey, TValue> : ICache<TKey, TValue>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [InfiniteCache](infinitecache/#constructor)() | المُنشئ الافتراضي. |
+| [InfiniteCache](infinitecache/#constructor)() | المنشئ الافتراضي. |
 | [InfiniteCache](infinitecache/#constructor_1)(int) |  |
 
 ## الخصائص

@@ -17,20 +17,20 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
-| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. |
+| NotSupportedException | نظام الإسناد المكاني غير مدعوم من قبل السائق. |
 
 ### انظر أيضًا
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/igeometry/crosses/
 ---
 ## IGeometry.Crosses method
 
-يحدد ما إذا كانت هذه الهندسة وهندسة محددة تتقاطع.
+يحدد ما إذا كانت هذه الـ geometry وهندسة محددة تتقاطع.
 
 ```csharp
 public bool Crosses(IGeometry other)
@@ -20,7 +20,7 @@ public bool Crosses(IGeometry other)
 
 ### قيمة الإرجاع
 
-`true` إذا كان هذا الشكل \"يتقاطع مكانيًا\" مع شكل آخر. `false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "تتقاطع مكانيًا" مع هندسة أخرى. `false` خلاف ذلك.
 
 ### استثناءات
 
@@ -28,11 +28,11 @@ public bool Crosses(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ## ملاحظات
 
-هذه الطريقة تختبر ما إذا كانت الأشكال تتقاطع وفقًا لمصفوفة تقاطع DE-9IM. يتقاطع شكلان إذا كان لديهما بعض نقاط الداخلية المشتركة ولكن ليس كلها، وكان بُعد التقاطع أقل من بُعد أحد الشكلين على الأقل. أي: يتقاطع شكلان من نوع [`LineString`](../../linestring/) إذا شكلا حرف 'X'، ويتقاطع [`LineString`](../../linestring/) مع [`Polygon`](../../polygon/) إذا مر الـ LineString عبر داخل المضلع. راجع مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة \"يتقاطع مكانيًا\".
+تختبر هذه الطريقة ما إذا كانت الهندسات تتقاطع وفقًا لمصفوفة تقاطع DE-9IM. تتقاطع هندستان إذا كان لديهما بعض نقاط الداخلية المشتركة ولكن ليس كلها، وكان بُعد التقاطع أقل من بُعد إحدى الهندسات على الأقل. أي: يتقاطع خطان من نوع [`LineString`](../../linestring/) إذا شكلا حرف "X"، ويتقاطع خط من نوع `LineString` مع [`Polygon`](../../polygon/) إذا مر الخط عبر داخل المضلع. راجع مواصفات OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة "التقاطع مكانيًا".
 
 ### انظر أيضًا
 

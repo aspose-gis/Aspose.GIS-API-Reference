@@ -1,7 +1,7 @@
 ---
 title: "MapOptions.Tiles"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapOptions. خيارات البلاطات"
+description: "خاصية MapOptions. خيارات البلاط"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geotools.layersmap/mapoptions/tiles/

@@ -1,7 +1,7 @@
 ---
 title: "Region.GetHashCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Region الطريقة."
+description: "Region طريقة."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/gethashcode/

@@ -1,14 +1,14 @@
 ---
 title: "الفئة JpegRenderer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Formats.Jpeg.JpegRenderer. مُعالج يعرض الخريطة في ملف JPEG"
+description: "الفئة Aspose.Gis.Rendering.Formats.Jpeg.JpegRenderer. معالج يعرض Map إلى ملف JPEG"
 type: docs
 weight: 4020
 url: /ar/net/aspose.gis.rendering.formats.jpeg/jpegrenderer/
 ---
 ## JpegRenderer class
 
-مُعالج [`Renderer`](../../aspose.gis.rendering/renderer/) الذي يعرض [`Map`](../../aspose.gis.rendering/map/) في ملف JPEG.
+مُعالج [`Renderer`](../../aspose.gis.rendering/renderer/) الذي يعرض [`Map`](../../aspose.gis.rendering/map/) إلى ملف JPEG.
 
 ```csharp
 public class JpegRenderer : Renderer

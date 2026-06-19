@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.CreateGeocentric"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SpatialReferenceSystem. إنشاء SRS مركزي من معلمات مخصصة."
+description: "طريقة SpatialReferenceSystem. إنشاء SRS مركزي من معلمات مخصصة"
 type: docs
 weight: 350
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/creategeocentric/
@@ -18,7 +18,7 @@ public static GeocentricSpatialReferenceSystem CreateGeocentric(
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | المعلمات | GeocentricSpatialReferenceSystemParameters | المعلمات لإنشاء منها. |
-| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
+| معرّف | معرّف | المعرّف الذي سيُرفق بـ SRS. إرفاق معرّف لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
 
 ### قيمة الإرجاع
 

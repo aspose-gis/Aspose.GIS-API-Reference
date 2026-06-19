@@ -1,7 +1,7 @@
 ---
 title: "SingleBandColor.GrayBand"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SingleBandColor. تحدد المكوّن الرمادي للراستر الخاص بنا"
+description: "خاصية SingleBandColor. تحدد المكوّن الرمادي لراسترنا"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.colorizers/singlebandcolor/grayband/

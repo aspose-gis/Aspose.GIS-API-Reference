@@ -1,7 +1,7 @@
 ---
 title: "EventableStream.EventableStream"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "EventableStream منشئ."
+description: "منشئ EventableStream."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.io/eventablestream/eventablestream/

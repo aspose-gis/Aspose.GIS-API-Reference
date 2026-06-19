@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.CreateFromWkt"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SpatialReferenceSystem. تنشئ SpatialReferenceSystem جديدة بناءً على سلسلة نصية WKT WellKnown Text"
+description: "طريقة SpatialReferenceSystem. تنشئ SpatialReferenceSystem جديدة بناءً على سلسلة نصية WKT WellKnown Text."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createfromwkt/

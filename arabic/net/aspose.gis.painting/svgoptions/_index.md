@@ -1,7 +1,7 @@
 ---
 title: "الفئة SvgOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.SvgOptions فئة."
+description: "Aspose.Gis.Painting.SvgOptions الفئة."
 type: docs
 weight: 3640
 url: /ar/net/aspose.gis.painting/svgoptions/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/svgoptions/
 public class SvgOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [SvgOptions](svgoptions/)() | المُنشئ الافتراضي. |
+| [SvgOptions](svgoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

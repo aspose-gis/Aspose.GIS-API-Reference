@@ -1,14 +1,14 @@
 ---
 title: "PolylinesShape.PolylinesShape"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PolylinesShape منشئ. المُنشئ الافتراضي"
+description: "منشئ PolylinesShape. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.painting/polylinesshape/polylinesshape/
 ---
 ## PolylinesShape constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public PolylinesShape()

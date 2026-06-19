@@ -1,7 +1,7 @@
 ---
 title: "تعداد GdbCurveSegmentType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.GdbTable.GdbCurveSegmentType تعداد."
+description: "تعداد Aspose.Gis.Common.Formats.GdbTable.GdbCurveSegmentType."
 type: docs
 weight: 360
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype/

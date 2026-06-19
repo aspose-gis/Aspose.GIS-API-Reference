@@ -1,7 +1,7 @@
 ---
 title: "Curve.EndPoint"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Curve. تُرجع نسخة من نقطة النهاية للمنحنى."
+description: "خاصية Curve. تُرجع نسخة من نقطة النهاية للمنحنى"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/curve/endpoint/

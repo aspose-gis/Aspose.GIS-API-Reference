@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common/matrixtransformation/matrixtransformation/
 ---
 ## MatrixTransformation constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MatrixTransformation()

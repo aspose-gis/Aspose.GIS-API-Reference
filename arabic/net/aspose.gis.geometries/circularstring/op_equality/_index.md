@@ -1,14 +1,14 @@
 ---
 title: "CircularString.op_Equality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CircularString. ينفذ المشغل"
+description: "طريقة CircularString. تنفذ العملية"
 type: docs
 weight: 200
 url: /ar/net/aspose.gis.geometries/circularstring/op_equality/
 ---
 ## CircularString Equality operator
 
-ينفذ العامل ==.
+ينفّذ العامل ==.
 
 ```csharp
 public static bool operator ==(CircularString a, CircularString b)
@@ -16,12 +16,12 @@ public static bool operator ==(CircularString a, CircularString b)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | CircularString | الكائن A. |
-| b | CircularString | الكائن B. |
+| a | CircularString | مثيل A. |
+| b | CircularString | مثيل B. |
 
 ### قيمة الإرجاع
 
-نتيجة المشغل.
+نتيجة العامل.
 
 ### انظر أيضًا
 

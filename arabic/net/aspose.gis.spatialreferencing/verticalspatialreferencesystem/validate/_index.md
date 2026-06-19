@@ -1,14 +1,14 @@
 ---
 title: "VerticalSpatialReferenceSystem.Validate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VerticalSpatialReferenceSystem. تحديد ما إذا كان هذا SRS صالحًا. راجع Validate للحصول على وصف الصلاحية"
+description: "طريقة VerticalSpatialReferenceSystem. حدد ما إذا كان هذا SRS صالحًا. راجع Validate للحصول على وصف الصلاحية"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/validate/
 ---
 ## VerticalSpatialReferenceSystem.Validate method
 
-تحديد ما إذا كان هذا SRS صالحًا. راجع [`Validate`](../../spatialreferencesystem/validate/) للحصول على وصف الصلاحية.
+حدد ما إذا كان هذا SRS صالحًا. راجع [`Validate`](../../spatialreferencesystem/validate/) للحصول على وصف الصلاحية.
 
 ```csharp
 public override bool Validate(out string errorMessage)

@@ -1,7 +1,7 @@
 ---
 title: "Chain.SegmentsCount"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Chain."
+description: "Chain خاصية."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.topology/chain/segmentscount/

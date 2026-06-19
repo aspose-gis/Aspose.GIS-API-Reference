@@ -1,14 +1,14 @@
 ---
-title: "الواجهة IGeometryCollection"
+title: "واجهة IGeometryCollection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Geometries.IGeometryCollection. IGeometryCollection هي IGeometry تمثل مجموعة من هندسة واحدة أو أكثر."
+description: "واجهة Aspose.Gis.Geometries.IGeometryCollection. IGeometryCollection هي IGeometry تُعد مجموعة من هندسة واحدة أو أكثر."
 type: docs
 weight: 2790
 url: /ar/net/aspose.gis.geometries/igeometrycollection/
 ---
 ## IGeometryCollection interface
 
-`IGeometryCollection` هي [`IGeometry`](../igeometry/) تمثل مجموعة من هندسة واحدة أو أكثر.
+`IGeometryCollection` هي [`IGeometry`](../igeometry/) تُعد مجموعة من هندسة واحدة أو أكثر.
 
 ```csharp
 public interface IGeometryCollection : IEnumerable<IGeometry>, IEquatable<IGeometryCollection>, 
@@ -19,7 +19,7 @@ public interface IGeometryCollection : IEnumerable<IGeometry>, IEquatable<IGeome
 
 | الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.geometries/igeometrycollection/count/) { get; } | يحصل على عدد الأشكال في هذه المجموعة. |
+| [Count](../../aspose.gis.geometries/igeometrycollection/count/) { get; } | يحصل على عدد الهندسات في هذه المجموعة. |
 | [Item](../../aspose.gis.geometries/igeometrycollection/item/) { get; } | يحصل على [`IGeometry`](../igeometry/) في الفهرس المحدد. |
 
 ## الطرق

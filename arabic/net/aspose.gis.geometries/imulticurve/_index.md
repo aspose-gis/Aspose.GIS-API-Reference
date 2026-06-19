@@ -1,14 +1,14 @@
 ---
 title: "الواجهة IMultiCurve"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Geometries.IMultiCurve واجهة. الـ MultiCurve هو مجموعة هندسية أحادية البعد تكون عناصرها منحنيات."
+description: "واجهة Aspose.Gis.Geometries.IMultiCurve. الـMultiCurve هو GeometryCollection أحادي البعد يحتوي على عناصر من نوع Curves"
 type: docs
 weight: 2820
 url: /ar/net/aspose.gis.geometries/imulticurve/
 ---
 ## IMultiCurve interface
 
-الـ [`MultiCurve`](../multicurve/) هو مجموعة [`GeometryCollection`](../geometrycollection/) أحادية البعد تكون عناصرها [`Curve`](../curve/).
+إن [`MultiCurve`](../multicurve/) هو [`GeometryCollection`](../geometrycollection/) أحادي البعد تكون عناصره [`Curve`](../curve/).
 
 ```csharp
 public interface IMultiCurve : IGeometryCollection

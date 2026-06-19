@@ -1,7 +1,7 @@
 ---
 title: "GdbTableFile.IsValidAndUnqiueFieldName"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "GdbTableFile طريقة."
+description: "GdbTableFile method."
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbtablefile/isvalidandunqiuefieldname/

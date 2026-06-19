@@ -18,7 +18,7 @@ public double Opacity { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الوسيط أصغر من 0 أو أكبر من 1. |
+| ArgumentOutOfRangeException | المعامل أقل من 0 أو أكبر من 1. |
 
 ### انظر أيضًا
 

@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameters.عامل_التحجيم"
+title: "ProjectionParameters.ScaleFactor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية ProjectionParameters."
 type: docs

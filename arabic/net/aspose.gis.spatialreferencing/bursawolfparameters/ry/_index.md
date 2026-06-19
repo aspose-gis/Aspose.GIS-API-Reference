@@ -1,7 +1,7 @@
 ---
 title: "BursaWolfParameters.Ry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية BursaWolfParameters. Ry بالثواني"
+description: "BursaWolfParameters خاصية. Ry بالثواني"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/ry/

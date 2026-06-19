@@ -1,7 +1,7 @@
 ---
 title: "ContainmentTree.IsValid"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "ContainmentTree خاصية."
+description: "خاصية ContainmentTree."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.topology/containmenttree/isvalid/

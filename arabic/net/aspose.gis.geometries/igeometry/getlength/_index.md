@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.GetLength"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IGeometry طريقة. يحسب طول هذه الهندسة"
+description: "طريقة IGeometry. تحسب طول هذه الهندسة"
 type: docs
 weight: 250
 url: /ar/net/aspose.gis.geometries/igeometry/getlength/
@@ -16,7 +16,7 @@ public double GetLength()
 
 ### قيمة الإرجاع
 
-طول هذه الهندسة. المحيط إذا كانت هذه [`Polygon`](../../polygon/). مجموع أطوال عناصر هذه الهندسة إذا كانت هذه الهندسة عبارة عن [`GeometryCollection`](../../geometrycollection/).
+طول هذه الهندسة. المحيط إذا كانت هذه [`Polygon`](../../polygon/). مجموع أطوال عناصر هذه الهندسة إذا كانت هذه الهندسة [`GeometryCollection`](../../geometrycollection/).
 
 ### انظر أيضًا
 

@@ -20,13 +20,13 @@ public virtual FeaturesSequence WhereLinq(Func<Feature, bool> filteringPredicate
 
 ### قيمة الإرجاع
 
-ميزات ذات قيمة سمة تفي بشروط الاختيار.
+ميزات ذات قيمة سمة تلبي شروط الاختيار.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| NullReferenceException | إذا كانت السلسلة الأساسية null أو كان الشرط null. |
+| NullReferenceException | إذا كانت السلسلة الأساسية `null` أو كان الشرط `null`. |
 
 ### انظر أيضًا
 

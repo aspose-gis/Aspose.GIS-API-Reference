@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/metered/resetmeteredkey/
 ---
 ## Metered.ResetMeteredKey method
 
-يزيل الترخيص الذي تم إعداده مسبقاً
+يزيل الترخيص الذي تم إعداده مسبقًا
 
 ```csharp
 public static void ResetMeteredKey()

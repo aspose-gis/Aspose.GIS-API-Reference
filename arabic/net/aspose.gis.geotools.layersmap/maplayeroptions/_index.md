@@ -14,25 +14,25 @@ url: /ar/net/aspose.gis.geotools.layersmap/maplayeroptions/
 public class MapLayerOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapLayerOptions](maplayeroptions/)() | المُنشئ الافتراضي. |
+| [MapLayerOptions](maplayeroptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Labeling](../../aspose.gis.geotools.layersmap/maplayeroptions/labeling/) { get; set; } | وضع تسميات للميزات. القيمة الافتراضية هي null. |
+| [Labeling](../../aspose.gis.geotools.layersmap/maplayeroptions/labeling/) { get; set; } | تسمية العناصر. القيمة الافتراضية هي null. |
 | [Layer](../../aspose.gis.geotools.layersmap/maplayeroptions/layer/) { get; set; } | طبقة متجهية. |
-| [Symbolyzer](../../aspose.gis.geotools.layersmap/maplayeroptions/symbolyzer/) { get; set; } | مُرمّز المتجه. |
+| [Symbolyzer](../../aspose.gis.geotools.layersmap/maplayeroptions/symbolyzer/) { get; set; } | مُرمّز المتجهات. |
 
 ## الحقول
 
 | الاسم | الوصف |
 | --- | --- |
-| [LayerSpatialRefSys](../../aspose.gis.geotools.layersmap/maplayeroptions/layerspatialrefsys/) | يحدد قيمة لإشارة الفضاء للطبقة. |
+| [LayerSpatialRefSys](../../aspose.gis.geotools.layersmap/maplayeroptions/layerspatialrefsys/) | يحدد قيمة للمرجع المكاني للطبقة. |
 
 ### انظر أيضًا
 

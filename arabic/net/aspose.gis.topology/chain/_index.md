@@ -1,7 +1,7 @@
 ---
 title: "فئة Chain"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Chain فئة."
+description: "فئة Aspose.Gis.Topology.Chain."
 type: docs
 weight: 4840
 url: /ar/net/aspose.gis.topology/chain/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.topology/chain/
 public class Chain : IReadOnlyList<Coordinate>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

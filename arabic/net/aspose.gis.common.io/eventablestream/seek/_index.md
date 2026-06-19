@@ -1,7 +1,7 @@
 ---
 title: "EventableStream.Seek"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "EventableStream طريقة."
+description: "طريقة EventableStream."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.common.io/eventablestream/seek/

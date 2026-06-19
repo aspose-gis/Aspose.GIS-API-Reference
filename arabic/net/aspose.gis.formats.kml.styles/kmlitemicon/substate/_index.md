@@ -1,7 +1,7 @@
 ---
 title: "KmlItemIcon.SubState"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlItemIcon. تحدد الحالة الإضافية لـ NetworkLink أو Folder. القيمة الافتراضية هي None"
+description: "خاصية KmlItemIcon. تحدد الحالة الإضافية لـ NetworkLink أو المجلد. القيمة الافتراضية هي None"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.kml.styles/kmlitemicon/substate/

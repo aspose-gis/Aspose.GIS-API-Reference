@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/painterpenoptions/
 public class PainterPenOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [PainterPenOptions](painterpenoptions/)() | المُنشئ الافتراضي. |
+| [PainterPenOptions](painterpenoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

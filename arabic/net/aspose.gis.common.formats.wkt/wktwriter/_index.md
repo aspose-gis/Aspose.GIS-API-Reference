@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.wkt/wktwriter/
 public class WktWriter : IDisposable
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

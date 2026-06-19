@@ -1,14 +1,14 @@
 ---
 title: "MarkerCluster.NestedMarker"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MarkerCluster. تحدد الـmarker symbolizer لنقاط التجمع المتداخلة. القيمة الافتراضية هي Null"
+description: "خاصية MarkerCluster. تحدد الـ symbolizer للعلامة لنقاط التجمع المتداخلة. القيمة الافتراضية هي Null."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/nestedmarker/
 ---
 ## MarkerCluster.NestedMarker property
 
-تحدد الـmarker symbolizer لنقاط التجمع المتداخلة. القيمة الافتراضية هي [`Null`](../../vectorsymbolizer/null/).
+تحدد الـ symbolizer للعلامة لنقاط التجمع المتداخلة. القيمة الافتراضية هي [`Null`](../../vectorsymbolizer/null/).
 
 ```csharp
 public VectorSymbolizer NestedMarker { get; set; }

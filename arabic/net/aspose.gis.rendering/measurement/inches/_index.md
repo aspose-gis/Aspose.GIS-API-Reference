@@ -1,7 +1,7 @@
 ---
 title: "Measurement.Inches"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بالبوصات"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثل الطول بالبوصات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering/measurement/inches/
@@ -16,7 +16,7 @@ public static Measurement Inches(double value)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | عدد البوصات. |
+| القيمة | Double | عدد البوصات. |
 
 ### قيمة الإرجاع
 

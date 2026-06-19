@@ -1,7 +1,7 @@
 ---
 title: "Extent.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Extent. تنسخ هذه المثيلة"
+description: "طريقة Extent. تستنسخ هذه المثيلة"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/extent/clone/

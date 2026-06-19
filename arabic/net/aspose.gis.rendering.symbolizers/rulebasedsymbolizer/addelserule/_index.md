@@ -1,14 +1,14 @@
 ---
 title: "RuleBasedSymbolizer.AddElseRule"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة RuleBasedSymbolizer. تضيف symbolizer سيُطبق على الميزات التي لا تطابق أي قاعدة تصفية"
+description: "طريقة RuleBasedSymbolizer. تضيف مُرمّزًا سيُطبق على الميزات التي لا تطابق أي قاعدة تصفية"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/addelserule/
 ---
 ## RuleBasedSymbolizer.AddElseRule method
 
-يضيف مُرمّزًا سيُطبق على المميزات التي لا تتطابق مع أي قاعدة تصفية.
+يضيف مُرمّزاً سيُطبق على الميزات التي لا تتطابق مع أي قاعدة تصفية.
 
 ```csharp
 public void AddElseRule(VectorSymbolizer symbolizer)
@@ -16,7 +16,7 @@ public void AddElseRule(VectorSymbolizer symbolizer)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| symbolizer | VectorSymbolizer | مُرمِّز. |
+| symbolizer | VectorSymbolizer | مُرمّز. |
 
 ### استثناءات
 

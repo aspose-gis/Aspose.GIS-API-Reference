@@ -1,7 +1,7 @@
 ---
 title: "PaintEngineState.Scale"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PaintEngineState طريقة."
+description: "طريقة PaintEngineState."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.painting/paintenginestate/scale/

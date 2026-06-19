@@ -1,7 +1,7 @@
 ---
 title: "DatabaseQueryDataSourceBuilder.GeometryField"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة DatabaseQueryDataSourceBuilder. تُكوّن اسم الحقل الذي سيتم استخراج الهندسة منه"
+description: "طريقة DatabaseQueryDataSourceBuilder. تقوم بتكوين اسم الحقل الذي سيتم استخراج الهندسة منه"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.database/databasequerydatasourcebuilder/geometryfield/
@@ -24,7 +24,7 @@ public DatabaseQueryDataSourceBuilder GeometryField(string name)
 
 ## ملاحظات
 
-الصيغة الثنائية المدعومة حاليًا أي على جانب قاعدة البيانات الطرق هي ST_AsBinary، ST_AsWKB، ST_AsEWKB. وإذا استخدمت طرقًا غير Extended WKB، التي تحتوي بالفعل على معرف نظام الإحداثيات (srid)، يجب عليك استخدام حقل إضافي يحتوي على معلومات srid وتكوينه عبر [`SridField`](../sridfield/).
+الصيغة الثنائية المدعومة حالياً، أي على جانب قاعدة البيانات الطرق هي ST_AsBinary، ST_AsWKB، ST_AsEWKB. وإذا استخدمت طرقاً غير Extended WKB، التي تحتوي بالفعل على معرف نظام الإحداثيات (srid)، يجب عليك استخدام حقل إضافي يحتوي على معلومات srid وتكوينه عبر [`SridField`](../sridfield/).
 
 ### انظر أيضًا
 

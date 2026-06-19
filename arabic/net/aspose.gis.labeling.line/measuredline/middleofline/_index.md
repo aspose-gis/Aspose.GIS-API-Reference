@@ -1,7 +1,7 @@
 ---
 title: "MeasuredLine.MiddleOfLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MeasuredLine خاصية"
+description: "خاصية MeasuredLine."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.labeling.line/measuredline/middleofline/

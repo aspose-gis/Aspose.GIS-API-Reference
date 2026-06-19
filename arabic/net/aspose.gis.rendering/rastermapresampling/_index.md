@@ -1,24 +1,24 @@
 ---
 title: "فئة RasterMapResampling"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.RasterMapResampling فئة. تصف هذه الفئة كيفية إعادة أخذ عينات طبقة نقطية عند عرض خريطة"
+description: "فئة Aspose.Gis.Rendering.RasterMapResampling. تصف هذه الفئة كيفية إعادة أخذ عينات طبقة نقطية عند عرض خريطة."
 type: docs
 weight: 4210
 url: /ar/net/aspose.gis.rendering/rastermapresampling/
 ---
 ## RasterMapResampling class
 
-تصف هذه الفئة كيفية إعادة أخذ عينات طبقة نقطية عند تصيير خريطة.
+تصف هذه الفئة كيفية إعادة أخذ عينات لطبقة نقطية عند تصيير خريطة.
 
 ```csharp
 public class RasterMapResampling
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [RasterMapResampling](rastermapresampling/)() | المُنشئ الافتراضي. |
+| [RasterMapResampling](rastermapresampling/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

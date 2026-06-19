@@ -1,5 +1,5 @@
 ---
-title: "LruCache2.إضافة"
+title: "LruCache2.Add"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة LruCache."
 type: docs

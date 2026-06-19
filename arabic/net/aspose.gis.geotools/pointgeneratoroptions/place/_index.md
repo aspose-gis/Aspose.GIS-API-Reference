@@ -1,7 +1,7 @@
 ---
 title: "PointGeneratorOptions.Place"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PointGeneratorOptions خاصية. وضع التوضع في الخلايا المولدة"
+description: "PointGeneratorOptions property. وضع التوضع في الخلايا المولدة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/pointgeneratoroptions/place/

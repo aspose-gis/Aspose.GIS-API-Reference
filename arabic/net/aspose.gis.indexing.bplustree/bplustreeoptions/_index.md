@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.indexing.bplustree/bplustreeoptions/
 public class BPlusTreeOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [BPlusTreeOptions](bplustreeoptions/)() | المُنشئ الافتراضي. |
+| [BPlusTreeOptions](bplustreeoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

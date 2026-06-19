@@ -1,14 +1,14 @@
 ---
-title: "فئة BmpWDriver"
+title: "الفئة BmpWDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Formats.BmpW.BmpWDriver. برنامج تشغيل لتنسيق BmpW raster"
+description: "Aspose.Gis.Formats.BmpW.BmpWDriver فئة. برنامج تشغيل لتنسيق BmpW النقطي"
 type: docs
 weight: 1680
 url: /ar/net/aspose.gis.formats.bmpw/bmpwdriver/
 ---
 ## BmpWDriver class
 
-برنامج تشغيل لتنسيق BmpW النقطي.
+برنامج تشغيل لملف رستر BmpW.
 
 ```csharp
 public class BmpWDriver : WorldRasterDriver
@@ -18,7 +18,7 @@ public class BmpWDriver : WorldRasterDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.bmpw/bmpwdriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.bmpw/bmpwdriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

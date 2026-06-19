@@ -1,14 +1,14 @@
 ---
 title: "Geometry.GeometryType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Geometry. تحصل على نوع الشكل."
+description: "خاصية Geometry. تُعيد نوع الهندسة."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/geometry/geometrytype/
 ---
 ## Geometry.GeometryType property
 
-يحصل على نوع الهندسة.
+يحصل على نوع الـ geometry.
 
 ```csharp
 public abstract GeometryType GeometryType { get; }

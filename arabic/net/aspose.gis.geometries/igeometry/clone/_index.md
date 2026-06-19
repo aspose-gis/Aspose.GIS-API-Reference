@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IGeometry. تستنسخ هذه العينة"
+description: "طريقة IGeometry. تنسخ هذا الكائن"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/igeometry/clone/
@@ -16,7 +16,7 @@ public Geometry Clone()
 
 ### قيمة الإرجاع
 
-نسخة هذا المثيل
+النسخة المستنسخة من هذه النسخة
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "فئة AbstractPathInternalExtensions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.AbstractPathInternalExtensions فئة."
+description: "فئة Aspose.Gis.Common.AbstractPathInternalExtensions."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.common/abstractpathinternalextensions/

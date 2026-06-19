@@ -1,14 +1,14 @@
 ---
 title: "KmlAbstractColorStyle.Color"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlAbstractColorStyle. تحدد لون العنصر الرسومي. القيمة الافتراضية White"
+description: "خاصية KmlAbstractColorStyle. تحدد لون العنصر الرسومي. القيمة الافتراضية أبيض"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/
 ---
 ## KmlAbstractColorStyle.Color property
 
-يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض.
+تحدد لون العنصر الرسومي. القيمة الافتراضية White.
 
 ```csharp
 public Color Color { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: "فئة Intersection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Intersection فئة."
+description: "فئة Aspose.Gis.Topology.Intersection."
 type: docs
 weight: 4970
 url: /ar/net/aspose.gis.topology/intersection/

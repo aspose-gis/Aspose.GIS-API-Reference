@@ -16,11 +16,11 @@ public IGeometry this[int index] { get; }
 
 | معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس. |
+| فهرس | الفهرس. |
 
 ### Property Value
 
-ال[`IGeometry`](../../igeometry/).
+الـ[`IGeometry`](../../igeometry/).
 
 ### استثناءات
 

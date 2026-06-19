@@ -1,7 +1,7 @@
 ---
 title: "Measurement.MetersOnEarth"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بالأمتار على الأرض"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثل الطول بالأمتار على الأرض"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering/measurement/metersonearth/
@@ -16,7 +16,7 @@ public static Measurement MetersOnEarth(double value)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | عدد الأمتار. |
+| القيمة | Double | عدد الأمتار. |
 
 ### قيمة الإرجاع
 

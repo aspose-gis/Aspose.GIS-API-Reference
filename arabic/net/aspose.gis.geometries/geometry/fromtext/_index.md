@@ -1,14 +1,14 @@
 ---
 title: "Geometry.FromText"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Geometry. تنشئ شكلًا هندسيًا من تمثيله بنص Well-Known Text."
+description: "طريقة Geometry. تنشئ شكلاً هندسيًا من تمثيله بنص WellKnown."
 type: docs
 weight: 480
 url: /ar/net/aspose.gis.geometries/geometry/fromtext/
 ---
 ## FromText(string) {#fromtext}
 
-ينشئ شكلاً هندسياً من تمثيله النصي المعروف (Well-Known Text).
+ينشئ شكلًا هندسيًا من تمثيله النصي المعروف (Well-Known Text).
 
 ```csharp
 public static IGeometry FromText(string wkt)
@@ -16,7 +16,7 @@ public static IGeometry FromText(string wkt)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| wkt | String | تمثيل نص Well-Known لشكل هندسي. |
+| wkt | String | تمثيل Well-Known Text لشكل هندسي. |
 
 ### قيمة الإرجاع
 
@@ -27,8 +27,8 @@ public static IGeometry FromText(string wkt)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المعطى فارغ. |
-| NotSupportedException | المعطى يمثل شكلًا هندسيًا من نوع غير مدعوم. |
-| FormatException | المعامل ليس Well-Known Text صالحًا. |
+| NotSupportedException | المعطى يمثل شكلاً هندسيًا من نوع غير مدعوم. |
+| FormatException | المعامل غير صالح كنص معروف جيدًا. |
 
 ### انظر أيضًا
 
@@ -41,7 +41,7 @@ public static IGeometry FromText(string wkt)
 
 ## FromText(string, SpatialReferenceSystem) {#fromtext_1}
 
-ينشئ شكلاً هندسياً من تمثيله النصي المعروف (Well-Known Text).
+ينشئ شكلًا هندسيًا من تمثيله النصي المعروف (Well-Known Text).
 
 ```csharp
 public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialReferenceSystem)
@@ -49,8 +49,8 @@ public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialRefer
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| wkt | String | تمثيل نص Well-Known لشكل هندسي. |
-| spatialReferenceSystem | SpatialReferenceSystem | Spatial Reference System لتعيينه إلى الشكل الهندسي. |
+| wkt | String | تمثيل Well-Known Text لشكل هندسي. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية لتعيينه إلى الشكل الهندسي. |
 
 ### قيمة الإرجاع
 
@@ -61,8 +61,8 @@ public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialRefer
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المعطى فارغ. |
-| NotSupportedException | المعطى يمثل شكلًا هندسيًا من نوع غير مدعوم. |
-| FormatException | المعامل ليس Well-Known Text صالحًا. |
+| NotSupportedException | المعطى يمثل شكلاً هندسيًا من نوع غير مدعوم. |
+| FormatException | المعامل غير صالح كنص معروف جيدًا. |
 
 ### انظر أيضًا
 

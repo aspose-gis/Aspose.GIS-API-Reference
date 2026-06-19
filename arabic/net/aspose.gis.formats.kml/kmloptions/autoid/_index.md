@@ -1,7 +1,7 @@
 ---
 title: "KmlOptions.AutoId"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlOptions. توليد معرفات تلقائيًا"
+description: "خاصية KmlOptions. إنشاء معرّفات تلقائيًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml/kmloptions/autoid/

@@ -1,7 +1,7 @@
 ---
 title: "Drivers.EsriJson"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق EsriJson"
+description: "Drivers خاصية. محرك لتنسيق EsriJson."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/drivers/esrijson/

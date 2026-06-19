@@ -1,5 +1,5 @@
 ---
-title: "JoiningReadOnlyList1.عنصر"
+title: "JoiningReadOnlyList1.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية JoiningReadOnlyList."
 type: docs

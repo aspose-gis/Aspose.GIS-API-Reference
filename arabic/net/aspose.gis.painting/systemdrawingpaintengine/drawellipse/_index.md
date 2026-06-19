@@ -1,7 +1,7 @@
 ---
 title: "SystemDrawingPaintEngine.DrawEllipse"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "SystemDrawingPaintEngine طريقة."
+description: "طريقة SystemDrawingPaintEngine."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.painting/systemdrawingpaintengine/drawellipse/

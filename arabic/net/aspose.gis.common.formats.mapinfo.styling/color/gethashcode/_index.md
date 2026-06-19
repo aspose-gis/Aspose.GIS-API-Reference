@@ -1,7 +1,7 @@
 ---
 title: "Color.GetHashCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Color."
+description: "Color طريقة."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/color/gethashcode/

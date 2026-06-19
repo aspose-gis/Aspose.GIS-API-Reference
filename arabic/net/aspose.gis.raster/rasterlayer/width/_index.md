@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/rasterlayer/width/
 ---
 ## RasterLayer.Width property
 
-يحصل على عرض الراستر بالبكسل. كما يُعرف أيضًا بعدد الأعمدة.
+يسترجع عرض الراستر بالبكسل. كما يُعرف أيضًا بعدد الأعمدة.
 
 ```csharp
 public abstract int Width { get; }

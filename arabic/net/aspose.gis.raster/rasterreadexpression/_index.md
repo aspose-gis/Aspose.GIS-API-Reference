@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/rasterreadexpression/
 ---
 ## RasterReadExpression delegate
 
-يمثل مفوضًا، يقرأ التعبير.
+يمثل مفوضًا يقرأ التعبير.
 
 ```csharp
 public delegate void RasterReadExpression(RasterExpressionContext context, 

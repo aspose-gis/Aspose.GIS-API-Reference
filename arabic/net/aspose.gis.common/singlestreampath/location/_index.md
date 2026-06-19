@@ -1,5 +1,5 @@
 ---
-title: "SingleStreamPath.الموقع"
+title: "SingleStreamPath.Location"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "SingleStreamPath خاصية."
 type: docs

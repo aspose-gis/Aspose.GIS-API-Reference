@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.sld/sldimportoptions/sldimportoptions/
 ---
 ## SldImportOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public SldImportOptions()

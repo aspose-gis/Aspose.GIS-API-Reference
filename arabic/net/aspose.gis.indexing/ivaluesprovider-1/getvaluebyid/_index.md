@@ -1,7 +1,7 @@
 ---
 title: "IValuesProvider1.GetValueById"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IValuesProvider."
+description: "IValuesProvider طريقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.indexing/ivaluesprovider-1/getvaluebyid/

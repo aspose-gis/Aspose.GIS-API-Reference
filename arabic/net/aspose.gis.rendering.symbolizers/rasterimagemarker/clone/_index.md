@@ -1,7 +1,7 @@
 ---
 title: "RasterImageMarker.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة RasterImageMarker. تستنسخ هذه النسخة"
+description: "طريقة RasterImageMarker. تنسخ هذه النسخة"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/clone/

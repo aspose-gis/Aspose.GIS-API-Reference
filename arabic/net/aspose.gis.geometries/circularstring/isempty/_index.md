@@ -1,7 +1,7 @@
 ---
 title: "CircularString.IsEmpty"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CircularString. يحصل على قيمة تشير إلى ما إذا كانت هذه الحالة فارغة"
+description: "خاصية CircularString. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/circularstring/isempty/

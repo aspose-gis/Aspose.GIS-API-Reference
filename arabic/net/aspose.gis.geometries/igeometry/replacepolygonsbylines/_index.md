@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.ReplacePolygonsByLines"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IGeometry طريقة. يحصل على المضلعات الممثلة كخطوط لهذه الهندسة"
+description: "طريقة IGeometry. تحصل على المضلعات الممثلة كخطوط لهذه الهندسة"
 type: docs
 weight: 300
 url: /ar/net/aspose.gis.geometries/igeometry/replacepolygonsbylines/
@@ -16,7 +16,7 @@ public IGeometry ReplacePolygonsByLines()
 
 ### قيمة الإرجاع
 
-هندسة لا تحتوي على هندسات مضلعة. يتم تطبيق التحويلات التالية: يتم تحويل المضلعات إلى خطوط (تحويلها إلى LineStrings) ويتم دمج MultiPolygons في MultiLineStrings.
+هندسة لا تحتوي على هندسات مضلعة. يتم تطبيق التحويلات التالية: يتم تحويل المضلعات إلى خطوط (تحويلها إلى LineStrings) وتُدمج الـ MultiPolygons في MultiLineStrings
 
 ### استثناءات
 

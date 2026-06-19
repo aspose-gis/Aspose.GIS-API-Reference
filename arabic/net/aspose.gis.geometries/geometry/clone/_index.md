@@ -1,7 +1,7 @@
 ---
 title: "Geometry.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Geometry. تنسخ هذه الحالة"
+description: "طريقة Geometry. تنسخ هذه النسخة"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/geometry/clone/
@@ -16,7 +16,7 @@ public abstract Geometry Clone()
 
 ### قيمة الإرجاع
 
-نسخة هذا المثيل
+النسخة المستنسخة من هذه النسخة
 
 ### انظر أيضًا
 

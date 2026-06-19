@@ -1,7 +1,7 @@
 ---
 title: "الفئة PolylinesShape"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.PolylinesShape فئة."
+description: "Aspose.Gis.Painting.PolylinesShape الفئة."
 type: docs
 weight: 3600
 url: /ar/net/aspose.gis.painting/polylinesshape/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/polylinesshape/
 public class PolylinesShape
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [PolylinesShape](polylinesshape/)() | المُنشئ الافتراضي. |
+| [PolylinesShape](polylinesshape/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

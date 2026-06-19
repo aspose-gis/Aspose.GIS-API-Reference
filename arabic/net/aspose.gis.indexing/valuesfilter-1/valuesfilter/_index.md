@@ -1,7 +1,7 @@
 ---
 title: "ValuesFilter1.ValuesFilter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ ValuesFilter."
+description: "ValuesFilter منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.indexing/valuesfilter-1/valuesfilter/

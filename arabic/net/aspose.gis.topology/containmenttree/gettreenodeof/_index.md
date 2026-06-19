@@ -1,7 +1,7 @@
 ---
 title: "ContainmentTree.GetTreeNodeOf"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "ContainmentTree طريقة."
+description: "طريقة ContainmentTree."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.topology/containmenttree/gettreenodeof/

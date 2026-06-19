@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/generatortilesrenderoptions/tilenametemplate/
 ---
 ## GeneratorTilesRenderOptions.TileNameTemplate property
 
-قالب اسم البلاطة
+قالب اسم البلاط
 
 ```csharp
 public string TileNameTemplate { get; }

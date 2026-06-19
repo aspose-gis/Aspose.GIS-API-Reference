@@ -1,7 +1,7 @@
 ---
 title: "LayeredSymbolizer.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LayeredSymbolizer. تحصّل على المُرمّز في الفهرس المحدد"
+description: "خاصية LayeredSymbolizer. يحصل على الـ symbolizer في الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/item/
@@ -16,11 +16,11 @@ public VectorSymbolizer this[int index] { get; }
 
 | معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس الصفري للـsymbolizer المراد الحصول عليه. |
+| فهرس | الفهرس الصفري للـ symbolizer المراد الحصول عليه. |
 
 ### قيمة الإرجاع
 
-الرمّاز في الفهرس المحدد.
+الـ symbolizer في الفهرس المحدد.
 
 ### انظر أيضًا
 

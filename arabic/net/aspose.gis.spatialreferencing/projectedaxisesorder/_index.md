@@ -1,7 +1,7 @@
 ---
 title: "تعداد ProjectedAxisesOrder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "تعداد Aspose.Gis.SpatialReferencing.ProjectedAxisesOrder. يمثل ترتيب المحاور في نظام الإسناد المكاني الجغرافي."
+description: "تعداد Aspose.Gis.SpatialReferencing.ProjectedAxisesOrder. يمثل ترتيب المحاور في SRS الجغرافي"
 type: docs
 weight: 4660
 url: /ar/net/aspose.gis.spatialreferencing/projectedaxisesorder/
@@ -18,7 +18,7 @@ public enum ProjectedAxisesOrder
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Invalid | `-1` | نظام الإسناد المكاني الإسقاطي غير صالح ولا يمكن تحديد ترتيب المحاور. |
+| Invalid | `-1` | SRS الإسقاط غير صالح ولا يمكن تحديد ترتيب المحاور. |
 | XY | `0` | الترتيب هو (X, Y). (X هو الأفقي (شرق، غرب)، Y هو العمودي (شمال، جنوب)). |
 | YX | `1` | الترتيب هو (Y, X). (X هو المحور الأفقي (شرق، غرب)، Y هو المحور العمودي (شمال، جنوب)). |
 

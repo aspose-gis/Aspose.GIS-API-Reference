@@ -1,7 +1,7 @@
 ---
 title: "تعداد GdbTableVersion"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.GdbTable.GdbTableVersion تعداد."
+description: "تعداد Aspose.Gis.Common.Formats.GdbTable.GdbTableVersion."
 type: docs
 weight: 510
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbtableversion/

@@ -1,7 +1,7 @@
 ---
 title: "MultiPolygon.MultiPolygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ MultiPolygon. يهيئ مثيلة جديدة من فئة MultiPolygon"
+description: "منشئ MultiPolygon. يهيئ مثيلة جديدة من الفئة MultiPolygon"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/multipolygon/multipolygon/

@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttribute.DefaultValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeatureAttribute. يحصل أو يضبط قيمة للخاصية التي تشير إلى البيانات المفقودة"
+description: "خاصية FeatureAttribute. يحصل أو يعيّن قيمة للخاصية التي تشير إلى بيانات مفقودة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/featureattribute/defaultvalue/
@@ -18,12 +18,12 @@ public object DefaultValue { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | الخاصية مقفلة. |
+| InvalidOperationException | السمة مقفلة. |
 | InvalidOperationException | الخاصية لا تسمح بقيم `null`. |
 
 ## ملاحظات
 
-هذه هي القيمة التي تمثل قطعة مفقودة من المعلومات، عندما لا تسمح الخاصية بقيمة `null`. بالنسبة للخصائص التي تسمح بقيم `null` ([`CanBeNull`](../canbenull/) == `true`)، تكون `DefaultValue` هي `null` ما لم يتم تغييرها صراحةً.
+هذه هي القيمة التي تمثل قطعة مفقودة من المعلومات، عندما لا تسمح خاصية بقيمة `null`. بالنسبة للخصائص التي تسمح بقيم `null` ([`CanBeNull`](../canbenull/) == `true`)، تكون `DefaultValue` هي `null` ما لم يتم تغييرها صراحةً.
 
 ### انظر أيضًا
 

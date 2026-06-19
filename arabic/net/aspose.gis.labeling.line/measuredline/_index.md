@@ -1,7 +1,7 @@
 ---
-title: "فئة MeasuredLine"
+title: "صنف MeasuredLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Labeling.Line.MeasuredLine."
+description: "Aspose.Gis.Labeling.Line.MeasuredLine فئة."
 type: docs
 weight: 3330
 url: /ar/net/aspose.gis.labeling.line/measuredline/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling.line/measuredline/
 public class MeasuredLine
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

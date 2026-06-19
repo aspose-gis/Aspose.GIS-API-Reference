@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttribute.FeatureAttribute"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ FeatureAttribute. يهيئ نسخة جديدة من فئة FeatureAttribute"
+description: "منشئ FeatureAttribute. يهيئ نسخة جديدة من الفئة FeatureAttribute"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/featureattribute/featureattribute/
@@ -16,8 +16,8 @@ public FeatureAttribute(string name, AttributeDataType dataType)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الاسم | String | اسم الخاصية. |
-| dataType | AttributeDataType | نوع البيانات للخاصية. |
+| الاسم | String | اسم السمة. |
+| dataType | AttributeDataType | نوع البيانات للسمة. |
 
 ### انظر أيضًا
 
@@ -38,9 +38,9 @@ public FeatureAttribute(string name, AttributeDataType dataType, bool canBeNull)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الاسم | String | اسم الخاصية. |
-| dataType | AttributeDataType | نوع البيانات للخاصية. |
-| canBeNull | Boolean | `true` إذا كان يمكن أن تكون هذه النسخة فارغة؛ وإلا، `false`. |
+| الاسم | String | اسم السمة. |
+| dataType | AttributeDataType | نوع البيانات للسمة. |
+| canBeNull | Boolean | `true` إذا كان هذا الكائن يمكن أن يكون فارغًا؛ وإلا، `false`. |
 
 ### استثناءات
 

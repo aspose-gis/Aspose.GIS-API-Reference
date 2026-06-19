@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.GrowBoundingRectangle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc طريقة."
+description: "CircularArc method."
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.common/circulararc/growboundingrectangle/

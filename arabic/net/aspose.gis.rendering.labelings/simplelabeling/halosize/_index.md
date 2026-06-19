@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.HaloSize"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. حجم حد الهالة حول النص"
+description: "خاصية SimpleLabeling. حجم الحد الهالوي حول النص."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/halosize/

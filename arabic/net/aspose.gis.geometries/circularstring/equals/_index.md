@@ -1,7 +1,7 @@
 ---
 title: "CircularString.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CircularString. تحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي"
+description: "طريقة CircularString. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/circularstring/equals/
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
+صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -44,7 +44,7 @@ public bool Equals(ICircularString other)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
+صحيح إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا، خطأ.
 
 ### انظر أيضًا
 

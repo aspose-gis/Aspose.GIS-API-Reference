@@ -20,7 +20,7 @@ public string GetFileName()
 
 ## أمثلة
 
-بالنسبة إلى `AbstractPath` مع [`Location`](../location/) يساوي `"/directory/file.txt"` و[`Separator`](../separator/) يساوي `'/'`، تُرجع هذه الطريقة `"file.txt"`.
+لـ `AbstractPath` مع [`Location`](../location/) يساوي `"/directory/file.txt"` و[`Separator`](../separator/) يساوي '/'، تُرجع هذه الطريقة `"file.txt"`.
 
 ### انظر أيضًا
 

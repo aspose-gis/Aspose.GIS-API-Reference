@@ -1,5 +1,5 @@
 ---
-title: "ICache2.إضافة"
+title: "ICache2.Add"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة ICache."
 type: docs

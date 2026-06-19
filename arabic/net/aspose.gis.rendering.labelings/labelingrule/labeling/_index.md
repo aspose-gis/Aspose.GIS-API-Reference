@@ -1,14 +1,14 @@
 ---
 title: "LabelingRule.Labeling"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LabelingRule. التسمية لتطبيقها على المعلم"
+description: "خاصية LabelingRule. وضع العلامة لتطبيقه على المعلم"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/labeling/
 ---
 ## LabelingRule.Labeling property
 
-التصنيف لتطبيقه على العنصر.
+التسمية التي تُطبق على العنصر.
 
 ```csharp
 public Labeling Labeling { get; }

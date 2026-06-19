@@ -1,7 +1,7 @@
 ---
 title: "Measurement.Pixels"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بوحدات البكسل"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثل الطول بالبكسل"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering/measurement/pixels/
@@ -16,7 +16,7 @@ public static Measurement Pixels(double value)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | عدد البكسلات. |
+| القيمة | Double | عدد البكسلات. |
 
 ### قيمة الإرجاع
 

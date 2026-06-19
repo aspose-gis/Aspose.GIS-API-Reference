@@ -16,7 +16,7 @@ public int Count { get; }
 
 ### Property Value
 
-The number of attributes in a [`Feature`](../../feature/).
+عدد السمات في [`Feature`](../../feature/).
 
 ### انظر أيضًا
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/angul
 ---
 ## ProjectedSpatialReferenceSystem.AngularUnit property
 
-الوحدة التي تُستخدم للقيم الزاوية في هذا SRS وللمعلمات الزاوية لـ [`Projection`](../projection/). تتطابق مع الوحدة الزاوية لـ [`Base`](../base/).
+الوحدة المستخدمة للقيم الزاوية في هذا SRS وللمعلمات الزاوية لـ [`Projection`](../projection/). تتطابق مع الوحدة الزاوية لـ [`Base`](../base/).
 
 ```csharp
 public abstract Unit AngularUnit { get; }

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.relationship.joins/joinbygeometryoptions/radius/
 ---
 ## JoinByGeometryOptions.Radius property
 
-يحدد نصف القطر للبحث عن الهندسة المدمجة.
+يحدد نصف قطر للبحث عن الهندسة المرتبطة.
 
 ```csharp
 public double Radius { get; set; }

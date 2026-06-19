@@ -16,8 +16,8 @@ public static VectorLayer Open(string path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | String | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -29,7 +29,7 @@ public static VectorLayer Open(string path, FileDriver driver)
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا
@@ -51,8 +51,8 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | AbstractPath | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -64,7 +64,7 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا
@@ -87,9 +87,9 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -101,7 +101,7 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا
@@ -124,9 +124,9 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -138,7 +138,7 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا

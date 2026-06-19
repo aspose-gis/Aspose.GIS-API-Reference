@@ -1,7 +1,7 @@
 ---
 title: "MapLayer.Opacity"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapLayer. شفافية الطبقة."
+description: "خاصية MapLayer. شفافية الطبقة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering/maplayer/opacity/
@@ -18,7 +18,7 @@ public double Opacity { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الوسيط أصغر من 0 أو أكبر من 1. |
+| ArgumentOutOfRangeException | المعامل أقل من 0 أو أكبر من 1. |
 
 ### انظر أيضًا
 

@@ -16,14 +16,14 @@ public void AddInteriorRing(ILinearRing ring)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| حلقة | ILinearRing | الحلقة المراد إضافتها. |
+| حلقة | ILinearRing | الحلقة التي ستُضاف. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | الـ[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليسا `null` ولا يتساويان. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للمعامل كلاهما ليس `null` ولا يساويان بعضهما البعض. |
 
 ### انظر أيضًا
 

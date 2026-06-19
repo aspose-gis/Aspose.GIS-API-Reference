@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/
 public class GdbCircularArcSegment : GdbCurveSegment
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GdbCircularArcSegment](gdbcirculararcsegment/)() | المُنشئ الافتراضي. |
+| [GdbCircularArcSegment](gdbcirculararcsegment/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

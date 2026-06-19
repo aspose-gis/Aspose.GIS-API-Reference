@@ -16,7 +16,7 @@ public virtual bool IsClosed { get; }
 
 ### Property Value
 
-`true` إذا كان هذا الكائن مغلقًا؛ وإلا `false`.
+`true` إذا كان هذا المثيل مغلقًا؛ وإلا `false`.
 
 ### انظر أيضًا
 

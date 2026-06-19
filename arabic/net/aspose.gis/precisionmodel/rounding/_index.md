@@ -1,14 +1,14 @@
 ---
 title: "PrecisionModel.Rounding"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة PrecisionModel. تُرجِع نموذج دقة تقريبي. وفقًا لنموذج الدقة التقريبي، عدد محدود فقط من الأرقام يكون مهمًا"
+description: "طريقة PrecisionModel. تُرجع نموذج دقة تقريبي. وفقًا لنموذج الدقة التقريبي، عدد محدود فقط من الأرقام يكون مهمًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/precisionmodel/rounding/
 ---
 ## PrecisionModel.Rounding method
 
-يرجع نموذج دقة تقريبي. وفقًا لنموذج الدقة التقريبي فقط عدد محدود من الأرقام ذات دلالة.
+يعيد نموذج دقة تقريبي. وفقًا لنموذج الدقة التقريبي، عدد محدود فقط من الأرقام ذات دلالة.
 
 ```csharp
 public static PrecisionModel Rounding(int significantDigits)

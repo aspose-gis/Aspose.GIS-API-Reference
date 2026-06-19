@@ -1,7 +1,7 @@
 ---
-title: "هيكل VerticalDatumEntry"
+title: "بنية VerticalDatumEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Epsg.VerticalDatumEntry هيكل."
+description: "بنية Aspose.Gis.Epsg.VerticalDatumEntry."
 type: docs
 weight: 1600
 url: /ar/net/aspose.gis.epsg/verticaldatumentry/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.epsg/verticaldatumentry/
 public struct VerticalDatumEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

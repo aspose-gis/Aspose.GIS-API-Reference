@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometry/asbinary/
 ---
 ## AsBinary() {#asbinary}
 
-يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary.
+يحوّل هذه الـ geometry إلى تمثيل Well-Known Binary الخاص بها.
 
 ```csharp
 public byte[] AsBinary()
@@ -20,7 +20,7 @@ public byte[] AsBinary()
 
 ## ملاحظات
 
-إخراج هذه الطريقة هو في متغيّر Iso WKB.
+إخراج هذه الطريقة يكون في نسخة Iso WKB.
 
 ### انظر أيضًا
 
@@ -32,7 +32,7 @@ public byte[] AsBinary()
 
 ## AsBinary(WkbVariant) {#asbinary_1}
 
-يحوّل هذه الهندسة إلى تمثيلها بصيغة Well-Known Binary.
+يحوّل هذه الـ geometry إلى تمثيل Well-Known Binary الخاص بها.
 
 ```csharp
 public byte[] AsBinary(WkbVariant variant)
@@ -40,7 +40,7 @@ public byte[] AsBinary(WkbVariant variant)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| متغيّر | WkbVariant | متغيّر Well-Known Binary للاستخدام. |
+| نسخة | WkbVariant | نسخة Well-Known Binary للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -50,8 +50,8 @@ public byte[] AsBinary(WkbVariant variant)
 
 | استثناء | شرط |
 | --- | --- |
-| NotSupportedException | لا يمكن تمثيل Geometry في متغيّر WKB المطلوب. يحدث هذا حاليًا عندما يكون [`HasCurveGeometry`](../hascurvegeometry/) الخاص بالهندسة `true` و متغيّر WKB هو SimpleFeatureAccessOutdated. |
-| ArgumentOutOfRangeException | *variant* ليس متغيّرًا صالحًا لـ [`WkbVariant`](../../wkbvariant/). |
+| NotSupportedException | لا يمكن تمثيل Geometry في نسخة WKB المطلوبة. يحدث هذا حالياً عندما يكون [`HasCurveGeometry`](../hascurvegeometry/) الخاص بالهندسة `true` وتكون نسخة WKB هي SimpleFeatureAccessOutdated. |
+| ArgumentOutOfRangeException | *variant* ليست قيمة صالحة لـ [`WkbVariant`](../../wkbvariant/). |
 
 ### انظر أيضًا
 

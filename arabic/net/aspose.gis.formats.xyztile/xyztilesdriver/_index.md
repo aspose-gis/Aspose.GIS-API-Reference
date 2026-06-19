@@ -1,24 +1,24 @@
 ---
-title: "فئة XyzTilesDriver"
+title: "الفئة XyzTilesDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.XyzTile.XyzTilesDriver فئة. برنامج تشغيل لخرائط الويب المتقطعة XYZ"
+description: "Aspose.Gis.Formats.XyzTile.XyzTilesDriver فئة. برنامج تشغيل لخرائط الويب المتقسمة XYZ"
 type: docs
 weight: 2420
 url: /ar/net/aspose.gis.formats.xyztile/xyztilesdriver/
 ---
 ## XyzTilesDriver class
 
-محرك لخرائط الويب المتقطعة XYZ.
+برنامج تشغيل لخرائط الويب المتقطعة XYZ.
 
 ```csharp
 public class XyzTilesDriver : Driver
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [XyzTilesDriver](xyztilesdriver/)() | المُنشئ الافتراضي. |
+| [XyzTilesDriver](xyztilesdriver/)() | المنشئ الافتراضي. |
 
 ## الطرق
 

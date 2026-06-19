@@ -1,7 +1,7 @@
 ---
 title: "SimpleMarker.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SimpleMarker. تستنسخ هذه النسخة."
+description: "طريقة SimpleMarker. تنسخ هذا المثيل"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/clone/

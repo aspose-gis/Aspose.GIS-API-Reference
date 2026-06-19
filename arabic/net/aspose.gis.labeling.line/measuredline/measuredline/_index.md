@@ -1,7 +1,7 @@
 ---
 title: "MeasuredLine.MeasuredLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MeasuredLine المُنشئ"
+description: "منشئ MeasuredLine."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.labeling.line/measuredline/measuredline/

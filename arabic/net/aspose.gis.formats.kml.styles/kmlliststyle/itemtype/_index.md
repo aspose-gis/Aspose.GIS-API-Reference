@@ -1,7 +1,7 @@
 ---
 title: "KmlListStyle.ItemType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlListStyle. تحدد كيف سيتم عرض kmlFolder ومحتوياته كعناصر في عرض القائمة. القيمة الافتراضية هي Check"
+description: "خاصية KmlListStyle. تحدد كيفية عرض kmlFolder ومحتوياته كعناصر في عرض القائمة. القيمة الافتراضية هي Check"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/itemtype/

@@ -1,5 +1,5 @@
 ---
-title: "DBase.اكتب_عدد_عشري_ثنائي"
+title: "DBase.WriteBinaryFloat"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

@@ -1,7 +1,7 @@
 ---
 title: "Unit.Unit"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ Unit. أنشئ مثيلاً جديداً"
+description: "منشئ Unit. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/unit/unit/
@@ -17,7 +17,7 @@ public Unit(string name, double factor, Identifier identifier = null)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم الوحدة. |
-| عامل | Double | عامل إلى المتر، إذا كانت هذه وحدة طول، أو إلى الراديان، إذا كانت هذه وحدة زاوية. |
+| factor | Double | العامل إلى المتر، إذا كانت هذه وحدة طول، أو إلى الراديان، إذا كانت وحدة زاوية. |
 | معرّف | معرّف | معرف الوحدة. |
 
 ### انظر أيضًا

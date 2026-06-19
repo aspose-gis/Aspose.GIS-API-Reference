@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/axis/axis/
 ---
 ## Axis constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public Axis(string name, AxisDirection direction)
@@ -17,7 +17,7 @@ public Axis(string name, AxisDirection direction)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم المحور. |
-| الاتجاه | AxisDirection | اتجاه المحور. |
+| اتجاه | AxisDirection | اتجاه المحور. |
 
 ### انظر أيضًا
 

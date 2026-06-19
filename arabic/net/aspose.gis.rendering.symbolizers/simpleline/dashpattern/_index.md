@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/dashpattern/
 ---
 ## SimpleLine.DashPattern property
 
-يحدد مصفوفة من المسافات التي تحدد أطوال الشرط والمسافات المتناوبة في الخطوط المتقطعة.
+يحدد مصفوفة من المسافات التي تحدد أطوال الشرط المتناوبة والمسافات في الخطوط المتقطعة.
 
 ```csharp
 public IEnumerable<Measurement> DashPattern { get; set; }

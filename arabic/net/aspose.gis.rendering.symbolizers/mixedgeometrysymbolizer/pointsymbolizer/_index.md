@@ -1,7 +1,7 @@
 ---
 title: "MixedGeometrySymbolizer.PointSymbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MixedGeometrySymbolizer. تحدد رمزًا لاستخدامه مع هندسات النقطة في الطبقة"
+description: "خاصية MixedGeometrySymbolizer. تحدد رمزًا لاستخدامه لأشكال النقطة في الطبقة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/pointsymbolizer/

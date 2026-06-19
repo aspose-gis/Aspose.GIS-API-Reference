@@ -18,10 +18,10 @@ public static class Renderers
 
 | الاسم | الوصف |
 | --- | --- |
-| static [Bmp](../../aspose.gis.rendering/renderers/bmp/) { get; } | عارض يقوم بالتحويل إلى صيغة BMP. |
-| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg/) { get; } | عارض يقوم بالتحويل إلى صيغة JPEG. |
-| static [Png](../../aspose.gis.rendering/renderers/png/) { get; } | عارض يقوم بالتحويل إلى صيغة PNG. |
-| static [Svg](../../aspose.gis.rendering/renderers/svg/) { get; } | عارض يقوم بالتحويل إلى صيغة SVG. |
+| static [Bmp](../../aspose.gis.rendering/renderers/bmp/) { get; } | عارض يحول إلى صيغة BMP. |
+| static [Jpeg](../../aspose.gis.rendering/renderers/jpeg/) { get; } | عارض يحول إلى صيغة JPEG. |
+| static [Png](../../aspose.gis.rendering/renderers/png/) { get; } | عارض يحول إلى صيغة PNG. |
+| static [Svg](../../aspose.gis.rendering/renderers/svg/) { get; } | عارض يحول إلى صيغة SVG. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "Ensure.InRange"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Ensure."
+description: "Ensure طريقة."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common/ensure/inrange/

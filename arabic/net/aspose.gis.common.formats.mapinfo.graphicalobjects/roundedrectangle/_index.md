@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/roundedrectangle
 public class RoundedRectangle : GraphicalObject, IEquatable<RoundedRectangle>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [RoundedRectangle](roundedrectangle/)() | المُنشئ الافتراضي. |
+| [RoundedRectangle](roundedrectangle/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

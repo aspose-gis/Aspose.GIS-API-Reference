@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalcollect
 public class GraphicalCollection : GraphicalObject, IEquatable<GraphicalCollection>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GraphicalCollection](graphicalcollection/)() | المُنشئ الافتراضي. |
+| [GraphicalCollection](graphicalcollection/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

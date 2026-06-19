@@ -6,15 +6,15 @@ type: docs
 weight: 540
 url: /ar/net/aspose.gis.imagemetadata/
 ---
-`Aspose.Gis.ImageMetadata` مساحة الاسم توفر فئات مساعدة للعمل مع Image Metadata
+مساحة الاسم `Aspose.Gis.ImageMetadata` توفر فئات مساعدة للعمل مع بيانات تعريف الصورة
 
 ## الفئات
 
 | فئة | الوصف |
 | --- | --- |
 | [GeoLocation](./geolocation/) | الفئة التي تمثل موقعًا جغرافيًا |
-| [ImageData](./imagedata/) | فئة تحتوي على جميع وسوم EXIF المستخرجة المدعومة |
-| [ImageMetadataReader](./imagemetadatareader/) | فئة لتعديل وإضافة بعض وسوم EXIF |
+| [ImageData](./imagedata/) | فئة تحتوي على جميع علامات EXIF المدعومة المستخرجة |
+| [ImageMetadataReader](./imagemetadatareader/) | فئة لتحرير وإضافة بعض علامات EXIF |
 | [ImageSize](./imagesize/) | الفئة التي تمثل حجم الصورة |
 ## تعداد
 

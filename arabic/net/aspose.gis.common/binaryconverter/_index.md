@@ -1,5 +1,5 @@
 ---
-title: "فئة BinaryConverter"
+title: "الفئة BinaryConverter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Common.BinaryConverter."
 type: docs

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/nearpointscleaneroptions/distance/
 ---
 ## NearPointsCleanerOptions.Distance property
 
-معامل للتحقق ما إذا كانت النقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0.
+معامل للتحقق هو ما إذا كانت النقطة قريبة من نقطة أخرى. القيمة الافتراضية هي 0.
 
 ```csharp
 public double Distance { get; set; }

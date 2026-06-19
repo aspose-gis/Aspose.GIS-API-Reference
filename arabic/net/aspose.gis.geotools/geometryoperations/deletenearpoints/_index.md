@@ -1,7 +1,7 @@
 ---
 title: "GeometryOperations.DeleteNearPoints"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryOperations. حذف النقاط التي هي قريبة جدًا من بعضها البعض"
+description: "طريقة GeometryOperations. حذف النقاط التي هي قريبة جدًا من بعضها"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools/geometryoperations/deletenearpoints/
@@ -17,7 +17,7 @@ public static IGeometry DeleteNearPoints(IGeometry geometry, NearPointsCleanerOp
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | هندسة | IGeometry | الهندسة لحذف أقرب النقاط. |
-| الخيارات | NearPointsCleanerOptions | خيارات حذف أقرب النقاط. |
+| options | NearPointsCleanerOptions | خيارات حذف أقرب النقاط. |
 
 ### قيمة الإرجاع
 

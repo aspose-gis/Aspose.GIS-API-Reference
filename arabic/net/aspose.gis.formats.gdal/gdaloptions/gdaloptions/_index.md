@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.gdal/gdaloptions/gdaloptions/
 ---
 ## GdalOptions constructor
 
-إنشاء نسخة جديدة.
+إنشاء مثال جديد.
 
 ```csharp
 public GdalOptions(string tempDirectory = null)

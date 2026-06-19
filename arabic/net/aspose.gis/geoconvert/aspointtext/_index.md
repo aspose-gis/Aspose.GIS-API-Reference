@@ -1,14 +1,14 @@
 ---
 title: "GeoConvert.AsPointText"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeoConvert. تُرجع الموضع المحسوب كسلسلة نصية بالتنسيق المحدد"
+description: "طريقة GeoConvert. تُعيد الموضع المحسوب كسلسلة نصية بالتنسيق المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/geoconvert/aspointtext/
 ---
 ## AsPointText(double, double, PointFormats) {#aspointtext_1}
 
-يعيد الموضع المحسوب كسلسلة في الصيغة المحددة.
+يعيد الموضع المحسوب كسلسلة بالنص بالتنسيق المحدد.
 
 ```csharp
 public static string AsPointText(double latitude, double longitude, PointFormats format)
@@ -16,8 +16,8 @@ public static string AsPointText(double latitude, double longitude, PointFormats
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| latitude | Double | خط عرض الموضع. |
-| longitude | Double | خط طول الموضع. |
+| خط العرض | Double | خط عرض الموضع. |
+| خط الطول | Double | خط طول الموضع. |
 | التنسيق | PointFormats | تنسيق النتيجة. |
 
 ### قيمة الإرجاع
@@ -35,7 +35,7 @@ public static string AsPointText(double latitude, double longitude, PointFormats
 
 ## AsPointText(IPoint, PointFormats) {#aspointtext}
 
-يعيد الموضع المحسوب كسلسلة في الصيغة المحددة.
+يعيد الموضع المحسوب كسلسلة بالنص بالتنسيق المحدد.
 
 ```csharp
 public static string AsPointText(IPoint point, PointFormats format)

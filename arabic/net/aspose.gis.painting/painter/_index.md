@@ -1,7 +1,7 @@
 ---
 title: "الفئة Painter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.Painter فئة."
+description: "Aspose.Gis.Painting.Painter الفئة."
 type: docs
 weight: 3510
 url: /ar/net/aspose.gis.painting/painter/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.painting/painter/
 public class Painter : IDisposable
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

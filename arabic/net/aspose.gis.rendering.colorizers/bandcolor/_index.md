@@ -1,20 +1,20 @@
 ---
 title: "الفئة BandColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Colorizers.BandColor. يربط قيم النطاق ومكوّن لوني للفهرس المحدد للنطاق. القيم بين الحد الأدنى والحد الأقصى سيتم استيفاؤها خطيًا."
+description: "الفئة Aspose.Gis.Rendering.Colorizers.BandColor. يربط قيم النطاق ومكوّن لون للفهرس المحدد للنطاق. القيم بين الحد الأدنى والحد الأقصى سيتم استيفاؤها خطيًا."
 type: docs
 weight: 3950
 url: /ar/net/aspose.gis.rendering.colorizers/bandcolor/
 ---
 ## BandColor class
 
-يربط قيم النطاق ومكوّن اللون للفهرس المحدد للنطاق. سيتم استيفاء قيم النطاق بين الحد الأدنى والحد الأقصى خطيًا.
+يربط قيم النطاق ومكوّن اللون للفهرس المحدد للنطاق. سيتم استيفاء القيم بين الحد الأدنى والحد الأقصى خطيًا.
 
 ```csharp
 public class BandColor
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

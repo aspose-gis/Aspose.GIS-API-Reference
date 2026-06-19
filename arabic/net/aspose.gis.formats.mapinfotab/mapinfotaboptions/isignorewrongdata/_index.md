@@ -1,14 +1,14 @@
 ---
 title: "MapInfoTabOptions.IsIgnoreWrongData"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapInfoTabOptions property. تحدد ما إذا كان يجب علينا رمي استثناء أثناء العمل مع البيانات الخاطئة أو تعيين القيم الافتراضية لها"
+description: "خاصية MapInfoTabOptions. تحدد ما إذا كنا سنرمي استثناءً أثناء العمل مع البيانات الخاطئة أم نضبط القيم الافتراضية لها"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotaboptions/isignorewrongdata/
 ---
 ## MapInfoTabOptions.IsIgnoreWrongData property
 
-يحدد ما إذا كنا سنرمي استثناءً أثناء العمل مع بيانات غير صحيحة أو نضبط القيم الافتراضية لها
+يحدد ما إذا كنا سنرمي استثناءً أثناء العمل ببيانات غير صحيحة أم سنضبط القيم الافتراضية لها
 
 ```csharp
 public bool IsIgnoreWrongData { get; set; }

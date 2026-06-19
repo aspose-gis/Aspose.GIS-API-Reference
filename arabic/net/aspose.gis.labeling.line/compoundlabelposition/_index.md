@@ -1,7 +1,7 @@
 ---
-title: "فئة CompoundLabelPosition"
+title: "صنف CompoundLabelPosition"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Labeling.Line.CompoundLabelPosition."
+description: "Aspose.Gis.Labeling.Line.CompoundLabelPosition فئة."
 type: docs
 weight: 3280
 url: /ar/net/aspose.gis.labeling.line/compoundlabelposition/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling.line/compoundlabelposition/
 public class CompoundLabelPosition : LabelPosition
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

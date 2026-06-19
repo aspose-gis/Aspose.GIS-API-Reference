@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/op_equality/
 ---
 ## BursaWolfParameters Equality operator
 
-ينفذ العامل ==.
+ينفّذ العامل ==.
 
 ```csharp
 public static bool operator ==(BursaWolfParameters a, BursaWolfParameters b)
@@ -16,12 +16,12 @@ public static bool operator ==(BursaWolfParameters a, BursaWolfParameters b)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | BursaWolfParameters | الكائن A. |
-| b | BursaWolfParameters | الكائن B. |
+| a | BursaWolfParameters | مثيل A. |
+| b | BursaWolfParameters | مثيل B. |
 
 ### قيمة الإرجاع
 
-نتيجة المشغل.
+نتيجة العامل.
 
 ### انظر أيضًا
 

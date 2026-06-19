@@ -1,5 +1,5 @@
 ---
-title: "LruCache2.عدد"
+title: "LruCache2.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية LruCache."
 type: docs

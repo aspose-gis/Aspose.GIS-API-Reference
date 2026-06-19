@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/extent/height/
 ---
 ## Extent.Height property
 
-ارتفاع الامتداد.
+ارتفاع النطاق.
 
 ```csharp
 public double Height { get; }

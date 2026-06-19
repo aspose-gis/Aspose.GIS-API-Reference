@@ -1,7 +1,7 @@
 ---
 title: "الفئة CallbackEnumerableT"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.CallbackEnumerable1T الفئة."
+description: "فئة Aspose.Gis.Common.Collections.CallbackEnumerable1T."
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.common.collections/callbackenumerable-1/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.collections/callbackenumerable-1/
 public class CallbackEnumerable<T> : IEnumerable<T>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

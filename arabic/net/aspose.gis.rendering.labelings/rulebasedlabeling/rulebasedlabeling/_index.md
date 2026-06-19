@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/rulebasedlabeling/
 ---
 ## RuleBasedLabeling constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public RuleBasedLabeling()

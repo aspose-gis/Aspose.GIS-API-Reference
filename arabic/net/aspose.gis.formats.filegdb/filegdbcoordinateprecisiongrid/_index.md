@@ -14,23 +14,23 @@ url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/
 public sealed class FileGdbCoordinatePrecisionGrid
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid/)() | المُنشئ الافتراضي. |
+| [FileGdbCoordinatePrecisionGrid](filegdbcoordinateprecisiongrid/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | يحصل أو يضبط أصل إحداثية M. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية. |
-| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | يحصل أو يضبط مقياس إحداثية M. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية. |
-| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | يحصل أو يضبط أصل إحداثية X. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية. |
-| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | يحصل أو يضبط مقياس إحداثيات X و Y. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية. |
-| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | يحصل أو يضبط أصل إحداثية Y. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية. |
-| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | يحصل أو يضبط أصل إحداثية Z. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية. |
-| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | يحصل أو يضبط مقياس إحداثية Z. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية. |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | يحصل أو يضبط أصل إحداثية M. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية. |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | يحصل أو يضبط مقياس إحداثية M. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية. |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | يحصل أو يضبط أصل إحداثية X. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية. |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | يحصل أو يضبط مقياس إحداثيات X و Y. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية. |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | يحصل أو يضبط أصل إحداثية Y. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية. |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | يحصل أو يضبط أصل إحداثية Z. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية. |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | يحصل أو يضبط مقياس إحداثية Z. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية. |
 
 ## الطرق
 
@@ -53,7 +53,7 @@ ZMax = ZOrigin + 9e+15 / ZScale
 MMax = MOrigin + 9e+15 / MScale
 ```
 
-يجب أن تكون كل إحداثية في [`VectorLayer`](../../aspose.gis/vectorlayer/) ضمن هذا النطاق. الإحداثيات التي تقع خارج النطاق قد تتسبب في أخطاء قراءة لاحقًا وستُعالج بشكل خاطئ بواسطة ArcGIS. إذا لم تحدد أي خصائص (اتركها `null`) سيتم استخدام القيم الافتراضية. تعتمد القيم الافتراضية على [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) الخاص بـ [`VectorLayer`](../../aspose.gis/vectorlayer/). للأنظمة الجغرافية [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) القيم الافتراضية هي:
+يجب أن تكون كل إحداثية في [`VectorLayer`](../../aspose.gis/vectorlayer/) ضمن هذا النطاق. الإحداثيات التي تقع خارج النطاق قد تتسبب في أخطاء قراءة لاحقًا وستتم معالجتها بشكل خاطئ بواسطة ArcGIS. إذا لم تقم بتحديد أي خصائص (اتركها `null`) سيتم استخدام القيم الافتراضية. تعتمد القيم الافتراضية على [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) الخاص بـ [`VectorLayer`](../../aspose.gis/vectorlayer/). للأنظمة الجغرافية [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) القيم الافتراضية هي:
 
 ```csharp
 XOrigin = -400
@@ -65,7 +65,7 @@ ZScale  = 1 / ZTolerance * 10
 MScale  = 1 / MTolerance * 10
 ```
 
-لأنظمة الإسقاط [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) القيم الافتراضية هي:
+للأنظمة الإسقاطية [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) القيم الافتراضية هي:
 
 ```csharp
 XOrigin = -2147483647
@@ -77,7 +77,7 @@ ZScale  = 1 / ZTolerance  * 10
 MScale  = 1 / MTolerance  * 10
 ```
 
-حيث `XYTolerance` و `ZTolerance` و `MTolerance` هي قيم من [`FileGdbOptions`](../filegdboptions/).
+حيث أن `XYTolerance` و `ZTolerance` و `MTolerance` هي قيم من [`FileGdbOptions`](../filegdboptions/).
 
 ### انظر أيضًا
 

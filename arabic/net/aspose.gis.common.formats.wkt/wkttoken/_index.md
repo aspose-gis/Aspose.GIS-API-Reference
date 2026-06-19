@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.wkt/wkttoken/
 public struct WktToken : IEquatable<WktToken>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: "تعداد BufferEndCapStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Buffer.BufferEndCapStyle تعداد."
+description: "تعداد Aspose.Gis.Topology.Buffer.BufferEndCapStyle."
 type: docs
 weight: 4780
 url: /ar/net/aspose.gis.topology.buffer/bufferendcapstyle/

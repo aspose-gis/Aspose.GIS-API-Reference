@@ -1,14 +1,14 @@
 ---
 title: "LinePlacerContext.LinePlacerContext"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "LinePlacerContext constructor. المُنشئ الافتراضي"
+description: "منشئ LinePlacerContext. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.labeling.line/lineplacercontext/lineplacercontext/
 ---
 ## LinePlacerContext constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public LinePlacerContext()

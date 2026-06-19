@@ -1,7 +1,7 @@
 ---
 title: "بنية EllipticArc"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.EllipticArc بنية."
+description: "بنية Aspose.Gis.Common.EllipticArc."
 type: docs
 weight: 240
 url: /ar/net/aspose.gis.common/ellipticarc/

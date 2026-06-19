@@ -1,7 +1,7 @@
 ---
 title: "فئة EpsgDatabase"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Epsg.EpsgDatabase فئة."
+description: "فئة Aspose.Gis.Epsg.EpsgDatabase."
 type: docs
 weight: 1490
 url: /ar/net/aspose.gis.epsg/epsgdatabase/

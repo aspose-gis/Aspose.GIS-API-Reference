@@ -1,7 +1,7 @@
 ---
 title: "Measurement.op_Implicit"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثّل الطول بوحدات البكسل"
+description: "طريقة القياس. تُرجع نسخة جديدة من Measurement تمثل الطول بالبكسل"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.rendering/measurement/op_implicit/

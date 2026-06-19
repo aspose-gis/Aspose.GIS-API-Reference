@@ -16,7 +16,7 @@ public double GetLength()
 
 ### قيمة الإرجاع
 
-طول هذه الهندسة. المحيط إذا كانت هذه [`Polygon`](../../polygon/). مجموع أطوال عناصر هذه الهندسة إذا كانت هذه الهندسة عبارة عن [`GeometryCollection`](../../geometrycollection/).
+طول هذه الهندسة. المحيط إذا كانت هذه [`Polygon`](../../polygon/). مجموع أطوال عناصر هذه الهندسة إذا كانت هذه الهندسة [`GeometryCollection`](../../geometrycollection/).
 
 ### انظر أيضًا
 

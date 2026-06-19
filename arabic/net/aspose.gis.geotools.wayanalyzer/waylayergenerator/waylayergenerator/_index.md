@@ -1,7 +1,7 @@
 ---
 title: "WayLayerGenerator.WayLayerGenerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "WayLayerGenerator constructor. إنشاء نسخة من WayLayerGenerator"
+description: "منشئ WayLayerGenerator. إنشاء نسخة من WayLayerGenerator"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools.wayanalyzer/waylayergenerator/waylayergenerator/
@@ -16,7 +16,7 @@ public WayLayerGenerator(WayOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الخيارات | WayOptions | خيارات المولد. |
+| options | WayOptions | خيارات المولد. |
 
 ### استثناءات
 

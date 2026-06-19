@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/vectorlayer/geometrytype/
 ---
 ## VectorLayer.GeometryType property
 
-يحصل على نوع الهندسة للطبقة.
+يسترجع نوع الهندسة للطبقة.
 
 ```csharp
 public abstract GeometryType GeometryType { get; }
@@ -22,7 +22,7 @@ public abstract GeometryType GeometryType { get; }
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم رميه إذا تم فتح الطبقة للكتابة فقط. |
+| InvalidOperationException | يتم إلقاؤه إذا تم فتح الطبقة للكتابة فقط. |
 
 ### انظر أيضًا
 

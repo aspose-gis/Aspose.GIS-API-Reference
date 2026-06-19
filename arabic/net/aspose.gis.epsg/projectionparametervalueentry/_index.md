@@ -1,7 +1,7 @@
 ---
-title: "هيكل ProjectionParameterValueEntry"
+title: "بنية ProjectionParameterValueEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Epsg.ProjectionParameterValueEntry هيكل."
+description: "بنية Aspose.Gis.Epsg.ProjectionParameterValueEntry."
 type: docs
 weight: 1560
 url: /ar/net/aspose.gis.epsg/projectionparametervalueentry/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.epsg/projectionparametervalueentry/
 public struct ProjectionParameterValueEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

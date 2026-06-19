@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling/tetragon/
 public struct Tetragon
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

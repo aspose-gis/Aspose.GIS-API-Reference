@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/databasedriveroptions/spatialreferencesystemmode/
 ---
 ## DatabaseDriverOptions.SpatialReferenceSystemMode property
 
-يحدد كيفية التعامل مع نظام الإحداثيات المرجعي (SRS) للأشكال غير المعروفة في قاعدة البيانات عند إضافتها إلى الطبقة. القيمة الافتراضية هي ThrowException.
+يحدد كيفية معالجة نظام الإحداثيات المرجعي (SRS) للأشكال غير المعروفة في قاعدة البيانات عند إضافتها إلى الطبقة. القيمة الافتراضية هي ThrowException.
 
 ```csharp
 public SpatialReferenceSystemMode SpatialReferenceSystemMode { get; set; }

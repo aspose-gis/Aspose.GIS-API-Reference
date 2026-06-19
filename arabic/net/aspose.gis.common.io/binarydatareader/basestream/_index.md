@@ -1,7 +1,7 @@
 ---
 title: "BinaryDataReader.BaseStream"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية BinaryDataReader."
+description: "BinaryDataReader خاصية."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.io/binarydatareader/basestream/

@@ -1,7 +1,7 @@
 ---
 title: "GeometryCollection.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryCollection. تحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي"
+description: "GeometryCollection method. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.geometries/geometrycollection/equals/
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
+صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -44,7 +44,7 @@ public bool Equals(IGeometryCollection other)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
+صحيح إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا، خطأ.
 
 ### انظر أيضًا
 

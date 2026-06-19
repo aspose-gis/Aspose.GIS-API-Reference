@@ -16,7 +16,7 @@ public bool IsValid { get; }
 
 ### قيمة الإرجاع
 
-`true` إذا كان الـ SRS صالحًا، `false` غير ذلك.
+`true` إذا كان الـ SRS صالحًا، `false` خلاف ذلك.
 
 ### انظر أيضًا
 

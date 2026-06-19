@@ -1,7 +1,7 @@
 ---
 title: "Point.SpatialReferenceSystem"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Point. تحصل على SpatialReferenceSystem لهذه الحالة. يمكن أن تكون هذه الخاصية فارغة إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يُجري أي تحويل إحداثيات، فقط سيتغير المرجع"
+description: "خاصية Point. تحصل على SpatialReferenceSystem لهذا الكائن. يمكن أن تكون هذه الخاصية فارغة إذا كان SpatialReferenceSystem غير معروف. تعيين SpatialReferenceSystem جديد لن يُجري أي تحويل إحداثي، فقط سيتغير المرجع"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/point/spatialreferencesystem/

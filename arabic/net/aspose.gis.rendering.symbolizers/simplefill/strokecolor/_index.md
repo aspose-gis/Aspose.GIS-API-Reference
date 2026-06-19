@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokecolor/
 ---
 ## SimpleFill.StrokeColor property
 
-يحدد اللون والشفافية الممنوحين للخط.
+يحدد اللون والشفافية المطبقة على الخط.
 
 ```csharp
 public Color StrokeColor { get; set; }

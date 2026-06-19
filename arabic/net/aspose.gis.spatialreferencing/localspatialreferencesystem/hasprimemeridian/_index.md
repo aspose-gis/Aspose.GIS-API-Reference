@@ -1,14 +1,14 @@
 ---
 title: "LocalSpatialReferenceSystem.HasPrimeMeridian"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LocalSpatialReferenceSystem. تُعيد false لأن نظام الإحداثيات المحلي لا يحتوي على خط طول أساسي"
+description: "خاصية LocalSpatialReferenceSystem. تُعيد false لأن Local SRS لا يحتوي على خط طول رئيسي"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/hasprimemeridian/
 ---
 ## LocalSpatialReferenceSystem.HasPrimeMeridian property
 
-يعيد `false`، لأن Local SRS لا يحتوي على خط الزوال الرئيسي.
+يرجع `false`، لأن نظام الإحداثيات المحلي لا يحتوي على خط الزوال الرئيسي.
 
 ```csharp
 public override bool HasPrimeMeridian { get; }

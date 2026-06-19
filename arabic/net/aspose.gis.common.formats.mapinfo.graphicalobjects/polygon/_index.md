@@ -1,7 +1,7 @@
 ---
 title: "الفئة Polygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Polygon فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Polygon الفئة."
 type: docs
 weight: 650
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/polygon/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/polygon/
 public class Polygon : IEquatable<Polygon>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Polygon](polygon/)() | المُنشئ الافتراضي. |
+| [Polygon](polygon/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

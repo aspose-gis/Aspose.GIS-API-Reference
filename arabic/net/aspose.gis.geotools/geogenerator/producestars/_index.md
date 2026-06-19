@@ -1,14 +1,14 @@
 ---
 title: "GeoGenerator.ProduceStars"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeoGenerator. تنشئ مصفوفة من النجوم جميعها داخل نطاق محدد"
+description: "طريقة GeoGenerator. تنشئ مصفوفة من النجوم جميعها داخل مدى محدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools/geogenerator/producestars/
 ---
 ## GeoGenerator.ProduceStars method
 
-إنشاء مصفوفة من النجوم، جميعها ضمن نطاق معين.
+إنشاء مصفوفة من النجوم، جميعها ضمن نطاق محدد.
 
 ```csharp
 public static IEnumerable<IPolygon> ProduceStars(Extent rect, StarGeneratorOptions options)
@@ -27,10 +27,10 @@ public static IEnumerable<IPolygon> ProduceStars(Extent rect, StarGeneratorOptio
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن يكون عدد النجوم أكبر من واحد |
-| NullReferenceException | يجب أن يكون للنطاق قيمة (لا يكون NULL) |
-| ArgumentException | يجب أن يكون الحد الأدنى والحد الأقصى غير متساويين وأكبر من 3 |
-| ArgumentException | يجب أن يكون الحد الأقصى أكبر من الحد الأدنى |
+| ArgumentOutOfRangeException | يجب أن يكون عدد النجوم أكبر من واحد. |
+| NullReferenceException | يجب أن يكون للمدى قيمة (ليس NULL) |
+| ArgumentException | يجب أن تكون الأطوال الدنيا والعليا غير متساوية وأكبر من 3 |
+| ArgumentException | يجب أن يكون الطول الأقصى أكبر من الحد الأدنى |
 
 ### انظر أيضًا
 

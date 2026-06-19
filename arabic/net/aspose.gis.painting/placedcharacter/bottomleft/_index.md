@@ -1,7 +1,7 @@
 ---
 title: "PlacedCharacter.BottomLeft"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PlacedCharacter خاصية."
+description: "خاصية PlacedCharacter."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.painting/placedcharacter/bottomleft/

@@ -1,7 +1,7 @@
 ---
 title: "تعداد CapStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "تعداد Aspose.Gis.Rendering.CapStyle. يحدد كيفية تصوير الخطوط عند نهاياتها"
+description: "تعداد Aspose.Gis.Rendering.CapStyle. يحدد كيفية تصوير الخطوط عند نهاياتها."
 type: docs
 weight: 3940
 url: /ar/net/aspose.gis.rendering/capstyle/

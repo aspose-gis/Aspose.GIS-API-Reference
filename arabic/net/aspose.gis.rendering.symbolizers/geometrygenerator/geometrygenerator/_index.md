@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/geometrygenerator/geometrygenerato
 ---
 ## GeometryGenerator constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GeometryGenerator()

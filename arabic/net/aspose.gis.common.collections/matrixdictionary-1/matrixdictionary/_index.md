@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.collections/matrixdictionary-1/matrixdictionary/
 ---
 ## MatrixDictionary&lt;TData&gt; constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MatrixDictionary()

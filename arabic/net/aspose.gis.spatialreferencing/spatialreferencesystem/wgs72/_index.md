@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/wgs72/
 ---
 ## SpatialReferenceSystem.Wgs72 property
 
-WGS 72 (EPSG:4322) نظام الإحداثيات.
+نظام الإحداثيات المكانية WGS 72 (EPSG:4322).
 
 ```csharp
 public static GeographicSpatialReferenceSystem Wgs72 { get; }

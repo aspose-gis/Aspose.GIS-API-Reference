@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.wkt/wktstring/
 public sealed class WktString : WktSingleValue<string>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -16,8 +16,8 @@ public Dataset OpenDataset(string path, FileGdbOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى مجموعة البيانات. |
-| الخيارات | FileGdbOptions | خيارات خاصة بالسائق. |
+| path | String | مسار مجموعة البيانات. |
+| options | FileGdbOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -53,8 +53,8 @@ public override Dataset OpenDataset(AbstractPath path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | مسار مجموعة البيانات. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -91,8 +91,8 @@ public Dataset OpenDataset(AbstractPath path, FileGdbOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
-| الخيارات | FileGdbOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | مسار مجموعة البيانات. |
+| options | FileGdbOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.wkt/wktwriteroptions/wktwriteroptions/
 ---
 ## WktWriterOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public WktWriterOptions()

@@ -1,7 +1,7 @@
 ---
 title: "Rule.CreateElseRule"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Rule. تنشئ قاعدة جديدة تطبق رمزًا على العنصر كلما لم يتطابق مع أي قاعدة تصفية"
+description: "طريقة Rule. تنشئ قاعدة جديدة تطبق رمزًا على العنصر كلما لم يتطابق مع أي قاعدة فلتر"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/rule/createelserule/
@@ -16,7 +16,7 @@ public static Rule CreateElseRule(VectorSymbolizer symbolizer)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| symbolizer | VectorSymbolizer | الرمز للتطبيق. |
+| symbolizer | VectorSymbolizer | الرمز لتطبيقه. |
 
 ### قيمة الإرجاع
 

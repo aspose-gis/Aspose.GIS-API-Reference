@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/
 ---
 ## SpatialReferenceSystem.PrimeMeridian property
 
-يرجع prime meridian لهذا SRS.
+يعيد خط الزوال الأساسي لهذا الـ SRS.
 
 ```csharp
 public abstract PrimeMeridian PrimeMeridian { get; }

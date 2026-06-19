@@ -1,5 +1,5 @@
 ---
-title: "GeocentricCrsEntry.الاسم"
+title: "GeocentricCrsEntry.Name"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "GeocentricCrsEntry خاصية."
 type: docs

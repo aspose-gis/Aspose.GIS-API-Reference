@@ -1,14 +1,14 @@
 ---
 title: "VectorLayer.NearestTo"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. الحصول على أقرب feature إلى الإحداثي المقدم"
+description: "طريقة VectorLayer. يحصل على أقرب feature إلى الإحداثي المقدم"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis/vectorlayer/nearestto/
 ---
 ## NearestTo(double, double) {#nearestto_1}
 
-يحصل على أقرب ميزة إلى الإحداثي المقدم.
+يسترجع أقرب ميزة إلى الإحداثي المقدم.
 
 ```csharp
 public Feature NearestTo(double x, double y)
@@ -34,7 +34,7 @@ public Feature NearestTo(double x, double y)
 
 ## NearestTo(IPoint) {#nearestto}
 
-يحصل على أقرب ميزة إلى النقطة المقدمة.
+يسترجع أقرب ميزة إلى النقطة المقدمة.
 
 ```csharp
 public Feature NearestTo(IPoint point)

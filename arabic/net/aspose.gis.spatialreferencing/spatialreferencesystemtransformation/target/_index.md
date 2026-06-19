@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystemTransformation.Target"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SpatialReferenceSystemTransformation. نظام الإسناد المكاني الهدف"
+description: "خاصية SpatialReferenceSystemTransformation. نظام الإحداثيات الهدف"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/target/

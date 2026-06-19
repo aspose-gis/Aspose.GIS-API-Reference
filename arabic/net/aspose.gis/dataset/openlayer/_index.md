@@ -17,7 +17,7 @@ public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم الطبقة للفتح. |
-| الخيارات | DriverOptions | خيارات الفتح. |
+| options | DriverOptions | خيارات الفتح. |
 
 ### قيمة الإرجاع
 
@@ -27,10 +27,10 @@ public abstract VectorLayer OpenLayer(string name, DriverOptions options = null)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | الطبقة بالاسم المحدد غير موجودة؛ كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
-| ArgumentException | كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
+| ArgumentException | الطبقة بالاسم المحدد غير موجودة؛ كائن Options له نوع غير صحيح لهذا مجموعة البيانات. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا مجموعة البيانات. |
 | ArgumentNullException | الاسم هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الطبقة. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الطبقة. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا

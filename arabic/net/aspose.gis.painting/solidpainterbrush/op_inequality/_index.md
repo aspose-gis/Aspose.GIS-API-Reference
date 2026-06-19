@@ -1,7 +1,7 @@
 ---
 title: "SolidPainterBrush.op_Inequality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "SolidPainterBrush طريقة."
+description: "طريقة SolidPainterBrush."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.painting/solidpainterbrush/op_inequality/

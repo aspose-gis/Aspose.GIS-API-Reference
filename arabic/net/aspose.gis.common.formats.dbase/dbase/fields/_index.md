@@ -1,5 +1,5 @@
 ---
-title: "DBase.حقول"
+title: "DBase.Fields"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية DBase."
 type: docs

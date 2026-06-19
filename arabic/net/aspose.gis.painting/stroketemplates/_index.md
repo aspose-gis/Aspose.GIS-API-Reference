@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/stroketemplates/
 public class StrokeTemplates
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [StrokeTemplates](stroketemplates/)() | المُنشئ الافتراضي. |
+| [StrokeTemplates](stroketemplates/)() | المنشئ الافتراضي. |
 
 ## الطرق
 

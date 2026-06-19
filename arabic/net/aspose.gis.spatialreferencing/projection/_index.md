@@ -1,7 +1,7 @@
 ---
 title: "الفئة Projection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.SpatialReferencing.Projection. تمثل طريقة إسقاط مع معلمات تحول خط الطول والعرض إلى x y"
+description: "فئة Aspose.Gis.SpatialReferencing.Projection. تمثل طريقة إسقاط مع معلمات تحول خط الطول والعرض إلى x y"
 type: docs
 weight: 4690
 url: /ar/net/aspose.gis.spatialreferencing/projection/
@@ -23,16 +23,16 @@ public class Projection : IdentifiableObject
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
 | [LinearParametersUnit](../../aspose.gis.spatialreferencing/projection/linearparametersunit/) { get; } | الوحدة المستخدمة للمعلمات الخطية. |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
-| [ParametersNames](../../aspose.gis.spatialreferencing/projection/parametersnames/) { get; } | يحصل على مجموعة قابلة للتعداد من أسماء المعلمات المخصصة لهذا الإسقاط |
+| [ParametersNames](../../aspose.gis.spatialreferencing/projection/parametersnames/) { get; } | يحصل على مجموعة قابلة للتعداد لأسماء المعلمات المخصصة لهذا الإسقاط |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue/)(string, ParameterType) | يحصل على المعلمة ذات الاسم المحدد لهذا الإسقاط. |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent/)(Projection) | يحدد ما إذا كان الإسقاطان متكافئين. الإسقاطات المتكافئة تحول (خط الطول، خط العرض) إلى (x, y) بنفس الطريقة. |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
-| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue/)(string, ParameterType) | يحصل على المعلمة ذات الاسم المحدد لهذا الإسقاط. إذا لم توجد مثل هذه المعلمة - يعيد `null`. |
+| [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue/)(string, ParameterType) | يحصل على المعلمة بالاسم المحدد لهذا الإسقاط. |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent/)(Projection) | يحدد ما إذا كان إسقاطان متكافئان. الإسقاطات المتكافئة تحول (خط الطول، خط العرض) إلى (x, y) بنفس الطريقة. |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
+| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue/)(string, ParameterType) | يحصل على المعلمة بالاسم المحدد لهذا الإسقاط. إذا لم توجد مثل هذه المعلمة - يرجع `null`. |
 
 ### انظر أيضًا
 

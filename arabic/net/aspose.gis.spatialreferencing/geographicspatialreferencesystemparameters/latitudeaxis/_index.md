@@ -1,14 +1,14 @@
 ---
 title: "GeographicSpatialReferenceSystemParameters.LatitudeAxis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicSpatialReferenceSystemParameters. المحور الذي يصف خط العرض. الافتراضي هو المحور باتجاه الشمال"
+description: "خاصية GeographicSpatialReferenceSystemParameters. المحور الذي يصف خط العرض. القيمة الافتراضية هي محور باتجاه الشمال."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/latitudeaxis/
 ---
 ## GeographicSpatialReferenceSystemParameters.LatitudeAxis property
 
-المحور الذي يصف خط العرض. الافتراضي هو محور باتجاه الشمال.
+المحور الذي يصف خط العرض. القيمة الافتراضية هي محور باتجاه الشمال.
 
 ```csharp
 public Axis LatitudeAxis { get; set; }

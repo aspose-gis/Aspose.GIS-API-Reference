@@ -1,7 +1,7 @@
 ---
-title: "Class MultiDictionaryTKeyTValue"
+title: "الفئة MultiDictionaryTKeyTValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.MultiDictionary2TKeyTValue الفئة."
+description: "فئة Aspose.Gis.Common.Collections.MultiDictionary2TKeyTValue."
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.common.collections/multidictionary-2/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.collections/multidictionary-2/
 public class MultiDictionary<TKey, TValue> : IReadOnlyCollection<KeyValuePair<TKey, TValue>>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MultiDictionary](multidictionary/#constructor)() | المُنشئ الافتراضي. |
+| [MultiDictionary](multidictionary/#constructor)() | المنشئ الافتراضي. |
 | [MultiDictionary](multidictionary/#constructor_3)(IEqualityComparer&lt;TKey&gt;) |  |
 | [MultiDictionary](multidictionary/#constructor_1)(int) |  |
 | [MultiDictionary](multidictionary/#constructor_2)(int, IEqualityComparer&lt;TKey&gt;) |  |

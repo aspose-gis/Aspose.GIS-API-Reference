@@ -1,14 +1,14 @@
 ---
 title: "PointGeneratorOptions.PointGeneratorOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PointGeneratorOptions منشئ. إنشاء نسخة باستخدام الخيارات الافتراضية"
+description: "PointGeneratorOptions constructor. إنشاء كائن باستخدام الخيارات الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/pointgeneratoroptions/pointgeneratoroptions/
 ---
 ## PointGeneratorOptions constructor
 
-إنشاء كائن باستخدام الخيارات الافتراضية.
+إنشاء نسخة باستخدام الخيارات الافتراضية.
 
 ```csharp
 public PointGeneratorOptions()

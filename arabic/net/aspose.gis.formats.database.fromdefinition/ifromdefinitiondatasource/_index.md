@@ -1,14 +1,14 @@
 ---
-title: "الواجهة IFromDefinitionDataSource"
+title: "واجهة IFromDefinitionDataSource"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Formats.Database.FromDefinition.IFromDefinitionDataSource. توفر القدرة على قراءة البيانات الجغرافية المكانية من قاعدة البيانات عبر LINQ وتحديثها."
+description: "واجهة Aspose.Gis.Formats.Database.FromDefinition.IFromDefinitionDataSource. توفر القدرة على قراءة البيانات الجغرافية المكانية من قاعدة البيانات عبر LINQ وتحديثها"
 type: docs
 weight: 1770
 url: /ar/net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/
 ---
 ## IFromDefinitionDataSource interface
 
-يوفر القدرة على قراءة البيانات الجغرافية المكانية من قاعدة البيانات عبر LINQ وتحديثها.
+توفر القدرة على قراءة البيانات الجغرافية المكانية من قاعدة البيانات عبر LINQ وتحديثها.
 
 ```csharp
 public interface IFromDefinitionDataSource
@@ -18,15 +18,15 @@ public interface IFromDefinitionDataSource
 
 | الاسم | الوصف |
 | --- | --- |
-| [Layer](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/layer/) { get; } | خاصية تُعيد كائنًا ينفّذ IQueryable ويسمح بإجراء استعلامات LINQ على قاعدة البيانات. |
+| [Layer](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/layer/) { get; } | خاصية تُعيد كائنًا ينفّذ IQueryable يسمح بإجراء استعلامات LINQ ضد قاعدة البيانات. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetEmptyLayer](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/getemptylayer/)() | يسمح بإنشاء طبقة فارغة. يمكن أن يكون ذلك مفيدًا عند إضافة سجل جديد إلى قاعدة البيانات فقط. ولكن لاحقًا يمكن استخدام الطبقة لتعديل السجلات المضافة حديثًا. |
-| [SubmitChangesAsync](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/submitchangesasync/)() | يسمح بحفظ التغييرات المتراكمة في آخر طبقة مستخرجة. |
-| [UseConnection](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/useconnection/)(DbConnection) | التكوين الإلزامي، الاتصال الحالي. |
+| [GetEmptyLayer](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/getemptylayer/)() | يسمح بإنشاء طبقة فارغة. يمكن أن يكون ذلك مفيدًا عند إضافة سجل جديد إلى قاعدة البيانات فقط. لكن لاحقًا يمكن استخدام الطبقة لتعديل السجلات التي أضيفت حديثًا. |
+| [SubmitChangesAsync](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/submitchangesasync/)() | يسمح بحفظ التغييرات المتراكمة في الطبقة المستخرجة الأخيرة. |
+| [UseConnection](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/useconnection/)(DbConnection) | إعداد إلزامي، الاتصال الحالي. |
 | [UseTransaction](../../aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/usetransaction/)(DbTransaction) | ليس إعدادًا إلزاميًا، في حال كان من الضروري تنفيذ مجموعة من العمليات داخل معاملة. |
 
 ### انظر أيضًا

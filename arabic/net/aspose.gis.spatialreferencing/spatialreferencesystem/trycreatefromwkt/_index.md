@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.TryCreateFromWkt"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SpatialReferenceSystem. تنشئ SpatialReferenceSystem جديدة بناءً على سلسلة نصية WKT WellKnown Text"
+description: "طريقة SpatialReferenceSystem. تنشئ SpatialReferenceSystem جديدة بناءً على سلسلة نصية WKT WellKnown Text."
 type: docs
 weight: 410
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/trycreatefromwkt/
@@ -17,7 +17,7 @@ public static bool TryCreateFromWkt(string wkt, out SpatialReferenceSystem value
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | wkt | String | سلسلة WKT. |
-| قيمة | SpatialReferenceSystem& | عند إرجاع هذه الطريقة `true`، يحتوي على SRS تم إنشاؤه من WKT؛ وإلا، يحتوي على `null`. |
+| القيمة | SpatialReferenceSystem& | عند إرجاع هذه الطريقة `true`، يحتوي على SRS تم إنشاؤه من WKT؛ وإلا، يحتوي على `null`. |
 
 ### قيمة الإرجاع
 

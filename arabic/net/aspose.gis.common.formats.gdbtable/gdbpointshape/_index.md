@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbpointshape/
 public class GdbPointShape : GdbShape
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GdbPointShape](gdbpointshape/)() | المُنشئ الافتراضي. |
+| [GdbPointShape](gdbpointshape/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

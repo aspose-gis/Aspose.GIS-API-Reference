@@ -1,7 +1,7 @@
 ---
 title: "تعداد IntersectionMatrixDimension"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.IntersectionMatrixDimension تعداد."
+description: "تعداد Aspose.Gis.Topology.IntersectionMatrixDimension."
 type: docs
 weight: 4990
 url: /ar/net/aspose.gis.topology/intersectionmatrixdimension/

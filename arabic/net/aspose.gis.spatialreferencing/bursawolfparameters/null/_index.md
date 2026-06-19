@@ -1,7 +1,7 @@
 ---
 title: "BursaWolfParameters.Null"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية BursaWolfParameters. قيمة خاصة تشير إلى أن المعلمات غير معروفة"
+description: "BursaWolfParameters خاصية. قيمة خاصة تشير إلى أن المعلمات غير معروفة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/null/

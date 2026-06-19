@@ -1,7 +1,7 @@
 ---
 title: "PaintEngine.Dispose"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة PaintEngine."
+description: "PaintEngine طريقة."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.painting/paintengine/dispose/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/measurement/measurement/
 ---
 ## Measurement constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public Measurement(double value, Unit unit)
@@ -16,7 +16,7 @@ public Measurement(double value, Unit unit)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | رقم يشير إلى طول القياس. |
+| القيمة | Double | رقم يشير إلى طول القياس. |
 | وحدة | وحدة | وحدة قياس. |
 
 ### انظر أيضًا

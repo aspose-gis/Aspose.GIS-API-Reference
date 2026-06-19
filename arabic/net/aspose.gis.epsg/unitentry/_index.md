@@ -1,7 +1,7 @@
 ---
-title: "البنية UnitEntry"
+title: "الهيكل UnitEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "البنية Aspose.Gis.Epsg.UnitEntry."
+description: "الهيكل Aspose.Gis.Epsg.UnitEntry."
 type: docs
 weight: 1580
 url: /ar/net/aspose.gis.epsg/unitentry/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.epsg/unitentry/
 public struct UnitEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

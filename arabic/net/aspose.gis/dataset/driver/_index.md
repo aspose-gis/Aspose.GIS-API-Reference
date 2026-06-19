@@ -1,7 +1,7 @@
 ---
 title: "Dataset.Driver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Dataset. تحصل على السائق (Driver) الذي أنشأ مجموعة البيانات هذه"
+description: "خاصية Dataset. تحصل على Driver الذي أنشأ مجموعة البيانات هذه"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/dataset/driver/

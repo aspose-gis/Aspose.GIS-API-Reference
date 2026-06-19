@@ -1,7 +1,7 @@
 ---
 title: "SavingOptions.AttributesConverter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SavingOptions. محول مخصص للسمات. إذا لم يكن null يتم استدعاؤه لكل سمة من طبقة المصدر ومن المتوقع أن يغيّرها إذا لزم الأمر."
+description: "خاصية SavingOptions. محول مخصص للسمات. إذا لم يكن `null` يتم استدعاؤه لكل سمة من طبقة المصدر ومن المتوقع أن يغيّرها إذا لزم الأمر."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/savingoptions/attributesconverter/

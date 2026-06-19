@@ -16,7 +16,7 @@ public double SimplifySegmentsDistance { get; set; }
 
 ## ملاحظات
 
-لا يؤثر ذلك إذا كان [`SimplifySegments`](../simplifysegments/) خاطئًا.
+لا يؤثر إذا كان [`SimplifySegments`](../simplifysegments/) false.
 
 ### انظر أيضًا
 

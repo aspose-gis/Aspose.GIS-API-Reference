@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/type/
 ---
 ## ProjectedSpatialReferenceSystem.Type property
 
-يرجع Projected.
+يعيد Projected.
 
 ```csharp
 public SpatialReferenceSystemType Type { get; }

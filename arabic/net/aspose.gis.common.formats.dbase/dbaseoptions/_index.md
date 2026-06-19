@@ -1,5 +1,5 @@
 ---
-title: "الفئة DBaseOptions"
+title: "فئة DBaseOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Common.Formats.DBase.DBaseOptions فئة."
 type: docs
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.dbase/dbaseoptions/
 public sealed class DBaseOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [DBaseOptions](dbaseoptions/)() | المُنشئ الافتراضي. |
+| [DBaseOptions](dbaseoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

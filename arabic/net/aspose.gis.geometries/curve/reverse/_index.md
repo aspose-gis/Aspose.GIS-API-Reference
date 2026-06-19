@@ -1,7 +1,7 @@
 ---
 title: "Curve.Reverse"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Curve. تعكس هذا المنحنى."
+description: "طريقة Curve. تعكس هذا المنحنى"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geometries/curve/reverse/

@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameters.خصائص_الإهليلج"
+title: "ProjectionParameters.EllipsoidProperties"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية ProjectionParameters."
 type: docs

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/irastervalues/asbyte/
 ---
 ## IRasterValues.AsByte method
 
-يحوّل بيانات الشريط المحدد إلى قيمة `byte`.
+يقوم بتحويل بيانات النطاق المحدد إلى قيمة `byte`.
 
 ```csharp
 public byte AsByte(int bandIndex = 0)

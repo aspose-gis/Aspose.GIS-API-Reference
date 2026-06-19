@@ -1,7 +1,7 @@
 ---
 title: "IRasterBand.DataType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية IRasterBand. تُرجع نوع القيم المخزنة في كل خلية"
+description: "خاصية IRasterBand. تحصل على نوع القيم المخزنة في كل خلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.raster/irasterband/datatype/

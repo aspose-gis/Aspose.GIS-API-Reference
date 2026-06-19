@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.layersmap/maprasteroptions/raster/
 ---
 ## MapRasterOptions.Raster property
 
-طبقة نقطية.
+طبقة Raster.
 
 ```csharp
 public RasterLayer Raster { get; set; }

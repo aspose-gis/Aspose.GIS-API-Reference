@@ -1,7 +1,7 @@
 ---
 title: "IDataRow.ReadLargeInteger"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IDataRow."
+description: "IDataRow طريقة."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.common.formats.mapinfo/idatarow/readlargeinteger/

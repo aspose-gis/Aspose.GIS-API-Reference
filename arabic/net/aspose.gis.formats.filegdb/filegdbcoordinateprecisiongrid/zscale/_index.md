@@ -1,14 +1,14 @@
 ---
 title: "FileGdbCoordinatePrecisionGrid.ZScale"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعيين مقياس إحداثي Z. إذا تم تعيينها إلى null يتم استخدام القيمة الافتراضية."
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل على مقياس إحداثية Z أو تعينه. إذا تم تعيينها إلى null تُستخدم القيمة الافتراضية"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.ZScale property
 
-يحصل أو يضبط مقياس إحداثية Z. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
+يحصل أو يضبط مقياس إحداثية Z. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية.
 
 ```csharp
 public double? ZScale { get; set; }
@@ -18,7 +18,7 @@ public double? ZScale { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | المعطى ليس إيجابيًا. |
+| ArgumentOutOfRangeException | المعامل ليس موجبًا. |
 
 ## ملاحظات
 

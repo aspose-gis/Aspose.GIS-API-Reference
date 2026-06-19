@@ -1,7 +1,7 @@
 ---
 title: "MultiBandColor.BlueBand"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MultiBandColor. تحدد المكوّن الأزرق للراستر الخاص بنا"
+description: "خاصية MultiBandColor. تحدد المكوّن الأزرق لراسترنا"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/blueband/

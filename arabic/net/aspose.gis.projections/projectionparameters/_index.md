@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.projections/projectionparameters/
 public class ProjectionParameters
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [ProjectionParameters](projectionparameters/)() | المُنشئ الافتراضي. |
+| [ProjectionParameters](projectionparameters/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

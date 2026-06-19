@@ -1,14 +1,14 @@
 ---
 title: "VerticalCrsEntry.VerticalCrsEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "VerticalCrsEntry المُنشئ. المُنشئ الافتراضي"
+description: "VerticalCrsEntry منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.epsg/verticalcrsentry/verticalcrsentry/
 ---
 ## VerticalCrsEntry constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public VerticalCrsEntry()

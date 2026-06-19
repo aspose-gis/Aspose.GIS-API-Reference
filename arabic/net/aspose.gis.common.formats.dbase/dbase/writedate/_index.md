@@ -1,5 +1,5 @@
 ---
-title: "DBase.اكتب_تاريخ"
+title: "DBase.WriteDate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

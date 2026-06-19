@@ -1,14 +1,14 @@
 ---
 title: "CurvePolygon.HasCurveGeometry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CurvePolygon. تحصل على قيمة تشير إلى ما إذا كان هذا الشكل منحنيًا أو يحتوي على منحنى وليس شكلًا خطيًا"
+description: "خاصية CurvePolygon. تحصل على قيمة تشير إلى ما إذا كان هذا الشكل منحنيًا أو يحتوي على منحنى غير خطي"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/curvepolygon/hascurvegeometry/
 ---
 ## CurvePolygon.HasCurveGeometry property
 
-يحصل على قيمة تشير إلى ما إذا كانت هذه الهندسة أو تحتوي على هندسة منحنية (غير خطية).
+يحصل على قيمة تشير إلى ما إذا كانت هذه الـ geometry هي أو تحتوي على هندسة منحنية (غير خطية).
 
 ```csharp
 public override bool HasCurveGeometry { get; }

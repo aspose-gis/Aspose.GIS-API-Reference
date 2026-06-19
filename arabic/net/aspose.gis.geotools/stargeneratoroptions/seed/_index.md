@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/stargeneratoroptions/seed/
 ---
 ## StarGeneratorOptions.Seed property
 
-رقم يُستخدم لحساب قيمة البذرة لسلسلة من الأعداد العشوائية الزائفة.
+عدد يُستخدم لحساب قيمة البذرة لتسلسل من الأعداد العشوائية الزائفة.
 
 ```csharp
 public int Seed { get; set; }

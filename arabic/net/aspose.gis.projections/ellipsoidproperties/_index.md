@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.projections/ellipsoidproperties/
 public class EllipsoidProperties
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

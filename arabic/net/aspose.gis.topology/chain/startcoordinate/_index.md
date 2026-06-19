@@ -1,7 +1,7 @@
 ---
 title: "Chain.StartCoordinate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Chain."
+description: "Chain خاصية."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.topology/chain/startcoordinate/

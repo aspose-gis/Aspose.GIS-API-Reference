@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.topology.buffer/bufferoptions/bufferoptions/
 ---
 ## BufferOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public BufferOptions()

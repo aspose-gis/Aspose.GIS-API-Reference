@@ -1,7 +1,7 @@
 ---
 title: "GdbShape.HasM"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "GdbShape خاصية."
+description: "GdbShape property."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbshape/hasm/

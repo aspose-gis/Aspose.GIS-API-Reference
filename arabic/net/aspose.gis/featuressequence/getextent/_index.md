@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/featuressequence/getextent/
 ---
 ## FeaturesSequence.GetExtent method
 
-يحصل على الامتداد المكاني لهذه الطبقة.
+يسترجع النطاق المكاني لهذه الطبقة.
 
 ```csharp
 public virtual Extent GetExtent()
@@ -22,7 +22,7 @@ public virtual Extent GetExtent()
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم رميه إذا تم فتح الطبقة للكتابة فقط. |
+| InvalidOperationException | يتم إلقاؤه إذا تم فتح الطبقة للكتابة فقط. |
 
 ### انظر أيضًا
 

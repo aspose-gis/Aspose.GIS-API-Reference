@@ -1,7 +1,7 @@
 ---
 title: "Color.Blue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Color."
+description: "Color خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/color/blue/

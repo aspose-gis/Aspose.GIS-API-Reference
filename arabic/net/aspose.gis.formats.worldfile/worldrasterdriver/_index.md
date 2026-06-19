@@ -1,14 +1,14 @@
 ---
-title: "الفئة WorldRasterDriver"
+title: "فئة WorldRasterDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.WorldFile.WorldRasterDriver الفئة. محرك لتنسيقات الراستر مع ملف العالم"
+description: "Aspose.Gis.Formats.WorldFile.WorldRasterDriver فئة. محرك لتنسيقات النقطية مع ملف العالم"
 type: docs
 weight: 2390
 url: /ar/net/aspose.gis.formats.worldfile/worldrasterdriver/
 ---
 ## WorldRasterDriver class
 
-برنامج تشغيل لصيغ النقطية مع ملف world
+برنامج تشغيل لصيغ الراستر مع ملف WorldFile
 
 ```csharp
 public class WorldRasterDriver : RasterDriver
@@ -18,7 +18,7 @@ public class WorldRasterDriver : RasterDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.worldfile/worldrasterdriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.worldfile/worldrasterdriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

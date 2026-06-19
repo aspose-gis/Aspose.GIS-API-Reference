@@ -1,7 +1,7 @@
 ---
 title: "LineString.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LineString. تنسخ هذا الكائن"
+description: "طريقة LineString. تستنسخ هذا الكائن"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/linestring/clone/
@@ -16,7 +16,7 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-نسخة هذا المثيل
+النسخة المستنسخة من هذه النسخة
 
 ### انظر أيضًا
 

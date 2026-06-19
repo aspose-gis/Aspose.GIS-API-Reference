@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/precisionmodel/gethashcode/
 ---
 ## PrecisionModel.GetHashCode method
 
-يعمل كدالة التجزئة الافتراضية.
+يعمل كدالة تجزئة افتراضية.
 
 ```csharp
 public override int GetHashCode()

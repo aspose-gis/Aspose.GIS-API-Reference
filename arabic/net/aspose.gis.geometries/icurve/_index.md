@@ -1,7 +1,7 @@
 ---
 title: "الواجهة ICurve"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Geometries.ICurve واجهة. واجهة لنوع ICurve هي تسلسل من النقاط"
+description: "واجهة Aspose.Gis.Geometries.ICurve. واجهة لنوع ICurve هي تسلسل من النقاط"
 type: docs
 weight: 2760
 url: /ar/net/aspose.gis.geometries/icurve/
@@ -19,7 +19,7 @@ public interface ICurve : IGeometry
 | الاسم | الوصف |
 | --- | --- |
 | [EndPoint](../../aspose.gis.geometries/icurve/endpoint/) { get; } | يعيد نسخة من نقطة النهاية للمنحنى. |
-| [IsClosed](../../aspose.gis.geometries/icurve/isclosed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان المنحنى مغلقاً. يكون المنحنى مغلقاً إذا كانت نقطة البداية مساوية لنقطة النهاية. |
+| [IsClosed](../../aspose.gis.geometries/icurve/isclosed/) { get; } | يحصل على قيمة تشير إلى ما إذا كان المنحنى مغلقًا. يكون المنحنى مغلقًا إذا كانت نقطة البداية مساوية لنقطة النهاية. |
 | [StartPoint](../../aspose.gis.geometries/icurve/startpoint/) { get; } | يعيد نسخة من نقطة البداية للمنحنى. |
 
 ## الطرق

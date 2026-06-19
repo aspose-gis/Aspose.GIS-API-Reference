@@ -1,7 +1,7 @@
 ---
 title: "MapInfoTabOptions.MapInfoTabOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapInfoTabOptions constructor. إنشاء نسخة جديدة"
+description: "منشئ MapInfoTabOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotaboptions/mapinfotaboptions/

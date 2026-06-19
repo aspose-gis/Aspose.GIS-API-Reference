@@ -1,7 +1,7 @@
 ---
 title: "Geometry.IsSimple"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كان هذا الكائن بسيطًا من منظور SFA."
+description: "خاصية Geometry. تُعيد قيمة تُشير إلى ما إذا كان هذا الكائن بسيطًا من منظور SFA."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/geometry/issimple/

@@ -18,17 +18,17 @@ public class LabelingRule
 
 | الاسم | الوصف |
 | --- | --- |
-| [Filter](../../aspose.gis.rendering.labelings/labelingrule/filter/) { get; } | يحدد ما إذا كان "filter-rule" يجب أن يطبق التصنيف على العنصر. إذا أرجع `true` يتم استخدام التصنيف؛ وإلا يتم تخطي العنصر. |
+| [Filter](../../aspose.gis.rendering.labelings/labelingrule/filter/) { get; } | يحدد ما إذا كان "filter-rule" يجب أن يطبق التسمية على العنصر. إذا أرجع `true` يتم استخدام التسمية؛ وإلا يتم تخطي العنصر. |
 | [IsElseRule](../../aspose.gis.rendering.labelings/labelingrule/iselserule/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "else-rule". |
 | [IsFilterRule](../../aspose.gis.rendering.labelings/labelingrule/isfilterrule/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي "filter-rule". |
-| [Labeling](../../aspose.gis.rendering.labelings/labelingrule/labeling/) { get; } | التصنيف لتطبيقه على العنصر. |
+| [Labeling](../../aspose.gis.rendering.labelings/labelingrule/labeling/) { get; } | التسمية التي تُطبق على العنصر. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| static [CreateElseRule](../../aspose.gis.rendering.labelings/labelingrule/createelserule/)(Labeling) | ينشئ قاعدة جديدة تطبق تصنيفًا على العنصر كلما لم يتطابق مع أي قاعدة تصفية. |
-| static [CreateFilterRule](../../aspose.gis.rendering.labelings/labelingrule/createfilterrule/)(Func&lt;Feature, bool&gt;, Labeling) | ينشئ قاعدة جديدة تطبق تصنيفًا على العنصر كلما اجتاز الفلتر. |
+| static [CreateElseRule](../../aspose.gis.rendering.labelings/labelingrule/createelserule/)(Labeling) | ينشئ قاعدة جديدة تُطبق تسمية على العنصر كلما لم تتطابق مع أي قاعدة تصفية. |
+| static [CreateFilterRule](../../aspose.gis.rendering.labelings/labelingrule/createfilterrule/)(Func&lt;Feature, bool&gt;, Labeling) | ينشئ قاعدة جديدة تُطبق تسمية على العنصر كلما اجتاز الفلتر. |
 
 ### انظر أيضًا
 

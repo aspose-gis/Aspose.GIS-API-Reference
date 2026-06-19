@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttribute.Name"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeatureAttribute. يحصل على اسم الخاصية"
+description: "خاصية FeatureAttribute. يحصل على اسم الخاصية."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/featureattribute/name/
@@ -16,14 +16,14 @@ public string Name { get; set; }
 
 ### Property Value
 
-اسم الخاصية.
+اسم السمة.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | اسم السمة هو `null`. |
-| InvalidOperationException | الخاصية مقفلة. |
+| InvalidOperationException | السمة مقفلة. |
 
 ### انظر أيضًا
 

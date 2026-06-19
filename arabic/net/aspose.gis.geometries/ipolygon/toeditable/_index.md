@@ -1,7 +1,7 @@
 ---
 title: "IPolygon.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IPolygon. يحصل على نسخة قابلة للتحرير من هذه الهندسة"
+description: "طريقة IPolygon. يحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/ipolygon/toeditable/
@@ -16,7 +16,7 @@ public Polygon ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

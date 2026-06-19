@@ -1,7 +1,7 @@
 ---
 title: "GeoJsonOptions.AutoId"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeoJsonOptions. توليد المعرفات تلقائيًا"
+description: "خاصية GeoJsonOptions. إنشاء معرفات تلقائيًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/autoid/

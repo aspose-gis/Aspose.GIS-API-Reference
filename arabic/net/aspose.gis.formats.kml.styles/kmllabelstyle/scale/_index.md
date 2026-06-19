@@ -1,14 +1,14 @@
 ---
 title: "KmlLabelStyle.Scale"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlLabelStyle. تحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي 1"
+description: "KmlLabelStyle property. يحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي 1"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml.styles/kmllabelstyle/scale/
 ---
 ## KmlLabelStyle.Scale property
 
-يحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي '1'.
+تحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي '1'.
 
 ```csharp
 public double Scale { get; set; }

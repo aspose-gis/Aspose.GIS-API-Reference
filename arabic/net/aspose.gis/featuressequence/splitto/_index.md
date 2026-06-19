@@ -22,7 +22,7 @@ public VectorLayer[] SplitTo()
 
 | استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 
 ### انظر أيضًا
 

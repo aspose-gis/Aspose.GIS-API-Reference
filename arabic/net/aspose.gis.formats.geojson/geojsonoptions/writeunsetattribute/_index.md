@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/writeunsetattribute/
 ---
 ## GeoJsonOptions.WriteUnsetAttribute property
 
-ما إذا كان يجب كتابة السمات غير المحددة بإضافة القيمة 'null'
+ما إذا كان سيتم كتابة السمات غير المحددة بإضافة قيمة 'null'
 
 ```csharp
 public bool WriteUnsetAttribute { get; set; }

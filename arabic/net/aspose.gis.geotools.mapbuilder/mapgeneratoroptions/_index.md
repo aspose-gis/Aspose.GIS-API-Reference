@@ -1,24 +1,24 @@
 ---
-title: "فئة MapGeneratorOptions"
+title: "الفئة MapGeneratorOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.GeoTools.MapBuilder.MapGeneratorOptions. خيارات لإنشاء الأشكال الهندسية على السطح أو المنطقة"
+description: "Aspose.Gis.GeoTools.MapBuilder.MapGeneratorOptions فئة. خيارات لإنشاء الأشكال الهندسية على السطح أو المنطقة"
 type: docs
 weight: 2570
 url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
 ---
 ## MapGeneratorOptions class
 
-خيارات لإنتاج الأشكال الهندسية على السطح أو المنطقة.
+خيارات لإنشاء الأشكال الهندسية على السطح أو المنطقة.
 
 ```csharp
 public class MapGeneratorOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapGeneratorOptions](mapgeneratoroptions/)() | إنشاء كائن باستخدام الخيارات الافتراضية. |
+| [MapGeneratorOptions](mapgeneratoroptions/)() | إنشاء نسخة باستخدام الخيارات الافتراضية. |
 
 ## الخصائص
 

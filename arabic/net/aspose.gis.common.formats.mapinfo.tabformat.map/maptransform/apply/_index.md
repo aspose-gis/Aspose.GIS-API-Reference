@@ -1,7 +1,7 @@
 ---
 title: "MapTransform.Apply"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapTransform طريقة."
+description: "طريقة MapTransform."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform/apply/

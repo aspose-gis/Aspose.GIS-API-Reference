@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometry/covers/
 ---
 ## Geometry.Covers method
 
-يحدد ما إذا كانت هذه الهندسة تغطي هندسة محددة.
+يحدد ما إذا كانت هذه الـ geometry تغطي هندسة محددة.
 
 ```csharp
 public bool Covers(IGeometry other)
@@ -28,11 +28,11 @@ public bool Covers(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإسناد المكاني. |
 
 ## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت هندسة واحدة تغطي أخرى من حيث مصفوفة تقاطع DE-9IM. تغطي هندسة ما هندسة أخرى إذا كانت تحتوي كل نقطة من الهندسة الأخرى. هذه الطريقة مشابهة لـ [`SpatiallyContains`](../../igeometry/spatiallycontains/)، لكنها تُعيد `true` في كثير من الأحيان، لأنها لا تفرق بين النقاط الداخلية ونقاط الحدود. لذا، إذا كانت الهندسة A تقع على حد الهندسة B، فإن [`SpatiallyContains`](../../igeometry/spatiallycontains/) تُعيد `false`، بينما تُعيد هذه الطريقة `true`. هذه الطريقة مكافئة لـ:
+تختبر هذه الطريقة ما إذا كانت هندسة ما تغطي أخرى من حيث مصفوفة التقاطع DE-9IM. تغطي هندسة ما أخرى إذا كانت تحتوي على كل نقطة من الهندسة الأخرى. هذه الطريقة مشابهة لـ [`SpatiallyContains`](../../igeometry/spatiallycontains/)، لكنها تُعيد `true` في كثير من الأحيان، لأنها لا تميز بين النقاط الداخلية والنقاط الحدية. لذلك، إذا كانت الهندسة A تقع على حد الهندسة B، فإن [`SpatiallyContains`](../../igeometry/spatiallycontains/) تُعيد `false`، بينما تُعيد هذه الطريقة `true`. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "T*****FF*") || this.Relate(other, "*T****FF*") || this.Relate(other, "***T**FF*) || this.Relate(other, "***T*FF*");

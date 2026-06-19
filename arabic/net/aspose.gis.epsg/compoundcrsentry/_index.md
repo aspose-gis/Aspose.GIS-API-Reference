@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.epsg/compoundcrsentry/
 public class CompoundCrsEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [CompoundCrsEntry](compoundcrsentry/)() | المُنشئ الافتراضي. |
+| [CompoundCrsEntry](compoundcrsentry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

@@ -1,7 +1,7 @@
 ---
-title: "الفئة MapInfoException"
+title: "فئة MapInfoException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.Formats.MapInfo.MapInfoException."
+description: "Aspose.Gis.Common.Formats.MapInfo.MapInfoException فئة."
 type: docs
 weight: 790
 url: /ar/net/aspose.gis.common.formats.mapinfo/mapinfoexception/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo/mapinfoexception/
 public class MapInfoException : Exception
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapInfoException](mapinfoexception/#constructor)() | المُنشئ الافتراضي. |
+| [MapInfoException](mapinfoexception/#constructor)() | المنشئ الافتراضي. |
 | [MapInfoException](mapinfoexception/#constructor_1)(string) |  |
 | [MapInfoException](mapinfoexception/#constructor_2)(string, Exception) |  |
 

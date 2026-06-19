@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.indexing.bplustree/bplustreeoptions/bplustreeoptions/
 ---
 ## BPlusTreeOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public BPlusTreeOptions()

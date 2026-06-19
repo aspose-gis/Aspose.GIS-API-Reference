@@ -1,14 +1,14 @@
 ---
 title: "IRasterCellSize.Width"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية IRasterCellSize. يحصل على عرض الخلية أو البكسل دائمًا إيجابي"
+description: "خاصية IRasterCellSize. يحصل على عرض الخلية أو البكسل دائمًا موجب"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.raster/irastercellsize/width/
 ---
 ## IRasterCellSize.Width property
 
-يحصل على عرض الخلية أو البكسل، دائمًا إيجابي.
+يحصل على عرض الخلية أو البكسل، دائمًا موجب.
 
 ```csharp
 public double Width { get; }

@@ -1,7 +1,7 @@
 ---
 title: "تعداد UnitId"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "التعداد Aspose.Gis.Common.Formats.MapInfo.UnitId."
+description: "Aspose.Gis.Common.Formats.MapInfo.UnitId تعداد."
 type: docs
 weight: 950
 url: /ar/net/aspose.gis.common.formats.mapinfo/unitid/

@@ -1,7 +1,7 @@
 ---
 title: "Point.SymbolId"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Point خاصية."
+description: "خاصية Point."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/symbolid/

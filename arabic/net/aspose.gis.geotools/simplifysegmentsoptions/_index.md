@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.geotools/simplifysegmentsoptions/
 public class SimplifySegmentsOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -25,7 +25,7 @@ public class SimplifySegmentsOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance/) { get; set; } | معامل الفحص هو النقطة القريبة من مقطع الخط. القيمة الافتراضية هي 0. |
+| [Distance](../../aspose.gis.geotools/simplifysegmentsoptions/distance/) { get; set; } | معامل للتحقق هو نقطة قريبة من مقطع الخط. القيمة الافتراضية هي 0. |
 
 ## الطرق
 

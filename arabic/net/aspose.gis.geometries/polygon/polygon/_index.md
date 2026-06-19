@@ -1,14 +1,14 @@
 ---
 title: "Polygon.Polygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ Polygon. يهيئ نسخة جديدة من فئة Polygon"
+description: "منشئ Polygon. يهيئ مثيلة جديدة من فئة Polygon"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/polygon/polygon/
 ---
 ## Polygon() {#constructor}
 
-يهيئ نسخة جديدة من فئة [`Polygon`](../).
+يهيئ مثيلة جديدة من فئة [`Polygon`](../).
 
 ```csharp
 public Polygon()
@@ -24,7 +24,7 @@ public Polygon()
 
 ## Polygon(ILinearRing) {#constructor_1}
 
-يهيئ نسخة جديدة من فئة [`Polygon`](../).
+يهيئ مثيلة جديدة من فئة [`Polygon`](../).
 
 ```csharp
 public Polygon(ILinearRing exteriorRing)
@@ -51,7 +51,7 @@ public Polygon(ILinearRing exteriorRing)
 
 ## Polygon(ILinearRing, IEnumerable&lt;ILinearRing&gt;) {#constructor_2}
 
-يهيئ نسخة جديدة من فئة [`Polygon`](../).
+يهيئ مثيلة جديدة من فئة [`Polygon`](../).
 
 ```csharp
 public Polygon(ILinearRing exteriorRing, IEnumerable<ILinearRing> interiorRings)

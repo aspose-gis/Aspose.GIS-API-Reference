@@ -1,7 +1,7 @@
 ---
 title: "تعداد BufferJoinStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Buffer.BufferJoinStyle تعداد."
+description: "تعداد Aspose.Gis.Topology.Buffer.BufferJoinStyle."
 type: docs
 weight: 4790
 url: /ar/net/aspose.gis.topology.buffer/bufferjoinstyle/

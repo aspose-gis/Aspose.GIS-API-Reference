@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.projections/projectionexception/
 public class ProjectionException : Exception
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [ProjectionException](projectionexception/#constructor)() | المُنشئ الافتراضي. |
+| [ProjectionException](projectionexception/#constructor)() | المنشئ الافتراضي. |
 | [ProjectionException](projectionexception/#constructor_1)(string) |  |
 | [ProjectionException](projectionexception/#constructor_2)(string, Exception) |  |
 

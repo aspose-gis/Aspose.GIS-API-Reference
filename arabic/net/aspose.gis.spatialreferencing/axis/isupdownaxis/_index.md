@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/axis/isupdownaxis/
 ---
 ## Axis.IsUpDownAxis property
 
-يكشف ما إذا كان اتجاه المحور أعلى أو أسفل.
+يكشف إذا كان اتجاه المحور أعلى أو أسفل.
 
 ```csharp
 public bool IsUpDownAxis { get; }

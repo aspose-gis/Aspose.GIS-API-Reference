@@ -1,7 +1,7 @@
 ---
 title: "Region.op_Equality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Region الطريقة."
+description: "Region طريقة."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/op_equality/

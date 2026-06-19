@@ -1,7 +1,7 @@
 ---
 title: "Color.op_Equality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Color."
+description: "Color طريقة."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/color/op_equality/

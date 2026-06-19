@@ -1,7 +1,7 @@
 ---
 title: "الفئة ConversionOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.ConversionOptions class. خيارات تحويل البيانات بين الصيغ"
+description: "فئة Aspose.Gis.ConversionOptions. خيارات لتحويل البيانات بين الصيغ"
 type: docs
 weight: 1400
 url: /ar/net/aspose.gis/conversionoptions/
@@ -14,20 +14,20 @@ url: /ar/net/aspose.gis/conversionoptions/
 public class ConversionOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [ConversionOptions](conversionoptions/)() | المُنشئ الافتراضي. |
+| [ConversionOptions](conversionoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
 | [AttributesConverter](../../aspose.gis/conversionoptions/attributesconverter/) { get; set; } | محول مخصص للسمات. يسمح لنا بإعادة تسمية أو استبعاد سمات الوجهة. إذا لم يكن `null`، يتم استدعاؤه لكل سمة في طبقة المصدر ومن المتوقع أن يغيّرها إذا لزم الأمر. |
-| [DestinationDriverOptions](../../aspose.gis/conversionoptions/destinationdriveroptions/) { get; set; } | خيارات خاصة بالسائق للطبقة الوجهة. |
-| [DestinationSpatialReferenceSystem](../../aspose.gis/conversionoptions/destinationspatialreferencesystem/) { get; set; } | نظام الإشارة المكانية لتعيينه للطبقة الوجهة. |
-| [SourceDriverOptions](../../aspose.gis/conversionoptions/sourcedriveroptions/) { get; set; } | خيارات خاصة بالسائق للطبقة المصدر. |
+| [DestinationDriverOptions](../../aspose.gis/conversionoptions/destinationdriveroptions/) { get; set; } | خيارات خاصة بالمحرك للطبقة الوجهة. |
+| [DestinationSpatialReferenceSystem](../../aspose.gis/conversionoptions/destinationspatialreferencesystem/) { get; set; } | نظام الإشارة المكانية لتعيينه إلى الطبقة الوجهة. |
+| [SourceDriverOptions](../../aspose.gis/conversionoptions/sourcedriveroptions/) { get; set; } | خيارات خاصة بالمحرك للطبقة المصدر. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "GeoTiffDriver.OpenLayer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "GeoTiffDriver طريقة. يفتح الطبقة للقراءة"
+description: "طريقة GeoTiffDriver. يفتح الطبقة للقراءة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.geotiff/geotiffdriver/openlayer/
@@ -16,12 +16,12 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | RasterDriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | RasterDriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -53,12 +53,12 @@ public RasterLayer OpenLayer(string path, GeoTiffOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | GeoTiffOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | GeoTiffOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### انظر أيضًا
 
@@ -80,12 +80,12 @@ public RasterLayer OpenLayer(AbstractPath path, GeoTiffOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | GeoTiffOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | GeoTiffOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### انظر أيضًا
 

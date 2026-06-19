@@ -1,7 +1,7 @@
 ---
 title: "فئة LocalFilePath"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.LocalFilePath فئة."
+description: "فئة Aspose.Gis.Common.LocalFilePath."
 type: docs
 weight: 1310
 url: /ar/net/aspose.gis.common/localfilepath/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/localfilepath/
 public class LocalFilePath : AbstractPathInternal
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

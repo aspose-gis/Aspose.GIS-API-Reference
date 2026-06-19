@@ -1,7 +1,7 @@
 ---
 title: "VectorMapLayer.ImportSldFromString"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorMapLayer. تستورد النمط من سلسلة وصف الطبقة المنسق (Styled Layer Descriptor) المحددة."
+description: "طريقة VectorMapLayer. تستورد النمط من سلسلة Styled Layer Descriptor المحددة"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering/vectormaplayer/importsldfromstring/
@@ -16,8 +16,8 @@ public void ImportSldFromString(string sld, SldImportOptions options = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| sld | String | وصف الطبقة المنسق (Styled Layer Descriptor). |
-| الخيارات | SldImportOptions | خيارات الاستيراد. |
+| sld | String | Styled Layer Descriptor. |
+| options | SldImportOptions | خيارات الاستيراد. |
 
 ### استثناءات
 
@@ -29,7 +29,7 @@ public void ImportSldFromString(string sld, SldImportOptions options = null)
 
 ## ملاحظات
 
-هذه الطريقة تستبدل قيمة الخاصية [`Symbolizer`](../symbolizer/).
+هذه الطريقة تستبدل قيمة خاصية [`Symbolizer`](../symbolizer/).
 
 ### انظر أيضًا
 

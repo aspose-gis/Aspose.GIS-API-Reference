@@ -1,14 +1,14 @@
 ---
 title: "GeometryOperations.ExtractGeometryCollection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryOperations. استخراج مجموعة الجيومتريات من الطبقة"
+description: "طريقة GeometryOperations. استخراج مجموعة الهندسة من الطبقة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geotools/geometryoperations/extractgeometrycollection/
 ---
 ## GeometryOperations.ExtractGeometryCollection method
 
-استخراج مجموعة الأشكال الهندسية من الطبقة
+استخراج مجموعة الهندسة من الطبقة
 
 ```csharp
 public static IGeometry ExtractGeometryCollection(VectorLayer layer)
@@ -20,7 +20,7 @@ public static IGeometry ExtractGeometryCollection(VectorLayer layer)
 
 ### قيمة الإرجاع
 
-المجموعة تحتوي على جميع الجيومتريات لطبقة الإدخال
+المجموعة تحتوي على جميع الأشكال الهندسية لطبقة الإدخال
 
 ### انظر أيضًا
 

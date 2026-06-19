@@ -1,7 +1,7 @@
 ---
 title: "Color.Color"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ Color."
+description: "Color منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/color/color/

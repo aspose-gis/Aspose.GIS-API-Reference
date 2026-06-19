@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/databasedriver/
 ---
 ## DatabaseDriver class
 
-برنامج تشغيل لتنسيق قائم على قاعدة بيانات محددة.
+محرك لتنسيق يعتمد على قاعدة بيانات محددة.
 
 ```csharp
 public abstract class DatabaseDriver : Driver

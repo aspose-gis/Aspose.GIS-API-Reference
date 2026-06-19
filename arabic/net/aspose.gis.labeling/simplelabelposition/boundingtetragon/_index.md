@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabelPosition.BoundingTetragon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabelPosition."
+description: "SimpleLabelPosition خاصية."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.labeling/simplelabelposition/boundingtetragon/

@@ -1,7 +1,7 @@
 ---
 title: "الفئة ReadOnlyListEnumeratorT"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.ReadOnlyListEnumerator1T الفئة."
+description: "فئة Aspose.Gis.Common.Collections.ReadOnlyListEnumerator1T."
 type: docs
 weight: 210
 url: /ar/net/aspose.gis.common.collections/readonlylistenumerator-1/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.collections/readonlylistenumerator-1/
 public class ReadOnlyListEnumerator<T> : IEnumerator<T>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

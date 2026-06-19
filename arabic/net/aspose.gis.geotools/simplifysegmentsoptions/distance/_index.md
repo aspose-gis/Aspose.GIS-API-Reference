@@ -1,14 +1,14 @@
 ---
 title: "SimplifySegmentsOptions.Distance"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimplifySegmentsOptions. المعامل للتحقق هو النقطة القريبة من مقطع الخط. القيمة الافتراضية هي 0"
+description: "خاصية SimplifySegmentsOptions. المعامل للتحقق هو نقطة قريبة من مقطع الخط. القيمة الافتراضية هي 0"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/simplifysegmentsoptions/distance/
 ---
 ## SimplifySegmentsOptions.Distance property
 
-معامل الفحص هو النقطة القريبة من مقطع الخط. القيمة الافتراضية هي 0.
+معامل للتحقق هو نقطة قريبة من مقطع الخط. القيمة الافتراضية هي 0.
 
 ```csharp
 public double Distance { get; set; }

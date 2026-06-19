@@ -1,7 +1,7 @@
 ---
 title: "ValuesRange1.ApplyFilter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ValuesRange."
+description: "ValuesRange طريقة."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.indexing/valuesrange-1/applyfilter/

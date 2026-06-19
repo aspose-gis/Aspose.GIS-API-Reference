@@ -1,14 +1,14 @@
 ---
-title: "IRRasterValues.AsInteger"
+title: "IRasterValues.AsInteger"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IRasterValues. تحول بيانات النطاق المحدد إلى قيمة int"
+description: "طريقة IRasterValues. تحول بيانات النطاق المحدد إلى قيمة عدد صحيح"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.raster/irastervalues/asinteger/
 ---
 ## IRasterValues.AsInteger method
 
-يحوّل بيانات الشريط المحدد إلى قيمة `int`.
+يقوم بتحويل بيانات النطاق المحدد إلى قيمة `int`.
 
 ```csharp
 public int AsInteger(int bandIndex = 0)

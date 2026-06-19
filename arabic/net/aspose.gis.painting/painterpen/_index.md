@@ -1,5 +1,5 @@
 ---
-title: "الفئة PainterPen"
+title: "فئة PainterPen"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Painting.PainterPen فئة."
 type: docs
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/painterpen/
 public class PainterPen : IEquatable<PainterPen>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [PainterPen](painterpen/#constructor)() | المُنشئ الافتراضي. |
+| [PainterPen](painterpen/#constructor)() | المنشئ الافتراضي. |
 | [PainterPen](painterpen/#constructor_1)(PainterPenOptions) |  |
 | [PainterPen](painterpen/#constructor_2)(Color, double, PenStyle, PenLineJoin) |  |
 

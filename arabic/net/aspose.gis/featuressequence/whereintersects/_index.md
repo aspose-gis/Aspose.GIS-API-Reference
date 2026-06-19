@@ -1,14 +1,14 @@
 ---
 title: "FeaturesSequence.WhereIntersects"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FeaturesSequence. تقوم بترشيح العناصر بناءً على اتحاد جميع الأشكال الهندسية في تسلسل العناصر الآخر"
+description: "طريقة FeaturesSequence. تصفي الكائنات بناءً على اتحاد جميع الأشكال الهندسية في تسلسل الكائنات الآخر."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/featuressequence/whereintersects/
 ---
 ## WhereIntersects(FeaturesSequence) {#whereintersects_1}
 
-يفلتر المعالم بناءً على اتحاد جميع الأشكال الهندسية في تسلسل المعالم الأخرى.
+يقوم بترشيح المعالم بناءً على اتحاد جميع الأشكال الهندسية في تسلسل المعالم الآخر.
 
 ```csharp
 public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
@@ -16,11 +16,11 @@ public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| تسلسل | FeaturesSequence | تسلسل العناصر الآخر. |
+| تسلسل | FeaturesSequence | تسلسل الكائنات الآخر. |
 
 ### قيمة الإرجاع
 
-العناصر التي تتقاطع مع اتحاد جميع الأشكال الهندسية في تسلسل العناصر الآخر.
+الكائنات التي تتقاطع مع اتحاد جميع الأشكال الهندسية في تسلسل الكائنات الآخر.
 
 ### انظر أيضًا
 
@@ -32,7 +32,7 @@ public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
 
 ## WhereIntersects(IGeometry) {#whereintersects_2}
 
-يفلتر المعالم بناءً على الشكل الهندسي المقدم.
+يقوم بترشيح المعالم بناءً على الشكل الهندسي المقدم.
 
 ```csharp
 public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
@@ -40,11 +40,11 @@ public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| هندسة | IGeometry | الجيومتري للترشيح. |
+| هندسة | IGeometry | هندسة الفلترة. |
 
 ### قيمة الإرجاع
 
-العناصر التي تتقاطع مع الشكل الهندسي المقدم.
+الكائنات التي تتقاطع مع الهندسة المقدمة.
 
 ### انظر أيضًا
 
@@ -57,7 +57,7 @@ public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
 
 ## WhereIntersects(Extent) {#whereintersects}
 
-يفلتر المعالم بناءً على النطاق.
+يقوم بترشيح المعالم بناءً على النطاق.
 
 ```csharp
 public virtual FeaturesSequence WhereIntersects(Extent extent)
@@ -65,11 +65,11 @@ public virtual FeaturesSequence WhereIntersects(Extent extent)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| مدى | مدى | الامتداد للترشيح. |
+| مدى | مدى | نطاق الفلترة. |
 
 ### قيمة الإرجاع
 
-العناصر التي تتقاطع مع الشكل الهندسي المقدم.
+الكائنات التي تتقاطع مع الهندسة المقدمة.
 
 ### انظر أيضًا
 

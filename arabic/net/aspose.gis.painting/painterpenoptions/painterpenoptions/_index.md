@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.painting/painterpenoptions/painterpenoptions/
 ---
 ## PainterPenOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public PainterPenOptions()

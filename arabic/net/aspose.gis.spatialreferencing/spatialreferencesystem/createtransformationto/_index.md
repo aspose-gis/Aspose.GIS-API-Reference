@@ -27,7 +27,7 @@ public SpatialReferenceSystemTransformation CreateTransformationTo(SpatialRefere
 | استثناء | شرط |
 | --- | --- |
 | NotSupportedException | التحويل بين هذا `SpatialReferenceSystem` والوسيط غير مدعوم. قد يحدث هذا لأن أحد الإسقاطات غير مدعوم، أو أحد الأنظمة هو [`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem/) أو [`LocalSpatialReferenceSystem`](../../localspatialreferencesystem/). |
-| [TransformationException](../../transformationexception/) | فشل إنشاء التحويل بسبب معلمات غير صحيحة داخل `SpatialReferenceSystem`. |
+| [TransformationException](../../transformationexception/) | فشل إنشاء التحويل بسبب معلمات خاطئة داخل `SpatialReferenceSystem`. |
 
 ### انظر أيضًا
 

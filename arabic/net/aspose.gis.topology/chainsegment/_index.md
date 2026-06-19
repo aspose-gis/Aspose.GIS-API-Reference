@@ -1,7 +1,7 @@
 ---
 title: "بنية ChainSegment"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.ChainSegment بنية."
+description: "بنية Aspose.Gis.Topology.ChainSegment."
 type: docs
 weight: 4850
 url: /ar/net/aspose.gis.topology/chainsegment/

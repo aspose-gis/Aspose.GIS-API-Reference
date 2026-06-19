@@ -1,7 +1,7 @@
 ---
 title: "CompoundCurve.IsEmpty"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CompoundCurve. يحصل على قيمة تشير إلى ما إذا كانت هذه الحالة فارغة"
+description: "خاصية CompoundCurve. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geometries/compoundcurve/isempty/

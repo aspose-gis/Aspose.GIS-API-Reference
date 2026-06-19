@@ -1,7 +1,7 @@
 ---
 title: "فئة IntersectionMatrix"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.IntersectionMatrix فئة."
+description: "فئة Aspose.Gis.Topology.IntersectionMatrix."
 type: docs
 weight: 4980
 url: /ar/net/aspose.gis.topology/intersectionmatrix/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.topology/intersectionmatrix/
 public class IntersectionMatrix
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [IntersectionMatrix](intersectionmatrix/#constructor)() | المُنشئ الافتراضي. |
+| [IntersectionMatrix](intersectionmatrix/#constructor)() | المنشئ الافتراضي. |
 | [IntersectionMatrix](intersectionmatrix/#constructor_1)(string) |  |
 
 ## الطرق

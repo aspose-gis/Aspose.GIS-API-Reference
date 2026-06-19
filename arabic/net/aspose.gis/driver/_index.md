@@ -1,14 +1,14 @@
 ---
-title: "فئة السائق"
+title: "فئة Driver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Driver. فئة أساسية للسائقين لبيانات GIS."
+description: "فئة Aspose.Gis.Driver. فئة أساسية لسائقي بيانات GIS."
 type: docs
 weight: 1440
 url: /ar/net/aspose.gis/driver/
 ---
 ## Driver class
 
-فئة أساسية لسواقات بيانات GIS.
+فئة أساسية لمحركات بيانات GIS.
 
 ```csharp
 public abstract class Driver

@@ -1,14 +1,14 @@
 ---
 title: "GeoJsonOptions.ReadBoundingBoxes"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeoJsonOptions. يحدد ما إذا كان يجب قراءة صناديق الحدود bbox كسمات باسم bbox_0 bbox_1 إلخ. القيمة الافتراضية هي false. يتم استخدام سلسلة NestedPropertiesSeparator في أسماء bbox_0 bbox_1.."
+description: "خاصية GeoJsonOptions. تحدد ما إذا كان يجب قراءة صناديق الحدود bbox كسمات باسم bbox_0 bbox_1 إلخ. القيمة الافتراضية هي false. يتم استخدام سلسلة NestedPropertiesSeparator في أسماء bbox_0 bbox_1.."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/readboundingboxes/
 ---
 ## GeoJsonOptions.ReadBoundingBoxes property
 
-يحدد ما إذا كان يجب قراءة صناديق الحدود ('bbox') كسمات باسم 'bbox_0'، 'bbox_1'، إلخ. القيمة الافتراضية هي `false`. يتم استخدام السلسلة [`NestedPropertiesSeparator`](../nestedpropertiesseparator/) في أسماء bbox_0، bbox_1،..
+تحدد ما إذا كان يجب قراءة صناديق الحدود ('bbox') كسمات باسم 'bbox_0'، 'bbox_1'، إلخ. القيمة الافتراضية هي `false`. السلسلة [`NestedPropertiesSeparator`](../nestedpropertiesseparator/) تُستخدم في أسماء bbox_0، bbox_1،..
 
 ```csharp
 public bool ReadBoundingBoxes { get; set; }

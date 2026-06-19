@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.xyztile/xyztiles/gettile/
 ---
 ## XyzTiles.GetTile method
 
-يحمّل البلاطة المحددة.
+يقوم بتحميل البلاطة المحددة.
 
 ```csharp
 public WebTile GetTile(int zoom, int x, int y)

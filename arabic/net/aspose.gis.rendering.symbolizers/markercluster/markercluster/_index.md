@@ -1,14 +1,14 @@
 ---
 title: "MarkerCluster.MarkerCluster"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ MarkerCluster. يهيئ مثيلاً جديداً من فئة MarkerCluster"
+description: "منشئ MarkerCluster. يهيئ مثيلاً جديداً لفئة MarkerCluster"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/markercluster/
 ---
 ## MarkerCluster(Measurement) {#constructor}
 
-يهيئ مثيلاً جديداً من الفئة [`MarkerCluster`](../).
+يهيئ مثيلاً جديداً للفئة [`MarkerCluster`](../).
 
 ```csharp
 public MarkerCluster(Measurement distance)
@@ -22,7 +22,7 @@ public MarkerCluster(Measurement distance)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | الوسيط أقل من أو يساوي الصفر. |
+| ArgumentOutOfRangeException | المعامل أقل من أو يساوي الصفر. |
 
 ### انظر أيضًا
 
@@ -35,7 +35,7 @@ public MarkerCluster(Measurement distance)
 
 ## MarkerCluster(MarkerCluster) {#constructor_1}
 
-يهيئ مثيلاً جديداً من الفئة [`MarkerCluster`](../).
+يهيئ مثيلاً جديداً للفئة [`MarkerCluster`](../).
 
 ```csharp
 public MarkerCluster(MarkerCluster other)

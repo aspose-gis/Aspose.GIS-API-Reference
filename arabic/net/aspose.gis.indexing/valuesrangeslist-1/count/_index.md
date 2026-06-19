@@ -1,7 +1,7 @@
 ---
 title: "ValuesRangesList1.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ValuesRangesList."
+description: "ValuesRangesList خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.indexing/valuesrangeslist-1/count/

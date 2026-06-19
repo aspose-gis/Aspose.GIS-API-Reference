@@ -1,14 +1,14 @@
 ---
 title: "GeoGenerator.ProducePolygons"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeoGenerator. تنشئ مُعدد IPolygon جديد بعدد محدد من العناصر العشوائية جميعها داخل نطاق محدد"
+description: "طريقة GeoGenerator. تنشئ عدّاد IPolygon جديد بعدد معين من العناصر العشوائية جميعها داخل مدى محدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/geogenerator/producepolygons/
 ---
 ## GeoGenerator.ProducePolygons method
 
-إنشاء عداد IPolygon جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق معين.
+إنشاء IPolygon Enumerator جديد بعدد محدد من العناصر العشوائية، جميعها ضمن نطاق محدد.
 
 ```csharp
 public static IEnumerable<IPolygon> ProducePolygons(Extent rect, PolygonGeneratorOptions options)
@@ -21,16 +21,16 @@ public static IEnumerable<IPolygon> ProducePolygons(Extent rect, PolygonGenerato
 
 ### قيمة الإرجاع
 
-مصفوفة من المضلع (انظر تعداد [`IPolygon`](../../../aspose.gis.geometries/ipolygon/))
+مصفوفة من المضلعات (انظر تعداد [`IPolygon`](../../../aspose.gis.geometries/ipolygon/))
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentOutOfRangeException | يجب أن يكون عدد المضلعات أكبر من واحد. |
-| NullReferenceException | يجب أن يكون للنطاق قيمة (لا يكون NULL) |
+| NullReferenceException | يجب أن يكون للمدى قيمة (ليس NULL) |
 | ArgumentException | يجب أن تكون الأطوال الدنيا والقصوى غير متساوية وأكبر من 0 |
-| ArgumentException | يجب أن يكون الحد الأقصى أكبر من الحد الأدنى |
+| ArgumentException | يجب أن يكون الطول الأقصى أكبر من الحد الأدنى |
 
 ### انظر أيضًا
 

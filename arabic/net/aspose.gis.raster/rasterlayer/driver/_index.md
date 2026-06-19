@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/rasterlayer/driver/
 ---
 ## RasterLayer.Driver property
 
-تحصل على `Driver` الذي أنشأ هذه الطبقة.
+يحصل على `Driver` الذي أنشأ هذه الطبقة.
 
 ```csharp
 public abstract Driver Driver { get; }

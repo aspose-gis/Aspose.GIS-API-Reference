@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.painting/stroketemplates/stroketemplates/
 ---
 ## StrokeTemplates constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public StrokeTemplates()

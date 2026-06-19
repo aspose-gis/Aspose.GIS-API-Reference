@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster.web/webtile/asraster/
 ---
 ## WebTile.AsRaster method
 
-يعرض محتوى البلطة كطبقة رستر.
+يعرض محتوى البلاطة كطبقة Raster.
 
 ```csharp
 public abstract RasterLayer AsRaster()

@@ -1,7 +1,7 @@
 ---
 title: "Pen.op_Equality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Pen طريقة."
+description: "Pen الطريقة."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/pen/op_equality/

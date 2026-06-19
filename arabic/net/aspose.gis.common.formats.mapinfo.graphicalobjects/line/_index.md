@@ -1,7 +1,7 @@
 ---
 title: "الفئة Line"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Line فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Line الفئة."
 type: docs
 weight: 610
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/
 public class Line : GraphicalObject, IEquatable<Line>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Line](line/)() | المُنشئ الافتراضي. |
+| [Line](line/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

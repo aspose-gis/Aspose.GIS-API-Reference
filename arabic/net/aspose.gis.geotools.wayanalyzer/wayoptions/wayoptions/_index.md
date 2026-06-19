@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.wayanalyzer/wayoptions/wayoptions/
 ---
 ## WayOptions constructor
 
-إنشاء كائن باستخدام الخيارات الافتراضية.
+إنشاء نسخة باستخدام الخيارات الافتراضية.
 
 ```csharp
 public WayOptions(int scale = 0)

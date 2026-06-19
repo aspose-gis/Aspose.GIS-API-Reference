@@ -1,7 +1,7 @@
 ---
 title: "الفئة Point"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Point فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Point الفئة."
 type: docs
 weight: 640
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/
 public class Point : GraphicalObject, IEquatable<Point>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Point](point/)() | المُنشئ الافتراضي. |
+| [Point](point/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

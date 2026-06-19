@@ -1,7 +1,7 @@
 ---
 title: "Drivers.InFile"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل للعمل مع البيانات وحفظ التغييرات في ملف على القرص الصلب"
+description: "Drivers خاصية. محرك للعمل مع البيانات وحفظ التغييرات في ملف على القرص الصلب."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis/drivers/infile/

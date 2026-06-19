@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common/boundingbox/boundingbox/
 ---
 ## BoundingBox constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public BoundingBox()

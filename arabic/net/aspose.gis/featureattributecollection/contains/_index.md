@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttributeCollection.Contains"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FeatureAttributeCollection. تحدد ما إذا كانت مجموعة الخصائص تحتوي على خاصية بالاسم المحدد"
+description: "طريقة FeatureAttributeCollection. تحدد ما إذا كانت مجموعة السمات تحتوي على سمة بالاسم المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/featureattributecollection/contains/
@@ -20,7 +20,7 @@ public bool Contains(string name)
 
 ### قيمة الإرجاع
 
-`true` إذا كانت مجموعة الخصائص تحتوي على خاصية بالاسم المحدد؛ وإلا، `false`.
+`true` إذا كانت مجموعة السمات تحتوي على سمة بالاسم المحدد؛ وإلا، `false`.
 
 ### استثناءات
 

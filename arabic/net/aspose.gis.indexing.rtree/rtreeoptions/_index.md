@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.indexing.rtree/rtreeoptions/
 public class RTreeOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [RTreeOptions](rtreeoptions/)() | المُنشئ الافتراضي. |
+| [RTreeOptions](rtreeoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

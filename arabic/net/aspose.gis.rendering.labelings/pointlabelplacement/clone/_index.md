@@ -1,7 +1,7 @@
 ---
 title: "PointLabelPlacement.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة PointLabelPlacement. تستنسخ هذا المثيل"
+description: "طريقة PointLabelPlacement. تنسخ هذا المثيل"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/clone/

@@ -1,7 +1,7 @@
 ---
 title: "CircularString.Reverse"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CircularString. يعكس ترتيب النقاط في هذا CircularString"
+description: "طريقة CircularString. تعكس ترتيب النقاط في هذا CircularString"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.geometries/circularstring/reverse/

@@ -1,7 +1,7 @@
 ---
 title: "PaintLayerOptions.Opacity"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PaintLayerOptions خاصية."
+description: "خاصية PaintLayerOptions."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.painting/paintlayeroptions/opacity/

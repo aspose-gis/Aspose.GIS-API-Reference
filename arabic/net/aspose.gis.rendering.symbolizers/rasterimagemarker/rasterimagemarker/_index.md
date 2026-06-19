@@ -1,14 +1,14 @@
 ---
 title: "RasterImageMarker.RasterImageMarker"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ RasterImageMarker. يهيئ نسخة جديدة من فئة RasterImageMarker"
+description: "منشئ RasterImageMarker. يقوم بإنشاء نسخة جديدة من فئة RasterImageMarker"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/rasterimagemarker/rasterimagemarker/
 ---
 ## RasterImageMarker(string) {#constructor_2}
 
-يهيئ نسخة جديدة من الفئة [`RasterImageMarker`](../).
+يقوم بإنشاء نسخة جديدة من الفئة [`RasterImageMarker`](../).
 
 ```csharp
 public RasterImageMarker(string imagePath)
@@ -28,7 +28,7 @@ public RasterImageMarker(string imagePath)
 
 ## RasterImageMarker(AbstractPath) {#constructor}
 
-يهيئ نسخة جديدة من الفئة [`RasterImageMarker`](../).
+يقوم بإنشاء نسخة جديدة من الفئة [`RasterImageMarker`](../).
 
 ```csharp
 public RasterImageMarker(AbstractPath imagePath)
@@ -49,7 +49,7 @@ public RasterImageMarker(AbstractPath imagePath)
 
 ## RasterImageMarker(RasterImageMarker) {#constructor_1}
 
-يهيئ نسخة جديدة من الفئة [`RasterImageMarker`](../).
+يقوم بإنشاء نسخة جديدة من الفئة [`RasterImageMarker`](../).
 
 ```csharp
 public RasterImageMarker(RasterImageMarker other)

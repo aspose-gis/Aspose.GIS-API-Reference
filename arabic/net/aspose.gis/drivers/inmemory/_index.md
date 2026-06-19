@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/drivers/inmemory/
 ---
 ## Drivers.InMemory property
 
-برنامج تشغيل للعمل مع البيانات في الذاكرة.
+محرك للعمل مع البيانات في الذاكرة.
 
 ```csharp
 public static InMemoryDriver InMemory { get; }

@@ -1,7 +1,7 @@
 ---
-title: "الفئة MapInfoSizes"
+title: "فئة MapInfoSizes"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.Formats.MapInfo.MapInfoSizes."
+description: "Aspose.Gis.Common.Formats.MapInfo.MapInfoSizes فئة."
 type: docs
 weight: 800
 url: /ar/net/aspose.gis.common.formats.mapinfo/mapinfosizes/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo/mapinfosizes/
 public class MapInfoSizes
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapInfoSizes](mapinfosizes/)() | المُنشئ الافتراضي. |
+| [MapInfoSizes](mapinfosizes/)() | المنشئ الافتراضي. |
 
 ## الحقول
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparam
 ---
 ## GeographicSpatialReferenceSystemParameters constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GeographicSpatialReferenceSystemParameters()

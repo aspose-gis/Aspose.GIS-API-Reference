@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.Type"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SpatialReferenceSystem. تحصل على نوع هذا الـ SRS؛ انظر SpatialReferenceSystemType"
+description: "خاصية SpatialReferenceSystem. تحصل على نوع هذا الـ SRS انظر SpatialReferenceSystemType"
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/type/

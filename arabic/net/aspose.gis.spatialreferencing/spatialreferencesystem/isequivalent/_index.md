@@ -20,7 +20,7 @@ public virtual bool IsEquivalent(SpatialReferenceSystem other)
 
 ### قيمة الإرجاع
 
-قيمة bool، تُشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
+قيمة من نوع bool، تشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
 ### انظر أيضًا
 
@@ -32,7 +32,7 @@ public virtual bool IsEquivalent(SpatialReferenceSystem other)
 
 ## IsEquivalent(SpatialReferenceSystem, SpatialReferenceSystem)
 
-يحدد ما إذا كان نظاما إسناد فضائيين (SRS) متكافئين. نفس إحداثيات الأنظمة المتكافئة تتطابق مع نفس الموقع على الأرض. بعض معلمات الأنظمة المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
+يحدد ما إذا كان نظاما إحداثيين (SRS) متكافئين. نفس إحداثيات نظام إحداثيات متكافئ تتطابق مع نفس الموقع على الأرض. يمكن أن تكون بعض معلمات نظام الإحداثيات المتكافئ مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
 
 ```csharp
 public static bool IsEquivalent(SpatialReferenceSystem srs1, SpatialReferenceSystem srs2)
@@ -40,12 +40,12 @@ public static bool IsEquivalent(SpatialReferenceSystem srs1, SpatialReferenceSys
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| srs1 | SpatialReferenceSystem | أول SRS. |
-| srs2 | SpatialReferenceSystem | ثاني SRS. |
+| srs1 | SpatialReferenceSystem | SRS الأول. |
+| srs2 | SpatialReferenceSystem | SRS الثاني. |
 
 ### قيمة الإرجاع
 
-قيمة من نوع bool، تشير إلى ما إذا كان نظاما إسناد فضائيين متكافئين.
+قيمة من نوع bool، تشير إلى ما إذا كان نظاما إحداثيين (SRS) متكافئين.
 
 ### انظر أيضًا
 

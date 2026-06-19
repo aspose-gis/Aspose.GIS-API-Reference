@@ -1,7 +1,7 @@
 ---
 title: "الفئة IndexingException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Indexing.IndexingException فئة."
+description: "فئة Aspose.Gis.Indexing.IndexingException."
 type: docs
 weight: 3130
 url: /ar/net/aspose.gis.indexing/indexingexception/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.indexing/indexingexception/
 public class IndexingException : Exception
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [IndexingException](indexingexception/#constructor)() | المُنشئ الافتراضي. |
+| [IndexingException](indexingexception/#constructor)() | المنشئ الافتراضي. |
 | [IndexingException](indexingexception/#constructor_1)(string) |  |
 | [IndexingException](indexingexception/#constructor_2)(string, Exception) |  |
 

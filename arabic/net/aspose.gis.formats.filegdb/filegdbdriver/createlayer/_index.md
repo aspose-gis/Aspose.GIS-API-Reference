@@ -16,12 +16,12 @@ public VectorLayer CreateLayer(string path, FileGdbOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | FileGdbOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | FileGdbOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -50,20 +50,20 @@ public VectorLayer CreateLayer(string path, FileGdbOptions options,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | FileGdbOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | String | المسار إلى الملف. |
+| options | FileGdbOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
-| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. |
+| NotSupportedException | نظام الإسناد المكاني غير مدعوم من قبل السائق. |
 
 ### انظر أيضًا
 
@@ -87,20 +87,20 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
-| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. |
+| NotSupportedException | نظام الإسناد المكاني غير مدعوم من قبل السائق. |
 
 ### انظر أيضًا
 
@@ -125,20 +125,20 @@ public VectorLayer CreateLayer(AbstractPath path, FileGdbOptions options,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | FileGdbOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | FileGdbOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
-| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. |
+| NotSupportedException | نظام الإسناد المكاني غير مدعوم من قبل السائق. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "GeographicDatum.Etrs89"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicDatum. مرجع ETRS 89"
+description: "خاصية GeographicDatum. نقطة مرجعية ETRS 89"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/etrs89/

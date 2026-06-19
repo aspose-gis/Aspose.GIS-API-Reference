@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.SetGeoLocation"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. حفظ علامات EXIF GPSLatitudeRef و GPSLongitudeRef و GPSLatitude و GPSLongitude مع إضافة أو استبدال البيانات"
+description: "طريقة ImageMetadataReader. حفظ علامات EXIF GPSLatitudeRef و GPSLongitudeRef و GPSLatitude و GPSLongitude بإضافة أو استبدال البيانات"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/setgeolocation/
@@ -16,8 +16,8 @@ public void SetGeoLocation(double latitude, double longitude)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| latitude | Double | خط العرض. |
-| longitude | Double | خط الطول. |
+| خط العرض | Double | خط العرض. |
+| خط الطول | Double | خط الطول. |
 
 ### انظر أيضًا
 

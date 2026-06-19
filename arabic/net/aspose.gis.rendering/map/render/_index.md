@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/map/render/
 ---
 ## Render(string, Renderer) {#render_1}
 
-يصير الخريطة إلى ملف.
+يعرض الخريطة في ملف.
 
 ```csharp
 public void Render(string outputPath, Renderer renderer)
@@ -16,8 +16,8 @@ public void Render(string outputPath, Renderer renderer)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| outputPath | String | مسار ملف الإخراج. |
-| renderer | Renderer | المُعالج المستخدم. |
+| outputPath | String | المسار إلى ملف الإخراج. |
+| renderer | Renderer | Renderer للاستخدام. |
 
 ### انظر أيضًا
 
@@ -30,7 +30,7 @@ public void Render(string outputPath, Renderer renderer)
 
 ## Render(AbstractPath, Renderer) {#render}
 
-يصير الخريطة إلى ملف.
+يعرض الخريطة في ملف.
 
 ```csharp
 public void Render(AbstractPath outputPath, Renderer renderer)
@@ -38,8 +38,8 @@ public void Render(AbstractPath outputPath, Renderer renderer)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| outputPath | AbstractPath | مسار ملف الإخراج. |
-| renderer | Renderer | المُعالج المستخدم. |
+| outputPath | AbstractPath | المسار إلى ملف الإخراج. |
+| renderer | Renderer | Renderer للاستخدام. |
 
 ### استثناءات
 

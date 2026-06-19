@@ -1,7 +1,7 @@
 ---
 title: "EventableStream.Length"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "EventableStream خاصية."
+description: "خاصية EventableStream."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.common.io/eventablestream/length/

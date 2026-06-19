@@ -1,7 +1,7 @@
 ---
-title: "هيكل Pen"
+title: "بنية Pen"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "هيكل Aspose.Gis.Common.Formats.MapInfo.Styling.Pen."
+description: "Aspose.Gis.Common.Formats.MapInfo.Styling.Pen بنية."
 type: docs
 weight: 830
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/pen/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.styling/pen/
 public struct Pen : IEquatable<Pen>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

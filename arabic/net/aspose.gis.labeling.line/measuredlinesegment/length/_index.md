@@ -1,7 +1,7 @@
 ---
 title: "MeasuredLineSegment.Length"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MeasuredLineSegment."
+description: "MeasuredLineSegment خاصية."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.labeling.line/measuredlinesegment/length/

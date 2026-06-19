@@ -16,12 +16,12 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -29,7 +29,7 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../../aspose.gis/gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا
@@ -53,12 +53,12 @@ public VectorLayer EditLayer(string path, ShapefileOptions options = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | ShapefileOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | ShapefileOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 
@@ -80,12 +80,12 @@ public VectorLayer EditLayer(AbstractPath path, ShapefileOptions options = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | ShapefileOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | ShapefileOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 

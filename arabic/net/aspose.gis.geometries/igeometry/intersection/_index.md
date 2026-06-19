@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.Intersection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IGeometry. تبني تقاطعًا بين هذه الهندسة وهندسة محددة"
+description: "طريقة IGeometry. تُنشئ تقاطعًا بين هذا الشكل الهندسي وشكل هندسي محدد"
 type: docs
 weight: 260
 url: /ar/net/aspose.gis.geometries/igeometry/intersection/
@@ -20,7 +20,7 @@ public IGeometry Intersection(IGeometry other)
 
 ### قيمة الإرجاع
 
-شكل هندسي يمثل تقاطع هذا الشكل الهندسي ومعطى. يحتوي الشكل الهندسي الناتج على مجموعة نقاط موجودة في كل من هذا الشكل الهندسي والمعطى.
+شكل هندسي يمثل تقاطع هذا الشكل الهندسي ومعطى. يحتوي الشكل الناتج على مجموعة نقاط موجودة في كل من هذا الشكل الهندسي والمعطى.
 
 ### استثناءات
 
@@ -28,7 +28,7 @@ public IGeometry Intersection(IGeometry other)
 | --- | --- |
 | ArgumentNullException | *other* هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ### انظر أيضًا
 

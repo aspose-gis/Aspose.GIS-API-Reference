@@ -14,19 +14,19 @@ url: /ar/net/aspose.gis/savingoptions/
 public class SavingOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [SavingOptions](savingoptions/)() | المُنشئ الافتراضي. |
+| [SavingOptions](savingoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
 | [AttributesConverter](../../aspose.gis/savingoptions/attributesconverter/) { get; set; } | محول مخصص للسمات. إذا لم يكن `null`، يتم استدعاؤه لكل سمة من طبقة المصدر ومن المتوقع أن يغيّرها إذا لزم الأمر. |
-| [DriverOptions](../../aspose.gis/savingoptions/driveroptions/) { get; set; } | خيارات خاصة بالسائق للطبقة الناتجة. |
-| [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem/) { get; set; } | خيارات خاصة بالسائق للطبقة الناتجة. |
+| [DriverOptions](../../aspose.gis/savingoptions/driveroptions/) { get; set; } | خيارات خاصة بالمُشغِّل للطبقة الناتجة. |
+| [SpatialReferenceSystem](../../aspose.gis/savingoptions/spatialreferencesystem/) { get; set; } | خيارات خاصة بالمُشغِّل للطبقة الناتجة. |
 
 ### انظر أيضًا
 

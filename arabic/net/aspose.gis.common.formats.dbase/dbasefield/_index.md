@@ -1,5 +1,5 @@
 ---
-title: "البنية DBaseField"
+title: "بنية DBaseField"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Common.Formats.DBase.DBaseField بنية."
 type: docs
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.dbase/dbasefield/
 public struct DBaseField
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

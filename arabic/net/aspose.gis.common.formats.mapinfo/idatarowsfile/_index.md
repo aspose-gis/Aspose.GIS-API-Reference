@@ -1,7 +1,7 @@
 ---
 title: "واجهة IDataRowsFile"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Common.Formats.MapInfo.IDataRowsFile."
+description: "Aspose.Gis.Common.Formats.MapInfo.IDataRowsFile واجهة."
 type: docs
 weight: 720
 url: /ar/net/aspose.gis.common.formats.mapinfo/idatarowsfile/

@@ -1,7 +1,7 @@
 ---
 title: "SystemDrawingPaintEngine.SystemDrawingPaintEngine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "SystemDrawingPaintEngine منشئ."
+description: "منشئ SystemDrawingPaintEngine."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.painting/systemdrawingpaintengine/systemdrawingpaintengine/

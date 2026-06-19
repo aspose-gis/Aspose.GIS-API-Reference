@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/drivers/filegdb/
 ---
 ## Drivers.FileGdb property
 
-برنامج تشغيل لتنسيق قاعدة بيانات ESRI File Geodatabase.
+محرك لتنسيق قاعدة بيانات ESRI File Geodatabase.
 
 ```csharp
 public static FileGdbDriver FileGdb { get; }

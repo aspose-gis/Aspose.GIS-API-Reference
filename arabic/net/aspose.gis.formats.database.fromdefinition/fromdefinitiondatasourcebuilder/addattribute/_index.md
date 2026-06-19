@@ -1,7 +1,7 @@
 ---
 title: "FromDefinitionDataSourceBuilder.AddAttribute"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FromDefinitionDataSourceBuilder. تُكوّن اسم الحقل الذي سيحتوي على معلومات سمة الميزة"
+description: "طريقة FromDefinitionDataSourceBuilder. تُحدد اسم الحقل الذي سيحتوي على معلومات سمة الميزة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.database.fromdefinition/fromdefinitiondatasourcebuilder/addattribute/
@@ -16,7 +16,7 @@ public FromDefinitionDataSourceBuilder AddAttribute(string name, AttributeDataTy
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الاسم | String | اسم حقل قاعدة البيانات للسمة. |
+| الاسم | String | اسم حقل قاعدة البيانات للخاصية. |
 | type | AttributeDataType | نوع البيانات التي يجب تحويل بيانات قاعدة البيانات إليها. |
 
 ### قيمة الإرجاع
@@ -43,9 +43,9 @@ public FromDefinitionDataSourceBuilder AddAttribute(string name, AttributeDataTy
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الاسم | String | اسم حقل قاعدة البيانات للسمة. |
+| الاسم | String | اسم حقل قاعدة البيانات للخاصية. |
 | type | AttributeDataType | نوع البيانات التي يجب تحويل بيانات قاعدة البيانات إليها. |
-| dbType | DbType | النوع الذي تُمثَّل به السمة في قاعدة البيانات. هذا مفيد إذا كنت بحاجة إلى حفظ التغييرات. |
+| dbType | DbType | النوع الذي تُمثَّل به الخاصية في قاعدة البيانات. هذا مفيد إذا كنت بحاجة إلى حفظ التغييرات. |
 
 ### قيمة الإرجاع
 

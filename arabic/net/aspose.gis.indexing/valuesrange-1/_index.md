@@ -1,7 +1,7 @@
 ---
 title: "الفئة ValuesRangeTValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Indexing.ValuesRange1TValue فئة."
+description: "فئة Aspose.Gis.Indexing.ValuesRange1TValue."
 type: docs
 weight: 3200
 url: /ar/net/aspose.gis.indexing/valuesrange-1/

@@ -1,7 +1,7 @@
 ---
 title: "الفئة SqlServerDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Formats.SqlServer.SqlServerDriver. برنامج تشغيل لقاعدة بيانات SQL Server"
+description: "Aspose.Gis.Formats.SqlServer.SqlServerDriver فئة. برنامج تشغيل لقاعدة بيانات SQL Server"
 type: docs
 weight: 2330
 url: /ar/net/aspose.gis.formats.sqlserver/sqlserverdriver/

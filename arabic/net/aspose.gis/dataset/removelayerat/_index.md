@@ -16,13 +16,13 @@ public virtual void RemoveLayerAt(int index)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | فهرس الطبقة |
+| فهرس | Int32 | فهرس الطبقة |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | المؤشر خارج النطاق. |
+| ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 | NotSupportedException | إزالة الطبقة غير مدعومة. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | [GisException](../../gisexception/) | خطأ أثناء إزالة الطبقة. |

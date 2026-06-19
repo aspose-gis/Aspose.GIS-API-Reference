@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.epsg/verticalcrsentry/
 public class VerticalCrsEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [VerticalCrsEntry](verticalcrsentry/)() | المُنشئ الافتراضي. |
+| [VerticalCrsEntry](verticalcrsentry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

@@ -1,7 +1,7 @@
 ---
 title: "الفئة XmlReplacedStreamReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.IO.XmlReplacedStreamReader"
+description: "فئة Aspose.Gis.Common.IO.XmlReplacedStreamReader."
 type: docs
 weight: 1290
 url: /ar/net/aspose.gis.common.io/xmlreplacedstreamreader/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.io/xmlreplacedstreamreader/
 public class XmlReplacedStreamReader : StreamReader
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

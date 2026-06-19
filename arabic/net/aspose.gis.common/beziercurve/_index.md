@@ -1,7 +1,7 @@
 ---
 title: "فئة BezierCurve"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.BezierCurve فئة."
+description: "فئة Aspose.Gis.Common.BezierCurve."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.common/beziercurve/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/beziercurve/
 public class BezierCurve
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

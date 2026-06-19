@@ -1,7 +1,7 @@
 ---
 title: "الفئة CoordinateSystem"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.CoordinateSystem فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.CoordinateSystem الفئة."
 type: docs
 weight: 540
 url: /ar/net/aspose.gis.common.formats.mapinfo/coordinatesystem/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo/coordinatesystem/
 public class CoordinateSystem
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [CoordinateSystem](coordinatesystem/)() | المُنشئ الافتراضي. |
+| [CoordinateSystem](coordinatesystem/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

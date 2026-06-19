@@ -1,7 +1,7 @@
 ---
 title: "Dataset.LayersCount"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Dataset. تحصل على عدد الطبقات في هذه مجموعة البيانات"
+description: "خاصية Dataset. يحصل على عدد الطبقات في هذه مجموعة البيانات"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/dataset/layerscount/

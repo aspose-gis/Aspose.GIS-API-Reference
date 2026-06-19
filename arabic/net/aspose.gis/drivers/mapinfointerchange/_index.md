@@ -1,7 +1,7 @@
 ---
 title: "Drivers.MapInfoInterchange"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق MapInfo Interchange"
+description: "Drivers خاصية. محرك لتنسيق MapInfo Interchange."
 type: docs
 weight: 160
 url: /ar/net/aspose.gis/drivers/mapinfointerchange/

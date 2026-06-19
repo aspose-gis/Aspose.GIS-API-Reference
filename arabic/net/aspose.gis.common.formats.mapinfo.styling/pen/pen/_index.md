@@ -1,7 +1,7 @@
 ---
 title: "Pen.Pen"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Pen منشئ."
+description: "Pen المُنشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/pen/pen/
