@@ -1,6 +1,6 @@
 ---
 title: "AbstractPath.GetFileNameWithoutExtension"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "AbstractPath 方法。返回此 AbstractPath 的文件名（不含扩展名）"
 type: docs
 weight: 90

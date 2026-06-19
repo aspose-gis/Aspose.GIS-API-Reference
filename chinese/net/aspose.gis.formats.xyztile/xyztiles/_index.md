@@ -1,6 +1,6 @@
 ---
 title: "类 XyzTiles"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.XyzTile.XyzTiles 类。XyzTiles 提供对 XyzTile 对象的访问"
 type: docs
 weight: 2410

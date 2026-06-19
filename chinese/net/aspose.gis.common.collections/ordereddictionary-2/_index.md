@@ -1,6 +1,6 @@
 ---
 title: "类 OrderedDictionaryTKeyTValue"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Collections.OrderedDictionary2TKeyTValue 类。"
 type: docs
 weight: 200
@@ -23,7 +23,7 @@ public class OrderedDictionary<TKey, TValue>
 | 名称 | 描述 |
 | --- | --- |
 | [Count](../../aspose.gis.common.collections/ordereddictionary-2/count/) { get; } |  |
-| [Item](../../aspose.gis.common.collections/ordereddictionary-2/item/) { get; set; } | (2 个索引器) |
+| [Item](../../aspose.gis.common.collections/ordereddictionary-2/item/) { get; set; } | (2 索引器) |
 | [Keys](../../aspose.gis.common.collections/ordereddictionary-2/keys/) { get; } |  |
 | [Pairs](../../aspose.gis.common.collections/ordereddictionary-2/pairs/) { get; } |  |
 | [Values](../../aspose.gis.common.collections/ordereddictionary-2/values/) { get; } |  |

@@ -1,6 +1,6 @@
 ---
 title: "Aspose.Gis.Formats.InMemory"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.InMemoryLayer 命名空间提供用于处理 InMemoryLayer 的类"
 type: docs
 weight: 330

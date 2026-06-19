@@ -1,6 +1,6 @@
 ---
 title: "IDatabaseDataSource.ReadAsync"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IDatabaseDataSource 方法。读取地理空间数据的方法"
 type: docs
 weight: 10
@@ -22,11 +22,11 @@ public Task<VectorLayer> ReadAsync(DbConnection connection,
 
 ### 返回值
 
-返回一个 InMemoryLayer 实例，包装在 ReadVectorWrapper 中，以便在需要时执行额外的几何转换。
+返回一个由 ReadVectorWrapper 包装的 InMemoryLayer 单实例，以便在需要时执行额外的几何变换。
 
 ## 备注
 
-必须配置连接并保持打开状态。
+必须对连接进行配置并保持打开状态。
 
 ### 另见
 
@@ -39,7 +39,7 @@ public Task<VectorLayer> ReadAsync(DbConnection connection,
 
 ## ReadAsync(DbConnection, DbTransaction, IDictionary&lt;string, object&gt;) {#readasync_1}
 
-在事务中读取地理空间数据的方法..
+在事务中读取地理空间数据的方法。
 
 ```csharp
 public Task<VectorLayer> ReadAsync(DbConnection connection, DbTransaction transaction, 
@@ -54,11 +54,11 @@ public Task<VectorLayer> ReadAsync(DbConnection connection, DbTransaction transa
 
 ### 返回值
 
-返回一个 InMemoryLayer 实例，包装在 ReadVectorWrapper 中，以便在需要时执行额外的几何转换。
+返回一个由 ReadVectorWrapper 包装的 InMemoryLayer 单实例，以便在需要时执行额外的几何变换。
 
 ## 备注
 
-必须配置连接并保持打开状态。
+必须对连接进行配置并保持打开状态。
 
 ### 另见
 

@@ -1,6 +1,6 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.GetProjectionParameter"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ProjectedSpatialReferenceSystemParameters 方法。获取具有指定名称的投影参数。"
 type: docs
 weight: 110
@@ -16,7 +16,7 @@ public double GetProjectionParameter(string parameterName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| parameterName | String | 参数的名称。 |
+| parameterName | 字符串 | 参数的名称。 |
 
 ### 返回值
 
@@ -27,7 +27,7 @@ public double GetProjectionParameter(string parameterName)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数名称为 null。 |
-| InvalidOperationException | 未设置具有此名称的参数。 |
+| InvalidOperationException | 未设置具有该名称的参数。 |
 
 ### 另见
 

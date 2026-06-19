@@ -1,7 +1,7 @@
 ---
 title: "IdSequence.IdSequence"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IdSequence 构造函数。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IdSequence constructor."
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.common/idsequence/idsequence/

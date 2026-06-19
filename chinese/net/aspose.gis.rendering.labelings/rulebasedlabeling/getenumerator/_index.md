@@ -1,6 +1,6 @@
 ---
 title: "RuleBasedLabeling.GetEnumerator"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RuleBasedLabeling 方法。返回一个遍历规则的枚举器"
 type: docs
 weight: 60

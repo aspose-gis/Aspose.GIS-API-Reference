@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Clone"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。克隆此实例"
 type: docs
 weight: 130

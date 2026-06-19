@@ -1,6 +1,6 @@
 ---
 title: "Extent.Contains"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Extent 方法。确定此范围是否包含由参数定义的坐标"
 type: docs
 weight: 120
@@ -37,7 +37,7 @@ public bool Contains(double x, double y)
 
 ## Contains(Extent) {#contains}
 
-确定此范围是否包含参数。
+确定此范围是否包含该参数。
 
 ```csharp
 public bool Contains(Extent extent)
@@ -56,11 +56,11 @@ public bool Contains(Extent extent)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 此范围和参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 此范围和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null` 且彼此不相等。 |
 
 ## 备注
 
-位于此 [`Extent`](../) 边界上的坐标被视为被此 [`Extent`](../) 包含。因此，等价的范围被视为相互包含。
+位于此 [`Extent`](../) 边界上的坐标被视为被此 [`Extent`](../) 包含。因此，等同的范围被视为相互包含。
 
 ### 另见
 
@@ -72,7 +72,7 @@ public bool Contains(Extent extent)
 
 ## Contains(IGeometry) {#contains_1}
 
-确定此范围是否包含参数。
+确定此范围是否包含该参数。
 
 ```csharp
 public bool Contains(IGeometry geometry)
@@ -91,7 +91,7 @@ public bool Contains(IGeometry geometry)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 此范围和参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 此范围和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null` 且彼此不相等。 |
 
 ## 备注
 

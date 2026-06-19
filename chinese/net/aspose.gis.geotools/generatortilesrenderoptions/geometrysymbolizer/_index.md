@@ -1,7 +1,7 @@
 ---
 title: "GeneratorTilesRenderOptions.GeometrySymbolizer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeneratorTilesRenderOptions 属性。根据要素几何的几何类型应用正确的符号化器"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeneratorTilesRenderOptions 属性。根据几何类型为要素几何应用正确的符号化器"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geotools/generatortilesrenderoptions/geometrysymbolizer/

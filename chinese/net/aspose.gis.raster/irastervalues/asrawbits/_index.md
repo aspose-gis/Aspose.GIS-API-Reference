@@ -1,6 +1,6 @@
 ---
 title: "IRasterValues.AsRawBits"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IRasterValues 方法。获取所有波段值的原始位"
 type: docs
 weight: 80

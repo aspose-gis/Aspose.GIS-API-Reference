@@ -1,6 +1,6 @@
 ---
 title: "XmlIndex2.XmlIndex2"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "XmlIndex2 构造函数。"
 type: docs
 weight: 10

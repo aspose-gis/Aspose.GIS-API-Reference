@@ -1,6 +1,6 @@
 ---
 title: "RuleBasedLabeling.Add"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RuleBasedLabeling 方法。添加新的 LabelingRule"
 type: docs
 weight: 40
@@ -16,8 +16,8 @@ public void Add(Func<Feature, bool> filter, Labeling labeling)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 过滤器 | Func`2 | 确定何时应对特征应用标记。 |
-| 标注 | 标注 | 当 *filter* 返回 true 时，对特征应用的标记。 |
+| 过滤器 | Func`2 | 确定何时应将标签应用于特征。 |
+| 标注 | 标注 | 当 *filter* 返回 true 时对特征应用的标签。 |
 
 ### 另见
 

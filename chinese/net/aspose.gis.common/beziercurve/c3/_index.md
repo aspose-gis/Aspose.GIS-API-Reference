@@ -1,7 +1,7 @@
 ---
 title: "BezierCurve.C3"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "BezierCurve 属性。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "BezierCurve 属性."
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.common/beziercurve/c3/

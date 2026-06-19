@@ -1,7 +1,7 @@
 ---
 title: "类 SpatialReferenceSystemTransformation"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.SpatialReferencing.SpatialReferenceSystemTransformation 类。空间参考系统转换将几何体从源空间参考系统转换到目标空间参考系统"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.SpatialReferencing.SpatialReferenceSystemTransformation 类。空间参考系统转换将几何体从源空间参考系统转换到目标空间参考系统。"
 type: docs
 weight: 4710
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/

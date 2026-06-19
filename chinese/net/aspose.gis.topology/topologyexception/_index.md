@@ -1,7 +1,7 @@
 ---
 title: "类 TopologyException"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.TopologyException 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.TopologyException 类."
 type: docs
 weight: 5030
 url: /zh/net/aspose.gis.topology/topologyexception/

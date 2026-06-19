@@ -1,6 +1,6 @@
 ---
 title: "枚举 GeographicAxisesOrder"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.GeographicAxisesOrder 枚举。表示地理 SRS 中轴的顺序。"
 type: docs
 weight: 4560
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.spatialreferencing/geographicaxisesorder/
 ---
 ## GeographicAxisesOrder enumeration
 
-表示地理坐标参考系统中轴的顺序。
+表示地理 SRS 中轴的顺序。
 
 ```csharp
 public enum GeographicAxisesOrder

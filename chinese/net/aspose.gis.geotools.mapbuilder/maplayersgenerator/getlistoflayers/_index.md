@@ -1,6 +1,6 @@
 ---
 title: "MapLayersGenerator.GetListOfLayers"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapLayersGenerator 方法。获取图层列表 roadLayer buildingLayer parkLayer parkRoadLayer industrialLayer"
 type: docs
 weight: 20

@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.WebMercator"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 属性。Web Mercator EPSG3857 空间参考系统。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 属性。Web Mercator EPSG3857 空间参考系统"
 type: docs
 weight: 310
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/webmercator/

@@ -1,6 +1,6 @@
 ---
 title: "FileGdbOptions.GeometryFieldName"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileGdbOptions 属性。几何字段的名称"
 type: docs
 weight: 50
@@ -18,7 +18,7 @@ public string GeometryFieldName { get; set; }
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 值不是有效的字段名称。有效的字段名称必须：不是 `null` 且不为空；以拉丁字母或下划线开头；仅包含拉丁字母、数字或下划线 |
+| ArgumentException | 值不是有效的字段名。有效的字段名必须：不是 `null` 且不为空，以拉丁字母或下划线开头，仅包含拉丁字母、数字或下划线 |
 
 ## 备注
 

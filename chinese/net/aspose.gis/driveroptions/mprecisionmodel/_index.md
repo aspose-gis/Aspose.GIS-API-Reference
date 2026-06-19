@@ -1,7 +1,7 @@
 ---
 title: "DriverOptions.MPrecisionModel"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "DriverOptions 属性。一个 PrecisionModel，将在几何添加到 VectorLayer 或从 VectorLayer 读取时应用于 M 坐标。默认值为 Exact"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "DriverOptions 属性。一个 PrecisionModel，将在几何添加到 VectorLayer 或从 VectorLayer 读取时应用于 M 坐标。默认值为 Exact。"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/driveroptions/mprecisionmodel/

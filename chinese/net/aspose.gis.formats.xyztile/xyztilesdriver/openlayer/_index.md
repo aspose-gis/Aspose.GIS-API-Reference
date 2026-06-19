@@ -1,6 +1,6 @@
 ---
 title: "XyzTilesDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "XyzTilesDriver 方法。打开瓦片集合"
 type: docs
 weight: 20

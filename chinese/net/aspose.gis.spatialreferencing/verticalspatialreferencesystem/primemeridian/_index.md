@@ -1,6 +1,6 @@
 ---
 title: "VerticalSpatialReferenceSystem.PrimeMeridian"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VerticalSpatialReferenceSystem 属性。抛出 InvalidOperationException，因为垂直 SRS 没有本初子午线"
 type: docs
 weight: 60

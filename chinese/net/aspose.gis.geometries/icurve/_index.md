@@ -1,7 +1,7 @@
 ---
 title: "接口 ICurve"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Geometries.ICurve 接口。ICurve 类型是点的序列。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Geometries.ICurve 接口。ICurve 类型的接口 ICurve 是点的序列"
 type: docs
 weight: 2760
 url: /zh/net/aspose.gis.geometries/icurve/

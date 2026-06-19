@@ -1,6 +1,6 @@
 ---
 title: "ICurvePolygon.InteriorRingsCount"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ICurvePolygon 属性。获取内部环的数量"
 type: docs
 weight: 20

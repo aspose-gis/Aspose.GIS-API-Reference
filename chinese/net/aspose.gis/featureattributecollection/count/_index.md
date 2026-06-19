@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttributeCollection.Count"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FeatureAttributeCollection 属性。获取 Feature 中属性的数量。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FeatureAttributeCollection 属性。获取 Feature 中属性的数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/featureattributecollection/count/

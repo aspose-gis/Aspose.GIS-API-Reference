@@ -1,7 +1,7 @@
 ---
 title: "MapRasterOptions.PixelPerRow"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MapRasterOptions 属性。光栅的像素高度"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MapRasterOptions 属性。光栅的高度（像素）"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geotools.layersmap/maprasteroptions/pixelperrow/

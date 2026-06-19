@@ -1,6 +1,6 @@
 ---
 title: "Metered.SetMeteredKey"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Metered 方法。设置计量的公钥和私钥"
 type: docs
 weight: 40
@@ -16,8 +16,8 @@ public static void SetMeteredKey(string publicKey, string privateKey)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| publicKey | String | 公钥 |
-| privateKey | String | 私钥 |
+| publicKey | 字符串 | 公钥 |
+| privateKey | 字符串 | 私钥 |
 
 ### 另见
 

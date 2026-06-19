@@ -1,7 +1,7 @@
 ---
 title: "IRasterCellSize.ScaleX"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IRasterCellSize 属性。获取单元格或像素宽度的 x 分量（xscale）"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IRasterCellSize 属性。获取单元格或像素宽度的 x 组件 xscale"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.raster/irastercellsize/scalex/

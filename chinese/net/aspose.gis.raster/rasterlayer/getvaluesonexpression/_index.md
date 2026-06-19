@@ -1,6 +1,6 @@
 ---
 title: "RasterLayer.GetValuesOnExpression"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterLayer 方法。读取并处理表达式中的波段值"
 type: docs
 weight: 190
@@ -17,7 +17,7 @@ public void GetValuesOnExpression(RasterRect rect, RasterReadExpression expressi
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | rect | RasterRect | 读取值的栅格单元块。 |
-| expression | RasterReadExpression | 提供处理波段值的方法。 |
+| expression | RasterReadExpression | 提供一种处理波段值的方式。 |
 
 ### 另见
 

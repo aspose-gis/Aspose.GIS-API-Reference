@@ -1,6 +1,6 @@
 ---
 title: "AbstractPath.FromLocalPath"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "AbstractPath 方法。创建一个表示本地文件系统上位置的 AbstractPath"
 type: docs
 weight: 10
@@ -16,7 +16,7 @@ public static AbstractPath FromLocalPath(string path)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 本地文件系统上的路径，例如 `"C:\\file.shp"` 或 `"D:\\directory\\"`。 |
+| path | 字符串 | 本地文件系统上的路径，例如 `"C:\\file.shp"` 或 `"D:\\directory\\"`。 |
 
 ### 返回值
 

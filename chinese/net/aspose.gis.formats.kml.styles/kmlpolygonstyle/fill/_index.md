@@ -1,6 +1,6 @@
 ---
 title: "KmlPolygonStyle.Fill"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlPolygonStyle 属性。指定是否填充多边形。默认值为 true"
 type: docs
 weight: 20

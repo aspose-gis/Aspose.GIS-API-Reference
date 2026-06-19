@@ -1,7 +1,7 @@
 ---
 title: "CurvePolygon.InteriorRingsCount"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CurvePolygon 属性. 获取内部环的数量"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CurvePolygon 属性。获取内部环的数量"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geometries/curvepolygon/interiorringscount/

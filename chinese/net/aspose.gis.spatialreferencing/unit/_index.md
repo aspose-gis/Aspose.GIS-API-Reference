@@ -1,6 +1,6 @@
 ---
 title: "类 Unit"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.Unit 类。表示测量单位"
 type: docs
 weight: 4740
@@ -24,7 +24,7 @@ public class Unit : IdentifiableObject
 
 | 名称 | 描述 |
 | --- | --- |
-| static [Degree](../../aspose.gis.spatialreferencing/unit/degree/) { get; } | 获取表示度的 Unit。 |
+| static [Degree](../../aspose.gis.spatialreferencing/unit/degree/) { get; } | 获取表示度数的 Unit。 |
 | static [Meter](../../aspose.gis.spatialreferencing/unit/meter/) { get; } | 获取表示米的 Unit。 |
 | static [Radian](../../aspose.gis.spatialreferencing/unit/radian/) { get; } | 获取表示弧度的 Unit。 |
 | [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | 如果此对象的标识符是 EPSG 标识符，则返回其代码；否则返回 -1。 |

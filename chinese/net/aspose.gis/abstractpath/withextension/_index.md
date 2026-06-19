@@ -1,6 +1,6 @@
 ---
 title: "AbstractPath.WithExtension"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "AbstractPath 方法。返回一个新的 AbstractPath，其文件扩展名已更改为指定的值"
 type: docs
 weight: 130
@@ -16,7 +16,7 @@ public virtual AbstractPath WithExtension(string newExtension)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| newExtension | String | 一个新的扩展名。 |
+| newExtension | 字符串 | 新的扩展名。 |
 
 ### 返回值
 

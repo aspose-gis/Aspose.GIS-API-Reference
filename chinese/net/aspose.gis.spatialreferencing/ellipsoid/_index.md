@@ -1,14 +1,14 @@
 ---
 title: "类 Ellipsoid"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.SpatialReferencing.Ellipsoid 类。Ellipsoid 表示近似地球的椭球体。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.SpatialReferencing.Ellipsoid 类。Ellipsoid 表示一个近似地球的椭球体。"
 type: docs
 weight: 4520
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/
 ---
 ## Ellipsoid class
 
-椭球体表示一个近似地球的椭球体。
+椭球体表示一种近似地球的椭球体。
 
 ```csharp
 public class Ellipsoid : IdentifiableObject
@@ -30,7 +30,7 @@ public class Ellipsoid : IdentifiableObject
 | static [Wgs84](../../aspose.gis.spatialreferencing/ellipsoid/wgs84/) { get; } | WGS 84 椭球体。 |
 | [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | 如果此对象的标识符是 EPSG 标识符，则返回其代码；否则返回 -1。 |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | 此可识别对象的标识符。 |
-| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening/) { get; } | 椭球体的倒数展平率。如果这是球体，则为 0。 |
+| [InverseFlattening](../../aspose.gis.spatialreferencing/ellipsoid/inverseflattening/) { get; } | 椭球体的倒数扁率。如果是球体则为 0。 |
 | [IsSphere](../../aspose.gis.spatialreferencing/ellipsoid/issphere/) { get; } | 检测此椭球体是否为球体。 |
 | [IsValid](../../aspose.gis.spatialreferencing/ellipsoid/isvalid/) { get; } | 检测椭球体是否有效：其半长轴大于 0，且逆扁率为正或等于 0。 |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | 此对象的名称。 |

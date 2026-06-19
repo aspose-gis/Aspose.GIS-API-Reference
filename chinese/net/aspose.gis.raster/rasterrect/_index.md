@@ -1,6 +1,6 @@
 ---
 title: "类 RasterRect"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.RasterRect 类。栅格单元块"
 type: docs
 weight: 3850

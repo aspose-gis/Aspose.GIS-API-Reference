@@ -1,7 +1,7 @@
 ---
 title: "IndexableStreamReader.SetSymbolToReplaceIllegal"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IndexableStreamReader 方法."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IndexableStreamReader 方法。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.common.io/indexablestreamreader/setsymboltoreplaceillegal/

@@ -1,6 +1,6 @@
 ---
 title: "接口 IRasterCellSize"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.IRasterCellSize 接口。描述地图上栅格单元的尺寸比例和旋转"
 type: docs
 weight: 3780

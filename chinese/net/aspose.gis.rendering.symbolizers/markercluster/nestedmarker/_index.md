@@ -1,6 +1,6 @@
 ---
 title: "MarkerCluster.NestedMarker"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerCluster 属性。指定嵌套聚类点的标记符号化器。默认值为 Null"
 type: docs
 weight: 40

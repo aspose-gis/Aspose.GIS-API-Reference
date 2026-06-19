@@ -1,6 +1,6 @@
 ---
 title: "类 MapObjectsHeader"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Formats.MapInfo.TabFormat.Map.MapObjectsHeader 类。"
 type: docs
 weight: 910

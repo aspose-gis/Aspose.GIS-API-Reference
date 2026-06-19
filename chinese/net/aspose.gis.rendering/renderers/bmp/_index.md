@@ -1,7 +1,7 @@
 ---
 title: "Renderers.Bmp"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Renderers 属性。将渲染输出为 BMP 格式的渲染器。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Renderers 属性。将内容渲染为 BMP 格式的渲染器"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering/renderers/bmp/

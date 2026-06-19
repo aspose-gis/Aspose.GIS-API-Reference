@@ -1,6 +1,6 @@
 ---
 title: "WayLayerGenerator.WayLayerGenerator"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "WayLayerGenerator 构造函数。创建 WayLayerGenerator 的实例"
 type: docs
 weight: 10

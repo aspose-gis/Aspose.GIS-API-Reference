@@ -1,7 +1,7 @@
 ---
 title: "BezierCurve.BezierCurve"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "BezierCurve 构造函数。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "BezierCurve 构造函数."
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.common/beziercurve/beziercurve/

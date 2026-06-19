@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttributeCollection.Add"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FeatureAttributeCollection 方法。向集合中添加属性。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FeatureAttributeCollection 方法。向集合中添加属性"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis/featureattributecollection/add/

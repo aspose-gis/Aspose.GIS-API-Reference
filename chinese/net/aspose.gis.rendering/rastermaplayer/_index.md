@@ -1,14 +1,14 @@
 ---
 title: "类 RasterMapLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.RasterMapLayer 类。地图中的一个图层，表示栅格图层数据"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.RasterMapLayer class. Map 中的一个图层，表示栅格图层数据"
 type: docs
 weight: 4200
 url: /zh/net/aspose.gis.rendering/rastermaplayer/
 ---
 ## RasterMapLayer class
 
-表示栅格图层数据的位于 [`Map`](../map/) 内的图层。
+一个位于 [`Map`](../map/) 内的图层，表示栅格图层数据。
 
 ```csharp
 public class RasterMapLayer : MapLayer

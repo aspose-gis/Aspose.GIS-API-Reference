@@ -1,7 +1,7 @@
 ---
 title: "SimpleFill.StrokeLineJoin"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleFill 属性。确定线段交叉处的线条渲染方式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleFill 属性。确定线段交叉处线条的渲染方式"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.rendering.symbolizers/simplefill/strokelinejoin/

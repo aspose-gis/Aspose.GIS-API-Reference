@@ -1,7 +1,7 @@
 ---
 title: "枚举 LineJoin"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.LineJoin 枚举。确定线段交叉处的线条渲染方式。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.LineJoin 枚举。确定线段交叉处的线条渲染方式"
 type: docs
 weight: 4160
 url: /zh/net/aspose.gis.rendering/linejoin/

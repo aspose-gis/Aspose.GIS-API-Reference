@@ -1,6 +1,6 @@
 ---
 title: "类 RuleBasedSymbolizer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Symbolizers.RuleBasedSymbolizer 类。根据用户定义的规则将符号器应用于要素几何体"
 type: docs
 weight: 4380
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
 ---
 ## RuleBasedSymbolizer class
 
-根据用户自定义的规则，将符号器应用于要素几何体。
+根据用户定义的规则，将符号器应用于要素几何体。
 
 ```csharp
 public class RuleBasedSymbolizer : VectorSymbolizer, IReadOnlyList<Rule>

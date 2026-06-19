@@ -1,7 +1,7 @@
 ---
 title: "PointLabelPlacement.HorizontalOffset"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "PointLabelPlacement 属性。指定从点位置到标签锚点的水平偏移"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "PointLabelPlacement 属性。指定从点位置到标签锚点的水平偏移量"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset/

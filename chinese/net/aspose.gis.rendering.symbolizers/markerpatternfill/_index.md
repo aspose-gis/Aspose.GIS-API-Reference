@@ -1,6 +1,6 @@
 ---
 title: "类 MarkerPatternFill"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Symbolizers.MarkerPatternFill 类。标记图案填充符号器"
 type: docs
 weight: 4310
@@ -25,7 +25,7 @@ public class MarkerPatternFill : VectorSymbolizer
 
 | 名称 | 描述 |
 | --- | --- |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerpatternfill/featurebasedconfiguration/) { get; set; } | 一个回调，用于在渲染要素之前配置此symbolizer。 |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/markerpatternfill/featurebasedconfiguration/) { get; set; } | 用于在渲染要素之前配置此符号器的回调。 |
 | [HorizontalDisplacement](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontaldisplacement/) { get; set; } | 指定偶数水平线中标记的水平偏移。 |
 | [HorizontalInterval](../../aspose.gis.rendering.symbolizers/markerpatternfill/horizontalinterval/) { get; set; } | 指定标记之间的水平间隔。 |
 | [Marker](../../aspose.gis.rendering.symbolizers/markerpatternfill/marker/) { get; set; } | 指定用于填充的标记符号器。 |

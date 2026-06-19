@@ -1,6 +1,6 @@
 ---
 title: "SimpleLabeling.GeometryExpression"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLabeling 属性。提供一种将要素几何体替换为为标注修改后的几何体的方法。此回调在 FeatureBasedConfiguration 之后首次被调用。默认值为 null，使用要素几何体原样。"
 type: docs
 weight: 70

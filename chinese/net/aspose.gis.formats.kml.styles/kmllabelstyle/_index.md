@@ -1,7 +1,7 @@
 ---
 title: "类 KmlLabelStyle"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.Kml.Styles.KmlLabelStyle 类。 指定标签在地理视图中的绘制方式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlLabelStyle 类。指定标签在地理视图中的绘制方式"
 type: docs
 weight: 2170
 url: /zh/net/aspose.gis.formats.kml.styles/kmllabelstyle/
@@ -24,9 +24,9 @@ public class KmlLabelStyle : KmlAbstractColorStyle
 
 | 名称 | 描述 |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | 指定图形元素的颜色。 默认值 白色。 |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | 指定图形元素的颜色模式。 默认值： 正常。 |
-| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale/) { get; set; } | 指定要应用于标签的缩放因子。 默认值为 '1'。 |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | 指定图形元素的颜色。默认值为 White。 |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | 指定图形元素的颜色模式。默认值：normal。 |
+| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale/) { get; set; } | 指定应用于标签的缩放因子。默认值为 '1'。 |
 
 ### 另见
 

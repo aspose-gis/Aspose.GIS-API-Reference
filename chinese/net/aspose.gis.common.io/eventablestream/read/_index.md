@@ -1,7 +1,7 @@
 ---
 title: "EventableStream.Read"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "EventableStream 方法."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "EventableStream 方法。"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.common.io/eventablestream/read/

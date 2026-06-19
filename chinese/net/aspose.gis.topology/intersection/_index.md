@@ -1,7 +1,7 @@
 ---
 title: "类 Intersection"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.Intersection 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.Intersection 类."
 type: docs
 weight: 4970
 url: /zh/net/aspose.gis.topology/intersection/

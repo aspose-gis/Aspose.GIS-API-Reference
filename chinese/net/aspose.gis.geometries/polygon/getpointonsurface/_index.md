@@ -1,14 +1,14 @@
 ---
 title: "Polygon.GetPointOnSurface"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Polygon 方法。查找保证位于此多边形上的点。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Polygon 方法。查找保证位于此多边形上的点"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.geometries/polygon/getpointonsurface/
 ---
 ## Polygon.GetPointOnSurface method
 
-查找保证位于该多边形上的点。
+查找保证位于此多边形上的点。
 
 ```csharp
 public override IPoint GetPointOnSurface()
@@ -16,7 +16,7 @@ public override IPoint GetPointOnSurface()
 
 ### 返回值
 
-此多边形上的点。如果该多边形没有内部，则为一个空点。
+此多边形上的点。如果该多边形没有内部，则为空点。
 
 ### 异常
 

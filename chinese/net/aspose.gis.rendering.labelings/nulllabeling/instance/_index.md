@@ -1,6 +1,6 @@
 ---
 title: "NullLabeling.Instance"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "NullLabeling 属性。获取 NullLabeling 的实例"
 type: docs
 weight: 10

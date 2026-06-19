@@ -1,7 +1,7 @@
 ---
 title: "FileDriver.CreateLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FileDriver 方法。创建图层并打开以进行追加"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FileDriver 方法。创建图层并打开以追加"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/filedriver/createlayer/
@@ -16,11 +16,11 @@ public VectorLayer CreateLayer(string path)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -28,7 +28,7 @@ public VectorLayer CreateLayer(string path)
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法创建矢量图层（参见 [`CanCreateLayers`](../cancreatelayers/)）。 |
 
 ### 另见
@@ -54,7 +54,7 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -62,7 +62,7 @@ public VectorLayer CreateLayer(AbstractPath path)
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法创建矢量图层（参见 [`CanCreateLayers`](../cancreatelayers/)）。 |
 
 ### 另见
@@ -85,12 +85,12 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -99,7 +99,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法创建矢量图层（参见 [`CanCreateLayers`](../cancreatelayers/)）。 |
 
 ### 另见
@@ -127,7 +127,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -136,7 +136,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法创建矢量图层（参见 [`CanCreateLayers`](../cancreatelayers/)）。 |
 
 ### 另见
@@ -160,12 +160,12 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -173,8 +173,8 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查是否支持空间参考系统。 |
 
 ### 另见
 
@@ -201,7 +201,7 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -209,8 +209,8 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查是否支持空间参考系统。 |
 
 ### 另见
 
@@ -234,13 +234,13 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -249,8 +249,8 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查是否支持空间参考系统。 |
 | NotSupportedException | 驱动程序无法创建矢量图层（参见 [`CanCreateLayers`](../cancreatelayers/)）。 |
 
 ### 另见
@@ -281,7 +281,7 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -290,8 +290,8 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) 检查是否支持空间参考系统。 |
 | NotSupportedException | 驱动程序无法创建矢量图层（参见 [`CanCreateLayers`](../cancreatelayers/)）。 |
 
 ### 另见

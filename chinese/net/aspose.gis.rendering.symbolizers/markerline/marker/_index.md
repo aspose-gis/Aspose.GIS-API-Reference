@@ -1,6 +1,6 @@
 ---
 title: "MarkerLine.Marker"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerLine 属性。指定沿线的标记符号化器"
 type: docs
 weight: 40

@@ -1,6 +1,6 @@
 ---
 title: "LocalSpatialReferenceSystem.AsLocal"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LocalSpatialReferenceSystem 属性。返回自身"
 type: docs
 weight: 10

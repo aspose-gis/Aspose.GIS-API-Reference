@@ -1,6 +1,6 @@
 ---
 title: "ICompoundCurve.Count"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ICompoundCurve 属性。获取 ICompoundCurve 中曲线的数量"
 type: docs
 weight: 10

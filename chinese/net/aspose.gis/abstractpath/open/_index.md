@@ -1,7 +1,7 @@
 ---
 title: "AbstractPath.Open"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "AbstractPath 方法。将此 AbstractPath 作为文件打开"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "AbstractPath 方法。打开此 AbstractPath 作为文件"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis/abstractpath/open/

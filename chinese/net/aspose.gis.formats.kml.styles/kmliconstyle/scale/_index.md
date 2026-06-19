@@ -1,6 +1,6 @@
 ---
 title: "KmlIconStyle.Scale"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlIconStyle 属性。指定应应用于图形元素的缩放因子。默认值为 1"
 type: docs
 weight: 50

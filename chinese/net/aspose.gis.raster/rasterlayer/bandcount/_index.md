@@ -1,7 +1,7 @@
 ---
 title: "RasterLayer.BandCount"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterLayer 属性。获取栅格层中的波段数量"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterLayer 属性。获取光栅层中波段的数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/rasterlayer/bandcount/
@@ -16,7 +16,7 @@ public abstract int BandCount { get; }
 
 ## 备注
 
-单波段栅格始终返回 '1' 值。
+单波段光栅始终返回 '1' 值。
 
 ### 另见
 

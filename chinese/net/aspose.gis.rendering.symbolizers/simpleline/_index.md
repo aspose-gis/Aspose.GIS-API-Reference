@@ -1,6 +1,6 @@
 ---
 title: "类 SimpleLine"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Symbolizers.SimpleLine 类。简单线符号"
 type: docs
 weight: 4400
@@ -27,12 +27,12 @@ public class SimpleLine : VectorSymbolizer
 | --- | --- |
 | [CapStyle](../../aspose.gis.rendering.symbolizers/simpleline/capstyle/) { get; set; } | 指定线条在端点的渲染方式。 |
 | [Color](../../aspose.gis.rendering.symbolizers/simpleline/color/) { get; set; } | 指定线条的颜色和透明度。 |
-| [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset/) { get; set; } | 指定从线条起点到破折号模式开始的距离。 |
+| [DashOffset](../../aspose.gis.rendering.symbolizers/simpleline/dashoffset/) { get; set; } | 指定从线条起点到破折号模式起始的距离。 |
 | [DashPattern](../../aspose.gis.rendering.symbolizers/simpleline/dashpattern/) { get; set; } | 指定一个距离数组，用于定义虚线中交替的破折号和空格的长度。 |
-| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration/) { get; set; } | 一个回调，用于在渲染要素之前配置此symbolizer。 |
+| [FeatureBasedConfiguration](../../aspose.gis.rendering.symbolizers/simpleline/featurebasedconfiguration/) { get; set; } | 用于在渲染要素之前配置此符号器的回调。 |
 | [LineJoin](../../aspose.gis.rendering.symbolizers/simpleline/linejoin/) { get; set; } | 确定线段交叉处的渲染方式。 |
 | [Offset](../../aspose.gis.rendering.symbolizers/simpleline/offset/) { get; set; } | 指定相对于原始线的偏移。正距离时，偏移位于输入线的左侧（相对于线的方向）。负距离时，偏移位于右侧。 |
-| [Style](../../aspose.gis.rendering.symbolizers/simpleline/style/) { get; set; } | 指定symbol线的绘制方式。 |
+| [Style](../../aspose.gis.rendering.symbolizers/simpleline/style/) { get; set; } | 指定符号线的绘制方式。 |
 | [Width](../../aspose.gis.rendering.symbolizers/simpleline/width/) { get; set; } | 指定线条的宽度。 |
 
 ## 方法

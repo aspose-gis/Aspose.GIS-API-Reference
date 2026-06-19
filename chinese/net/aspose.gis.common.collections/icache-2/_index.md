@@ -1,6 +1,6 @@
 ---
 title: "接口 ICacheTKeyTValue"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Collections.ICache2TKeyTValue 接口。"
 type: docs
 weight: 140

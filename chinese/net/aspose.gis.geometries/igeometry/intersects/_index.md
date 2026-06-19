@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Intersects"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。确定此几何是否与指定范围相交"
 type: docs
 weight: 270
@@ -20,7 +20,7 @@ public bool Intersects(Extent extent)
 
 ### 返回值
 
-`true` 如果此几何与范围相交；`false` 否则。
+`true` 表示此几何与范围相交；`false` 表示否则。
 
 ### 异常
 
@@ -40,7 +40,7 @@ public bool Intersects(Extent extent)
 
 ## Intersects(IGeometry) {#intersects_1}
 
-确定此几何体与指定几何体是否相交。
+确定此几何体和指定几何体是否相交。
 
 ```csharp
 public bool Intersects(IGeometry other)
@@ -52,7 +52,7 @@ public bool Intersects(IGeometry other)
 
 ### 返回值
 
-`true` 如果此几何 "空间相交" 另一个几何。`false` 否则。
+`true` 表示此几何“空间相交”另一个几何；`false` 表示否则。
 
 ### 异常
 

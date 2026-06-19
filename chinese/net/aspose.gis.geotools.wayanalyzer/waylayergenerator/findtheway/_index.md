@@ -1,6 +1,6 @@
 ---
 title: "WayLayerGenerator.FindTheWay"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "WayLayerGenerator 方法。查找从起始点到目标的路径"
 type: docs
 weight: 40
@@ -18,7 +18,7 @@ public LineString FindTheWay(Point startPoint, Point goalPoint, double radius = 
 | --- | --- | --- |
 | startPoint | Point | 起始点 |
 | goalPoint | Point | 目标点 |
-| radius | Double | 要搜索的半径 |
+| radius | Double | 要查找的半径 |
 
 ### 返回值
 

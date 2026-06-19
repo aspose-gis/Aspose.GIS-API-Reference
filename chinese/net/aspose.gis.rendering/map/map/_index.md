@@ -1,6 +1,6 @@
 ---
 title: "Map.Map"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Map 构造函数。创建 Map 类的新实例"
 type: docs
 weight: 10
@@ -16,8 +16,8 @@ public Map(Measurement width, Measurement height)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 宽度 | 测量 | 地图的宽度。 |
-| 高度 | 测量 | 地图的高度。 |
+| width | 测量 | 地图的宽度。 |
+| height | 测量 | 地图的高度。 |
 
 ### 异常
 

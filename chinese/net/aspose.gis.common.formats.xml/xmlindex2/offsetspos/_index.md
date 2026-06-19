@@ -1,6 +1,6 @@
 ---
 title: "XmlIndex2.OffsetsPos"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "XmlIndex2 属性。"
 type: docs
 weight: 30

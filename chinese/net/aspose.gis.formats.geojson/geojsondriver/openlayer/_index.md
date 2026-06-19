@@ -1,14 +1,14 @@
 ---
 title: "GeoJsonDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeoJsonDriver 方法。打开一个图层以进行读取"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeoJsonDriver 方法。打开一个图层用于读取"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.geojson/geojsondriver/openlayer/
 ---
 ## OpenLayer(string, GeoJsonOptions) {#openlayer_5}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public VectorLayer OpenLayer(string path, GeoJsonOptions options)
@@ -16,7 +16,7 @@ public VectorLayer OpenLayer(string path, GeoJsonOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | GeoJsonOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -35,7 +35,7 @@ public VectorLayer OpenLayer(string path, GeoJsonOptions options)
 
 ## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
@@ -63,7 +63,7 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ## OpenLayer(AbstractPath, GeoJsonOptions) {#openlayer_2}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public VectorLayer OpenLayer(AbstractPath path, GeoJsonOptions options)

@@ -1,14 +1,14 @@
 ---
 title: "Point.GetHashCode"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Point 方法。充当默认的哈希函数"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Point 方法。用作默认的哈希函数"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.geometries/point/gethashcode/
 ---
 ## Point.GetHashCode method
 
-作为默认的哈希函数。
+用作默认的哈希函数。
 
 ```csharp
 public override int GetHashCode()

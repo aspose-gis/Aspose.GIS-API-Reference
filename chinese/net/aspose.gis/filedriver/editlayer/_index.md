@@ -1,6 +1,6 @@
 ---
 title: "FileDriver.EditLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileDriver 方法。打开图层进行编辑"
 type: docs
 weight: 70
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis/filedriver/editlayer/
 ---
 ## EditLayer(string, DriverOptions) {#editlayer_1}
 
-打开图层进行编辑。
+以编辑模式打开图层。
 
 ```csharp
 public VectorLayer EditLayer(string path, DriverOptions options = null)
@@ -16,12 +16,12 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -29,8 +29,8 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
-| IOException | 发生 I/O 错误。 |
+| [GisException](../../gisexception/) | 从文件读取要素时出错。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -44,7 +44,7 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 
 ## EditLayer(AbstractPath, DriverOptions) {#editlayer}
 
-打开图层进行编辑。
+以编辑模式打开图层。
 
 ```csharp
 public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = null)
@@ -57,7 +57,7 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 
 ### 返回值
 
-一个 [`VectorLayer`](../../vectorlayer/) 实例。
+[`VectorLayer`](../../vectorlayer/) 的实例。
 
 ### 异常
 
@@ -65,9 +65,9 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
+| [GisException](../../gisexception/) | 从文件读取要素时出错。 |
 | NotSupportedException | 驱动程序无法编辑图层。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ## 备注
 

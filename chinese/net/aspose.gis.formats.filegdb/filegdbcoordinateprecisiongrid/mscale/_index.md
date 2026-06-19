@@ -1,6 +1,6 @@
 ---
 title: "FileGdbCoordinatePrecisionGrid.MScale"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileGdbCoordinatePrecisionGrid 属性。获取或设置 M 坐标的比例。如果设置为 null，则使用默认值"
 type: docs
 weight: 40
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.MScale property
 
-获取或设置 M 坐标的比例。如果设置为 `null`，则使用默认值。
+获取或设置 M 坐标的比例。如果设置为 `null`，默认值将被使用。
 
 ```csharp
 public double? MScale { get; set; }

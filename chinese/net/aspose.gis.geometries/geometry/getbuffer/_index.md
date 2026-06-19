@@ -1,7 +1,7 @@
 ---
 title: "Geometry.GetBuffer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 方法。计算围绕此几何对象的缓冲区"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Geometry 方法。计算此几何对象周围的缓冲区"
 type: docs
 weight: 210
 url: /zh/net/aspose.gis.geometries/geometry/getbuffer/
@@ -17,11 +17,11 @@ public IGeometry GetBuffer(double distance, int quadrantSegments = 30)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | distance | Double | 缓冲区宽度。 |
-| quadrantSegments | Int32 | 用于近似 90 度曲率的段数。该数值越大，曲线的近似程度越好。默认值为 30。 |
+| quadrantSegments | Int32 | 用于近似 90 度曲率的段数。该数字越大，曲线的近似效果越好。默认值为 30。 |
 
 ### 返回值
 
-表示距离此几何对象在指定距离范围内的所有点的几何对象。结果类型可以是 [`Null`](../null/)、[`IPolygon`](../../ipolygon/) 或 [`IMultiPolygon`](../../imultipolygon/)。
+表示所有位于此几何对象指定距离范围内的点的几何对象。结果类型可以是 [`Null`](../null/)、[`IPolygon`](../../ipolygon/) 或 [`IMultiPolygon`](../../imultipolygon/)。
 
 ### 异常
 

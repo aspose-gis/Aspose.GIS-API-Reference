@@ -1,6 +1,6 @@
 ---
 title: "LineString.HasM"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LineString 属性。获取一个值，指示此实例是否具有 M 坐标"
 type: docs
 weight: 50
@@ -16,7 +16,7 @@ public bool HasM { get; set; }
 
 ### Property Value
 
-`true` 表示此实例具有 M 坐标；否则为 `false`。
+`true` 如果此实例具有 M 坐标；否则为 `false`。
 
 ### 另见
 

@@ -1,6 +1,6 @@
 ---
 title: "接口 IMultiPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Geometries.IMultiPoint 接口。IMultiPoint 是一个一维的 IGeometryCollection，其元素为 IPoints。"
 type: docs
 weight: 2840

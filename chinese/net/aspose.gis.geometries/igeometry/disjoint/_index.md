@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Disjoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。确定此几何体是否与指定几何体不相交"
 type: docs
 weight: 180
@@ -20,7 +20,7 @@ public bool Disjoint(IGeometry other)
 
 ### 返回值
 
-`true` 如果此几何体是 \"空间上不相交\" 另一个几何体。`false` 否则。
+`true` 如果此几何体在空间上与另一个几何体不相交。`false` 否则。
 
 ### 异常
 
@@ -32,7 +32,7 @@ public bool Disjoint(IGeometry other)
 
 ## 备注
 
-此方法测试在 DE-9IM 交叉矩阵的意义下，几何体是否不相交。基本上，它测试两个几何体没有公共点。此方法等价于：
+此方法测试几何体在 DE-9IM 交叉矩阵意义上是否不相交。基本上，它测试两个几何体没有公共点。此方法等价于：
 
 ```csharp
 this.Relate(other, "FF*FF****");

@@ -1,6 +1,6 @@
 ---
 title: "枚举 MapSizeModes"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.LayersMap.MapSizeModes 枚举。LayersMapBuilder 的地图大小模式"
 type: docs
 weight: 2540
@@ -20,7 +20,7 @@ public enum MapSizeModes
 | --- | --- | --- |
 | None | `0` | 未知的大小模式。 |
 | Auto | `1` | 自动地图大小。 |
-| Custom | `2` | 使用选项中的尺寸 [`Width`](../mapoptions/width/) 和 [`Height`](../mapoptions/height/)。 |
+| Custom | `2` | 使用选项 [`Width`](../mapoptions/width/) 和 [`Height`](../mapoptions/height/) 的尺寸。 |
 
 ### 另见
 

@@ -1,7 +1,7 @@
 ---
 title: "CompoundCurve.Reverse"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CompoundCurve 方法。反转此 CompoundCurve。即将曲线的顺序以及该复合曲线中的每条曲线顺序反转"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CompoundCurve 方法。反转此 CompoundCurve。即反转曲线的顺序以及该复合曲线中的每条曲线"
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.geometries/compoundcurve/reverse/

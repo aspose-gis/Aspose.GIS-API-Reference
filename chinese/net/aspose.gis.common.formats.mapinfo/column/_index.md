@@ -1,6 +1,6 @@
 ---
 title: "结构体 Column"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Formats.MapInfo.Column 结构体。"
 type: docs
 weight: 520

@@ -1,7 +1,7 @@
 ---
 title: "VerticalSpatialReferenceSystem.AsVertical"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VerticalSpatialReferenceSystem 属性。返回此 SRS"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VerticalSpatialReferenceSystem 属性。返回此 SRS。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/asvertical/

@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.NearestTo"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VectorLayer 方法。获取提供的坐标最近的特征"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VectorLayer 方法。获取提供的坐标最近的 Feature"
 type: docs
 weight: 170
 url: /zh/net/aspose.gis/vectorlayer/nearestto/
@@ -21,7 +21,7 @@ public Feature NearestTo(double x, double y)
 
 ### 返回值
 
-提供的坐标最近的特征。
+提供的坐标最近的 Feature。
 
 ### 另见
 
@@ -42,11 +42,11 @@ public Feature NearestTo(IPoint point)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 点 | IPoint | 该点。 |
+| 点 | IPoint | 点。 |
 
 ### 返回值
 
-提供的点最近的特征。
+提供的点最近的 Feature。
 
 ### 异常
 

@@ -1,6 +1,6 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.Datum"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeocentricSpatialReferenceSystemParameters 属性。地心 SRS 的基准面。默认值为 Wgs84"
 type: docs
 weight: 30

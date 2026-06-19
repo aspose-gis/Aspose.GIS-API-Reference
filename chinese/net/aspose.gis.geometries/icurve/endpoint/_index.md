@@ -1,6 +1,6 @@
 ---
 title: "ICurve.EndPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ICurve 属性。返回曲线终点的副本"
 type: docs
 weight: 10

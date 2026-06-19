@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.Driver"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VectorLayer 属性。获取实例化此图层的 Driver。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VectorLayer 属性。获取实例化此图层的 Driver"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/vectorlayer/driver/

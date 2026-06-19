@@ -1,7 +1,7 @@
 ---
 title: "类 WktNumber"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.Wkt.WktNumber 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.Wkt.WktNumber 类."
 type: docs
 weight: 1020
 url: /zh/net/aspose.gis.common.formats.wkt/wktnumber/

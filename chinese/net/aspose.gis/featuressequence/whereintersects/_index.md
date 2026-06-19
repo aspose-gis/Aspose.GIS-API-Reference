@@ -1,14 +1,14 @@
 ---
 title: "FeaturesSequence.WhereIntersects"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FeaturesSequence 方法。根据其他要素序列中所有几何体的并集过滤要素。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FeaturesSequence 方法。根据其他要素序列中所有几何的联合来过滤要素"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis/featuressequence/whereintersects/
 ---
 ## WhereIntersects(FeaturesSequence) {#whereintersects_1}
 
-根据其他要素序列中所有几何的联合过滤要素。
+根据其他要素序列中所有几何的并集过滤要素。
 
 ```csharp
 public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
@@ -20,7 +20,7 @@ public FeaturesSequence WhereIntersects(FeaturesSequence sequence)
 
 ### 返回值
 
-与其他要素序列中所有几何体的并集相交的要素。
+与其他要素序列中所有几何的联合相交的要素。
 
 ### 另见
 
@@ -40,11 +40,11 @@ public virtual FeaturesSequence WhereIntersects(IGeometry geometry)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 几何体 | IGeometry | 过滤几何体。 |
+| 几何体 | IGeometry | 过滤几何。 |
 
 ### 返回值
 
-与提供的几何体相交的要素。
+与提供的几何相交的要素。
 
 ### 另见
 
@@ -69,7 +69,7 @@ public virtual FeaturesSequence WhereIntersects(Extent extent)
 
 ### 返回值
 
-与提供的几何体相交的要素。
+与提供的几何相交的要素。
 
 ### 另见
 

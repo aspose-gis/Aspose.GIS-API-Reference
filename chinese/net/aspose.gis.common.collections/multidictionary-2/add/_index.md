@@ -1,6 +1,6 @@
 ---
-title: "MultiDictionary2.Add"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MultiDictionary2.添加"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MultiDictionary 方法。"
 type: docs
 weight: 60

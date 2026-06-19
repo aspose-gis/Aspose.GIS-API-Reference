@@ -1,7 +1,7 @@
 ---
 title: "Feature.Geometry"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Feature 属性。获取或设置要素的几何形状。不能为 null，使用 Null 表示缺失的几何形状。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Feature 属性。获取或设置要素的几何形状。不能为 null，使用 Null 表示缺失的几何形状"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/feature/geometry/
@@ -18,7 +18,7 @@ public IGeometry Geometry { get; set; }
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 该值为 `null`。 |
+| ArgumentNullException | 值为 `null`。 |
 
 ### 另见
 

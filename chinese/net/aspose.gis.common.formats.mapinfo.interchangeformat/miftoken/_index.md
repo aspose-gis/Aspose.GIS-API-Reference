@@ -1,7 +1,7 @@
 ---
 title: "结构体 MifToken"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifToken 结构体。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifToken 结构体."
 type: docs
 weight: 760
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken/

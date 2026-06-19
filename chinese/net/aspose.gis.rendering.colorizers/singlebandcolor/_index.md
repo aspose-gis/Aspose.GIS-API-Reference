@@ -1,14 +1,14 @@
 ---
 title: "类 SingleBandColor"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.Colorizers.SingleBandColor 类。单波段颜色化器为栅格指定灰度分量。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.Colorizers.SingleBandColor 类。单波段着色器为栅格指定灰度分量"
 type: docs
 weight: 3990
 url: /zh/net/aspose.gis.rendering.colorizers/singlebandcolor/
 ---
 ## SingleBandColor class
 
-单波段颜色化器为栅格指定灰度分量。
+单波段着色器为栅格指定灰度分量。
 
 ```csharp
 public class SingleBandColor : RasterColorizer

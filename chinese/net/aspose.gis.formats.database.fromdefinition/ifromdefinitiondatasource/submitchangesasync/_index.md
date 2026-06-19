@@ -1,7 +1,7 @@
 ---
 title: "IFromDefinitionDataSource.SubmitChangesAsync"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IFromDefinitionDataSource 方法。允许保存上一次提取的图层中累积的更改"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IFromDefinitionDataSource 方法。允许保存上一次提取层中累积的更改"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/submitchangesasync/

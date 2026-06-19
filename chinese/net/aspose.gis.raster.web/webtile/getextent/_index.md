@@ -1,6 +1,6 @@
 ---
 title: "WebTile.GetExtent"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "WebTile 方法。呈现此图层的空间范围"
 type: docs
 weight: 50

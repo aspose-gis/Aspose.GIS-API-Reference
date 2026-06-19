@@ -1,14 +1,14 @@
 ---
 title: "类 Projection"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.SpatialReferencing.Projection 类。表示一种使用参数将经度纬度转换为 x y 的投影方法。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.SpatialReferencing.Projection 类。表示一种带参数的投影方法，可将经度纬度转换为 x y。"
 type: docs
 weight: 4690
 url: /zh/net/aspose.gis.spatialreferencing/projection/
 ---
 ## Projection class
 
-表示一种带参数的投影方法，将 (经度, 纬度) 转换为 (x, y)。
+表示一种带有参数的投影方法，将 (经度, 纬度) 转换为 (x, y)。
 
 ```csharp
 public class Projection : IdentifiableObject
@@ -29,10 +29,10 @@ public class Projection : IdentifiableObject
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue/)(string, ParameterType) | 获取此投影中具有指定名称的参数。 |
+| [GetParameterValue](../../aspose.gis.spatialreferencing/projection/getparametervalue/)(string, ParameterType) | 获取此投影中指定名称的参数。 |
 | [IsEquivalent](../../aspose.gis.spatialreferencing/projection/isequivalent/)(Projection) | 确定两个投影是否等价。等价的投影以相同方式将 (longitude, latitude) 映射到 (x, y)。 |
 | override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | 返回表示当前对象的字符串。 |
-| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue/)(string, ParameterType) | 获取此投影中具有指定名称的参数。如果不存在此类参数，则返回 `null`。 |
+| [TryGetParameterValue](../../aspose.gis.spatialreferencing/projection/trygetparametervalue/)(string, ParameterType) | 获取此投影中指定名称的参数。如果不存在此类参数，则返回 `null`。 |
 
 ### 另见
 

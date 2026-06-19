@@ -1,7 +1,7 @@
 ---
 title: "枚举 CapStyle"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.CapStyle 枚举。指定线段在端点的渲染方式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.CapStyle 枚举。指定线条在端点的渲染方式"
 type: docs
 weight: 3940
 url: /zh/net/aspose.gis.rendering/capstyle/

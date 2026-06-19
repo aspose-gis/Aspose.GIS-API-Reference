@@ -1,7 +1,7 @@
 ---
 title: "Coordinate.MaxValue"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Coordinate 属性。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Coordinate property."
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.common/coordinate/maxvalue/

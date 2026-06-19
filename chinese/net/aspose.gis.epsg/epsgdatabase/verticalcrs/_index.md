@@ -1,6 +1,6 @@
 ---
-title: "EpsgDatabase.VerticalCrs"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "EpsgDatabase.垂直坐标参考系"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "EpsgDatabase 字段。"
 type: docs
 weight: 130

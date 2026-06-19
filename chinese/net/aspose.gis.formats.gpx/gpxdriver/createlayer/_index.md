@@ -1,7 +1,7 @@
 ---
 title: "GpxDriver.CreateLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GpxDriver 方法。创建一个图层并打开以添加新要素"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GpxDriver 方法。创建一个图层并打开以添加新要素。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.gpx/gpxdriver/createlayer/
@@ -16,7 +16,7 @@ public VectorLayer CreateLayer(string path, GpxOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | GpxOptions | 驱动程序特定的选项。 |
 
 ### 返回值

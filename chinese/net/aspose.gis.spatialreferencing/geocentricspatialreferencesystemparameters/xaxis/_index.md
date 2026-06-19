@@ -1,7 +1,7 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.XAxis"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeocentricSpatialReferenceSystemParameters 属性。描述指向本初子午线的 X 维度轴的地心 SRS 轴"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeocentricSpatialReferenceSystemParameters 属性。地心 SRS 的轴，描述指向本初子午线的 X 维度轴"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/xaxis/
@@ -18,7 +18,7 @@ public Axis XAxis { get; set; }
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 轴方向不是 Other。 |
+| ArgumentException | 轴向不是 Other。 |
 
 ### 另见
 

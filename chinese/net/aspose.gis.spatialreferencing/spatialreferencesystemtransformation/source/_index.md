@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystemTransformation.Source"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystemTransformation 属性。源空间参考系统"
 type: docs
 weight: 20

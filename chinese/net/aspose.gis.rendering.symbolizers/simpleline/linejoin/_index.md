@@ -1,6 +1,6 @@
 ---
 title: "SimpleLine.LineJoin"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLine 属性。确定线段交叉处的渲染方式"
 type: docs
 weight: 70

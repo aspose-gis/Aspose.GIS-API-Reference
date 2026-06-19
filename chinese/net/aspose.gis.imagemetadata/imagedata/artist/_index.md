@@ -1,7 +1,7 @@
 ---
 title: "ImageData.Artist"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageData 属性。EXIF 标记 Artist"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageData 属性。EXIF 标签 Artist"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.imagemetadata/imagedata/artist/

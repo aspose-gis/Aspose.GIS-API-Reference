@@ -1,14 +1,14 @@
 ---
 title: "SpatialReferenceSystem.AsVertical"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 属性。返回此 SRS 转换为 VerticalSpatialReferenceSystem。使用 Type 以确定是否可以进行转换"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 属性。返回此 SRS 转换为 VerticalSpatialReferenceSystem。使用 Type 检查是否可以进行转换"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/asvertical/
 ---
 ## SpatialReferenceSystem.AsVertical property
 
-返回此 SRS 转换为 [`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem/)。使用 [`Type`](../type/) 以确定是否可以进行转换。
+返回此 SRS 转换为 [`VerticalSpatialReferenceSystem`](../../verticalspatialreferencesystem/)。使用 [`Type`](../type/) 检查是否可以进行转换。
 
 ```csharp
 public virtual VerticalSpatialReferenceSystem AsVertical { get; }

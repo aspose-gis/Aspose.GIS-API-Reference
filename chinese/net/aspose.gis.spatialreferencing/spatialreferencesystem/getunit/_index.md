@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.GetUnit"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 方法。获取维度的单位。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 方法。获取维度的单位"
 type: docs
 weight: 210
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/getunit/

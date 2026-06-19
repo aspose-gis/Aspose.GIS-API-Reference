@@ -1,7 +1,7 @@
 ---
 title: "Dataset.Dispose"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Dataset 方法。 释放 Dataset 使用的资源"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Dataset 方法。释放 Dataset 使用的资源"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/dataset/dispose/

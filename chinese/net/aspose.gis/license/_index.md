@@ -1,7 +1,7 @@
 ---
-title: "License 类"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.License 类。提供对组件进行授权的方法。"
+title: "类 License"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.License 类。提供对组件授权的方法"
 type: docs
 weight: 3410
 url: /zh/net/aspose.gis/license/
@@ -29,7 +29,7 @@ public class License
 
 ## 示例
 
-在此示例中，将尝试在以下位置查找名为 MyLicense.lic 的许可证文件：包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹，随后在调用程序集的嵌入资源中。
+在此示例中，将尝试在包含组件的文件夹、包含调用程序集的文件夹、入口程序集的文件夹以及调用程序集的嵌入资源中查找名为 MyLicense.lic 的许可证文件。
 
 ```csharp
 [C#]

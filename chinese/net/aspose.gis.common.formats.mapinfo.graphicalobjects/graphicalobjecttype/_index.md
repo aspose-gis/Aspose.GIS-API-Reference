@@ -1,6 +1,6 @@
 ---
 title: "枚举 GraphicalObjectType"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType 枚举。"
 type: docs
 weight: 600

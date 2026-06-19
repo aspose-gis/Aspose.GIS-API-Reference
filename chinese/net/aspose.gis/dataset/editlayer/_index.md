@@ -1,7 +1,7 @@
 ---
 title: "Dataset.EditLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Dataset 方法。 打开具有指定名称的图层以进行编辑"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Dataset 方法。打开具有指定名称的图层以进行编辑"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/dataset/editlayer/
@@ -17,7 +17,7 @@ public abstract VectorLayer EditLayer(string name, DriverOptions options = null,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 要编辑的图层名称。 |
+| 名称 | 字符串 | 要编辑的图层名称。 |
 | options | DriverOptions | 打开选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 新几何体的空间参考系统。 |
 
@@ -29,11 +29,11 @@ public abstract VectorLayer EditLayer(string name, DriverOptions options = null,
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 具有指定名称的图层不存在；Options 对象的类型对该数据集不正确。 |
-| ArgumentException | Options 对象的类型对该数据集不正确。 |
+| ArgumentException | 具有指定名称的图层不存在；Options 对象对该 Dataset 的类型不正确。 |
+| ArgumentException | Options 对象对该 Dataset 的类型不正确。 |
 | ArgumentNullException | 名称为 `null`。 |
-| [GisException](../../gisexception/) | 读取图层中的要素时出错。 |
-| IOException | 发生 I/O 错误。 |
+| [GisException](../../gisexception/) | 读取图层要素时出错。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 

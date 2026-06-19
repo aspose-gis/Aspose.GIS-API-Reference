@@ -1,6 +1,6 @@
 ---
 title: "类 LabelPlacement"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Labelings.LabelPlacement 类。标签放置指定标签相对于要素几何的放置方式"
 type: docs
 weight: 4060

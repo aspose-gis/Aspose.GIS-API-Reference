@@ -1,14 +1,14 @@
 ---
 title: "GpxDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GpxDriver 方法。打开一个图层以进行读取"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GpxDriver 方法。打开图层以进行读取。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.gpx/gpxdriver/openlayer/
 ---
 ## OpenLayer(string, GpxOptions) {#openlayer_5}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public VectorLayer OpenLayer(string path, GpxOptions options)
@@ -16,7 +16,7 @@ public VectorLayer OpenLayer(string path, GpxOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | GpxOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -35,7 +35,7 @@ public VectorLayer OpenLayer(string path, GpxOptions options)
 
 ## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
@@ -63,7 +63,7 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ## OpenLayer(AbstractPath, GpxOptions) {#openlayer_2}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public VectorLayer OpenLayer(AbstractPath path, GpxOptions options)

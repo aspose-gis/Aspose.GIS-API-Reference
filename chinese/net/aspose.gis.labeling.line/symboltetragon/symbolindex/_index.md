@@ -1,7 +1,7 @@
 ---
 title: "SymbolTetragon.SymbolIndex"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SymbolTetragon 属性."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SymbolTetragon 属性。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.labeling.line/symboltetragon/symbolindex/

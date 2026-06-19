@@ -1,6 +1,6 @@
 ---
 title: "MapInfoInterchangeOptions.TextStringAttribute"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapInfoInterchangeOptions 属性。指定表示 Text 图形对象文本的属性名称"
 type: docs
 weight: 20

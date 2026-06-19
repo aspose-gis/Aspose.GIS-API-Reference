@@ -1,7 +1,7 @@
 ---
 title: "DriverOptions.DeleteNearPoints"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "DriverOptions 属性。确定是否删除每个几何中的近点。默认值为 false"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "DriverOptions 属性。确定是否在每个几何中删除相近点。默认值为 false"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis/driveroptions/deletenearpoints/

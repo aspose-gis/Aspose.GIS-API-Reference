@@ -1,7 +1,7 @@
 ---
 title: "Map.GetEnumerator"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Map 方法。返回一个枚举器，用于遍历地图中的图层"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Map 方法。返回一个遍历地图中图层的枚举器"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.rendering/map/getenumerator/

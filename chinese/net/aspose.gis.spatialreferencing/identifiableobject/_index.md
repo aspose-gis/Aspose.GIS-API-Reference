@@ -1,6 +1,6 @@
 ---
 title: "类 IdentifiableObject"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.IdentifiableObject 类。表示可能具有 EPSG 代码和名称的对象"
 type: docs
 weight: 4600

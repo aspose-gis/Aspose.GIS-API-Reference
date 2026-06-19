@@ -1,7 +1,7 @@
 ---
 title: "CharsetResolver.GetEncoding"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CharsetResolver 方法."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CharsetResolver 方法。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.common/charsetresolver/getencoding/

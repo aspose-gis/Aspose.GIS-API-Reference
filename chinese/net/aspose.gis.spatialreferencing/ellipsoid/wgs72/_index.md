@@ -1,6 +1,6 @@
 ---
 title: "Ellipsoid.Wgs72"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Ellipsoid 属性。WGS 72 椭球体"
 type: docs
 weight: 40

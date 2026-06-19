@@ -1,14 +1,14 @@
 ---
 title: "MapLayerOptions.Symbolyzer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MapLayerOptions 属性。矢量符号化工具"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MapLayerOptions 属性。矢量符号化器"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.geotools.layersmap/maplayeroptions/symbolyzer/
 ---
 ## MapLayerOptions.Symbolyzer property
 
-矢量符号化器。
+矢量 symbolyzer。
 
 ```csharp
 public VectorSymbolizer Symbolyzer { get; set; }

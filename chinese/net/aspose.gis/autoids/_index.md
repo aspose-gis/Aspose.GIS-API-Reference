@@ -1,6 +1,6 @@
 ---
 title: "枚举 AutoIds"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.AutoIds 枚举。自动生成 ID"
 type: docs
 weight: 40

@@ -1,7 +1,7 @@
 ---
 title: "GdbBinaryWriterExtensions.WriteVarUInt"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GdbBinaryWriterExtensions 方法。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GdbBinaryWriterExtensions 方法."
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.common.formats.gdbtable/gdbbinarywriterextensions/writevaruint/

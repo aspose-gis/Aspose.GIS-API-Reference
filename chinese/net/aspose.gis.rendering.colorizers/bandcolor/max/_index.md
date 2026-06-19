@@ -1,6 +1,6 @@
 ---
 title: "BandColor.Max"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BandColor 属性。指定最大值"
 type: docs
 weight: 30

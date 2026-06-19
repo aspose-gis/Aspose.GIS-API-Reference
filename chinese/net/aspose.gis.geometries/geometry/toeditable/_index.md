@@ -1,7 +1,7 @@
 ---
 title: "Geometry.ToEditable"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 方法。获取此几何体的可编辑副本。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Geometry 方法。获取此几何体的可编辑副本"
 type: docs
 weight: 390
 url: /zh/net/aspose.gis.geometries/geometry/toeditable/

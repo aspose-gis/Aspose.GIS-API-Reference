@@ -1,6 +1,6 @@
 ---
 title: "CsvOptions.HasAttributeNames"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CsvOptions 属性。确定是否存在包含属性名称的标题行。默认值为 true"
 type: docs
 weight: 90

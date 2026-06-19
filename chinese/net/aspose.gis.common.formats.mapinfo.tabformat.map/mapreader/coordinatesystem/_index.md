@@ -1,6 +1,6 @@
 ---
-title: "MapReader.CoordinateSystem"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MapReader.坐标系统"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapReader 属性。"
 type: docs
 weight: 30

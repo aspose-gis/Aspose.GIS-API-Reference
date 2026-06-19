@@ -1,7 +1,7 @@
 ---
-title: "Class BmpRenderer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.Formats.Bmp.BmpRenderer 类。将 Map 渲染为 BMP 文件的渲染器"
+title: "类 BmpRenderer"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.Formats.Bmp.BmpRenderer 类。将 Map 渲染为 BMP 文件的 Renderer。"
 type: docs
 weight: 4010
 url: /zh/net/aspose.gis.rendering.formats.bmp/bmprenderer/

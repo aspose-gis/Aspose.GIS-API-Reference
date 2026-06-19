@@ -1,6 +1,6 @@
 ---
 title: "CurvePolygon.HasCurveGeometry"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CurvePolygon 属性。获取一个值，指示此几何是否为曲线或包含非线性几何"
 type: docs
 weight: 40
@@ -16,7 +16,7 @@ public override bool HasCurveGeometry { get; }
 
 ### Property Value
 
-`false` 如果此几何体及其包含的所有几何体都是线性的；否则，`true`。
+`false` 如果此几何体及其包含的所有几何体都是线性的；否则为 `true`。
 
 ### 另见
 

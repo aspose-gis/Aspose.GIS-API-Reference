@@ -1,7 +1,7 @@
 ---
 title: "Class TopoJsonTransform"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.TopoJson.TopoJsonTransform 类。一个可用于在写入 TopoJSON 文件时量化坐标的转换对象。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.TopoJson.TopoJsonTransform 类。一个在写入 TopoJSON 文件时可用于量化坐标的转换对象"
 type: docs
 weight: 2380
 url: /zh/net/aspose.gis.formats.topojson/topojsontransform/
@@ -24,10 +24,10 @@ public class TopoJsonTransform
 
 | 名称 | 描述 |
 | --- | --- |
-| [XScale](../../aspose.gis.formats.topojson/topojsontransform/xscale/) { get; set; } | 对 X 坐标应用的缩放。 |
-| [XTranslate](../../aspose.gis.formats.topojson/topojsontransform/xtranslate/) { get; set; } | 对 X 坐标应用的平移。 |
-| [YScale](../../aspose.gis.formats.topojson/topojsontransform/yscale/) { get; set; } | 对 Y 坐标应用的缩放。 |
-| [YTranslate](../../aspose.gis.formats.topojson/topojsontransform/ytranslate/) { get; set; } | 对 Y 坐标应用的平移。 |
+| [XScale](../../aspose.gis.formats.topojson/topojsontransform/xscale/) { get; set; } | 对 X 坐标的缩放。 |
+| [XTranslate](../../aspose.gis.formats.topojson/topojsontransform/xtranslate/) { get; set; } | 对 X 坐标的平移。 |
+| [YScale](../../aspose.gis.formats.topojson/topojsontransform/yscale/) { get; set; } | 对 Y 坐标的缩放。 |
+| [YTranslate](../../aspose.gis.formats.topojson/topojsontransform/ytranslate/) { get; set; } | 对 Y 坐标的平移。 |
 
 ## 备注
 

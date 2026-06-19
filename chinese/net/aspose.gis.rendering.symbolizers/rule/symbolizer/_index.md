@@ -1,7 +1,7 @@
 ---
 title: "Rule.Symbolizer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Rule 属性。要应用于要素的符号化器"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Rule 属性。要应用于特征的符号化器"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.symbolizers/rule/symbolizer/

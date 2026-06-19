@@ -1,7 +1,7 @@
 ---
 title: "枚举 GdbTableShapeType"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.GdbTable.GdbTableShapeType 枚举。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.GdbTable.GdbTableShapeType 枚举."
 type: docs
 weight: 500
 url: /zh/net/aspose.gis.common.formats.gdbtable/gdbtableshapetype/

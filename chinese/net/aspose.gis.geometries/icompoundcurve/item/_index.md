@@ -1,6 +1,6 @@
 ---
 title: "ICompoundCurve.Item"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ICompoundCurve 属性。获取指定索引处的 ICurve"
 type: docs
 weight: 20
@@ -16,7 +16,7 @@ public ICurve this[int index] { get; }
 
 | 参数 | 描述 |
 | --- | --- |
-| 索引 | 该索引。 |
+| 索引 | 索引。 |
 
 ### Property Value
 

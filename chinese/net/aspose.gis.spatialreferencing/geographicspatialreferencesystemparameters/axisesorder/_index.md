@@ -1,7 +1,7 @@
 ---
 title: "GeographicSpatialReferenceSystemParameters.AxisesOrder"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeographicSpatialReferenceSystemParameters 属性。轴的顺序。默认是 LongitudeLatitude。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeographicSpatialReferenceSystemParameters 属性。轴的顺序。默认值为 LongitudeLatitude。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/axisesorder/

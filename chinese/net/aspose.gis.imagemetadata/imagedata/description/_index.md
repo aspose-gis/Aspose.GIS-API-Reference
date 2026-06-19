@@ -1,7 +1,7 @@
 ---
 title: "ImageData.Description"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageData 属性。EXIF 标记 ImageDescription"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageData 属性。EXIF 标签 ImageDescription"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.imagemetadata/imagedata/description/

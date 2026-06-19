@@ -1,6 +1,6 @@
 ---
 title: "GeographicSpatialReferenceSystem.AngularUnit"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeographicSpatialReferenceSystem 属性。此 SRS 中用于角度维度的单位"
 type: docs
 weight: 10

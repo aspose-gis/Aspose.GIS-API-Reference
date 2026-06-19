@@ -1,6 +1,6 @@
 ---
-title: "GeocentricCrsEntry.Name"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "GeocentricCrsEntry.名称"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeocentricCrsEntry 属性。"
 type: docs
 weight: 40

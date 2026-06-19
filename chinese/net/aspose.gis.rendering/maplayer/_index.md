@@ -1,6 +1,6 @@
 ---
 title: "类 MapLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.MapLayer 类。MapLayer 是 Map 中图层的基类"
 type: docs
 weight: 4180

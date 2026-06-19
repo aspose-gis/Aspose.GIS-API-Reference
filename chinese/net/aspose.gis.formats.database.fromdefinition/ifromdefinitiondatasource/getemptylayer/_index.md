@@ -1,7 +1,7 @@
 ---
 title: "IFromDefinitionDataSource.GetEmptyLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IFromDefinitionDataSource 方法。允许创建空图层。当仅向数据库添加新记录时，这可能很有用。但随后该图层可用于编辑新添加的记录。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IFromDefinitionDataSource 方法。允许创建空层。当仅向数据库添加新记录时，这可能很有用。但随后该层可用于编辑新添加的记录。"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/getemptylayer/

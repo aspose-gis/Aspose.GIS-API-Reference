@@ -1,6 +1,6 @@
 ---
 title: "LayeredSymbolizer.Add"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LayeredSymbolizer 方法。添加指定的符号化器"
 type: docs
 weight: 50

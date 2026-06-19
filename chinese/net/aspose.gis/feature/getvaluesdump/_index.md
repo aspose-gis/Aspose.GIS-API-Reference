@@ -1,6 +1,6 @@
 ---
 title: "Feature.GetValuesDump"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Feature 方法。返回所有属性的值，以数组形式。考虑使用 GetValues 方法以避免额外的内存分配"
 type: docs
 weight: 60
@@ -27,7 +27,7 @@ public object[] GetValuesDump(object defaultValue = null)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| InvalidOperationException | 属性未被锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 
 ## 备注
 

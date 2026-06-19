@@ -1,14 +1,14 @@
 ---
 title: "接口 IMultiCurve"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Geometries.IMultiCurve 接口。MultiCurve 是一个一维 GeometryCollection，其元素是 Curve。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Geometries.IMultiCurve 接口。MultiCurve 是一个一维的 GeometryCollection，其元素为 Curve"
 type: docs
 weight: 2820
 url: /zh/net/aspose.gis.geometries/imulticurve/
 ---
 ## IMultiCurve interface
 
-一个 [`MultiCurve`](../multicurve/) 是一维的 [`GeometryCollection`](../geometrycollection/)，其元素是 [`Curve`](../curve/)。
+一个 [`MultiCurve`](../multicurve/) 是一个一维的 [`GeometryCollection`](../geometrycollection/)，其元素为 [`Curve`](../curve/)。
 
 ```csharp
 public interface IMultiCurve : IGeometryCollection

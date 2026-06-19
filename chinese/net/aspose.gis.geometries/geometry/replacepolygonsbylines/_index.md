@@ -1,6 +1,6 @@
 ---
 title: "Geometry.ReplacePolygonsByLines"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 方法。获取此几何体以线表示的多边形"
 type: docs
 weight: 310
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/geometry/replacepolygonsbylines/
 ---
 ## Geometry.ReplacePolygonsByLines method
 
-获取此几何体中表示为线的多边形。
+获取此几何体以线表示的多边形。
 
 ```csharp
 public IGeometry ReplacePolygonsByLines()

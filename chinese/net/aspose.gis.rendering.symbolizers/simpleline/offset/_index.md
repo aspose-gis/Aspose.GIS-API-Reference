@@ -1,6 +1,6 @@
 ---
 title: "SimpleLine.Offset"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLine 属性。指定相对于原始线的偏移量。对于正距离，偏移将在输入线相对于线方向的左侧。对于负距离，则在右侧。"
 type: docs
 weight: 80

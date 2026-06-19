@@ -1,6 +1,6 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.AxisesOrder"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ProjectedSpatialReferenceSystemParameters 属性。轴的顺序。默认是 XY。"
 type: docs
 weight: 20

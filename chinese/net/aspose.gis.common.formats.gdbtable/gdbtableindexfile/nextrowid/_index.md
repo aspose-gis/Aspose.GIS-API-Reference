@@ -1,7 +1,7 @@
 ---
 title: "GdbTableIndexFile.NextRowId"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GdbTableIndexFile 属性。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GdbTableIndexFile 属性."
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/nextrowid/

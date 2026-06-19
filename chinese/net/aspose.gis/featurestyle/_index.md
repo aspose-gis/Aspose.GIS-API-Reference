@@ -1,6 +1,6 @@
 ---
 title: "类 FeatureStyle"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.FeatureStyle 类。特征样式层次结构的抽象根类"
 type: docs
 weight: 1650

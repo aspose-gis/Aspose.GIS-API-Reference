@@ -1,6 +1,6 @@
 ---
 title: "枚举 LineLabelAlignment"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Labelings.LineLabelAlignment 枚举。指定标签相对于线的对齐方式"
 type: docs
 weight: 4090

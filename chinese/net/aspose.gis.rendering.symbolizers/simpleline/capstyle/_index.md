@@ -1,6 +1,6 @@
 ---
 title: "SimpleLine.CapStyle"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLine 属性。指定线条在端点的渲染方式"
 type: docs
 weight: 20

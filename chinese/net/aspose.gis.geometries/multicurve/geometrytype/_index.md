@@ -1,7 +1,7 @@
 ---
 title: "MultiCurve.GeometryType"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MultiCurve 属性。获取几何体的类型"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MultiCurve 属性。获取几何的类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/multicurve/geometrytype/

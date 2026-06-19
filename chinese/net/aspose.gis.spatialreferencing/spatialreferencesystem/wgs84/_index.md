@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.Wgs84"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem property. WGS 84 EPSG4326 空间参考系统"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 属性。WGS 84 EPSG4326 空间参考系统"
 type: docs
 weight: 330
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/wgs84/

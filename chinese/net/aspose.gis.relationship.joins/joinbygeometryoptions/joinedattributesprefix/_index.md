@@ -1,6 +1,6 @@
 ---
 title: "JoinByGeometryOptions.JoinedAttributesPrefix"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "JoinByGeometryOptions 属性。指定用于已连接属性名称的前缀字符串。默认是 joined_"
 type: docs
 weight: 30
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.relationship.joins/joinbygeometryoptions/joinedattribute
 ---
 ## JoinByGeometryOptions.JoinedAttributesPrefix property
 
-指定已连接属性名称的前缀字符串。默认是 "joined_"。
+指定已连接属性名称的前缀字符串。默认是"joined_"。
 
 ```csharp
 public string JoinedAttributesPrefix { get; set; }

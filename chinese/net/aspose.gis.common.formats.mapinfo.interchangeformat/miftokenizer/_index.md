@@ -1,7 +1,7 @@
 ---
 title: "类 MifTokenizer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifTokenizer 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifTokenizer 类."
 type: docs
 weight: 780
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokenizer/

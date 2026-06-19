@@ -1,6 +1,6 @@
 ---
 title: "接口 ILineString"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Geometries.ILineString 接口。一个在点之间进行线性插值的多顶点曲线"
 type: docs
 weight: 2800
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/ilinestring/
 ---
 ## ILineString interface
 
-一个多顶点曲线，在点之间进行线性插值。
+一个在点之间进行线性插值的多顶点曲线。
 
 ```csharp
 public interface ILineString : ICurve, IEquatable<ILineString>, IReadOnlyList<IPoint>

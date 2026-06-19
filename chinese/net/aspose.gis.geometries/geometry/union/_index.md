@@ -1,7 +1,7 @@
 ---
 title: "Geometry.Union"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 方法。将此几何与指定几何合并"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "几何方法。将此几何与指定的几何合并"
 type: docs
 weight: 440
 url: /zh/net/aspose.gis.geometries/geometry/union/
@@ -28,7 +28,7 @@ public IGeometry Union(IGeometry other)
 | --- | --- |
 | ArgumentNullException | *other* 为 `null`。 |
 | ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 的几何体空间参考系统不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
 ### 另见
 

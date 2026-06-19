@@ -1,6 +1,6 @@
 ---
 title: "RasterRect.Y"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterRect 属性。获取起始行的 y 坐标"
 type: docs
 weight: 50

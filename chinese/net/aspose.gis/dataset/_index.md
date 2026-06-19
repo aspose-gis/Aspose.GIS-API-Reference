@@ -1,6 +1,6 @@
 ---
 title: "类 Dataset"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Dataset 类。数据集是 VectorLayer 实例的集合"
 type: docs
 weight: 1430
@@ -45,7 +45,7 @@ public abstract class Dataset : IDisposable
 | abstract [EditLayer](../../aspose.gis/dataset/editlayer/)(string, DriverOptions, SpatialReferenceSystem) | 以编辑模式打开具有指定名称的图层。 |
 | abstract [EditLayerAt](../../aspose.gis/dataset/editlayerat/)(int, DriverOptions, SpatialReferenceSystem) | 以编辑模式打开具有指定名称的图层。 |
 | abstract [GetLayerName](../../aspose.gis/dataset/getlayername/)(int) | 获取指定索引处图层的名称。 |
-| virtual [HasLayerWithName](../../aspose.gis/dataset/haslayerwithname/)(string) | 检查当前数据集是否具有具有特定名称的图层 |
+| virtual [HasLayerWithName](../../aspose.gis/dataset/haslayerwithname/)(string) | 检查当前数据集是否拥有具有特定名称的图层 |
 | abstract [OpenLayer](../../aspose.gis/dataset/openlayer/)(string, DriverOptions) | 以读取模式打开具有指定名称的图层。 |
 | abstract [OpenLayerAt](../../aspose.gis/dataset/openlayerat/)(int, DriverOptions) | 以读取模式打开指定索引处的图层。 |
 | virtual [RemoveLayer](../../aspose.gis/dataset/removelayer/)(string) | 删除具有指定名称的矢量图层。 |

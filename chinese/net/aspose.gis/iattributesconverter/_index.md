@@ -1,6 +1,6 @@
 ---
 title: "接口 IAttributesConverter"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.IAttributesConverter 接口。用于图层属性的自定义转换器"
 type: docs
 weight: 3030
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis/iattributesconverter/
 ---
 ## IAttributesConverter interface
 
-用于图层属性的自定义转换器。
+图层属性的自定义转换器。
 
 ```csharp
 public interface IAttributesConverter

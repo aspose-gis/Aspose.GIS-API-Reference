@@ -1,6 +1,6 @@
 ---
 title: "类 PointGeneratorOptions"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.PointGeneratorOptions 类。用于在表面或区域上生成点的选项。"
 type: docs
 weight: 2600
@@ -25,14 +25,14 @@ public class PointGeneratorOptions
 | 名称 | 描述 |
 | --- | --- |
 | [Count](../../aspose.gis.geotools/pointgeneratoroptions/count/) { get; set; } | 要创建的点数量。 |
-| [Place](../../aspose.gis.geotools/pointgeneratoroptions/place/) { get; set; } | 生成单元格的放置模式。 |
+| [Place](../../aspose.gis.geotools/pointgeneratoroptions/place/) { get; set; } | 生成单元格中的放置模式。 |
 | [Seed](../../aspose.gis.geotools/pointgeneratoroptions/seed/) { get; set; } | 用于计算伪随机数序列种子值的数字。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools/pointgeneratoroptions/clone/)() | 将对象克隆到另一个对象。 |
+| [Clone](../../aspose.gis.geotools/pointgeneratoroptions/clone/)() | 将对象克隆为另一个对象。 |
 | override [ToString](../../aspose.gis.geotools/pointgeneratoroptions/tostring/)() | 返回表示当前对象的字符串。 |
 
 ### 另见

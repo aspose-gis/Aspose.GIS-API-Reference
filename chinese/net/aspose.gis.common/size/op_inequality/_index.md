@@ -1,6 +1,6 @@
 ---
 title: "Size.op_Inequality"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Size 方法。"
 type: docs
 weight: 90

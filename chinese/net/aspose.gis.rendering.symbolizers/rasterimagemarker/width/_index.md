@@ -1,7 +1,7 @@
 ---
 title: "RasterImageMarker.Width"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterImageMarker 属性。指定标记的宽度"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterImageMarker 属性。指定标记的宽度。"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/width/

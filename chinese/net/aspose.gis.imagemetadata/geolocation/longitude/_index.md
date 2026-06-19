@@ -1,6 +1,6 @@
 ---
 title: "GeoLocation.Longitude"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoLocation 属性。GeoLocation 的经度"
 type: docs
 weight: 20

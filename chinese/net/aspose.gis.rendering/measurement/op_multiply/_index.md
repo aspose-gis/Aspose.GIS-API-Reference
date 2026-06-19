@@ -1,6 +1,6 @@
 ---
 title: "Measurement.op_Multiply"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Measurement 方法。将测量值乘以因子"
 type: docs
 weight: 140
@@ -16,8 +16,8 @@ public static Measurement operator *(Measurement measurement, double factor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 测量 | 测量 | 要相乘的测量。 |
-| 因子 | Double | 用于除法的因子。 |
+| measurement | 测量 | 要相乘的测量。 |
+| factor | Double | 用于除法的因子。 |
 
 ### 返回值
 

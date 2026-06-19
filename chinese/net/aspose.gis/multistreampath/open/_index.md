@@ -1,14 +1,14 @@
 ---
 title: "MultiStreamPath.Open"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MultiStreamPath 方法。抽象一组用于访问数据的打开流式多文件格式的路径。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MultiStreamPath 方法。抽象一组用于访问数据的打开流式多文件格式的路径"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/multistreampath/open/
 ---
 ## MultiStreamPath.Open method
 
-抽象出一组用于访问数据的打开流式多文件格式的路径。
+抽象出一组打开的流式多文件格式的路径，用于访问数据。
 
 ```csharp
 public override Stream Open(FileAccess access)

@@ -1,6 +1,6 @@
 ---
 title: "Extent.Equals"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Extent 方法。指示当前对象是否等于同类型的另一个对象"
 type: docs
 weight: 130
@@ -32,7 +32,7 @@ public bool Equals(Extent other)
 
 ## Equals(object) {#equals_1}
 
-确定指定对象是否等于当前对象。
+确定指定的对象是否等于当前对象。
 
 ```csharp
 public override bool Equals(object obj)

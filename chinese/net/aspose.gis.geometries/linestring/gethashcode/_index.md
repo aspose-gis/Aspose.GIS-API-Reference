@@ -1,14 +1,14 @@
 ---
 title: "LineString.GetHashCode"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "LineString 方法。用作默认的哈希函数"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "LineString 方法。作为默认的哈希函数"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.geometries/linestring/gethashcode/
 ---
 ## LineString.GetHashCode method
 
-作为默认的哈希函数。
+用作默认的哈希函数。
 
 ```csharp
 public override int GetHashCode()

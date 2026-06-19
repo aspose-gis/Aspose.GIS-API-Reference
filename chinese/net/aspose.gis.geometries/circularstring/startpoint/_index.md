@@ -1,6 +1,6 @@
 ---
 title: "CircularString.StartPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CircularString 属性。返回曲线起点的副本"
 type: docs
 weight: 110

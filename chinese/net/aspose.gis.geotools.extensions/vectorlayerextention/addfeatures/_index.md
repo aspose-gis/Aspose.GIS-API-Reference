@@ -1,6 +1,6 @@
 ---
 title: "VectorLayerExtention.AddFeatures"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorLayerExtention 方法。使用通用列表添加要素"
 type: docs
 weight: 10
@@ -41,7 +41,7 @@ public static void AddFeatures(this VectorLayer layer, IEnumerable<IGeometry> ge
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | 图层 | VectorLayer | 要添加的图层。 |
-| geometries | IEnumerable`1 | 输入几何体。 |
+| 几何体 | IEnumerable`1 | 输入几何体。 |
 
 ### 另见
 

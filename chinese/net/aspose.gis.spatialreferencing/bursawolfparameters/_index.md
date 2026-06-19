@@ -1,6 +1,6 @@
 ---
 title: "类 BursaWolfParameters"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.BursaWolfParameters 类。包含用于转换到其他基准的 BursaWolf 公式参数的类"
 type: docs
 weight: 4500
@@ -33,15 +33,15 @@ public class BursaWolfParameters : IEquatable<BursaWolfParameters>
 | [Rx](../../aspose.gis.spatialreferencing/bursawolfparameters/rx/) { get; } | Rx（秒）。 |
 | [Ry](../../aspose.gis.spatialreferencing/bursawolfparameters/ry/) { get; } | Ry（秒）。 |
 | [Rz](../../aspose.gis.spatialreferencing/bursawolfparameters/rz/) { get; } | Rz（秒）。 |
-| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale/) { get; } | 比例以每百万为单位。 |
+| [Scale](../../aspose.gis.spatialreferencing/bursawolfparameters/scale/) { get; } | 比例以每百万计。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
 | [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals)(BursaWolfParameters) | 指示当前对象是否等于同类型的另一个对象。 |
-| override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals_1)(object) | 确定指定对象是否等于当前对象。 |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | 作为默认的哈希函数。 |
+| override [Equals](../../aspose.gis.spatialreferencing/bursawolfparameters/equals/#equals_1)(object) | 确定指定的对象是否等于当前对象。 |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/bursawolfparameters/gethashcode/)() | 用作默认的哈希函数。 |
 | [operator ==](../../aspose.gis.spatialreferencing/bursawolfparameters/op_equality/) | 实现运算符 ==。 |
 | [operator !=](../../aspose.gis.spatialreferencing/bursawolfparameters/op_inequality/) | 实现运算符 !=。 |
 

@@ -1,6 +1,6 @@
 ---
 title: "Feature.GetValuesList"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Feature 方法。获取属性序列的值，作为列表返回"
 type: docs
 weight: 70
@@ -31,8 +31,8 @@ public List<T> GetValuesList<T>(string attributeName, string separator, int coun
 | --- | --- |
 | ArgumentNullException | 属性名称为 `null`。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未被锁定。 |
-| InvalidOperationException | 此要素未设置该属性的值。 |
+| InvalidOperationException | 该属性未锁定。 |
+| InvalidOperationException | 此要素未设置此属性的值。 |
 | InvalidCastException | 请求的类型未实现 IConvertible。 |
 | InvalidCastException | 属性的值为 `null`，但请求的类型是值类型。 |
 | FormatException | 转换失败，因为值的格式不正确。 |
@@ -40,7 +40,7 @@ public List<T> GetValuesList<T>(string attributeName, string separator, int coun
 
 ## 备注
 
-此方法使用 [`GetValue`](../getvalue/) 获取单个值。因此，该方法会自动将值转换为泛型类型参数中请求的类型。如果未找到索引为 0 的属性，则会生成 ArgumentException。
+此使用 [`GetValue`](../getvalue/) 获取单个值。因此，该方法会自动将值转换为泛型类型参数中请求的类型。如果未找到索引为 0 的属性，则会生成 ArgumentException。
 
 ### 另见
 

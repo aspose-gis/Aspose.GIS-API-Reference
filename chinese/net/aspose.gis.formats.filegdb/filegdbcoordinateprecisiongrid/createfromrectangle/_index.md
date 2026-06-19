@@ -1,6 +1,6 @@
 ---
 title: "FileGdbCoordinatePrecisionGrid.CreateFromRectangle"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileGdbCoordinatePrecisionGrid 方法。创建新的 FileGdbCoordinatePrecisionGrid，使矩形内的所有值均可表示。"
 type: docs
 weight: 20
@@ -16,8 +16,8 @@ public static FileGdbCoordinatePrecisionGrid CreateFromRectangle(IPoint p1, IPoi
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| p1 | IPoint | 矩形的一个角点。 |
-| p2 | IPoint | 矩形的对角角点。必须与 *p1* 具有相同的尺寸。 |
+| p1 | IPoint | 矩形的一个角。 |
+| p2 | IPoint | 矩形的对角。必须与 *p1* 具有相同的尺寸。 |
 
 ### 返回值
 

@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.IsValid"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 属性。与 Validate 相同，但不返回错误信息。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 属性。与 Validate 相同，但不返回错误信息"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/isvalid/

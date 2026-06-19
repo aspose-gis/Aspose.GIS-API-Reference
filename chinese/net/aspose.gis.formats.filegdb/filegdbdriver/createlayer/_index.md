@@ -1,7 +1,7 @@
 ---
 title: "FileGdbDriver.CreateLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FileGdbDriver 方法。创建图层并打开以添加新要素"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FileGdbDriver 方法。创建一个图层并打开以添加新要素"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.filegdb/filegdbdriver/createlayer/
@@ -16,7 +16,7 @@ public VectorLayer CreateLayer(string path, FileGdbOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | FileGdbOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -50,7 +50,7 @@ public VectorLayer CreateLayer(string path, FileGdbOptions options,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | FileGdbOptions | 驱动程序特定的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 

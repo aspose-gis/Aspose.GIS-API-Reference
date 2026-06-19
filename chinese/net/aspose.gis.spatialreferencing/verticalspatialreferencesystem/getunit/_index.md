@@ -1,6 +1,6 @@
 ---
 title: "VerticalSpatialReferenceSystem.GetUnit"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VerticalSpatialReferenceSystem 方法。获取维度的单位"
 type: docs
 weight: 110

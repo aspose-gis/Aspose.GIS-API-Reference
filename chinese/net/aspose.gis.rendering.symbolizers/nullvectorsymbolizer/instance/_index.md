@@ -1,6 +1,6 @@
 ---
 title: "NullVectorSymbolizer.Instance"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "NullVectorSymbolizer 属性。获取 NullSymbolizer 的实例"
 type: docs
 weight: 10

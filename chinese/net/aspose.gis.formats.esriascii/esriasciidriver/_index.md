@@ -1,6 +1,6 @@
 ---
 title: "类 EsriAsciiDriver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.EsriAscii.EsriAsciiDriver 类。Esri ASCII Grid 的驱动程序"
 type: docs
 weight: 1800
@@ -26,9 +26,9 @@ public class EsriAsciiDriver : RasterDriver
 | --- | --- |
 | [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(AbstractPath) | 打开该图层进行读取。 |
 | [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string) | 打开该图层进行读取。 |
-| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_1)(AbstractPath, EsriAsciiOptions) | 打开图层进行读取。 |
+| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_1)(AbstractPath, EsriAsciiOptions) | 以读取模式打开图层。 |
 | override [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_2)(AbstractPath, RasterDriverOptions) | 打开该图层进行读取。 |
-| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_4)(string, EsriAsciiOptions) | 打开图层进行读取。 |
+| [OpenLayer](../../aspose.gis.formats.esriascii/esriasciidriver/openlayer/#openlayer_4)(string, EsriAsciiOptions) | 以读取模式打开图层。 |
 | [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string, RasterDriverOptions) | 打开该图层进行读取。 |
 
 ### 另见

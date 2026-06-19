@@ -1,6 +1,6 @@
 ---
 title: "类 OutputBuffer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.IO.OutputBuffer 类。"
 type: docs
 weight: 1270

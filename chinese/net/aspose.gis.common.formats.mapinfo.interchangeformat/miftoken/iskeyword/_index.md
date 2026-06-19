@@ -1,7 +1,7 @@
 ---
-title: "MifToken.是关键字"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MifToken 方法。"
+title: "MifToken.是否关键字"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MifToken 方法."
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken/iskeyword/

@@ -1,7 +1,7 @@
 ---
 title: "WarpOptions.DefaultSpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WarpOptions 属性。指定源空间参考的值（如果缺失）。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WarpOptions 属性。指定当缺少源空间参考时的值。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.raster/warpoptions/defaultspatialreferencesystem/

@@ -1,6 +1,6 @@
 ---
 title: "RasterRect.Width"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterRect 属性。获取宽度列数"
 type: docs
 weight: 30

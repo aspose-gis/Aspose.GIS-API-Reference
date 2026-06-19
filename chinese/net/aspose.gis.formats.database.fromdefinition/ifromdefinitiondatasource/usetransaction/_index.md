@@ -1,7 +1,7 @@
 ---
 title: "IFromDefinitionDataSource.UseTransaction"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IFromDefinitionDataSource 方法。不是必需的设置，以防需要在事务中执行一系列操作。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IFromDefinitionDataSource 方法。若需要在事务中执行一系列操作，则不是必需的设置。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/usetransaction/

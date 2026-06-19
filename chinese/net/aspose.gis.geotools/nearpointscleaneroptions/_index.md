@@ -1,7 +1,7 @@
 ---
 title: "类 NearPointsCleanerOptions"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.GeoTools.NearPointsCleanerOptions 类。用于删除彼此过于接近的点的选项"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.GeoTools.NearPointsCleanerOptions 类。用于删除彼此过于接近点的选项"
 type: docs
 weight: 2590
 url: /zh/net/aspose.gis.geotools/nearpointscleaneroptions/

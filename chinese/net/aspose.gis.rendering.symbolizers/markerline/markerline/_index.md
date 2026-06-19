@@ -1,6 +1,6 @@
 ---
 title: "MarkerLine.MarkerLine"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerLine 构造函数。初始化 MarkerLine 类的新实例"
 type: docs
 weight: 10
@@ -32,7 +32,7 @@ public MarkerLine(MarkerLine other)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | MarkerLine | 要从中复制数据的另一个 [`MarkerLine`](../)。 |
+| other | MarkerLine | 另一个用于复制数据的 [`MarkerLine`](../)。 |
 
 ### 异常
 

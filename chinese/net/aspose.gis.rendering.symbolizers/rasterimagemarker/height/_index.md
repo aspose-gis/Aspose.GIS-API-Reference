@@ -1,7 +1,7 @@
 ---
 title: "RasterImageMarker.Height"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterImageMarker 属性。指定标记的高度"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterImageMarker 属性。指定标记的高度。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/height/

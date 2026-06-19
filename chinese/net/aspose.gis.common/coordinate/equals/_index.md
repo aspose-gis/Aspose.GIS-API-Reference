@@ -1,7 +1,7 @@
 ---
 title: "Coordinate.Equals"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Coordinate 方法。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Coordinate method."
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.common/coordinate/equals/

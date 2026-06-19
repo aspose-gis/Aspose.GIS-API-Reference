@@ -1,6 +1,6 @@
 ---
 title: "枚举 AxisDirection"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.AxisDirection 枚举。轴方向定义轴指向的方向"
 type: docs
 weight: 4490

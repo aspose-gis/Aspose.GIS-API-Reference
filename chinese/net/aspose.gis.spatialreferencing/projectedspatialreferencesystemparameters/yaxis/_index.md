@@ -1,7 +1,7 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.YAxis"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ProjectedSpatialReferenceSystemParameters 属性。描述 Y 竖直维度的轴。默认是北向轴。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ProjectedSpatialReferenceSystemParameters 属性。描述 Y 竖直维度的轴。默认是指向北方的轴。"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/

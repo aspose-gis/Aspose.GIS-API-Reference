@@ -1,14 +1,14 @@
 ---
 title: "GeographicSpatialReferenceSystemParameters.Datum"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeographicSpatialReferenceSystemParameters 属性。地理 SRS 的基准面。默认是 Wgs84。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeographicSpatialReferenceSystemParameters 属性。地理 SRS 的基准面。默认值为 Wgs84。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/datum/
 ---
 ## GeographicSpatialReferenceSystemParameters.Datum property
 
-地理 SRS 的基准面。默认是 [`Wgs84`](../../geographicdatum/wgs84/)。
+地理 SRS 的基准面。默认值为 [`Wgs84`](../../geographicdatum/wgs84/)。
 
 ```csharp
 public GeographicDatum Datum { get; set; }

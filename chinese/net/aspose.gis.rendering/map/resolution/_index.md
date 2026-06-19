@@ -1,14 +1,14 @@
 ---
 title: "Map.Resolution"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Map 属性。用于渲染此地图并在 Measurement 之间进行转换的分辨率。默认值为 96。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Map 属性。用于渲染此地图以及在 Measurement 之间转换的分辨率。默认值为 96。"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.rendering/map/resolution/
 ---
 ## Map.Resolution property
 
-用于渲染此地图并在 [`Measurement`](../../measurement/) 之间进行转换的分辨率。默认值为 96。
+用于渲染此地图以及在 [`Measurement`](../../measurement/) 之间转换的分辨率。默认值为 96。
 
 ```csharp
 public double Resolution { get; set; }

@@ -1,6 +1,6 @@
 ---
 title: "GeographicSpatialReferenceSystemParameters.LongitudeAxis"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeographicSpatialReferenceSystemParameters 属性。描述经度的轴。默认是指向东的轴。"
 type: docs
 weight: 60
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparam
 ---
 ## GeographicSpatialReferenceSystemParameters.LongitudeAxis property
 
-描述经度的轴。默认是指向东方向的轴。
+描述经度的轴。默认是指向东方的轴。
 
 ```csharp
 public Axis LongitudeAxis { get; set; }

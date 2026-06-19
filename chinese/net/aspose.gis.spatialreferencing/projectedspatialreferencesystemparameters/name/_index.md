@@ -1,6 +1,6 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.Name"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ProjectedSpatialReferenceSystemParameters 属性。投影 SRS 的名称。默认是 Unnamed。"
 type: docs
 weight: 50

@@ -1,6 +1,6 @@
 ---
 title: "RasterLayer.GetExtent"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterLayer 方法。计算此图层的空间范围。"
 type: docs
 weight: 140

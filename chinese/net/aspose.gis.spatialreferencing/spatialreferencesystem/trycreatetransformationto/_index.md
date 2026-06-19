@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.TryCreateTransformationTo"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 方法。创建从此 SpatialReferenceSystem 到另一个 SpatialReferenceSystem 的转换"
 type: docs
 weight: 230

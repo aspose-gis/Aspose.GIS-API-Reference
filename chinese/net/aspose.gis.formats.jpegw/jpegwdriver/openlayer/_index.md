@@ -1,7 +1,7 @@
 ---
 title: "JpegWDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "JpegWDriver 方法。打开图层进行读取"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "JpegWDriver 方法。打开该图层进行读取"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.jpegw/jpegwdriver/openlayer/
@@ -21,7 +21,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### 返回值
 
-一个 [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
+[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
 
 ### 另见
 

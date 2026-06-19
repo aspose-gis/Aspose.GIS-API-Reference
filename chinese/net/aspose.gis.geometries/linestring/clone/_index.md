@@ -1,7 +1,7 @@
 ---
 title: "LineString.Clone"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "LineString 方法。克隆此实例"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "LineString 方法。克隆此实例。"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.geometries/linestring/clone/

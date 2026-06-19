@@ -1,14 +1,14 @@
 ---
 title: "ImageMetadataReader.TryGetModifyDate"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageMetadataReader 方法。它尝试查找 EXIF 标签 ModifyDate（DateTime），如果未找到该标签，则返回默认的 DateTime 值"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageMetadataReader 方法。它尝试查找 EXIF 标签 ModifyDate（DataTime），如果未找到该标签，则返回默认的 DataTime 值"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.imagemetadata/imagemetadatareader/trygetmodifydate/
 ---
 ## ImageMetadataReader.TryGetModifyDate method
 
-尝试查找 EXIF 标签 ModifyDate (DataTime)，如果未找到该标签则返回默认的 DataTime 值
+尝试查找 EXIF 标记 ModifyDate (DataTime)，如果未找到该标记则返回默认的 DataTime 值。
 
 ```csharp
 public bool TryGetModifyDate(out DateTime modifyDate)
@@ -16,7 +16,7 @@ public bool TryGetModifyDate(out DateTime modifyDate)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| modifyDate | DateTime& | 修改日期。 |
+| modifyDate | DateTime& | 该修改日期。 |
 
 ### 返回值
 

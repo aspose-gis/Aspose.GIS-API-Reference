@@ -1,7 +1,7 @@
 ---
 title: "ImageData.GeoLocation"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageData 属性。EXIF 标记 GPSLatitude GPSLongitude"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageData 属性。EXIF 标签 GPSLatitude GPSLongitude"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.imagemetadata/imagedata/geolocation/

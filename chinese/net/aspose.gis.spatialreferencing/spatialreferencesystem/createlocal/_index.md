@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.CreateLocal"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 方法。创建本地空间参考系统"
 type: docs
 weight: 370
@@ -17,8 +17,8 @@ public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum da
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 空间参考系统的名称。 |
-| 基准 | LocalDatum | 在 SRS 中使用的基准面。 |
+| 名称 | 字符串 | 空间参考系统的名称。 |
+| 基准 | 本地基准 | 在 SRS 中使用的基准。 |
 | 单位 | 单位 | 在 SRS 中使用的单位。 |
 | 轴 | ICollection`1 | 在 SRS 中使用的轴。必须非空。 |
 | 标识符 | 标识符 | 标识符，将附加到 SRS。附加标识符不会修改其他 SRS 参数。由您自行确保标识符与 SRS 参数的一致性。 |

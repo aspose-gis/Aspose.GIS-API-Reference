@@ -1,14 +1,14 @@
 ---
 title: "GeoConvert.AsPointText"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeoConvert 方法。以指定格式返回计算后的位置字符串。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeoConvert 方法。以指定格式返回计算后的位置字符串"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/geoconvert/aspointtext/
 ---
 ## AsPointText(double, double, PointFormats) {#aspointtext_1}
 
-以指定格式将计算后的位置作为字符串返回。
+以指定格式返回计算后的位置字符串。
 
 ```csharp
 public static string AsPointText(double latitude, double longitude, PointFormats format)
@@ -35,7 +35,7 @@ public static string AsPointText(double latitude, double longitude, PointFormats
 
 ## AsPointText(IPoint, PointFormats) {#aspointtext}
 
-以指定格式将计算后的位置作为字符串返回。
+以指定格式返回计算后的位置字符串。
 
 ```csharp
 public static string AsPointText(IPoint point, PointFormats format)

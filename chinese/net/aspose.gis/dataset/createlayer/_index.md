@@ -1,6 +1,6 @@
 ---
 title: "Dataset.CreateLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Dataset 方法。创建一个新的矢量图层并以追加方式打开它"
 type: docs
 weight: 70
@@ -76,7 +76,7 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 | 异常 | 条件 |
 | --- | --- |
 | NotSupportedException | 此数据集不支持创建图层。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | [GisException](../../gisexception/) | 创建图层时出错。 |
 
 ### 另见
@@ -101,7 +101,7 @@ public virtual VectorLayer CreateLayer(string name,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 图层名称。 |
+| 名称 | 字符串 | 图层的名称。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 新图层的空间参考系统。 |
 
 ### 返回值
@@ -113,7 +113,7 @@ public virtual VectorLayer CreateLayer(string name,
 | 异常 | 条件 |
 | --- | --- |
 | NotSupportedException | 此数据集不支持创建图层。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | [GisException](../../gisexception/) | 创建图层时出错。 |
 
 ### 另见
@@ -137,7 +137,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 图层名称。 |
+| 名称 | 字符串 | 图层的名称。 |
 | options | DriverOptions | 打开选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 新图层的空间参考系统。 |
 
@@ -150,7 +150,7 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 | 异常 | 条件 |
 | --- | --- |
 | NotSupportedException | 此数据集不支持创建图层。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | [GisException](../../gisexception/) | 创建图层时出错。 |
 
 ### 另见

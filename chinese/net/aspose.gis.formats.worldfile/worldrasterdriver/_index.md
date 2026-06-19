@@ -1,6 +1,6 @@
 ---
 title: "类 WorldRasterDriver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.WorldFile.WorldRasterDriver 类。用于带世界文件的栅格格式的驱动程序"
 type: docs
 weight: 2390
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.formats.worldfile/worldrasterdriver/
 ---
 ## WorldRasterDriver class
 
-用于带有 world file 的栅格格式的驱动程序
+用于带有世界文件的栅格格式的驱动程序。
 
 ```csharp
 public class WorldRasterDriver : RasterDriver

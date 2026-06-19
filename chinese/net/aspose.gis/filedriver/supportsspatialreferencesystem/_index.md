@@ -1,6 +1,6 @@
 ---
 title: "FileDriver.SupportsSpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileDriver 方法。确定驱动程序是否支持指定的空间参考系统"
 type: docs
 weight: 100
@@ -24,7 +24,7 @@ public abstract bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ## 备注
 
-如果空间参考系统不受支持，并且你将其传递给 [`CreateLayer`](../createlayer/) 方法，将抛出 NotSupportedException。
+如果空间参考系统不受支持，并且您将其传递给 [`CreateLayer`](../createlayer/) 方法，将抛出 NotSupportedException。
 
 ### 另见
 

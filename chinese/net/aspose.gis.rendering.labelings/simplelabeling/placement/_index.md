@@ -1,14 +1,14 @@
 ---
 title: "SimpleLabeling.Placement"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleLabeling 属性。标签放置指定标签相对于要素几何体的放置方式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleLabeling 属性。标签放置指定标签相对于要素几何的放置方式"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.rendering.labelings/simplelabeling/placement/
 ---
 ## SimpleLabeling.Placement property
 
-标签放置指定标签相对于要素几何体的放置方式。
+标签放置指定标签相对于要素几何的放置方式。
 
 ```csharp
 public LabelPlacement Placement { get; set; }

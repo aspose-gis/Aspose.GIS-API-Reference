@@ -1,7 +1,7 @@
 ---
 title: "MifReader.MifReader"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MifReader 构造函数。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MifReader 构造函数."
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreader/mifreader/

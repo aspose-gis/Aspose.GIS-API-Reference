@@ -1,7 +1,7 @@
 ---
 title: "Ensure.GreaterOrEqual"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Ensure 方法."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Ensure 方法。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.common/ensure/greaterorequal/

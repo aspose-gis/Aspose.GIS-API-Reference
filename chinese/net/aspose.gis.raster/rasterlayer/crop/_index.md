@@ -1,6 +1,6 @@
 ---
 title: "RasterLayer.Crop"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterLayer 方法。使用形状和波段掩码裁剪栅格图层。"
 type: docs
 weight: 110
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.raster/rasterlayer/crop/
 ---
 ## Crop(IGeometry, double[]) {#crop}
 
-使用形状表单（以及波段掩码）裁剪栅格图层。
+使用形状（以及波段掩码）裁剪栅格图层。
 
 ```csharp
 public RasterLayer Crop(IGeometry geometry, double[] masks = null)
@@ -16,12 +16,12 @@ public RasterLayer Crop(IGeometry geometry, double[] masks = null)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 几何体 | IGeometry | Geometry 表示形状。 |
+| 几何体 | IGeometry | 几何表示形状。 |
 | 掩码 | Double[] | 裁剪图层的掩码 |
 
 ### 返回值
 
-裁剪后的栅格图层。如果未找到交集，则返回 `null`。
+裁剪后的栅格图层。如果未找到交集则返回 `null`。
 
 ### 异常
 
@@ -43,7 +43,7 @@ public RasterLayer Crop(IGeometry geometry, double[] masks = null)
 
 ## Crop(double[]) {#crop_1}
 
-使用波段掩码裁剪栅格图层).
+使用波段掩码裁剪栅格图层)。
 
 ```csharp
 public RasterLayer Crop(double[] masks)
@@ -55,7 +55,7 @@ public RasterLayer Crop(double[] masks)
 
 ### 返回值
 
-裁剪后的栅格图层。如果未找到交集，则返回 `null`。
+裁剪后的栅格图层。如果未找到交集则返回 `null`。
 
 ### 异常
 

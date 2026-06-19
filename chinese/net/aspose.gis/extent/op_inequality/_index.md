@@ -1,7 +1,7 @@
 ---
 title: "Extent.op_Inequality"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Extent 方法。实现了  运算符"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Extent 方法。实现了 运算符。"
 type: docs
 weight: 240
 url: /zh/net/aspose.gis/extent/op_inequality/

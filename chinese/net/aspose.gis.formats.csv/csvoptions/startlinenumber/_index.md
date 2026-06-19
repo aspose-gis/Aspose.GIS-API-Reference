@@ -1,6 +1,6 @@
 ---
 title: "CsvOptions.StartLineNumber"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CsvOptions 属性。获取或设置在读取数据时第一行的零基编号。默认值为 0"
 type: docs
 weight: 100

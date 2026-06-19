@@ -1,14 +1,14 @@
 ---
 title: "Identifier.AuthorityName"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Identifier 属性。授予 AuthorityUniqueIdentifier 的机构名称"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Identifier 属性。一个授权机构的名称，该机构提供了 AuthorityUniqueIdentifier"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.spatialreferencing/identifier/authorityname/
 ---
 ## Identifier.AuthorityName property
 
-授予 [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/) 的机构名称。
+授权机构的名称，该机构提供了 [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/)。
 
 ```csharp
 public string AuthorityName { get; }

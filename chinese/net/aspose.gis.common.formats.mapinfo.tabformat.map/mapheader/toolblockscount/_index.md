@@ -1,6 +1,6 @@
 ---
-title: "MapHeader.ToolBlocksCount"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MapHeader.工具块计数"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapHeader 属性。"
 type: docs
 weight: 260

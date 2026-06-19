@@ -1,6 +1,6 @@
 ---
 title: "VerticalDatum.VerticalDatum"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VerticalDatum 构造函数。创建新实例"
 type: docs
 weight: 10
@@ -16,7 +16,7 @@ public VerticalDatum(string name, int datumType, Identifier identifier = null)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 基准面的名称。 |
+| 名称 | 字符串 | 基准面的名称。 |
 | datumType | Int32 | 整数，表示基准面的类型。 |
 | 标识符 | 标识符 | 基准面的标识符。 |
 

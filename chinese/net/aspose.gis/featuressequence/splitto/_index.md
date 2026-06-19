@@ -1,6 +1,6 @@
 ---
 title: "FeaturesSequence.SplitTo"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeaturesSequence 方法。按几何类型拆分要素"
 type: docs
 weight: 60
@@ -22,7 +22,7 @@ public VectorLayer[] SplitTo()
 
 | 异常 | 条件 |
 | --- | --- |
-| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
+| [GisException](../../gisexception/) | 读取或写入要素到/从文件时出错。 |
 
 ### 另见
 

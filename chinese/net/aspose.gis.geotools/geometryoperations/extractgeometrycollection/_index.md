@@ -1,7 +1,7 @@
 ---
 title: "GeometryOperations.ExtractGeometryCollection"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeometryOperations 方法。从图层中提取几何集合。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeometryOperations 方法。从图层提取几何集合"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geotools/geometryoperations/extractgeometrycollection/
@@ -20,7 +20,7 @@ public static IGeometry ExtractGeometryCollection(VectorLayer layer)
 
 ### 返回值
 
-该集合包含输入图层的所有几何。
+该集合包含输入图层的所有几何
 
 ### 另见
 

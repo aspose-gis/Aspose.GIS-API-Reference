@@ -1,6 +1,6 @@
 ---
 title: "GeoJsonOptions.Description"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoJsonOptions 属性。用于图层创建的要素集合级别的描述"
 type: docs
 weight: 60

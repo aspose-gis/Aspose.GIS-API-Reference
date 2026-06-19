@@ -1,6 +1,6 @@
 ---
 title: "ProjectedSpatialReferenceSystem.Type"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ProjectedSpatialReferenceSystem 属性。返回 Projected"
 type: docs
 weight: 100

@@ -1,6 +1,6 @@
 ---
 title: "GeneratorTilesRenderOptions.TileNameTemplate"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeneratorTilesRenderOptions 属性。瓦片名称模板"
 type: docs
 weight: 40

@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Overlaps"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。确定此几何是否与指定几何重叠"
 type: docs
 weight: 280
@@ -32,7 +32,7 @@ public bool Overlaps(IGeometry other)
 
 ## 备注
 
-此方法测试几何体在 DE-9IM 交叉矩阵意义上是否重叠。当两个几何体共享部分但不是全部内部点且它们的交集具有与几何体本身相同的维度时，即视为重叠。对于两个 Point 几何体或两个 Surface 几何体，此方法等价于：
+此方法测试几何体在 DE-9IM 交叉矩阵意义上是否重叠。如果两个几何体共享部分但不是全部内部点，并且几何体的交集具有与几何体本身相同的维度，则它们重叠。对于两个 Point 几何体或两个 Surface 几何体，此方法等价于：
 
 ```csharp
 this.Relate(other, "T*T***T**");

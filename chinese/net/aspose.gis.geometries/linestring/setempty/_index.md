@@ -1,7 +1,7 @@
 ---
 title: "LineString.SetEmpty"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "LineString 方法。使此几何体为空"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "LineString 方法。使此 Geometry 为空"
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.geometries/linestring/setempty/

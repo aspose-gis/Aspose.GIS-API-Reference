@@ -1,6 +1,6 @@
 ---
 title: "SimpleLabeling.HaloColor"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLabeling 属性。文本周围光晕描边的颜色"
 type: docs
 weight: 80

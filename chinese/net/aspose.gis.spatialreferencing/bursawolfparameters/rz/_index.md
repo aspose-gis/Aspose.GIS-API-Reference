@@ -1,6 +1,6 @@
 ---
 title: "BursaWolfParameters.Rz"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BursaWolfParameters 属性。Rz 以秒为单位"
 type: docs
 weight: 90

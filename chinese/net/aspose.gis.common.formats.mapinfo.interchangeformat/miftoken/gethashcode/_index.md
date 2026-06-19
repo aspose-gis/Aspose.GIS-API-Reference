@@ -1,7 +1,7 @@
 ---
 title: "MifToken.获取哈希码"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MifToken 方法。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MifToken 方法."
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken/gethashcode/

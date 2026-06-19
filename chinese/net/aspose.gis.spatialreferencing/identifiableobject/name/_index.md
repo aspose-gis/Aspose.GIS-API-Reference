@@ -1,6 +1,6 @@
 ---
 title: "IdentifiableObject.Name"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IdentifiableObject 属性。此对象的名称"
 type: docs
 weight: 30

@@ -1,6 +1,6 @@
 ---
 title: "枚举 SpatialReferenceSystemType"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.SpatialReferenceSystemType 枚举。表示空间参考系统的类型"
 type: docs
 weight: 4720

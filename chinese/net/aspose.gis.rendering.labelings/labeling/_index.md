@@ -1,7 +1,7 @@
 ---
 title: "类 Labeling"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.Labelings.Labeling 类。用于描述如何在要素上放置标签的标注类的抽象根类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.Labelings.Labeling 类。用于描述如何在要素上放置标签的标注类的抽象根类"
 type: docs
 weight: 4070
 url: /zh/net/aspose.gis.rendering.labelings/labeling/

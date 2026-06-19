@@ -1,6 +1,6 @@
 ---
 title: "GeoGenerator.ProduceLines"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoGenerator 方法。创建一个新的 ILineString 枚举器，包含给定数量的随机项，所有项都位于给定范围内"
 type: docs
 weight: 10
@@ -27,8 +27,8 @@ public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOp
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 线的数量必须大于 1。 |
-| NullReferenceException | Extent 必须有值（不能为空） |
+| ArgumentOutOfRangeException | 线的数量必须大于1。 |
+| NullReferenceException | Extent 必须有值（不能为 NULL） |
 
 ### 另见
 

@@ -1,7 +1,7 @@
 ---
 title: "枚举 BrushStyle"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Painting.BrushStyle 枚举."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Painting.BrushStyle 枚举。"
 type: docs
 weight: 3450
 url: /zh/net/aspose.gis.painting/brushstyle/

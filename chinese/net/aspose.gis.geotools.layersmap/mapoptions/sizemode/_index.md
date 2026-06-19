@@ -1,6 +1,6 @@
 ---
 title: "MapOptions.SizeMode"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapOptions 属性。大小模式。默认值为 Auto"
 type: docs
 weight: 70

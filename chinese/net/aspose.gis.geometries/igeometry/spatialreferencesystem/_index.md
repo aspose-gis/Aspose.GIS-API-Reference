@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.SpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 属性。获取此实例的 SpatialReferenceSystem。如果 SpatialReferenceSystem 未知，则此属性可以为 null。"
 type: docs
 weight: 90

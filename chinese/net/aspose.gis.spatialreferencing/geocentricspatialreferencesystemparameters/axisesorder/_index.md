@@ -1,7 +1,7 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.AxisesOrder"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeocentricSpatialReferenceSystemParameters 属性。轴的顺序。默认值为 XYZ"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeocentricSpatialReferenceSystemParameters 属性。轴的顺序。默认是 XYZ"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/

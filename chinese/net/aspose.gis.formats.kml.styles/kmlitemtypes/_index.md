@@ -1,7 +1,7 @@
 ---
 title: "枚举 KmlItemTypes"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.Kml.Styles.KmlItemTypes 枚举。指定 kmlFeature 及其内容在列表视图中作为项目的显示方式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlItemTypes 枚举。指定 kmlFeature 及其内容在列表视图中作为项目的显示方式。"
 type: docs
 weight: 2160
 url: /zh/net/aspose.gis.formats.kml.styles/kmlitemtypes/
@@ -21,7 +21,7 @@ public enum KmlItemTypes
 | RadioFolder | `0` | 一次只能显示一个项目。 |
 | Check | `1` | 可见性与其项目的复选框绑定 |
 | CheckHideChildren | `2` | 使用普通复选框来控制可见性，但不要在列表视图中显示该项目的子项。 |
-| CheckOffOnly | `3` | 防止一次性将所有项目设为可见——即用户可以关闭容器组中的所有内容，但不能同时将所有内容打开。 |
+| CheckOffOnly | `3` | 防止所有项目一次性全部可见——即用户可以关闭容器组中的所有内容，但不能一次性全部打开。 |
 
 ### 另见
 

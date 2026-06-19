@@ -1,6 +1,6 @@
 ---
 title: "RasterRect.X"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterRect 属性。获取起始列的 x 坐标"
 type: docs
 weight: 40

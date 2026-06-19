@@ -1,7 +1,7 @@
 ---
 title: "InFileOptions.WriteUnsetAttribute"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "InFileOptions 属性。 是否通过添加 null 值来写入未设置的属性"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "InFileOptions 属性。是否通过添加 null 值来写入未设置的属性"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.formats.infile/infileoptions/writeunsetattribute/

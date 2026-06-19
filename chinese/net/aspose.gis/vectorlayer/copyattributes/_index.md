@@ -1,6 +1,6 @@
 ---
 title: "VectorLayer.CopyAttributes"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorLayer 方法。将其他 VectorLayer 的属性复制到此对象"
 type: docs
 weight: 110
@@ -16,7 +16,7 @@ public void CopyAttributes(FeaturesSequence featuresSequence)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | 用于复制属性的要素序列。 |
+| featuresSequence | FeaturesSequence | 要从中复制属性的要素序列。 |
 
 ### 异常
 
@@ -43,7 +43,7 @@ public void CopyAttributes(FeaturesSequence featuresSequence, IAttributesConvert
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| featuresSequence | FeaturesSequence | 用于复制属性的要素序列。 |
+| featuresSequence | FeaturesSequence | 要从中复制属性的要素序列。 |
 | converter | IAttributesConverter | 自定义 [`IAttributesConverter`](../../iattributesconverter/) 的实例，将逐个处理属性。 |
 
 ### 异常

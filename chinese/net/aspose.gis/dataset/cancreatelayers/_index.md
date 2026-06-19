@@ -1,6 +1,6 @@
 ---
 title: "Dataset.CanCreateLayers"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Dataset 属性。获取一个值，指示此数据集是否可以创建矢量图层"
 type: docs
 weight: 30

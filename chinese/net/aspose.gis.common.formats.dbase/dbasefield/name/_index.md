@@ -1,6 +1,6 @@
 ---
 title: "DBaseField.Name"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "DBaseField 属性。"
 type: docs
 weight: 40

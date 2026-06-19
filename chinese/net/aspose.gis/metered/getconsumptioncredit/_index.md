@@ -1,7 +1,7 @@
 ---
 title: "Metered.GetConsumptionCredit"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Metered 方法。获取消费积分"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Metered 方法。获取消耗信用"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/metered/getconsumptioncredit/

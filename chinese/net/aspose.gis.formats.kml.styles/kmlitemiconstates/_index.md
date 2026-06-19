@@ -1,6 +1,6 @@
 ---
 title: "枚举 KmlItemIconStates"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.Kml.Styles.KmlItemIconStates 枚举。指定 kmlNetworkLink 或 kmlFolder 的当前状态"
 type: docs
 weight: 2150

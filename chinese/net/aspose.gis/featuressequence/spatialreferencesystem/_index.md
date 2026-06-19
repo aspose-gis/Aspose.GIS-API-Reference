@@ -1,6 +1,6 @@
 ---
 title: "FeaturesSequence.SpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeaturesSequence 属性。获取此特征序列的空间参考系统"
 type: docs
 weight: 20

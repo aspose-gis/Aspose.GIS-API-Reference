@@ -1,6 +1,6 @@
 ---
 title: "SimpleLabeling.FontStyle"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLabeling 属性。应用于文本的样式"
 type: docs
 weight: 60

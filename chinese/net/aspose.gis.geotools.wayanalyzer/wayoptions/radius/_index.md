@@ -1,6 +1,6 @@
 ---
 title: "WayOptions.Radius"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "WayOptions 属性。搜索半径"
 type: docs
 weight: 50

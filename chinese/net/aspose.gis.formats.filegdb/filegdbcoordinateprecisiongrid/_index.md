@@ -1,6 +1,6 @@
 ---
 title: "类 FileGdbCoordinatePrecisionGrid"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.FileGdb.FileGdbCoordinatePrecisionGrid 类。FileGDB 图层中的坐标精度网格"
 type: docs
 weight: 1840
@@ -24,13 +24,13 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 | 名称 | 描述 |
 | --- | --- |
-| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | 获取或设置 M 坐标的原点。如果设置为 `null`，则使用默认值。 |
-| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | 获取或设置 M 坐标的比例。如果设置为 `null`，则使用默认值。 |
-| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | 获取或设置 X 坐标的原点。如果设置为 `null`，则使用默认值。 |
-| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | 获取或设置 X 和 Y 坐标的比例。如果设置为 `null`，则使用默认值。 |
-| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | 获取或设置 Y 坐标的原点。如果设置为 `null`，则使用默认值。 |
-| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | 获取或设置 Z 坐标的原点。如果设置为 `null`，则使用默认值。 |
-| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | 获取或设置 Z 坐标的比例。如果设置为 `null`，则使用默认值。 |
+| [MOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/morigin/) { get; set; } | 获取或设置 M 坐标的原点。如果设置为 `null`，默认值将被使用。 |
+| [MScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/) { get; set; } | 获取或设置 M 坐标的比例。如果设置为 `null`，默认值将被使用。 |
+| [XOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xorigin/) { get; set; } | 获取或设置 X 坐标的原点。如果设置为 `null`，默认值将被使用。 |
+| [XYScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/xyscale/) { get; set; } | 获取或设置 X 和 Y 坐标的比例。如果设置为 `null`，默认值将被使用。 |
+| [YOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/yorigin/) { get; set; } | 获取或设置 Y 坐标的原点。如果设置为 `null`，默认值将被使用。 |
+| [ZOrigin](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zorigin/) { get; set; } | 获取或设置 Z 坐标的原点。如果设置为 `null`，默认值将被使用。 |
+| [ZScale](../../aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/zscale/) { get; set; } | 获取或设置 Z 坐标的比例。如果设置为 `null`，默认值将被使用。 |
 
 ## 方法
 
@@ -40,7 +40,7 @@ public sealed class FileGdbCoordinatePrecisionGrid
 
 ## 备注
 
-坐标精度网格定义了 FileGDB 图层中坐标的有效域和分辨率。原点定义了空间中坐标精度网格的路径。比例定义了分辨率（比例越大，写入的值越精确）。精度网格指定坐标值的有效范围：
+坐标精度网格定义了 FileGDB 图层中坐标的有效范围和分辨率。原点定义了坐标精度网格在空间中的路径。比例定义了分辨率（比例越大，写入的值越精确）。精度网格指定坐标值的有效范围：
 
 ```csharp
 XMin = XOrigin
@@ -53,7 +53,7 @@ ZMax = ZOrigin + 9e+15 / ZScale
 MMax = MOrigin + 9e+15 / MScale
 ```
 
-每个 [`VectorLayer`](../../aspose.gis/vectorlayer/) 中的坐标必须在此范围内。超出范围的坐标可能导致后续读取错误，并会被 ArcGIS 错误处理。如果您未指定任何属性（保持为 `null`），将使用默认值。默认值取决于 [`VectorLayer`](../../aspose.gis/vectorlayer/) 的 [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/)。对于地理 [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) 的默认值如下：
+[`VectorLayer`](../../aspose.gis/vectorlayer/) 中的每个坐标必须位于此范围内。超出范围的坐标可能导致后续读取错误，并会被 ArcGIS 错误处理。如果不指定任何属性（保持为 `null`），将使用默认值。默认值取决于 [`VectorLayer`](../../aspose.gis/vectorlayer/) 的 [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/)。对于地理 [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) 的默认值为：
 
 ```csharp
 XOrigin = -400
@@ -65,7 +65,7 @@ ZScale  = 1 / ZTolerance * 10
 MScale  = 1 / MTolerance * 10
 ```
 
-对于投影的 [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) 默认值如下：
+对于投影 [`SpatialReferenceSystem`](../../aspose.gis.spatialreferencing/spatialreferencesystem/) 的默认值为：
 
 ```csharp
 XOrigin = -2147483647

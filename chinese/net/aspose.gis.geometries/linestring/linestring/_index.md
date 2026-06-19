@@ -1,6 +1,6 @@
 ---
 title: "LineString.LineString"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LineString 构造函数。初始化 LineString 类的新实例"
 type: docs
 weight: 10

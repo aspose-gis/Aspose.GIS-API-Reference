@@ -1,6 +1,6 @@
 ---
-title: "Struct Symbol"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "结构 符号"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol 结构体。"
 type: docs
 weight: 840

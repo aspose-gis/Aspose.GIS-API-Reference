@@ -1,7 +1,7 @@
 ---
 title: "WayOptions.Scale"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WayOptions 属性。地图的比例"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WayOptions 属性. 地图的比例"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.geotools.wayanalyzer/wayoptions/scale/

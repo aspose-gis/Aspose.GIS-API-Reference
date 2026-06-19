@@ -1,7 +1,7 @@
 ---
 title: "CurvePolygon.op_Inequality"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CurvePolygon 方法. 实现该运算符"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CurvePolygon 方法。实现该运算符"
 type: docs
 weight: 190
 url: /zh/net/aspose.gis.geometries/curvepolygon/op_inequality/

@@ -1,6 +1,6 @@
 ---
 title: "MixedGeometrySymbolizer.LineSymbolizer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MixedGeometrySymbolizer 属性。指定在图层中用于线几何体的符号化器"
 type: docs
 weight: 20
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/linesymbol
 ---
 ## MixedGeometrySymbolizer.LineSymbolizer property
 
-指定在图层中用于线几何的符号器。
+指定在图层中用于线几何形状的符号器。
 
 ```csharp
 public VectorSymbolizer LineSymbolizer { get; set; }

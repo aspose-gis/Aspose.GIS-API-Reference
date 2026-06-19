@@ -1,6 +1,6 @@
 ---
 title: "LayeredSymbolizer.Item"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LayeredSymbolizer 属性。获取指定索引处的符号化器"
 type: docs
 weight: 30

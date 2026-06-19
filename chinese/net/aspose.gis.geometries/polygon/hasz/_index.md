@@ -1,7 +1,7 @@
 ---
 title: "Polygon.HasZ"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Polygon 属性。获取一个值，指示此实例是否具有 Z 坐标。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Polygon 属性。获取指示此实例是否具有 Z 坐标的值"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geometries/polygon/hasz/

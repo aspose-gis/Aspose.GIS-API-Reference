@@ -1,6 +1,6 @@
 ---
 title: "BursaWolfParameters.BursaWolfParameters"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BursaWolfParameters 构造函数。创建 BursaWolfParameters 的新实例"
 type: docs
 weight: 10
@@ -45,7 +45,7 @@ public BursaWolfParameters(double dx, double dy, double dz, double rx, double ry
 | rx | Double | Rx（秒）。 |
 | ry | Double | Ry（秒）。 |
 | rz | Double | Rz（秒）。 |
-| scale | Double | 比例以每百万为单位。 |
+| scale | Double | 比例以每百万计。 |
 
 ### 另见
 

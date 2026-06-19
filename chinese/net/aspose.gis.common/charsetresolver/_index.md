@@ -1,6 +1,6 @@
 ---
 title: "类 CharsetResolver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.CharsetResolver 类。"
 type: docs
 weight: 110

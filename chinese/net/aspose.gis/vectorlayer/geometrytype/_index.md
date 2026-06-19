@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.GeometryType"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VectorLayer 属性。获取图层几何体的类型。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VectorLayer 属性。获取图层几何体的类型"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis/vectorlayer/geometrytype/
@@ -22,7 +22,7 @@ public abstract GeometryType GeometryType { get; }
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层以只写方式打开，则会抛出此异常。 |
+| InvalidOperationException | 当图层以只写方式打开时抛出。 |
 
 ### 另见
 

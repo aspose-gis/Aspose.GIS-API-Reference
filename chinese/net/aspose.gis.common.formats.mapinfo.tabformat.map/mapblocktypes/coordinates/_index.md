@@ -1,6 +1,6 @@
 ---
 title: "MapBlockTypes.Coordinates"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapBlockTypes 字段。"
 type: docs
 weight: 10

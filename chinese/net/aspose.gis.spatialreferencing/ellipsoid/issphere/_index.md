@@ -1,6 +1,6 @@
 ---
 title: "Ellipsoid.IsSphere"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Ellipsoid 属性。检测此椭球体是否为球体"
 type: docs
 weight: 70

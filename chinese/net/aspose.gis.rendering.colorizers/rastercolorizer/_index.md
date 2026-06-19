@@ -1,14 +1,14 @@
 ---
 title: "类 RasterColorizer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.Colorizers.RasterColorizer 类。用于渲染栅格的颜色器的抽象根类"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.Colorizers.RasterColorizer 类。抽象根类，用于渲染栅格的着色器。"
 type: docs
 weight: 3980
 url: /zh/net/aspose.gis.rendering.colorizers/rastercolorizer/
 ---
 ## RasterColorizer class
 
-用于渲染栅格的颜色化器的抽象根类。
+用于渲染栅格的着色器的抽象根类。
 
 ```csharp
 public abstract class RasterColorizer

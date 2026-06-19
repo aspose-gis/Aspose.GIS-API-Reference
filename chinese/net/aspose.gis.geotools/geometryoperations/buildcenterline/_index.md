@@ -1,7 +1,7 @@
 ---
 title: "GeometryOperations.BuildCenterline"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeometryOperations 方法。为点集合站点构建中心线图。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeometryOperations 方法。为点集合构建中心线图"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.geotools/geometryoperations/buildcenterline/

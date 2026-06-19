@@ -1,7 +1,7 @@
 ---
 title: "BezierCurve.Linearize"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "BezierCurve 方法。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "BezierCurve 方法."
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.common/beziercurve/linearize/

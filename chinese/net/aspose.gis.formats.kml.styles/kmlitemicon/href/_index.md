@@ -1,7 +1,7 @@
 ---
 title: "KmlItemIcon.Href"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "KmlItemIcon 属性。将资源位置指定为 URL。默认值为 null 表示 href 为无"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "KmlItemIcon 属性。指定资源位置为 URL。默认值为 null 表示 href 为无"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.kml.styles/kmlitemicon/href/

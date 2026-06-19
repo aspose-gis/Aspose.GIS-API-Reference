@@ -1,6 +1,6 @@
 ---
 title: "类 QixTree"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Indexing.QixTree.QixTree 类。"
 type: docs
 weight: 3140

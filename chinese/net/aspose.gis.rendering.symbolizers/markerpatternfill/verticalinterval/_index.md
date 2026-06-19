@@ -1,6 +1,6 @@
 ---
 title: "MarkerPatternFill.VerticalInterval"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerPatternFill 属性。指定标记之间的垂直间隔"
 type: docs
 weight: 70

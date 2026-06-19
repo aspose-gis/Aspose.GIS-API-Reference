@@ -1,6 +1,6 @@
 ---
 title: "VectorLayer.Add"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorLayer 方法。若 VectorLayers Driver 支持，则向图层添加新要素。"
 type: docs
 weight: 80
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis/vectorlayer/add/
 ---
 ## Add(Feature) {#add}
 
-若 [`VectorLayer`](../) 的 [`Driver`](../driver/) 支持，则向图层添加新要素。
+如果 [`VectorLayer`](../) 的 [`Driver`](../driver/) 支持，则向图层添加新要素。
 
 ```csharp
 public virtual void Add(Feature feature)
@@ -22,7 +22,7 @@ public virtual void Add(Feature feature)
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层为只读，则抛出此异常。 |
+| InvalidOperationException | 当图层为只读时抛出。 |
 
 ### 另见
 
@@ -35,7 +35,7 @@ public virtual void Add(Feature feature)
 
 ## Add(Feature, IFeatureStyle) {#add_1}
 
-若 [`VectorLayer`](../) 的 [`Driver`](../driver/) 支持，则向图层添加具有指定样式的新要素。
+如果 [`VectorLayer`](../) 的 [`Driver`](../driver/) 支持，则向图层添加带有指定样式的新要素。
 
 ```csharp
 public virtual void Add(Feature feature, IFeatureStyle style)
@@ -50,9 +50,9 @@ public virtual void Add(Feature feature, IFeatureStyle style)
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层不支持样式或为只读，则抛出此异常。 |
-| InvalidOperationException | 如果可编辑图层不支持样式，则抛出此异常。 |
-| ArgumentException | 如果样式与驱动程序类型不匹配，则抛出此异常。 |
+| InvalidOperationException | 当图层不支持样式或为只读时抛出。 |
+| InvalidOperationException | 当可编辑图层不支持样式时抛出。 |
+| ArgumentException | 当样式与驱动类型不匹配时抛出。 |
 
 ### 另见
 

@@ -1,6 +1,6 @@
 ---
 title: "WayOptions.StartPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "WayOptions 属性。路径的起点"
 type: docs
 weight: 70

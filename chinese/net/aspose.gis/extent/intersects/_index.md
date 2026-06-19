@@ -1,6 +1,6 @@
 ---
 title: "Extent.Intersects"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Extent 方法。确定此范围是否与参数相交"
 type: docs
 weight: 190
@@ -27,7 +27,7 @@ public bool Intersects(Extent extent)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 此范围和参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 此范围和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null` 且彼此不相等。 |
 
 ### 另见
 
@@ -58,7 +58,7 @@ public bool Intersects(IGeometry geometry)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 此范围和参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 此范围和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null` 且彼此不相等。 |
 
 ### 另见
 

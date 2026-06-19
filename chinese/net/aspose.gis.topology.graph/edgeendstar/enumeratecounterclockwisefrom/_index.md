@@ -1,6 +1,6 @@
 ---
 title: "EdgeEndStar.EnumerateCounterClockwiseFrom"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "EdgeEndStar 方法。"
 type: docs
 weight: 80

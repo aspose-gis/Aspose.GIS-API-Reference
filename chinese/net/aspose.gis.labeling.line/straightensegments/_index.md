@@ -1,6 +1,6 @@
 ---
 title: "类 StraightenSegments"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Labeling.Line.StraightenSegments 类。"
 type: docs
 weight: 3360

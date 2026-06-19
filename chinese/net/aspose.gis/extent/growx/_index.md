@@ -1,6 +1,6 @@
 ---
 title: "Extent.GrowX"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Extent 方法。沿 X 轴扩展此范围，使其包含指定的值"
 type: docs
 weight: 170

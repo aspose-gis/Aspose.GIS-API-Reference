@@ -1,6 +1,6 @@
 ---
 title: "Geometry.FromBinary"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 方法。从其 WellKnown Binary 表示创建几何体"
 type: docs
 weight: 470

@@ -1,6 +1,6 @@
 ---
 title: "MultiStreamPath.Dispose"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MultiStreamPath 方法。销毁对象及其内容"
 type: docs
 weight: 60

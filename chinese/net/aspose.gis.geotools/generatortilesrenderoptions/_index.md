@@ -1,6 +1,6 @@
 ---
 title: "类 GeneratorTilesRenderOptions"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.GeneratorTilesRenderOptions 类。渲染瓦片的选项"
 type: docs
 weight: 2470

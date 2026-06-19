@@ -1,6 +1,6 @@
 ---
 title: "Measurement.Value"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Measurement 属性。指示测量长度的数值"
 type: docs
 weight: 100

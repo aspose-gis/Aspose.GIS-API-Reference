@@ -1,7 +1,7 @@
 ---
 title: "Point.op_Equality"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Point 方法。实现运算符"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Point 方法。实现该运算符"
 type: docs
 weight: 160
 url: /zh/net/aspose.gis.geometries/point/op_equality/

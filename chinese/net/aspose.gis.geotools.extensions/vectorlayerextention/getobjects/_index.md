@@ -1,6 +1,6 @@
 ---
 title: "VectorLayerExtention.GetObjects"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorLayerExtention 方法。使用通用列表读取要素"
 type: docs
 weight: 20

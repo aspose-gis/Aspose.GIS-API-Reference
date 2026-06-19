@@ -1,7 +1,7 @@
 ---
 title: "LineString.EndPoint"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "LineString 属性。返回曲线终点的副本"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "LineString 属性。返回曲线终点的副本。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/linestring/endpoint/

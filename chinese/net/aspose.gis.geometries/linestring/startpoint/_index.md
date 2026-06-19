@@ -1,6 +1,6 @@
 ---
 title: "LineString.StartPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LineString 属性。返回曲线起始点的副本"
 type: docs
 weight: 100

@@ -1,6 +1,6 @@
 ---
 title: "MifReader.通用图形对象类型"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MifReader 属性。"
 type: docs
 weight: 40

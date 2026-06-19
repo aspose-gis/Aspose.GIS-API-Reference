@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttributeCollection.Item"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttributeCollection 属性。获取或设置指定索引处的 FeatureAttribute"
 type: docs
 weight: 30

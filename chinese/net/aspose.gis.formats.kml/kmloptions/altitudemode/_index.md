@@ -1,6 +1,6 @@
 ---
 title: "KmlOptions.AltitudeMode"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlOptions 属性。允许您指定用于 KML 几何体的 AltitudeModes"
 type: docs
 weight: 20

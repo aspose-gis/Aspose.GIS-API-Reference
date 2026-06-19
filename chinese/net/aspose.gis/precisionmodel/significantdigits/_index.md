@@ -1,14 +1,14 @@
 ---
 title: "PrecisionModel.SignificantDigits"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "PrecisionModel 属性。获取在四舍五入的精度模型中的有效数字数量"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "PrecisionModel 属性。获取在四舍五入精度模型中的有效数字数量"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis/precisionmodel/significantdigits/
 ---
 ## PrecisionModel.SignificantDigits property
 
-如果精度模型进行四舍五入，则获取其有效数字的位数。
+如果是四舍五入，则获取精度模型中的有效数字位数。
 
 ```csharp
 public abstract int SignificantDigits { get; }
@@ -16,7 +16,7 @@ public abstract int SignificantDigits { get; }
 
 ### Property Value
 
-如果这是四舍五入的精度模型，则为有效数字的数量；如果是精确的精度模型，则为 -1。
+如果这是四舍五入精度模型，则为有效数字的数量；如果这是精确精度模型，则为 -1。
 
 ### 另见
 

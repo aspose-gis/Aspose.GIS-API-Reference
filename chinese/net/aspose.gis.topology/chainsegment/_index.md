@@ -1,7 +1,7 @@
 ---
 title: "结构体 ChainSegment"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.ChainSegment 结构体。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.ChainSegment 结构体."
 type: docs
 weight: 4850
 url: /zh/net/aspose.gis.topology/chainsegment/

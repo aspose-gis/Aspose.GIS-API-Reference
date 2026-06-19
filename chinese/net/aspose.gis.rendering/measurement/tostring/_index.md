@@ -1,7 +1,7 @@
 ---
 title: "Measurement.ToString"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Measurement 方法。返回此实例转换为字符串的结果"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "测量方法。返回此实例转换为字符串"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.rendering/measurement/tostring/

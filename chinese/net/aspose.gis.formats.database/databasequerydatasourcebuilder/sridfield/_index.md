@@ -1,7 +1,7 @@
 ---
 title: "DatabaseQueryDataSourceBuilder.SridField"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "DatabaseQueryDataSourceBuilder 方法。配置查询字段的名称，该字段将包含空间参考系统标识符 srid。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "DatabaseQueryDataSourceBuilder 方法。配置将包含空间参考系统标识符 srid 的查询字段名称。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.database/databasequerydatasourcebuilder/sridfield/
@@ -16,7 +16,7 @@ public DatabaseQueryDataSourceBuilder SridField(string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 包含空间参考系统标识符的查询字段名称。 |
+| 名称 | 字符串 | 包含空间参考系统标识符的查询字段名称。 |
 
 ### 返回值
 

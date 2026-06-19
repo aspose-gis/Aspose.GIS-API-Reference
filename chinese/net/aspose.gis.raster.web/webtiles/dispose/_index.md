@@ -1,6 +1,6 @@
 ---
 title: "WebTiles.Dispose"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "WebTiles 方法。执行与释放、释放或重置非托管资源相关的应用程序定义任务"
 type: docs
 weight: 10

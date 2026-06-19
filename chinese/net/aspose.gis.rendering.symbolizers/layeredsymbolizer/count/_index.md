@@ -1,6 +1,6 @@
 ---
 title: "LayeredSymbolizer.Count"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LayeredSymbolizer 属性。获取符号化器的数量"
 type: docs
 weight: 20

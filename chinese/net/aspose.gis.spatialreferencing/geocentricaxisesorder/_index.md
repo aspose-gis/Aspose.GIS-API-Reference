@@ -1,6 +1,6 @@
 ---
 title: "枚举 GeocentricAxisesOrder"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.GeocentricAxisesOrder 枚举。表示地心坐标系中轴的顺序"
 type: docs
 weight: 4530
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.spatialreferencing/geocentricaxisesorder/
 ---
 ## GeocentricAxisesOrder enumeration
 
-表示地心坐标参考系统中轴的顺序。
+表示地心 SRS 中轴的顺序。
 
 ```csharp
 public enum GeocentricAxisesOrder

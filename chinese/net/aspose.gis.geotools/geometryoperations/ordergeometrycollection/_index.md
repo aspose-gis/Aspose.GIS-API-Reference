@@ -1,6 +1,6 @@
 ---
 title: "GeometryOperations.OrderGeometryCollection"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeometryOperations 方法。按类型对几何集合进行排序，分为点、线、多边形和其他类型四个集合"
 type: docs
 weight: 80

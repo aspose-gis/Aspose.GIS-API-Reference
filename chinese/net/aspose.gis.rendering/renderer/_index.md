@@ -1,7 +1,7 @@
 ---
 title: "类 Renderer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.Renderer 类。渲染器的基类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.Renderer 类。渲染器的基类"
 type: docs
 weight: 4220
 url: /zh/net/aspose.gis.rendering/renderer/

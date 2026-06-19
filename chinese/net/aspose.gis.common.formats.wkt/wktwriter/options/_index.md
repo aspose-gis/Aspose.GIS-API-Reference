@@ -1,7 +1,7 @@
 ---
-title: "WktWriter.Options"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WktWriter 属性。"
+title: "WktWriter.选项"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WktWriter 属性."
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.common.formats.wkt/wktwriter/options/

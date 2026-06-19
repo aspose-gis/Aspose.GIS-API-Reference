@@ -1,6 +1,6 @@
 ---
 title: "Curve.Dimension"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Curve 属性。获取此几何体的拓扑维度"
 type: docs
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: "GdalOptions.FileName"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GdalOptions 属性。要启动的应用程序名称"
 type: docs
 weight: 20

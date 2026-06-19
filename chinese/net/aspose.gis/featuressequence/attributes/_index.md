@@ -1,6 +1,6 @@
 ---
 title: "FeaturesSequence.Attributes"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeaturesSequence 属性。获取此 VectorLayer 中特征的自定义属性集合"
 type: docs
 weight: 10

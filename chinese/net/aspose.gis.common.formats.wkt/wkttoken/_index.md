@@ -1,7 +1,7 @@
 ---
 title: "结构体 WktToken"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.Wkt.WktToken 结构体。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.Wkt.WktToken 结构体."
 type: docs
 weight: 1050
 url: /zh/net/aspose.gis.common.formats.wkt/wkttoken/

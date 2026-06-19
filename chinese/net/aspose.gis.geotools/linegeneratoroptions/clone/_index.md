@@ -1,14 +1,14 @@
 ---
 title: "LineGeneratorOptions.Clone"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "LineGeneratorOptions 方法。将对象克隆到另一个"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "LineGeneratorOptions 方法。克隆对象到另一个"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geotools/linegeneratoroptions/clone/
 ---
 ## LineGeneratorOptions.Clone method
 
-将对象克隆到另一个对象。
+将对象克隆为另一个对象。
 
 ```csharp
 public LineGeneratorOptions Clone()
@@ -16,7 +16,7 @@ public LineGeneratorOptions Clone()
 
 ### 返回值
 
-将对象克隆到另一个 [`LineGeneratorOptions`](../)。
+克隆对象到另一个 [`LineGeneratorOptions`](../)。
 
 ### 另见
 

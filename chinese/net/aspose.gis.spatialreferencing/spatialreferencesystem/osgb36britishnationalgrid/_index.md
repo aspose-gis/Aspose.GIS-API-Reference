@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.Osgb36BritishNationalGrid"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 属性。OSGB 36 / British National Grid EPSG27700 空间参考系统"
 type: docs
 weight: 300

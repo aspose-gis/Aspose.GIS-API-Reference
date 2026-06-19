@@ -1,6 +1,6 @@
 ---
 title: "IRasterValues.IsNull"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IRasterValues 方法。检查在指定波段中是否设置了栅格值。"
 type: docs
 weight: 120

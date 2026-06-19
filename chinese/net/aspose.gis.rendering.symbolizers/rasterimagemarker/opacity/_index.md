@@ -1,6 +1,6 @@
 ---
 title: "RasterImageMarker.Opacity"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterImageMarker 属性。图层的不透明度。默认值为 1.0"
 type: docs
 weight: 60

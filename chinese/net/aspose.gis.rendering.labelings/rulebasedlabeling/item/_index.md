@@ -1,6 +1,6 @@
 ---
 title: "RuleBasedLabeling.Item"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RuleBasedLabeling 属性。获取指定索引处的规则"
 type: docs
 weight: 30

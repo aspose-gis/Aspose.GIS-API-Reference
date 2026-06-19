@@ -1,6 +1,6 @@
 ---
 title: "SavingOptions.SpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SavingOptions 属性。输出图层的驱动特定选项"
 type: docs
 weight: 40

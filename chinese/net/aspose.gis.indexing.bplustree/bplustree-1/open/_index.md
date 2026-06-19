@@ -1,6 +1,6 @@
 ---
 title: "BPlusTree1.Open"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BPlusTree 方法。"
 type: docs
 weight: 10

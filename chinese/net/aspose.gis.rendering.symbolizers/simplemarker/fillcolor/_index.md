@@ -1,7 +1,7 @@
 ---
 title: "SimpleMarker.FillColor"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleMarker 属性。指定填充的颜色和透明度"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleMarker 属性。指定填充的颜色和透明度。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/fillcolor/

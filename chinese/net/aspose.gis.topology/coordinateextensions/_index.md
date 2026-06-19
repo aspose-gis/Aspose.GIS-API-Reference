@@ -1,7 +1,7 @@
 ---
 title: "类 CoordinateExtensions"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.CoordinateExtensions 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.CoordinateExtensions 类."
 type: docs
 weight: 4880
 url: /zh/net/aspose.gis.topology/coordinateextensions/

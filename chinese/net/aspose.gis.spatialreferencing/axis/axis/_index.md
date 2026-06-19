@@ -1,7 +1,7 @@
 ---
 title: "Axis.Axis"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Axis 构造函数。创建新实例。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Axis 构造函数。创建新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/axis/axis/
@@ -16,7 +16,7 @@ public Axis(string name, AxisDirection direction)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 轴的名称。 |
+| 名称 | 字符串 | 轴的名称。 |
 | 方向 | AxisDirection | 轴的方向。 |
 
 ### 另见

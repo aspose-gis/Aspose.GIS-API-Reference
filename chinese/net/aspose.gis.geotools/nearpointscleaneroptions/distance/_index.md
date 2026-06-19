@@ -1,6 +1,6 @@
 ---
 title: "NearPointsCleanerOptions.Distance"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "NearPointsCleanerOptions 属性。用于检查点是否接近另一个点的参数。默认值为 0"
 type: docs
 weight: 20

@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.SymDifference"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IGeometry 方法。构建此几何对象与指定几何对象的对称差"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IGeometry 方法。构建此几何对象与指定几何对象之间的对称差。"
 type: docs
 weight: 330
 url: /zh/net/aspose.gis.geometries/igeometry/symdifference/
@@ -20,7 +20,7 @@ public IGeometry SymDifference(IGeometry other)
 
 ### 返回值
 
-表示此几何与参数的对称差的几何。结果几何包含出现在其中一个几何中但不同时出现在两者中的点集。
+表示此几何与参数的对称差的几何。结果几何包含出现在其中一个几何中但不同时出现在两个几何中的点集。
 
 ### 异常
 

@@ -1,6 +1,6 @@
 ---
 title: "RasterMapLayer.Resampling"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterMapLayer 属性。指定地图上图层的扭曲选项"
 type: docs
 weight: 30

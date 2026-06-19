@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttributeCollection.Remove"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttributeCollection 方法。从集合中移除属性"
 type: docs
 weight: 90
@@ -16,7 +16,7 @@ public void Remove(string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 属性的名称。 |
+| 名称 | 字符串 | 属性的名称。 |
 
 ### 异常
 

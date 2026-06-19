@@ -1,14 +1,14 @@
 ---
 title: "MultiStreamPath.MultiStreamPath"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MultiStreamPath 构造函数。创建 MultiStreamPath 的实例"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MultiStreamPath 构造函数。创建一个 MultiStreamPath 实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/multistreampath/multistreampath/
 ---
 ## MultiStreamPath constructor
 
-创建 [`MultiStreamPath`](../) 的实例。
+创建一个 [`MultiStreamPath`](../) 实例。
 
 ```csharp
 public MultiStreamPath(string entryFileName, Dictionary<string, Stream> streamSet)
@@ -16,7 +16,7 @@ public MultiStreamPath(string entryFileName, Dictionary<string, Stream> streamSe
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| entryFileName | String | 表示多文件格式的主文件。 |
+| entryFileName | 字符串 | 表示多文件格式的主文件。 |
 | streamSet | Dictionary`2 | 所有文件名及其流的完整集合。 |
 
 ### 另见

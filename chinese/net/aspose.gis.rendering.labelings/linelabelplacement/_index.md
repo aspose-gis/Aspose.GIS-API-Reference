@@ -1,7 +1,7 @@
 ---
 title: "类 LineLabelPlacement"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.Labelings.LineLabelPlacement 类。线标注放置将在沿线放置标签。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.Labelings.LineLabelPlacement 类。线标签放置将在沿线放置标签"
 type: docs
 weight: 4100
 url: /zh/net/aspose.gis.rendering.labelings/linelabelplacement/
@@ -25,9 +25,9 @@ public class LineLabelPlacement : LabelPlacement
 
 | 名称 | 描述 |
 | --- | --- |
-| [Alignment](../../aspose.gis.rendering.labelings/linelabelplacement/alignment/) { get; set; } | 指定标签如何与线性路径对齐。默认是 Parallel（平行）。 |
-| [MaxAngleDelta](../../aspose.gis.rendering.labelings/linelabelplacement/maxangledelta/) { get; set; } | 在使用 Curved 时，设置弯曲标签中相邻字符之间的最大角度（度）。默认值为 25。 |
-| [Offset](../../aspose.gis.rendering.labelings/linelabelplacement/offset/) { get; set; } | 相对于线性路径的偏移。正值向线的左侧偏移，负值向右侧偏移。默认值为 0。 |
+| [Alignment](../../aspose.gis.rendering.labelings/linelabelplacement/alignment/) { get; set; } | 指定标签如何与线性路径对齐。默认是 Parallel。 |
+| [MaxAngleDelta](../../aspose.gis.rendering.labelings/linelabelplacement/maxangledelta/) { get; set; } | 当与 Curved 一起使用时，设置弯曲标签中相邻两个字符之间的最大角度（以度为单位）。默认是 25。 |
+| [Offset](../../aspose.gis.rendering.labelings/linelabelplacement/offset/) { get; set; } | 相对于线性路径的偏移。正值向线的左侧偏移，负值向右侧偏移。默认是 0。 |
 
 ## 方法
 

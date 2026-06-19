@@ -1,6 +1,6 @@
 ---
 title: "枚举 MarkerShapeType"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Symbolizers.MarkerShapeType 枚举。标记的形状类型"
 type: docs
 weight: 4320
@@ -20,9 +20,9 @@ public enum MarkerShapeType
 | --- | --- | --- |
 | Circle | `0` | 圆形。 |
 | Triangle | `1` | 三角形。 |
-| Square | `2` | 方形。 |
-| Star | `3` | 星形。 |
-| Cross | `4` | 十字形。 |
+| Square | `2` | 正方形形状。 |
+| Star | `3` | 星形形状。 |
+| Cross | `4` | 十字形形状。 |
 | X | `5` | 'X' 字母形状。 |
 
 ### 另见

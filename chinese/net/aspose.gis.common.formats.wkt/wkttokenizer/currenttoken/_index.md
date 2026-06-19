@@ -1,7 +1,7 @@
 ---
 title: "WktTokenizer.CurrentToken"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WktTokenizer 属性。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WktTokenizer 属性."
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.common.formats.wkt/wkttokenizer/currenttoken/

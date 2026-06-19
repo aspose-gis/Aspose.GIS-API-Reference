@@ -1,14 +1,14 @@
 ---
 title: "Geometry.Crosses"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 方法。确定此几何体与指定几何体是否相交。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Geometry 方法。确定此几何体与指定几何体是否相交"
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.geometries/geometry/crosses/
 ---
 ## Geometry.Crosses method
 
-确定此几何体与指定几何体是否相交。
+确定此几何体与指定的几何体是否相交。
 
 ```csharp
 public bool Crosses(IGeometry other)
@@ -28,11 +28,11 @@ public bool Crosses(IGeometry other)
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
 | ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 的几何体空间参考系统不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
 ## 备注
 
-此方法测试几何体在 DE-9IM 交叉矩阵方面是否相交。若两个几何体共享部分但不是全部内部点，且交叉的维度小于至少一个几何体的维度，则它们相交。即：两个 [`LineString`](../../linestring/) 相交时会形成字母 'X'，[`LineString`](../../linestring/) 与 [`Polygon`](../../polygon/) 相交时，若该 LineString 穿过 Polygon 的内部。有关 DE-9IM 以及 "在空间上相交" 关系的更多细节，请参阅 OpenGIS Simple Features Specification。
+此方法测试几何体在 DE-9IM 交叉矩阵方面是否相交。若两个几何体共享部分但不是全部内部点，且交叉的维度小于至少一个几何体的维度，则它们相交。即：两个 [`LineString`](../../linestring/) 相交时，会形成一个 'X' 形；当 [`LineString`](../../linestring/) 穿过 [`Polygon`](../../polygon/) 的内部时，LineString 与 Polygon 相交。有关 DE-9IM 以及 “在空间上相交” 关系的更多细节，请参阅 OpenGIS Simple Features Specification。
 
 ### 另见
 

@@ -1,7 +1,7 @@
 ---
 title: "ImageData.ImageSize"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageData 属性。EXIF 标记 ImageWidth 和 ImageHeight"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageData 属性。EXIF 标签 ImageWidth 和 ImageHeight"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.imagemetadata/imagedata/imagesize/

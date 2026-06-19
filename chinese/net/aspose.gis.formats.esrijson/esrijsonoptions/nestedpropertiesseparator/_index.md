@@ -1,6 +1,6 @@
 ---
 title: "EsriJsonOptions.NestedPropertiesSeparator"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "EsriJsonOptions 属性。获取或设置用于分隔嵌套属性组件的字符串。默认是 _"
 type: docs
 weight: 20

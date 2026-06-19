@@ -1,6 +1,6 @@
 ---
 title: "Surface.GetPointOnSurface"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Surface 方法。查找一个保证位于此表面的点"
 type: docs
 weight: 20

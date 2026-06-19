@@ -1,6 +1,6 @@
 ---
 title: "LocalSpatialReferenceSystem.HasPrimeMeridian"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LocalSpatialReferenceSystem 属性。返回 false，因为本地 SRS 没有本初子午线"
 type: docs
 weight: 50

@@ -1,6 +1,6 @@
 ---
 title: "GeneratorTilesRenderOptions.BackgroundColor"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeneratorTilesRenderOptions 属性。背景颜色"
 type: docs
 weight: 20

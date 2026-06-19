@@ -1,7 +1,7 @@
 ---
 title: "WktWriter.WriteNumber"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WktWriter 方法。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WktWriter 方法."
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.common.formats.wkt/wktwriter/writenumber/

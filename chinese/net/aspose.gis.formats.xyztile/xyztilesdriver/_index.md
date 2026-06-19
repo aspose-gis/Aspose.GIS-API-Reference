@@ -1,14 +1,14 @@
 ---
 title: "类 XyzTilesDriver"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.XyzTile.XyzTilesDriver 类。XYZ 瓦片 Web 地图的驱动程序"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.XyzTile.XyzTilesDriver 类。XYZ 瓦片网络地图的驱动程序"
 type: docs
 weight: 2420
 url: /zh/net/aspose.gis.formats.xyztile/xyztilesdriver/
 ---
 ## XyzTilesDriver class
 
-XYZ 瓦片网络地图的驱动程序。
+用于 XYZ 瓦片网络地图的驱动程序。
 
 ```csharp
 public class XyzTilesDriver : Driver

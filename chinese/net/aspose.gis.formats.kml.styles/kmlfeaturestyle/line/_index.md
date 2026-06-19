@@ -1,7 +1,7 @@
 ---
 title: "KmlFeatureStyle.Line"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "KmlFeatureStyle 属性。指定所有线几何的绘制样式、颜色、颜色模式和线宽。使用 null 表示缺失的样式。默认值为 null"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "KmlFeatureStyle 属性。指定所有线几何体的绘图样式、颜色、颜色模式和线宽。使用 null 表示缺失的样式。默认值为 null"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/line/

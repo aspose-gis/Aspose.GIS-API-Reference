@@ -1,6 +1,6 @@
 ---
 title: "MultiBandColor.MultiBandColor"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MultiBandColor 构造函数。初始化 MultiBandColor 类的新实例"
 type: docs
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: "PostGisDriver.FromQuery"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "PostGisDriver 方法。为自定义数据库查询配置数据源"
 type: docs
 weight: 20
@@ -16,7 +16,7 @@ public DatabaseQueryDataSourceBuilder FromQuery(string query)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 查询 | String | 查询字符串。 |
+| query | 字符串 | 查询字符串。 |
 
 ### 返回值
 

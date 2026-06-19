@@ -1,6 +1,6 @@
 ---
 title: "MapOptions.SpatialReference"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapOptions 字段。空间参考。默认值为 Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator"
 type: docs
 weight: 100

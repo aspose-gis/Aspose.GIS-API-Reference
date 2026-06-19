@@ -1,6 +1,6 @@
 ---
 title: "KmlCoordinate.XUnits"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlCoordinate 属性。X 值的单位。默认值为 Fraction"
 type: docs
 weight: 30

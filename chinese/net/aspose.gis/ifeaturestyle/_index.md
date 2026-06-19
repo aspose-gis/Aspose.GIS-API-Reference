@@ -1,7 +1,7 @@
 ---
 title: "接口 IFeatureStyle"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.IFeatureStyle 接口。特征样式层次结构的根接口类"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.IFeatureStyle 接口。该接口是特征样式层次结构的根类。"
 type: docs
 weight: 3040
 url: /zh/net/aspose.gis/ifeaturestyle/

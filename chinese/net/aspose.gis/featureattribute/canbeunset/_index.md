@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttribute.CanBeUnset"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttribute 属性。获取或设置一个值，指示此属性的值是否可以省略"
 type: docs
 weight: 30

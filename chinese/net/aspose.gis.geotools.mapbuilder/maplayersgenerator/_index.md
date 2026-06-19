@@ -1,6 +1,6 @@
 ---
 title: "类 MapLayersGenerator"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator 类。地图图层生成器"
 type: docs
 weight: 2580

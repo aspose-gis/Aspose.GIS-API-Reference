@@ -1,6 +1,6 @@
 ---
 title: "类 GeoTiffDriver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.GeoTiff.GeoTiffDriver 类。用于 Geo TIFF 栅格的驱动程序"
 type: docs
 weight: 1930
@@ -26,9 +26,9 @@ public class GeoTiffDriver : RasterDriver
 | --- | --- |
 | [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(AbstractPath) | 打开该图层进行读取。 |
 | [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string) | 打开该图层进行读取。 |
-| [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer/#openlayer_1)(AbstractPath, GeoTiffOptions) | 打开图层进行读取。 |
+| [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer/#openlayer_1)(AbstractPath, GeoTiffOptions) | 以读取模式打开图层。 |
 | override [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer/#openlayer_2)(AbstractPath, RasterDriverOptions) | 打开该图层进行读取。 |
-| [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer/#openlayer_4)(string, GeoTiffOptions) | 打开图层进行读取。 |
+| [OpenLayer](../../aspose.gis.formats.geotiff/geotiffdriver/openlayer/#openlayer_4)(string, GeoTiffOptions) | 以读取模式打开图层。 |
 | [OpenLayer](../../aspose.gis/rasterdriver/openlayer/)(string, RasterDriverOptions) | 打开该图层进行读取。 |
 
 ### 另见

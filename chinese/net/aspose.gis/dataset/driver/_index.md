@@ -1,6 +1,6 @@
 ---
 title: "Dataset.Driver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Dataset 属性。获取实例化此数据集的 Driver"
 type: docs
 weight: 50

@@ -1,6 +1,6 @@
 ---
 title: "Renderer.Render"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Renderer 方法。渲染地图"
 type: docs
 weight: 10
@@ -17,14 +17,14 @@ public void Render(Map map, string outputPath)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | 地图 | 地图 | 要渲染的地图。 |
-| outputPath | String | 输出文件的路径。 |
+| outputPath | 字符串 | 输出文件的路径。 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任何参数为 `null`。 |
-| IOException | 发生 I/O 错误。 |
+| ArgumentNullException | 任意参数为 `null`。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -52,8 +52,8 @@ public void Render(Map map, AbstractPath outputPath)
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任何参数为 `null`。 |
-| IOException | 发生 I/O 错误。 |
+| ArgumentNullException | 任意参数为 `null`。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 

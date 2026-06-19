@@ -1,7 +1,7 @@
 ---
 title: "类 ContainmentTreeNode"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.ContainmentTreeNode 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.ContainmentTreeNode 类."
 type: docs
 weight: 4870
 url: /zh/net/aspose.gis.topology/containmenttreenode/

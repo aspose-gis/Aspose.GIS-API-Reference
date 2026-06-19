@@ -1,6 +1,6 @@
 ---
 title: "MarkerLine.FeatureBasedConfiguration"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerLine 属性。用于在渲染要素之前配置此符号化器的回调函数"
 type: docs
 weight: 20
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.rendering.symbolizers/markerline/featurebasedconfigurati
 ---
 ## MarkerLine.FeatureBasedConfiguration property
 
-一个回调，用于在渲染要素之前配置此symbolizer。
+用于在渲染要素之前配置此符号器的回调。
 
 ```csharp
 public Action<Feature, MarkerLine> FeatureBasedConfiguration { get; set; }

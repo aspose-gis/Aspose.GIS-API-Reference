@@ -1,6 +1,6 @@
 ---
 title: "Geometry.SpatiallyEquals"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 方法。确定此几何对象是否在空间上等于指定的几何对象"
 type: docs
 weight: 370
@@ -28,7 +28,7 @@ public bool SpatiallyEquals(IGeometry other)
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
 | ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 的几何体空间参考系统不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
 ## 备注
 

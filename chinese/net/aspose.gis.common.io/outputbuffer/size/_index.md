@@ -1,6 +1,6 @@
 ---
 title: "OutputBuffer.Size"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "OutputBuffer 属性。"
 type: docs
 weight: 20

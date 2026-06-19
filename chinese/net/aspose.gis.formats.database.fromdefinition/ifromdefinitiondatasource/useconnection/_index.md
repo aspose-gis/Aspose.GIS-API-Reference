@@ -1,7 +1,7 @@
 ---
 title: "IFromDefinitionDataSource.UseConnection"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IFromDefinitionDataSource 方法。必需的当前连接配置"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IFromDefinitionDataSource 方法。当前连接的必需配置"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/useconnection/

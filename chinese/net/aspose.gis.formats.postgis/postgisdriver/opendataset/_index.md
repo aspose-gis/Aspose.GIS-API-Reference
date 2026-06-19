@@ -1,6 +1,6 @@
 ---
 title: "PostGisDriver.OpenDataset"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "PostGisDriver 方法。打开数据集"
 type: docs
 weight: 30
@@ -28,7 +28,7 @@ public override Dataset OpenDataset(IDbConnection connection)
 | --- | --- |
 | ArgumentNullException | 连接为 `null`。 |
 | [GisException](../../../aspose.gis/gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 

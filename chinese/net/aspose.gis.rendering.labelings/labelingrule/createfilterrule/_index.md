@@ -1,6 +1,6 @@
 ---
 title: "LabelingRule.CreateFilterRule"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LabelingRule 方法。创建一个新规则，当要素通过过滤器时对其应用标注"
 type: docs
 weight: 20
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.rendering.labelings/labelingrule/createfilterrule/
 ---
 ## LabelingRule.CreateFilterRule method
 
-创建新规则，当要素通过过滤时，对其应用标注。
+创建新规则，当要素通过过滤时对其应用标注。
 
 ```csharp
 public static LabelingRule CreateFilterRule(Func<Feature, bool> filter, Labeling labeling)

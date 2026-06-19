@@ -1,14 +1,14 @@
 ---
 title: "SimpleMarker.FeatureBasedConfiguration"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleMarker 属性。一个回调，用于在渲染特征之前配置此符号化器"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleMarker 属性。一个回调，用于在渲染特征之前配置此符号化器。"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/featurebasedconfiguration/
 ---
 ## SimpleMarker.FeatureBasedConfiguration property
 
-一个回调，用于在渲染要素之前配置此symbolizer。
+用于在渲染要素之前配置此符号器的回调。
 
 ```csharp
 public Action<Feature, SimpleMarker> FeatureBasedConfiguration { get; set; }

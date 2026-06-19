@@ -1,6 +1,6 @@
 ---
 title: "类 Label"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Labeling.Label 类。"
 type: docs
 weight: 3230

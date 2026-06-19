@@ -1,7 +1,7 @@
 ---
 title: "VectorMapLayer.ImportSldFromString"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VectorMapLayer 方法。从指定的 Styled Layer Descriptor 字符串导入样式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VectorMapLayer 方法。从指定的 Styled Layer Descriptor 字符串导入样式。"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering/vectormaplayer/importsldfromstring/
@@ -16,7 +16,7 @@ public void ImportSldFromString(string sld, SldImportOptions options = null)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sld | String | Styled Layer Descriptor。 |
+| sld | 字符串 | Styled Layer Descriptor。 |
 | options | SldImportOptions | 导入选项。 |
 
 ### 异常

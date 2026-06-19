@@ -1,6 +1,6 @@
 ---
 title: "类 WayOptions"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.WayAnalyzer.WayOptions 类。用于在地图上寻找路径的选项"
 type: docs
 weight: 2650
@@ -35,7 +35,7 @@ public class WayOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools.wayanalyzer/wayoptions/clone/)() | 将对象克隆到另一个对象。 |
+| [Clone](../../aspose.gis.geotools.wayanalyzer/wayoptions/clone/)() | 将对象克隆为另一个对象。 |
 
 ### 另见
 

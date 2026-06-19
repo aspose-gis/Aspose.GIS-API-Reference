@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttribute.DataType"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttribute 属性。获取属性的数据类型"
 type: docs
 weight: 40
