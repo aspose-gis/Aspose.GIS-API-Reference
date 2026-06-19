@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/measurement/millimeters/
 ---
 ## Measurement.Millimeters method
 
-يعيد نسخة جديدة من `Measurement` تمثل الطول بالمليمترات.
+يعيد نسخة جديدة من `Measurement` تمثل الطول بالمليمتر.
 
 ```csharp
 public static Measurement Millimeters(double value)
@@ -16,7 +16,7 @@ public static Measurement Millimeters(double value)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | عدد المليمترات. |
+| القيمة | Double | عدد المليمترات. |
 
 ### قيمة الإرجاع
 

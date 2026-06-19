@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projection/parametersnames/
 ---
 ## Projection.ParametersNames property
 
-يحصل على مجموعة قابلة للتعداد من أسماء المعلمات المخصصة لهذا الإسقاط
+يحصل على مجموعة قابلة للتعداد لأسماء المعلمات المخصصة لهذا الإسقاط
 
 ```csharp
 public IList<string> ParametersNames { get; }

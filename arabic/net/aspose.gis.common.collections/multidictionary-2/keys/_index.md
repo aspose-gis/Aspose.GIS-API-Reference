@@ -1,7 +1,7 @@
 ---
 title: "MultiDictionary2.Keys"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MultiDictionary خاصية."
+description: "خاصية MultiDictionary."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.collections/multidictionary-2/keys/

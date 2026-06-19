@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlitemicon/kmlitemicon/
 ---
 ## KmlItemIcon constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public KmlItemIcon()

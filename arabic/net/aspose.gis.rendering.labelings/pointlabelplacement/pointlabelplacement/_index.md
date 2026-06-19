@@ -1,14 +1,14 @@
 ---
 title: "PointLabelPlacement.PointLabelPlacement"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ PointLabelPlacement. ينشئ مثيلاً جديداً"
+description: "منشئ PointLabelPlacement. ينشئ مثلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/pointlabelplacement/pointlabelplacement/
 ---
 ## PointLabelPlacement() {#constructor}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public PointLabelPlacement()
@@ -24,7 +24,7 @@ public PointLabelPlacement()
 
 ## PointLabelPlacement(PointLabelPlacement) {#constructor_1}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public PointLabelPlacement(PointLabelPlacement other)
@@ -32,7 +32,7 @@ public PointLabelPlacement(PointLabelPlacement other)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| other | PointLabelPlacement | الآخر [`PointLabelPlacement`](../) لنسخ البيانات منه. |
+| other | PointLabelPlacement | الـ [`PointLabelPlacement`](../) الآخر لنسخ البيانات منه. |
 
 ### استثناءات
 

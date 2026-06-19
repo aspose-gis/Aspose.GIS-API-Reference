@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/map/extent/
 ---
 ## Map.Extent property
 
-يحدد حدود الخريطة لتصيرها. إذا تم تعيينه إلى `null`، يتم حساب الامتداد أثناء التصيير لتضمين جميع الأشكال في جميع الطبقات.
+يحدد حدود الخريطة للعرض. إذا تم تعيينه إلى `null`، يتم حساب الامتداد أثناء العرض لتضمين جميع الأشكال في جميع الطبقات.
 
 ```csharp
 public Extent Extent { get; set; }
@@ -18,11 +18,11 @@ public Extent Extent { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | [`IsValid`](../../../aspose.gis/extent/isvalid/) هو `false`.[`Width`](../../../aspose.gis/extent/width/) أقل من أو يساوي الصفر.[`Height`](../../../aspose.gis/extent/height/) أقل من أو يساوي الصفر.[`SpatialReferenceSystem`](../../../aspose.gis/extent/spatialreferencesystem/) هو `null`. |
+| ArgumentException | `[`IsValid`](../../../aspose.gis/extent/isvalid/) هي `false`.[`Width`](../../../aspose.gis/extent/width/) أقل من أو يساوي الصفر.[`Height`](../../../aspose.gis/extent/height/) أقل من أو يساوي الصفر.[`SpatialReferenceSystem`](../../../aspose.gis/extent/spatialreferencesystem/) هي `null`. |
 
 ## ملاحظات
 
-إذا لم يكن نظام الإحداثيات المكاني للامتداد مساويًا لنظام الإحداثيات المكاني للخريطة، يتم تحويل الامتداد إلى نظام الإحداثيات المكاني الهدف أثناء العرض.
+إذا كان نظام الإحداثيات المكاني للامتداد ليس مساويًا لنظام الإحداثيات المكاني للخريطة، يتم تحويل الامتداد إلى نظام الإحداثيات المكاني الهدف أثناء العرض.
 
 ### انظر أيضًا
 

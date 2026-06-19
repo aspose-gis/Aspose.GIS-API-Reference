@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/dataset/canremovelayers/
 ---
 ## Dataset.CanRemoveLayers property
 
-يحصل على قيمة تشير إلى ما إذا كانت مجموعة البيانات هذه يمكنها إزالة طبقات متجهة.
+يحصل على قيمة تشير إلى ما إذا كان يمكن لهذه مجموعة البيانات إزالة طبقات متجهة.
 
 ```csharp
 public virtual bool CanRemoveLayers { get; }
@@ -16,7 +16,7 @@ public virtual bool CanRemoveLayers { get; }
 
 ### Property Value
 
-`true`، إذا كان بإمكان مجموعة البيانات هذه إزالة طبقات متجهة؛ وإلا `false`.
+`true`، إذا كانت مجموعة البيانات هذه يمكنها إزالة طبقات متجهة؛ وإلا، `false`.
 
 ### انظر أيضًا
 

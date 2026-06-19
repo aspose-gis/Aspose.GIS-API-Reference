@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.relationship.joins/joinbygeometryoptions/joinedattribute
 ---
 ## JoinByGeometryOptions.JoinedAttributesPrefix property
 
-يحدد سلسلة بادئة لأسماء السمات المدمجة. القيمة الافتراضية هي "joined_".
+يحدد سلسلة بادئة لأسماء السمات المرتبطة. القيمة الافتراضية هي "joined_".
 
 ```csharp
 public string JoinedAttributesPrefix { get; set; }

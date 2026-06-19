@@ -1,7 +1,7 @@
 ---
 title: "SystemDrawingPaintEngine.RoundedHeight"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "SystemDrawingPaintEngine خاصية."
+description: "خاصية SystemDrawingPaintEngine."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.painting/systemdrawingpaintengine/roundedheight/

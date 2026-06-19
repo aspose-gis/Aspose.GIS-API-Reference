@@ -1,14 +1,14 @@
 ---
 title: "CoordinateSystem.CoordinateSystem"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ CoordinateSystem. المنشئ الافتراضي"
+description: "CoordinateSystem منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo/coordinatesystem/coordinatesystem/
 ---
 ## CoordinateSystem constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public CoordinateSystem()

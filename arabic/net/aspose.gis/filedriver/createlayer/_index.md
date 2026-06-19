@@ -16,11 +16,11 @@ public VectorLayer CreateLayer(string path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
+| path | String | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -29,7 +29,7 @@ public VectorLayer CreateLayer(string path)
 | ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجهات (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
 ### انظر أيضًا
 
@@ -50,11 +50,11 @@ public VectorLayer CreateLayer(AbstractPath path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
+| path | AbstractPath | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -63,7 +63,7 @@ public VectorLayer CreateLayer(AbstractPath path)
 | ArgumentNullException | المسار هو `null`. |
 | [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجهات (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
 ### انظر أيضًا
 
@@ -85,12 +85,12 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -100,7 +100,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options)
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجهات (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
 ### انظر أيضًا
 
@@ -122,12 +122,12 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -137,7 +137,7 @@ public VectorLayer CreateLayer(AbstractPath path, DriverOptions options)
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجهات (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
 ### انظر أيضًا
 
@@ -160,12 +160,12 @@ public VectorLayer CreateLayer(string path, SpatialReferenceSystem spatialRefere
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | String | المسار إلى الملف. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -196,12 +196,12 @@ public VectorLayer CreateLayer(AbstractPath path, SpatialReferenceSystem spatial
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -234,13 +234,13 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | String | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -251,7 +251,7 @@ public VectorLayer CreateLayer(string path, DriverOptions options,
 | [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
-| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجهات (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
 ### انظر أيضًا
 
@@ -275,13 +275,13 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -292,7 +292,7 @@ public abstract VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 | [GisException](../../gisexception/) | خطأ في كتابة الميزة إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
-| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجه (انظر [`CanCreateLayers`](../cancreatelayers/)). |
+| NotSupportedException | السائق لا يمكنه إنشاء طبقات المتجهات (انظر [`CanCreateLayers`](../cancreatelayers/)). |
 
 ### انظر أيضًا
 

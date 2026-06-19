@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/rastermaplayer/rastermaplayer/
 ---
 ## RasterMapLayer constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public RasterMapLayer(RasterLayer layer, RasterColorizer colorizer = null, bool keepOpen = false)
@@ -16,8 +16,8 @@ public RasterMapLayer(RasterLayer layer, RasterColorizer colorizer = null, bool 
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الطبقة | RasterLayer | طبقة نقطية. |
-| colorizer | RasterColorizer | المُرمّز لاستخدامه في عرض الطبقة. إذا كان `null`، سيتم استخدام الملون الافتراضي. |
+| الطبقة | RasterLayer | طبقة Raster. |
+| ملون | RasterColorizer | Symbolizer لاستخدامه في تصيير الطبقة. إذا كان `null`، سيتم استخدام colorizer الافتراضي. |
 | keepOpen | Boolean | `true` لترك الطبقة مفتوحة بعد التخلص من كائن [`VectorMapLayer`](../../vectormaplayer/); وإلا، `false`. |
 
 ### استثناءات

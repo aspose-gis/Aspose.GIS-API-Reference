@@ -1,7 +1,7 @@
 ---
 title: "Dataset.GetLayerName"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Dataset. تحصل على اسم الطبقة عند الفهرس المحدد"
+description: "طريقة Dataset. يحصل على اسم الطبقة عند الفهرس المحدد"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/dataset/getlayername/
@@ -16,7 +16,7 @@ public abstract string GetLayerName(int index)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | فهرس الطبقة. |
+| فهرس | Int32 | فهرس الطبقة. |
 
 ### قيمة الإرجاع
 

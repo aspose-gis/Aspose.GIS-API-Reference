@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.geotools.layersmap/mapoptions/
 public class MapOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapOptions](mapoptions/)() | المُنشئ الافتراضي. |
+| [MapOptions](mapoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
@@ -37,7 +37,7 @@ public class MapOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [SpatialReference](../../aspose.gis.geotools.layersmap/mapoptions/spatialreference/) | الإشارة المكانية. القيمة الافتراضية هي Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator. |
+| [SpatialReference](../../aspose.gis.geotools.layersmap/mapoptions/spatialreference/) | المرجع المكاني. القيمة الافتراضية هي Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator. |
 
 ### انظر أيضًا
 

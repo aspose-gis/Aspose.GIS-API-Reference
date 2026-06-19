@@ -1,7 +1,7 @@
 ---
 title: "Drivers.XyzTiles"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. سائق لخريطة الويب المتقطعة مثل OpenStreetMaps Google Maps إلخ"
+description: "خاصية Drivers. برنامج تشغيل لخريطة الويب المتقطعة مثل OpenStreetMaps و Google Maps وغيرها"
 type: docs
 weight: 260
 url: /ar/net/aspose.gis/drivers/xyztiles/

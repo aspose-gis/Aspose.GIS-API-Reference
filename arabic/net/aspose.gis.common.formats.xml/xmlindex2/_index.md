@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.xml/xmlindex2/
 public class XmlIndex2 : IDisposable
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

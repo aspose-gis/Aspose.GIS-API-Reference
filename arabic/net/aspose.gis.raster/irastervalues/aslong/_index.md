@@ -1,14 +1,14 @@
 ---
 title: "IRasterValues.AsLong"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IRasterValues. تحوّل بيانات النطاق المحدد إلى قيمة من نوع long"
+description: "طريقة IRasterValues. تحول بيانات النطاق المحدد إلى قيمة من نوع long"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.raster/irastervalues/aslong/
 ---
 ## IRasterValues.AsLong method
 
-يحوّل بيانات الشريط المحدد إلى قيمة `long`.
+يقوم بتحويل بيانات النطاق المحدد إلى قيمة `long`.
 
 ```csharp
 public long AsLong(int bandIndex = 0)

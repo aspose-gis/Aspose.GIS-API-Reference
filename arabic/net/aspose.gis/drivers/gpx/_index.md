@@ -1,7 +1,7 @@
 ---
 title: "Drivers.Gpx"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق GPX"
+description: "Drivers خاصية. محرك لتنسيق GPX."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/drivers/gpx/

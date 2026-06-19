@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/extent/growx/
 ---
 ## Extent.GrowX method
 
-يوسّع هذا النطاق على محور X بحيث يشمل القيمة المحددة.
+يوسع هذا النطاق على محور X بحيث يشمل القيمة المحددة.
 
 ```csharp
 public void GrowX(double value)
@@ -16,7 +16,7 @@ public void GrowX(double value)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | القيمة التي يجب تضمينها. |
+| القيمة | Double | القيمة التي يجب تضمينها. |
 
 ### انظر أيضًا
 

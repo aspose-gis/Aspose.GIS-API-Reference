@@ -1,7 +1,7 @@
 ---
 title: "IRasterCellSize.ScaleY"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية IRasterCellSize. الحصول على المكوّن y لارتفاع الخلية أو البكسل yscale عادةً سالب"
+description: "خاصية IRasterCellSize. يسترجع المكوّن y لارتفاع الخلية أو البكسل yscale عادةً سالب"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/irastercellsize/scaley/

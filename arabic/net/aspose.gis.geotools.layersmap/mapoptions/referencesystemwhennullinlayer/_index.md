@@ -1,14 +1,14 @@
 ---
 title: "MapOptions.ReferenceSystemWhenNullInLayer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "حقل MapOptions. يحدد قيمة لإشارة الفضاء للطبقة إذا كانت مفقودة. الافتراضي هو Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator"
+description: "حقل MapOptions. يحدد قيمة لمرجع الفضاء للطبقة إذا كان مفقودًا. القيمة الافتراضية هي Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geotools.layersmap/mapoptions/referencesystemwhennullinlayer/
 ---
 ## MapOptions.ReferenceSystemWhenNullInLayer field
 
-يحدد قيمة لإشارة الفضاء للطبقة إذا كانت مفقودة. الافتراضي هو Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator.
+يحدد قيمة لمرجع الفضاء للطبقة إذا كان مفقودًا. القيمة الافتراضية هي Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator.
 
 ```csharp
 public SpatialReferenceSystem ReferenceSystemWhenNullInLayer;

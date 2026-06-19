@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/precisionmodel/op_inequality/
 ---
 ## PrecisionModel Inequality operator
 
-ينفذ العامل !=.
+ينفّذ العامل !=.
 
 ```csharp
 public static bool operator !=(PrecisionModel a, PrecisionModel b)
@@ -16,12 +16,12 @@ public static bool operator !=(PrecisionModel a, PrecisionModel b)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | PrecisionModel | الكائن A. |
-| b | PrecisionModel | الكائن B. |
+| a | PrecisionModel | مثيل A. |
+| b | PrecisionModel | مثيل B. |
 
 ### قيمة الإرجاع
 
-نتيجة المشغل.
+نتيجة العامل.
 
 ### انظر أيضًا
 

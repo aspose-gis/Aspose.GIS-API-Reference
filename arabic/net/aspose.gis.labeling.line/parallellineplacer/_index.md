@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling.line/parallellineplacer/
 public class ParallelLinePlacer : IAlongLinePlacer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: "KmlFeatureStyle.Polygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlFeatureStyle. تحدد نمط الرسم لجميع المضلعات بما في ذلك البروزات المضلعية والبروزات الخطية. استخدم null للإشارة إلى نمط مفقود. القيمة الافتراضية هي null"
+description: "خاصية KmlFeatureStyle. تحدد نمط الرسم لجميع المضلعات بما في ذلك بروزات المضلعات وبروزات الخطوط. استخدم null للإشارة إلى نمط مفقود. القيمة الافتراضية هي null"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/polygon/

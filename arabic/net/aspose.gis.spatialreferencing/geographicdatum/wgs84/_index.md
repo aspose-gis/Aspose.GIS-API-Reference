@@ -1,7 +1,7 @@
 ---
 title: "GeographicDatum.Wgs84"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicDatum. مرجع WGS 84"
+description: "خاصية GeographicDatum. نقطة مرجعية WGS 84"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/wgs84/

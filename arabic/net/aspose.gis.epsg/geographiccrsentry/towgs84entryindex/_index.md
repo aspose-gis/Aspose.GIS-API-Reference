@@ -1,5 +1,5 @@
 ---
-title: "GeographicCrsEntry.إلى_مؤشر_الإدخال_Wgs84"
+title: "GeographicCrsEntry.ToWgs84EntryIndex"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "GeographicCrsEntry خاصية."
 type: docs

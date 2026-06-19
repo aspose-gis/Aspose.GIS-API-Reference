@@ -16,12 +16,12 @@ public override VectorLayer EditLayer(AbstractPath path, DriverOptions options =
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 

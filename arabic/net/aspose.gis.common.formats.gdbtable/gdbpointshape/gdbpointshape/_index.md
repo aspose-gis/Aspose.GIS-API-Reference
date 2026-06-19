@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbpointshape/gdbpointshape/
 ---
 ## GdbPointShape constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GdbPointShape()

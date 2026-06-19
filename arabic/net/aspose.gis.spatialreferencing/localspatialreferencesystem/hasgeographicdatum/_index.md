@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/hasgeogra
 ---
 ## LocalSpatialReferenceSystem.HasGeographicDatum property
 
-يعيد `false`، لأن Local SRS لا يحتوي على مرجع جغرافي.
+يرجع `false`، لأن نظام الإحداثيات المحلي لا يحتوي على مرجع جغرافي.
 
 ```csharp
 public override bool HasGeographicDatum { get; }

@@ -1,7 +1,7 @@
 ---
-title: "الفئة DatabaseEditableDataSourceBuilder"
+title: "فئة DatabaseEditableDataSourceBuilder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Formats.Database.DataEditing.DatabaseEditableDataSourceBuilder. توفر القدرة على تكوين كائن بيانات قاعدة البيانات IDatabaseEditableDataSource مع القدرة على حفظ الميزات المعدلة"
+description: "فئة Aspose.Gis.Formats.Database.DataEditing.DatabaseEditableDataSourceBuilder. توفر القدرة على تكوين كائن بيانات قاعدة البيانات IDatabaseEditableDataSource مع القدرة على حفظ الميزات المعدلة"
 type: docs
 weight: 1710
 url: /ar/net/aspose.gis.formats.database.dataediting/databaseeditabledatasourcebuilder/

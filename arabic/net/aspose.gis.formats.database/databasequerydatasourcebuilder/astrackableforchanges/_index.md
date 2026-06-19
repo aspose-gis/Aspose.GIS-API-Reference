@@ -1,7 +1,7 @@
 ---
 title: "DatabaseQueryDataSourceBuilder.AsTrackableForChanges"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة DatabaseQueryDataSourceBuilder. تكوين الطبقة الناتجة لتتبع التغييرات وإنشاء مصدر بيانات لمزامنة التغييرات التي تم إجراؤها."
+description: "طريقة DatabaseQueryDataSourceBuilder. ضبط الطبقة الناتجة لتتبع التغييرات وإنشاء مصدر بيانات لمزامنة التغييرات التي تم إجراؤها."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.database/databasequerydatasourcebuilder/astrackableforchanges/
@@ -18,9 +18,9 @@ public DatabaseEditableDataSourceBuilder AsTrackableForChanges(string tableName,
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | tableName | String | اسم الجدول الذي ستُجرى فيه التغييرات. |
-| identityAttribute | String | سمة للميزة ستُعامل كمعرف فريد للميزة. |
-| overwriteSameKey | Boolean | إذا تم تعيين هذه العلامة إلى true، فإن الميزات المضافة حديثًا ذات المعرف الفريد المتطابق مع الموجود بالفعل في الطبقة سيتم استبدال الحالية، وسيتم قراءة البيانات على أنها محدثة إذا وُجدت اختلافات. |
-| dbFunc | String | دالة سيتم توفيرها في استعلام SQL لتحويل البيانات الثنائية إلى تمثيل بيانات جغرافية لقاعدة البيانات الحالية. |
+| identityAttribute | String | خاصية للميزة ستُعامل كمعرف فريد للميزة. |
+| overwriteSameKey | Boolean | إذا تم تعيين هذه العلامة إلى true، فإن الميزات المضافة حديثًا التي تحمل معرفًا فريدًا موجودًا بالفعل في الطبقة سيتم استبدال الحالية به، وسيتم قراءة البيانات كأنها محدثة إذا وُجدت اختلافات. |
+| dbFunc | String | الدالة التي سيتم توفيرها في استعلام SQL لتحويل البيانات الثنائية إلى تمثيل بيانات جغرافية لقاعدة البيانات الحالية. |
 
 ### قيمة الإرجاع
 

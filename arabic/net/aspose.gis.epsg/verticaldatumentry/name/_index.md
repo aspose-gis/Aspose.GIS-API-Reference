@@ -1,5 +1,5 @@
 ---
-title: "VerticalDatumEntry.الاسم"
+title: "VerticalDatumEntry.Name"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "VerticalDatumEntry خاصية."
 type: docs

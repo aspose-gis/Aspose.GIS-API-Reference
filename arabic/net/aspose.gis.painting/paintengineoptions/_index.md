@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/paintengineoptions/
 public class PaintEngineOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [PaintEngineOptions](paintengineoptions/)() | المُنشئ الافتراضي. |
+| [PaintEngineOptions](paintengineoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

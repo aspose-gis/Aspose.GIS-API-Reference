@@ -1,7 +1,7 @@
 ---
-title: "الفئة Datum"
+title: "فئة Datum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.Formats.MapInfo.Datum."
+description: "Aspose.Gis.Common.Formats.MapInfo.Datum فئة."
 type: docs
 weight: 550
 url: /ar/net/aspose.gis.common.formats.mapinfo/datum/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo/datum/
 public class Datum
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Datum](datum/)() | المُنشئ الافتراضي. |
+| [Datum](datum/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

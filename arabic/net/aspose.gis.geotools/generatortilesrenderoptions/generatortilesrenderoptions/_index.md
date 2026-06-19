@@ -1,7 +1,7 @@
 ---
 title: "GeneratorTilesRenderOptions.GeneratorTilesRenderOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ GeneratorTilesRenderOptions. إنشاء كائن مع الحقول الأولية بشكل افتراضي"
+description: "منشئ GeneratorTilesRenderOptions. إنشاء نسخة مع الحقول الأولية بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/generatortilesrenderoptions/generatortilesrenderoptions/

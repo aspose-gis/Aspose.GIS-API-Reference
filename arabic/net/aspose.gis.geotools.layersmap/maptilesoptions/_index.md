@@ -14,17 +14,17 @@ url: /ar/net/aspose.gis.geotools.layersmap/maptilesoptions/
 public class MapTilesOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapTilesOptions](maptilesoptions/)() | المُنشئ الافتراضي. |
+| [MapTilesOptions](maptilesoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Level](../../aspose.gis.geotools.layersmap/maptilesoptions/level/) { get; set; } | مستوى التكبير لتحميل البلاط. القيمة الافتراضية هي 3. |
+| [Level](../../aspose.gis.geotools.layersmap/maptilesoptions/level/) { get; set; } | مستوى التكبير لتحميل البلاط. الافتراضي هو 3. |
 | [Url](../../aspose.gis.geotools.layersmap/maptilesoptions/url/) { get; set; } | عنوان URL أو مسار إلى ملف. |
 
 ### انظر أيضًا

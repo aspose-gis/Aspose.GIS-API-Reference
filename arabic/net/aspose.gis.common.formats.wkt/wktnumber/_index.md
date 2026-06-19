@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.wkt/wktnumber/
 public sealed class WktNumber : WktSingleValue<double>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

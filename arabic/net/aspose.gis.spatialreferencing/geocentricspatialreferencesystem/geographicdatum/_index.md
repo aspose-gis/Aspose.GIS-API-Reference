@@ -1,14 +1,14 @@
 ---
 title: "GeocentricSpatialReferenceSystem.GeographicDatum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeocentricSpatialReferenceSystem. إرجاع المرجع الجغرافي لهذا SRS"
+description: "خاصية GeocentricSpatialReferenceSystem. إرجاع المعيار الجغرافي لهذا النظام المرجعي المكاني"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/geographicdatum/
 ---
 ## GeocentricSpatialReferenceSystem.GeographicDatum property
 
-يرجع datum الجغرافي لهذا SRS.
+يعيد المرجع الجغرافي لهذا الـ SRS.
 
 ```csharp
 public override GeographicDatum GeographicDatum { get; }

@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystemTransformation.Source"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SpatialReferenceSystemTransformation. نظام الإسناد المكاني المصدر"
+description: "خاصية SpatialReferenceSystemTransformation. نظام الإحداثيات المصدري"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/source/

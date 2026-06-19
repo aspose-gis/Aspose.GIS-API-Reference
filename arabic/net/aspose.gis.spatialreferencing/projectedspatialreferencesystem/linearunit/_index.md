@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/linea
 ---
 ## ProjectedSpatialReferenceSystem.LinearUnit property
 
-الوحدة التي تُستخدم للأبعاد الخطية في هذا SRS وللمعلمات الخطية لـ [`Projection`](../projection/).
+الوحدة المستخدمة للأبعاد الخطية في هذا SRS وللمعلمات الخطية لـ [`Projection`](../projection/).
 
 ```csharp
 public abstract Unit LinearUnit { get; }

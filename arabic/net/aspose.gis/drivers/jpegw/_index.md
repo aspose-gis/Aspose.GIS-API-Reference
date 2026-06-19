@@ -1,7 +1,7 @@
 ---
 title: "Drivers.JpegW"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق JpegW النقطي"
+description: "Drivers خاصية. محرك لتنسيق JpegW النقطي."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis/drivers/jpegw/

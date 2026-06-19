@@ -1,5 +1,5 @@
 ---
-title: "فئة NumberOperations"
+title: "الفئة NumberOperations"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Common.NumberOperations."
 type: docs

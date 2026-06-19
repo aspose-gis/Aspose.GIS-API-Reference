@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.epsg/towgs84entry/
 public class ToWgs84Entry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [ToWgs84Entry](towgs84entry/)() | المُنشئ الافتراضي. |
+| [ToWgs84Entry](towgs84entry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

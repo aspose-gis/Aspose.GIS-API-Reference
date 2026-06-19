@@ -1,14 +1,14 @@
 ---
 title: "GisException.GisException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ GisException. يهيئ مثيلًا جديدًا من الفئة GisException"
+description: "منشئ GisException. يهيئ نسخة جديدة من فئة GisException"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/gisexception/gisexception/
 ---
 ## GisException() {#constructor}
 
-يهيئ مثيلًا جديدًا من الفئة [`GisException`](../).
+يهيئ نسخة جديدة من الفئة [`GisException`](../).
 
 ```csharp
 public GisException()
@@ -24,7 +24,7 @@ public GisException()
 
 ## GisException(string) {#constructor_1}
 
-يهيئ مثيلًا جديدًا من الفئة [`GisException`](../).
+يهيئ نسخة جديدة من الفئة [`GisException`](../).
 
 ```csharp
 public GisException(string message)
@@ -44,7 +44,7 @@ public GisException(string message)
 
 ## GisException(string, Exception) {#constructor_2}
 
-يهيئ مثيلًا جديدًا من الفئة [`GisException`](../).
+يهيئ نسخة جديدة من الفئة [`GisException`](../).
 
 ```csharp
 public GisException(string message, Exception inner)

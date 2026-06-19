@@ -1,7 +1,7 @@
 ---
 title: "فئة DatabaseDataSourceBuilder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.Database.DatabaseDataSourceBuilder فئة. توفر القدرة على تكوين كائن مصدر بيانات قاعدة البيانات"
+description: "فئة Aspose.Gis.Formats.Database.DatabaseDataSourceBuilder. توفر القدرة على تكوين كائن مصدر بيانات قاعدة البيانات"
 type: docs
 weight: 1730
 url: /ar/net/aspose.gis.formats.database/databasedatasourcebuilder/
@@ -15,11 +15,11 @@ url: /ar/net/aspose.gis.formats.database/databasedatasourcebuilder/
 public class DatabaseDataSourceBuilder
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [DatabaseDataSourceBuilder](databasedatasourcebuilder/)() | المُنشئ الافتراضي. |
+| [DatabaseDataSourceBuilder](databasedatasourcebuilder/)() | المنشئ الافتراضي. |
 
 ## الطرق
 

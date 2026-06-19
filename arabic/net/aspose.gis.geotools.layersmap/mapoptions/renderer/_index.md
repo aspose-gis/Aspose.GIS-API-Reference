@@ -1,7 +1,7 @@
 ---
 title: "MapOptions.Renderer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapOptions. المعالج للاستخدام. الافتراضي هو Aspose.Gis.Rendering.Renders.Jpeg"
+description: "خاصية MapOptions. Renderer للاستخدام. القيمة الافتراضية هي Aspose.Gis.Rendering.Renders.Jpeg"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geotools.layersmap/mapoptions/renderer/

@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.SetDescription"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. حفظ وسم EXIF ImageDescription بإضافة أو استبدال البيانات"
+description: "طريقة ImageMetadataReader. حفظ وسم EXIF ImageDescription وإضافة أو استبدال البيانات"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/setdescription/

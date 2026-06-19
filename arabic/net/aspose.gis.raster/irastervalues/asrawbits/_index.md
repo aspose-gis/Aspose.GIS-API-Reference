@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/irastervalues/asrawbits/
 ---
 ## IRasterValues.AsRawBits method
 
-احصل على البتات الخام لجميع قيم الأشرطة.
+احصل على البتات الخام لجميع قيم النطاقات.
 
 ```csharp
 public BitArray AsRawBits()

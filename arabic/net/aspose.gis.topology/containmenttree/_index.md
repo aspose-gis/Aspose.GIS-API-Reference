@@ -1,7 +1,7 @@
 ---
 title: "فئة ContainmentTree"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.ContainmentTree فئة."
+description: "فئة Aspose.Gis.Topology.ContainmentTree."
 type: docs
 weight: 4860
 url: /ar/net/aspose.gis.topology/containmenttree/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.topology/containmenttree/
 public class ContainmentTree
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

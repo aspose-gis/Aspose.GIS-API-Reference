@@ -1,12 +1,12 @@
 ---
 title: "Aspose.Gis.Rendering.Labelings"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Rendering.Labelings توفر فئات لتكوين تسمية ميزات المتجهات."
+description: "مساحة الأسماء Aspose.Gis.Rendering.Labelings توفر فئات لتكوين تسمية ميزات المتجهات"
 type: docs
 weight: 720
 url: /ar/net/aspose.gis.rendering.labelings/
 ---
-`Aspose.Gis.Rendering.Labelings` مساحة الاسم توفر فئات لتكوين تسمية ميزات المتجهات.
+مساحة الاسم `Aspose.Gis.Rendering.Labelings` توفر فئات لتكوين تسمية ميزات المتجهات.
 
 ## الفئات
 
@@ -17,7 +17,7 @@ url: /ar/net/aspose.gis.rendering.labelings/
 | [LabelPlacement](./labelplacement/) | تحديد موضع التسمية يوضح كيفية وضع التسميات بالنسبة لهندسة الميزة. |
 | [LineLabelPlacement](./linelabelplacement/) | موضع تسمية الخط يضع التسميات على طول الخط. |
 | [NullLabeling](./nulllabeling/) | الـ [`NullLabeling`](../aspose.gis.rendering.labelings/nulllabeling/) يتخطى تسمية الهندسة التي يُطبق عليها. |
-| [PointLabelPlacement](./pointlabelplacement/) | موضع تسمية النقاط يضع التسميات بالقرب من مراكز الأشكال الهندسية. |
+| [PointLabelPlacement](./pointlabelplacement/) | موضع تسمية النقاط يضع التسميات قرب مراكز الأشكال الهندسية. |
 | [RuleBasedLabeling](./rulebasedlabeling/) | يطبق تسمية على الميزة وفقًا للقواعد المعرفة من قبل المستخدم. |
 | [SimpleLabeling](./simplelabeling/) | تسمية بسيطة تضع التسمية على كل ميزة. |
 ## تعداد

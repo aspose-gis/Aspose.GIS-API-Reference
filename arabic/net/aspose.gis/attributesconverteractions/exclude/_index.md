@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/attributesconverteractions/exclude/
 ---
 ## AttributesConverterActions.Exclude property
 
-يضبط `true` لاستبعاد السمة من الطبقة الوجهة. القيمة الأولية هي `false`.
+يضبط `true` لاستبعاد الخاصية من طبقة الوجهة. القيمة الأولية هي `false`.
 
 ```csharp
 public bool Exclude { get; set; }

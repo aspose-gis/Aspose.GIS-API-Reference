@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.xml/purifyingxmlreader/
 public class PurifyingXmlReader : XmlReader
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -18,10 +18,10 @@ public class KmlDriver : FileDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanCreateDatasets](../../aspose.gis.formats.kml/kmldriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء مجموعات البيانات. |
-| override [CanCreateLayers](../../aspose.gis.formats.kml/kmldriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة. |
-| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات. |
-| override [CanOpenLayers](../../aspose.gis.formats.kml/kmldriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة. |
+| override [CanCreateDatasets](../../aspose.gis.formats.kml/kmldriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء مجموعات البيانات. |
+| override [CanCreateLayers](../../aspose.gis.formats.kml/kmldriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء طبقات متجهية. |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح مجموعات البيانات. |
+| override [CanOpenLayers](../../aspose.gis.formats.kml/kmldriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح طبقات متجهية. |
 
 ## الطرق
 
@@ -54,7 +54,7 @@ public class KmlDriver : FileDriver
 | [OpenLayer](../../aspose.gis.formats.kml/kmldriver/openlayer/#openlayer_2)(AbstractPath, KmlOptions) | يفتح طبقة للقراءة. |
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | يفتح الطبقة للقراءة. |
 | [OpenLayer](../../aspose.gis.formats.kml/kmldriver/openlayer/#openlayer_5)(string, KmlOptions) | يفتح طبقة للقراءة. |
-| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.kml/kmldriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل. |
+| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.kml/kmldriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل البرنامج تشغيل. |
 
 ### انظر أيضًا
 

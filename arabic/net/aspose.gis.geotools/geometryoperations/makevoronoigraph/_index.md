@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/geometryoperations/makevoronoigraph/
 ---
 ## GeometryOperations.MakeVoronoiGraph method
 
-بناء مخطط "فورونوي" لمجموعة من النقاط (المواقع)
+إنشاء مخطط "Voronoi" لمجموعة من النقاط (المواقع)
 
 ```csharp
 public static List<LineString> MakeVoronoiGraph(IEnumerable<IPoint> sites)
@@ -20,7 +20,7 @@ public static List<LineString> MakeVoronoiGraph(IEnumerable<IPoint> sites)
 
 ### قيمة الإرجاع
 
-مجموعة من الحواف لمخطط فوروينوي
+مجموعة من الحواف في مخطط فوروينوي
 
 ### انظر أيضًا
 

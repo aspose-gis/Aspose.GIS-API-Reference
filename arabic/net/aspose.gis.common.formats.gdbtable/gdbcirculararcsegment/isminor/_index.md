@@ -1,7 +1,7 @@
 ---
 title: "GdbCircularArcSegment.IsMinor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GdbCircularArcSegment."
+description: "GdbCircularArcSegment خاصية."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/isminor/

@@ -1,7 +1,7 @@
 ---
 title: "تعداد Orientation"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Orientation تعداد."
+description: "تعداد Aspose.Gis.Topology.Orientation."
 type: docs
 weight: 5020
 url: /ar/net/aspose.gis.topology/orientation/

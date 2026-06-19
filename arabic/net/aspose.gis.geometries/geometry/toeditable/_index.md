@@ -1,7 +1,7 @@
 ---
 title: "Geometry.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Geometry. تحصل على نسخة قابلة للتحرير من هذا الشكل."
+description: "طريقة Geometry. تُعيد نسخة قابلة للتحرير من هذه الهندسة."
 type: docs
 weight: 390
 url: /ar/net/aspose.gis.geometries/geometry/toeditable/
@@ -16,7 +16,7 @@ public Geometry ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 
@@ -37,17 +37,17 @@ public T ToEditable<T>()
 
 | معامل | الوصف |
 | --- | --- |
-| T | نوع الشكل المراد الحصول عليه. يجب أن يكون من الورثة من الفئة [`Geometry`](../). |
+| T | نوع الهندسة المطلوب الحصول عليه. يجب أن يكون مُشتقًا من الفئة [`Geometry`](../). |
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidCastException | غير قادر على تحويل نسخة قابلة للتحرير من هذا الشكل إلى النوع *T*. |
+| InvalidCastException | غير قادر على تحويل نسخة قابلة للتحرير من هذه الهندسة إلى النوع *T*. |
 
 ### انظر أيضًا
 

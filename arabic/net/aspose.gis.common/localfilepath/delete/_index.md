@@ -1,7 +1,7 @@
 ---
 title: "LocalFilePath.Delete"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LocalFilePath."
+description: "LocalFilePath طريقة."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.common/localfilepath/delete/

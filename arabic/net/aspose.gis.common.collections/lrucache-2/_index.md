@@ -1,7 +1,7 @@
 ---
 title: "الفئة LruCacheTKeyTValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.LruCache2TKeyTValue الفئة."
+description: "فئة Aspose.Gis.Common.Collections.LruCache2TKeyTValue."
 type: docs
 weight: 170
 url: /ar/net/aspose.gis.common.collections/lrucache-2/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.collections/lrucache-2/
 public class LruCache<TKey, TValue> : ICache<TKey, TValue>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

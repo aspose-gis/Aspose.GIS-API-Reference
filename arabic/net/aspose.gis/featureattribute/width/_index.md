@@ -1,7 +1,7 @@
 ---
 title: "FeatureAttribute.Width"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeatureAttribute. يحصل أو يضبط الحد الأقصى المسموح به لعرض تمثيل الأحرف للخاصية"
+description: "خاصية FeatureAttribute. يحصل أو يعيّن الحد الأقصى المسموح به لعرض تمثيل الأحرف للخاصية."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis/featureattribute/width/
@@ -18,7 +18,7 @@ public int? Width { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | الخاصية مقفلة. |
+| InvalidOperationException | السمة مقفلة. |
 
 ### انظر أيضًا
 

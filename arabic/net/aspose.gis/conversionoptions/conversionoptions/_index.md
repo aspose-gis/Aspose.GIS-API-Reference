@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/conversionoptions/conversionoptions/
 ---
 ## ConversionOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public ConversionOptions()

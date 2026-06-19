@@ -21,7 +21,7 @@ public static class VectorLayerExtention
 | static [AddFeatures](../../aspose.gis.geotools.extensions/vectorlayerextention/addfeatures/#addfeatures)(this VectorLayer, IEnumerable&lt;IGeometry&gt;) | إضافة ميزات باستخدام قائمة عامة. |
 | static [AddFeatures&lt;T&gt;](../../aspose.gis.geotools.extensions/vectorlayerextention/addfeatures/#addfeatures_1)(this VectorLayer, List&lt;T&gt;) | إضافة ميزات باستخدام قائمة عامة. |
 | static [GetObjects&lt;T&gt;](../../aspose.gis.geotools.extensions/vectorlayerextention/getobjects/)(this VectorLayer) | قراءة ميزات باستخدام قائمة عامة. |
-| static [ReadFeatures&lt;T&gt;](../../aspose.gis.geotools.extensions/vectorlayerextention/readfeatures/)(this VectorLayer) | قراءة ميزات باستخدام قائمة عامة (نفس ما هو >). |
+| static [ReadFeatures&lt;T&gt;](../../aspose.gis.geotools.extensions/vectorlayerextention/readfeatures/)(this VectorLayer) | قراءة ميزات باستخدام قائمة عامة (نفس ما هو &gt;). |
 | static [ReadGeometries](../../aspose.gis.geotools.extensions/vectorlayerextention/readgeometries/)(this VectorLayer) | قراءة الهندسات فقط من الطبقة. |
 
 ### انظر أيضًا

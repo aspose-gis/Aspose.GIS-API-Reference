@@ -1,7 +1,7 @@
 ---
 title: "Projection.AngularParametersUnit"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Projection. الوحدة المستخدمة للمعاملات الزاوية"
+description: "خاصية Projection. الوحدة المستخدمة للمعلمات الزاوية"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/projection/angularparametersunit/

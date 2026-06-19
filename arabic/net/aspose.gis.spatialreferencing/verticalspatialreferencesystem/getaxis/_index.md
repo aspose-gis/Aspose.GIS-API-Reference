@@ -1,14 +1,14 @@
 ---
 title: "VerticalSpatialReferenceSystem.GetAxis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VerticalSpatialReferenceSystem. احصل على Axis التي تصف البُعد."
+description: "طريقة VerticalSpatialReferenceSystem. احصل على Axis الذي يصف البُعد"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/getaxis/
 ---
 ## VerticalSpatialReferenceSystem.GetAxis method
 
-احصل على [`Axis`](../../axis/) التي تصف البُعد.
+احصل على [`Axis`](../../axis/) الذي يصف البُعد.
 
 ```csharp
 public override Axis GetAxis(int dimension)
@@ -16,11 +16,11 @@ public override Axis GetAxis(int dimension)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| البُعد | Int32 | عدد البُعد. |
+| البُعد | Int32 | عدد الأبعاد. |
 
 ### قيمة الإرجاع
 
-Axis التي تصف البُعد.
+Axis الذي يصف البُعد.
 
 ### استثناءات
 

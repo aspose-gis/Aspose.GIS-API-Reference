@@ -1,7 +1,7 @@
 ---
 title: "فئة ImageSize"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.ImageMetadata.ImageSize. الفئة التي تمثل حجم الصورة"
+description: "Aspose.Gis.ImageMetadata.ImageSize class. الفئة التي تمثل حجم الصورة"
 type: docs
 weight: 3090
 url: /ar/net/aspose.gis.imagemetadata/imagesize/

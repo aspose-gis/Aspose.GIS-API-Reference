@@ -1,5 +1,5 @@
 ---
-title: "DBase.احذف_سجل"
+title: "DBase.DeleteRecord"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

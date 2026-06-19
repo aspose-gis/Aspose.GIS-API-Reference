@@ -1,14 +1,14 @@
 ---
 title: "Extent.GrowY"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Extent. توسّع هذا النطاق على طول المحور Y بحيث يتضمن القيمة المحددة"
+description: "طريقة Extent. يوسع هذا النطاق على طول المحور Y بحيث يتضمن القيمة المحددة"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis/extent/growy/
 ---
 ## Extent.GrowY method
 
-يوسّع هذا النطاق على محور Y بحيث يشمل القيمة المحددة.
+يوسع هذا النطاق على محور Y بحيث يشمل القيمة المحددة.
 
 ```csharp
 public void GrowY(double value)
@@ -16,7 +16,7 @@ public void GrowY(double value)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| قيمة | Double | القيمة التي يجب تضمينها. |
+| القيمة | Double | القيمة التي يجب تضمينها. |
 
 ### انظر أيضًا
 

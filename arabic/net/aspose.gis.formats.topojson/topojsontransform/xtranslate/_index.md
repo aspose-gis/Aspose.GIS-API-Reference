@@ -1,14 +1,14 @@
 ---
 title: "TopoJsonTransform.XTranslate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية TopoJsonTransform. الترجمة لتطبيقها على إحداثي X"
+description: "خاصية TopoJsonTransform. إزاحة لتطبيقها على إحداثي X"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.topojson/topojsontransform/xtranslate/
 ---
 ## TopoJsonTransform.XTranslate property
 
-التحويل لتطبيقه على إحداثي X.
+الترجمة لتطبيقها على إحداثي X.
 
 ```csharp
 public double XTranslate { get; set; }

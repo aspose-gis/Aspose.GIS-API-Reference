@@ -1,7 +1,7 @@
 ---
 title: "الفئة Ellipse"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Ellipse فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Ellipse الفئة."
 type: docs
 weight: 570
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/ellipse/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/ellipse/
 public class Ellipse : GraphicalObject, IEquatable<Ellipse>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Ellipse](ellipse/)() | المُنشئ الافتراضي. |
+| [Ellipse](ellipse/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

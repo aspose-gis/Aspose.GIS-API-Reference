@@ -1,7 +1,7 @@
 ---
 title: "EsriJsonDriver.CreateLayer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة EsriJsonDriver. ينشئ طبقة ويفتحها لإضافة ميزات جديدة"
+description: "EsriJsonDriver طريقة. ينشئ طبقة ويفتحها لإضافة ميزات جديدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.esrijson/esrijsondriver/createlayer/
@@ -16,12 +16,12 @@ public VectorLayer CreateLayer(string path, EsriJsonOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | EsriJsonOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | EsriJsonOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -49,12 +49,12 @@ public VectorLayer CreateLayer(AbstractPath path, EsriJsonOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | EsriJsonOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | EsriJsonOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -84,13 +84,13 @@ public override VectorLayer CreateLayer(AbstractPath path, DriverOptions options
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
@@ -121,20 +121,20 @@ public VectorLayer CreateLayer(AbstractPath path, EsriJsonOptions options,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | EsriJsonOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | EsriJsonOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | الطبقة موجودة بالفعل. |
-| NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. |
+| NotSupportedException | نظام الإسناد المكاني غير مدعوم من قبل السائق. |
 
 ### انظر أيضًا
 

@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.epsg/geographiccrsentry/
 public class GeographicCrsEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GeographicCrsEntry](geographiccrsentry/)() | المُنشئ الافتراضي. |
+| [GeographicCrsEntry](geographiccrsentry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

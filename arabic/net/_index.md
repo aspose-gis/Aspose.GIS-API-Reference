@@ -35,7 +35,7 @@ is_root: true
 | [Aspose.Gis.Formats.Database.FromDefinition](./aspose.gis.formats.database.fromdefinition/) | `Aspose.Gis.Formats.Database.FromDefinition` مساحة الاسم تحتوي على فئات تنفذ القدرة على استرجاع البيانات الهندسية باستخدام LINQ وتخزينها. |
 | [Aspose.Gis.Formats.EsriAscii](./aspose.gis.formats.esriascii/) | `Aspose.Gis.Formats.EsriAscii` مساحة الاسم توفر فئات للعمل مع صيغة EsriAscii. |
 | [Aspose.Gis.Formats.EsriJson](./aspose.gis.formats.esrijson/) | `Aspose.Gis.Formats.EsriJson` مساحة الاسم توفر فئات للعمل مع صيغة EsriJson. |
-| [Aspose.Gis.Formats.FileGdb](./aspose.gis.formats.filegdb/) | `Aspose.Gis.Formats.FileGdb` مساحة الاسم توفر فئات للعمل مع صيغة قاعدة بيانات ESRI File Geodatabase. |
+| [Aspose.Gis.Formats.FileGdb](./aspose.gis.formats.filegdb/) | `Aspose.Gis.Formats.FileGdb` مساحة الاسم توفر فئات للعمل مع صيغة قاعدة البيانات الجغرافية للملف ESRI. |
 | [Aspose.Gis.Formats.GDAL](./aspose.gis.formats.gdal/) | `Aspose.Gis.Formats.GDAL` مساحة الاسم توفر فئات للعمل مع صيغة GDAL. |
 | [Aspose.Gis.Formats.GeoJson](./aspose.gis.formats.geojson/) | `Aspose.Gis.Formats.GeoJson` مساحة الاسم توفر فئات للعمل مع صيغة GeoJSON. |
 | [Aspose.Gis.Formats.GeoJsonSeq](./aspose.gis.formats.geojsonseq/) | `Aspose.Gis.Formats.GeoJsonSeq` مساحة الاسم توفر فئات للعمل مع صيغة GeoJsonSeq. |
@@ -47,24 +47,24 @@ is_root: true
 | [Aspose.Gis.Formats.JpegW](./aspose.gis.formats.jpegw/) | `Aspose.Gis.Formats.JpegW` مساحة الاسم توفر فئات للعمل مع صيغة JpegW. |
 | [Aspose.Gis.Formats.Kml](./aspose.gis.formats.kml/) | `Aspose.Gis.Formats.Kml` مساحة الاسم توفر فئات للعمل مع صيغة KML. |
 | [Aspose.Gis.Formats.Kml.Styles](./aspose.gis.formats.kml.styles/) | `Aspose.Gis.Formats.Kml.Styles` مساحة الاسم توفر فئات للعمل مع أنماط KML. |
-| [Aspose.Gis.Formats.MapInfoInterchange](./aspose.gis.formats.mapinfointerchange/) | `Aspose.Gis.Formats.MapInfoInterchange` مساحة الاسم توفر فئات للعمل مع صيغة MapInfo Interchange |
-| [Aspose.Gis.Formats.MapInfoTab](./aspose.gis.formats.mapinfotab/) | `Aspose.Gis.Formats.MapInfoTab` مساحة الاسم توفر فئات للعمل مع تنسيق MapInfo Tab. |
-| [Aspose.Gis.Formats.OsmXml](./aspose.gis.formats.osmxml/) | `Aspose.Gis.Formats.OsmXml` مساحة الاسم توفر فئات للعمل مع تنسيق OSM XML. |
-| [Aspose.Gis.Formats.PngW](./aspose.gis.formats.pngw/) | `Aspose.Gis.Formats.PngW` مساحة الاسم توفر فئات للعمل مع تنسيق PngW. |
-| [Aspose.Gis.Formats.PostGis](./aspose.gis.formats.postgis/) | `Aspose.Gis.Formats.PostGis` مساحة الاسم توفر فئات للعمل مع قاعدة بيانات PostGIS. |
-| [Aspose.Gis.Formats.Shapefile](./aspose.gis.formats.shapefile/) | `Aspose.Gis.Formats.Shapefile` مساحة الاسم توفر فئات للعمل مع تنسيق Shapefile. |
-| [Aspose.Gis.Formats.SqlServer](./aspose.gis.formats.sqlserver/) | `Aspose.Gis.Formats.SqlServer` مساحة الاسم توفر فئات للعمل مع SQL Server. |
+| [Aspose.Gis.Formats.MapInfoInterchange](./aspose.gis.formats.mapinfointerchange/) | `Aspose.Gis.Formats.MapInfoInterchange` مساحة الاسم توفر فئات للعمل مع صيغة MapInfo Interchange. |
+| [Aspose.Gis.Formats.MapInfoTab](./aspose.gis.formats.mapinfotab/) | مساحة الاسم `Aspose.Gis.Formats.MapInfoTab` توفر فئات للعمل مع تنسيق MapInfo Tab. |
+| [Aspose.Gis.Formats.OsmXml](./aspose.gis.formats.osmxml/) | مساحة الاسم `Aspose.Gis.Formats.OsmXml` توفر فئات للعمل مع تنسيق OSM XML. |
+| [Aspose.Gis.Formats.PngW](./aspose.gis.formats.pngw/) | مساحة الاسم `Aspose.Gis.Formats.PngW` توفر فئات للعمل مع تنسيق PngW. |
+| [Aspose.Gis.Formats.PostGis](./aspose.gis.formats.postgis/) | مساحة الاسم `Aspose.Gis.Formats.PostGis` توفر فئات للعمل مع قاعدة بيانات PostGIS. |
+| [Aspose.Gis.Formats.Shapefile](./aspose.gis.formats.shapefile/) | مساحة الاسم `Aspose.Gis.Formats.Shapefile` توفر فئات للعمل مع تنسيق Shapefile. |
+| [Aspose.Gis.Formats.SqlServer](./aspose.gis.formats.sqlserver/) | مساحة الاسم `Aspose.Gis.Formats.SqlServer` توفر فئات للعمل مع SQL Server. |
 | [Aspose.Gis.Formats.TiffW](./aspose.gis.formats.tiffw/) | `Aspose.Gis.Formats.JpegW` مساحة الاسم توفر فئات للعمل مع صيغة JpegW. |
-| [Aspose.Gis.Formats.TopoJson](./aspose.gis.formats.topojson/) | `Aspose.Gis.Formats.TopoJson` مساحة الاسم توفر فئات للعمل مع تنسيق TopoJSON. |
-| [Aspose.Gis.Formats.WorldFile](./aspose.gis.formats.worldfile/) | `Aspose.Gis.Formats.WorldFile` مساحة الاسم توفر فئات للعمل مع تنسيقات WorldFile. |
-| [Aspose.Gis.Formats.XyzTile](./aspose.gis.formats.xyztile/) | `Aspose.Gis.Formats.XyzTile` مساحة الاسم توفر فئات للعمل مع تنسيق XyzTile. |
-| [Aspose.Gis.Geometries](./aspose.gis.geometries/) | `Aspose.Gis.Geometries` مساحة الاسم تحتوي على فئات تمثل بيانات الهندسة. |
-| [Aspose.Gis.GeoTools](./aspose.gis.geotools/) | `Aspose.Gis.GeoTools` مساحة الاسم تحتوي على فئات تمثل أدوات الجغرافيا. |
-| [Aspose.Gis.GeoTools.Extensions](./aspose.gis.geotools.extensions/) | `Aspose.Gis.GeoTools.Extensions` مساحة الاسم تحتوي على فئات تمثل الامتدادات. |
-| [Aspose.Gis.GeoTools.LayersMap](./aspose.gis.geotools.layersmap/) | `Aspose.Gis.GeoTools.LayersMap` مساحة الاسم تحتوي على فئات تمثل خريطة الطبقات لأدوات الجغرافيا. |
-| [Aspose.Gis.GeoTools.MapBuilder](./aspose.gis.geotools.mapbuilder/) | `Aspose.Gis.GeoTools` مساحة الاسم تحتوي على فئات تمثل أدوات الجغرافيا. |
-| [Aspose.Gis.GeoTools.WayAnalyzer](./aspose.gis.geotools.wayanalyzer/) | `Aspose.Gis.GeoTools.WayAnalyzer` مساحة الاسم تحتوي على فئات تمثل أدوات الجغرافيا. |
-| [Aspose.Gis.ImageMetadata](./aspose.gis.imagemetadata/) | `Aspose.Gis.ImageMetadata` مساحة الاسم توفر فئات مساعدة للعمل مع Image Metadata |
+| [Aspose.Gis.Formats.TopoJson](./aspose.gis.formats.topojson/) | مساحة الاسم `Aspose.Gis.Formats.TopoJson` توفر فئات للعمل مع تنسيق TopoJSON. |
+| [Aspose.Gis.Formats.WorldFile](./aspose.gis.formats.worldfile/) | مساحة الاسم `Aspose.Gis.Formats.WorldFile` توفر فئات للعمل مع تنسيقات WorldFile. |
+| [Aspose.Gis.Formats.XyzTile](./aspose.gis.formats.xyztile/) | مساحة الاسم `Aspose.Gis.Formats.XyzTile` توفر فئات للعمل مع تنسيق XyzTile. |
+| [Aspose.Gis.Geometries](./aspose.gis.geometries/) | مساحة الاسم `Aspose.Gis.Geometries` تحتوي على فئات تمثل بيانات الهندسة. |
+| [Aspose.Gis.GeoTools](./aspose.gis.geotools/) | مساحة الاسم `Aspose.Gis.GeoTools` تحتوي على فئات تمثل أدوات جغرافية. |
+| [Aspose.Gis.GeoTools.Extensions](./aspose.gis.geotools.extensions/) | مساحة الاسم `Aspose.Gis.GeoTools.Extensions` تحتوي على فئات تمثل الامتدادات. |
+| [Aspose.Gis.GeoTools.LayersMap](./aspose.gis.geotools.layersmap/) | مساحة الاسم `Aspose.Gis.GeoTools.LayersMap` تحتوي على فئات تمثل LayersMap لأدوات الجغرافيا. |
+| [Aspose.Gis.GeoTools.MapBuilder](./aspose.gis.geotools.mapbuilder/) | مساحة الاسم `Aspose.Gis.GeoTools` تحتوي على فئات تمثل أدوات جغرافية. |
+| [Aspose.Gis.GeoTools.WayAnalyzer](./aspose.gis.geotools.wayanalyzer/) | مساحة الاسم `Aspose.Gis.GeoTools.WayAnalyzer` تحتوي على فئات تمثل أدوات جغرافية. |
+| [Aspose.Gis.ImageMetadata](./aspose.gis.imagemetadata/) | مساحة الاسم `Aspose.Gis.ImageMetadata` توفر فئات مساعدة للعمل مع بيانات تعريف الصورة |
 | [Aspose.Gis.Indexing](./aspose.gis.indexing/) |  |
 | [Aspose.Gis.Indexing.BPlusTree](./aspose.gis.indexing.bplustree/) |  |
 | [Aspose.Gis.Indexing.QixTree](./aspose.gis.indexing.qixtree/) |  |
@@ -73,19 +73,19 @@ is_root: true
 | [Aspose.Gis.Labeling.Line](./aspose.gis.labeling.line/) |  |
 | [Aspose.Gis.Painting](./aspose.gis.painting/) |  |
 | [Aspose.Gis.Projections](./aspose.gis.projections/) |  |
-| [Aspose.Gis.Raster](./aspose.gis.raster/) | `Aspose.Gis.Raster` مساحة الاسم توفر فئات للعمل مع تنسيقات الراستر. |
-| [Aspose.Gis.Raster.Web](./aspose.gis.raster.web/) | `Aspose.Gis.Raster.Web` مساحة الاسم توفر فئات للعمل مع التشويه على الويب. |
-| [Aspose.Gis.Relationship.Joins](./aspose.gis.relationship.joins/) | `Aspose.Gis.Relationship.Joins` مساحة الاسم توفر فئات للانضمام إلى الطبقات. |
-| [Aspose.Gis.Rendering](./aspose.gis.rendering/) | `Aspose.Gis.Rendering` مساحة الاسم توفر فئات لتصيير الخرائط. |
-| [Aspose.Gis.Rendering.Colorizers](./aspose.gis.rendering.colorizers/) | `Aspose.Gis.Rendering.Colorizers` مساحة الاسم توفر فئات لتكوين خلايا الراستر أثناء التصيير. |
-| [Aspose.Gis.Rendering.Formats.Bmp](./aspose.gis.rendering.formats.bmp/) | `Aspose.Gis.Formats.Bmp` مساحة الاسم توفر فئات للعمل مع تنسيق BMP. |
-| [Aspose.Gis.Rendering.Formats.Jpeg](./aspose.gis.rendering.formats.jpeg/) | `Aspose.Gis.Formats.Jpeg` مساحة الاسم توفر فئات للعمل مع تنسيق JPEG. |
-| [Aspose.Gis.Rendering.Formats.Png](./aspose.gis.rendering.formats.png/) | `Aspose.Gis.Formats.Png` مساحة الاسم توفر فئات للعمل مع تنسيق PNG. |
-| [Aspose.Gis.Rendering.Formats.Svg](./aspose.gis.rendering.formats.svg/) | `Aspose.Gis.Formats.Svg` مساحة الاسم توفر فئات للعمل مع تنسيق SVG. |
-| [Aspose.Gis.Rendering.Labelings](./aspose.gis.rendering.labelings/) | `Aspose.Gis.Rendering.Labelings` مساحة الاسم توفر فئات لتكوين تسمية ميزات المتجهات. |
-| [Aspose.Gis.Rendering.Sld](./aspose.gis.rendering.sld/) | مساحة الاسم `Aspose.Gis.Rendering.Sld` توفر فئات لتكوين استيراد SLD. |
-| [Aspose.Gis.Rendering.Symbolizers](./aspose.gis.rendering.symbolizers/) | مساحة الاسم `Aspose.Gis.Rendering.Symbolizers` توفر فئات لتكوين عرض ميزات المتجه. |
-| [Aspose.Gis.SpatialReferencing](./aspose.gis.spatialreferencing/) | مساحة الاسم `Aspose.Gis.SpatialReferencing` توفر فئات للعمل مع الإشارات المكانية (أنظمة الإحداثيات المرجعية). |
+| [Aspose.Gis.Raster](./aspose.gis.raster/) | مساحة الاسم `Aspose.Gis.Raster` توفر فئات للعمل مع تنسيقات الراستر. |
+| [Aspose.Gis.Raster.Web](./aspose.gis.raster.web/) | مساحة الاسم `Aspose.Gis.Raster.Web` توفر فئات للعمل مع تشويه الويب. |
+| [Aspose.Gis.Relationship.Joins](./aspose.gis.relationship.joins/) | مساحة الاسم `Aspose.Gis.Relationship.Joins` توفر فئات لدمج الطبقات. |
+| [Aspose.Gis.Rendering](./aspose.gis.rendering/) | مساحة الاسم `Aspose.Gis.Rendering` توفر فئات لتصيير الخرائط. |
+| [Aspose.Gis.Rendering.Colorizers](./aspose.gis.rendering.colorizers/) | مساحة الاسم `Aspose.Gis.Rendering.Colorizers` توفر فئات لتكوين خلايا الراستر أثناء التصيير. |
+| [Aspose.Gis.Rendering.Formats.Bmp](./aspose.gis.rendering.formats.bmp/) | مساحة الاسم `Aspose.Gis.Formats.Bmp` توفر فئات للعمل مع تنسيق BMP. |
+| [Aspose.Gis.Rendering.Formats.Jpeg](./aspose.gis.rendering.formats.jpeg/) | مساحة الاسم `Aspose.Gis.Formats.Jpeg` توفر فئات للعمل مع تنسيق JPEG. |
+| [Aspose.Gis.Rendering.Formats.Png](./aspose.gis.rendering.formats.png/) | مساحة الاسم `Aspose.Gis.Formats.Png` توفر فئات للعمل مع تنسيق PNG. |
+| [Aspose.Gis.Rendering.Formats.Svg](./aspose.gis.rendering.formats.svg/) | مساحة الاسم `Aspose.Gis.Formats.Svg` توفر فئات للعمل مع تنسيق SVG. |
+| [Aspose.Gis.Rendering.Labelings](./aspose.gis.rendering.labelings/) | مساحة الاسم `Aspose.Gis.Rendering.Labelings` توفر فئات لتكوين تسمية ميزات المتجهات. |
+| [Aspose.Gis.Rendering.Sld](./aspose.gis.rendering.sld/) | مساحة الأسماء `Aspose.Gis.Rendering.Sld` توفر فئات لتكوين استيراد SLD. |
+| [Aspose.Gis.Rendering.Symbolizers](./aspose.gis.rendering.symbolizers/) | مساحة الأسماء `Aspose.Gis.Rendering.Symbolizers` توفر فئات لتكوين عرض الميزات المتجهة. |
+| [Aspose.Gis.SpatialReferencing](./aspose.gis.spatialreferencing/) | مساحة الأسماء `Aspose.Gis.SpatialReferencing` توفر فئات للعمل مع المراجع المكانية (أنظمة الإحداثيات المرجعية). |
 | [Aspose.Gis.Topology](./aspose.gis.topology/) |  |
 | [Aspose.Gis.Topology.Algorithms](./aspose.gis.topology.algorithms/) |  |
 | [Aspose.Gis.Topology.Buffer](./aspose.gis.topology.buffer/) |  |

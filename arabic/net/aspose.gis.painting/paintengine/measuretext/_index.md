@@ -1,7 +1,7 @@
 ---
 title: "PaintEngine.MeasureText"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة PaintEngine."
+description: "PaintEngine طريقة."
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.painting/paintengine/measuretext/

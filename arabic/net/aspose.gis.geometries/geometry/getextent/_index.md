@@ -1,7 +1,7 @@
 ---
 title: "Geometry.GetExtent"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Geometry. تحسب وتعيد نطاقًا محيطًا لهذا الشكل الهندسي"
+description: "طريقة Geometry. تحسب وتعيد مدىً محيطياً لهذا الشكل الهندسي"
 type: docs
 weight: 250
 url: /ar/net/aspose.gis.geometries/geometry/getextent/
@@ -16,7 +16,7 @@ public Extent GetExtent()
 
 ### قيمة الإرجاع
 
-نطاق محيط لهذا الشكل الهندسي.
+مدى محيطي لهذا الشكل الهندسي.
 
 ### انظر أيضًا
 

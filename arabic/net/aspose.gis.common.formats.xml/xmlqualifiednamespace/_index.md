@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.xml/xmlqualifiednamespace/
 public class XmlQualifiedNamespace
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [XmlQualifiedNamespace](xmlqualifiednamespace/)() | المُنشئ الافتراضي. |
+| [XmlQualifiedNamespace](xmlqualifiednamespace/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/compoundcurve/setempty/
 ---
 ## CompoundCurve.SetEmpty method
 
-يجعل هذا الـ[`Geometry`](../../geometry/) فارغًا.
+يجعل هذا [`Geometry`](../../geometry/) فارغًا.
 
 ```csharp
 public override void SetEmpty()

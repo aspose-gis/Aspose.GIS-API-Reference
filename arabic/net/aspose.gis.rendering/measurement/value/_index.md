@@ -1,7 +1,7 @@
 ---
 title: "Measurement.Value"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Measurement. رقم يُشير إلى طول القياس."
+description: "خاصية Measurement. رقم يُشير إلى طول القياس"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.rendering/measurement/value/

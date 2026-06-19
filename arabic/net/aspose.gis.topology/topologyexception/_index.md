@@ -1,7 +1,7 @@
 ---
 title: "فئة TopologyException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.TopologyException فئة."
+description: "فئة Aspose.Gis.Topology.TopologyException."
 type: docs
 weight: 5030
 url: /ar/net/aspose.gis.topology/topologyexception/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.topology/topologyexception/
 public class TopologyException : Exception
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [TopologyException](topologyexception/#constructor)() | المُنشئ الافتراضي. |
+| [TopologyException](topologyexception/#constructor)() | المنشئ الافتراضي. |
 | [TopologyException](topologyexception/#constructor_1)(string) |  |
 | [TopologyException](topologyexception/#constructor_2)(string, Exception) |  |
 

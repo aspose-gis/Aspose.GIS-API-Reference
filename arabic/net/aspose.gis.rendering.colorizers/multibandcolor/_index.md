@@ -1,7 +1,7 @@
 ---
 title: "الفئة MultiBandColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Colorizers.MultiBandColor. يحدد ملون النطاق المتعدد مكوّنات الأحمر والأخضر والأزرق للراستر."
+description: "الفئة Aspose.Gis.Rendering.Colorizers.MultiBandColor. يحدد مُلوّن النطاق المتعدد مكوّنات الأحمر والأخضر والأزرق للراستر"
 type: docs
 weight: 3960
 url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/
@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/
 public class MultiBandColor : RasterColorizer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

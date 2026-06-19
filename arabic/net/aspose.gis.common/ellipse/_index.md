@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/ellipse/
 public class Ellipse
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

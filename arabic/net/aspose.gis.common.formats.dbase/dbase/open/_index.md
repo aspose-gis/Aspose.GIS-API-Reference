@@ -1,5 +1,5 @@
 ---
-title: "DBase.فتح"
+title: "DBase.Open"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

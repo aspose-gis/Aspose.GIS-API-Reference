@@ -1,7 +1,7 @@
 ---
-title: "واجهة IGraphcialObjectsFile"
+title: "الواجهة IGraphcialObjectsFile"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Common.Formats.MapInfo.IGraphcialObjectsFile."
+description: "Aspose.Gis.Common.Formats.MapInfo.IGraphcialObjectsFile واجهة."
 type: docs
 weight: 730
 url: /ar/net/aspose.gis.common.formats.mapinfo/igraphcialobjectsfile/

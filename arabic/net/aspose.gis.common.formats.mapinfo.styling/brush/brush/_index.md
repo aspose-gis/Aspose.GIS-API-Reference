@@ -1,7 +1,7 @@
 ---
 title: "Brush.Brush"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Brush منشئ."
+description: "Brush المُنشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/brush/brush/

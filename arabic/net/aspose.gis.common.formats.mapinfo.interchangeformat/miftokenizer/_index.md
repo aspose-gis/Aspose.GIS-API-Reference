@@ -1,7 +1,7 @@
 ---
-title: "فئة MifTokenizer"
+title: "الفئة MifTokenizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifTokenizer."
+description: "الفئة Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifTokenizer."
 type: docs
 weight: 780
 url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokenizer/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokenizer/
 public class MifTokenizer : IDisposable
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -1,7 +1,7 @@
 ---
 title: "MapOptions.Width"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapOptions. العرض البصري للخريطة. الافتراضي 400. يستخدم عندما يكون Custom"
+description: "خاصية MapOptions. العرض البصري للخريطة. القيمة الافتراضية 400. يُستخدم عندما يكون Custom"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geotools.layersmap/mapoptions/width/

@@ -1,5 +1,5 @@
 ---
-title: "DBase.تخلص_من"
+title: "DBase.Dispose"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

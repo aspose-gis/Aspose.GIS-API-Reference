@@ -1,7 +1,7 @@
 ---
 title: "MapReader.MapReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapReader منشئ."
+description: "منشئ MapReader."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/mapreader/

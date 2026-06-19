@@ -1,14 +1,14 @@
 ---
 title: "RasterMapLayer.Colorizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterMapLayer. الملون لاستخدامه في عرض خلايا الصورة النقطية"
+description: "خاصية RasterMapLayer. colorizer لاستخدامه في تصيير خلايا raster"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/rastermaplayer/colorizer/
 ---
 ## RasterMapLayer.Colorizer property
 
-المُلوّن لاستخدامه في تصيير خلايا النقطية.
+Colorizer لاستخدامه في عرض خلايا النقطية.
 
 ```csharp
 public RasterColorizer Colorizer { get; set; }

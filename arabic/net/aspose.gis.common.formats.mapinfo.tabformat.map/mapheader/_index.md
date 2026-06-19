@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheader/
 public class MapHeader
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapHeader](mapheader/)() | المُنشئ الافتراضي. |
+| [MapHeader](mapheader/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

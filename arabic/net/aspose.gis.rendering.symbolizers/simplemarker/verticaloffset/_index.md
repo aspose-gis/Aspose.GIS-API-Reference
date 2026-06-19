@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/verticaloffset/
 ---
 ## SimpleMarker.VerticalOffset property
 
-يحدد الإزاحة العمودية من موقع النقطة إلى نقطة ارتكاز الشكل.
+يحدد الإزاحة العمودية من موقع النقطة إلى نقطة تثبيت الشكل.
 
 ```csharp
 public Measurement VerticalOffset { get; set; }

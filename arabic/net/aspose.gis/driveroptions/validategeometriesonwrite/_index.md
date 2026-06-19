@@ -1,7 +1,7 @@
 ---
 title: "DriverOptions.ValidateGeometriesOnWrite"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية DriverOptions. تحدد ما إذا كان يجب التحقق من صحة الأشكال الهندسية عند إضافتها إلى الطبقة. إذا تم تعيينها إلى true يتم استدعاء IsValid لكل شكل هندسي عند إضافته إلى الطبقة، وإذا فشل التحقق تكون قيمة IsValid هي false ويتم رمي GisException"
+description: "خاصية DriverOptions. تحدد ما إذا كان يجب التحقق من صحة الأشكال الهندسية عند إضافتها إلى الطبقة. إذا تم تعيينها إلى true يتم استدعاء IsValid لكل شكل هندسي عند إضافته إلى الطبقة، وإذا فشل التحقق تكون قيمة IsValid هي false ويتم رمي GisException."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/driveroptions/validategeometriesonwrite/

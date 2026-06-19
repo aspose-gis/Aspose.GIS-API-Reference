@@ -1,7 +1,7 @@
 ---
 title: "TopoJsonOptions.TopoJsonOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ TopoJsonOptions. إنشاء نسخة جديدة."
+description: "منشئ TopoJsonOptions. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.topojson/topojsonoptions/topojsonoptions/

@@ -1,7 +1,7 @@
 ---
 title: "IMultiLineString.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IMultiLineString. تحصل على نسخة قابلة للتحرير من هذه geometry."
+description: "طريقة IMultiLineString. تحصل على نسخة قابلة للتحرير من هذا geometry."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/imultilinestring/toeditable/
@@ -16,7 +16,7 @@ public MultiLineString ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

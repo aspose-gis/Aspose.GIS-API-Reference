@@ -1,7 +1,7 @@
 ---
 title: "Drivers.EsriAscii"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق Esri AscII النقطي"
+description: "Drivers خاصية. محرك لتنسيق Esri AscII النقطي."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/drivers/esriascii/

@@ -16,7 +16,7 @@ public ILinearRing GetInteriorRing(int index)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | الفهرس. |
+| فهرس | Int32 | الفهرس. |
 
 ### قيمة الإرجاع
 

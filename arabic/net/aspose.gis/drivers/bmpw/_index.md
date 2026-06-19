@@ -1,7 +1,7 @@
 ---
 title: "Drivers.BmpW"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق BmpW النقطي"
+description: "Drivers خاصية. محرك لتنسيق BmpW النقطي."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/drivers/bmpw/

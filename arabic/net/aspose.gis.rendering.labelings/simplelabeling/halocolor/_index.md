@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.HaloColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. لون حد الهالة حول النص"
+description: "خاصية SimpleLabeling. لون الحد الهالوي حول النص."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/halocolor/

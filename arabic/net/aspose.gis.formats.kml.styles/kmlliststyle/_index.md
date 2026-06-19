@@ -14,20 +14,20 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/
 public class KmlListStyle
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [KmlListStyle](kmlliststyle/)() | المُنشئ الافتراضي. |
+| [KmlListStyle](kmlliststyle/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlliststyle/backgroundcolor/) { get; set; } | يحدد لون الخلفية للعنصر الرسومي. القيمة الافتراضية أبيض. |
-| [ItemIcons](../../aspose.gis.formats.kml.styles/kmlliststyle/itemicons/) { get; set; } | الأيقونة المستخدمة في عرض القائمة التي تعكس حالة جلب Folder أو Link. القيمة الافتراضية هي `null` تعني عدم وجود أيقونات. |
+| [BackgroundColor](../../aspose.gis.formats.kml.styles/kmlliststyle/backgroundcolor/) { get; set; } | تحدد لون الخلفية للعنصر الرسومي. القيمة الافتراضية هي White. |
+| [ItemIcons](../../aspose.gis.formats.kml.styles/kmlliststyle/itemicons/) { get; set; } | الأيقونة المستخدمة في عرض القائمة والتي تعكس حالة Folder أو جلب Link. القيمة الافتراضية هي `null` تعني أن الأيقونات غير موجودة. |
 | [ItemType](../../aspose.gis.formats.kml.styles/kmlliststyle/itemtype/) { get; set; } | تحدد كيفية عرض kml:Folder ومحتوياته كعناصر في عرض القائمة. القيمة الافتراضية هي Check. |
-| [MaxSnippetLines](../../aspose.gis.formats.kml.styles/kmlliststyle/maxsnippetlines/) { get; set; } | تحدد الحد الأقصى لعدد الأسطر التي تُعرض في عرض القائمة. القيمة الافتراضية هي '2'. |
+| [MaxSnippetLines](../../aspose.gis.formats.kml.styles/kmlliststyle/maxsnippetlines/) { get; set; } | تحدد الحد الأقصى لعدد الأسطر المعروضة في عرض القائمة. القيمة الافتراضية هي '2'. |
 
 ### انظر أيضًا
 

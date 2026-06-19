@@ -1,7 +1,7 @@
 ---
 title: "الفئة QixTree"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Indexing.QixTree.QixTree فئة."
+description: "الفئة Aspose.Gis.Indexing.QixTree.QixTree."
 type: docs
 weight: 3140
 url: /ar/net/aspose.gis.indexing.qixtree/qixtree/

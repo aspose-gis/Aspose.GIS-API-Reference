@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling/labelsplacer/
 public class LabelsPlacer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/osgb36britishn
 ---
 ## SpatialReferenceSystem.Osgb36BritishNationalGrid property
 
-OSGB 36 / British National Grid (EPSG:27700) نظام الإحداثيات.
+نظام الإحداثيات المكانية OSGB 36 / British National Grid (EPSG:27700).
 
 ```csharp
 public static ProjectedSpatialReferenceSystem Osgb36BritishNationalGrid { get; }

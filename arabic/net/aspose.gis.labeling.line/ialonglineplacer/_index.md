@@ -1,7 +1,7 @@
 ---
 title: "واجهة IAlongLinePlacer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Labeling.Line.IAlongLinePlacer."
+description: "Aspose.Gis.Labeling.Line.IAlongLinePlacer واجهة."
 type: docs
 weight: 3300
 url: /ar/net/aspose.gis.labeling.line/ialonglineplacer/

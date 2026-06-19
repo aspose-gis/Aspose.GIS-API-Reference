@@ -1,7 +1,7 @@
 ---
 title: "الفئة CurvedLinePlacer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Labeling.Line.CurvedLinePlacer."
+description: "Aspose.Gis.Labeling.Line.CurvedLinePlacer فئة."
 type: docs
 weight: 3290
 url: /ar/net/aspose.gis.labeling.line/curvedlineplacer/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling.line/curvedlineplacer/
 public class CurvedLinePlacer : IAlongLinePlacer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/localdatu
 ---
 ## LocalSpatialReferenceSystem.LocalDatum property
 
-مرجع يصف طريقة القياسات.
+مرجع، يصف طريقة القياسات.
 
 ```csharp
 public LocalDatum LocalDatum { get; }

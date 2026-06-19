@@ -1,7 +1,7 @@
 ---
-title: "البنية PrimeMeridianEntry"
+title: "الهيكل PrimeMeridianEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "البنية Aspose.Gis.Epsg.PrimeMeridianEntry."
+description: "الهيكل Aspose.Gis.Epsg.PrimeMeridianEntry."
 type: docs
 weight: 1530
 url: /ar/net/aspose.gis.epsg/primemeridianentry/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.epsg/primemeridianentry/
 public struct PrimeMeridianEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

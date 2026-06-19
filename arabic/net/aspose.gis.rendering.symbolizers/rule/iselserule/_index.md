@@ -1,7 +1,7 @@
 ---
 title: "Rule.IsElseRule"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Rule. تحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي elserule"
+description: "خاصية Rule. تحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة elserule"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.symbolizers/rule/iselserule/
@@ -16,7 +16,7 @@ public bool IsElseRule { get; }
 
 ## ملاحظات
 
-\"Else-rule\" يطبق الرمز على عنصر إذا لم يتطابق العنصر مع أي قاعدة تصفية.
+"Else-rule" يطبق الرمز على عنصر إذا لم يتطابق العنصر مع أي قاعدة فلتر.
 
 ### انظر أيضًا
 

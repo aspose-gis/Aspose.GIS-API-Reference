@@ -1,14 +1,14 @@
 ---
 title: "IGeometry.Within"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IGeometry طريقة. يحدد ما إذا كانت هذه الهندسة داخل نطاق محدد"
+description: "طريقة IGeometry. تحدد ما إذا كانت هذه الهندسة داخل نطاق محدد"
 type: docs
 weight: 380
 url: /ar/net/aspose.gis.geometries/igeometry/within/
 ---
 ## Within(Extent) {#within}
 
-يحدد ما إذا كان هذا الشكل داخل نطاق محدد.
+يحدد ما إذا كانت هذه الهندسة داخل نطاق محدد.
 
 ```csharp
 public bool Within(Extent extent)
@@ -40,7 +40,7 @@ public bool Within(Extent extent)
 
 ## Within(IGeometry) {#within_1}
 
-يحدد ما إذا كان هذا الشكل داخل شكل محدد.
+يحدد ما إذا كانت هذه الهندسة داخل هندسة محددة.
 
 ```csharp
 public bool Within(IGeometry other)
@@ -52,7 +52,7 @@ public bool Within(IGeometry other)
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "موجودة مكانيًا" داخل هندسة أخرى. `false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "موجودة مكانيًا داخل" هندسة أخرى. `false` خلاف ذلك.
 
 ### استثناءات
 
@@ -60,17 +60,17 @@ public bool Within(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت هندسة واحدة داخل أخرى من حيث مصفوفة تقاطع DE-9IM. تكون الهندسة داخل أخرى إذا كانت الهندسة الأخرى تحتوي على كل نقطة من الهندسة وتتقاطع داخليات الهندستين. هذه الطريقة مكافئة لـ:
+تختبر هذه الطريقة ما إذا كانت هندسة واحدة داخل أخرى وفقًا لمصفوفة تقاطع DE-9IM. تكون الهندسة داخل أخرى إذا كانت الهندسة الأخرى تحتوي على كل نقطة من الهندسة وتتقاطع داخليات الهندستين. هذه الطريقة تعادل:
 
 ```csharp
 this.Relate(other, "T*F**F***");
 ```
 
-انظر مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة "موجودة مكانيًا".
+انظر مواصفة OpenGIS Simple Features لمزيد من التفاصيل حول DE-9IM وعلاقة "الموجود مكانيًا داخل".
 
 ### انظر أيضًا
 

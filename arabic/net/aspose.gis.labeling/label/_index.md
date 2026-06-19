@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling/label/
 public class Label
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

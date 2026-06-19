@@ -1,14 +1,14 @@
 ---
 title: "Line.Line"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Line منشئ. المنشئ الافتراضي"
+description: "منشئ Line. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/line/
 ---
 ## Line constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public Line()

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/irastervalues/asfloat/
 ---
 ## IRasterValues.AsFloat method
 
-يحوّل بيانات الشريط المحدد إلى قيمة `float`.
+يقوم بتحويل بيانات النطاق المحدد إلى قيمة `float`.
 
 ```csharp
 public float AsFloat(int bandIndex = 0)

@@ -1,7 +1,7 @@
 ---
 title: "MultiBandColor.GreenBand"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MultiBandColor. تحدد المكوّن الأخضر للراستر الخاص بنا"
+description: "خاصية MultiBandColor. تحدد المكوّن الأخضر لراسترنا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.colorizers/multibandcolor/greenband/

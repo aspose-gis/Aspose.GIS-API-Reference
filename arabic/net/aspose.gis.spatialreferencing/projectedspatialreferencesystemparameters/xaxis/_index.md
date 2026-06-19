@@ -1,14 +1,14 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.XAxis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ProjectedSpatialReferenceSystemParameters. المحور الذي يصف البعد الأفقي X. القيمة الافتراضية هي المحور المتجه نحو الشرق."
+description: "خاصية ProjectedSpatialReferenceSystemParameters. المحور الذي يصف البعد الأفقي X. الافتراضي هو المحور المتجه شرقًا."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/
 ---
 ## ProjectedSpatialReferenceSystemParameters.XAxis property
 
-المحور الذي يصف البُعد X (الأفقي). الافتراضي هو المحور باتجاه الشرق.
+المحور الذي يصف البُعد X (الأفقي). القيمة الافتراضية هي المحور المتجه شرقًا.
 
 ```csharp
 public Axis XAxis { get; set; }

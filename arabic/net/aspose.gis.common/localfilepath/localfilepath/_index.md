@@ -1,7 +1,7 @@
 ---
 title: "LocalFilePath.LocalFilePath"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ LocalFilePath."
+description: "LocalFilePath منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common/localfilepath/localfilepath/

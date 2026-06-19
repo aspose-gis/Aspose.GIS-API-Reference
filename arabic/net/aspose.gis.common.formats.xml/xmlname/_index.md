@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.xml/xmlname/
 public class XmlName
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

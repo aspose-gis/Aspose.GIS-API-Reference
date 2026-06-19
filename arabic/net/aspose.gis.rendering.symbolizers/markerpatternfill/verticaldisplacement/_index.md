@@ -1,14 +1,14 @@
 ---
 title: "MarkerPatternFill.VerticalDisplacement"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MarkerPatternFill. تحدد الإزاحة العمودية للعلامات في الخط العمودي المتساوي."
+description: "خاصية MarkerPatternFill. تحدد الإزاحة العمودية للعلامات في الصف العمودي المتساوي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/
 ---
 ## MarkerPatternFill.VerticalDisplacement property
 
-يحدد الإزاحة العمودية للعلامات في الخط العمودي الزوجي.
+يحدد الإزاحة العمودية للعلامات في خط عمودي زوجي.
 
 ```csharp
 public Measurement VerticalDisplacement { get; set; }

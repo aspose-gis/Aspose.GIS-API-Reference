@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/addelserule/
 ---
 ## RuleBasedLabeling.AddElseRule method
 
-يضيف تسمية سيتم تطبيقها على العناصر التي لا تطابق أي قاعدة تصفية.
+يضيف تسمية ستُطبق على العناصر التي لا تتطابق مع أي قاعدة تصفية.
 
 ```csharp
 public void AddElseRule(Labeling labeling)
@@ -16,7 +16,7 @@ public void AddElseRule(Labeling labeling)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| تسمية | التسمية | توسيم. |
+| وضع العلامة | وضع العلامة | توسيم. |
 
 ### استثناءات
 

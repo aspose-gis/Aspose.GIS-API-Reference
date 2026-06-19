@@ -1,14 +1,14 @@
 ---
 title: "ICompoundCurve.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ICompoundCurve. يحصل على ICurve في الفهرس المحدد"
+description: "خاصية ICompoundCurve. تحصل على ICurve في الفهرس المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geometries/icompoundcurve/item/
 ---
 ## ICompoundCurve indexer
 
-يحصل على [`ICurve`](../../icurve/) عند الفهرس المحدد.
+يحصل على الـ[`ICurve`](../../icurve/) في الفهرس المحدد.
 
 ```csharp
 public ICurve this[int index] { get; }
@@ -16,11 +16,11 @@ public ICurve this[int index] { get; }
 
 | معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس. |
+| فهرس | الفهرس. |
 
 ### Property Value
 
-الـ [`ICurve`](../../icurve/).
+الـ[`ICurve`](../../icurve/).
 
 ### انظر أيضًا
 

@@ -1,14 +1,14 @@
 ---
 title: "الفئة PngWDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Formats.PngW.PngWDriver. برنامج تشغيل لتنسيق PngW النقطي"
+description: "فئة Aspose.Gis.Formats.PngW.PngWDriver. برنامج تشغيل لتنسيق PngW النقطي"
 type: docs
 weight: 2280
 url: /ar/net/aspose.gis.formats.pngw/pngwdriver/
 ---
 ## PngWDriver class
 
-برنامج تشغيل لتنسيق PngW النقطي.
+محرك لصورة PngW النقطية.
 
 ```csharp
 public class PngWDriver : WorldRasterDriver
@@ -18,7 +18,7 @@ public class PngWDriver : WorldRasterDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.pngw/pngwdriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.pngw/pngwdriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.Convert"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. تحويل طبقة إلى تنسيق مختلف"
+description: "طريقة VectorLayer. تحويل طبقة إلى تنسيق مختلف."
 type: docs
 weight: 220
 url: /ar/net/aspose.gis/vectorlayer/convert/
@@ -84,7 +84,7 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
 | sourceDriver | FileDriver | سائق التنسيق للطبقة المصدر. |
 | destinationPath | String | المسار إلى الطبقة التي سيتم إنشاؤها نتيجةً للتحويل. |
 | destinationDriver | FileDriver | سائق التنسيق للطبقة الوجهة. |
-| الخيارات | ConversionOptions | خيارات إجراء التحويل. |
+| options | ConversionOptions | خيارات لإجراء التحويل. |
 
 ### استثناءات
 
@@ -92,10 +92,10 @@ public static void Convert(string sourcePath, FileDriver sourceDriver, string de
 | --- | --- |
 | ArgumentNullException | إحدى المسارات هي `null`. |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المميزات من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
 ### انظر أيضًا
 
@@ -122,7 +122,7 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
 | sourceDriver | FileDriver | سائق التنسيق للطبقة المصدر. |
 | destinationPath | AbstractPath | المسار إلى الطبقة التي سيتم إنشاؤها نتيجةً للتحويل. |
 | destinationDriver | FileDriver | سائق التنسيق للطبقة الوجهة. |
-| الخيارات | ConversionOptions | خيارات إجراء التحويل. |
+| options | ConversionOptions | خيارات لإجراء التحويل. |
 
 ### استثناءات
 
@@ -130,10 +130,10 @@ public static void Convert(AbstractPath sourcePath, FileDriver sourceDriver,
 | --- | --- |
 | ArgumentNullException | إحدى المسارات هي `null`. |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المميزات من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
 ### انظر أيضًا
 

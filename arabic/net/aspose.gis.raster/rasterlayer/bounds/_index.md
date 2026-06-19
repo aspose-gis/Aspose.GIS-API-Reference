@@ -1,14 +1,14 @@
 ---
 title: "RasterLayer.Bounds"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterLayer. تُرجع حدود الراستر"
+description: "خاصية RasterLayer. تحصل على حدود الراستر"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.raster/rasterlayer/bounds/
 ---
 ## RasterLayer.Bounds property
 
-يحصل على حدود الراستر.
+يسترجع حدود الراستر.
 
 ```csharp
 public RasterRect Bounds { get; }

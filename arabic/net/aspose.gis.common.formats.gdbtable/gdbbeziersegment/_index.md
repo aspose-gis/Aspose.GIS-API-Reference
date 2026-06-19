@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbbeziersegment/
 public class GdbBezierSegment : GdbCurveSegment
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GdbBezierSegment](gdbbeziersegment/)() | المُنشئ الافتراضي. |
+| [GdbBezierSegment](gdbbeziersegment/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

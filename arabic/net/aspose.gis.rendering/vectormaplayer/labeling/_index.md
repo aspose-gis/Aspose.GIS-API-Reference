@@ -1,7 +1,7 @@
 ---
 title: "VectorMapLayer.Labeling"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية VectorMapLayer. تحدد خيارات التشويه لطبقة الخريطة."
+description: "خاصية VectorMapLayer. تحدد خيارات الالتواء لطبقة الخريطة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.rendering/vectormaplayer/labeling/

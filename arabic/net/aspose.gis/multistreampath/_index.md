@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis/multistreampath/
 public class MultiStreamPath : AbstractPath, IDisposable
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -25,14 +25,14 @@ public class MultiStreamPath : AbstractPath, IDisposable
 | الاسم | الوصف |
 | --- | --- |
 | override [Location](../../aspose.gis/multistreampath/location/) { get; } | يحصل على تمثيل نصي لموقع هذا `AbstractPath`. |
-| override [Separator](../../aspose.gis/multistreampath/separator/) { get; } | يحصل على حرف الفاصل المستخدم لفصل مستويات الدليل في سلسلة [`Location`](./location/). |
+| override [Separator](../../aspose.gis/multistreampath/separator/) { get; } | يحصل على حرف الفاصل المستخدم لتقسيم مستويات الدليل في سلسلة [`Location`](./location/). |
 | [StreamSet](../../aspose.gis/multistreampath/streamset/) { get; } | مجموعة من التدفقات الفعلية التي تم ربطها بأسماء الملفات. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | يجمع هذا [`AbstractPath`](../abstractpath/) مع مكونات المسار المحددة. |
+| virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | يجمع هذا [`AbstractPath`](../abstractpath/) مع مكوّنات المسار المحددة. |
 | override [Delete](../../aspose.gis/multistreampath/delete/)() | يحذف ملفًا يشير إليه هذا المسار. |
 | [Dispose](../../aspose.gis/multistreampath/dispose/)() | يدمر الكائن ومحتوياته. |
 | [GetExtension](../../aspose.gis/abstractpath/getextension/)() | يعيد الامتداد لهذا [`AbstractPath`](../abstractpath/). |
@@ -40,7 +40,7 @@ public class MultiStreamPath : AbstractPath, IDisposable
 | [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | يعيد اسم الملف لهذا [`AbstractPath`](../abstractpath/) بدون الامتداد. |
 | override [IsFile](../../aspose.gis/multistreampath/isfile/)() | يحصل على قيمة تشير إلى ما إذا كان هذا المسار يشير إلى ملف موجود يمكن فتحه للقراءة. |
 | override [ListDirectory](../../aspose.gis/multistreampath/listdirectory/)() | يعيد المسارات الموجودة داخل هذا `AbstractPath`، إذا كان دليلًا. |
-| override [Open](../../aspose.gis/multistreampath/open/)(FileAccess) | يُجرد مجموعة من صيغ البث المتعددة الملفات المفتوحة كمسار للوصول إلى البيانات. |
+| override [Open](../../aspose.gis/multistreampath/open/)(FileAccess) | يُجرد مجموعة من صيغ الملفات المتعددة المفتوحة المتدفقة كمسار للوصول إلى البيانات. |
 | virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | يعيد [`AbstractPath`](../abstractpath/) جديدًا مع تغيير امتداد الملف إلى القيمة المحددة. |
 
 ### انظر أيضًا

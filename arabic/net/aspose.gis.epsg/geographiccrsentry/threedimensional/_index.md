@@ -1,5 +1,5 @@
 ---
-title: "GeographicCrsEntry.ثلاثي_الأبعاد"
+title: "GeographicCrsEntry.ThreeDimensional"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "GeographicCrsEntry خاصية."
 type: docs

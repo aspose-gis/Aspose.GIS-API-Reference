@@ -1,5 +1,5 @@
 ---
-title: "VerticalDatumEntry.إنشاء"
+title: "VerticalDatumEntry.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "VerticalDatumEntry طريقة."
 type: docs

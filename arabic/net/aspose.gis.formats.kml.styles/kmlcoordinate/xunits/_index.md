@@ -1,7 +1,7 @@
 ---
 title: "KmlCoordinate.XUnits"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlCoordinate. الوحدات التي يُحدّد بها قيمة X. القيمة الافتراضية هي Fraction"
+description: "خاصية KmlCoordinate. الوحدات التي يُحدد بها قيمة X. القيمة الافتراضية كسر"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmlcoordinate/xunits/

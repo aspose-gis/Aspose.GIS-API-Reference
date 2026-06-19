@@ -1,7 +1,7 @@
 ---
 title: "الواجهة IAttributesConverter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.IAttributesConverter. محول مخصص لسمات الطبقة"
+description: "الواجهة Aspose.Gis.IAttributesConverter. محول مخصص لسمات الطبقة"
 type: docs
 weight: 3030
 url: /ar/net/aspose.gis/iattributesconverter/

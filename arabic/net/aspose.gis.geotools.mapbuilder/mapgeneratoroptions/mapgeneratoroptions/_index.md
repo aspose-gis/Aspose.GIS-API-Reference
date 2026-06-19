@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/mapgeneratoropti
 ---
 ## MapGeneratorOptions constructor
 
-إنشاء كائن باستخدام الخيارات الافتراضية.
+إنشاء نسخة باستخدام الخيارات الافتراضية.
 
 ```csharp
 public MapGeneratorOptions()

@@ -1,7 +1,7 @@
 ---
 title: "Chain.TakeCoordinatesDangerous"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Chain."
+description: "Chain طريقة."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.topology/chain/takecoordinatesdangerous/

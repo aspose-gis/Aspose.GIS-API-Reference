@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/linearring/linearring/
 ---
 ## LinearRing() {#constructor}
 
-يهيئ نسخة جديدة من فئة [`LinearRing`](../).
+يهيئ نسخة جديدة من الفئة [`LinearRing`](../).
 
 ```csharp
 public LinearRing()
@@ -24,7 +24,7 @@ public LinearRing()
 
 ## LinearRing(ILineString) {#constructor_1}
 
-يهيئ نسخة جديدة من فئة [`LinearRing`](../).
+يهيئ نسخة جديدة من الفئة [`LinearRing`](../).
 
 ```csharp
 public LinearRing(ILineString other)
@@ -51,7 +51,7 @@ public LinearRing(ILineString other)
 
 ## LinearRing(IEnumerable&lt;IPoint&gt;) {#constructor_2}
 
-يهيئ نسخة جديدة من فئة [`LinearRing`](../).
+يهيئ نسخة جديدة من الفئة [`LinearRing`](../).
 
 ```csharp
 public LinearRing(IEnumerable<IPoint> collection)

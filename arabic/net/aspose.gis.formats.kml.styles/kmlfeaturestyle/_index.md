@@ -1,20 +1,20 @@
 ---
 title: "الفئة KmlFeatureStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle. الأنماط تؤثر على طريقة عرض الهندسة. يتم ترميز هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه الأنماط بالأنماط المشتركة في مواصفة kml"
+description: "الفئة Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle. الأنماط تؤثر على طريقة عرض الهندسة. يتم ترميز هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه الأنماط بأنها أنماط مشتركة في مواصفة kml"
 type: docs
 weight: 2110
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/
 ---
 ## KmlFeatureStyle class
 
-تؤثر الأنماط على طريقة عرض الهندسة. تُشفّر هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه باسم 'الأنماط المشتركة' في مواصفة kml.
+تؤثر الأنماط على طريقة عرض الهندسة. تُشفّر هذه الأنماط في قسم المستند وتملك معرفًا فريدًا لكل نمط. تُعرف هذه بـ 'الأنماط المشتركة' في مواصفة kml.
 
 ```csharp
 public class KmlFeatureStyle : FeatureStyle
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

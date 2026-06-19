@@ -39,7 +39,7 @@ public LineString(IEnumerable<IPoint> collection)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | أي نقطة فارغة (‏[`IsEmpty`](../../igeometry/isempty/) لها `true`). |
+| ArgumentException | أي نقطة فارغة (‏[`IsEmpty`](../../igeometry/isempty/) الخاصة بها هي `true`). |
 
 ### انظر أيضًا
 

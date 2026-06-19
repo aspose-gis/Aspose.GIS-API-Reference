@@ -1,7 +1,7 @@
 ---
 title: "Extent.YMin"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Extent. القيمة الصغرى لإحداثي Y"
+description: "خاصية Extent. القيمة الدنيا لإحداثي Y"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/extent/ymin/

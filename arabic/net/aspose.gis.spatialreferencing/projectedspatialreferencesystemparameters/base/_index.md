@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparame
 ---
 ## ProjectedSpatialReferenceSystemParameters.Base property
 
-SRS الجغرافي الأساسي (SRS الذي يُطبق عليه الإسقاط). يجب عليك تعيين هذه الخاصية إلى قيمة غير `null` لإنشاء SRS صالح، هذه الخاصية لا تحتوي على أي قيمة افتراضية.
+نظام الإحداثيات الجغرافي الأساسي (SRS الذي يُطبق عليه الإسقاط). يجب عليك ضبط هذه الخاصية لتكون غير `null` لإنشاء SRS صالح، هذه الخاصية لا تحتوي على قيمة افتراضية.
 
 ```csharp
 public GeographicSpatialReferenceSystem Base { get; set; }

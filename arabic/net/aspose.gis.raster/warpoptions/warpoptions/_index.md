@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/warpoptions/warpoptions/
 ---
 ## WarpOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public WarpOptions()

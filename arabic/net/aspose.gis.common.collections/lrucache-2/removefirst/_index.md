@@ -1,5 +1,5 @@
 ---
-title: "LruCache2.إزالة_الأول"
+title: "LruCache2.RemoveFirst"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة LruCache."
 type: docs

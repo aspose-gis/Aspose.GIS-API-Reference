@@ -1,7 +1,7 @@
 ---
 title: "EsriJsonOptions.NestedPropertiesSeparator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية EsriJsonOptions. يحصل أو يحدد سلسلة تُستخدم لفصل مكونات السمات المتداخلة. القيمة الافتراضية هي _"
+description: "EsriJsonOptions خاصية. تحصل أو تعيين سلسلة تُستخدم لفصل مكونات السمات المتداخلة. القيمة الافتراضية هي _"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.esrijson/esrijsonoptions/nestedpropertiesseparator/

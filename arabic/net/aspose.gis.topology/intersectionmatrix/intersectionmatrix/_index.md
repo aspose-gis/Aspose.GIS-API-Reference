@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.topology/intersectionmatrix/intersectionmatrix/
 ---
 ## IntersectionMatrix() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public IntersectionMatrix()

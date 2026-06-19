@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.layersmap/maplayeroptions/maplayeroptions/
 ---
 ## MapLayerOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MapLayerOptions()

@@ -1,7 +1,7 @@
 ---
 title: "MeasuredLineSegment.AlongLineCenter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MeasuredLineSegment."
+description: "MeasuredLineSegment خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.labeling.line/measuredlinesegment/alonglinecenter/

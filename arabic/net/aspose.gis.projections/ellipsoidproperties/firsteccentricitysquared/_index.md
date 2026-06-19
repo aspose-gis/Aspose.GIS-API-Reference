@@ -1,7 +1,7 @@
 ---
-title: "EllipsoidProperties.مربع_الانحراف_الأول"
+title: "EllipsoidProperties.FirstEccentricitySquared"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية EllipsoidProperties."
+description: "EllipsoidProperties خاصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.projections/ellipsoidproperties/firsteccentricitysquared/

@@ -8,17 +8,17 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystemtransformation/
 ---
 ## SpatialReferenceSystemTransformation class
 
-تحويل نظام الإسناد المكاني يحول الأشكال الهندسية من نظام الإسناد المصدر إلى نظام الإسناد الهدف.
+تحويل نظام الإشارة المكانية يحول الأشكال الهندسية من نظام الإشارة المكانية المصدر إلى نظام الإشارة المكانية الهدف.
 
 ```csharp
 public class SpatialReferenceSystemTransformation
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [SpatialReferenceSystemTransformation](spatialreferencesystemtransformation/)(SpatialReferenceSystem, SpatialReferenceSystem) | ينشئ مثيلًا جديدًا. |
+| [SpatialReferenceSystemTransformation](spatialreferencesystemtransformation/)(SpatialReferenceSystem, SpatialReferenceSystem) | ينشئ نسخة جديدة. |
 
 ## الخصائص
 
@@ -31,7 +31,7 @@ public class SpatialReferenceSystemTransformation
 
 | الاسم | الوصف |
 | --- | --- |
-| [Transform](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/)(IGeometry) | يحول الشكل الهندسي من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف. |
+| [Transform](../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/transform/)(IGeometry) | يحول الهندسة من نظام الإسناد المكاني المصدر إلى نظام الإسناد المكاني الهدف. |
 
 ### انظر أيضًا
 

@@ -1,14 +1,14 @@
 ---
 title: "SimpleLine.SimpleLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ SimpleLine. ينشئ مثيلًا جديدًا"
+description: "منشئ SimpleLine. ينشئ مثالًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/simpleline/
 ---
 ## SimpleLine() {#constructor}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public SimpleLine()
@@ -24,7 +24,7 @@ public SimpleLine()
 
 ## SimpleLine(SimpleLine) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من الفئة [`SimpleLine`](../).
+يُهيئ مثالًا جديدًا من الفئة [`SimpleLine`](../).
 
 ```csharp
 public SimpleLine(SimpleLine other)

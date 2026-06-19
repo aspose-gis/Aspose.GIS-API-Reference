@@ -1,14 +1,14 @@
 ---
 title: "FileGdbCoordinatePrecisionGrid.MScale"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل أو تعيين مقياس إحداثي M. إذا تم تعيينها إلى null يتم استخدام القيمة الافتراضية"
+description: "خاصية FileGdbCoordinatePrecisionGrid. تحصل على مقياس إحداثية M أو تعينه. إذا تم تعيينها إلى null تُستخدم القيمة الافتراضية"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/mscale/
 ---
 ## FileGdbCoordinatePrecisionGrid.MScale property
 
-يحصل أو يضبط مقياس إحداثية M. إذا تم تعيينه إلى `null` يتم استخدام القيمة الافتراضية.
+يحصل أو يضبط مقياس إحداثية M. إذا تم تعيينه إلى `null` تُستخدم القيمة الافتراضية.
 
 ```csharp
 public double? MScale { get; set; }
@@ -18,7 +18,7 @@ public double? MScale { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | المعطى ليس إيجابيًا. |
+| ArgumentOutOfRangeException | المعامل ليس موجبًا. |
 
 ## ملاحظات
 

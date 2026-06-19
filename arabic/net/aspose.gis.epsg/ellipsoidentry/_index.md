@@ -1,7 +1,7 @@
 ---
-title: "البنية EllipsoidEntry"
+title: "الهيكل EllipsoidEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "البنية Aspose.Gis.Epsg.EllipsoidEntry."
+description: "الهيكل Aspose.Gis.Epsg.EllipsoidEntry."
 type: docs
 weight: 1480
 url: /ar/net/aspose.gis.epsg/ellipsoidentry/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.epsg/ellipsoidentry/
 public struct EllipsoidEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

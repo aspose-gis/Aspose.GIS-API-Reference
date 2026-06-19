@@ -1,7 +1,7 @@
 ---
 title: "فئة GdbTableException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.GdbTable.GdbTableException فئة."
+description: "فئة Aspose.Gis.Common.Formats.GdbTable.GdbTableException."
 type: docs
 weight: 450
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbtableexception/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbtableexception/
 public class GdbTableException : Exception
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GdbTableException](gdbtableexception/#constructor)() | المُنشئ الافتراضي. |
+| [GdbTableException](gdbtableexception/#constructor)() | المنشئ الافتراضي. |
 | [GdbTableException](gdbtableexception/#constructor_1)(string) |  |
 | [GdbTableException](gdbtableexception/#constructor_2)(string, Exception) |  |
 

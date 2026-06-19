@@ -1,7 +1,7 @@
 ---
 title: "PaintEngine.MeasureTextCharacters"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة PaintEngine."
+description: "PaintEngine طريقة."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.painting/paintengine/measuretextcharacters/

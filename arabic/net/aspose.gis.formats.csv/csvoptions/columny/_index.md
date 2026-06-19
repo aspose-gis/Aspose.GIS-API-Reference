@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.csv/csvoptions/columny/
 ---
 ## CsvOptions.ColumnY property
 
-يحصل أو يعيّن اسم العمود الذي يحتوي على قيمة إحداثي Y. القيمة الافتراضية هي `null`.
+يحصل أو يضبط اسم العمود الذي يحتوي على قيمة إحداثي Y. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string ColumnY { get; set; }

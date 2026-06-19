@@ -1,7 +1,7 @@
 ---
 title: "AbstractPath.Separator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية AbstractPath. تُعيد حرف الفاصل المستخدم لفصل مستويات الدليل في سلسلة Location"
+description: "خاصية AbstractPath. تحصل على حرف الفاصل المستخدم لفصل مستويات الدليل في سلسلة Location"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/abstractpath/separator/

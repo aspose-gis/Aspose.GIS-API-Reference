@@ -1,14 +1,14 @@
 ---
 title: "Geometry.HasZ"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على إحداثي Z"
+description: "خاصية Geometry. تحصل على قيمة تشير إلى ما إذا كانت هذه العينة تحتوي على إحداثي Z."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geometries/geometry/hasz/
 ---
 ## Geometry.HasZ property
 
-يحصل على قيمة تشير إلى ما إذا كان لهذا الكائن إحداثية Z.
+يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يحتوي على إحداثي Z.
 
 ```csharp
 public virtual bool HasZ { get; set; }
@@ -16,7 +16,7 @@ public virtual bool HasZ { get; set; }
 
 ### Property Value
 
-`true` إذا كان لهذا الكائن إحداثيات Z؛ وإلا `false`.
+`true` إذا كان لهذا الكائن إحداثي Z؛ وإلا `false`.
 
 ### انظر أيضًا
 

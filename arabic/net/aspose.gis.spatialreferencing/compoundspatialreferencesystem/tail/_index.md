@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/tail/
 ---
 ## CompoundSpatialReferenceSystem.Tail property
 
-الـ SRS الأساسي الثاني.
+ثاني SRS أساسي.
 
 ```csharp
 public SpatialReferenceSystem Tail { get; }

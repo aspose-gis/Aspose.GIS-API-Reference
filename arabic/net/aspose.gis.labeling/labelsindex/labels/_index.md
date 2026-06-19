@@ -1,7 +1,7 @@
 ---
 title: "LabelsIndex.Labels"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LabelsIndex."
+description: "LabelsIndex خاصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.labeling/labelsindex/labels/

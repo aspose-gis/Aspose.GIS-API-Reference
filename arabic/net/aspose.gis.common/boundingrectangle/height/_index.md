@@ -1,5 +1,5 @@
 ---
-title: "BoundingRectangle.Height"
+title: "BoundingRectangle الارتفاع"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "BoundingRectangle خاصية."
 type: docs

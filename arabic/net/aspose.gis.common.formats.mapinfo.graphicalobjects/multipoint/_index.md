@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/multipoint/
 public class MultiPoint : GraphicalObject, IEquatable<MultiPoint>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MultiPoint](multipoint/)() | المُنشئ الافتراضي. |
+| [MultiPoint](multipoint/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

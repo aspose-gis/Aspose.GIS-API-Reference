@@ -1,14 +1,14 @@
 ---
 title: "IGeometryCollection.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية IGeometryCollection. تحصل على عدد الأشكال الهندسية في هذه المجموعة."
+description: "خاصية IGeometryCollection. يحصل على عدد الأشكال الهندسية في هذه المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/igeometrycollection/count/
 ---
 ## IGeometryCollection.Count property
 
-يحصل على عدد الأشكال في هذه المجموعة.
+يحصل على عدد الهندسات في هذه المجموعة.
 
 ```csharp
 public int Count { get; }

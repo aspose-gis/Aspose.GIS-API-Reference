@@ -1,7 +1,7 @@
 ---
-title: "Projection.إنشاء"
+title: "Projection.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Projection."
+description: "Projection طريقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.projections/projection/create/

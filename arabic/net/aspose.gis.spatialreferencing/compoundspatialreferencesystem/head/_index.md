@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/head/
 ---
 ## CompoundSpatialReferenceSystem.Head property
 
-الـ SRS الأساسي الأول.
+أول SRS أساسي.
 
 ```csharp
 public SpatialReferenceSystem Head { get; }

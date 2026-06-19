@@ -1,7 +1,7 @@
 ---
 title: "MultiCurve.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة MultiCurve. يحصل على نسخة قابلة للتحرير من هذا الشكل الهندسي"
+description: "طريقة MultiCurve. يحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.geometries/multicurve/toeditable/
@@ -16,7 +16,7 @@ public MultiCurve ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

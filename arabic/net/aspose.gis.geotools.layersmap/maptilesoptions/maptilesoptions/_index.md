@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.layersmap/maptilesoptions/maptilesoptions/
 ---
 ## MapTilesOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MapTilesOptions()

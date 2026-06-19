@@ -1,14 +1,14 @@
 ---
 title: "الفئة InFileDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.InFile.InFileDriver فئة. برنامج تشغيل للعمل مع البيانات وحفظ مؤقت في ملف"
+description: "الفئة Aspose.Gis.Formats.InFile.InFileDriver. برنامج تشغيل للعمل مع البيانات والحفظ المؤقت في الملف"
 type: docs
 weight: 1990
 url: /ar/net/aspose.gis.formats.infile/infiledriver/
 ---
 ## InFileDriver class
 
-محرك للعمل مع البيانات والحفظ المؤقت في الملف.
+برنامج تشغيل للعمل مع البيانات والحفظ المؤقت في الملف.
 
 ```csharp
 public sealed class InFileDriver : FileDriver
@@ -18,10 +18,10 @@ public sealed class InFileDriver : FileDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanCreateDatasets](../../aspose.gis.formats.infile/infiledriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء مجموعات البيانات. |
-| override [CanCreateLayers](../../aspose.gis.formats.infile/infiledriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة. |
-| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات. |
-| override [CanOpenLayers](../../aspose.gis.formats.infile/infiledriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة. |
+| override [CanCreateDatasets](../../aspose.gis.formats.infile/infiledriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء مجموعات البيانات. |
+| override [CanCreateLayers](../../aspose.gis.formats.infile/infiledriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء طبقات متجهية. |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح مجموعات البيانات. |
+| override [CanOpenLayers](../../aspose.gis.formats.infile/infiledriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح طبقات متجهية. |
 
 ## الطرق
 
@@ -54,7 +54,7 @@ public sealed class InFileDriver : FileDriver
 | [OpenLayer](../../aspose.gis.formats.infile/infiledriver/openlayer/#openlayer_2)(AbstractPath, InFileOptions) | يفتح طبقة للقراءة. |
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | يفتح الطبقة للقراءة. |
 | [OpenLayer](../../aspose.gis.formats.infile/infiledriver/openlayer/#openlayer_5)(string, InFileOptions) | يفتح طبقة للقراءة. |
-| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.infile/infiledriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل. |
+| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.infile/infiledriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل البرنامج تشغيل. |
 
 ### انظر أيضًا
 

@@ -22,7 +22,7 @@ public enum FontStyle
 | Regular | `0` | نص عادي. |
 | Bold | `1` | نص غامق. |
 | Italic | `2` | نص مائل. |
-| Underline | `4` | نص مسطر. |
+| Underline | `4` | نص تحته خط. |
 | Strikeout | `8` | نص بخط عبر الوسط. |
 
 ### انظر أيضًا

@@ -1,7 +1,7 @@
 ---
 title: "LineString.IsEmpty"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LineString. تحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
+description: "خاصية LineString. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geometries/linestring/isempty/

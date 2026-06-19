@@ -1,7 +1,7 @@
 ---
 title: "Ellipsoid.Ellipsoid"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ Ellipsoid. ينشئ قطعة ناقصة جديدة"
+description: "منشئ Ellipsoid. ينشئ إهليلجًا جديدًا"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/ellipsoid/ellipsoid/
@@ -17,10 +17,10 @@ public Ellipsoid(string name, double semiMajorAxis, double inverseFlattening,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الاسم | String | اسم القطعة الناقصة. |
+| الاسم | String | اسم الإهليلج. |
 | semiMajorAxis | Double | نصف المحور الرئيسي للشكل البيضاوي. |
-| inverseFlattening | Double | التسطح العكسي للقطعة الناقصة. يجب أن يكون 0 لإنشاء سفيرويد. |
-| معرّف | معرّف | معرف القطعة الناقصة. |
+| inverseFlattening | Double | التسطح العكسي للإهليلج. يجب أن يكون 0 لإنشاء كروي بيضاوي. |
+| معرّف | معرّف | معرف الإهليلج. |
 
 ### انظر أيضًا
 

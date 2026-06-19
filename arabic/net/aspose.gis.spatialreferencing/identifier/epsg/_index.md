@@ -16,11 +16,11 @@ public static Identifier Epsg(int epsgCode)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| epsgCode | Int32 | رمز EPSG. |
+| epsgCode | Int32 | رمز Epsg. |
 
 ### قيمة الإرجاع
 
-معرف جديد مع [`AuthorityName`](../authorityname/) "EPSG" و [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/)*epsgCode*. إذا كان *epsgCode* أقل من 0 - أعد `null`;
+معرف جديد مع [`AuthorityName`](../authorityname/) "EPSG" و [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/)*epsgCode*. إذا كان *epsgCode* أقل من 0 - أرجع `null`؛
 
 ### انظر أيضًا
 

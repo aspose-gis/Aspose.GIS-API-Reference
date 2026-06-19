@@ -1,7 +1,7 @@
 ---
 title: "PainterBrush.op_Inequality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PainterBrush طريقة."
+description: "طريقة PainterBrush."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.painting/painterbrush/op_inequality/

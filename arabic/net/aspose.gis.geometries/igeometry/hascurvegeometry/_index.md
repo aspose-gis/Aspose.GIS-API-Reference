@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/igeometry/hascurvegeometry/
 ---
 ## IGeometry.HasCurveGeometry property
 
-يحصل على قيمة تشير إلى ما إذا كانت هذه الهندسة أو تحتوي على هندسة منحنية (غير خطية).
+يحصل على قيمة تشير إلى ما إذا كانت هذه الـ geometry هي أو تحتوي على هندسة منحنية (غير خطية).
 
 ```csharp
 public bool HasCurveGeometry { get; }

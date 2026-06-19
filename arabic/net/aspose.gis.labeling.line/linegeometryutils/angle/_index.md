@@ -1,7 +1,7 @@
 ---
 title: "LineGeometryUtils.Angle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LineGeometryUtils."
+description: "LineGeometryUtils طريقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.labeling.line/linegeometryutils/angle/

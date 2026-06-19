@@ -1,7 +1,7 @@
 ---
 title: "MapTransform.MapTransform"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapTransform منشئ."
+description: "منشئ MapTransform."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform/maptransform/

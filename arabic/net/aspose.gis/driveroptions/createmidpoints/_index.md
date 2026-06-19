@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/driveroptions/createmidpoints/
 ---
 ## DriverOptions.CreateMidpoints property
 
-يحدد ما إذا كان يتم إضافة نقطة جديدة في الوسط لكل مقطع من الشكل الهندسي. القيمة الافتراضية هي `false`.
+يحدد ما إذا كان سيتم إضافة نقطة جديدة في الوسط لكل مقطع من الشكل الهندسي. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool CreateMidpoints { get; set; }

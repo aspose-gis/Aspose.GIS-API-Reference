@@ -1,14 +1,14 @@
 ---
 title: "SimpleLabeling.Placement"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. يحدد وضع التسمية كيفية وضع التسميات بالنسبة إلى هندسة المعالم"
+description: "خاصية SimpleLabeling. يحدد وضع التسمية كيفية وضع التسميات بالنسبة إلى أشكال المعالم."
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/placement/
 ---
 ## SimpleLabeling.Placement property
 
-تحديد موضع التسمية يوضح كيفية وضع التسميات بالنسبة إلى أشكال الميزة.
+تحديد موضع التسمية يوضح كيفية وضع التسميات بالنسبة إلى هندسة الميزة.
 
 ```csharp
 public LabelPlacement Placement { get; set; }

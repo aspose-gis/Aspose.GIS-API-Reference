@@ -1,14 +1,14 @@
 ---
 title: "PaintEngineState.PaintEngineState"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PaintEngineState منشئ. المنشئ الافتراضي"
+description: "PaintEngineState المنشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.painting/paintenginestate/paintenginestate/
 ---
 ## PaintEngineState constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public PaintEngineState()

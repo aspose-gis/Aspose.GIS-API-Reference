@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/getaxis/
 ---
 ## LocalSpatialReferenceSystem.GetAxis method
 
-احصل على [`Axis`](../../axis/) التي تصف البُعد.
+احصل على [`Axis`](../../axis/) الذي يصف البُعد.
 
 ```csharp
 public override Axis GetAxis(int dimension)
@@ -16,11 +16,11 @@ public override Axis GetAxis(int dimension)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| البُعد | Int32 | عدد البُعد. |
+| البُعد | Int32 | عدد الأبعاد. |
 
 ### قيمة الإرجاع
 
-Axis التي تصف البُعد.
+Axis الذي يصف البُعد.
 
 ### استثناءات
 

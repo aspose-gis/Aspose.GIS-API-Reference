@@ -1,7 +1,7 @@
 ---
 title: "MapInfoTabOptions.TextStringAttribute"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapInfoTabOptions property. تحدد اسم السمة التي تمثل نص الكائن الرسومي Text"
+description: "خاصية MapInfoTabOptions. تحدد اسم السمة التي تمثل نص الكائن الرسومي Text"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.mapinfotab/mapinfotaboptions/textstringattribute/
@@ -16,7 +16,7 @@ public string TextStringAttribute { get; set; }
 
 ## ملاحظات
 
-MapInfo Tab Format يحدد كائنًا رسوميًا من النوع 'Text'. الكائن الرسومي 'Text' يمثل تسمية على الخريطة. نقوم بتصدير كائنات 'Text' الرسومية كـ [`Feature`](../../../aspose.gis/feature/) مع هندسة [`Polygon`](../../../aspose.gis.geometries/polygon/) التي تحدد حدود التسمية. يتم تصدير نص التسمية كـ [`FeatureAttribute`](../../../aspose.gis/featureattribute/). تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي `"textstring"`.
+تنسيق MapInfo Tab يحدد كائنًا رسوميًا من النوع 'Text'. يمثل الكائن الرسومي 'Text' تسمية على الخريطة. نقوم بتصدير كائنات 'Text' الرسومية كـ [`Feature`](../../../aspose.gis/feature/) مع هندسة [`Polygon`](../../../aspose.gis.geometries/polygon/) التي تحدد حدود التسمية. يتم تصدير نص التسمية كـ [`FeatureAttribute`](../../../aspose.gis/featureattribute/). تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي `\"textstring\"`.
 
 ### انظر أيضًا
 

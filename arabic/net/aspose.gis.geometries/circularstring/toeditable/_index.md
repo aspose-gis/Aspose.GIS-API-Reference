@@ -1,7 +1,7 @@
 ---
 title: "CircularString.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CircularString. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
+description: "طريقة CircularString. تُعيد نسخة قابلة للتحرير من هذا الشكل الهندسي"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/circularstring/toeditable/
@@ -16,7 +16,7 @@ public CircularString ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "VerticalCrsEntry.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "VerticalCrsEntry الطريقة."
+description: "VerticalCrsEntry طريقة."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.epsg/verticalcrsentry/create/

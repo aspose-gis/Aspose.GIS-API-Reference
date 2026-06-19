@@ -1,7 +1,7 @@
 ---
 title: "تعداد LineJoin"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.LineJoin enum. يحدد كيفية عرض الخطوط عند تقاطع مقاطع الخط."
+description: "تعداد Aspose.Gis.Rendering.LineJoin. يحدد كيفية عرض الخطوط عند تقاطعات مقاطع الخط."
 type: docs
 weight: 4160
 url: /ar/net/aspose.gis.rendering/linejoin/

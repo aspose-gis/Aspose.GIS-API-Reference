@@ -1,24 +1,24 @@
 ---
 title: "الفئة RuleBasedSymbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.Symbolizers.RuleBasedSymbolizer الفئة. يطبق مُرمّزًا على أشكال المميزات وفقًا للقواعد المحددة من قبل المستخدم"
+description: "Aspose.Gis.Rendering.Symbolizers.RuleBasedSymbolizer فئة. يطبق مُرمّزاً على أشكال الميزات وفقاً لقواعد معرفة من قبل المستخدم"
 type: docs
 weight: 4380
 url: /ar/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/
 ---
 ## RuleBasedSymbolizer class
 
-يطبق رمزًا على هندسات الميزة وفقًا للقواعد المعرفة من قبل المستخدم.
+يطبق الـ symbolizer على هندسات العناصر وفقًا لقواعد معرفة من قبل المستخدم.
 
 ```csharp
 public class RuleBasedSymbolizer : VectorSymbolizer, IReadOnlyList<Rule>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [RuleBasedSymbolizer](rulebasedsymbolizer/)() | المُنشئ الافتراضي. |
+| [RuleBasedSymbolizer](rulebasedsymbolizer/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
@@ -33,8 +33,8 @@ public class RuleBasedSymbolizer : VectorSymbolizer, IReadOnlyList<Rule>
 | --- | --- |
 | [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add/#add)(Rule) | يضيف قاعدة. |
 | [Add](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/add/#add_1)(Func&lt;Feature, bool&gt;, VectorSymbolizer) | يضيف قاعدة جديدة [`Rule`](../rule/). |
-| [AddElseRule](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/addelserule/)(VectorSymbolizer) | يضيف مُرمّزًا سيُطبق على المميزات التي لا تتطابق مع أي قاعدة تصفية. |
-| [GetEnumerator](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/getenumerator/)() | يعيد عدّادًا يتنقل عبر القواعد. |
+| [AddElseRule](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/addelserule/)(VectorSymbolizer) | يضيف مُرمّزاً سيُطبق على الميزات التي لا تتطابق مع أي قاعدة تصفية. |
+| [GetEnumerator](../../aspose.gis.rendering.symbolizers/rulebasedsymbolizer/getenumerator/)() | يعيد مُعددًا يتنقل عبر القواعد. |
 
 ### انظر أيضًا
 

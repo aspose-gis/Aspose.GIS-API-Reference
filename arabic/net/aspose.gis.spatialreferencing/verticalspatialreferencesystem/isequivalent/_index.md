@@ -1,7 +1,7 @@
 ---
 title: "VerticalSpatialReferenceSystem.IsEquivalent"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VerticalSpatialReferenceSystem. تُحدد ما إذا كان هذا SRS مكافئًا لـ SRS آخر."
+description: "طريقة VerticalSpatialReferenceSystem. تكشف ما إذا كان هذا SRS مكافئًا لـ SRS آخر."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/isequivalent/
@@ -20,7 +20,7 @@ public override bool IsEquivalent(SpatialReferenceSystem other)
 
 ### قيمة الإرجاع
 
-قيمة bool، تُشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
+قيمة من نوع bool، تشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
 ### انظر أيضًا
 

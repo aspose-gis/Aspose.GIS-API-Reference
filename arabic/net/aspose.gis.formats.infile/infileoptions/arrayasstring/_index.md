@@ -1,7 +1,7 @@
 ---
 title: "InFileOptions.ArrayAsString"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية InFileOptions. ما إذا كان يجب عرض مصفوفات JSON من السلاسل أو الأعداد الصحيحة أو القيم الحقيقية كسلسلة"
+description: "خاصية InFileOptions. ما إذا كان يجب كشف مصفوفات JSON من السلاسل أو الأعداد الصحيحة أو الحقيقية كقيمة نصية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.infile/infileoptions/arrayasstring/

@@ -1,7 +1,7 @@
 ---
 title: "Line.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Line طريقة."
+description: "طريقة Line."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/equals/

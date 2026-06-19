@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/base/
 ---
 ## ProjectedSpatialReferenceSystem.Base property
 
-نظام إحداثيات جغرافي تم تطبيق [`Projection`](../projection/) عليه للحصول على هذا SRS.
+نظام الإحداثيات الجغرافي الذي تم تطبيق [`Projection`](../projection/) عليه للحصول على هذا SRS.
 
 ```csharp
 public abstract GeographicSpatialReferenceSystem Base { get; }

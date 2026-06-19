@@ -1,7 +1,7 @@
 ---
 title: "SimpleLine.Offset"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLine. تحدد الإزاحة من الخط الأصلي. للمسافة الإيجابية ستكون الإزاحة على الجانب الأيسر من الخط المدخل نسبة إلى اتجاه الخط. للمسافة السلبية ستكون على الجانب الأيمن"
+description: "خاصية SimpleLine. تحدد الإزاحة من الخط الأصلي. للمسافة الإيجابية تكون الإزاحة على الجانب الأيسر من الخط المدخل بالنسبة لاتجاه الخط. للمسافة السلبية تكون على الجانب الأيمن"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/offset/

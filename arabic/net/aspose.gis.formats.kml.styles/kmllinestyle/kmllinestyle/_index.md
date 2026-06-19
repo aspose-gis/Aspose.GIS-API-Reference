@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmllinestyle/kmllinestyle/
 ---
 ## KmlLineStyle constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public KmlLineStyle()

@@ -1,7 +1,7 @@
 ---
 title: "PolygonGeneratorOptions.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PolygonGeneratorOptions طريقة. استنساخ الكائن إلى آخر"
+description: "PolygonGeneratorOptions method. استنساخ الكائن إلى كائن آخر"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/clone/
@@ -16,7 +16,7 @@ public PolygonGeneratorOptions Clone()
 
 ### قيمة الإرجاع
 
-استنساخ الكائن إلى آخر [`PolygonGeneratorOptions`](../).
+استنساخ الكائن إلى كائن آخر [`PolygonGeneratorOptions`](../).
 
 ### انظر أيضًا
 

@@ -1,14 +1,14 @@
 ---
 title: "GeographicDatum.GeographicDatum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ GeographicDatum. ينشئ مثالًا جديدًا"
+description: "منشئ GeographicDatum. ينشئ نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/geographicdatum/
 ---
 ## GeographicDatum constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public GeographicDatum(string name, Ellipsoid ellipsoid, 
@@ -17,10 +17,10 @@ public GeographicDatum(string name, Ellipsoid ellipsoid,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الاسم | String | اسم هذا المرجع. |
-| ellipsoid | Ellipsoid | البيضاوي لهذا المرجع. لا يمكن أن يكون فارغًا. |
-| toWgs84Parameters | BursaWolfParameters | المعلمات التي يمكن إعطاؤها لصيغة bursa wolf لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في مرجع WGS84. إذا كان هذا المرجع قريبًا من WGS84 ولا يلزم تحويل، مرّر معلمات bursa wolf مع ضبط جميع القيم إلى 0. إذا كان فارغًا، سيتم ضبط ToWgs84 إلى معلمات [`IsNull`](../../bursawolfparameters/isnull/). |
-| معرّف | معرّف | معرف هذا المرجع. |
+| الاسم | String | اسم هذه النقطة المرجعية. |
+| البيضاوي | Ellipsoid | البيضاوي لهذه النقطة المرجعية. لا يمكن أن يكون فارغًا. |
+| toWgs84Parameters | BursaWolfParameters | معلمات يمكن إعطاؤها لصيغة bursa wolf لتحويل الإحداثيات في هذه النقطة المرجعية إلى إحداثيات في نقطة مرجعية WGS84. إذا كانت هذه النقطة المرجعية قريبة من WGS84 ولا يلزم تحويل، مرّر معلمات bursa wolf مع ضبط جميع القيم إلى 0. إذا كانت فارغة، سيتم ضبط ToWgs84 إلى معلمات [`IsNull`](../../bursawolfparameters/isnull/). |
+| معرّف | معرّف | معرف هذه النقطة المرجعية. |
 
 ### استثناءات
 

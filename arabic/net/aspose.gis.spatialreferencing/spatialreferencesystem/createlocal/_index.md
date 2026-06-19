@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.CreateLocal"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SpatialReferenceSystem. إنشاء نظام إحداثيات محلي."
+description: "طريقة SpatialReferenceSystem. إنشاء نظام إسناد مكاني محلي"
 type: docs
 weight: 370
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createlocal/
@@ -18,10 +18,10 @@ public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum da
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم نظام الإسناد المكاني. |
-| نقطة إسناد | نقطة إسناد محلية | الـ Datum لاستخدامه في SRS. |
-| وحدة | وحدة | الوحدة المستخدمة في نظام الإسناد المكاني. |
-| محاور | ICollection`1 | المحاور المستخدمة في نظام الإسناد المكاني. يجب ألا تكون فارغة |
-| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
+| datum | LocalDatum | المرجع الذي سيُستخدم في SRS. |
+| وحدة | وحدة | الوحدة التي ستُستخدم في نظام الإسناد المكاني. |
+| axises | ICollection`1 | المحاور التي ستُستخدم في نظام الإسناد المكاني. يجب ألا تكون فارغة |
+| معرّف | معرّف | المعرّف الذي سيُرفق بـ SRS. إرفاق معرّف لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
 
 ### قيمة الإرجاع
 
@@ -32,8 +32,8 @@ public static LocalSpatialReferenceSystem CreateLocal(string name, LocalDatum da
 | استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | يجب أن يكون هناك محور واحد على الأقل. |
-| InvalidOperationException | *محاور* فارغة. |
-| ArgumentNullException | أي وسيط، باستثناء *identifier* هو null. |
+| InvalidOperationException | *axises* فارغ. |
+| ArgumentNullException | أي وسيط، باستثناء *identifier* هو فارغ. |
 
 ### انظر أيضًا
 

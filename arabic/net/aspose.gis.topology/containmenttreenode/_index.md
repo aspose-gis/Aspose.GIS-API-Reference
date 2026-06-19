@@ -1,7 +1,7 @@
 ---
 title: "فئة ContainmentTreeNode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.ContainmentTreeNode فئة."
+description: "فئة Aspose.Gis.Topology.ContainmentTreeNode."
 type: docs
 weight: 4870
 url: /ar/net/aspose.gis.topology/containmenttreenode/

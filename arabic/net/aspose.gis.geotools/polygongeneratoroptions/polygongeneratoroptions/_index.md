@@ -1,7 +1,7 @@
 ---
 title: "PolygonGeneratorOptions.PolygonGeneratorOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PolygonGeneratorOptions منشئ. إنشاء نسخة مع حقول التهيئة بشكل افتراضي"
+description: "PolygonGeneratorOptions constructor. إنشاء كائن مع الحقول الأولية بشكل افتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/polygongeneratoroptions/

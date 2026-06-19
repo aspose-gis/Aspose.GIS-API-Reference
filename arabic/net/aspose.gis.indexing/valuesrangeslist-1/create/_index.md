@@ -1,7 +1,7 @@
 ---
 title: "ValuesRangesList1.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ValuesRangesList."
+description: "ValuesRangesList طريقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.indexing/valuesrangeslist-1/create/

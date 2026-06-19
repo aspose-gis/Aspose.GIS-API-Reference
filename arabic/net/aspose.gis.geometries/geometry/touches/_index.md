@@ -1,14 +1,14 @@
 ---
 title: "Geometry.Touches"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Geometry. تحدد ما إذا كانت هذه الهندسة وهندسة محددة تلامس"
+description: "طريقة Geometry. تحدد ما إذا كانت هذه الهندسة وهندسة محددة تلامسان"
 type: docs
 weight: 430
 url: /ar/net/aspose.gis.geometries/geometry/touches/
 ---
 ## Geometry.Touches method
 
-يحدد ما إذا كان هذا الشكل وشكل محدد يلامسان بعضهما.
+يحدد ما إذا كانت هذه الهندسة وهندسة محددة تلامسان.
 
 ```csharp
 public bool Touches(IGeometry other)
@@ -28,11 +28,11 @@ public bool Touches(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإسناد المكاني. |
 
 ## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت الهندسات تلامس بعضها البعض من حيث مصفوفة تقاطع DE-9IM. تلامس الهندستان بعضها إذا كان لديهما على الأقل نقطة حد مشتركة، ولكن لا نقاط داخلية. أي أن: يلامس اثنان من [`LineString`](../../linestring/) بعضهما إذا شاركا نقطة نهائية، ولكن لا يشتركان في مقطع، وتلامس مضلعان إذا شاركا جزءًا من الحلقة الخارجية أو الداخلية، ولكن لا تتداخل داخلاتهما. هذه الطريقة مكافئة لـ:
+تختبر هذه الطريقة ما إذا كانت الهندسات تلامس بعضها البعض وفقًا لمصفوفة تقاطع DE-9IM. تلامس هندستان بعضها إذا كان لديهما نقطة حد واحدة على الأقل مشتركة، ولكن لا نقاط داخلية. أي: يلامس اثنان من [`LineString`](../../linestring/) بعضهما إذا شاركا نقطة نهائية، ولكن لا يشتركان في مقطع، وتلامس مضلعان بعضهما إذا شاركا جزءًا من الحلقة الخارجية أو الداخلية، ولكن لا تتداخل داخلياتهما. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "FT*******") || this.Relate(other, "F**T*****") || this.Relate(other, "F***T****");

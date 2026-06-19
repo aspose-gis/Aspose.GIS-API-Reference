@@ -1,14 +1,14 @@
 ---
 title: "IRasterValues.AsShort"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IRasterValues. تحوّل بيانات النطاق المحدد إلى قيمة من نوع short"
+description: "طريقة IRasterValues. تحول بيانات النطاق المحدد إلى قيمة من نوع short"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.raster/irastervalues/asshort/
 ---
 ## IRasterValues.AsShort method
 
-يحوّل بيانات الشريط المحدد إلى قيمة `short`.
+يقوم بتحويل بيانات النطاق المحدد إلى قيمة `short`.
 
 ```csharp
 public short AsShort(int bandIndex = 0)

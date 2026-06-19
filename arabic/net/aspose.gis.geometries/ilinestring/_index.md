@@ -1,7 +1,7 @@
 ---
 title: "الواجهة ILineString"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Geometries.ILineString الواجهة. منحنى متعدد الرؤوس مع استيفاء خطي بين النقاط"
+description: "واجهة Aspose.Gis.Geometries.ILineString. منحنى متعدد القمم مع استيفاء خطي بين النقاط"
 type: docs
 weight: 2800
 url: /ar/net/aspose.gis.geometries/ilinestring/

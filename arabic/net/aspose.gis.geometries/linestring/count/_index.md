@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/linestring/count/
 ---
 ## LineString.Count property
 
-تحصل على عدد النقاط في الـ[`LineString`](../).
+تحصل على عدد النقاط في [`LineString`](../).
 
 ```csharp
 public int Count { get; }

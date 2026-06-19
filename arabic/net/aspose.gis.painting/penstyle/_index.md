@@ -1,7 +1,7 @@
 ---
-title: "التعداد PenStyle"
+title: "تعداد PenStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.PenStyle التعداد."
+description: "Aspose.Gis.Painting.PenStyle تعداد."
 type: docs
 weight: 3580
 url: /ar/net/aspose.gis.painting/penstyle/

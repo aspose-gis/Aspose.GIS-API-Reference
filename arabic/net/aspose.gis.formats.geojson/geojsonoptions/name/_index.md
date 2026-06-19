@@ -1,7 +1,7 @@
 ---
 title: "GeoJsonOptions.Name"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeoJsonOptions. الاسم على مستوى مجموعة الميزات لإنشاء الطبقة"
+description: "خاصية GeoJsonOptions. الاسم على مستوى مجموعة المميزات لإنشاء الطبقة"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/name/

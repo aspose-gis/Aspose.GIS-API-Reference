@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.TiffW"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Formats.JpegW توفر فئات للعمل مع تنسيق JpegW."
+description: "مساحة الأسماء `Aspose.Gis.Formats.JpegW` توفر فئات للعمل مع تنسيق JpegW."
 type: docs
 weight: 440
 url: /ar/net/aspose.gis.formats.tiffw/
@@ -12,6 +12,6 @@ url: /ar/net/aspose.gis.formats.tiffw/
 
 | فئة | الوصف |
 | --- | --- |
-| [TiffWDriver](./tiffwdriver/) | برنامج تشغيل لتنسيق TiffW النقطي. |
+| [TiffWDriver](./tiffwdriver/) | محرك لصورة TiffW النقطية. |
 
 

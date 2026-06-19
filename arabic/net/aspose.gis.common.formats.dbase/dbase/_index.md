@@ -1,7 +1,7 @@
 ---
 title: "الفئة DBase"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.Formats.DBase.DBase."
+description: "الفئة Aspose.Gis.Common.Formats.DBase.DBase"
 type: docs
 weight: 260
 url: /ar/net/aspose.gis.common.formats.dbase/dbase/

@@ -1,7 +1,7 @@
 ---
 title: "TransformationException.TransformationException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ TransformationException. أنشئ مثيلاً جديداً"
+description: "منشئ TransformationException. إنشاء نسخة جديدة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/transformationexception/transformationexception/

@@ -1,14 +1,14 @@
 ---
 title: "GeometryOperations.BuildCenterline"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryOperations. بناء مخطط الخط المركزي لمجموعة من مواقع النقاط"
+description: "طريقة GeometryOperations. بناء مخطط الخط المركزي لمجموعة من نقاط المواقع"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/geometryoperations/buildcenterline/
 ---
 ## BuildCenterline(IEnumerable&lt;Point&gt;) {#buildcenterline_1}
 
-بناء مخطط الخط المركزي لمجموعة من النقاط (المواقع)
+إنشاء مخطط الخط المركزي لمجموعة من النقاط (المواقع)
 
 ```csharp
 public static List<LineString> BuildCenterline(IEnumerable<Point> sites)
@@ -34,7 +34,7 @@ public static List<LineString> BuildCenterline(IEnumerable<Point> sites)
 
 ## BuildCenterline(Polygon) {#buildcenterline}
 
-بناء مخطط الخط المركزي للمضلع
+إنشاء مخطط الخط المركزي للمضلع
 
 ```csharp
 public static List<LineString> BuildCenterline(Polygon polygon)

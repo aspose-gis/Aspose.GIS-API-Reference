@@ -1,7 +1,7 @@
 ---
 title: "التعداد ByteOrder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.IO.ByteOrder تعداد."
+description: "التعداد Aspose.Gis.Common.IO.ByteOrder."
 type: docs
 weight: 1240
 url: /ar/net/aspose.gis.common.io/byteorder/

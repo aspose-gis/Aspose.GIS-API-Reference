@@ -1,7 +1,7 @@
 ---
 title: "OffsetCurveBuilder.BuildForLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "OffsetCurveBuilder طريقة."
+description: "طريقة OffsetCurveBuilder."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.topology.buffer/offsetcurvebuilder/buildforline/

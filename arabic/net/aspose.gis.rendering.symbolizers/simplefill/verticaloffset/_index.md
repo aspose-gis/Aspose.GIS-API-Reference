@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/verticaloffset/
 ---
 ## SimpleFill.VerticalOffset property
 
-يحدد الإزاحة العمودية من موقع مضلع إلى الشكل المرسوم.
+يحدد الإزاحة الرأسية من موقع مضلع إلى الشكل المُرسم.
 
 ```csharp
 public Measurement VerticalOffset { get; set; }

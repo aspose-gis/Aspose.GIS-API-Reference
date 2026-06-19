@@ -1,14 +1,14 @@
 ---
 title: "IFromDefinitionDataSource.UseConnection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IFromDefinitionDataSource. تكوين إلزامي للاتصال الحالي."
+description: "طريقة IFromDefinitionDataSource. تكوين إلزامي للاتصال الحالي"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/useconnection/
 ---
 ## IFromDefinitionDataSource.UseConnection method
 
-التكوين الإلزامي، الاتصال الحالي.
+إعداد إلزامي، الاتصال الحالي.
 
 ```csharp
 public void UseConnection(DbConnection connection)

@@ -1,7 +1,7 @@
 ---
 title: "MarkerLine.OffsetAlongLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MarkerLine. تحدد الإزاحة على طول الخط للعلامة الأولى."
+description: "خاصية MarkerLine. تحدد الإزاحة على طول الخط للعلامة الأولى"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.symbolizers/markerline/offsetalongline/

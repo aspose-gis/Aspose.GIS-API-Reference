@@ -1,14 +1,14 @@
 ---
 title: "IGeometry.SpatiallyEquals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IGeometry طريقة. يحدد ما إذا كانت هذه الهندسة متساوية مكانيًا لهندسة محددة"
+description: "طريقة IGeometry. تحدد ما إذا كانت هذه الهندسة متساوية مكانيًا لهندسة محددة"
 type: docs
 weight: 320
 url: /ar/net/aspose.gis.geometries/igeometry/spatiallyequals/
 ---
 ## IGeometry.SpatiallyEquals method
 
-يحدد ما إذا كانت هذه الهندسة مكافئة مكانيًا لهندسة محددة.
+يحدد ما إذا كانت هذه الهندسة مكانيًا مساوية لهندسة محددة.
 
 ```csharp
 public bool SpatiallyEquals(IGeometry other)
@@ -20,7 +20,7 @@ public bool SpatiallyEquals(IGeometry other)
 
 ### قيمة الإرجاع
 
-`true` إذا كانت هذه الهندسة "مساوية مكانيًا" لهندسة محددة. `false` خلاف ذلك.
+`true` إذا كانت هذه الهندسة "متساوية مكانيًا" مع الهندسة المحددة. `false` خلاف ذلك.
 
 ### استثناءات
 
@@ -28,11 +28,11 @@ public bool SpatiallyEquals(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ## ملاحظات
 
-تختبر هذه الطريقة المساواة من حيث مصفوفة تقاطع DE-9IM. لا تعتمد على ترتيب المكونات (مثل ترتيب الحلقات الداخلية في المضلع)، أو قيم Z و M. أساسًا، تختبر أن الهندستين تشغلان نفس "المساحة" عند إسقاطهما على الفضاء ثنائي الأبعاد. هذه الطريقة مكافئة لـ:
+تختبر هذه الطريقة المساواة من حيث مصفوفة التقاطع DE-9IM. لا تعتمد على ترتيب المكونات (مثل ترتيب الحلقات الداخلية في المضلع)، أو قيم Z و M. أساسًا، تختبر أن الهندستين تشغلان نفس "المساحة" عند إسقاطهما على الفضاء ثنائي الأبعاد. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "T*F**FFF*");

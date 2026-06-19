@@ -1,7 +1,7 @@
 ---
 title: "الواجهة ICompoundCurve"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Geometries.ICompoundCurve واجهة. منحنى يمثل تسلسلًا من المنحنيات المتصلة بحيث تُربط المنحنيات المتجاورة عند نقاط نهايتها."
+description: "واجهة Aspose.Gis.Geometries.ICompoundCurve. منحنى يمثل تسلسلًا من المنحنيات المتجاورة بحيث تُربط المنحنيات المتجاورة بنقاط نهايتها"
 type: docs
 weight: 2750
 url: /ar/net/aspose.gis.geometries/icompoundcurve/

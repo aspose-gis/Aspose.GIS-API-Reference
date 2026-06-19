@@ -1,5 +1,5 @@
 ---
-title: "BoundingRectangle.Contains"
+title: "BoundingRectangle يحتوي"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "BoundingRectangle طريقة."
 type: docs

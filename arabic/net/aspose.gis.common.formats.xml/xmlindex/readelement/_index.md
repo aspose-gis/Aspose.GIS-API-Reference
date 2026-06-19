@@ -1,7 +1,7 @@
 ---
 title: "XmlIndex.ReadElement"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlIndex method."
+description: "XmlIndex طريقة."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common.formats.xml/xmlindex/readelement/

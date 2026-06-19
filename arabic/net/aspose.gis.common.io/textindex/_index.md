@@ -1,7 +1,7 @@
 ---
 title: "الفئة TextIndex"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.IO.TextIndex"
+description: "فئة Aspose.Gis.Common.IO.TextIndex."
 type: docs
 weight: 1280
 url: /ar/net/aspose.gis.common.io/textindex/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.io/textindex/
 public class TextIndex
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometry/tosvg/
 ---
 ## Geometry.ToSvg method
 
-يترجم هذا الشكل إلى تمثيل Svg.
+يحوّل هذه الهندسة إلى تمثيل Svg.
 
 ```csharp
 public string ToSvg(Extent extent = null)

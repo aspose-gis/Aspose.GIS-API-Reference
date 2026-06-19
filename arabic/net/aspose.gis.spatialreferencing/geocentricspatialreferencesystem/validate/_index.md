@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/vali
 ---
 ## GeocentricSpatialReferenceSystem.Validate method
 
-تحديد ما إذا كان هذا SRS صالحًا. راجع [`Validate`](../../spatialreferencesystem/validate/) للحصول على وصف الصلاحية.
+حدد ما إذا كان هذا SRS صالحًا. راجع [`Validate`](../../spatialreferencesystem/validate/) للحصول على وصف الصلاحية.
 
 ```csharp
 public override bool Validate(out string errorMessage)

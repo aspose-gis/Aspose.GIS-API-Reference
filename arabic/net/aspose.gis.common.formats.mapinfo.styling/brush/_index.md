@@ -1,7 +1,7 @@
 ---
-title: "هيكل Brush"
+title: "بنية Brush"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "هيكل Aspose.Gis.Common.Formats.MapInfo.Styling.Brush."
+description: "Aspose.Gis.Common.Formats.MapInfo.Styling.Brush بنية."
 type: docs
 weight: 810
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/brush/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.styling/brush/
 public struct Brush : IEquatable<Brush>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

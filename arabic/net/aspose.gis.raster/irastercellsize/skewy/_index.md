@@ -1,7 +1,7 @@
 ---
 title: "IRasterCellSize.SkewY"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية IRasterCellSize. الحصول على المكوّن y لعرض الخلية أو البكسل yskew"
+description: "خاصية IRasterCellSize. يسترجع المكوّن y لعرض الخلية أو البكسل yskew"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.raster/irastercellsize/skewy/

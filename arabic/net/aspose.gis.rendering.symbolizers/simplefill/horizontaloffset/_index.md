@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/horizontaloffset/
 ---
 ## SimpleFill.HorizontalOffset property
 
-يحدد الإزاحة الأفقية من موقع نقطة إلى الشكل المرسوم.
+يحدد الإزاحة الأفقية من موقع نقطة إلى الشكل المُرسم.
 
 ```csharp
 public Measurement HorizontalOffset { get; set; }

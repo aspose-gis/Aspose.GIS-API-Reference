@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.SetImageSize"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. حفظ وسوم EXIF ImageWidth و ImageHeight وإضافة أو استبدال البيانات"
+description: "طريقة ImageMetadataReader. حفظ وسوم EXIF ImageWidth و ImageHeight مع إضافة أو استبدال البيانات"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/setimagesize/

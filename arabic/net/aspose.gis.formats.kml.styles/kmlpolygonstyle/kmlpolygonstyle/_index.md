@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/kmlpolygonstyle/
 ---
 ## KmlPolygonStyle constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public KmlPolygonStyle()

@@ -1,7 +1,7 @@
 ---
 title: "Region.Center"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Region الخاصية."
+description: "Region خاصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/center/

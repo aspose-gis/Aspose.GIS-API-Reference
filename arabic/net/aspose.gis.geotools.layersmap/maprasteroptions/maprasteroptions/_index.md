@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.layersmap/maprasteroptions/maprasteroptions/
 ---
 ## MapRasterOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MapRasterOptions()

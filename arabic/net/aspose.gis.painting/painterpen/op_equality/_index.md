@@ -1,7 +1,7 @@
 ---
 title: "PainterPen.op_Equality"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PainterPen طريقة."
+description: "طريقة PainterPen."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.painting/painterpen/op_equality/

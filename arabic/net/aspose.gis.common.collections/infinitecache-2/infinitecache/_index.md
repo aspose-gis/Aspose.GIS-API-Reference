@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.collections/infinitecache-2/infinitecache/
 ---
 ## InfiniteCache() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public InfiniteCache()

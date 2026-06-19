@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.layersmap/maplayeroptions/labeling/
 ---
 ## MapLayerOptions.Labeling property
 
-وضع تسميات للميزات. القيمة الافتراضية هي null.
+تسمية العناصر. القيمة الافتراضية هي null.
 
 ```csharp
 public Labeling Labeling { get; set; }

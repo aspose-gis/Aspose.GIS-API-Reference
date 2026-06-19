@@ -1,7 +1,7 @@
 ---
 title: "GeneratorTilesRenderOptions.GeometrySymbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeneratorTilesRenderOptions. تطبق المُرمّز الصحيح على هندسة الميزة وفقًا لنوع هندستها"
+description: "خاصية GeneratorTilesRenderOptions. تطبق الرموز الصحيحة على هندسة الميزة وفقًا لنوع هندستها"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/generatortilesrenderoptions/geometrysymbolizer/

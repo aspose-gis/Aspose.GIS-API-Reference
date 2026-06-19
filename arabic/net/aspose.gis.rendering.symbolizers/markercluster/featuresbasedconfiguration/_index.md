@@ -1,7 +1,7 @@
 ---
 title: "MarkerCluster.FeaturesBasedConfiguration"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MarkerCluster. رد نداء يُستخدم لتكوين هذا الرموز قبل عرض مركز التجمع"
+description: "خاصية MarkerCluster. رد نداء يُستخدم لتكوين هذا المُرمّز قبل عرض مركز التجمع"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration/
@@ -16,7 +16,7 @@ public Action<IEnumerable<Feature>, MarkerCluster> FeaturesBasedConfiguration { 
 
 ## ملاحظات
 
-يتم استدعاء رد النداء هذا قبل عرض كل مركز تجميع. وهو يقبل ميزات على وشك العرض ونسخة مستنسخة من هذا symbolizer. من خلال تغيير خصائص النسخة المستنسخة، يمكن تحديث سلوك symbolizer بناءً على سمات الميزات.
+يتم استدعاء رد النداء هذا قبل عرض كل مركز تجمّع. يقبل ميزات على وشك العرض ونسخة من هذا المُرمّز. من خلال تغيير خصائص النسخة، يمكن تحديث سلوك المُرمّز بناءً على سمات الميزات.
 
 ### انظر أيضًا
 

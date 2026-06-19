@@ -1,7 +1,7 @@
 ---
 title: "SolidPainterBrush.GetHashCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "SolidPainterBrush طريقة."
+description: "طريقة SolidPainterBrush."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.painting/solidpainterbrush/gethashcode/

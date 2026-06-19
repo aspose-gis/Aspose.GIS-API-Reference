@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.CreateCompound"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SpatialReferenceSystem. إنشاء نظام إسناد مركب"
+description: "طريقة SpatialReferenceSystem. إنشاء نظام إسناد مكاني مركب"
 type: docs
 weight: 340
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createcompound/
@@ -18,20 +18,20 @@ public static CompoundSpatialReferenceSystem CreateCompound(string name,
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم نظام الإسناد المكاني الجديد. |
-| الرأس | SpatialReferenceSystem | نظام الإسناد المكاني الرأس لنظام الإسناد المكاني الجديد. |
-| الذيل | SpatialReferenceSystem | نظام الإسناد المكاني الذيل لنظام الإسناد المكاني الجديد. |
-| معرّف | معرّف | Identifier، الذي سيُرفق بـ SRS. إرفاق Identifier لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق Identifier ومعلمات SRS. |
+| head | SpatialReferenceSystem | نظام الإسناد المكاني الرئيسي للنظام الجديد. |
+| tail | SpatialReferenceSystem | نظام الإسناد المكاني الفرعي للنظام الجديد. |
+| معرّف | معرّف | المعرّف الذي سيُرفق بـ SRS. إرفاق معرّف لن يغيّر معلمات SRS الأخرى. الأمر متروك لك لضمان اتساق المعرف ومعلمات SRS. |
 
 ### قيمة الإرجاع
 
-نظام إسناد مركب جديد.
+نظام إسناد مكاني مركب جديد.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | أي وسيط باستثناء *identifier* هو `null`. |
-| InvalidOperationException | *head* أو *tail* هي أنظمة إحداثيات مركبة بحد ذاتها. |
+| InvalidOperationException | *head* أو *tail* هما نظام إسناد مكاني مركب بحد ذاتهما. |
 
 ### انظر أيضًا
 

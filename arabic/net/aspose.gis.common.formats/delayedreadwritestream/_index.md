@@ -1,7 +1,7 @@
 ---
 title: "الفئة DelayedReadWriteStream"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.Formats.DelayedReadWriteStream."
+description: "Aspose.Gis.Common.Formats.DelayedReadWriteStream فئة."
 type: docs
 weight: 300
 url: /ar/net/aspose.gis.common.formats/delayedreadwritestream/

@@ -1,7 +1,7 @@
 ---
 title: "الفئة IndexableStreamReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.IO.IndexableStreamReader"
+description: "فئة Aspose.Gis.Common.IO.IndexableStreamReader."
 type: docs
 weight: 1260
 url: /ar/net/aspose.gis.common.io/indexablestreamreader/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.io/indexablestreamreader/
 public class IndexableStreamReader : StreamReader
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

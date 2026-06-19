@@ -1,7 +1,7 @@
 ---
 title: "TopologyGeometry.GetIntersections"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة TopologyGeometry."
+description: "TopologyGeometry طريقة."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.topology/topologygeometry/getintersections/

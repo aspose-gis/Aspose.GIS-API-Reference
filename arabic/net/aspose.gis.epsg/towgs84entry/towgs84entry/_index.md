@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.epsg/towgs84entry/towgs84entry/
 ---
 ## ToWgs84Entry constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public ToWgs84Entry()

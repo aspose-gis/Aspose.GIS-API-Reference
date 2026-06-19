@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/stargeneratoroptions/count/
 ---
 ## StarGeneratorOptions.Count property
 
-عدد المضلعات التي سيتم إنشاؤها.
+عدد المضلعات لإنشائها.
 
 ```csharp
 public int Count { get; set; }

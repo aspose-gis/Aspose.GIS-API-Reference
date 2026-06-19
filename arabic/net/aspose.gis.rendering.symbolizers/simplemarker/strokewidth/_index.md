@@ -1,7 +1,7 @@
 ---
 title: "SimpleMarker.StrokeWidth"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleMarker. تحدد عرض الخط."
+description: "خاصية SimpleMarker. تحدد عرض الخط"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.rendering.symbolizers/simplemarker/strokewidth/

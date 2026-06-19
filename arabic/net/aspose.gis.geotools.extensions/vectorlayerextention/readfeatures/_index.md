@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.extensions/vectorlayerextention/readfeatures/
 ---
 ## VectorLayerExtention.ReadFeatures&lt;T&gt; method
 
-قراءة ميزات باستخدام قائمة عامة (نفس ما هو >).
+قراءة ميزات باستخدام قائمة عامة (نفس ما هو &gt;).
 
 ```csharp
 public static List<T> ReadFeatures<T>(this VectorLayer layer)

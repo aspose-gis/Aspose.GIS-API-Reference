@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/irastervalues/asdouble/
 ---
 ## IRasterValues.AsDouble method
 
-يحوّل بيانات الشريط المحدد إلى قيمة `double`.
+يقوم بتحويل بيانات النطاق المحدد إلى قيمة `double`.
 
 ```csharp
 public double AsDouble(int bandIndex = 0)

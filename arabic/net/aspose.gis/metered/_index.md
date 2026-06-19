@@ -1,7 +1,7 @@
 ---
 title: "الفئة Metered"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Metered. توفر طرقاً لتعيين المفتاح المتعقب."
+description: "الفئة Aspose.Gis.Metered. توفر طرقًا لتعيين المفتاح المتدرج"
 type: docs
 weight: 3420
 url: /ar/net/aspose.gis/metered/
@@ -20,12 +20,12 @@ public class Metered
 | --- | --- |
 | static [GetConsumptionCredit](../../aspose.gis/metered/getconsumptioncredit/)() | يحصل على رصيد الاستهلاك |
 | static [GetConsumptionQuantity](../../aspose.gis/metered/getconsumptionquantity/)() | يحصل على حجم ملف الاستهلاك |
-| static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey/)() | يزيل الترخيص الذي تم إعداده مسبقاً |
-| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey/)(string, string) | يضبط المفتاح العام والخاص المتعقب |
+| static [ResetMeteredKey](../../aspose.gis/metered/resetmeteredkey/)() | يزيل الترخيص الذي تم إعداده مسبقًا |
+| static [SetMeteredKey](../../aspose.gis/metered/setmeteredkey/)(string, string) | يضبط المفتاح المتدرج العام والخاص |
 
 ## أمثلة
 
-في هذا المثال، سيتم محاولة تعيين المفتاح العام والخاص المتعقب
+في هذا المثال، سيتم محاولة ضبط المفتاح المتدرج العام والخاص
 
 ```csharp
 [C#]

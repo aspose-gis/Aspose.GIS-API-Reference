@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.AsInMemory"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. إنشاء نسخة من الطبقة بصيغة InMemory"
+description: "طريقة VectorLayer. إنشاء نسخة طبقة بصيغة InMemory"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis/vectorlayer/asinmemory/

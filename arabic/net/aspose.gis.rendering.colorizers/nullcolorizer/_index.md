@@ -1,14 +1,14 @@
 ---
 title: "الفئة NullColorizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Colorizers.NullColorizer. يقوم NullColorizer بعدم رسم أي شيء ويتخطى فعليًا عرض خلية الراستر التي يُطبق عليها"
+description: "الفئة Aspose.Gis.Rendering.Colorizers.NullColorizer. لا يرسم NullColorizer شيئًا ويتخطى فعليًا عرض خلية الراستر التي يُطبق عليها"
 type: docs
 weight: 3970
 url: /ar/net/aspose.gis.rendering.colorizers/nullcolorizer/
 ---
 ## NullColorizer class
 
-يقوم الـ `NullColorizer` بعدم رسم أي شيء ويتخطى فعليًا عرض خلية الراستر التي يُطبق عليها.
+`NullColorizer` لا يرسم شيئًا ويتخطى فعليًا عرض خلية الراستر التي يُطبّق عليها.
 
 ```csharp
 public class NullColorizer : RasterColorizer

@@ -1,7 +1,7 @@
 ---
-title: "الفئة SvgGeometryOptions"
+title: "فئة SvgGeometryOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.SvgGeometryOptions الفئة."
+description: "Aspose.Gis.Painting.SvgGeometryOptions فئة."
 type: docs
 weight: 3630
 url: /ar/net/aspose.gis.painting/svggeometryoptions/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/svggeometryoptions/
 public class SvgGeometryOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [SvgGeometryOptions](svggeometryoptions/)() | المُنشئ الافتراضي. |
+| [SvgGeometryOptions](svggeometryoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

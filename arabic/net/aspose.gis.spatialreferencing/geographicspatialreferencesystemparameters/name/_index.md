@@ -1,14 +1,14 @@
 ---
 title: "GeographicSpatialReferenceSystemParameters.Name"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicSpatialReferenceSystemParameters. اسم النظام الجغرافي. الافتراضي هو بدون اسم"
+description: "خاصية GeographicSpatialReferenceSystemParameters. اسم النظام الجغرافي. القيمة الافتراضية هي Unnamed"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparameters/name/
 ---
 ## GeographicSpatialReferenceSystemParameters.Name property
 
-اسم الـ SRS الجغرافي. الافتراضي هو "Unnamed".
+اسم نظام الإسناد المكاني الجغرافي. القيمة الافتراضية هي "Unnamed".
 
 ```csharp
 public string Name { get; set; }

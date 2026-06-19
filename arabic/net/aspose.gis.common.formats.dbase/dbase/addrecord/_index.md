@@ -1,5 +1,5 @@
 ---
-title: "DBase.أضف_سجل"
+title: "DBase.AddRecord"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

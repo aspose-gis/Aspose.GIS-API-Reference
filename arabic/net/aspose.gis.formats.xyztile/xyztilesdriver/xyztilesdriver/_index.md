@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.xyztile/xyztilesdriver/xyztilesdriver/
 ---
 ## XyzTilesDriver constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public XyzTilesDriver()

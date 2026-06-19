@@ -1,5 +1,5 @@
 ---
-title: "DBase.اكتب_عدد_صحيح_64"
+title: "DBase.WriteInteger64"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

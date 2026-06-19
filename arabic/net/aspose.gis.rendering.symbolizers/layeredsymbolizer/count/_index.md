@@ -1,7 +1,7 @@
 ---
 title: "LayeredSymbolizer.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LayeredSymbolizer. تُعيد عدد المُرمّزات"
+description: "خاصية LayeredSymbolizer. تحصل على عدد المُرمّزين"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.symbolizers/layeredsymbolizer/count/
@@ -16,7 +16,7 @@ public int Count { get; }
 
 ### قيمة الإرجاع
 
-عدد المُرمّزات.
+عدد المُرمّزين.
 
 ### انظر أيضًا
 

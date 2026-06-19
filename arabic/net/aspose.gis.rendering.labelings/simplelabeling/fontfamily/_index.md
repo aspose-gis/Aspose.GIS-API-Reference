@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.FontFamily"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. عائلة الخط لاستخدامها في تصيير النص. القيمة الافتراضية تعتمد على النظام"
+description: "خاصية SimpleLabeling. عائلة الخط لاستخدامها في عرض النص. القيمة الافتراضية تعتمد على النظام."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontfamily/

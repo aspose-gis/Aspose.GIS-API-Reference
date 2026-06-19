@@ -1,5 +1,5 @@
 ---
-title: "PrimeMeridianEntry.إنشاء"
+title: "PrimeMeridianEntry.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "PrimeMeridianEntry طريقة."
 type: docs

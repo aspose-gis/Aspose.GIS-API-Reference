@@ -1,7 +1,7 @@
 ---
 title: "CompoundLabelPosition.BoundingRectangle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CompoundLabelPosition."
+description: "CompoundLabelPosition خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.labeling.line/compoundlabelposition/boundingrectangle/

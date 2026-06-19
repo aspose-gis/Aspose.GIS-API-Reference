@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/kmlabstractcolo
 ---
 ## KmlAbstractColorStyle constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public KmlAbstractColorStyle()

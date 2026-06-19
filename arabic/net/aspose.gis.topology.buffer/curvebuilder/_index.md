@@ -1,7 +1,7 @@
 ---
 title: "الفئة CurveBuilder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Buffer.CurveBuilder فئة."
+description: "فئة Aspose.Gis.Topology.Buffer.CurveBuilder."
 type: docs
 weight: 4820
 url: /ar/net/aspose.gis.topology.buffer/curvebuilder/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.topology.buffer/curvebuilder/
 public class CurveBuilder
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

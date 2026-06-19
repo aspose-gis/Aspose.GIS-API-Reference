@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/renderingorder/
 ---
 ## RenderingOrder enumeration
 
-يحدد ترتيب العرض.
+يحدد ترتيب التصيير.
 
 ```csharp
 public enum RenderingOrder

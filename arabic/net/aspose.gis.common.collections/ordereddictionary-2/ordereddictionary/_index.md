@@ -1,14 +1,14 @@
 ---
 title: "OrderedDictionary2.OrderedDictionary"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "OrderedDictionary منشئ. المنشئ الافتراضي"
+description: "OrderedDictionary منشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.collections/ordereddictionary-2/ordereddictionary/
 ---
 ## OrderedDictionary&lt;TKey,TValue&gt; constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public OrderedDictionary()

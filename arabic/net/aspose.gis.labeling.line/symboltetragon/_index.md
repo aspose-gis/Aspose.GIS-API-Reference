@@ -1,7 +1,7 @@
 ---
-title: "فئة SymbolTetragon"
+title: "صنف SymbolTetragon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Labeling.Line.SymbolTetragon."
+description: "Aspose.Gis.Labeling.Line.SymbolTetragon فئة."
 type: docs
 weight: 3370
 url: /ar/net/aspose.gis.labeling.line/symboltetragon/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.labeling.line/symboltetragon/
 public class SymbolTetragon
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

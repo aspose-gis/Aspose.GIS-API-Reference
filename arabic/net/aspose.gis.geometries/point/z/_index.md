@@ -1,7 +1,7 @@
 ---
 title: "Point.Z"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Point. يحصل على أو يعيّن قيمة لإحداثي Z"
+description: "خاصية Point. تحصل أو تعين قيمة لإحداثي Z"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geometries/point/z/

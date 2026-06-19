@@ -1,14 +1,14 @@
 ---
 title: "CompoundCurve.AddCurve"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CompoundCurve. تُضيف منحنى إلى نهاية هذا CompoundCurve"
+description: "طريقة CompoundCurve. تُضيف منحنى إلى نهاية هذا الـCompoundCurve"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/compoundcurve/addcurve/
 ---
 ## CompoundCurve.AddCurve method
 
-يضيف منحنى إلى نهاية هذا [`CompoundCurve`](../).
+تضيف منحنى إلى نهاية هذا [`CompoundCurve`](../).
 
 ```csharp
 public void AddCurve(ICurve curve)
@@ -23,7 +23,7 @@ public void AddCurve(ICurve curve)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | نوع الوسائط هو [`CompoundCurve`](../). الوسيط هو [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) فارغ لهذا الشكل و[`SpatialReferenceSystem`](../spatialreferencesystem/) للوسيط كلاهما ليس `null` ولا يساويان بعضهما البعض |
+| ArgumentException | نوع الوسائط هو [`CompoundCurve`](../) الوسيط فارغ [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) لهذه الهندسة و[`SpatialReferenceSystem`](../spatialreferencesystem/) للوسيط كلاهما ليس `null` ولا يساويان بعضهما البعض |
 
 ### انظر أيضًا
 

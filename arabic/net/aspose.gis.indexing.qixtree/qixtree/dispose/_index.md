@@ -1,7 +1,7 @@
 ---
 title: "QixTree.Dispose"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "QixTree طريقة."
+description: "طريقة QixTree."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.indexing.qixtree/qixtree/dispose/

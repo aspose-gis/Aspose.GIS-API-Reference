@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/linegeneratoroptions/count/
 ---
 ## LineGeneratorOptions.Count property
 
-عدد الخطوط لإنشائها.
+عدد الخطوط التي سيتم إنشاؤها.
 
 ```csharp
 public int Count { get; set; }

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/rulebasedlabeling/add/
 ---
 ## Add(Func&lt;Feature, bool&gt;, Labeling) {#add_1}
 
-يضيف [`LabelingRule`](../../labelingrule/) جديدًا.
+يضيف `LabelingRule` جديدة [`LabelingRule`](../../labelingrule/).
 
 ```csharp
 public void Add(Func<Feature, bool> filter, Labeling labeling)
@@ -17,7 +17,7 @@ public void Add(Func<Feature, bool> filter, Labeling labeling)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | فلتر | Func`2 | يحدد متى يجب تطبيق التوسيم على عنصر. |
-| تسمية | التسمية | التوسيم لتطبيقه على عنصر عندما *filter* يُعيد true. |
+| وضع العلامة | وضع العلامة | التوسيم لتطبيقه على عنصر عندما *filter* يُعيد true. |
 
 ### انظر أيضًا
 

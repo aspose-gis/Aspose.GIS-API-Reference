@@ -1,14 +1,14 @@
 ---
 title: "تعداد StrokeStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.StrokeStyle تعداد. يحدد نمط الخط"
+description: "تعداد Aspose.Gis.Rendering.StrokeStyle. يحدد نمط الخط"
 type: docs
 weight: 4250
 url: /ar/net/aspose.gis.rendering/strokestyle/
 ---
 ## StrokeStyle enumeration
 
-يحدد نمط الحد.
+يحدد نمط الخط.
 
 ```csharp
 public enum StrokeStyle
@@ -22,9 +22,9 @@ public enum StrokeStyle
 | None | `1` | يحدد أنه لا يجب رسم أي خط. |
 | Dash | `2` | يحدد خطًا متقطعًا. |
 | Dot | `3` | يحدد خطًا منقّطًا. |
-| DashDot | `4` | يحدد نقاطًا وشرطات متبادلة. |
-| DashDotDot | `5` | يحدد خطًا من نوع شرطة-نقطة-نقطة. |
-| Custom | `6` | خط بنمط شرطة مخصص. |
+| DashDot | `4` | يحدد نقاطًا ومتقطعات متبادلة. |
+| DashDotDot | `5` | يحدد خطًا متقطع-نقطة-نقطة. |
+| Custom | `6` | خط بنمط متقطع مخصص. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "MifReader.MifReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MifReader المُنشئ."
+description: "منشئ MifReader."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreader/mifreader/

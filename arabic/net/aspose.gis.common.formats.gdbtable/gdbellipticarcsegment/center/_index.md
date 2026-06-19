@@ -1,7 +1,7 @@
 ---
 title: "GdbEllipticArcSegment.Center"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GdbEllipticArcSegment."
+description: "GdbEllipticArcSegment خاصية."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.formats.gdbtable/gdbellipticarcsegment/center/

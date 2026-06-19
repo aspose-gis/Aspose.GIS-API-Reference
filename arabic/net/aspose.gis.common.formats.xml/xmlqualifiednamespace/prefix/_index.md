@@ -1,7 +1,7 @@
 ---
 title: "XmlQualifiedNamespace.Prefix"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlQualifiedNamespace الخاصية."
+description: "XmlQualifiedNamespace خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.formats.xml/xmlqualifiednamespace/prefix/

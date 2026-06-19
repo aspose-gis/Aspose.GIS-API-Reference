@@ -1,7 +1,7 @@
 ---
 title: "GeometryOperations.SimplifySegments"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryOperations. حذف النقاط الواقعة على نفس القطعة"
+description: "طريقة GeometryOperations. حذف النقاط الواقعة على نفس المقطع"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geotools/geometryoperations/simplifysegments/
@@ -17,7 +17,7 @@ public static IGeometry SimplifySegments(IGeometry geometry, SimplifySegmentsOpt
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | هندسة | IGeometry | الهندسة لحذف النقطة الزائدة |
-| الخيارات | SimplifySegmentsOptions | خيارات حذف النقطة الزائدة |
+| options | SimplifySegmentsOptions | خيارات حذف النقطة الزائدة |
 
 ### قيمة الإرجاع
 

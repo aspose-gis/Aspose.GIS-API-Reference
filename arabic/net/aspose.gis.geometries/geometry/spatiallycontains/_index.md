@@ -20,7 +20,7 @@ public bool SpatiallyContains(IGeometry other)
 
 ### قيمة الإرجاع
 
-`true` إذا كان هذا الشكل الهندسي "يحتوي مكانيًا" على شكل هندسي آخر. `false` خلاف ذلك.
+`true` إذا كان هذا الشكل الهندسي "يحتوي مكانيًا" على شكل هندسي آخر. `false` غير ذلك.
 
 ### استثناءات
 
@@ -28,11 +28,11 @@ public bool SpatiallyContains(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإسناد المكاني. |
 
 ## ملاحظات
 
-هذه الطريقة تختبر ما إذا كان شكل هندسي يحتوي على آخر من حيث مصفوفة تقاطع DE-9IM. هذه الطريقة تعادل:
+تختبر هذه الطريقة ما إذا كان شكل هندسي يحتوي على آخر وفقًا لمصفوفة تقاطع DE-9IM. هذه الطريقة تعادل:
 
 ```csharp
 other.Within(this);

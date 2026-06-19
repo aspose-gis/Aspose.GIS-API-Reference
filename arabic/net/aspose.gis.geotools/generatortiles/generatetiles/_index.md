@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/generatortiles/generatetiles/
 ---
 ## GenerateTiles(IEnumerable&lt;VectorLayer&gt;, string, int, GeneratorTilesRenderOptions) {#generatetiles_1}
 
-توليد البلاطات مع التكبير إلى دليل الإخراج
+توليد بلاط مع التكبير إلى دليل الإخراج
 
 ```csharp
 public static void GenerateTiles(IEnumerable<VectorLayer> layers, string outDirectory, int zoom, 
@@ -20,7 +20,7 @@ public static void GenerateTiles(IEnumerable<VectorLayer> layers, string outDire
 | الطبقات | IEnumerable`1 | طبقات الإدخال |
 | outDirectory | String | دليل الإخراج |
 | تكبير | Int32 | مستوى التكبير للبلاطات |
-| الخيارات | GeneratorTilesRenderOptions | خيارات عرض البلاطات |
+| options | GeneratorTilesRenderOptions | خيارات عرض البلاط |
 
 ### انظر أيضًا
 
@@ -34,7 +34,7 @@ public static void GenerateTiles(IEnumerable<VectorLayer> layers, string outDire
 
 ## GenerateTiles(VectorLayer, string, int, GeneratorTilesRenderOptions) {#generatetiles}
 
-توليد البلاطات مع التكبير إلى دليل الإخراج
+توليد بلاط مع التكبير إلى دليل الإخراج
 
 ```csharp
 public static void GenerateTiles(VectorLayer layer, string outDirectory, int zoom, 
@@ -46,7 +46,7 @@ public static void GenerateTiles(VectorLayer layer, string outDirectory, int zoo
 | الطبقة | VectorLayer | طبقة الإدخال |
 | outDirectory | String | دليل الإخراج |
 | تكبير | Int32 | مستوى التكبير للبلاطات |
-| الخيارات | GeneratorTilesRenderOptions | خيارات عرض البلاطات |
+| options | GeneratorTilesRenderOptions | خيارات عرض البلاط |
 
 ### انظر أيضًا
 

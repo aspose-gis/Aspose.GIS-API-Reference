@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/rasterexpressioncontext/gethashcode/
 ---
 ## RasterExpressionContext.GetHashCode method
 
-يرجع رمز التجزئة لهذه النسخة.
+يعيد رمز التجزئة لهذا الكائن.
 
 ```csharp
 public override int GetHashCode()
@@ -16,7 +16,7 @@ public override int GetHashCode()
 
 ### قيمة الإرجاع
 
-عدد صحيح موقع 32‑بت هو رمز التجزئة لهذا المثيل.
+عدد صحيح موقع 32-بت هو رمز التجزئة لهذا المثيل.
 
 ### انظر أيضًا
 

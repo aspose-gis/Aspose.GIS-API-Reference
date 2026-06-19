@@ -8,26 +8,26 @@ url: /ar/net/aspose.gis.relationship.joins/joinoptions/
 ---
 ## JoinOptions class
 
-خيارات لدمج الطبقات.
+خيارات دمج الطبقات.
 
 ```csharp
 public class JoinOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [JoinOptions](joinoptions/)() | إنشاء نسخة جديدة. |
+| [JoinOptions](joinoptions/)() | إنشاء مثال جديد. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
 | [ConditionComparer](../../aspose.gis.relationship.joins/joinoptions/conditioncomparer/) { get; set; } | يحدد الطريقة التي ترتبط بها ميزات طبقتين في استعلام عن طريق تحديد منطق يُستخدم في مقارنة القيم من الميزات. |
-| [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename/) { get; set; } | يحدد اسم سمة للطبقة المدمجة التي سيتم استخدام قيمتها في [`ConditionComparer`](./conditioncomparer/). |
-| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames/) { get; set; } | يحدد قائمة بأسماء السمات التي سيتم دمجها. إذا كانت `null` أو فارغة، سيتم دمج جميع سمات الطبقة المدمجة. |
-| [JoinedAttributesPrefix](../../aspose.gis.relationship.joins/joinoptions/joinedattributesprefix/) { get; set; } | يحدد سلسلة بادئة لأسماء السمات المدمجة. القيمة الافتراضية هي "joined_". |
+| [JoinAttributeName](../../aspose.gis.relationship.joins/joinoptions/joinattributename/) { get; set; } | يحدد اسم سمة للطبقة المرتبطة التي سيتم استخدام قيمتها في [`ConditionComparer`](./conditioncomparer/). |
+| [JoinAttributeNames](../../aspose.gis.relationship.joins/joinoptions/joinattributenames/) { get; set; } | يحدد قائمة بأسماء السمات التي سيتم ربطها. إذا كانت `null` أو فارغة، سيتم ربط جميع سمات الطبقة المرتبطة. |
+| [JoinedAttributesPrefix](../../aspose.gis.relationship.joins/joinoptions/joinedattributesprefix/) { get; set; } | يحدد سلسلة بادئة لأسماء السمات المرتبطة. القيمة الافتراضية هي "joined_". |
 | [TargetAttributeName](../../aspose.gis.relationship.joins/joinoptions/targetattributename/) { get; set; } | يحدد اسم سمة للطبقة الرئيسية التي سيتم استخدام قيمتها في [`ConditionComparer`](./conditioncomparer/). |
 
 ### انظر أيضًا

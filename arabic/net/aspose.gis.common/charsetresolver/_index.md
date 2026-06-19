@@ -1,5 +1,5 @@
 ---
-title: "فئة CharsetResolver"
+title: "الفئة CharsetResolver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Common.CharsetResolver."
 type: docs

@@ -1,7 +1,7 @@
 ---
 title: "RasterLayer.GetValuesDump"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة RasterLayer. تقرأ القيم في الكتلة المحددة كمصفوفة ذات بعد واحد"
+description: "طريقة RasterLayer. تقرأ القيم في الكتلة المحددة كمصفوفة أحادية البعد"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.raster/rasterlayer/getvaluesdump/
@@ -16,7 +16,7 @@ public IRasterValues[] GetValuesDump(RasterRect rect)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| rect | RasterRect | كتلة من خلايا الـ raster حيث يتم قراءة التفريغ. |
+| rect | RasterRect | كتلة من خلايا الراستر حيث يتم قراءة التفريغ. |
 
 ### قيمة الإرجاع
 

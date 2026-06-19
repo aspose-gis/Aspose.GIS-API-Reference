@@ -1,7 +1,7 @@
 ---
 title: "VerticalSpatialReferenceSystem.GetUnit"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VerticalSpatialReferenceSystem. الحصول على وحدة البُعد"
+description: "طريقة VerticalSpatialReferenceSystem. احصل على وحدة البُعد"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/getunit/
@@ -16,7 +16,7 @@ public override Unit GetUnit(int dimension)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| البُعد | Int32 | عدد البُعد. |
+| البُعد | Int32 | عدد الأبعاد. |
 
 ### قيمة الإرجاع
 

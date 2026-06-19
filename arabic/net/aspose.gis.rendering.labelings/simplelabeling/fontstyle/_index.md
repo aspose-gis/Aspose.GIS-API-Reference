@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.FontStyle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. النمط لتطبيقه على النص"
+description: "خاصية SimpleLabeling. النمط المطبق على النص."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/fontstyle/

@@ -1,14 +1,14 @@
 ---
 title: "GeometryCollection.GetHashCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryCollection. تعمل كدالة التجزئة الافتراضية"
+description: "GeometryCollection method. تعمل كدالة التجزئة الافتراضية"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.geometries/geometrycollection/gethashcode/
 ---
 ## GeometryCollection.GetHashCode method
 
-يعمل كدالة التجزئة الافتراضية.
+يعمل كدالة تجزئة افتراضية.
 
 ```csharp
 public override int GetHashCode()

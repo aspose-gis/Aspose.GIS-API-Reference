@@ -1,14 +1,14 @@
 ---
 title: "CsvDriver.CsvDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ CsvDriver. المُنشئ الافتراضي"
+description: "منشئ CsvDriver. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.csv/csvdriver/csvdriver/
 ---
 ## CsvDriver constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public CsvDriver()

@@ -1,7 +1,7 @@
 ---
 title: "MultiSurface.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة MultiSurface. تستنسخ هذه النسخة"
+description: "طريقة MultiSurface. تنشئ نسخة من هذا المثيل"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/multisurface/clone/
@@ -16,7 +16,7 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-نسخة هذا المثيل
+النسخة المستنسخة من هذه النسخة
 
 ### انظر أيضًا
 

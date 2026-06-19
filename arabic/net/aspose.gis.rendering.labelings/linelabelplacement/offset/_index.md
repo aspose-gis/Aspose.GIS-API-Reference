@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/linelabelplacement/offset/
 ---
 ## LineLabelPlacement.Offset property
 
-الإزاحة من المسار الخطي. القيم الموجبة تُزيح إلى يسار الخط، والقيم السالبة إلى اليمين. القيمة الافتراضية هي 0.
+الإزاحة من المسار الخطي. القيم الإيجابية تُزاح إلى يسار الخط، والقيم السلبية إلى اليمين. القيمة الافتراضية هي 0.
 
 ```csharp
 public Measurement Offset { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: "Drivers.Kml"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. سائق لتنسيق KML"
+description: "خاصية Drivers. برنامج تشغيل لتنسيق KML"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis/drivers/kml/

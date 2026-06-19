@@ -1,7 +1,7 @@
 ---
 title: "فئة BoundingBox"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.BoundingBox فئة."
+description: "فئة Aspose.Gis.Common.BoundingBox."
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.common/boundingbox/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common/boundingbox/
 public class BoundingBox
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [BoundingBox](boundingbox/)() | المُنشئ الافتراضي. |
+| [BoundingBox](boundingbox/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

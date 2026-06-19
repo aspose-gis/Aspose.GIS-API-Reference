@@ -1,7 +1,7 @@
 ---
 title: "GeometryCollection.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeometryCollection. تحصل على IGeometry في الفهرس المحدد."
+description: "خاصية GeometryCollection. تحصل على IGeometry في الفهرس المحدد"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.geometries/geometrycollection/item/
@@ -16,11 +16,11 @@ public IGeometry this[int index] { get; }
 
 | معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس. |
+| فهرس | الفهرس. |
 
 ### Property Value
 
-ال[`IGeometry`](../../igeometry/).
+الـ[`IGeometry`](../../igeometry/).
 
 ### استثناءات
 

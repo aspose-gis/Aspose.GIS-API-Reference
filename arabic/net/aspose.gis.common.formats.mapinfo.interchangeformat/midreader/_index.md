@@ -1,7 +1,7 @@
 ---
-title: "فئة MidReader"
+title: "الفئة MidReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MidReader."
+description: "الفئة Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MidReader."
 type: docs
 weight: 740
 url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/midreader/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/midreader/
 public class MidReader : IDataRowsFile
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

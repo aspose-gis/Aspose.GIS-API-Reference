@@ -1,7 +1,7 @@
 ---
 title: "GeometryCollection.ReplacePolygonsByLines"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryCollection. يحصل على المضلعات الممثلة كخطوط لهذه الهندسة"
+description: "طريقة GeometryCollection. تحصل على المضلعات الممثلة كخطوط لهذه الهندسة"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/geometrycollection/replacepolygonsbylines/
@@ -16,7 +16,7 @@ public IGeometryCollection ReplacePolygonsByLines()
 
 ### قيمة الإرجاع
 
-هندسة لا تحتوي على هندسات مضلعة. يتم تطبيق التحويلات التالية: يتم تحويل المضلعات إلى خطوط (تحويلها إلى LineStrings) ويتم دمج MultiPolygons في MultiLineStrings.
+هندسة لا تحتوي على هندسات مضلعة. يتم تطبيق التحويلات التالية: يتم تحويل المضلعات إلى خطوط (تحويلها إلى LineStrings) وتُدمج الـ MultiPolygons في MultiLineStrings
 
 ### استثناءات
 

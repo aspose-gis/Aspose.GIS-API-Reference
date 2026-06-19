@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/priority/
 ---
 ## SimpleLabeling.Priority property
 
-يشير إلى أولوية هذه التسمية في حال تداخلها مع تسمية أخرى. التسمية ذات الأولوية الأقل لا تُصَور. القيمة الافتراضية هي 1000.
+يشير إلى أولوية هذه التسمية في حال تداخلها مع تسمية أخرى. التسمية ذات الأولوية الأقل لا تُعرض. القيمة الافتراضية هي 1000.
 
 ```csharp
 public int Priority { get; set; }

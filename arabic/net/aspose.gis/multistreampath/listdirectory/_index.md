@@ -1,7 +1,7 @@
 ---
 title: "MultiStreamPath.ListDirectory"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة MultiStreamPath. تُرجع المسارات الموجودة داخل هذا AbstractPath إذا كان دليلًا"
+description: "طريقة MultiStreamPath. تُرجع المسارات الموجودة داخل هذا AbstractPath إذا كان دليلًا."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/multistreampath/listdirectory/

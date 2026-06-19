@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.End"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc خاصية."
+description: "CircularArc property."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common/circulararc/end/

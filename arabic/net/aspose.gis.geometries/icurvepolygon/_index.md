@@ -1,7 +1,7 @@
 ---
 title: "الواجهة ICurvePolygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Geometries.ICurvePolygon واجهة. سطح مستوي يُعرّف بحد خارجي واحد و0 أو أكثر من الحدود الداخلية"
+description: "واجهة Aspose.Gis.Geometries.ICurvePolygon. سطح مستوٍ يُعرّف بحد خارجي واحد و0 أو أكثر من الحدود الداخلية"
 type: docs
 weight: 2770
 url: /ar/net/aspose.gis.geometries/icurvepolygon/

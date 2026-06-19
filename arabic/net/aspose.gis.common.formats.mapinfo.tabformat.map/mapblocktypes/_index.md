@@ -1,5 +1,5 @@
 ---
-title: "فئة MapBlockTypes"
+title: "الفئة MapBlockTypes"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "Aspose.Gis.Common.Formats.MapInfo.TabFormat.Map.MapBlockTypes فئة."
 type: docs

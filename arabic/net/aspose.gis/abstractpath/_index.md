@@ -1,14 +1,14 @@
 ---
 title: "الفئة AbstractPath"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.AbstractPath. الـ AbstractPath هو فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام الملفات مثل نظام ملفات محلي أو تخزين ملفات بعيد أو أرشيف ZIP من بين أمور أخرى"
+description: "الفئة Aspose.Gis.AbstractPath. الـ AbstractPath هي فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة تشبه نظام الملفات مثل نظام ملفات محلي أو تخزين ملفات عن بُعد أو أرشيف ZIP وغيرها."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/abstractpath/
 ---
 ## AbstractPath class
 
-الـ `AbstractPath` هو فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام الملفات، مثل نظام ملفات محلي، أو تخزين ملفات بعيد، أو أرشيف ZIP، من بين أمور أخرى.
+`AbstractPath` هي فئة أساسية للفئات التي تحدد موقعًا فريدًا في بيئة مشابهة لنظام الملفات، مثل نظام ملفات محلي أو تخزين ملفات بعيد أو أرشيف ZIP، من بين أمور أخرى.
 
 ```csharp
 public abstract class AbstractPath
@@ -19,14 +19,14 @@ public abstract class AbstractPath
 | الاسم | الوصف |
 | --- | --- |
 | abstract [Location](../../aspose.gis/abstractpath/location/) { get; } | يحصل على تمثيل نصي لموقع هذا `AbstractPath`. |
-| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | يحصل على حرف الفاصل المستخدم لفصل مستويات الدليل في سلسلة [`Location`](./location/). |
+| abstract [Separator](../../aspose.gis/abstractpath/separator/) { get; } | يحصل على حرف الفاصل المستخدم لتقسيم مستويات الدليل في سلسلة [`Location`](./location/). |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
 | static [FromLocalPath](../../aspose.gis/abstractpath/fromlocalpath/)(string) | ينشئ `AbstractPath` يمثل موقعًا على نظام الملفات المحلي. |
-| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | ينشئ `AbstractPath` من تدفق. |
+| static [FromStream](../../aspose.gis/abstractpath/fromstream/)(Stream) | ينشئ `AbstractPath` من تدفق (Stream). |
 | virtual [Combine](../../aspose.gis/abstractpath/combine/)(string) | يجمع هذا `AbstractPath` مع مكونات المسار المحددة. |
 | abstract [Delete](../../aspose.gis/abstractpath/delete/)() | يحذف ملفًا يشير إليه هذا المسار. |
 | [GetExtension](../../aspose.gis/abstractpath/getextension/)() | يعيد امتداد هذا `AbstractPath`. |
@@ -39,7 +39,7 @@ public abstract class AbstractPath
 
 ## ملاحظات
 
-قد يحدد `AbstractPath` موقعًا على نظام ملفات محلي، أو موقعًا على نظام ملفات بعيد، أو تخزينًا خارجيًا مثل تخزين Azure Blob، وما إلى ذلك. قد يشير الموقع إلى كائنات شبيهة بالملف أو الدليل موجودة أو غير موجودة، أو قد يكون له أي معنى آخر معقول للبيئة التي ينتمي إليها. على سبيل المثال، يمكن للوارث من `AbstractPath` الذي يمثل موقعًا على نظام الملفات المحلي أن يشير إلى ملف موجود أو دليل، أو إلى مكان في نظام الملفات لم يتم إنشاؤه بعد. لجعل تخزينًا شبيهًا بنظام الملفات متاحًا لـ `Aspose.GIS`، يجب وراثة هذه الفئة وتنفيذ طرقها المجردة.
+قد يحدد `AbstractPath` موقعًا على نظام ملفات محلي، أو موقعًا على نظام ملفات بعيد أو تخزينًا خارجيًا مثل تخزين Azure Blob، وما إلى ذلك. قد يشير الموقع إلى كائنات شبيهة بالملف موجودة أو غير موجودة، أو كائنات شبيهة بالدليل، أو قد يكون له أي معنى آخر معقول للبيئة التي ينتمي إليها. على سبيل المثال، يمكن للوارث من `AbstractPath` الذي يمثل موقعًا على نظام الملفات المحلي أن يشير إلى ملف موجود، أو دليل، أو إلى مكان في نظام الملفات لم يتم إنشاؤه بعد. لجعل تخزينًا شبيهًا بنظام الملفات متاحًا لـ `Aspose.GIS`، يجب وراثة هذه الفئة وتنفيذ طرقها المجردة.
 
 ### انظر أيضًا
 

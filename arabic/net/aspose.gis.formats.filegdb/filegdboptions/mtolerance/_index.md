@@ -1,7 +1,7 @@
 ---
 title: "FileGdbOptions.MTolerance"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FileGdbOptions. تسامح الالتقاط M."
+description: "خاصية FileGdbOptions. سماحية التقاط M."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/mtolerance/

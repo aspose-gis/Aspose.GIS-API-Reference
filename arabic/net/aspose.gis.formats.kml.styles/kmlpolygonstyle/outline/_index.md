@@ -1,7 +1,7 @@
 ---
 title: "KmlPolygonStyle.Outline"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlPolygonStyle. تحدد ما إذا كان سيتم رسم حدود للمضلع. القيمة الافتراضية هي true"
+description: "خاصية KmlPolygonStyle. تحدد ما إذا كان يجب رسم حدود للمضلع. القيمة الافتراضية هي true"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.kml.styles/kmlpolygonstyle/outline/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.gpx/gpxoptions/mattribute/
 ---
 ## GpxOptions.MAttribute property
 
-تحدد أي سمة GPX سيتم تصديرها كإحداثي 'M' لنقاط الطريق ونقاط المسار ونقاط الطريق. السلوك هو نفسه مع [`ZAttribute`](../zattribute/)، والقيمة الافتراضية هي `null`.
+تحدد أي سمة GPX سيتم تصديرها كإحداثي 'M' لنقاط الطريق ونقاط المسار ونقاط الطريق. السلوك هو نفسه مع [`ZAttribute`](../zattribute/)، القيمة الافتراضية هي `null`.
 
 ```csharp
 public string MAttribute { get; set; }

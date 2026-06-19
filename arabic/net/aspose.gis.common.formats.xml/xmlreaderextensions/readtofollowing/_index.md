@@ -1,7 +1,7 @@
 ---
 title: "XmlReaderExtensions.ReadToFollowing"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlReaderExtensions method."
+description: "XmlReaderExtensions طريقة."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.formats.xml/xmlreaderextensions/readtofollowing/

@@ -16,13 +16,13 @@ public virtual void RemoveAt(int index)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | فهرس الـ feature. |
+| فهرس | Int32 | فهرس الـ feature. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يتم رميه إذا كانت الطبقة غير قابلة للتحرير. |
+| InvalidOperationException | يتم إلقاؤه إذا كانت الطبقة غير قابلة للتحرير. |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 

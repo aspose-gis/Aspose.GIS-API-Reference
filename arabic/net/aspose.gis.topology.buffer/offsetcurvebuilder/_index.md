@@ -1,7 +1,7 @@
 ---
 title: "الفئة OffsetCurveBuilder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.Buffer.OffsetCurveBuilder فئة."
+description: "فئة Aspose.Gis.Topology.Buffer.OffsetCurveBuilder."
 type: docs
 weight: 4830
 url: /ar/net/aspose.gis.topology.buffer/offsetcurvebuilder/

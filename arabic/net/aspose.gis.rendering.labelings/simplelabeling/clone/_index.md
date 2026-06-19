@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة SimpleLabeling. تنسخ هذه المثيلة"
+description: "طريقة SimpleLabeling. تنسخ هذا المثيل"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/clone/

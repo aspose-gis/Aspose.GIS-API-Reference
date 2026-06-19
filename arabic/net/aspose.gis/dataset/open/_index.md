@@ -16,8 +16,8 @@ public static Dataset Open(string path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | String | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -50,8 +50,8 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | AbstractPath | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -85,9 +85,9 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -122,9 +122,9 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | مسار مجموعة البيانات. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -161,7 +161,7 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاتصال | IDbConnection | تم فتح الاتصال بقاعدة البيانات. |
-| المحرك | DatabaseDriver | المحرك للاستخدام. |
+| المحرك | DatabaseDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 

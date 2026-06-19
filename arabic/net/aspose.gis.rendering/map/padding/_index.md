@@ -1,7 +1,7 @@
 ---
 title: "Map.Padding"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Map. تحدد الحشو لإضافته إلى الامتداد."
+description: "خاصية Map. تحدد الحشو لإضافته إلى الامتداد"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering/map/padding/

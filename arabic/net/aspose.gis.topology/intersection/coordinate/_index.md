@@ -1,7 +1,7 @@
 ---
 title: "Intersection.Coordinate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Intersection خاصية."
+description: "خاصية Intersection."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.topology/intersection/coordinate/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.csv/csvoptions/columnx/
 ---
 ## CsvOptions.ColumnX property
 
-يحصل أو يعيّن اسم العمود الذي يحتوي على قيمة إحداثي X. القيمة الافتراضية هي `null`.
+يحصل أو يضبط اسم العمود الذي يحتوي على قيمة إحداثي X. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string ColumnX { get; set; }

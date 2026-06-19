@@ -1,14 +1,14 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.Name"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeocentricSpatialReferenceSystemParameters. اسم نظام الإسناد المكاني المركزي. الافتراضي هو Unnamed"
+description: "خاصية GeocentricSpatialReferenceSystemParameters. اسم النظام الجيوسنتمي. الافتراضي هو بدون اسم"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/name/
 ---
 ## GeocentricSpatialReferenceSystemParameters.Name property
 
-اسم نظام إسناد جغرافي مركزي. القيمة الافتراضية هي "Unnamed".
+اسم نظام الإسناد الجغرافي المركزي. القيمة الافتراضية هي "Unnamed".
 
 ```csharp
 public string Name { get; set; }

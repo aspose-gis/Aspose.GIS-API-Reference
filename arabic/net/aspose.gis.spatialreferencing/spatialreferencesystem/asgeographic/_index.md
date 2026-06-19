@@ -1,14 +1,14 @@
 ---
 title: "SpatialReferenceSystem.AsGeographic"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SpatialReferenceSystem. تُرجع هذا SRS محوَّلًا إلى GeographicSpatialReferenceSystem. استخدم Type لمعرفة ما إذا كان التحويل ممكنًا."
+description: "خاصية SpatialReferenceSystem. تُعيد هذا نظام الإسناد المكاني محوَّلًا إلى GeographicSpatialReferenceSystem. استخدم Type لمعرفة ما إذا كان التحويل ممكنًا."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/asgeographic/
 ---
 ## SpatialReferenceSystem.AsGeographic property
 
-تُرجع هذا SRS محوَّلًا إلى [`GeographicSpatialReferenceSystem`](../../geographicspatialreferencesystem/). استخدم [`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
+تُعيد هذا نظام الإسناد المكاني محوَّلًا إلى [`GeographicSpatialReferenceSystem`](../../geographicspatialreferencesystem/). استخدم [`Type`](../type/) لمعرفة ما إذا كان التحويل ممكنًا.
 
 ```csharp
 public virtual GeographicSpatialReferenceSystem AsGeographic { get; }

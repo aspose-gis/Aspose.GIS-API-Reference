@@ -1,14 +1,14 @@
 ---
 title: "MapInfoException.MapInfoException"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapInfoException منشئ. المنشئ الافتراضي"
+description: "MapInfoException المُنشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo/mapinfoexception/mapinfoexception/
 ---
 ## MapInfoException() {#constructor}
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MapInfoException()

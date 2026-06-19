@@ -1,14 +1,14 @@
 ---
 title: "الفئة RasterStatistics"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Raster.RasterStatistics. الإحصائيات لأي طبقة رستر"
+description: "الفئة Aspose.Gis.Raster.RasterStatistics. الإحصاءات لأي طبقة رستر."
 type: docs
 weight: 3860
 url: /ar/net/aspose.gis.raster/rasterstatistics/
 ---
 ## RasterStatistics class
 
-الإحصاءات لأي طبقة راستر.
+الإحصائيات لأي طبقة راستر.
 
 ```csharp
 public class RasterStatistics
@@ -18,7 +18,7 @@ public class RasterStatistics
 
 | الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.gis.raster/rasterstatistics/count/) { get; } | عدد الخلايا أو البكسلات التي تم عدّها للإحصائيات الملخّصة. |
+| [Count](../../aspose.gis.raster/rasterstatistics/count/) { get; } | عدد الخلايا أو البكسلات التي تم عدّها للإحصاءات الملخصة. |
 | [Max](../../aspose.gis.raster/rasterstatistics/max/) { get; } | القيمة القصوى للخلايا أو قيم البكسل التي تم عدّها. |
 | [Mean](../../aspose.gis.raster/rasterstatistics/mean/) { get; } | المتوسط الحسابي لجميع الخلايا أو قيم البكسل التي تم عدّها. |
 | [Min](../../aspose.gis.raster/rasterstatistics/min/) { get; } | القيمة الدنيا للخلايا أو قيم البكسل التي تم عدّها. |
@@ -28,7 +28,7 @@ public class RasterStatistics
 
 | الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterstatistics/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.raster/rasterstatistics/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
 
 ### انظر أيضًا
 

@@ -1,14 +1,14 @@
 ---
 title: "GeoGenerator.ProduceLines"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeoGenerator. تنشئ مُعدد ILineString جديد بعدد محدد من العناصر العشوائية جميعها داخل نطاق محدد"
+description: "طريقة GeoGenerator. تنشئ عدّاد ILineString جديد بعدد معين من العناصر العشوائية جميعها داخل مدى محدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geotools/geogenerator/producelines/
 ---
 ## GeoGenerator.ProduceLines method
 
-إنشاء عداد ILineString جديد بعدد معين من العناصر العشوائية، جميعها ضمن نطاق معين.
+إنشاء ILineString Enumerator جديد بعدد محدد من العناصر العشوائية، جميعها ضمن نطاق محدد.
 
 ```csharp
 public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOptions options)
@@ -17,7 +17,7 @@ public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOp
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | rect | Extent | المنطقة المحددة (انظر [`Extent`](../../../aspose.gis/extent/)) |
-| options | LineGeneratorOptions | خيارات إنشاء الخطوط (انظر [`LineGeneratorOptions`](../../linegeneratoroptions/)) |
+| options | LineGeneratorOptions | خيارات إنشاء الخط (انظر [`LineGeneratorOptions`](../../linegeneratoroptions/)) |
 
 ### قيمة الإرجاع
 
@@ -27,8 +27,8 @@ public static IEnumerable<ILineString> ProduceLines(Extent rect, LineGeneratorOp
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن يكون عدد الخطوط أكبر من واحد |
-| NullReferenceException | يجب أن يكون للنطاق قيمة (لا يكون NULL) |
+| ArgumentOutOfRangeException | يجب أن يكون عدد الخطوط أكبر من واحد. |
+| NullReferenceException | يجب أن يكون للمدى قيمة (ليس NULL) |
 
 ### انظر أيضًا
 

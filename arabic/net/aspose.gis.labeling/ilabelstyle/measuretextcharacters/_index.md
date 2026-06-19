@@ -1,7 +1,7 @@
 ---
 title: "ILabelStyle.MeasureTextCharacters"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ILabelStyle."
+description: "ILabelStyle طريقة."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.labeling/ilabelstyle/measuretextcharacters/

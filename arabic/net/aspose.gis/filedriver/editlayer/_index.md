@@ -16,12 +16,12 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -29,7 +29,7 @@ public VectorLayer EditLayer(string path, DriverOptions options = null)
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا
@@ -52,12 +52,12 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -65,13 +65,13 @@ public virtual VectorLayer EditLayer(AbstractPath path, DriverOptions options = 
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
-| NotSupportedException | السائق لا يمكنه تحرير الطبقات. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
+| NotSupportedException | السائق لا يمكنه تعديل الطبقات. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ## ملاحظات
 
-السائق ينشئ طبقة داخلية تحتوي على جميع العناصر. لكن لدينا خيار استخدام مساحة القرص بدلاً من الذاكرة العشوائية. هناك سائقون لاستخدام أكثر كفاءة للموارد (انظر وثائق السائق المحددة). كما يمكن للسائق تحرير طبقة إذا كان يستطيع إنشاء وفتح الطبقات.
+السائق ينشئ طبقة داخلية تحتوي على جميع الميزات. ولكن لدينا الخيار لاستخدام مساحة القرص بدلاً من الذاكرة العشوائية. هناك سائقون لاستخدام أكثر كفاءة للموارد (انظر وثائق السائق المحدد). كما يمكن للسائق تعديل طبقة إذا كان بإمكانه إنشاء وفتح الطبقات.
 
 ### انظر أيضًا
 

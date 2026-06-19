@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.GetNormalizedAngles"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc طريقة."
+description: "CircularArc method."
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.common/circulararc/getnormalizedangles/

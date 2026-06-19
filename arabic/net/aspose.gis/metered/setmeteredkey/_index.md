@@ -1,14 +1,14 @@
 ---
 title: "Metered.SetMeteredKey"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Metered. يضبط المفتاح العام والخاص للعداد"
+description: "طريقة Metered. تعيين المفتاح العام والخاص للعداد."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/metered/setmeteredkey/
 ---
 ## Metered.SetMeteredKey method
 
-يضبط المفتاح العام والخاص المتعقب
+يضبط المفتاح المتدرج العام والخاص
 
 ```csharp
 public static void SetMeteredKey(string publicKey, string privateKey)

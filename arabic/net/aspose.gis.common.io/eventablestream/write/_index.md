@@ -1,7 +1,7 @@
 ---
 title: "EventableStream.Write"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "EventableStream طريقة."
+description: "طريقة EventableStream."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.common.io/eventablestream/write/

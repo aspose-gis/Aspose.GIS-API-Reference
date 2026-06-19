@@ -1,7 +1,7 @@
 ---
 title: "Feature.IsValueNull"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Feature. تحدد ما إذا كانت الخاصية المحددة قد تم تعيينها صراحةً إلى قيمة null"
+description: "طريقة Feature. تحدد ما إذا كانت الخاصية المحددة قد تم تعيينها صراحةً إلى قيمة null."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/feature/isvaluenull/

@@ -1,7 +1,7 @@
 ---
 title: "فئة LabelPlacement"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Rendering.Labelings.LabelPlacement. يحدد وضع التسمية كيف يتم وضع التسميات نسبياً إلى هندسة المعالم"
+description: "فئة Aspose.Gis.Rendering.Labelings.LabelPlacement. يحدد وضع العلامة كيف يتم وضع الملصقات نسبياً إلى هندسة المعالم"
 type: docs
 weight: 4060
 url: /ar/net/aspose.gis.rendering.labelings/labelplacement/

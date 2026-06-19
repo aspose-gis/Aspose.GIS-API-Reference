@@ -1,7 +1,7 @@
 ---
-title: "EllipsoidProperties.كروي"
+title: "EllipsoidProperties.IsSphere"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية EllipsoidProperties."
+description: "EllipsoidProperties خاصية."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.projections/ellipsoidproperties/issphere/

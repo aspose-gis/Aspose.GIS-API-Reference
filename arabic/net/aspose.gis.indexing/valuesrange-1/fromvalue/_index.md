@@ -1,7 +1,7 @@
 ---
 title: "ValuesRange1.FromValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ValuesRange."
+description: "ValuesRange خاصية."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.indexing/valuesrange-1/fromvalue/

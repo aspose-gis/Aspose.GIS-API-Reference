@@ -1,7 +1,7 @@
 ---
 title: "GeographicDatum.Osgb36"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicDatum. مرجع OSGB 1936"
+description: "خاصية GeographicDatum. نقطة مرجعية OSGB 1936"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/osgb36/

@@ -16,12 +16,12 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | RasterDriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | RasterDriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### استثناءات
 
@@ -53,12 +53,12 @@ public RasterLayer OpenLayer(string path, EsriAsciiOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | EsriAsciiOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | EsriAsciiOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### انظر أيضًا
 
@@ -80,12 +80,12 @@ public RasterLayer OpenLayer(AbstractPath path, EsriAsciiOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | EsriAsciiOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | EsriAsciiOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### انظر أيضًا
 

@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapcoordinatessecti
 public struct MapCoordinatesSection
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

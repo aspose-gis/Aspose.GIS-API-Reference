@@ -1,7 +1,7 @@
 ---
 title: "BufferLineSimplifier.SimplifyRight"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "BufferLineSimplifier طريقة."
+description: "طريقة BufferLineSimplifier."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.topology.buffer/bufferlinesimplifier/simplifyright/

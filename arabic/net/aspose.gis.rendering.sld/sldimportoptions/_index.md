@@ -1,7 +1,7 @@
 ---
 title: "الفئة SldImportOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Rendering.Sld.SldImportOptions. خيارات استيراد ملف وصف الطبقة المصممة Sld"
+description: "الفئة Aspose.Gis.Rendering.Sld.SldImportOptions. خيارات استيراد ملف Styled Layer Descriptor (Sld)"
 type: docs
 weight: 4240
 url: /ar/net/aspose.gis.rendering.sld/sldimportoptions/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.rendering.sld/sldimportoptions/
 public class SldImportOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [SldImportOptions](sldimportoptions/)() | المُنشئ الافتراضي. |
+| [SldImportOptions](sldimportoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

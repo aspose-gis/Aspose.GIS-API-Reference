@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.shapefile/shapefiledriver/canopenlayers/
 ---
 ## ShapefileDriver.CanOpenLayers property
 
-يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة.
+يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح طبقات متجهية.
 
 ```csharp
 public override bool CanOpenLayers { get; }

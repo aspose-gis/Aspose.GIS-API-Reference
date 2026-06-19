@@ -1,7 +1,7 @@
 ---
 title: "RasterLayer.Crop"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة RasterLayer. تقص طبقة الراستر باستخدام شكل وشبكة قنوات"
+description: "طريقة RasterLayer. تقص طبقة الراستر باستخدام شكل وقناع النطاق"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.raster/rasterlayer/crop/
@@ -16,20 +16,20 @@ public RasterLayer Crop(IGeometry geometry, double[] masks = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| هندسة | IGeometry | Geometry تم تمثيل الشكل. |
+| هندسة | IGeometry | Geometry تمثّل الشكل. |
 | أقنعة | Double[] | قناع لطبقة القص |
 
 ### قيمة الإرجاع
 
-طبقة الراستر المقصوصة. إذا لم يتم العثور على تقاطعات تُعيد `null`.
+طبقة الراستر المقصوصة. إذا لم تُعثر على تقاطعات تُعيد `null`.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المعامل لا يمكن أن يكون فارغًا. اسم المعامل: geometry. |
-| NotSupportedException | المعامل لا يمكن أن يكون مختلفًا عن مضلع أو سطح. اسم المعامل: geometry. |
-| InvalidOperationException | الطبقة الأصلية لا يمكن أن تكون CropRasterLayer أخرى. |
+| ArgumentNullException | لا يمكن أن يكون الوسيط null. اسم المعامل: geometry. |
+| NotSupportedException | لا يمكن أن يكون الوسيط مختلفًا عن مضلع أو سطح. اسم المعامل: geometry. |
+| InvalidOperationException | لا يمكن أن تكون الطبقة الأصلية CropRasterLayer أخرى. |
 | [GisException](../../../aspose.gis/gisexception/) | خطأ أثناء قص الطبقة. |
 
 ### انظر أيضًا
@@ -55,7 +55,7 @@ public RasterLayer Crop(double[] masks)
 
 ### قيمة الإرجاع
 
-طبقة الراستر المقصوصة. إذا لم يتم العثور على تقاطعات تُعيد `null`.
+طبقة الراستر المقصوصة. إذا لم تُعثر على تقاطعات تُعيد `null`.
 
 ### استثناءات
 

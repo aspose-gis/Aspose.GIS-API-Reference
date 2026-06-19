@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/spatialreferencesystem/createfromepsg
 ---
 ## SpatialReferenceSystem.CreateFromEpsg method
 
-إنشاء نظام إحداثيات بناءً على رمز EPSG المحدد.
+أنشئ نظام إحداثيات مكاني بناءً على رمز EPSG المحدد.
 
 ```csharp
 public static SpatialReferenceSystem CreateFromEpsg(int epsg)
@@ -26,7 +26,7 @@ public static SpatialReferenceSystem CreateFromEpsg(int epsg)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | المعطى ليس إيجابيًا. |
+| ArgumentOutOfRangeException | المعامل ليس موجبًا. |
 | NotSupportedException | رمز EPSG المحدد غير معروف. |
 
 ### انظر أيضًا

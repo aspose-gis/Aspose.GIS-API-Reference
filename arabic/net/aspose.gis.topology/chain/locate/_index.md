@@ -1,7 +1,7 @@
 ---
 title: "Chain.Locate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Chain."
+description: "Chain طريقة."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.topology/chain/locate/

@@ -1,14 +1,14 @@
 ---
-title: "Class JpegWDriver"
+title: "الفئة JpegWDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Formats.JpegW.JpegWDriver. محرك لتنسيق JpegW للراستر"
+description: "الفئة Aspose.Gis.Formats.JpegW.JpegWDriver. سائق لتنسيق JpegW للراستر."
 type: docs
 weight: 2020
 url: /ar/net/aspose.gis.formats.jpegw/jpegwdriver/
 ---
 ## JpegWDriver class
 
-محرك لتنسيق JpegW النقطي.
+برنامج تشغيل لتنسيق JpegW النقطي.
 
 ```csharp
 public class JpegWDriver : WorldRasterDriver
@@ -18,7 +18,7 @@ public class JpegWDriver : WorldRasterDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanOpenLayers](../../aspose.gis.formats.jpegw/jpegwdriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية. |
+| override [CanOpenLayers](../../aspose.gis.formats.jpegw/jpegwdriver/canopenlayers/) { get; } | يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر. |
 
 ## الطرق
 

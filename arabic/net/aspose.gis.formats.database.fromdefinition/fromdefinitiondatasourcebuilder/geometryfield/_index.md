@@ -1,7 +1,7 @@
 ---
 title: "FromDefinitionDataSourceBuilder.GeometryField"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FromDefinitionDataSourceBuilder. تُكوّن اسم الحقل الذي سيتم استخراج الهندسة منه"
+description: "طريقة FromDefinitionDataSourceBuilder. تُحدد اسم الحقل الذي سيتم استخراج الهندسة منه"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.database.fromdefinition/fromdefinitiondatasourcebuilder/geometryfield/

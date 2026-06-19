@@ -1,14 +1,14 @@
 ---
 title: "GeographicCrsEntry.GeographicCrsEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "GeographicCrsEntry منشئ. المنشئ الافتراضي"
+description: "GeographicCrsEntry منشئ. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.epsg/geographiccrsentry/geographiccrsentry/
 ---
 ## GeographicCrsEntry constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GeographicCrsEntry()

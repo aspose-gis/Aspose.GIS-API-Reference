@@ -1,7 +1,7 @@
 ---
 title: "فئة GlobOptions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.GlobOptions فئة."
+description: "فئة Aspose.Gis.Common.GlobOptions."
 type: docs
 weight: 1190
 url: /ar/net/aspose.gis.common/globoptions/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common/globoptions/
 public class GlobOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GlobOptions](globoptions/)() | المُنشئ الافتراضي. |
+| [GlobOptions](globoptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

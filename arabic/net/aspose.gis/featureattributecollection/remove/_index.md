@@ -43,14 +43,14 @@ public void Remove(int index)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | فهرس السمة. |
+| فهرس | Int32 | فهرس السمة. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | InvalidOperationException | المجموعة مقفلة. |
-| ArgumentOutOfRangeException | المؤشر خارج النطاق. |
+| ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 
 ### انظر أيضًا
 

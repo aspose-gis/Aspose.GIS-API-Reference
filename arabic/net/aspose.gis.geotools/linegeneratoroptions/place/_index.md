@@ -1,7 +1,7 @@
 ---
 title: "LineGeneratorOptions.Place"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LineGeneratorOptions. وضعية التحديد في الخلايا المُولدة"
+description: "خاصية LineGeneratorOptions. وضعية التوضع في الخلايا المولدة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geotools/linegeneratoroptions/place/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/driveroptions/simplifysegments/
 ---
 ## DriverOptions.SimplifySegments property
 
-يحدد ما إذا كان سيتم حذف النقاط الواقعة على نفس القطعة في كل شكل. القيمة الافتراضية هي `false`.
+يحدد ما إذا كان سيتم حذف النقاط الواقعة على نفس القطعة في كل شكل هندسي. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool SimplifySegments { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: "PolylinesShape.Polylines"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PolylinesShape خاصية."
+description: "خاصية PolylinesShape."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.painting/polylinesshape/polylines/

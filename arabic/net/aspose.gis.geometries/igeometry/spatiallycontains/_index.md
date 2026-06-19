@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.SpatiallyContains"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IGeometry. تحدد ما إذا كانت هذه الهندسة تحتوي مكانيًا على هندسة محددة"
+description: "طريقة IGeometry. تحدد ما إذا كان هذا الشكل الهندسي يحتوي مكانيًا على شكل هندسي محدد"
 type: docs
 weight: 310
 url: /ar/net/aspose.gis.geometries/igeometry/spatiallycontains/
@@ -20,7 +20,7 @@ public bool SpatiallyContains(IGeometry other)
 
 ### قيمة الإرجاع
 
-`true` إذا كان هذا الشكل الهندسي "يحتوي مكانيًا" على شكل هندسي آخر. `false` خلاف ذلك.
+`true` إذا كان هذا الشكل الهندسي "يحتوي مكانيًا" على شكل هندسي آخر. `false` غير ذلك.
 
 ### استثناءات
 
@@ -28,11 +28,11 @@ public bool SpatiallyContains(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ## ملاحظات
 
-هذه الطريقة تختبر ما إذا كان شكل هندسي يحتوي على آخر من حيث مصفوفة تقاطع DE-9IM. هذه الطريقة تعادل:
+تختبر هذه الطريقة ما إذا كان شكل هندسي يحتوي على آخر وفقًا لمصفوفة تقاطع DE-9IM. هذه الطريقة تعادل:
 
 ```csharp
 other.Within(this);

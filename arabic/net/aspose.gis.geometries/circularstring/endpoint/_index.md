@@ -1,7 +1,7 @@
 ---
 title: "CircularString.EndPoint"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CircularString. تُرجع نسخة من نقطة النهاية للمنحنى"
+description: "خاصية CircularString. تُعيد نسخة من نقطة النهاية للمنحنى"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/circularstring/endpoint/

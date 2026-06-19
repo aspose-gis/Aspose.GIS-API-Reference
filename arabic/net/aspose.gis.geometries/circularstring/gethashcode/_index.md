@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/circularstring/gethashcode/
 ---
 ## CircularString.GetHashCode method
 
-يعمل كدالة التجزئة الافتراضية.
+يعمل كدالة تجزئة افتراضية.
 
 ```csharp
 public override int GetHashCode()

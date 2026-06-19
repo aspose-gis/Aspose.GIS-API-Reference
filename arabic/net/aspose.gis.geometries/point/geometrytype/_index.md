@@ -1,14 +1,14 @@
 ---
 title: "Point.GeometryType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Point. يحصل على نوع الهندسة"
+description: "خاصية Point. تحصل على نوع الهندسة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.geometries/point/geometrytype/
 ---
 ## Point.GeometryType property
 
-يحصل على نوع الهندسة.
+يحصل على نوع الـ geometry.
 
 ```csharp
 public override GeometryType GeometryType { get; }

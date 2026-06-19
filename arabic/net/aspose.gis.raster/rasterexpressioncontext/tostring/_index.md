@@ -1,14 +1,14 @@
 ---
 title: "RasterExpressionContext.ToString"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة RasterExpressionContext. تُرجع الاسم المؤهل بالكامل لهذا الكائن"
+description: "طريقة RasterExpressionContext. تُرجع الاسم المؤهل بالكامل لهذا المثيل"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.raster/rasterexpressioncontext/tostring/
 ---
 ## RasterExpressionContext.ToString method
 
-يرجع الاسم الكامل للنوع لهذه النسخة.
+يعيد الاسم المؤهل بالكامل لنوع هذا الكائن.
 
 ```csharp
 public override string ToString()

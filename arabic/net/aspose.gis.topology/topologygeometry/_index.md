@@ -1,7 +1,7 @@
 ---
 title: "فئة TopologyGeometry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.TopologyGeometry فئة."
+description: "فئة Aspose.Gis.Topology.TopologyGeometry."
 type: docs
 weight: 5040
 url: /ar/net/aspose.gis.topology/topologygeometry/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.topology/topologygeometry/
 public class TopologyGeometry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [TopologyGeometry](topologygeometry/)() | المُنشئ الافتراضي. |
+| [TopologyGeometry](topologygeometry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

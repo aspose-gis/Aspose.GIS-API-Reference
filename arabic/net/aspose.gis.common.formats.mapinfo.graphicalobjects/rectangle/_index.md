@@ -1,7 +1,7 @@
 ---
 title: "الفئة Rectangle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Rectangle فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Rectangle الفئة."
 type: docs
 weight: 670
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle/
 public class Rectangle : GraphicalObject, IEquatable<Rectangle>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Rectangle](rectangle/)() | المُنشئ الافتراضي. |
+| [Rectangle](rectangle/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

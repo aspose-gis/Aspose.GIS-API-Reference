@@ -1,7 +1,7 @@
 ---
 title: "Drivers.Shapefile"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق Shapefile"
+description: "Drivers خاصية. محرك لتنسيق Shapefile."
 type: docs
 weight: 210
 url: /ar/net/aspose.gis/drivers/shapefile/

@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.painting/systemdrawingtexturebrush/
 public class SystemDrawingTextureBrush : PainterBrush
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

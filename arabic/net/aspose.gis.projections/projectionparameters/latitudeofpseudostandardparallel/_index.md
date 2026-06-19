@@ -1,5 +1,5 @@
 ---
-title: "ProjectionParameters.خط_العرض_للخط_المعياري_الزائف"
+title: "ProjectionParameters.LatitudeOfPseudoStandardParallel"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية ProjectionParameters."
 type: docs

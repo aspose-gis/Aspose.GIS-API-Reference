@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/stargeneratoroptions/minimumstarvertex/
 ---
 ## StarGeneratorOptions.MinimumStarVertex property
 
-الحد الأدنى للنقطة الخارجية للجانب المُولد.
+الحد الأدنى للركن الخارجي للجانب المُولد.
 
 ```csharp
 public int MinimumStarVertex { get; set; }

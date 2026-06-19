@@ -1,7 +1,7 @@
 ---
 title: "الفئة PlacedCharacter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.PlacedCharacter فئة."
+description: "Aspose.Gis.Painting.PlacedCharacter الفئة."
 type: docs
 weight: 3590
 url: /ar/net/aspose.gis.painting/placedcharacter/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/placedcharacter/
 public class PlacedCharacter
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [PlacedCharacter](placedcharacter/)() | المُنشئ الافتراضي. |
+| [PlacedCharacter](placedcharacter/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

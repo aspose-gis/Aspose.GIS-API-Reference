@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/projection/getparametervalue/
 ---
 ## Projection.GetParameterValue method
 
-يحصل على المعلمة ذات الاسم المحدد لهذا الإسقاط.
+يحصل على المعلمة بالاسم المحدد لهذا الإسقاط.
 
 ```csharp
 public double GetParameterValue(string name, ParameterType type = ParameterType.Other)
@@ -17,7 +17,7 @@ public double GetParameterValue(string name, ParameterType type = ParameterType.
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم المعلمة. |
-| type | ParameterType | نوع المعامل. يحدد عامل الوحدة الذي سيتم إلغاء تطبيقه: إذا كان النوع Linear فإن [`LinearParametersUnit`](../linearparametersunit/) سيتم إلغاء تطبيقه وستكون النتيجة بالمتر. إذا كان النوع Angular فإن [`AngularParametersUnit`](../angularparametersunit/) سيتم إلغاء تطبيقه وستكون النتيجة بالراديان. إذا كان النوع Other فستُعاد قيمة المعامل كما هي. |
+| type | ParameterType | نوع المعامل. يحدد عامل الوحدة الذي سيُطبق: إذا كان النوع Linear فإن [`LinearParametersUnit`](../linearparametersunit/) سيُطبق وستكون النتيجة بالمتر. إذا كان النوع Angular فإن [`AngularParametersUnit`](../angularparametersunit/) سيُطبق وستكون النتيجة بالراديان. إذا كان النوع Other فستُعاد قيمة المعامل كما هي. |
 
 ### قيمة الإرجاع
 

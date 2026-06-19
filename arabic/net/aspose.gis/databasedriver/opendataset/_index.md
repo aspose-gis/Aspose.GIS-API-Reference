@@ -20,7 +20,7 @@ public abstract Dataset OpenDataset(IDbConnection connection)
 
 ### قيمة الإرجاع
 
-مثال على [`Dataset`](../../dataset/).
+كائن من [`Dataset`](../../dataset/).
 
 ### استثناءات
 

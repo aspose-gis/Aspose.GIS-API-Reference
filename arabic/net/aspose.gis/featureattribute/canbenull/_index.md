@@ -1,14 +1,14 @@
 ---
 title: "FeatureAttribute.CanBeNull"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeatureAttribute. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمكن أن يكون null"
+description: "خاصية FeatureAttribute. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن يمكن أن يكون `null`."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/featureattribute/canbenull/
 ---
 ## FeatureAttribute.CanBeNull property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا المثيل يمكن أن يكون null.
+يحصل على قيمة تشير إلى ما إذا كان يمكن أن تكون هذه النسخة null.
 
 ```csharp
 public bool CanBeNull { get; set; }
@@ -16,13 +16,13 @@ public bool CanBeNull { get; set; }
 
 ### Property Value
 
-`true` إذا كان يمكن أن تكون هذه النسخة فارغة؛ وإلا، `false`.
+`true` إذا كان هذا الكائن يمكن أن يكون فارغًا؛ وإلا، `false`.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | الخاصية مقفلة. |
+| InvalidOperationException | السمة مقفلة. |
 
 ### انظر أيضًا
 

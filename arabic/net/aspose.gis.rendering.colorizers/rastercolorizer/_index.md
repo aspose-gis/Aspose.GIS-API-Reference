@@ -1,7 +1,7 @@
 ---
 title: "الفئة RasterColorizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.Colorizers.RasterColorizer فئة. الفئة الجذرية المجردة للمُلوّن الذي يُظهر رستر"
+description: "Aspose.Gis.Rendering.Colorizers.RasterColorizer الفئة. الفئة الجذرية المجردة للمُلوّن الذي يُعيد رسم صورة نقطية"
 type: docs
 weight: 3980
 url: /ar/net/aspose.gis.rendering.colorizers/rastercolorizer/
@@ -18,7 +18,7 @@ public abstract class RasterColorizer
 
 | الاسم | الوصف |
 | --- | --- |
-| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null/) { get; } | ال [`NullColorizer`](../nullcolorizer/) لا يرسم شيئًا ويتخطى فعليًا تصيير الخلايا التي يُطبق عليها. |
+| static [Null](../../aspose.gis.rendering.colorizers/rastercolorizer/null/) { get; } | ال [`NullColorizer`](../nullcolorizer/) يرسم لا شيء ويقفل فعليًا عملية رسم الخلايا التي يُطبق عليها. |
 
 ### انظر أيضًا
 

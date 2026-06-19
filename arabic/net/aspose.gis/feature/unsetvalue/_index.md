@@ -1,7 +1,7 @@
 ---
 title: "Feature.UnsetValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Feature. تزيل قيمة الخاصية من هذه الميزة"
+description: "طريقة Feature. تزيل قيمة الخاصية من هذه الميزة."
 type: docs
 weight: 130
 url: /ar/net/aspose.gis/feature/unsetvalue/

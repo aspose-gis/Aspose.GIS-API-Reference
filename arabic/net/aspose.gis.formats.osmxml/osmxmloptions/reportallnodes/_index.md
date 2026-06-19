@@ -1,14 +1,14 @@
 ---
 title: "OsmXmlOptions.ReportAllNodes"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية OsmXmlOptions. الإبلاغ عن جميع العقد كميزات حتى إذا لم تكن لديها أي وسوم مهمة"
+description: "خاصية OsmXmlOptions. الإبلاغ عن جميع العقد كميزات حتى إذا لم تكن لديها أي وسوم ذات أهمية"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.osmxml/osmxmloptions/reportallnodes/
 ---
 ## OsmXmlOptions.ReportAllNodes property
 
-الإبلاغ عن جميع العقد كميزات، حتى إذا لم تكن لديها أي وسوم مهمة.
+الإبلاغ عن جميع العقد كميزات، حتى إذا لم تكن لديها أي وسوم ذات أهمية.
 
 ```csharp
 public bool ReportAllNodes { get; set; }

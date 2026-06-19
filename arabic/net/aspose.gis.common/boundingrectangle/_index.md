@@ -1,7 +1,7 @@
 ---
 title: "فئة BoundingRectangle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.BoundingRectangle فئة."
+description: "فئة Aspose.Gis.Common.BoundingRectangle."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.common/boundingrectangle/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common/boundingrectangle/
 public class BoundingRectangle : IEquatable<BoundingRectangle>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [BoundingRectangle](boundingrectangle/#constructor)() | المُنشئ الافتراضي. |
+| [BoundingRectangle](boundingrectangle/#constructor)() | المنشئ الافتراضي. |
 | [BoundingRectangle](boundingrectangle/#constructor_1)(double, double, double, double) |  |
 
 ## الخصائص

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.osmxml/osmxmloptions/writecommonattributes/
 ---
 ## OsmXmlOptions.WriteCommonAttributes property
 
-كتابة سمات OSM الشائعة: visible، version، changeset، timestamp، user و uid.
+كتابة سمات OSM الشائعة: visible, version, changeset, timestamp, user و uid.
 
 ```csharp
 public bool WriteCommonAttributes { get; set; }

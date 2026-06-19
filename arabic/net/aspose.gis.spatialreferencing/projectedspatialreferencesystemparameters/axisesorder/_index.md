@@ -1,14 +1,14 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.AxisesOrder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ProjectedSpatialReferenceSystemParameters. ترتيب المحاور. القيمة الافتراضية هي XY."
+description: "خاصية ProjectedSpatialReferenceSystemParameters. ترتيب المحاور. الافتراضي هو XY."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/axisesorder/
 ---
 ## ProjectedSpatialReferenceSystemParameters.AxisesOrder property
 
-ترتيب المحاور. الافتراضي XY.
+ترتيب المحاور. القيمة الافتراضية XY.
 
 ```csharp
 public ProjectedAxisesOrder AxisesOrder { get; set; }
@@ -18,7 +18,7 @@ public ProjectedAxisesOrder AxisesOrder { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | يُرمى في الدالة setter عندما لا يكون الوسيط عضوًا صالحًا في التعداد. |
+| ArgumentException | يُرمى في الدالة setter عندما يكون الوسيط غير عضو صالح في التعداد. |
 
 ### انظر أيضًا
 

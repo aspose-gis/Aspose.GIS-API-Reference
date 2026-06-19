@@ -1,14 +1,14 @@
 ---
 title: "ImageMetadataReader.TryGetModifyDate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. تحاول العثور على علامة EXIF ModifyDate DataTime إذا لم يتم العثور على العلامة تُعيد القيمة الافتراضية لـ DataTime"
+description: "طريقة ImageMetadataReader. تحاول العثور على علامة EXIF ModifyDate DataTime إذا لم تُعثر على العلامة تُعيد القيمة الافتراضية لـ DataTime"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/trygetmodifydate/
 ---
 ## ImageMetadataReader.TryGetModifyDate method
 
-يحاول العثور على علامة EXIF ModifyDate (DataTime)، إذا لم يتم العثور على العلامة يرجع القيمة الافتراضية لـ DataTime
+يحاول العثور على علامة EXIF ModifyDate (DataTime)، إذا لم تُعثر على العلامة يُعيد قيمة DataTime الافتراضية.
 
 ```csharp
 public bool TryGetModifyDate(out DateTime modifyDate)
@@ -20,7 +20,7 @@ public bool TryGetModifyDate(out DateTime modifyDate)
 
 ### قيمة الإرجاع
 
-True إذا نجح
+صحيح إذا نجح
 
 ### انظر أيضًا
 

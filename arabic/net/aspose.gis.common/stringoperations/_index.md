@@ -1,7 +1,7 @@
 ---
 title: "الفئة StringOperations"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.StringOperations فئة."
+description: "فئة Aspose.Gis.Common.StringOperations."
 type: docs
 weight: 1390
 url: /ar/net/aspose.gis.common/stringoperations/

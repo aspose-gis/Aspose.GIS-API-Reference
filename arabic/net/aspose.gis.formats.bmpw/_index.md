@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.BmpW"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Formats.JpegW توفر فئات للعمل مع تنسيق JpegW."
+description: "مساحة الأسماء `Aspose.Gis.Formats.JpegW` توفر فئات للعمل مع تنسيق JpegW."
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.formats.bmpw/
@@ -12,6 +12,6 @@ url: /ar/net/aspose.gis.formats.bmpw/
 
 | فئة | الوصف |
 | --- | --- |
-| [BmpWDriver](./bmpwdriver/) | برنامج تشغيل لتنسيق BmpW النقطي. |
+| [BmpWDriver](./bmpwdriver/) | برنامج تشغيل لملف رستر BmpW. |
 
 

@@ -1,7 +1,7 @@
 ---
 title: "BursaWolfParameters.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة BursaWolfParameters. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
+description: "BursaWolfParameters طريقة. يحدد ما إذا كان الكائن المحدد متساوٍ مع الكائن الحالي"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/bursawolfparameters/equals/
@@ -20,7 +20,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
+صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -44,7 +44,7 @@ public bool Equals(BursaWolfParameters other)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا false.
+صحيح إذا كان الكائن الحالي يساوي المعامل *other*؛ وإلا، خطأ.
 
 ### انظر أيضًا
 

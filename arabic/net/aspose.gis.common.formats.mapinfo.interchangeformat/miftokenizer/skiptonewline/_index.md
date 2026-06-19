@@ -1,7 +1,7 @@
 ---
 title: "MifTokenizer.SkipToNewLine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MifTokenizer طريقة."
+description: "طريقة MifTokenizer."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokenizer/skiptonewline/

@@ -24,7 +24,7 @@ public void Add(FeatureAttribute attribute)
 | --- | --- |
 | ArgumentNullException | السمة هي `null`. |
 | InvalidOperationException | المجموعة مقفلة. |
-| ArgumentException | هناك سمة بنفس الاسم موجودة بالفعل في المجموعة. |
+| ArgumentException | سمة بالاسم نفسه موجودة بالفعل في المجموعة. |
 
 ### انظر أيضًا
 

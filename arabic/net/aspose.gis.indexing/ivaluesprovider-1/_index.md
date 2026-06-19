@@ -1,7 +1,7 @@
 ---
 title: "واجهة IValuesProviderTValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Indexing.IValuesProvider1TValue واجهة."
+description: "واجهة Aspose.Gis.Indexing.IValuesProvider1TValue."
 type: docs
 weight: 3120
 url: /ar/net/aspose.gis.indexing/ivaluesprovider-1/

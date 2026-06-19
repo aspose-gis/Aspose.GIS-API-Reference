@@ -1,7 +1,7 @@
 ---
 title: "فئة CoordinateExtensions"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Topology.CoordinateExtensions فئة."
+description: "فئة Aspose.Gis.Topology.CoordinateExtensions."
 type: docs
 weight: 4880
 url: /ar/net/aspose.gis.topology/coordinateextensions/

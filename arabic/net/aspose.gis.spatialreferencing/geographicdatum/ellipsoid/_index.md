@@ -1,7 +1,7 @@
 ---
 title: "GeographicDatum.Ellipsoid"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicDatum. البيضاوي المستخدم في هذا المرجع لتقريب الأرض"
+description: "خاصية GeographicDatum. Ellipsoid المستخدم في هذه النقطة المرجعية لتقريب الأرض"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/ellipsoid/

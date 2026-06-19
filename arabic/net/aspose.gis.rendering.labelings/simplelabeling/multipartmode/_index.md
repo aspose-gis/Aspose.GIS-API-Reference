@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/multipartmode/
 ---
 ## SimpleLabeling.MultipartMode property
 
-يحدد سلوك التصيير للأشكال المتعددة الأجزاء. القيمة الافتراضية هي All.
+يحدد سلوك العرض للأشكال المتعددة الأجزاء. القيمة الافتراضية هي All.
 
 ```csharp
 public MultipartMode MultipartMode { get; set; }

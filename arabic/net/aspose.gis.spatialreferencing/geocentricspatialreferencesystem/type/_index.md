@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/type
 ---
 ## GeocentricSpatialReferenceSystem.Type property
 
-يرجع Geocentric.
+يعيد Geocentric.
 
 ```csharp
 public override SpatialReferenceSystemType Type { get; }

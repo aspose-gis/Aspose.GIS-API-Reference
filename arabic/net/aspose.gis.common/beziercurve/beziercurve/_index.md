@@ -1,7 +1,7 @@
 ---
 title: "BezierCurve.BezierCurve"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "BezierCurve المُنشئ."
+description: "BezierCurve منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common/beziercurve/beziercurve/

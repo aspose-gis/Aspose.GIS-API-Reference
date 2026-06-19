@@ -1,7 +1,7 @@
 ---
 title: "الفئة GeoLocation"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.ImageMetadata.GeoLocation. الفئة التي تمثل موقعًا جغرافيًا"
+description: "Aspose.Gis.ImageMetadata.GeoLocation class. الفئة التي تمثل موقعًا جغرافيًا"
 type: docs
 weight: 3050
 url: /ar/net/aspose.gis.imagemetadata/geolocation/

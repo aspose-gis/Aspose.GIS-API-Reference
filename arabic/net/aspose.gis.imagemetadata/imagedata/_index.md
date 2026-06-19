@@ -1,14 +1,14 @@
 ---
 title: "فئة ImageData"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.ImageMetadata.ImageData. الفئة التي تحتوي على جميع وسوم EXIF المستخرجة المدعومة"
+description: "Aspose.Gis.ImageMetadata.ImageData class. الفئة التي تحتوي على جميع وسوم EXIF المستخرجة والمدعومة"
 type: docs
 weight: 3060
 url: /ar/net/aspose.gis.imagemetadata/imagedata/
 ---
 ## ImageData class
 
-فئة تحتوي على جميع وسوم EXIF المستخرجة المدعومة
+فئة تحتوي على جميع علامات EXIF المدعومة المستخرجة
 
 ```csharp
 public class ImageData

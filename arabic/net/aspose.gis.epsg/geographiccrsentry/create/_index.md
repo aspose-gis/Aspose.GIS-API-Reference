@@ -1,5 +1,5 @@
 ---
-title: "GeographicCrsEntry.إنشاء"
+title: "GeographicCrsEntry.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "GeographicCrsEntry طريقة."
 type: docs

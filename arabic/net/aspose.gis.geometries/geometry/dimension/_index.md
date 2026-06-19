@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometry/dimension/
 ---
 ## Geometry.Dimension property
 
-يحصل على البعد الطوبولوجي لهذا [`Geometry`](../). إذا كان البعد غير معروف (مثل مجموعة GEOMETRYCOLLECTION فارغة) يتم إرجاع Point.
+يحصل على البعد الطوبولوجي لهذا [`Geometry`](../). إذا كان البعد غير معروف (على سبيل المثال لمجموعة GEOMETRYCOLLECTION فارغة) يتم إرجاع Point.
 
 ```csharp
 public abstract GeometryDimension Dimension { get; }

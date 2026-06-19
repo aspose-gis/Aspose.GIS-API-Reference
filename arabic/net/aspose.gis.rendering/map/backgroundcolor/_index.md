@@ -1,7 +1,7 @@
 ---
 title: "Map.BackgroundColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Map. لون الخلفية للخريطة. القيمة الافتراضية هي شفافة"
+description: "خاصية Map. لون الخلفية للخريطة. القيمة الافتراضية شفافة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/map/backgroundcolor/

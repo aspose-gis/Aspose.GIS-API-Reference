@@ -1,14 +1,14 @@
 ---
 title: "GeographicSpatialReferenceSystem.HasPrimeMeridian"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicSpatialReferenceSystem. تُرجع true لأن SRS الجغرافي دائمًا ما يحتوي على خط الزوال الأساسي"
+description: "GeographicSpatialReferenceSystem خاصية. يرجع true لأن SRS الجغرافي دائمًا ما يحتوي على خط الزوال الرئيسي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/geographicspatialreferencesystem/hasprimemeridian/
 ---
 ## GeographicSpatialReferenceSystem.HasPrimeMeridian property
 
-يرجع `true`، لأن نظام الإحداثيات الجغرافي دائمًا ما يحتوي على خط الزوال الأساسي.
+يرجع `true`، لأن نظام الإحداثيات الجغرافي دائمًا ما يكون له خط الزوال الرئيسي.
 
 ```csharp
 public bool HasPrimeMeridian { get; }

@@ -1,7 +1,7 @@
 ---
 title: "AbstractPathInternal.IsFile"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة AbstractPathInternal."
+description: "AbstractPathInternal طريقة."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.common/abstractpathinternal/isfile/

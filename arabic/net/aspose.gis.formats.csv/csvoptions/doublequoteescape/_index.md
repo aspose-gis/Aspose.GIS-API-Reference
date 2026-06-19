@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.csv/csvoptions/doublequoteescape/
 ---
 ## CsvOptions.DoubleQuoteEscape property
 
-يحصل أو يعيّن حرفًا يُستخدم كحرف هروب للاقتباسات المزدوجة. القيمة الافتراضية هي '\"'.
+يحصل أو يضبط حرفًا يُستخدم كحرف هروب للاقتباسات المزدوجة. القيمة الافتراضية هي '\"'.
 
 ```csharp
 public char DoubleQuoteEscape { get; set; }

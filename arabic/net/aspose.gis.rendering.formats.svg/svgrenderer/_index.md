@@ -1,14 +1,14 @@
 ---
 title: "فئة SvgRenderer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.Formats.Svg.SvgRenderer فئة. عارض يقوم بعرض الخريطة في ملف SVG"
+description: "Aspose.Gis.Rendering.Formats.Svg.SvgRenderer فئة. عارض يقوم برسم Map إلى ملف SVG"
 type: docs
 weight: 4040
 url: /ar/net/aspose.gis.rendering.formats.svg/svgrenderer/
 ---
 ## SvgRenderer class
 
-عارض [`Renderer`](../../aspose.gis.rendering/renderer/) الذي يعرض [`Map`](../../aspose.gis.rendering/map/) في ملف SVG.
+أ [`Renderer`](../../aspose.gis.rendering/renderer/) الذي يرسم [`Map`](../../aspose.gis.rendering/map/) إلى ملف SVG.
 
 ```csharp
 public class SvgRenderer : Renderer

@@ -1,7 +1,7 @@
 ---
 title: "PainterBrush.GetHashCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PainterBrush طريقة."
+description: "طريقة PainterBrush."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.painting/painterbrush/gethashcode/

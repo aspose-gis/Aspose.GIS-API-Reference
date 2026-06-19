@@ -1,14 +1,14 @@
 ---
 title: "Feature.GetValueOrDefault"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Feature. الحصول على قيمة سمة أو DefaultValue إذا كانت القيمة غير مُحددة أو null."
+description: "طريقة Feature. يحصل على قيمة سمة أو DefaultValue إذا كانت القيمة غير مُحددة أو null"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/feature/getvalueordefault/
 ---
 ## GetValueOrDefault&lt;T&gt;(string) {#getvalueordefault_1}
 
-الحصول على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
+يحصل على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
 
 ```csharp
 public T GetValueOrDefault<T>(string attributeName)
@@ -30,9 +30,9 @@ public T GetValueOrDefault<T>(string attributeName)
 | ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
 | InvalidOperationException | السمة غير مقفلة. |
-| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذا العنصر. |
 | InvalidCastException | النوع المطلوب لا يُطبق الواجهة IConvertible. |
-| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمي. |
+| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمة. |
 | FormatException | فشل التحويل لأن القيمة بتنسيق غير صحيح. |
 | OverflowException | فشل التحويل بسبب تجاوز السعة. |
 
@@ -50,7 +50,7 @@ public T GetValueOrDefault<T>(string attributeName)
 
 ## GetValueOrDefault(string, object) {#getvalueordefault}
 
-الحصول على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
+يحصل على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
 
 ```csharp
 public object GetValueOrDefault(string attributeName, object defaultValue = null)
@@ -72,7 +72,7 @@ public object GetValueOrDefault(string attributeName, object defaultValue = null
 | ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
 | InvalidOperationException | السمة غير مقفلة. |
-| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذا العنصر. |
 
 ### انظر أيضًا
 
@@ -84,7 +84,7 @@ public object GetValueOrDefault(string attributeName, object defaultValue = null
 
 ## GetValueOrDefault&lt;T&gt;(string, object) {#getvalueordefault_2}
 
-الحصول على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
+يحصل على قيمة سمة، أو [`DefaultValue`](../../featureattribute/defaultvalue/) إذا كانت القيمة غير مُحددة أو `null`.
 
 ```csharp
 public T GetValueOrDefault<T>(string attributeName, object defaultValue)
@@ -107,9 +107,9 @@ public T GetValueOrDefault<T>(string attributeName, object defaultValue)
 | ArgumentNullException | اسم السمة هو `null`. |
 | ArgumentException | السمة بهذا الاسم غير موجودة في هذه الطبقة. |
 | InvalidOperationException | السمة غير مقفلة. |
-| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذه الميزة. |
+| InvalidOperationException | قيمة هذه السمة غير مُحددة لهذا العنصر. |
 | InvalidCastException | النوع المطلوب لا يُطبق الواجهة IConvertible. |
-| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمي. |
+| InvalidCastException | قيمة السمة هي `null`، لكن النوع المطلوب هو نوع قيمة. |
 | FormatException | فشل التحويل لأن القيمة بتنسيق غير صحيح. |
 | OverflowException | فشل التحويل بسبب تجاوز السعة. |
 

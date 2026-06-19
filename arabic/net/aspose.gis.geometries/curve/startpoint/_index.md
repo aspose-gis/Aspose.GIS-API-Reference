@@ -1,7 +1,7 @@
 ---
 title: "Curve.StartPoint"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Curve. تُرجع نسخة من نقطة البداية للمنحنى."
+description: "خاصية Curve. تُرجع نسخة من نقطة البداية للمنحنى"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/curve/startpoint/

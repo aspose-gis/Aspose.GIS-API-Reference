@@ -1,7 +1,7 @@
 ---
 title: "ValuesRange1.Contains"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ValuesRange."
+description: "ValuesRange طريقة."
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.indexing/valuesrange-1/contains/

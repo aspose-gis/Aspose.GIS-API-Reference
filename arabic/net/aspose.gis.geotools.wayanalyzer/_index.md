@@ -6,13 +6,13 @@ type: docs
 weight: 530
 url: /ar/net/aspose.gis.geotools.wayanalyzer/
 ---
-`Aspose.Gis.GeoTools.WayAnalyzer` مساحة الاسم تحتوي على فئات تمثل أدوات الجغرافيا.
+مساحة الاسم `Aspose.Gis.GeoTools.WayAnalyzer` تحتوي على فئات تمثل أدوات جغرافية.
 
 ## الفئات
 
 | فئة | الوصف |
 | --- | --- |
 | [WayLayerGenerator](./waylayergenerator/) | مولد طبقات الطريق |
-| [WayOptions](./wayoptions/) | خيارات للعثور على طريق على الخريطة |
+| [WayOptions](./wayoptions/) | خيارات للعثور على مسار على الخريطة |
 
 

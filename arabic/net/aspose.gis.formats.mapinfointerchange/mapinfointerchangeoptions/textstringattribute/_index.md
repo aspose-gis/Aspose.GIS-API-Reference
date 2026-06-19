@@ -16,7 +16,7 @@ public string TextStringAttribute { get; set; }
 
 ## ملاحظات
 
-تنسيق MapInfo Interchange يحدد كائنًا رسوميًا من النوع 'Text'. الكائن الرسومي 'Text' يمثل تسمية على الخريطة. نقوم بتصدير الكائنات الرسومية 'Text' كـ [`Feature`](../../../aspose.gis/feature/) مع هندسة [`Polygon`](../../../aspose.gis.geometries/polygon/) التي تحدد حدود التسمية. يتم تصدير نص التسمية كـ [`FeatureAttribute`](../../../aspose.gis/featureattribute/). تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي `\"textstring\"`.
+يحدد تنسيق MapInfo Interchange كائنًا رسوميًا من النوع 'Text'. الكائن الرسومي 'Text' يمثل تسمية على الخريطة. نقوم بتصدير الكائنات الرسومية 'Text' كـ [`Feature`](../../../aspose.gis/feature/) مع هندسة [`Polygon`](../../../aspose.gis.geometries/polygon/) التي تحدد حدود التسمية. يتم تصدير نص التسمية كـ [`FeatureAttribute`](../../../aspose.gis/featureattribute/). تحدد هذه الخاصية اسم السمة المستخدمة لتصدير نص التسمية. القيمة الافتراضية هي `"textstring"`.
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "تعداد ImageFormat"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "تعداد Aspose.Gis.ImageMetadata.ImageFormat. يحدد تنسيق ملف الصورة"
+description: "Aspose.Gis.ImageMetadata.ImageFormat enum. يحدد تنسيق ملف الصورة"
 type: docs
 weight: 3070
 url: /ar/net/aspose.gis.imagemetadata/imageformat/
@@ -18,16 +18,16 @@ public enum ImageFormat
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| MemoryBmp | `0` | تنسيق الصورة MemoryBmp |
-| Bmp | `1` | تنسيق الصورة Bmp |
-| Emf | `2` | تنسيق الصورة Emf |
-| Wmf | `3` | تنسيق الصورة Wmf |
-| Gif | `4` | تنسيق الصورة Gif |
-| Jpeg | `5` | تنسيق الصورة Jpeg |
-| Png | `6` | تنسيق الصورة Png |
-| Tiff | `7` | تنسيق الصورة Tiff |
-| Exif | `8` | تنسيق الصورة Exif |
-| Icon | `9` | تنسيق الصورة Icon |
+| MemoryBmp | `0` | تنسيق صورة MemoryBmp |
+| Bmp | `1` | تنسيق صورة Bmp |
+| Emf | `2` | تنسيق صورة Emf |
+| Wmf | `3` | تنسيق صورة Wmf |
+| Gif | `4` | تنسيق صورة Gif |
+| Jpeg | `5` | تنسيق صورة Jpeg |
+| Png | `6` | تنسيق صورة Png |
+| Tiff | `7` | تنسيق صورة Tiff |
+| Exif | `8` | تنسيق صورة Exif |
+| Icon | `9` | تنسيق صورة Icon |
 
 ### انظر أيضًا
 

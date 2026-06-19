@@ -1,7 +1,7 @@
 ---
 title: "SystemDrawingPaintEngine.DrawText"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "SystemDrawingPaintEngine طريقة."
+description: "طريقة SystemDrawingPaintEngine."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.painting/systemdrawingpaintengine/drawtext/

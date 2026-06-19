@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmliconstyle/resource/
 ---
 ## KmlIconStyle.Resource property
 
-تحدد موقع المورد. القيمة الافتراضية هي `null` تعني أن الأيقونة مفقودة.
+تحدد موقع المورد. القيمة الافتراضية هي `null` تعني أن Icon مفقود.
 
 ```csharp
 public KmlIconResource Resource { get; set; }

@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.Create"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. تنشئ الطبقة وتفتحها لإضافة عناصر جديدة"
+description: "طريقة VectorLayer. ينشئ الطبقة ويفتحها لإضافة ميزات جديدة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/vectorlayer/create/
@@ -16,8 +16,8 @@ public static VectorLayer Create(string path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | String | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -51,9 +51,9 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -88,8 +88,8 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
+| path | AbstractPath | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
 
 ### قيمة الإرجاع
 
@@ -124,9 +124,9 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
@@ -163,20 +163,20 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | String | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../).
+كائن من [`VectorLayer`](../).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
 
@@ -201,20 +201,20 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../).
+كائن من [`VectorLayer`](../).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
 
@@ -240,14 +240,14 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | String | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../).
+كائن من [`VectorLayer`](../).
 
 ### استثناءات
 
@@ -255,7 +255,7 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 | --- | --- |
 | ArgumentNullException | المسار هو `null`. |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
 
@@ -281,14 +281,14 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| المحرك | FileDriver | المحرك للاستخدام. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية. |
+| path | AbstractPath | المسار إلى الملف. |
+| المحرك | FileDriver | Driver للاستخدام. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../).
+كائن من [`VectorLayer`](../).
 
 ### استثناءات
 
@@ -296,7 +296,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | --- | --- |
 | ArgumentNullException | المسار هو `null`. |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | نظام الإحداثيات المكانية غير مدعوم من قبل السائق. استخدم [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) للتحقق مما إذا كان نظام الإحداثيات المكانية مدعومًا. |
 

@@ -16,7 +16,7 @@ public bool HasAttributeNames { get; set; }
 
 ## ملاحظات
 
-في حالة `true` سيُسمى [`Attributes`](../../../aspose.gis/vectorlayer/attributes/) وفقًا لصف الرأس. وإلا سيُسمى كالتالي: `field_1, field_2, etc.`
+في حالة `true` سيتم تسمية [`Attributes`](../../../aspose.gis/vectorlayer/attributes/) وفقًا لصف الرأس. وإلا سيتم تسميتها كالتالي: `field_1, field_2, etc.`
 
 ### انظر أيضًا
 

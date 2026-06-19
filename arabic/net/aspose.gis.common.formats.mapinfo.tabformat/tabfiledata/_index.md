@@ -1,7 +1,7 @@
 ---
 title: "الفئة TabFileData"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.TabFormat.TabFileData فئة."
+description: "الفئة Aspose.Gis.Common.Formats.MapInfo.TabFormat.TabFileData."
 type: docs
 weight: 940
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/

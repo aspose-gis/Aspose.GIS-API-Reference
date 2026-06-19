@@ -1,24 +1,24 @@
 ---
 title: "الفئة GeographicDatum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.SpatialReferencing.GeographicDatum. المرجع الجغرافي يربط خط الطول وخط العرض بمكان معين على الأرض"
+description: "الفئة Aspose.Gis.SpatialReferencing.GeographicDatum. المرجع الجغرافي يربط خط الطول وخط العرض بمكان معين على الأرض."
 type: docs
 weight: 4570
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/
 ---
 ## GeographicDatum class
 
-المعيار الجغرافي يربط خط الطول والعرض بمكان معين على الأرض.
+المرجع الجغرافي يربط خط الطول وخط العرض بمكان معين على الأرض.
 
 ```csharp
 public class GeographicDatum : IdentifiableObject
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GeographicDatum](geographicdatum/)(string, Ellipsoid, BursaWolfParameters, Identifier) | ينشئ مثيلًا جديدًا. |
+| [GeographicDatum](geographicdatum/)(string, Ellipsoid, BursaWolfParameters, Identifier) | ينشئ نسخة جديدة. |
 
 ## الخصائص
 
@@ -33,15 +33,15 @@ public class GeographicDatum : IdentifiableObject
 | [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | إذا كان معرف هذا الكائن هو معرف EPSG - أعد رمزه. وإلا - أعد -1. |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | معرف هذا الكائن القابل للتعريف. |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | اسم هذا الكائن. |
-| [ToWgs84Parameters](../../aspose.gis.spatialreferencing/geographicdatum/towgs84parameters/) { get; } | معلمات BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في المرجع WGS84. |
+| [ToWgs84Parameters](../../aspose.gis.spatialreferencing/geographicdatum/towgs84parameters/) { get; } | معلمات BursaWolfParamters التي يمكن استخدامها لتحويل الإحداثيات في هذا المرجع إلى إحداثيات في مرجع WGS84. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum) | يحدد ما إذا كان المرجعان متكافئين. نفس الإحداثيات للمرجعين المتكافئين تتطابق مع نفس المكان على الأرض. بعض معلمات المرجع المتكافئ قد تكون مختلفة، على سبيل المثال [`Name`](../identifiableobject/name/). |
-| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
-| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum, GeographicDatum) | يحدد ما إذا كان المرجعان متكافئين. نفس الإحداثيات للمرجعين المتكافئين تتطابق مع نفس المكان على الأرض. بعض معلمات المرجع المتكافئ قد تكون مختلفة، على سبيل المثال [`Name`](../identifiableobject/name/). |
+| [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum) | يحدد ما إذا كان المرجعان متكافئين. نفس الإحداثيات للمرجعين المتكافئين تشير إلى نفس المكان على الأرض. بعض معلمات المرجع المتكافئ يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../identifiableobject/name/). |
+| override [ToString](../../aspose.gis.spatialreferencing/identifiableobject/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
+| static [IsEquivalent](../../aspose.gis.spatialreferencing/geographicdatum/isequivalent/)(GeographicDatum, GeographicDatum) | يحدد ما إذا كان المرجعان متكافئين. نفس الإحداثيات للمرجعين المتكافئين تشير إلى نفس المكان على الأرض. بعض معلمات المرجع المتكافئ يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../identifiableobject/name/). |
 
 ### انظر أيضًا
 

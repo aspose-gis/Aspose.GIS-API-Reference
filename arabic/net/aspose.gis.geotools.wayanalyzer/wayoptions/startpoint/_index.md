@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.wayanalyzer/wayoptions/startpoint/
 ---
 ## WayOptions.StartPoint property
 
-نقطة البداية للمسار
+نقطة البداية للطريق
 
 ```csharp
 public Point StartPoint { get; set; }

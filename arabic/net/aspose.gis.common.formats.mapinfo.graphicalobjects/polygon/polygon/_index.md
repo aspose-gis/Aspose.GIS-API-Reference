@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/polygon/polygon/
 ---
 ## Polygon constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public Polygon()

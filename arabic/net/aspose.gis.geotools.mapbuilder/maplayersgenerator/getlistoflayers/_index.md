@@ -16,11 +16,11 @@ public static List<VectorLayer> GetListOfLayers(MapGeneratorOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الخيارات | MapGeneratorOptions | خيارات مولد الخريطة. |
+| options | MapGeneratorOptions | خيارات مولد الخريطة. |
 
 ### قيمة الإرجاع
 
-قائمة الطبقات مع الهندسة المُولدة.
+قائمة الطبقات مع الهندسة المولدة.
 
 ### انظر أيضًا
 

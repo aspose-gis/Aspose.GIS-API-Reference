@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.GetArea"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IGeometry طريقة. يحسب مساحة هذه الهندسة"
+description: "طريقة IGeometry. تحسب مساحة هذه الهندسة"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.geometries/igeometry/getarea/

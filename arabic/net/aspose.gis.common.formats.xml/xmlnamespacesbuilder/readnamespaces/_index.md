@@ -1,7 +1,7 @@
 ---
 title: "XmlNamespacesBuilder.ReadNamespaces"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlNamespacesBuilder method."
+description: "XmlNamespacesBuilder خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.formats.xml/xmlnamespacesbuilder/readnamespaces/

@@ -1,14 +1,14 @@
 ---
 title: "XyzTiles.GetTiles"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة XyzTiles. يحمل البلاط وفقًا لمربع الحد المكاني ومستوى التكبير"
+description: "طريقة XyzTiles. يحمل البلاط وفقًا لمربع الحدود المكاني ومستوى التكبير"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.xyztile/xyztiles/gettiles/
 ---
 ## XyzTiles.GetTiles method
 
-يحمّل البلاط وفقًا لمربع الحد المكاني ومستوى التكبير.
+يقوم بتحميل البلاط وفقًا لمربع الحدود المكاني ومستوى التكبير.
 
 ```csharp
 public IEnumerable<WebTile> GetTiles(int zoom, Extent extent)
@@ -17,7 +17,7 @@ public IEnumerable<WebTile> GetTiles(int zoom, Extent extent)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | تكبير | Int32 | مستوى التكبير لتحميل البلاط. أعلى مستوى تكبير هو 0. معظم مزودي البلاط لديهم حوالي 22 مستوى تكبير كحد أقصى. |
-| مدى | مدى | مربع الحد لتحميل البلاط. سيتم استخدام مرجع الفضاء Wgs84 إذا تم فقدانه. |
+| مدى | مدى | مربع الحدود لتحميل البلاط. سيُستخدم المرجع المكاني Wgs84 إذا تم إغفاله. |
 
 ### قيمة الإرجاع
 

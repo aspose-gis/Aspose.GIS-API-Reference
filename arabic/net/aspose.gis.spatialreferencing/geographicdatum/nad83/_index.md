@@ -1,7 +1,7 @@
 ---
 title: "GeographicDatum.Nad83"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeographicDatum. مرجع NAD 83"
+description: "خاصية GeographicDatum. نقطة مرجعية NAD 83"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/nad83/

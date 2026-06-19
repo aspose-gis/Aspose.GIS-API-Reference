@@ -1,7 +1,7 @@
 ---
 title: "Map.Height"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Map. الارتفاع البصري للخريطة."
+description: "خاصية Map. الارتفاع البصري للخريطة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering/map/height/

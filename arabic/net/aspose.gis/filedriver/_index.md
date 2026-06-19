@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/filedriver/
 ---
 ## FileDriver class
 
-محرك لتنسيق يعتمد على ملف محدد.
+محرك لتنسيق مبني على ملف محدد.
 
 ```csharp
 public abstract class FileDriver : Driver
@@ -18,10 +18,10 @@ public abstract class FileDriver : Driver
 
 | الاسم | الوصف |
 | --- | --- |
-| abstract [CanCreateDatasets](../../aspose.gis/filedriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء مجموعات البيانات. |
-| abstract [CanCreateLayers](../../aspose.gis/filedriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة. |
-| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات. |
-| abstract [CanOpenLayers](../../aspose.gis/filedriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة. |
+| abstract [CanCreateDatasets](../../aspose.gis/filedriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء مجموعات البيانات. |
+| abstract [CanCreateLayers](../../aspose.gis/filedriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء طبقات متجهية. |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح مجموعات البيانات. |
+| abstract [CanOpenLayers](../../aspose.gis/filedriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح طبقات متجهية. |
 
 ## الطرق
 
@@ -49,7 +49,7 @@ public abstract class FileDriver : Driver
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_2)(string) | يفتح الطبقة للقراءة. |
 | abstract [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | يفتح الطبقة للقراءة. |
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/#openlayer_3)(string, DriverOptions) | يفتح الطبقة للقراءة. |
-| abstract [SupportsSpatialReferenceSystem](../../aspose.gis/filedriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل. |
+| abstract [SupportsSpatialReferenceSystem](../../aspose.gis/filedriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل البرنامج تشغيل. |
 
 ### انظر أيضًا
 

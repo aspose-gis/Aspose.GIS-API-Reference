@@ -16,8 +16,8 @@ public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | فهرس الطبقة التي سيتم فتحها. |
-| الخيارات | DriverOptions | خيارات الفتح. |
+| فهرس | Int32 | فهرس الطبقة للفتح. |
+| options | DriverOptions | خيارات الفتح. |
 
 ### قيمة الإرجاع
 
@@ -27,10 +27,10 @@ public abstract VectorLayer OpenLayerAt(int index, DriverOptions options = null)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا مجموعة البيانات. |
 | ArgumentOutOfRangeException | الفهرس خارج النطاق |
-| ArgumentException | كائن Options له نوع غير صحيح لهذه مجموعة البيانات. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الطبقة. |
+| ArgumentException | كائن Options له نوع غير صحيح لهذا مجموعة البيانات. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الطبقة. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 
 ### انظر أيضًا

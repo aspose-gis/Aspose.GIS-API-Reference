@@ -1,14 +1,14 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.YAxis"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeocentricSpatialReferenceSystemParameters. المحور في نظام الإسناد المكاني المركزي الذي يصف محور البُعد Y والذي يشير إلى اليسار أو اليمين بالنسبة لمحور X على المستوى الاستوائي. الافتراضي هو المحور باتجاه الشرق"
+description: "خاصية GeocentricSpatialReferenceSystemParameters. محور نظام الإحداثيات الجيوسنترية الذي يصف محور البُعد Y والذي يشير إلى اليسار أو اليمين بالنسبة لمحور X على المستوى الاستوائي. الافتراضي هو المحور باتجاه الشرق."
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/yaxis/
 ---
 ## GeocentricSpatialReferenceSystemParameters.YAxis property
 
-محور نظام إسناد جغرافي مركزي الذي يصف البعد 'Y' (المحور الذي يشير إلى اليسار أو اليمين من محور X على المستوى الاستوائي). القيمة الافتراضية هي المحور باتجاه الشرق.
+محور نظام الإسناد الجغرافي المركزي الذي يصف البُعد 'Y' (المحور الذي يشير إلى اليسار أو اليمين من محور X على المستوى الاستوائي). القيمة الافتراضية هي محور باتجاه الشرق.
 
 ```csharp
 public Axis YAxis { get; set; }
@@ -18,7 +18,7 @@ public Axis YAxis { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | اتجاه المحور ليس غربًا أو شرقًا. |
+| ArgumentException | اتجاه المحور ليس غربًا ولا شرقًا. |
 
 ### انظر أيضًا
 

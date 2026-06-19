@@ -1,7 +1,7 @@
 ---
 title: "Chain.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Chain."
+description: "Chain خاصية."
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.topology/chain/item/

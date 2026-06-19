@@ -1,7 +1,7 @@
 ---
 title: "BinaryDataReader.ReadUInt64"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة BinaryDataReader."
+description: "BinaryDataReader طريقة."
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.common.io/binarydatareader/readuint64/

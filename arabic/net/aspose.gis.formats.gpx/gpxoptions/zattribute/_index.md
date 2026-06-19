@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.gpx/gpxoptions/zattribute/
 ---
 ## GpxOptions.ZAttribute property
 
-يحدد أي سمة GPX سيتم تصديرها كإحداثي 'Z' لنقاط الطريق، نقاط المسار ونقاط التتبع. إذا كان `null` - لن يتم تصدير أي سمة كإحداثي 'Z'. الافتراضي هو \"ele\". القيم الممكنة هي أسماء جميع سمات XML في GPX التي يمكن تمثيلها كقيمة مزدوجة (مثال: \"speed\", \"magvar\", \"geoidheight\" وغيرها).
+يحدد أي سمة GPX سيتم تصديرها كإحداثي 'Z' لنقاط الطريق، ونقاط المسار، ونقاط التتبع. إذا كان `null` - لن يتم تصدير أي سمة كإحداثي 'Z'. الافتراضي هو "ele". القيم الممكنة هي أسماء جميع سمات XML في GPX التي يمكن تمثيلها كقيمة مزدوجة (مثل "speed"، "magvar"، "geoidheight" وغيرها).
 
 ```csharp
 public string ZAttribute { get; set; }

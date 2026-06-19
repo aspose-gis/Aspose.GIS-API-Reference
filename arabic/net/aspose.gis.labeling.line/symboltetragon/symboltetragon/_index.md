@@ -1,7 +1,7 @@
 ---
 title: "SymbolTetragon.SymbolTetragon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ SymbolTetragon."
+description: "SymbolTetragon منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.labeling.line/symboltetragon/symboltetragon/

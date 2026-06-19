@@ -1,7 +1,7 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.GetProjectionParameter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ProjectedSpatialReferenceSystemParameters. تحصل على معلمة الإسقاط ذات الاسم المحدد"
+description: "طريقة ProjectedSpatialReferenceSystemParameters. يحصل على معلمة الإسقاط بالاسم المحدد"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/getprojectionparameter/
@@ -26,7 +26,7 @@ public double GetProjectionParameter(string parameterName)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | اسم المعلمة فارغ. |
+| ArgumentNullException | اسم المعلمة هو null. |
 | InvalidOperationException | المعلمة بهذا الاسم غير مضبوطة. |
 
 ### انظر أيضًا

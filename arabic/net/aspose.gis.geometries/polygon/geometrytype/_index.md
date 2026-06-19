@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/polygon/geometrytype/
 ---
 ## Polygon.GeometryType property
 
-يحصل على نوع الهندسة.
+يحصل على نوع الـ geometry.
 
 ```csharp
 public override GeometryType GeometryType { get; }

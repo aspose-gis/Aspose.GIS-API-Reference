@@ -1,7 +1,7 @@
 ---
 title: "VectorLayerExtention.ReadGeometries"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayerExtention. قراءة الأشكال الهندسية فقط من الطبقة"
+description: "طريقة VectorLayerExtention. قراءة فقط للهياكل الهندسية من الطبقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools.extensions/vectorlayerextention/readgeometries/

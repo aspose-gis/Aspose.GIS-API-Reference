@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.wkt/wkttokenizer/
 public class WktTokenizer
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

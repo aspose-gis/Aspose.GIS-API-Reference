@@ -1,7 +1,7 @@
 ---
 title: "RasterRect.Width"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية RasterRect. تُرجع عدد أعمدة العرض"
+description: "خاصية RasterRect. تحصل على عدد أعمدة العرض"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.raster/rasterrect/width/

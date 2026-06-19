@@ -1,7 +1,7 @@
 ---
 title: "IndexableStreamReader.SetSplitSettings"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IndexableStreamReader طريقة."
+description: "طريقة IndexableStreamReader."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.io/indexablestreamreader/setsplitsettings/

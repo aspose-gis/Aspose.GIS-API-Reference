@@ -1,7 +1,7 @@
 ---
 title: "بنية ValuesFilterTValue"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Indexing.ValuesFilter1TValue بنية."
+description: "بنية Aspose.Gis.Indexing.ValuesFilter1TValue."
 type: docs
 weight: 3190
 url: /ar/net/aspose.gis.indexing/valuesfilter-1/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.indexing/valuesfilter-1/
 public struct ValuesFilter<TValue>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

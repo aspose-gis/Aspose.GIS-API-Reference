@@ -1,14 +1,14 @@
 ---
 title: "GeometryCollection.AddRange"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryCollection. تضيف الأشكال المحددة إلى المجموعة."
+description: "طريقة GeometryCollection. تضيف الأشكال المحددة إلى المجموعة"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/geometrycollection/addrange/
 ---
 ## GeometryCollection.AddRange method
 
-يضيف الأشكال المحددة إلى المجموعة.
+يضيف الهندسات المحددة إلى المجموعة.
 
 ```csharp
 public void AddRange(IEnumerable<IGeometry> geometries)
@@ -16,7 +16,7 @@ public void AddRange(IEnumerable<IGeometry> geometries)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| geometries | IEnumerable`1 | الأشكال المراد إضافتها. |
+| الهياكل الهندسية | IEnumerable`1 | الأشكال المراد إضافتها. |
 
 ### استثناءات
 

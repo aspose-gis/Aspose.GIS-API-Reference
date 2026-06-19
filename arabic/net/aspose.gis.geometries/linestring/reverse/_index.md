@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/linestring/reverse/
 ---
 ## LineString.Reverse method
 
-يعكس ترتيب النقاط في هذا [`LineString`](../).
+تعكس ترتيب النقاط في هذا [`LineString`](../).
 
 ```csharp
 public override void Reverse()

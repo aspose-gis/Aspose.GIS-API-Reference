@@ -1,7 +1,7 @@
 ---
 title: "الفئة MatrixDictionaryTData"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.MatrixDictionary1TData الفئة."
+description: "فئة Aspose.Gis.Common.Collections.MatrixDictionary1TData."
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.common.collections/matrixdictionary-1/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.collections/matrixdictionary-1/
 public class MatrixDictionary<TData>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MatrixDictionary](matrixdictionary/)() | المُنشئ الافتراضي. |
+| [MatrixDictionary](matrixdictionary/)() | المنشئ الافتراضي. |
 
 ## الطرق
 

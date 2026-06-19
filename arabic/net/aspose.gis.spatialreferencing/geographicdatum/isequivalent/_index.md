@@ -1,14 +1,14 @@
 ---
 title: "GeographicDatum.IsEquivalent"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeographicDatum. تحدد ما إذا كان هناك نظامان مرجعيان متكافئان. نفس إحداثيات الأنظمة المرجعية المتكافئة تتطابق مع نفس الموقع على الأرض. بعض المعلمات للأنظمة المرجعية المتكافئة يمكن أن تكون مختلفة، على سبيل المثال Name"
+description: "طريقة GeographicDatum. تحدد ما إذا كان اثنان من الأنظمة المرجعية متكافئين. نفس إحداثيات الأنظمة المتكافئة تتطابق مع نفس الموقع على الأرض. بعض معلمات الأنظمة المتكافئة يمكن أن تكون مختلفة على سبيل المثال Name"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.spatialreferencing/geographicdatum/isequivalent/
 ---
 ## IsEquivalent(GeographicDatum, GeographicDatum)
 
-تحدد ما إذا كان هناك نظامان مرجعيان متكافئان. نفس إحداثيات الأنظمة المرجعية المتكافئة تتطابق مع نفس الموقع على الأرض. بعض المعلمات للأنظمة المرجعية المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
+تحدد ما إذا كان اثنان من الأنظمة المرجعية متكافئين. نفس إحداثيات الأنظمة المتكافئة تتطابق مع نفس الموقع على الأرض. بعض معلمات الأنظمة المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
 
 ```csharp
 public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
@@ -21,7 +21,7 @@ public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
 
 ### قيمة الإرجاع
 
-قيمة من نوع bool، تشير إلى ما إذا كان هناك نظامان مرجعيان متكافئان.
+قيمة من نوع bool، تشير إلى ما إذا كان اثنان من الأنظمة المرجعية متكافئين.
 
 ### انظر أيضًا
 
@@ -33,7 +33,7 @@ public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
 
 ## IsEquivalent(GeographicDatum)
 
-تحدد ما إذا كان هناك نظامان مرجعيان متكافئان. نفس إحداثيات الأنظمة المرجعية المتكافئة تتطابق مع نفس الموقع على الأرض. بعض المعلمات للأنظمة المرجعية المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
+تحدد ما إذا كان اثنان من الأنظمة المرجعية متكافئين. نفس إحداثيات الأنظمة المتكافئة تتطابق مع نفس الموقع على الأرض. بعض معلمات الأنظمة المتكافئة يمكن أن تكون مختلفة، على سبيل المثال [`Name`](../../identifiableobject/name/).
 
 ```csharp
 public bool IsEquivalent(GeographicDatum other)
@@ -45,7 +45,7 @@ public bool IsEquivalent(GeographicDatum other)
 
 ### قيمة الإرجاع
 
-قيمة من نوع bool، تشير إلى ما إذا كان هناك نظامان مرجعيان متكافئان.
+قيمة من نوع bool، تشير إلى ما إذا كان اثنان من الأنظمة المرجعية متكافئين.
 
 ### انظر أيضًا
 

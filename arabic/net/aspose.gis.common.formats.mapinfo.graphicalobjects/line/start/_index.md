@@ -1,7 +1,7 @@
 ---
 title: "Line.Start"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Line خاصية."
+description: "خاصية Line."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/start/

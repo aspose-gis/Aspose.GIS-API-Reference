@@ -1,14 +1,14 @@
 ---
 title: "IGeometry.Touches"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IGeometry. تحدد ما إذا كانت هذه الهندسة وهندسة محددة تلامسان"
+description: "طريقة IGeometry. تحدد ما إذا كان هذا الشكل الهندسي وشكل هندسي محدد يلامسان."
 type: docs
 weight: 360
 url: /ar/net/aspose.gis.geometries/igeometry/touches/
 ---
 ## IGeometry.Touches method
 
-يحدد ما إذا كان هذا الشكل وشكل محدد يلامسان بعضهما.
+يحدد ما إذا كانت هذه الهندسة وهندسة محددة تلامسان.
 
 ```csharp
 public bool Touches(IGeometry other)
@@ -28,11 +28,11 @@ public bool Touches(IGeometry other)
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للأشكال غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الأشكال إلى نفس نظام الإسناد المكاني. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نظام إسناد مكاني موحد. |
 
 ## ملاحظات
 
-تختبر هذه الطريقة ما إذا كانت الهندسات تلامس بعضها البعض من حيث مصفوفة تقاطع DE-9IM. تلامس الهندستان بعضها إذا كان لديهما على الأقل نقطة حد مشتركة، ولكن لا نقاط داخلية. أي أن: يلامس اثنان من [`LineString`](../../linestring/) بعضهما إذا شاركا نقطة نهائية، ولكن لا يشتركان في مقطع، وتلامس مضلعان إذا شاركا جزءًا من الحلقة الخارجية أو الداخلية، ولكن لا تتداخل داخلاتهما. هذه الطريقة مكافئة لـ:
+تختبر هذه الطريقة ما إذا كانت الهندسات تلامس بعضها البعض وفقًا لمصفوفة تقاطع DE-9IM. تلامس هندستان بعضها إذا كان لديهما نقطة حد واحدة على الأقل مشتركة، ولكن لا نقاط داخلية. أي: يلامس اثنان من [`LineString`](../../linestring/) بعضهما إذا شاركا نقطة نهائية، ولكن لا يشتركان في مقطع، وتلامس مضلعان بعضهما إذا شاركا جزءًا من الحلقة الخارجية أو الداخلية، ولكن لا تتداخل داخلياتهما. هذه الطريقة مكافئة لـ:
 
 ```csharp
 this.Relate(other, "FT*******") || this.Relate(other, "F**T*****") || this.Relate(other, "F***T****");

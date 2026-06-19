@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/featuressequence/wheregreaterorequal/
 ---
 ## FeaturesSequence.WhereGreaterOrEqual&lt;T&gt; method
 
-يختار المعالم التي تكون قيمة السمة أكبر أو مساوية للقيمة المقدمة.
+يختار المعالم التي تكون قيمة الخاصية فيها أكبر أو مساوية للقيمة المقدمة.
 
 ```csharp
 public virtual FeaturesSequence WhereGreaterOrEqual<T>(string attributeName, T value)
@@ -17,8 +17,8 @@ public virtual FeaturesSequence WhereGreaterOrEqual<T>(string attributeName, T v
 | معامل | الوصف |
 | --- | --- |
 | T | نوع القيمة للمقارنة ضدها. |
-| attributeName | السمة التي يتم الترشيح بناءً عليها. |
-| قيمة | القيمة للمقارنة ضدها. |
+| attributeName | السمة المراد التصفية بناءً عليها. |
+| القيمة | القيمة للمقارنة ضدها. |
 
 ### قيمة الإرجاع
 
@@ -28,7 +28,7 @@ public virtual FeaturesSequence WhereGreaterOrEqual<T>(string attributeName, T v
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل العناصر هذا. |
+| ArgumentException | لا توجد سمة بهذا الاسم في تسلسل الكائنات هذا. |
 
 ### انظر أيضًا
 

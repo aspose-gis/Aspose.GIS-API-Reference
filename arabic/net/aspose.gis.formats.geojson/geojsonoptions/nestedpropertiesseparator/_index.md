@@ -1,7 +1,7 @@
 ---
 title: "GeoJsonOptions.NestedPropertiesSeparator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeoJsonOptions. يحصل أو يحدد سلسلة تُستخدم لفصل مكونات السمات المتداخلة. القيمة الافتراضية هي _"
+description: "خاصية GeoJsonOptions. يحصل أو يضبط سلسلة تُستخدم لفصل مكونات السمات المتداخلة. القيمة الافتراضية هي _"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/nestedpropertiesseparator/

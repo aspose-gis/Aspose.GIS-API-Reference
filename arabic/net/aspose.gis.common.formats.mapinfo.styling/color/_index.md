@@ -1,7 +1,7 @@
 ---
-title: "هيكل Color"
+title: "بنية Color"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "هيكل Aspose.Gis.Common.Formats.MapInfo.Styling.Color."
+description: "Aspose.Gis.Common.Formats.MapInfo.Styling.Color بنية."
 type: docs
 weight: 820
 url: /ar/net/aspose.gis.common.formats.mapinfo.styling/color/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.styling/color/
 public struct Color : IEquatable<Color>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

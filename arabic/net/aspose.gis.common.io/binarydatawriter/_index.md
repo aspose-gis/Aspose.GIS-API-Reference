@@ -1,7 +1,7 @@
 ---
 title: "الفئة BinaryDataWriter"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.IO.BinaryDataWriter فئة."
+description: "الفئة Aspose.Gis.Common.IO.BinaryDataWriter."
 type: docs
 weight: 1210
 url: /ar/net/aspose.gis.common.io/binarydatawriter/

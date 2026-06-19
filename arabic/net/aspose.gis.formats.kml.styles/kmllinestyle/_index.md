@@ -14,18 +14,18 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmllinestyle/
 public class KmlLineStyle : KmlAbstractColorStyle
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [KmlLineStyle](kmllinestyle/)() | المُنشئ الافتراضي. |
+| [KmlLineStyle](kmllinestyle/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | تحدد لون العنصر الرسومي. القيمة الافتراضية White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | تحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: normal. |
 | [Width](../../aspose.gis.formats.kml.styles/kmllinestyle/width/) { get; set; } | عرض الخط بالبكسل. القيمة الافتراضية هي '1'. |
 
 ### انظر أيضًا

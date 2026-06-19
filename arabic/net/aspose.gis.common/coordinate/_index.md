@@ -1,7 +1,7 @@
 ---
-title: "بنية Coordinate"
+title: "الهيكل Coordinate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "بنية Aspose.Gis.Common.Coordinate."
+description: "الهيكل Aspose.Gis.Common.Coordinate."
 type: docs
 weight: 220
 url: /ar/net/aspose.gis.common/coordinate/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/coordinate/
 public struct Coordinate : IComparable<Coordinate>, IEquatable<Coordinate>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -47,7 +47,7 @@ public struct Coordinate : IComparable<Coordinate>, IEquatable<Coordinate>
 | [operator &lt;](../../aspose.gis.common/coordinate/op_lessthan/) |  |
 | [operator &lt;=](../../aspose.gis.common/coordinate/op_lessthanorequal/) |  |
 | [operator *](../../aspose.gis.common/coordinate/op_multiply/) |  |
-| [operator -](../../aspose.gis.common/coordinate/op_subtraction/) | (2 معاملات) |
+| [operator -](../../aspose.gis.common/coordinate/op_subtraction/) | (2 عوامل) |
 
 ### انظر أيضًا
 

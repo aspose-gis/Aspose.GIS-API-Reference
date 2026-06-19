@@ -1,14 +1,14 @@
 ---
 title: "FeatureAttributeCollection.Item"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeatureAttributeCollection. تحصل أو تعيين FeatureAttribute في الفهرس المحدد"
+description: "خاصية FeatureAttributeCollection. يحصل أو يضبط الـ FeatureAttribute عند الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/featureattributecollection/item/
 ---
 ## FeatureAttributeCollection indexer (1 of 2)
 
-تحصل أو تعيين [`FeatureAttribute`](../../featureattribute/) في الفهرس المحدد.
+يحصل أو يضبط الـ [`FeatureAttribute`](../../featureattribute/) عند الفهرس المحدد.
 
 ```csharp
 public FeatureAttribute this[int index] { get; set; }
@@ -16,17 +16,17 @@ public FeatureAttribute this[int index] { get; set; }
 
 | معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس الصفري للسمة للحصول عليها أو تعيينها. |
+| فهرس | الفهرس الصفري للسمة التي يتم الحصول عليها أو ضبطها. |
 
 ### قيمة الإرجاع
 
-السمة في الفهرس المحدد.
+السمة عند الفهرس المحدد.
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | المؤشر خارج النطاق. |
+| ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 | InvalidOperationException | محاولة تعديل مجموعة مقفلة. |
 
 ### انظر أيضًا
@@ -40,7 +40,7 @@ public FeatureAttribute this[int index] { get; set; }
 
 ## FeatureAttributeCollection indexer (2 of 2)
 
-تحصل أو تعيين [`FeatureAttribute`](../../featureattribute/) بالاسم المحدد.
+يحصل أو يضبط الـ [`FeatureAttribute`](../../featureattribute/) بالاسم المحدد.
 
 ```csharp
 public FeatureAttribute this[string name] { get; }
@@ -52,7 +52,7 @@ public FeatureAttribute this[string name] { get; }
 
 ### قيمة الإرجاع
 
-السمة بالاسم المحدد، أو `null` إذا لم تُعثر عليها.
+السمة بالاسم المحدد، أو `null` إذا لم يتم العثور عليها.
 
 ### استثناءات
 

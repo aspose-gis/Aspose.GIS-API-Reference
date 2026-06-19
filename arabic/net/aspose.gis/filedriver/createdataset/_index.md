@@ -16,11 +16,11 @@ public Dataset CreateDataset(string path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى مجموعة البيانات. |
+| path | String | مسار مجموعة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على [`Dataset`](../../dataset/).
+كائن من [`Dataset`](../../dataset/).
 
 ### استثناءات
 
@@ -51,11 +51,11 @@ public Dataset CreateDataset(AbstractPath path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
+| path | AbstractPath | مسار مجموعة البيانات. |
 
 ### قيمة الإرجاع
 
-مثال على [`Dataset`](../../dataset/).
+كائن من [`Dataset`](../../dataset/).
 
 ### استثناءات
 
@@ -87,12 +87,12 @@ public Dataset CreateDataset(string path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى مجموعة البيانات. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | مسار مجموعة البيانات. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على [`Dataset`](../../dataset/).
+كائن من [`Dataset`](../../dataset/).
 
 ### استثناءات
 
@@ -125,12 +125,12 @@ public virtual Dataset CreateDataset(AbstractPath path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى مجموعة البيانات. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | مسار مجموعة البيانات. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال على [`Dataset`](../../dataset/).
+كائن من [`Dataset`](../../dataset/).
 
 ### استثناءات
 

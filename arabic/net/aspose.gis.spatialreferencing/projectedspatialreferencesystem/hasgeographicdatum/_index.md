@@ -1,14 +1,14 @@
 ---
 title: "ProjectedSpatialReferenceSystem.HasGeographicDatum"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية ProjectedSpatialReferenceSystem. تُرجع true لأن SRS المُسقطة دائمًا ما يكون لها خط الزوال الأساسي"
+description: "خاصية ProjectedSpatialReferenceSystem. تُرجع true لأن SRS المُسقطة دائمًا ما يكون لها خط طول رئيسي"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/hasgeographicdatum/
 ---
 ## ProjectedSpatialReferenceSystem.HasGeographicDatum property
 
-يرجع true، لأن SRS المُسقَّط دائمًا ما يكون له prime meridian.
+يعيد true، لأن الـ SRS المسقَّط دائمًا ما يكون له خط الزوال الأساسي.
 
 ```csharp
 public bool HasGeographicDatum { get; }

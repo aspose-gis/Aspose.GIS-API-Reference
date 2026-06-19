@@ -1,7 +1,7 @@
 ---
 title: "الفئة Region"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Region فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.Region الفئة."
 type: docs
 weight: 680
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/
 public class Region : GraphicalObject, IEquatable<Region>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Region](region/)() | المُنشئ الافتراضي. |
+| [Region](region/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

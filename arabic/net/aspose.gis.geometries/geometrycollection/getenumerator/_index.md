@@ -1,14 +1,14 @@
 ---
 title: "GeometryCollection.GetEnumerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryCollection. تُرجع عدّادًا يتنقل عبر المجموعة."
+description: "طريقة GeometryCollection. تُرجع عدّادًا يتنقل عبر المجموعة"
 type: docs
 weight: 150
 url: /ar/net/aspose.gis.geometries/geometrycollection/getenumerator/
 ---
 ## GeometryCollection.GetEnumerator method
 
-يعيد عدّادًا يتنقل عبر المجموعة.
+يرجع عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<IGeometry> GetEnumerator()

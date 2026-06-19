@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/imultilinestring/
 ---
 ## IMultiLineString interface
 
-الـ [`MultiLineString`](../multilinestring/) هو [`GeometryCollection`](../geometrycollection/) أحادي البعد تكون عناصره [`LineString`](../linestring/)s.
+الـ [`MultiLineString`](../multilinestring/) هو مجموعة هندسية أحادية البعد [`GeometryCollection`](../geometrycollection/) تكون عناصرها [`LineString`](../linestring/)s.
 
 ```csharp
 public interface IMultiLineString : IMultiCurve

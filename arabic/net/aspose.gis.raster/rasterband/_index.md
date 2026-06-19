@@ -1,24 +1,24 @@
 ---
 title: "الفئة RasterBand"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Raster.RasterBand. تحتوي على بيانات حول شريط رستر"
+description: "فئة Aspose.Gis.Raster.RasterBand. يحتوي على بيانات حول شريط Band"
 type: docs
 weight: 3800
 url: /ar/net/aspose.gis.raster/rasterband/
 ---
 ## RasterBand class
 
-يحتوي على بيانات حول شريط الراستر.
+يحتوي على بيانات حول نطاق Band.
 
 ```csharp
 public class RasterBand : IRasterBand
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [RasterBand](rasterband/)(BandTypes) | إنشاء نسخة من `RasterBand`. |
+| [RasterBand](rasterband/)(BandTypes) | أنشئ مثلاً من `RasterBand`. |
 
 ## الخصائص
 
@@ -30,7 +30,7 @@ public class RasterBand : IRasterBand
 
 | الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.gis.raster/rasterband/tostring/)() | يعيد سلسلة تمثل الكائن الحالي. |
+| override [ToString](../../aspose.gis.raster/rasterband/tostring/)() | يرجع سلسلة تمثل الكائن الحالي. |
 
 ### انظر أيضًا
 

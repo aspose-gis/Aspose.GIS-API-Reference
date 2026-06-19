@@ -1,7 +1,7 @@
 ---
 title: "بنية Column"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "البنية Aspose.Gis.Common.Formats.MapInfo.Column."
+description: "Aspose.Gis.Common.Formats.MapInfo.Column بنية."
 type: docs
 weight: 520
 url: /ar/net/aspose.gis.common.formats.mapinfo/column/

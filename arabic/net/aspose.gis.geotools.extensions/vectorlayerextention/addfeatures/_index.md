@@ -41,7 +41,7 @@ public static void AddFeatures(this VectorLayer layer, IEnumerable<IGeometry> ge
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الطبقة | VectorLayer | الطبقة لإضافتها. |
-| geometries | IEnumerable`1 | الأشكال الهندسية المدخلة. |
+| الهياكل الهندسية | IEnumerable`1 | الهياكل الهندسية للإدخال. |
 
 ### انظر أيضًا
 

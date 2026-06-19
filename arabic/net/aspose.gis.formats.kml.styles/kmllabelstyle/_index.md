@@ -14,19 +14,19 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmllabelstyle/
 public class KmlLabelStyle : KmlAbstractColorStyle
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [KmlLabelStyle](kmllabelstyle/)() | المُنشئ الافتراضي. |
+| [KmlLabelStyle](kmllabelstyle/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | يحدد لون العنصر الرسومي. القيمة الافتراضية أبيض. |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | يحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: عادي. |
-| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale/) { get; set; } | يحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي '1'. |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | تحدد لون العنصر الرسومي. القيمة الافتراضية White. |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | تحدد وضع اللون للعنصر الرسومي. القيمة الافتراضية: normal. |
+| [Scale](../../aspose.gis.formats.kml.styles/kmllabelstyle/scale/) { get; set; } | تحدد عامل مقياس يُطبق على التسمية. القيمة الافتراضية هي '1'. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "None.Instance"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "None الخاصية."
+description: "None خاصية."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/none/instance/

@@ -1,7 +1,7 @@
 ---
-title: "فئة MapLayersGenerator"
+title: "الفئة MapLayersGenerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator. مولد طبقات الخريطة"
+description: "Aspose.Gis.GeoTools.MapBuilder.MapLayersGenerator فئة. مولد طبقات الخريطة"
 type: docs
 weight: 2580
 url: /ar/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 public class MapLayersGenerator
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapLayersGenerator](maplayersgenerator/)() | المُنشئ الافتراضي. |
+| [MapLayersGenerator](maplayersgenerator/)() | المنشئ الافتراضي. |
 
 ## الطرق
 

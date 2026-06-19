@@ -1,7 +1,7 @@
 ---
 title: "MifTokenizer.LineNumber"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MifTokenizer خاصية."
+description: "خاصية MifTokenizer."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokenizer/linenumber/

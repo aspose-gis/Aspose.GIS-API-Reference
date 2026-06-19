@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/multipoint/multi
 ---
 ## MultiPoint constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public MultiPoint()

@@ -1,7 +1,7 @@
 ---
 title: "CircularArc.Equal"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CircularArc طريقة."
+description: "CircularArc method."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.common/circulararc/equal/

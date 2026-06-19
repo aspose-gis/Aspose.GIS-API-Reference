@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.layersmap/layersmapbuilder/layersmapbuilder/
 ---
 ## LayersMapBuilder constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public LayersMapBuilder()

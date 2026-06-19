@@ -1,14 +1,14 @@
 ---
 title: "ProjectedSpatialReferenceSystemParameters.ProjectedSpatialReferenceSystemParameters"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ ProjectedSpatialReferenceSystemParameters. ينشئ مثلاً جديداً"
+description: "منشئ ProjectedSpatialReferenceSystemParameters. ينشئ مثيلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectedspatialreferencesystemparameters/
 ---
 ## ProjectedSpatialReferenceSystemParameters constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public ProjectedSpatialReferenceSystemParameters()

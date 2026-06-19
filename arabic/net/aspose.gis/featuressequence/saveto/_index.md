@@ -1,7 +1,7 @@
 ---
 title: "FeaturesSequence.SaveTo"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FeaturesSequence. تحفظ تسلسل العناصر إلى الطبقة"
+description: "طريقة FeaturesSequence. تحفظ تسلسل الكائنات إلى الطبقة."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/featuressequence/saveto/
@@ -16,17 +16,17 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| destinationPath | String | المسار إلى طبقة الإخراج. |
-| destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
+| destinationPath | String | المسار إلى الطبقة الناتجة. |
+| destinationDriver | FileDriver | برنامج تشغيل الصيغة للطبقة الناتجة. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | أي وسيط هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المميزات من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
 ### انظر أيضًا
 
@@ -47,16 +47,16 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| destinationPath | AbstractPath | المسار إلى طبقة الإخراج. |
-| destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
+| destinationPath | AbstractPath | المسار إلى الطبقة الناتجة. |
+| destinationDriver | FileDriver | برنامج تشغيل الصيغة للطبقة الناتجة. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المميزات من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 
 ### انظر أيضًا
 
@@ -78,17 +78,17 @@ public void SaveTo(string destinationPath, FileDriver destinationDriver, SavingO
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| destinationPath | String | المسار إلى طبقة الإخراج. |
-| destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
-| الخيارات | SavingOptions | خيارات عملية الحفظ. |
+| destinationPath | String | المسار إلى الطبقة الناتجة. |
+| destinationDriver | FileDriver | برنامج تشغيل الصيغة للطبقة الناتجة. |
+| options | SavingOptions | خيارات عملية الحفظ. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المميزات من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 | NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
 
 ### انظر أيضًا
@@ -112,17 +112,17 @@ public void SaveTo(AbstractPath destinationPath, FileDriver destinationDriver,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| destinationPath | AbstractPath | المسار إلى طبقة الإخراج. |
-| destinationDriver | FileDriver | برنامج تشغيل التنسيق لطبقة الإخراج. |
-| الخيارات | SavingOptions | خيارات عملية الحفظ. |
+| destinationPath | AbstractPath | المسار إلى الطبقة الناتجة. |
+| destinationDriver | FileDriver | برنامج تشغيل الصيغة للطبقة الناتجة. |
+| options | SavingOptions | خيارات عملية الحفظ. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
-| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة العنصر من/إلى الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة أو كتابة الميزة من/إلى الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
-| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة العناصر من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
+| [TransformationException](../../../aspose.gis.spatialreferencing/transformationexception/) | فشل تحويل هندسة المميزات من نظام الإحداثيات المكانية المصدر إلى نظام الإحداثيات المكانية الهدف. |
 | NotSupportedException | نظام الإحداثيات المكانية المحدد في *options* غير مدعوم من قبل *destinationDriver*. |
 
 ### انظر أيضًا

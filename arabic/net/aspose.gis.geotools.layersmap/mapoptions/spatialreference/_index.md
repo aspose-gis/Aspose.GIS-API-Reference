@@ -1,14 +1,14 @@
 ---
 title: "MapOptions.SpatialReference"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "حقل MapOptions. إشارة الفضاء. الافتراضي هو Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator"
+description: "حقل MapOptions. المرجع المكاني. القيمة الافتراضية هي Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.geotools.layersmap/mapoptions/spatialreference/
 ---
 ## MapOptions.SpatialReference field
 
-الإشارة المكانية. القيمة الافتراضية هي Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator.
+المرجع المكاني. القيمة الافتراضية هي Aspose.Gis.SpatialReferencing.SpatialReferenceSystem.WebMercator.
 
 ```csharp
 public SpatialReferenceSystem SpatialReference;

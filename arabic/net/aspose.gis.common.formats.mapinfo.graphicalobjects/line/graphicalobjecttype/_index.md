@@ -1,7 +1,7 @@
 ---
 title: "Line.GraphicalObjectType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Line خاصية."
+description: "خاصية Line."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/graphicalobjecttype/

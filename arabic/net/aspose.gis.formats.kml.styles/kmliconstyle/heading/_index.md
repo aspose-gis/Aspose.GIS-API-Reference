@@ -1,7 +1,7 @@
 ---
 title: "KmlIconStyle.Heading"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlIconStyle. الاتجاه شمال جنوب شرق غرب بالدرجات العشرية. القيم تتراوح من 0 شمال إلى 360 درجة. القيمة الافتراضية هي 0"
+description: "خاصية KmlIconStyle. الاتجاه شمال جنوب شرق غرب بالدرجات العشرية. القيم تتراوح من 0 شمالًا إلى 360 درجة. القيمة الافتراضية هي 0"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.kml.styles/kmliconstyle/heading/

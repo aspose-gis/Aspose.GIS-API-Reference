@@ -1,14 +1,14 @@
 ---
-title: "الفئة TopoJsonDriver"
+title: "Class TopoJsonDriver"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Formats.TopoJson.TopoJsonDriver. برنامج تشغيل لتنسيق TopoJSON"
+description: "فئة Aspose.Gis.Formats.TopoJson.TopoJsonDriver. محرك لتنسيق TopoJSON"
 type: docs
 weight: 2360
 url: /ar/net/aspose.gis.formats.topojson/topojsondriver/
 ---
 ## TopoJsonDriver class
 
-محرك لتنسيق TopoJSON.
+برنامج تشغيل لتنسيق TopoJSON.
 
 ```csharp
 public class TopoJsonDriver : FileDriver
@@ -18,10 +18,10 @@ public class TopoJsonDriver : FileDriver
 
 | الاسم | الوصف |
 | --- | --- |
-| override [CanCreateDatasets](../../aspose.gis.formats.topojson/topojsondriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء مجموعات البيانات. |
-| override [CanCreateLayers](../../aspose.gis.formats.topojson/topojsondriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة. |
-| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات. |
-| override [CanOpenLayers](../../aspose.gis.formats.topojson/topojsondriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح طبقات متجهة. |
+| override [CanCreateDatasets](../../aspose.gis.formats.topojson/topojsondriver/cancreatedatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء مجموعات البيانات. |
+| override [CanCreateLayers](../../aspose.gis.formats.topojson/topojsondriver/cancreatelayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء طبقات متجهية. |
+| virtual [CanOpenDatasets](../../aspose.gis/filedriver/canopendatasets/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح مجموعات البيانات. |
+| override [CanOpenLayers](../../aspose.gis.formats.topojson/topojsondriver/canopenlayers/) { get; } | يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح طبقات متجهية. |
 
 ## الطرق
 
@@ -54,7 +54,7 @@ public class TopoJsonDriver : FileDriver
 | [OpenLayer](../../aspose.gis.formats.topojson/topojsondriver/openlayer/#openlayer_2)(AbstractPath, TopoJsonOptions) | يفتح طبقة للقراءة. |
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | يفتح الطبقة للقراءة. |
 | [OpenLayer](../../aspose.gis.formats.topojson/topojsondriver/openlayer/#openlayer_5)(string, TopoJsonOptions) | يفتح طبقة للقراءة. |
-| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.topojson/topojsondriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل برنامج التشغيل. |
+| override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.topojson/topojsondriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | يحدد ما إذا كان نظام الإحداثيات المكانية المحدد مدعومًا من قبل البرنامج تشغيل. |
 
 ### انظر أيضًا
 

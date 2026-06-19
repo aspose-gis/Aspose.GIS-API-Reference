@@ -1,7 +1,7 @@
 ---
 title: "FileGdbOptions.CoordinatePrecisionGrid"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FileGdbOptions. شبكة دقة إحداثيات للاستخدام في طبقة جديدة."
+description: "خاصية FileGdbOptions. شبكة دقة إحداثيات لاستخدامها في الطبقة الجديدة."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/coordinateprecisiongrid/

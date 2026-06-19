@@ -1,14 +1,14 @@
 ---
 title: "Geometry.AsImage"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Geometry. تصدير هذه الهندسة إلى تمثيل صورة"
+description: "طريقة Geometry. صدّر هذا الشكل الهندسي إلى تمثيل صورة"
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.geometries/geometry/asimage/
 ---
 ## AsImage(AbstractPath, Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage_1}
 
-يصدّر هذه الهندسة إلى تمثيل صورة.
+يصدّر هذه الـ geometry إلى تمثيل صورة.
 
 ```csharp
 public void AsImage(AbstractPath outputPath, Measurement width, Measurement height, 
@@ -20,8 +20,8 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 | outputPath | AbstractPath | المسار إلى صورة الإخراج. |
 | العرض | القياس | عرض الخريطة. |
 | الارتفاع | القياس | ارتفاع الخريطة. |
-| renderer | Renderer | المُعالج المستخدم. |
-| symbolizer | VectorSymbolizer | رمز لتحديد الشكل يُستخدم في التصيير. إذا كان `null`، يُستخدم رمز التحديد الافتراضي. |
+| renderer | Renderer | Renderer للاستخدام. |
+| symbolizer | VectorSymbolizer | symbolizer للاستخدام في العرض. إذا كان `null`، يُستخدم symbolizer الافتراضي. |
 
 ### استثناءات
 
@@ -47,7 +47,7 @@ public void AsImage(AbstractPath outputPath, Measurement width, Measurement heig
 
 ## AsImage(string, Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage_2}
 
-يصدّر هذه الهندسة إلى تمثيل صورة.
+يصدّر هذه الـ geometry إلى تمثيل صورة.
 
 ```csharp
 public void AsImage(string outputPath, Measurement width, Measurement height, Renderer renderer, 
@@ -59,8 +59,8 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 | outputPath | String | المسار إلى صورة الإخراج. |
 | العرض | القياس | عرض الخريطة. |
 | الارتفاع | القياس | ارتفاع الخريطة. |
-| renderer | Renderer | المُعالج المستخدم. |
-| symbolizer | VectorSymbolizer | رمز لتحديد الشكل يُستخدم في التصيير. إذا كان `null`، يُستخدم رمز التحديد الافتراضي. |
+| renderer | Renderer | Renderer للاستخدام. |
+| symbolizer | VectorSymbolizer | symbolizer للاستخدام في العرض. إذا كان `null`، يُستخدم symbolizer الافتراضي. |
 
 ### استثناءات
 
@@ -85,7 +85,7 @@ public void AsImage(string outputPath, Measurement width, Measurement height, Re
 
 ## AsImage(Measurement, Measurement, Renderer, VectorSymbolizer) {#asimage}
 
-يصدّر هذه الهندسة إلى تمثيل صورة.
+يصدّر هذه الـ geometry إلى تمثيل صورة.
 
 ```csharp
 public Stream AsImage(Measurement width, Measurement height, Renderer renderer, 
@@ -96,8 +96,8 @@ public Stream AsImage(Measurement width, Measurement height, Renderer renderer,
 | --- | --- | --- |
 | العرض | القياس | عرض الخريطة. |
 | الارتفاع | القياس | ارتفاع الخريطة. |
-| renderer | Renderer | المُعالج المستخدم. |
-| symbolizer | VectorSymbolizer | رمز لتحديد الشكل يُستخدم في التصيير. إذا كان `null`، يُستخدم رمز التحديد الافتراضي. |
+| renderer | Renderer | Renderer للاستخدام. |
+| symbolizer | VectorSymbolizer | symbolizer للاستخدام في العرض. إذا كان `null`، يُستخدم symbolizer الافتراضي. |
 
 ### قيمة الإرجاع
 

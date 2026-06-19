@@ -1,7 +1,7 @@
 ---
 title: "الفئة JoiningReadOnlyListT"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Collections.JoiningReadOnlyList1T الفئة."
+description: "فئة Aspose.Gis.Common.Collections.JoiningReadOnlyList1T."
 type: docs
 weight: 160
 url: /ar/net/aspose.gis.common.collections/joiningreadonlylist-1/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.collections/joiningreadonlylist-1/
 public class JoiningReadOnlyList<T> : IReadOnlyList<T>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

@@ -20,7 +20,7 @@ public IGeometry Difference(IGeometry other)
 
 ### قيمة الإرجاع
 
-شكل هندسي يمثل الفرق بين هذا الشكل الهندسي ومعامل. يحتوي الشكل الهندسي الناتج على مجموعة نقاط موجودة في هذا الشكل الهندسي ولكن غير موجودة في المعامل.
+شكل هندسي يمثل الفرق بين هذا الشكل الهندسي ومعامل. يحتوي الشكل الناتج على مجموعة نقاط موجودة في هذا الشكل الهندسي ولكن غير موجودة في المعامل.
 
 ### استثناءات
 
@@ -28,7 +28,7 @@ public IGeometry Difference(IGeometry other)
 | --- | --- |
 | ArgumentNullException | *other* هو `null`. |
 | ArgumentException | إحدى الهندسات غير صالحة بطريقة تجعل العملية لا يمكن إكمالها. |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) الخاص بالهندسات غير متكافئ. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإشارة المكانية. |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) للهندسات غير متكافئة. يمكنك استخدام [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) لتحويل الهندسات إلى نفس نظام الإسناد المكاني. |
 
 ### انظر أيضًا
 

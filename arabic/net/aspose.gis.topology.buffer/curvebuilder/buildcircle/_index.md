@@ -1,7 +1,7 @@
 ---
 title: "CurveBuilder.BuildCircle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CurveBuilder طريقة."
+description: "طريقة CurveBuilder."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.topology.buffer/curvebuilder/buildcircle/

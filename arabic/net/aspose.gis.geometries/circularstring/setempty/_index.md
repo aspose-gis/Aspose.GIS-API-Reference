@@ -1,14 +1,14 @@
 ---
 title: "CircularString.SetEmpty"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CircularString. تجعل هذا الشكل الهندسي فارغًا"
+description: "طريقة CircularString. تجعل هذه الهندسة فارغة"
 type: docs
 weight: 180
 url: /ar/net/aspose.gis.geometries/circularstring/setempty/
 ---
 ## CircularString.SetEmpty method
 
-يجعل هذا الـ[`Geometry`](../../geometry/) فارغًا.
+يجعل هذا [`Geometry`](../../geometry/) فارغًا.
 
 ```csharp
 public override void SetEmpty()

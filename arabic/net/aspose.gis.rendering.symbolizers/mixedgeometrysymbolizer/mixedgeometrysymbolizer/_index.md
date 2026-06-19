@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/mixedgeome
 ---
 ## MixedGeometrySymbolizer constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public MixedGeometrySymbolizer()

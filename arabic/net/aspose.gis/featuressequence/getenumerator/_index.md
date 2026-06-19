@@ -1,14 +1,14 @@
 ---
 title: "FeaturesSequence.GetEnumerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FeaturesSequence. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
+description: "طريقة FeaturesSequence. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis/featuressequence/getenumerator/
 ---
 ## FeaturesSequence.GetEnumerator method
 
-يعيد عدّادًا يتنقل عبر المجموعة.
+يرجع عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public abstract IEnumerator<Feature> GetEnumerator()
@@ -22,7 +22,7 @@ public abstract IEnumerator<Feature> GetEnumerator()
 
 | استثناء | شرط |
 | --- | --- |
-| InvalidOperationException | يُرمى إذا لم تكن العملية مدعومة من قبل الطبقة. |
+| InvalidOperationException | يتم إلقاؤه إذا لم تكن العملية مدعومة من قبل الطبقة. |
 
 ### انظر أيضًا
 

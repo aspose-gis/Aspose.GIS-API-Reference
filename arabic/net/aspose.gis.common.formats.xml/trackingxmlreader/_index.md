@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.xml/trackingxmlreader/
 public class TrackingXmlReader : XmlReader, IXmlLineInfo
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

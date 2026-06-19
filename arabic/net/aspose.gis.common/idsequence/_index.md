@@ -1,5 +1,5 @@
 ---
-title: "فئة IdSequence"
+title: "الفئة IdSequence"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Common.IdSequence."
 type: docs
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/idsequence/
 public class IdSequence
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

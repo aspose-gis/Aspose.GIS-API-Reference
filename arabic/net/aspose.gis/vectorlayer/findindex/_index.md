@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.FindIndex"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. البحث عن فهرس Feature وفقًا للشرط"
+description: "طريقة VectorLayer. البحث عن فهرس ميزة وفقًا للشرط"
 type: docs
 weight: 140
 url: /ar/net/aspose.gis/vectorlayer/findindex/
@@ -26,7 +26,7 @@ public virtual int FindIndex(Func<Feature, bool> match)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | إذا كانت دالة الشرط فارغة. |
+| ArgumentNullException | إذا كانت الدالة الشرطية فارغة. |
 
 ### انظر أيضًا
 

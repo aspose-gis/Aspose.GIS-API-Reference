@@ -1,7 +1,7 @@
 ---
-title: "الفئة PaintEngineState"
+title: "فئة PaintEngineState"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.PaintEngineState الفئة."
+description: "Aspose.Gis.Painting.PaintEngineState فئة."
 type: docs
 weight: 3480
 url: /ar/net/aspose.gis.painting/paintenginestate/
@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.painting/paintenginestate/
 public class PaintEngineState
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [PaintEngineState](paintenginestate/)() | المُنشئ الافتراضي. |
+| [PaintEngineState](paintenginestate/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

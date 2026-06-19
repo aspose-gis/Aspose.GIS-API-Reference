@@ -1,7 +1,7 @@
 ---
-title: "فئة MifReader"
+title: "الفئة MifReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifReader."
+description: "الفئة Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifReader."
 type: docs
 weight: 750
 url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreader/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreader/
 public class MifReader : IGraphcialObjectsFile
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

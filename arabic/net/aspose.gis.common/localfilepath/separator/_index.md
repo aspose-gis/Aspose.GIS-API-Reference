@@ -1,7 +1,7 @@
 ---
 title: "LocalFilePath.Separator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LocalFilePath."
+description: "LocalFilePath خاصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common/localfilepath/separator/

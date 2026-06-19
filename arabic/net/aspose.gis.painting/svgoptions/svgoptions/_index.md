@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.painting/svgoptions/svgoptions/
 ---
 ## SvgOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public SvgOptions()

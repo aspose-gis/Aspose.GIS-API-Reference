@@ -1,5 +1,5 @@
 ---
-title: "DBase.اكتب_عدد_صحيح_ثنائي"
+title: "DBase.WriteBinaryInteger"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة DBase."
 type: docs

@@ -1,14 +1,14 @@
 ---
 title: "FeatureAttributeCollection.GetEnumerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FeatureAttributeCollection. تُرجع مُعدِّدًا يتنقل عبر المجموعة"
+description: "طريقة FeatureAttributeCollection. تُرجع عدّادًا يتنقل عبر المجموعة"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis/featureattributecollection/getenumerator/
 ---
 ## FeatureAttributeCollection.GetEnumerator method
 
-يعيد عدّادًا يتنقل عبر المجموعة.
+يرجع عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<FeatureAttribute> GetEnumerator()

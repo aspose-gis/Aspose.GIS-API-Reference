@@ -1,7 +1,7 @@
 ---
 title: "MultiDictionary2.ContainsKey"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MultiDictionary طريقة."
+description: "طريقة MultiDictionary."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.common.collections/multidictionary-2/containskey/

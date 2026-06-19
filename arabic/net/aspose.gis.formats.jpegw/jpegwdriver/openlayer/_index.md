@@ -1,7 +1,7 @@
 ---
 title: "JpegWDriver.OpenLayer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة JpegWDriver. يفتح الطبقة للقراءة"
+description: "JpegWDriver طريقة. يفتح الطبقة للقراءة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.jpegw/jpegwdriver/openlayer/
@@ -16,12 +16,12 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | RasterDriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | RasterDriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
+مثيل لـ [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/).
 
 ### انظر أيضًا
 

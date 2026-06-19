@@ -1,14 +1,14 @@
 ---
 title: "LineLabelPlacement.LineLabelPlacement"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ LineLabelPlacement. ينشئ مثيلاً جديدًا"
+description: "منشئ LineLabelPlacement. ينشئ مثيلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.rendering.labelings/linelabelplacement/linelabelplacement/
 ---
 ## LineLabelPlacement() {#constructor}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public LineLabelPlacement()
@@ -24,7 +24,7 @@ public LineLabelPlacement()
 
 ## LineLabelPlacement(LineLabelPlacement) {#constructor_1}
 
-ينشئ مثيلًا جديدًا.
+ينشئ نسخة جديدة.
 
 ```csharp
 public LineLabelPlacement(LineLabelPlacement other)

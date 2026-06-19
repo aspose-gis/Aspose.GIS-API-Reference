@@ -1,7 +1,7 @@
 ---
 title: "MultiPolygon.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة MultiPolygon. تسترجع نسخة قابلة للتحرير من هذه الهندسة"
+description: "طريقة MultiPolygon. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geometries/multipolygon/toeditable/
@@ -16,7 +16,7 @@ public MultiPolygon ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

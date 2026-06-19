@@ -1,7 +1,7 @@
 ---
 title: "FileGdbCoordinatePrecisionGrid.CreateFromRectangle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FileGdbCoordinatePrecisionGrid. تنشئ FileGdbCoordinatePrecisionGrid جديد بحيث تكون جميع القيم داخل مستطيل قابلة للتمثيل."
+description: "طريقة FileGdbCoordinatePrecisionGrid. تنشئ FileGdbCoordinatePrecisionGrid جديد بحيث تكون جميع القيم داخل المستطيل قابلة للتمثيل."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/createfromrectangle/
@@ -28,7 +28,7 @@ public static FileGdbCoordinatePrecisionGrid CreateFromRectangle(IPoint p1, IPoi
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | *p1* و *p2* لا يشكلان مستطيلًا صالحًا غير فارغ: *p1* أو *p2* فارغ. علم 'HasZ' في *p1* لا يساوي علم 'HasZ' في *p2*، وعلم 'HasM' في *p1* لا يساوي علم 'HasM' في *p2*، وإحداثي 'X' في *p1* يساوي إحداثي 'X' في *p2*، وإحداثي 'Y' في *p1* يساوي إحداثي 'Y' في *p2*، وإحداثي 'Z' في *p1* يساوي إحداثي 'Z' في *p2*، وإحداثي 'M' في *p1* يساوي إحداثي 'M' في *p2*. أي إحداثي هو NaN أو لا نهائي. |
+| ArgumentException | *p1* و *p2* لا يشكلان مستطيلًا صالحًا غير فارغ: *p1* أو *p2* فارغ. علم 'HasZ' لـ *p1* لا يساوي علم 'HasZ' لـ *p2*، علم 'HasM' لـ *p1* لا يساوي علم 'HasM' لـ *p2*، إحداثي 'X' لـ *p1* يساوي إحداثي 'X' لـ *p2*، إحداثي 'Y' لـ *p1* يساوي إحداثي 'Y' لـ *p2*، إحداثي 'Z' لـ *p1* يساوي إحداثي 'Z' لـ *p2*، إحداثي 'M' لـ *p1* يساوي إحداثي 'M' لـ *p2*. أي إحداثي هو NaN أو لا نهائي. |
 
 ### انظر أيضًا
 

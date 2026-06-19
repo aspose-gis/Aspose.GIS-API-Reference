@@ -1,7 +1,7 @@
 ---
 title: "PaintLayerOptions.CrispEdges"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PaintLayerOptions خاصية."
+description: "خاصية PaintLayerOptions."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.painting/paintlayeroptions/crispedges/

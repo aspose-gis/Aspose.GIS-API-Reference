@@ -1,7 +1,7 @@
 ---
 title: "TopologyGeometry.Buffer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة TopologyGeometry."
+description: "TopologyGeometry طريقة."
 type: docs
 weight: 100
 url: /ar/net/aspose.gis.topology/topologygeometry/buffer/

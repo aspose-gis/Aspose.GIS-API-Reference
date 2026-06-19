@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.painting/paintengineoptions/paintengineoptions/
 ---
 ## PaintEngineOptions constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public PaintEngineOptions()

@@ -1,7 +1,7 @@
 ---
 title: "VectorMapLayer.FeaturesSequence"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية VectorMapLayer. تسلسل الميزات الممثلة بواسطة هذا VectorMapLayer."
+description: "خاصية VectorMapLayer. تسلسل الميزات الممثل بواسطة هذا VectorMapLayer"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering/vectormaplayer/featuressequence/

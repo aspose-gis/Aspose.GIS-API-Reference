@@ -1,7 +1,7 @@
 ---
 title: "فئة DatabaseQueryDataSourceBuilder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.Database.DatabaseQueryDataSourceBuilder فئة. توفر القدرة على تكوين استعلام إلى قاعدة البيانات لاستخراج المعلومات الجغرافية المكانية"
+description: "فئة Aspose.Gis.Formats.Database.DatabaseQueryDataSourceBuilder. توفر القدرة على تكوين استعلام إلى قاعدة البيانات لاستخراج المعلومات الجغرافية المكانية"
 type: docs
 weight: 1750
 url: /ar/net/aspose.gis.formats.database/databasequerydatasourcebuilder/

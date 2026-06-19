@@ -1,14 +1,14 @@
 ---
 title: "DatabaseExternalSrsSettingsBuilder.EndExternalSrs"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة DatabaseExternalSrsSettingsBuilder. أكمل تكوين نظام الإحداثيات المكاني الخارجي وأعد السياق الأصلي."
+description: "طريقة DatabaseExternalSrsSettingsBuilder. أكمل تكوين الـ srs الخارجي وأعد السياق الأب."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.formats.database/databaseexternalsrssettingsbuilder/endexternalsrs/
 ---
 ## DatabaseExternalSrsSettingsBuilder.EndExternalSrs method
 
-أكمل تكوين srs الخارجي وأعد السياق الأصلي.
+أكمل تكوين نظام الإسناد المكاني الخارجي وأعد السياق الأصلي.
 
 ```csharp
 public DatabaseQueryDataSourceBuilder EndExternalSrs()

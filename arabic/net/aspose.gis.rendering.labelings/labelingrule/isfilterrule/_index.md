@@ -1,7 +1,7 @@
 ---
 title: "LabelingRule.IsFilterRule"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية LabelingRule. يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة قاعدة تصفية"
+description: "خاصية LabelingRule. يحصل على قيمة تشير إلى ما إذا كانت هذه القاعدة هي filterrule"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.rendering.labelings/labelingrule/isfilterrule/

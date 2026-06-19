@@ -1,7 +1,7 @@
 ---
 title: "ProjectionParameterValueEntry.ProjectionParameterValueEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "ProjectionParameterValueEntry منشئ."
+description: "ProjectionParameterValueEntry مُنشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.epsg/projectionparametervalueentry/projectionparametervalueentry/

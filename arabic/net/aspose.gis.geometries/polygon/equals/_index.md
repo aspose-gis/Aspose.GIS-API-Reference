@@ -1,7 +1,7 @@
 ---
 title: "Polygon.Equals"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Polygon. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي"
+description: "طريقة Polygon. تحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/polygon/equals/
@@ -20,7 +20,7 @@ public bool Equals(ICurvePolygon other)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
+صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -45,7 +45,7 @@ public bool Equals(IPolygon other)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
+صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -70,7 +70,7 @@ public override bool Equals(object obj)
 
 ### قيمة الإرجاع
 
-true إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا false.
+صحيح إذا كان الكائن المحدد يساوي الكائن الحالي؛ وإلا، خطأ.
 
 ### انظر أيضًا
 

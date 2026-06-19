@@ -24,7 +24,7 @@ public virtual AbstractPath WithExtension(string newExtension)
 
 ## ملاحظات
 
-عادةً، لا ينبغي للمُورِّث تجاوز هذه الطريقة. التنفيذ الافتراضي يستبدل الامتداد ويستدعي [`WithLocation`](../withlocation/).
+عادةً، لا ينبغي للوريث تجاوز هذه الطريقة. التنفيذ الافتراضي يستبدل الامتداد ويستدعي [`WithLocation`](../withlocation/).
 
 ### انظر أيضًا
 

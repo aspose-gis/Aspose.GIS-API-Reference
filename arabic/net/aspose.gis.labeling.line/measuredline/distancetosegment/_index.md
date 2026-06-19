@@ -1,7 +1,7 @@
 ---
 title: "MeasuredLine.DistanceToSegment"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MeasuredLine خاصية"
+description: "خاصية MeasuredLine."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.labeling.line/measuredline/distancetosegment/

@@ -1,7 +1,7 @@
 ---
 title: "Tetragon.C0"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Tetragon."
+description: "Tetragon خاصية."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.labeling/tetragon/c0/

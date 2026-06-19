@@ -1,7 +1,7 @@
 ---
 title: "KmlDriver.OpenLayer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة KmlDriver. تفتح طبقة للقراءة"
+description: "طريقة KmlDriver. يفتح طبقة للقراءة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.kml/kmldriver/openlayer/
@@ -16,12 +16,12 @@ public VectorLayer OpenLayer(string path, KmlOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | KmlOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | KmlOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 
@@ -43,12 +43,12 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 
@@ -71,12 +71,12 @@ public VectorLayer OpenLayer(AbstractPath path, KmlOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | KmlOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | KmlOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 

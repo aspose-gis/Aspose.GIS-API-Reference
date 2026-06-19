@@ -1,7 +1,7 @@
 ---
 title: "LocalSpatialReferenceSystem.IsEquivalent"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة LocalSpatialReferenceSystem. تتحقق مما إذا كان نظام الإحداثيات هذا مكافئًا لنظام إحداثيات آخر."
+description: "طريقة LocalSpatialReferenceSystem. تُحدد ما إذا كان هذا SRS مكافئًا لـ SRS آخر."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.spatialreferencing/localspatialreferencesystem/isequivalent/
@@ -20,7 +20,7 @@ public override bool IsEquivalent(SpatialReferenceSystem other)
 
 ### قيمة الإرجاع
 
-قيمة bool، تُشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
+قيمة من نوع bool، تشير إلى ما إذا كان هذا SRS مكافئًا لـ SRS آخر.
 
 ### انظر أيضًا
 

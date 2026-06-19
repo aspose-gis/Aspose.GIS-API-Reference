@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometry/coordinatedimension/
 ---
 ## Geometry.CoordinateDimension property
 
-تحصل على عدد أبعاد الإحداثيات لهذه [`Geometry`](../).
+يحصل على عدد أبعاد الإحداثيات لهذه [`Geometry`](../).
 
 ```csharp
 public int CoordinateDimension { get; }

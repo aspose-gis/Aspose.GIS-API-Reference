@@ -1,14 +1,14 @@
 ---
 title: "Geometry.FromBinary"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Geometry. تنشئ شكلًا هندسيًا من تمثيله WellKnown Binary"
+description: "طريقة Geometry. تنشئ شكلًا هندسيًا من تمثيله الثنائي المعروف"
 type: docs
 weight: 470
 url: /ar/net/aspose.gis.geometries/geometry/frombinary/
 ---
 ## FromBinary(byte[]) {#frombinary}
 
-ينشئ شكلاً هندسياً من تمثيله الثنائي المعروف (Well-Known Binary).
+ينشئ شكلًا هندسيًا من تمثيله الثنائي المعروف (Well-Known Binary).
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb)
@@ -27,8 +27,8 @@ public static IGeometry FromBinary(byte[] wkb)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المعطى فارغ. |
-| NotSupportedException | المعطى يمثل شكلًا هندسيًا من نوع غير مدعوم. |
-| FormatException | المعامل ليس Well-Known Binary صالحًا. |
+| NotSupportedException | المعطى يمثل شكلاً هندسيًا من نوع غير مدعوم. |
+| FormatException | المعامل غير صالح كـ Well-Known Binary. |
 
 ### انظر أيضًا
 
@@ -41,7 +41,7 @@ public static IGeometry FromBinary(byte[] wkb)
 
 ## FromBinary(byte[], SpatialReferenceSystem) {#frombinary_1}
 
-ينشئ شكلاً هندسياً من تمثيله الثنائي المعروف (Well-Known Binary).
+ينشئ شكلًا هندسيًا من تمثيله الثنائي المعروف (Well-Known Binary).
 
 ```csharp
 public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialReferenceSystem)
@@ -50,7 +50,7 @@ public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialRef
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | wkb | Byte[] | تمثيل Well-Known Binary لشكل هندسي. |
-| spatialReferenceSystem | SpatialReferenceSystem | Spatial Reference System لتعيينه إلى الشكل الهندسي. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المكانية لتعيينه إلى الشكل الهندسي. |
 
 ### قيمة الإرجاع
 
@@ -61,12 +61,12 @@ public static IGeometry FromBinary(byte[] wkb, SpatialReferenceSystem spatialRef
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المعطى فارغ. |
-| NotSupportedException | المعطى يمثل شكلًا هندسيًا من نوع غير مدعوم. |
-| FormatException | المعامل ليس Well-Known Binary صالحًا. |
+| NotSupportedException | المعطى يمثل شكلاً هندسيًا من نوع غير مدعوم. |
+| FormatException | المعامل غير صالح كـ Well-Known Binary. |
 
 ## ملاحظات
 
-إذا كان هناك بايتات إضافية بعد الشكل الهندسي، يتم إلقاء استثناء FormatException.
+إذا كان هناك بايتات إضافية بعد الشكل الهندسي، يتم رمي استثناء FormatException.
 
 ### انظر أيضًا
 

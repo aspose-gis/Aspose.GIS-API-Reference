@@ -1,14 +1,14 @@
 ---
 title: "الواجهة IPolygon"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Geometries.IPolygon. IPolygon التي تُحدَّد حدودها بخطوط حلقية."
+description: "واجهة Aspose.Gis.Geometries.IPolygon. IPolygon التي تُحدَّد حدودها بواسطة حلقات خطية"
 type: docs
 weight: 2880
 url: /ar/net/aspose.gis.geometries/ipolygon/
 ---
 ## IPolygon interface
 
-`IPolygon` التي تُحدَّد حدودها بخطوط حلقية.
+`IPolygon` التي تُحدَّد حدودها بواسطة حلقات خطية.
 
 ```csharp
 public interface IPolygon : ICurvePolygon, IEquatable<IPolygon>

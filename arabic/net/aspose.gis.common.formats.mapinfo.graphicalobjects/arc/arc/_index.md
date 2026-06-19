@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/arc/
 ---
 ## Arc constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public Arc()

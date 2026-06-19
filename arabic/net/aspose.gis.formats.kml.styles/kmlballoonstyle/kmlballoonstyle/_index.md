@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlballoonstyle/kmlballoonstyle/
 ---
 ## KmlBalloonStyle constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public KmlBalloonStyle()

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/isurface/getpointonsurface/
 ---
 ## ISurface.GetPointOnSurface method
 
-يجد نقطة مضمونة أن تكون على هذا السطح.
+يجد نقطة مضمونة وجودها على هذا السطح.
 
 ```csharp
 public IPoint GetPointOnSurface()

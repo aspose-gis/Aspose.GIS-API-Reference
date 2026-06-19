@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.csv/csvoptions/columnz/
 ---
 ## CsvOptions.ColumnZ property
 
-يحصل أو يعيّن اسم العمود الذي يحتوي على قيمة إحداثي Z. القيمة الافتراضية هي `null`.
+يحصل أو يضبط اسم العمود الذي يحتوي على قيمة إحداثي Z. القيمة الافتراضية هي `null`.
 
 ```csharp
 public string ColumnZ { get; set; }
@@ -16,7 +16,7 @@ public string ColumnZ { get; set; }
 
 ## ملاحظات
 
-إذا كانت قيمة العمود `null` أو `empty string` فسيتم استبعادها من الهندسة.
+إذا كانت قيمة العمود `null` أو `empty string` فستُستبعد من الهندسة.
 
 ### انظر أيضًا
 

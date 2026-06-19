@@ -1,7 +1,7 @@
 ---
 title: "GeoGenerator.ProducePoints"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeoGenerator. تنشئ مصفوفة من النقاط التابعة للمنطقة المحددة"
+description: "طريقة GeoGenerator. تنشئ مصفوفة من النقاط تنتمي إلى المنطقة المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.geotools/geogenerator/producepoints/
@@ -27,8 +27,8 @@ public static IEnumerable<IGeometry> ProducePoints(Extent rect, PointGeneratorOp
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | يجب أن يكون عدد النقاط أكبر من واحد |
-| NullReferenceException | يجب أن يكون للنطاق قيمة (لا يكون NULL). |
+| ArgumentOutOfRangeException | يجب أن يكون عدد النقاط أكبر من واحد. |
+| NullReferenceException | يجب أن يكون للمدى قيمة (ليس NULL). |
 
 ### انظر أيضًا
 

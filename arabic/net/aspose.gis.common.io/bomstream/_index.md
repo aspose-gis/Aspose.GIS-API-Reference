@@ -1,7 +1,7 @@
 ---
 title: "الفئة BomStream"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.Common.IO.BomStream"
+description: "فئة Aspose.Gis.Common.IO.BomStream."
 type: docs
 weight: 1220
 url: /ar/net/aspose.gis.common.io/bomstream/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common.io/bomstream/
 public class BomStream : Stream
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

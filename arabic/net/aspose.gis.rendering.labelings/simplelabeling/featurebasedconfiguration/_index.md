@@ -1,7 +1,7 @@
 ---
 title: "SimpleLabeling.FeatureBasedConfiguration"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleLabeling. دالة رد النداء التي تُستخدم لتكوين هذه التسمية قبل معالجة معلم"
+description: "خاصية SimpleLabeling. استدعاء رد نداء يُستخدم لتكوين هذه التسمية قبل معالجة معلم."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.rendering.labelings/simplelabeling/featurebasedconfiguration/
@@ -16,7 +16,7 @@ public Action<Feature, SimpleLabeling> FeatureBasedConfiguration { get; set; }
 
 ## ملاحظات
 
-يتم استدعاء هذا رد النداء قبل تسمية كل معلم. يقبل معلمًا على وشك أن يُسمى ونسخة من هذه التسمية. من خلال تغيير خصائص النسخة، يمكن تحديث سلوك التسمية بناءً على سمات المعلم.
+يتم استدعاء هذا الرد نداء قبل تسمية كل معلم. يقبل معلمًا على وشك أن يُسمى ونسخة من هذه التسمية. من خلال تغيير خصائص النسخة، يمكن تحديث سلوك التسمية بناءً على سمات المعلم.
 
 ### انظر أيضًا
 

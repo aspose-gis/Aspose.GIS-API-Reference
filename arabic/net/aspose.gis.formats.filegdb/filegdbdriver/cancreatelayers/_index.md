@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/cancreatelayers/
 ---
 ## FileGdbDriver.CanCreateLayers property
 
-يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه إنشاء طبقات متجهة.
+يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه إنشاء طبقات متجهية.
 
 ```csharp
 public override bool CanCreateLayers { get; }

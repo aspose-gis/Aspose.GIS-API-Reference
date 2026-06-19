@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.geojsonseq/geojsonseqoptions/geometryascollectio
 ---
 ## GeoJsonSeqOptions.GeometryAsCollection property
 
-التحكم في ترجمة الأشكال: نعم - غلف الأشكال بنوع GeometryCollection
+التحكم في تحويل الأشكال الهندسية: نعم - تغليف الأشكال بـ نوع GeometryCollection
 
 ```csharp
 public bool GeometryAsCollection { get; set; }

@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.wkt/wktwriteroptions/
 public class WktWriterOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [WktWriterOptions](wktwriteroptions/)() | المُنشئ الافتراضي. |
+| [WktWriterOptions](wktwriteroptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

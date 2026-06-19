@@ -1,7 +1,7 @@
 ---
 title: "XmlReaderExtensions.CreateByDefault"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlReaderExtensions method."
+description: "XmlReaderExtensions طريقة."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.xml/xmlreaderextensions/createbydefault/

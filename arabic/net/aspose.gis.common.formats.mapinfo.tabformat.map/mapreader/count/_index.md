@@ -1,7 +1,7 @@
 ---
 title: "MapReader.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapReader خاصية."
+description: "خاصية MapReader."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/count/

@@ -1,14 +1,14 @@
 ---
 title: "VectorLayer.JoinByGeometry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. ربط طبقة بالطبقة الحالية عبر الهندسة"
+description: "طريقة VectorLayer. يدمج طبقة مع الطبقة الحالية عن طريق الهندسة"
 type: docs
 weight: 160
 url: /ar/net/aspose.gis/vectorlayer/joinbygeometry/
 ---
 ## VectorLayer.JoinByGeometry method
 
-ينضم طبقة إلى الطبقة الحالية عبر الهندسة.
+يجمع طبقة مع الطبقة الحالية حسب الهندسة.
 
 ```csharp
 public VectorLayer JoinByGeometry(VectorLayer layer, JoinByGeometryOptions options)
@@ -17,7 +17,7 @@ public VectorLayer JoinByGeometry(VectorLayer layer, JoinByGeometryOptions optio
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الطبقة | VectorLayer | طبقة للانضمام. |
-| الخيارات | JoinByGeometryOptions | معلمات الانضمام. |
+| options | JoinByGeometryOptions | معلمات الانضمام. |
 
 ### قيمة الإرجاع
 

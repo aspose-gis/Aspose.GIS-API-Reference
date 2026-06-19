@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering/rastermaplayer/dispose/
 ---
 ## RasterMapLayer.Dispose method
 
-يحرّر الموارد.
+يقوم بتحرير الموارد.
 
 ```csharp
 public override void Dispose()

@@ -1,14 +1,14 @@
 ---
 title: "FeatureStyle.Null"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeatureStyle. يحصل على مثيل لنمط null"
+description: "خاصية FeatureStyle. يحصل على نسخة من النمط null."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis/featurestyle/null/
 ---
 ## FeatureStyle.Null property
 
-يحصل على مثيل لنمط null.
+يحصل على نسخة من النمط null.
 
 ```csharp
 public static IFeatureStyle Null { get; }

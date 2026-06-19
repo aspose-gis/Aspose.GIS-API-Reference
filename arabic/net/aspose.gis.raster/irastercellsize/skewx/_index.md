@@ -1,7 +1,7 @@
 ---
 title: "IRasterCellSize.SkewX"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية IRasterCellSize. الحصول على المكوّن x لارتفاع الخلية أو البكسل xskew"
+description: "خاصية IRasterCellSize. يسترجع المكوّن x لارتفاع الخلية أو البكسل xskew"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.raster/irastercellsize/skewx/

@@ -1,7 +1,7 @@
 ---
 title: "TextIndex.EndOfStream"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية TextIndex."
+description: "TextIndex خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.io/textindex/endofstream/

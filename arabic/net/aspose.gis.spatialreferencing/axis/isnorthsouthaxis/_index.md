@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/axis/isnorthsouthaxis/
 ---
 ## Axis.IsNorthSouthAxis property
 
-يكشف ما إذا كان اتجاه المحور شمالًا أو جنوبًا.
+يكشف إذا كان اتجاه المحور شمالًا أو جنوبًا.
 
 ```csharp
 public bool IsNorthSouthAxis { get; }

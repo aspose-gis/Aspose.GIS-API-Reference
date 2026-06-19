@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlliststyle/kmlliststyle/
 ---
 ## KmlListStyle constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public KmlListStyle()

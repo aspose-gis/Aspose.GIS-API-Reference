@@ -1,7 +1,7 @@
 ---
-title: "فئة LineGeometryUtils"
+title: "صنف LineGeometryUtils"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "فئة Aspose.Gis.Labeling.Line.LineGeometryUtils."
+description: "Aspose.Gis.Labeling.Line.LineGeometryUtils فئة."
 type: docs
 weight: 3310
 url: /ar/net/aspose.gis.labeling.line/linegeometryutils/

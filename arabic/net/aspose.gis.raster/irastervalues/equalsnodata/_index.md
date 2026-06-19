@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/irastervalues/equalsnodata/
 ---
 ## IRasterValues.EqualsNoData method
 
-يتحقق مما إذا كانت القيمة تمثل الخلفية أو 'no data' في الشريط المحدد.
+يتحقق مما إذا كانت القيمة تمثل الخلفية أو 'لا بيانات' في النطاق المحدد.
 
 ```csharp
 public bool EqualsNoData(int bandIndex = 0)

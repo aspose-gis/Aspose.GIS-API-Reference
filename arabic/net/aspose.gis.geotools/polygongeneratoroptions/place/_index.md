@@ -1,7 +1,7 @@
 ---
 title: "PolygonGeneratorOptions.Place"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PolygonGeneratorOptions خاصية. وضع التوضع في الخلايا المولدة"
+description: "PolygonGeneratorOptions property. وضع التوضع في الخلايا المولدة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geotools/polygongeneratoroptions/place/

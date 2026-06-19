@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.spatialreferencing/axis/iseastwestaxis/
 ---
 ## Axis.IsEastWestAxis property
 
-يكشف ما إذا كان اتجاه المحور شرقًا أو غربًا.
+يكشف إذا كان اتجاه المحور شرقًا أو غربًا.
 
 ```csharp
 public bool IsEastWestAxis { get; }

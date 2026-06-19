@@ -1,7 +1,7 @@
 ---
 title: "XmlReaderExtensions.ReadInnerPurifiedXml"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlReaderExtensions method."
+description: "XmlReaderExtensions طريقة."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.formats.xml/xmlreaderextensions/readinnerpurifiedxml/

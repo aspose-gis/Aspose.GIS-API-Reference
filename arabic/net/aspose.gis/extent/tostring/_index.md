@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/extent/tostring/
 ---
 ## Extent.ToString method
 
-يعيد سلسلة تمثل الكائن الحالي.
+يرجع سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -16,7 +16,7 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تمثل الكائن الحالي.
+سلسلة تمثِّل الكائن الحالي.
 
 ### انظر أيضًا
 

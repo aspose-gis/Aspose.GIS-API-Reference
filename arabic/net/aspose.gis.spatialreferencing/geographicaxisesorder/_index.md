@@ -1,7 +1,7 @@
 ---
-title: "التعداد GeographicAxisesOrder"
+title: "تعداد GeographicAxisesOrder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "التعداد Aspose.Gis.SpatialReferencing.GeographicAxisesOrder. يمثل ترتيب المحاور في نظام الإحداثيات الجغرافي geographic SRS."
+description: "التعداد Aspose.Gis.SpatialReferencing.GeographicAxisesOrder. يمثل ترتيب المحاور في SRS الجغرافي."
 type: docs
 weight: 4560
 url: /ar/net/aspose.gis.spatialreferencing/geographicaxisesorder/
@@ -18,7 +18,7 @@ public enum GeographicAxisesOrder
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Invalid | `-1` | نظام الإحداثيات الجغرافي (Geographic SRS) غير صالح ولا يمكن تحديد ترتيب المحاور. |
+| Invalid | `-1` | SRS الجغرافي غير صالح ولا يمكن تحديد ترتيب المحاور. |
 | LongitudeLatitude | `0` | الترتيب هو (Longitude, Latitude). |
 | LatitudeLongitude | `1` | الترتيب هو (Latitude, Longitude). |
 

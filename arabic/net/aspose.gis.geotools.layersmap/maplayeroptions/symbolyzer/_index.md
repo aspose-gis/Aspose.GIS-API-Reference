@@ -1,14 +1,14 @@
 ---
 title: "MapLayerOptions.Symbolyzer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية MapLayerOptions. مُرمّز المتجهات"
+description: "خاصية MapLayerOptions. Symbolyzer المتجه"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.geotools.layersmap/maplayeroptions/symbolyzer/
 ---
 ## MapLayerOptions.Symbolyzer property
 
-مُرمّز المتجه.
+مُرمّز المتجهات.
 
 ```csharp
 public VectorSymbolizer Symbolyzer { get; set; }

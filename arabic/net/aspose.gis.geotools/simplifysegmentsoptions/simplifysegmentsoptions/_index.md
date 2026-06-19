@@ -24,7 +24,7 @@ public SimplifySegmentsOptions()
 
 ## SimplifySegmentsOptions(SimplifySegmentsOptions) {#constructor_1}
 
-إنشاء نسخة من المثيل [`SimplifySegmentsOptions`](../).
+إنشاء نسخة من المثال [`SimplifySegmentsOptions`](../).
 
 ```csharp
 public SimplifySegmentsOptions(SimplifySegmentsOptions source)

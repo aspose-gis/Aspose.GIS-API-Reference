@@ -1,7 +1,7 @@
 ---
 title: "GeoJsonOptions.AttributesSkip"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeoJsonOptions. يتحكم في ترجمة السمات نعم تخطي جميع السمات"
+description: "خاصية GeoJsonOptions. يتحكم في ترجمة السمات نعم  تخطي جميع السمات"
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.formats.geojson/geojsonoptions/attributesskip/

@@ -1,7 +1,7 @@
 ---
 title: "RasterLayer.GetValuesOnExpression"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة RasterLayer. تقرأ وتُعالج قيم النطاق في تعبير"
+description: "طريقة RasterLayer. تقرأ وتعالج قيم النطاق في تعبير"
 type: docs
 weight: 190
 url: /ar/net/aspose.gis.raster/rasterlayer/getvaluesonexpression/
@@ -17,7 +17,7 @@ public void GetValuesOnExpression(RasterRect rect, RasterReadExpression expressi
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | rect | RasterRect | كتلة من خلايا الراستر التي تُقرأ القيم منها. |
-| تعبير | RasterReadExpression | يوفر طريقة لمعالجة قيمة النطاق. |
+| expression | RasterReadExpression | يوفر طريقة لمعالجة قيمة النطاق. |
 
 ### انظر أيضًا
 

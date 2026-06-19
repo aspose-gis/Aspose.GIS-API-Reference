@@ -1,7 +1,7 @@
 ---
 title: "Tetragon.Angle"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Tetragon."
+description: "Tetragon خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.labeling/tetragon/angle/

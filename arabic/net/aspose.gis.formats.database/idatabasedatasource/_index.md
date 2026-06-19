@@ -1,7 +1,7 @@
 ---
 title: "واجهة IDatabaseDataSource"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.Database.IDatabaseDataSource واجهة. توفر القدرة على قراءة البيانات الجغرافية المكانية من قاعدة البيانات"
+description: "واجهة Aspose.Gis.Formats.Database.IDatabaseDataSource. توفر القدرة على قراءة البيانات الجغرافية المكانية من قاعدة البيانات"
 type: docs
 weight: 1790
 url: /ar/net/aspose.gis.formats.database/idatabasedatasource/

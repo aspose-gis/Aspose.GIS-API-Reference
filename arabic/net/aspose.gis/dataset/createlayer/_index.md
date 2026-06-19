@@ -37,7 +37,7 @@ public virtual VectorLayer CreateLayer(SpatialReferenceSystem spatialReferenceSy
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 
@@ -64,8 +64,8 @@ public virtual VectorLayer CreateLayer(DriverOptions options,
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الخيارات | DriverOptions | خيارات الفتح. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
+| options | DriverOptions | خيارات الفتح. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 
@@ -102,7 +102,7 @@ public virtual VectorLayer CreateLayer(string name,
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم الطبقة. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 
@@ -138,8 +138,8 @@ public virtual VectorLayer CreateLayer(string name, DriverOptions options,
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الاسم | String | اسم الطبقة. |
-| الخيارات | DriverOptions | خيارات الفتح. |
-| spatialReferenceSystem | SpatialReferenceSystem | نظام الإحداثيات المرجعي للطبقة الجديدة. |
+| options | DriverOptions | خيارات الفتح. |
+| spatialReferenceSystem | SpatialReferenceSystem | نظام الإسناد المكاني للطبقة الجديدة. |
 
 ### قيمة الإرجاع
 

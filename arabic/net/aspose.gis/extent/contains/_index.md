@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/extent/contains/
 ---
 ## Contains(double, double) {#contains_2}
 
-يحدد ما إذا كان هذا الامتداد يحتوي على إحداثي معرف بالوسائط.
+يحدد ما إذا كان هذا النطاق يحتوي على إحداثي معرف بالوسائط.
 
 ```csharp
 public bool Contains(double x, double y)
@@ -21,7 +21,7 @@ public bool Contains(double x, double y)
 
 ### قيمة الإرجاع
 
-قيمة تشير إلى ما إذا كان الإحداثي داخل صندوق الحدود.
+قيمة تشير إلى ما إذا كان الإحداثي داخل الصندوق المحيط.
 
 ## ملاحظات
 
@@ -37,7 +37,7 @@ public bool Contains(double x, double y)
 
 ## Contains(Extent) {#contains}
 
-يحدد ما إذا كان هذا الامتداد يحتوي على الوسيط.
+يحدد ما إذا كان هذا النطاق يحتوي على الوسيط.
 
 ```csharp
 public bool Contains(Extent extent)
@@ -56,11 +56,11 @@ public bool Contains(Extent extent)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` ولا متساويين. |
 
 ## ملاحظات
 
-الإحداثيات الموجودة على حدود هذا [`Extent`](../) تُعتبر محتواة في هذا [`Extent`](../). لهذا السبب، تُعتبر الامتدادات المتساوية محتواة بعضها البعض.
+الإحداثيات الموجودة على حدود هذا [`Extent`](../) تُعتبر محتواة في هذا [`Extent`](../). لهذا السبب، تُعتبر الامتدادات المتساوية محتواة في بعضها البعض.
 
 ### انظر أيضًا
 
@@ -72,7 +72,7 @@ public bool Contains(Extent extent)
 
 ## Contains(IGeometry) {#contains_1}
 
-يحدد ما إذا كان هذا الامتداد يحتوي على الوسيط.
+يحدد ما إذا كان هذا النطاق يحتوي على الوسيط.
 
 ```csharp
 public bool Contains(IGeometry geometry)
@@ -91,7 +91,7 @@ public bool Contains(IGeometry geometry)
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` ولا متساويين. |
 
 ## ملاحظات
 

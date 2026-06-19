@@ -1,7 +1,7 @@
 ---
 title: "IMultiPoint.ToEditable"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة IMultiPoint. تُعيد نسخة قابلة للتحرير من هذا الشكل"
+description: "طريقة IMultiPoint. تحصل على نسخة قابلة للتحرير من هذه الهندسة"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/imultipoint/toeditable/
@@ -16,7 +16,7 @@ public MultiPoint ToEditable()
 
 ### قيمة الإرجاع
 
-نسخة قابلة للتحرير من هذه geometry.
+نسخة قابلة للتحرير من هذا geometry.
 
 ### انظر أيضًا
 

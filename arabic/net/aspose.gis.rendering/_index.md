@@ -1,24 +1,24 @@
 ---
 title: "Aspose.Gis.Rendering"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الأسماء Aspose.Gis.Rendering توفر فئات لتصيير الخرائط"
+description: "مساحة الاسم Aspose.Gis.Rendering توفر فئات لتصيير الخرائط"
 type: docs
 weight: 660
 url: /ar/net/aspose.gis.rendering/
 ---
-`Aspose.Gis.Rendering` مساحة الاسم توفر فئات لتصيير الخرائط.
+مساحة الاسم `Aspose.Gis.Rendering` توفر فئات لتصيير الخرائط.
 
 ## الفئات
 
 | فئة | الوصف |
 | --- | --- |
-| [Map](./map/) | الخريطة هي مجموعة من الطبقات يمكن تصييرها فوق بعضها البعض عبر [`Renderer`](../aspose.gis.rendering/renderer/). |
-| [MapLayer](./maplayer/) | الفئة الأساسية `MapLayer` للطبقات داخل الـ[`Map`](../aspose.gis.rendering/map/). |
-| [RasterMapLayer](./rastermaplayer/) | طبقة داخل الـ[`Map`](../aspose.gis.rendering/map/) تمثل بيانات طبقة نقطية. |
-| [RasterMapResampling](./rastermapresampling/) | تصف هذه الفئة كيفية إعادة أخذ عينات طبقة نقطية عند تصيير خريطة. |
+| [Map](./map/) | الخريطة هي مجموعة من الطبقات يمكن تصييرها فوق بعضها عبر [`Renderer`](../aspose.gis.rendering/renderer/). |
+| [MapLayer](./maplayer/) | `MapLayer` هي فئة أساسية للطبقات داخل الـ [`Map`](../aspose.gis.rendering/map/). |
+| [RasterMapLayer](./rastermaplayer/) | طبقة داخل الـ [`Map`](../aspose.gis.rendering/map/) تمثل بيانات طبقة نقطية. |
+| [RasterMapResampling](./rastermapresampling/) | تصف هذه الفئة كيفية إعادة أخذ عينات لطبقة نقطية عند تصيير خريطة. |
 | [Renderer](./renderer/) | فئة أساسية للمُصَيِّرين. |
 | [Renderers](./renderers/) | المُصَيِّرين لجميع الصيغ المدعومة. |
-| [VectorMapLayer](./vectormaplayer/) | طبقة داخل الـ[`Map`](../aspose.gis.rendering/map/) تمثل بيانات طبقة متجهية. |
+| [VectorMapLayer](./vectormaplayer/) | طبقة داخل الـ [`Map`](../aspose.gis.rendering/map/) تمثل بيانات طبقة متجهية. |
 ## Structures
 
 | بنية | الوصف |
@@ -31,7 +31,7 @@ url: /ar/net/aspose.gis.rendering/
 | [CapStyle](./capstyle/) | يحدد كيفية تصيير الخطوط عند نهاياتها. |
 | [FillStyle](./fillstyle/) | يحدد نمط التعبئة. |
 | [LineJoin](./linejoin/) | يحدد كيفية عرض الخطوط عند تقاطعات مقاطع الخط. |
-| [StrokeStyle](./strokestyle/) | يحدد نمط الحد. |
+| [StrokeStyle](./strokestyle/) | يحدد نمط الخط. |
 | [Unit](./unit/) | وحدة قياس. |
 
 

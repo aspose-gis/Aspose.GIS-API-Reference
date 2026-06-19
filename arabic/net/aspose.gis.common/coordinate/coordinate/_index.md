@@ -1,7 +1,7 @@
 ---
 title: "Coordinate.Coordinate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "منشئ Coordinate."
+description: "Coordinate منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common/coordinate/coordinate/

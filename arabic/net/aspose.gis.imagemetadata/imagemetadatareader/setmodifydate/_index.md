@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.SetModifyDate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. حفظ وسم EXIF ModifyDate DataTime بإضافة أو استبدال البيانات"
+description: "طريقة ImageMetadataReader. حفظ وسم EXIF ModifyDate DataTime وإضافة أو استبدال البيانات"
 type: docs
 weight: 90
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/setmodifydate/

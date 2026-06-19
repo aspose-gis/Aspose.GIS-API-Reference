@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools.wayanalyzer/waylayergenerator/findtheway/
 ---
 ## WayLayerGenerator.FindTheWay method
 
-إيجاد المسار من نقطة البداية إلى الهدف
+إيجاد الطريق من نقطة البداية إلى الهدف
 
 ```csharp
 public LineString FindTheWay(Point startPoint, Point goalPoint, double radius = 0m)
@@ -17,7 +17,7 @@ public LineString FindTheWay(Point startPoint, Point goalPoint, double radius = 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | startPoint | Point | نقطة البداية |
-| goalPoint | Point | نقطة الهدف |
+| goalPoint | Point | ال goa lPoint |
 | radius | Double | نصف القطر للبحث عنه |
 
 ### قيمة الإرجاع

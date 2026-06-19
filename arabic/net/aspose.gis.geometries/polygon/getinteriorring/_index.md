@@ -1,7 +1,7 @@
 ---
 title: "Polygon.GetInteriorRing"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Polygon. تحصل على الحلقة الداخلية حسب فهرستها"
+description: "طريقة Polygon. تحصل على الحلقة الداخلية بحسب فهرسها"
 type: docs
 weight: 130
 url: /ar/net/aspose.gis.geometries/polygon/getinteriorring/
@@ -16,7 +16,7 @@ public ILinearRing GetInteriorRing(int index)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| الفهرس | Int32 | الفهرس. |
+| فهرس | Int32 | الفهرس. |
 
 ### قيمة الإرجاع
 
@@ -26,7 +26,7 @@ public ILinearRing GetInteriorRing(int index)
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | المؤشر خارج النطاق. |
+| ArgumentOutOfRangeException | الفهرس خارج النطاق. |
 
 ### انظر أيضًا
 

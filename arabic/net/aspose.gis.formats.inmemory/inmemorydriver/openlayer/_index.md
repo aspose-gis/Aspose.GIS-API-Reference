@@ -1,7 +1,7 @@
 ---
 title: "InMemoryDriver.OpenLayer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة InMemoryDriver. يفتح طبقة للقراءة"
+description: "طريقة InMemoryDriver. تفتح طبقة للقراءة"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.inmemory/inmemorydriver/openlayer/
@@ -16,12 +16,12 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 

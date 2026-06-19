@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle/rectan
 ---
 ## Rectangle constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public Rectangle()

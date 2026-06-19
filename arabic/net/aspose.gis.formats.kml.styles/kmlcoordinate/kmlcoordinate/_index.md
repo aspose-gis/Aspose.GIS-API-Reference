@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.kml.styles/kmlcoordinate/kmlcoordinate/
 ---
 ## KmlCoordinate constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public KmlCoordinate()

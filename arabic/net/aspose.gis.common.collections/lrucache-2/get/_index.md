@@ -1,5 +1,5 @@
 ---
-title: "LruCache2.جلب"
+title: "LruCache2.Get"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "طريقة LruCache."
 type: docs

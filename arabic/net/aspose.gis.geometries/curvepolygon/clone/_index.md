@@ -1,7 +1,7 @@
 ---
 title: "CurvePolygon.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة CurvePolygon. تستنسخ هذا الكائن"
+description: "طريقة CurvePolygon. تنسخ هذا الكائن"
 type: docs
 weight: 110
 url: /ar/net/aspose.gis.geometries/curvepolygon/clone/
@@ -16,7 +16,7 @@ public override Geometry Clone()
 
 ### قيمة الإرجاع
 
-نسخة هذا المثيل
+النسخة المستنسخة من هذه النسخة
 
 ### انظر أيضًا
 

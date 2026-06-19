@@ -1,5 +1,5 @@
 ---
-title: "PrimeMeridianEntry.خط_الطول_بالدرجات"
+title: "PrimeMeridianEntry.LongitudeInDegrees"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "PrimeMeridianEntry خاصية."
 type: docs

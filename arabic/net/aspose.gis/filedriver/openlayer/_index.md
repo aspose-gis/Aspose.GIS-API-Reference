@@ -16,18 +16,18 @@ public VectorLayer OpenLayer(string path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
+| path | String | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
@@ -50,18 +50,18 @@ public VectorLayer OpenLayer(AbstractPath path)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
+| path | AbstractPath | المسار إلى الملف. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
@@ -85,12 +85,12 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -98,7 +98,7 @@ public VectorLayer OpenLayer(string path, DriverOptions options)
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 
@@ -122,12 +122,12 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثال من [`VectorLayer`](../../vectorlayer/).
+مثال على [`VectorLayer`](../../vectorlayer/).
 
 ### استثناءات
 
@@ -135,7 +135,7 @@ public abstract VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 | --- | --- |
 | ArgumentException | كائن Options له نوع غير صحيح لهذا السائق. |
 | ArgumentNullException | المسار هو `null`. |
-| [GisException](../../gisexception/) | خطأ في قراءة العنصر من الملف. |
+| [GisException](../../gisexception/) | خطأ في قراءة الميزة من الملف. |
 | IOException | حدث خطأ في الإدخال/الإخراج. |
 | NotSupportedException | السائق لا يمكنه فتح طبقات المتجهات (انظر [`CanOpenLayers`](../canopenlayers/)). |
 

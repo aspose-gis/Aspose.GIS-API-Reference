@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.rendering.symbolizers/simpleline/color/
 ---
 ## SimpleLine.Color property
 
-يحدد اللون والشفافية الممنوحين للخط.
+يحدد اللون والشفافية المطبقة على الخط.
 
 ```csharp
 public Color Color { get; set; }

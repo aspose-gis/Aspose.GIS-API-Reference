@@ -1,7 +1,7 @@
 ---
 title: "InFileOptions.AutoId"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية InFileOptions. توليد المعرفات تلقائيًا"
+description: "خاصية InFileOptions. توليد معرفات تلقائيًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.infile/infileoptions/autoid/

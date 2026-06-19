@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.GetReader"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. إنشاء مثيل قارئ لوسوم EXIF"
+description: "طريقة ImageMetadataReader. ينشئ مثيل قارئ لوسوم EXIF"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/getreader/

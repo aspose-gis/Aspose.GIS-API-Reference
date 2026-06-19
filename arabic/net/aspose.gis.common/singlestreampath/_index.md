@@ -1,7 +1,7 @@
 ---
 title: "فئة SingleStreamPath"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.SingleStreamPath فئة."
+description: "فئة Aspose.Gis.Common.SingleStreamPath."
 type: docs
 weight: 1370
 url: /ar/net/aspose.gis.common/singlestreampath/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/singlestreampath/
 public class SingleStreamPath : AbstractPathInternal
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

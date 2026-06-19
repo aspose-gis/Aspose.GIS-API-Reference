@@ -1,7 +1,7 @@
 ---
 title: "PlacedCharacter.Rotate"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PlacedCharacter خاصية."
+description: "خاصية PlacedCharacter."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.painting/placedcharacter/rotate/

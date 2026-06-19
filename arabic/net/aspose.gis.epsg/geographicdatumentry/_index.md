@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.epsg/geographicdatumentry/
 public class GeographicDatumEntry
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GeographicDatumEntry](geographicdatumentry/)() | المُنشئ الافتراضي. |
+| [GeographicDatumEntry](geographicdatumentry/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

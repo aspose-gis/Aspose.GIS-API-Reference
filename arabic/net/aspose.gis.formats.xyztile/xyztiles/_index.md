@@ -1,7 +1,7 @@
 ---
-title: "فئة XyzTiles"
+title: "الفئة XyzTiles"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Formats.XyzTile.XyzTiles فئة. توفر XyzTiles إمكانية الوصول إلى كائنات XyzTile"
+description: "Aspose.Gis.Formats.XyzTile.XyzTiles فئة. XyzTiles توفر الوصول إلى كائنات XyzTile"
 type: docs
 weight: 2410
 url: /ar/net/aspose.gis.formats.xyztile/xyztiles/
@@ -14,7 +14,7 @@ url: /ar/net/aspose.gis.formats.xyztile/xyztiles/
 public sealed class XyzTiles : WebTiles
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -24,9 +24,9 @@ public sealed class XyzTiles : WebTiles
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Dispose](../../aspose.gis.formats.xyztile/xyztiles/dispose/)() | ينفّذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة ضبط الموارد غير المُدارة. |
-| [GetTile](../../aspose.gis.formats.xyztile/xyztiles/gettile/)(int, int, int) | يحمّل البلاطة المحددة. |
-| [GetTiles](../../aspose.gis.formats.xyztile/xyztiles/gettiles/)(int, Extent) | يحمّل البلاط وفقًا لمربع الحد المكاني ومستوى التكبير. |
+| override [Dispose](../../aspose.gis.formats.xyztile/xyztiles/dispose/)() | ينفذ مهامًا محددة من قبل التطبيق مرتبطة بتحرير أو إطلاق أو إعادة تعيين الموارد غير المُدارة. |
+| [GetTile](../../aspose.gis.formats.xyztile/xyztiles/gettile/)(int, int, int) | يقوم بتحميل البلاطة المحددة. |
+| [GetTiles](../../aspose.gis.formats.xyztile/xyztiles/gettiles/)(int, Extent) | يقوم بتحميل البلاط وفقًا لمربع الحدود المكاني ومستوى التكبير. |
 
 ### انظر أيضًا
 

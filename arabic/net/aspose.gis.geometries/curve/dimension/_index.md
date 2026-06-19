@@ -1,14 +1,14 @@
 ---
 title: "Curve.Dimension"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Curve. تحصل على البعد الطوبولوجي لهذا الشكل الهندسي."
+description: "خاصية Curve. يحصل على البُعد الطوبولوجي لهذا الشكل الهندسي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.geometries/curve/dimension/
 ---
 ## Curve.Dimension property
 
-تحصل على البعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
+يحصل على البُعد الطوبولوجي لهذا [`Geometry`](../../geometry/).
 
 ```csharp
 public GeometryDimension Dimension { get; }

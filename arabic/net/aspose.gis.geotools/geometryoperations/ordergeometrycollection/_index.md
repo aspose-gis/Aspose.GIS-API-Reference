@@ -1,14 +1,14 @@
 ---
 title: "GeometryOperations.OrderGeometryCollection"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة GeometryOperations. ترتيب مجموعة الهندسة حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر)"
+description: "طريقة GeometryOperations. ترتيب مجموعة الهندسة حسب النوع إلى أربع مجموعات: نقطة، خط، مضلع ونوع آخر"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis.geotools/geometryoperations/ordergeometrycollection/
 ---
 ## GeometryOperations.OrderGeometryCollection method
 
-ترتيب مجموعة الأشكال الهندسية حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر)
+ترتيب مجموعة الهندسة حسب النوع إلى أربع مجموعات (نقطة، خط، مضلع ونوع آخر)
 
 ```csharp
 public static IGeometry OrderGeometryCollection(IGeometry geometry)

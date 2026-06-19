@@ -1,7 +1,7 @@
 ---
 title: "AbstractPath.IsFile"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة AbstractPath. تُحصل على قيمة تُشير إلى ما إذا كان هذا المسار يشير إلى ملف موجود يمكن فتحه للقراءة"
+description: "طريقة AbstractPath. تحصل على قيمة تشير إلى ما إذا كان هذا المسار يشير إلى ملف موجود يمكن فتحه للقراءة"
 type: docs
 weight: 100
 url: /ar/net/aspose.gis/abstractpath/isfile/

@@ -1,7 +1,7 @@
 ---
 title: "فئة Renderer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.Renderer class. فئة أساسية للمُعَرضات."
+description: "فئة Aspose.Gis.Rendering.Renderer. فئة أساسية للعارضات."
 type: docs
 weight: 4220
 url: /ar/net/aspose.gis.rendering/renderer/

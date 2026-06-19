@@ -1,7 +1,7 @@
 ---
 title: "PointGeneratorOptions.Clone"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "PointGeneratorOptions طريقة. استنساخ الكائن إلى آخر"
+description: "PointGeneratorOptions method. استنساخ الكائن إلى كائن آخر"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.geotools/pointgeneratoroptions/clone/
@@ -16,7 +16,7 @@ public PointGeneratorOptions Clone()
 
 ### قيمة الإرجاع
 
-استنساخ الكائن إلى آخر [`PointGeneratorOptions`](../).
+استنساخ الكائن إلى كائن آخر [`PointGeneratorOptions`](../).
 
 ### انظر أيضًا
 

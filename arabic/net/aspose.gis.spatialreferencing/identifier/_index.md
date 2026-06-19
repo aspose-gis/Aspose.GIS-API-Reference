@@ -1,20 +1,20 @@
 ---
 title: "الفئة Identifier"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "الفئة Aspose.Gis.SpatialReferencing.Identifier. تمثل معرفًا مرجعًا للوصف الخارجي لكائن. إذا قمت بإنشاء نظام إسناد مكاني (SRS) من WKT فإن Identifier يتطابق مع كلمة AUTHORITY المفتاحية"
+description: "الفئة Aspose.Gis.SpatialReferencing.Identifier. تمثل معرفًا مرجعًا للوصف الخارجي لكائن. إذا قمت بإنشاء SRS من WKT فإن Identifier يتطابق مع كلمة AUTHORITY."
 type: docs
 weight: 4610
 url: /ar/net/aspose.gis.spatialreferencing/identifier/
 ---
 ## Identifier class
 
-تمثل معرفًا - مرجعًا للوصف الخارجي لكائن. إذا قمت بإنشاء نظام إسناد مكاني (SRS) من WKT، `Identifier` يتطابق مع كلمة "AUTHORITY" المفتاحية.
+تمثل معرفًا - مرجعًا للوصف الخارجي لكائن. إذا قمت بإنشاء SRS من WKT، فإن `Identifier` يتطابق مع كلمة "AUTHORITY".
 
 ```csharp
 public class Identifier : IEquatable<Identifier>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
@@ -34,14 +34,14 @@ public class Identifier : IEquatable<Identifier>
 | static [Epsg](../../aspose.gis.spatialreferencing/identifier/epsg/)(int) | ينشئ معرفًا جديدًا يمثل معرف EPSG بالرمز *epsgCode*. |
 | [Equals](../../aspose.gis.spatialreferencing/identifier/equals/#equals)(Identifier) | يشير إلى ما إذا كان الكائن الحالي مساويًا لكائن آخر من نفس النوع. |
 | override [Equals](../../aspose.gis.spatialreferencing/identifier/equals/#equals_1)(object) | يحدد ما إذا كان الكائن المحدد مساويًا للكائن الحالي. |
-| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode/)() | إذا كان هذا الكائن يمثل معرف EPSG صالح (مثال: - اسم السلطة هو "EPSG" والمعرف الفريد للسلطة هو عدد صحيح) - أرجعه. وإلا - أرجع -1. |
-| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode/)() | يعمل كدالة التجزئة الافتراضية. |
-| [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality/) | ينفذ العامل ==. |
-| [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality/) | ينفذ العامل !=. |
+| [GetEpsgCode](../../aspose.gis.spatialreferencing/identifier/getepsgcode/)() | إذا كان هذا الكائن يمثل معرف EPSG صالح (مثلاً - اسم السلطة هو "EPSG" والمعرف الفريد للسلطة هو عدد صحيح) - إرجعه. وإلا - إرجع -1. |
+| override [GetHashCode](../../aspose.gis.spatialreferencing/identifier/gethashcode/)() | يعمل كدالة تجزئة افتراضية. |
+| [operator ==](../../aspose.gis.spatialreferencing/identifier/op_equality/) | ينفّذ العامل ==. |
+| [operator !=](../../aspose.gis.spatialreferencing/identifier/op_inequality/) | ينفّذ العامل !=. |
 
 ## أمثلة
 
-نظام الإسناد المكاني WGS 84 لديه رمز EPSG 4326، لذا قد يحتوي على معرف:
+نظام الإحداثيات المكانية WGS 84 لديه رمز EPSG 4326، لذا قد يحتوي على معرف:
 
 ```csharp
 new  {  = "EPSG",  = 4326 };

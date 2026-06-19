@@ -1,7 +1,7 @@
 ---
 title: "Drivers.GeoJson"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Drivers. برنامج تشغيل لتنسيق GeoJSON"
+description: "Drivers خاصية. محرك لتنسيق GeoJSON."
 type: docs
 weight: 70
 url: /ar/net/aspose.gis/drivers/geojson/

@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.formats.filegdb/filegdbdriver/canopendatasets/
 ---
 ## FileGdbDriver.CanOpenDatasets property
 
-يحصل على قيمة تشير إلى ما إذا كان برنامج التشغيل هذا يمكنه فتح مجموعات البيانات.
+يحصل على قيمة تشير إلى ما إذا كان هذا البرنامج تشغيل يمكنه فتح مجموعات البيانات.
 
 ```csharp
 public override bool CanOpenDatasets { get; }

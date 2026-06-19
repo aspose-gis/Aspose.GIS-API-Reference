@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.raster/irastervalues/isnull/
 ---
 ## IRasterValues.IsNull method
 
-يتحقق مما إذا كانت قيمة الرستر مضبوطة في الشريط المحدد.
+يتحقق مما إذا تم تعيين قيمة الراستر في النطاق المحدد.
 
 ```csharp
 public bool IsNull(int bandIndex = 0)
@@ -20,7 +20,7 @@ public bool IsNull(int bandIndex = 0)
 
 ### قيمة الإرجاع
 
-أرجع 'false' إذا لم توجد.
+أرجع 'false' إذا لم يكن موجودًا.
 
 ### انظر أيضًا
 

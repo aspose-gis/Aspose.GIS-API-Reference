@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/driveroptions/deletenearpoints/
 ---
 ## DriverOptions.DeleteNearPoints property
 
-يحدد ما إذا كان سيتم حذف النقاط القريبة في كل شكل. القيمة الافتراضية هي `false`.
+يحدد ما إذا كان سيتم حذف النقاط القريبة في كل شكل هندسي. القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool DeleteNearPoints { get; set; }

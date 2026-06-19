@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/geometrycollection/geometrytype/
 ---
 ## GeometryCollection.GeometryType property
 
-يحصل على نوع الهندسة.
+يحصل على نوع الـ geometry.
 
 ```csharp
 public override GeometryType GeometryType { get; }

@@ -1,14 +1,14 @@
 ---
 title: "FeaturesSequence.SpatialReferenceSystem"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FeaturesSequence. يحصل على نظام الإحداثيات المكاني لهذه السلسلة من الميزات"
+description: "خاصية FeaturesSequence. يحصل على نظام الإسناد المكاني لهذه السلسلة من الميزات"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis/featuressequence/spatialreferencesystem/
 ---
 ## FeaturesSequence.SpatialReferenceSystem property
 
-يحصل على نظام الإحداثيات المكانية لتسلسل هذه الميزات.
+يسترجع نظام الإحداثيات المكاني لتسلسل هذه الميزات.
 
 ```csharp
 public abstract SpatialReferenceSystem SpatialReferenceSystem { get; }
@@ -16,7 +16,7 @@ public abstract SpatialReferenceSystem SpatialReferenceSystem { get; }
 
 ### Property Value
 
-نظام الإحداثيات المكاني. يمكن أن يكون `null` إذا كان غير معروف.
+نظام الإسناد المكاني. يمكن أن يكون `null` إذا كان غير معروف.
 
 ### انظر أيضًا
 

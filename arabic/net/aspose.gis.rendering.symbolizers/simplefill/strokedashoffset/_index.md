@@ -1,7 +1,7 @@
 ---
 title: "SimpleFill.StrokeDashOffset"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية SimpleFill. تحدد المسافة من بداية الخط إلى بداية نمط الشرطة"
+description: "خاصية SimpleFill. تحدد المسافة من بداية الخط إلى بداية نمط الشرط"
 type: docs
 weight: 70
 url: /ar/net/aspose.gis.rendering.symbolizers/simplefill/strokedashoffset/

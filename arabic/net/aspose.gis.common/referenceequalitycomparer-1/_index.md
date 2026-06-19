@@ -1,7 +1,7 @@
 ---
 title: "فئة ReferenceEqualityComparerT"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.ReferenceEqualityComparer1T فئة."
+description: "فئة Aspose.Gis.Common.ReferenceEqualityComparer1T."
 type: docs
 weight: 1360
 url: /ar/net/aspose.gis.common/referenceequalitycomparer-1/

@@ -1,14 +1,14 @@
 ---
 title: "الواجهة IRasterBand"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "واجهة Aspose.Gis.Raster.IRasterBand. تحتوي على بيانات التعريف حول شريط رستر"
+description: "واجهة Aspose.Gis.Raster.IRasterBand. تحتوي على بيانات التعريف حول نطاق الراستر"
 type: docs
 weight: 3770
 url: /ar/net/aspose.gis.raster/irasterband/
 ---
 ## IRasterBand interface
 
-يحتوي على بيانات تعريفية حول شريط الراستر.
+يحتوي على بيانات التعريف حول نطاق راستر.
 
 ```csharp
 public interface IRasterBand

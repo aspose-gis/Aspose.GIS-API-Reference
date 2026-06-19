@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/extent/width/
 ---
 ## Extent.Width property
 
-عرض الامتداد.
+عرض النطاق.
 
 ```csharp
 public double Width { get; }

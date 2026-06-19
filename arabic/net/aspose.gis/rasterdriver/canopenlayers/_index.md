@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis/rasterdriver/canopenlayers/
 ---
 ## RasterDriver.CanOpenLayers property
 
-يحصل على قيمة تشير إلى ما إذا كان هذا السائق يمكنه فتح طبقات النقطية.
+يعطي قيمة تشير إلى ما إذا كان هذا driver يمكنه فتح طبقات الراستر.
 
 ```csharp
 public abstract bool CanOpenLayers { get; }
@@ -16,7 +16,7 @@ public abstract bool CanOpenLayers { get; }
 
 ### Property Value
 
-`true`، إذا كان هذا السائق يمكنه فتح طبقات النقطية؛ وإلا `false`.
+`true`، إذا كان هذا driver يمكنه فتح طبقات الراستر؛ وإلا `false`.
 
 ### انظر أيضًا
 

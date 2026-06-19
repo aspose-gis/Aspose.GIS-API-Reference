@@ -1,14 +1,14 @@
 ---
 title: "FeatureAttributeCollection.Lock"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة FeatureAttributeCollection. تقفل مجموعة السمات هذه لمنع المزيد من التعديلات"
+description: "طريقة FeatureAttributeCollection. تقفل مجموعة السمات هذه لمنع التعديلات الإضافية"
 type: docs
 weight: 80
 url: /ar/net/aspose.gis/featureattributecollection/lock/
 ---
 ## FeatureAttributeCollection.Lock method
 
-يقفل مجموعة الخصائص هذه لمنع التعديلات الإضافية.
+يقفل مجموعة الخصائص هذه لمنع المزيد من التعديلات.
 
 ```csharp
 public void Lock()

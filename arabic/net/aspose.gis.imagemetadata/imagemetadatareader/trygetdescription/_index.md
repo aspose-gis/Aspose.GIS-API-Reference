@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/trygetdescription/
 ---
 ## ImageMetadataReader.TryGetDescription method
 
-يحاول العثور على علامة EXIF ImageDescription، إذا لم يتم العثور على العلامة يرجع null
+يحاول العثور على علامة EXIF ImageDescription، إذا لم تُعثر على العلامة يُعيد null.
 
 ```csharp
 public bool TryGetDescription(out string description)
@@ -20,7 +20,7 @@ public bool TryGetDescription(out string description)
 
 ### قيمة الإرجاع
 
-True إذا نجح
+صحيح إذا نجح
 
 ### انظر أيضًا
 

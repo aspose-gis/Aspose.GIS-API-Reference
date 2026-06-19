@@ -1,14 +1,14 @@
 ---
 title: "الفئة NullVectorSymbolizer"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Rendering.Symbolizers.NullVectorSymbolizer الفئة. لا يرسم NullSymbolizer شيئًا ويتخطى فعليًا رسم الشكل الهندسي الذي يُطبق عليه"
+description: "Aspose.Gis.Rendering.Symbolizers.NullVectorSymbolizer فئة. لا يرسم NullSymbolizer شيئاً ويتخطى فعلياً رسم الشكل الهندسي الذي يُطبّق عليه"
 type: docs
 weight: 4340
 url: /ar/net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/
 ---
 ## NullVectorSymbolizer class
 
-يقوم الـ `NullSymbolizer` بعدم رسم أي شيء ويتخطى فعليًا عملية عرض الهندسة التي يُطبّق عليها.
+يقوم الـ `NullSymbolizer` بعدم رسم أي شيء ويتخطى فعليًا عرض الهندسة التي يُطبق عليها.
 
 ```csharp
 public class NullVectorSymbolizer : VectorSymbolizer

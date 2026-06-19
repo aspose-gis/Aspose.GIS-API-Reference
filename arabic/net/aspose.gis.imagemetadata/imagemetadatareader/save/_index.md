@@ -1,14 +1,14 @@
 ---
 title: "ImageMetadataReader.Save"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ImageMetadataReader. حفظ إلى ملف جديد لأن الملف الأصلي مقفل للتغييرات"
+description: "طريقة ImageMetadataReader. احفظ إلى ملف جديد لأن الملف الأصلي مقفل للتغييرات"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.imagemetadata/imagemetadatareader/save/
 ---
 ## Save(string) {#save_2}
 
-احفظ إلى ملف جديد لأن الأصلي مقفل للتغييرات
+احفظ إلى ملف جديد لأن الملف الأصلي مقفل للتغييرات
 
 ```csharp
 public void Save(string fileName)
@@ -28,7 +28,7 @@ public void Save(string fileName)
 
 ## Save(string, ImageFormat) {#save_3}
 
-احفظ إلى ملف جديد لأن الأصلي مقفل للتغييرات
+احفظ إلى ملف جديد لأن الملف الأصلي مقفل للتغييرات
 
 ```csharp
 public void Save(string fileName, ImageFormat format)

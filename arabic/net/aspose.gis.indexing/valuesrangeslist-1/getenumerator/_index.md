@@ -1,7 +1,7 @@
 ---
 title: "ValuesRangesList1.GetEnumerator"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة ValuesRangesList."
+description: "ValuesRangesList طريقة."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.indexing/valuesrangeslist-1/getenumerator/

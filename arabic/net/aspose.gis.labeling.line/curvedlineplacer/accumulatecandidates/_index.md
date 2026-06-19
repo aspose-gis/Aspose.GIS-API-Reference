@@ -1,7 +1,7 @@
 ---
 title: "CurvedLinePlacer.AccumulateCandidates"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "CurvedLinePlacer طريقة"
+description: "طريقة CurvedLinePlacer."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.labeling.line/curvedlineplacer/accumulatecandidates/

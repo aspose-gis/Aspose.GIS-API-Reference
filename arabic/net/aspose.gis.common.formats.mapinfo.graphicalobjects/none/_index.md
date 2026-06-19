@@ -1,7 +1,7 @@
 ---
 title: "الفئة None"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.None فئة."
+description: "Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.None الفئة."
 type: docs
 weight: 630
 url: /ar/net/aspose.gis.common.formats.mapinfo.graphicalobjects/none/

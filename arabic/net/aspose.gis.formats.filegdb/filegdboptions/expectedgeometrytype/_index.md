@@ -1,14 +1,14 @@
 ---
 title: "FileGdbOptions.ExpectedGeometryType"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية FileGdbOptions. نوع الهندسة المتوقع للطبقة. إذا تم تعيين هذا الخيار، فإننا نسمح بإضافة فقط الهندسات من هذا النوع."
+description: "خاصية FileGdbOptions. نوع الهندسة المتوقع للطبقة. إذا تم تعيين هذا الخيار فسنسمح بإضافة الهندسات فقط من هذا النوع."
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.formats.filegdb/filegdboptions/expectedgeometrytype/
 ---
 ## FileGdbOptions.ExpectedGeometryType property
 
-نوع الهندسة المتوقع للطبقة. إذا تم تعيين هذا الخيار فإننا نسمح بإضافة فقط الهندسات من هذا النوع
+نوع الهندسة المتوقع للطبقة. إذا تم تعيين هذا الخيار فإننا نسمح بإضافة الهندسات فقط من هذا النوع
 
 ```csharp
 public GeometryType? ExpectedGeometryType { get; set; }

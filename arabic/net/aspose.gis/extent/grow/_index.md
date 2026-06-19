@@ -1,14 +1,14 @@
 ---
 title: "Extent.Grow"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة Extent. توسّع هذا Extent بحيث يشمل المعامل."
+description: "طريقة Extent. توسّع هذا الـ extent بحيث يشمل الوسيط."
 type: docs
 weight: 160
 url: /ar/net/aspose.gis/extent/grow/
 ---
 ## Grow(Extent) {#grow}
 
-يوسّع هذا النطاق بحيث يشمل الوسيط.
+يوسع هذا النطاق بحيث يشمل الوسيط.
 
 ```csharp
 public void Grow(Extent extent)
@@ -16,18 +16,18 @@ public void Grow(Extent extent)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| مدى | مدى | Extent آخر. |
+| مدى | مدى | الـ extent الآخر. |
 
 ### استثناءات
 
 | استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الوسيط هو `null`. |
-| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` وليسا متساويين. |
+| ArgumentException | [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا النطاق والوسيط كلاهما ليس `null` ولا متساويين. |
 
 ## ملاحظات
 
-إذا كان [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا SRS هو `null` فسيتم تحديثه بـ SRS الخاص بالمعامل.
+إذا كان [`SpatialReferenceSystem`](../spatialreferencesystem/) لهذا الـ SRS هو `null` فسيتم تحديثه بـ SRS الخاص بالوسيط.
 
 ### انظر أيضًا
 
@@ -39,7 +39,7 @@ public void Grow(Extent extent)
 
 ## Grow(double, double) {#grow_1}
 
-يوسّع هذا النطاق بحيث يشمل النقطة المحددة.
+يوسع هذا النطاق بحيث يشمل النقطة المحددة.
 
 ```csharp
 public void Grow(double x, double y)
@@ -47,8 +47,8 @@ public void Grow(double x, double y)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| x | Double | الإحداثي X لتضمينه. |
-| y | Double | الإحداثي Y لتضمينه. |
+| x | Double | إحداثي X لتضمينه. |
+| y | Double | إحداثي Y لتضمينه. |
 
 ### انظر أيضًا
 

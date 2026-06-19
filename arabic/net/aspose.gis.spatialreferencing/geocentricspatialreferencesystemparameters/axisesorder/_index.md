@@ -1,7 +1,7 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.AxisesOrder"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeocentricSpatialReferenceSystemParameters. ترتيب المحاور. الافتراضي هو XYZ"
+description: "خاصية GeocentricSpatialReferenceSystemParameters. ترتيب المحاور. القيمة الافتراضية هي XYZ"
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/axisesorder/
@@ -18,7 +18,7 @@ public GeocentricAxisesOrder AxisesOrder { get; set; }
 
 | استثناء | شرط |
 | --- | --- |
-| ArgumentException | يُرمى في الدالة setter عندما لا يكون الوسيط عضوًا صالحًا في التعداد. |
+| ArgumentException | يُرمى في الدالة setter عندما يكون الوسيط غير عضو صالح في التعداد. |
 
 ### انظر أيضًا
 

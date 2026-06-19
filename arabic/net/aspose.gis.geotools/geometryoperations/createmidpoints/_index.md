@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/geometryoperations/createmidpoints/
 ---
 ## GeometryOperations.CreateMidpoints method
 
-إنشاء نقاط وسط عن طريق إضافة نقطة جديدة في الوسط لكل مقطع.
+إنشاء نقاط وسطية بإضافة نقطة جديدة في الوسط لكل مقطع.
 
 ```csharp
 public static IGeometry CreateMidpoints(IGeometry geometry)

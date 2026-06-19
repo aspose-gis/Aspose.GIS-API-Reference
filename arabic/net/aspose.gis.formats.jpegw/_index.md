@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.JpegW"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "مساحة الاسم Aspose.Gis.Formats.JpegW توفر فئات للعمل مع تنسيق JpegW."
+description: "مساحة الأسماء `Aspose.Gis.Formats.JpegW` توفر فئات للعمل مع تنسيق JpegW."
 type: docs
 weight: 340
 url: /ar/net/aspose.gis.formats.jpegw/
@@ -12,6 +12,6 @@ url: /ar/net/aspose.gis.formats.jpegw/
 
 | فئة | الوصف |
 | --- | --- |
-| [JpegWDriver](./jpegwdriver/) | محرك لتنسيق JpegW النقطي. |
+| [JpegWDriver](./jpegwdriver/) | برنامج تشغيل لتنسيق JpegW النقطي. |
 
 

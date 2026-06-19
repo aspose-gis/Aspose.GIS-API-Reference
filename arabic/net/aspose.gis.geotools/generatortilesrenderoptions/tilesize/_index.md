@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geotools/generatortilesrenderoptions/tilesize/
 ---
 ## GeneratorTilesRenderOptions.TileSize property
 
-حجم البلاطة
+حجم البلاط
 
 ```csharp
 public double TileSize { get; }

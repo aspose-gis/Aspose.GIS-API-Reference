@@ -1,5 +1,5 @@
 ---
-title: "DBase.ترميز"
+title: "DBase.Encoding"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية DBase."
 type: docs

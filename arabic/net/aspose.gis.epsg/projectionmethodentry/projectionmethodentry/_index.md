@@ -1,7 +1,7 @@
 ---
 title: "ProjectionMethodEntry.ProjectionMethodEntry"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "ProjectionMethodEntry المُنشئ."
+description: "ProjectionMethodEntry منشئ."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.epsg/projectionmethodentry/projectionmethodentry/

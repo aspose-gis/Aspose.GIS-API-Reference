@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbellipticarcsegment/gdbellipti
 ---
 ## GdbEllipticArcSegment constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public GdbEllipticArcSegment()

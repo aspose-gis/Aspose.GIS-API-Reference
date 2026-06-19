@@ -16,12 +16,12 @@ public VectorLayer OpenLayer(string path, TopoJsonOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | String | المسار إلى الملف. |
-| الخيارات | TopoJsonOptions | خيارات خاصة بالسائق. |
+| path | String | المسار إلى الملف. |
+| options | TopoJsonOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 
@@ -43,12 +43,12 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | DriverOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | DriverOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 
@@ -71,12 +71,12 @@ public VectorLayer OpenLayer(AbstractPath path, TopoJsonOptions options)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| المسار | AbstractPath | المسار إلى الملف. |
-| الخيارات | TopoJsonOptions | خيارات خاصة بالسائق. |
+| path | AbstractPath | المسار إلى الملف. |
+| options | TopoJsonOptions | خيارات خاصة بالسائق. |
 
 ### قيمة الإرجاع
 
-مثيل من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
+كائن من [`VectorLayer`](../../../aspose.gis/vectorlayer/).
 
 ### انظر أيضًا
 

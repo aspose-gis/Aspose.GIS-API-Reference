@@ -1,7 +1,7 @@
 ---
-title: "بنية CircularArc"
+title: "الهيكل CircularArc"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "بنية Aspose.Gis.Common.CircularArc."
+description: "الهيكل Aspose.Gis.Common.CircularArc."
 type: docs
 weight: 120
 url: /ar/net/aspose.gis.common/circulararc/
@@ -12,7 +12,7 @@ url: /ar/net/aspose.gis.common/circulararc/
 public struct CircularArc : IEquatable<CircularArc>
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |

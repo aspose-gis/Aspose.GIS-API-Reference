@@ -1,7 +1,7 @@
 ---
 title: "MapTransform.XScale"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapTransform خاصية."
+description: "خاصية MapTransform."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/maptransform/xscale/

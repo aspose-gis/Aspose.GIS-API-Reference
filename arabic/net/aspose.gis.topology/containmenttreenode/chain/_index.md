@@ -1,7 +1,7 @@
 ---
 title: "ContainmentTreeNode.Chain"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "ContainmentTreeNode خاصية."
+description: "خاصية ContainmentTreeNode."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.topology/containmenttreenode/chain/

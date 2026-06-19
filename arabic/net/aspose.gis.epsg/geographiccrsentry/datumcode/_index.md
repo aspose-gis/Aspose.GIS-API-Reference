@@ -1,5 +1,5 @@
 ---
-title: "GeographicCrsEntry.رمز_المرجع"
+title: "GeographicCrsEntry.DatumCode"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "GeographicCrsEntry خاصية."
 type: docs

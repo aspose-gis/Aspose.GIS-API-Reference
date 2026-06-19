@@ -12,11 +12,11 @@ url: /ar/net/aspose.gis.common.formats.gdbtable/gdbmultipartshape/
 public class GdbMultiPartShape : GdbShape
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [GdbMultiPartShape](gdbmultipartshape/)() | المُنشئ الافتراضي. |
+| [GdbMultiPartShape](gdbmultipartshape/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 

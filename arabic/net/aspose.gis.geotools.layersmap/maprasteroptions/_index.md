@@ -14,20 +14,20 @@ url: /ar/net/aspose.gis.geotools.layersmap/maprasteroptions/
 public class MapRasterOptions
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [MapRasterOptions](maprasteroptions/)() | المُنشئ الافتراضي. |
+| [MapRasterOptions](maprasteroptions/)() | المنشئ الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [LayerSpatialRefSys](../../aspose.gis.geotools.layersmap/maprasteroptions/layerspatialrefsys/) { get; set; } | يحدد قيمة لإشارة الفضاء للطبقة. |
+| [LayerSpatialRefSys](../../aspose.gis.geotools.layersmap/maprasteroptions/layerspatialrefsys/) { get; set; } | يحدد قيمة للمرجع المكاني للطبقة. |
 | [PixelPerColumn](../../aspose.gis.geotools.layersmap/maprasteroptions/pixelpercolumn/) { get; set; } | عرض النقطية بالبكسل. |
 | [PixelPerRow](../../aspose.gis.geotools.layersmap/maprasteroptions/pixelperrow/) { get; set; } | ارتفاع النقطية بالبكسل. |
-| [Raster](../../aspose.gis.geotools.layersmap/maprasteroptions/raster/) { get; set; } | طبقة نقطية. |
+| [Raster](../../aspose.gis.geotools.layersmap/maprasteroptions/raster/) { get; set; } | طبقة Raster. |
 
 ### انظر أيضًا
 

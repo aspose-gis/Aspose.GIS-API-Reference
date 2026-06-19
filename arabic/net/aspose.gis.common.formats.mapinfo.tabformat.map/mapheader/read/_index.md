@@ -1,7 +1,7 @@
 ---
 title: "MapHeader.Read"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "MapHeader طريقة."
+description: "طريقة MapHeader."
 type: docs
 weight: 20
 url: /ar/net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheader/read/

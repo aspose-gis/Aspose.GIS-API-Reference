@@ -1,7 +1,7 @@
 ---
 title: "SystemDrawingPaintEngine.UpdateState"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "SystemDrawingPaintEngine طريقة."
+description: "طريقة SystemDrawingPaintEngine."
 type: docs
 weight: 140
 url: /ar/net/aspose.gis.painting/systemdrawingpaintengine/updatestate/

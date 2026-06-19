@@ -1,7 +1,7 @@
 ---
 title: "التعداد AutoIds"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "التعداد Aspose.Gis.AutoIds. إنشاء معرفات تلقائيًا"
+description: "التعداد Aspose.Gis.AutoIds. توليد تلقائي للمعرفات"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis/autoids/
@@ -18,9 +18,9 @@ public enum AutoIds
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | إخفاء المعرفات التلقائية. |
-| Number | `1` | زيادة معرفات الأرقام. |
-| Guid | `2` | إنشاء معرفات GUID. |
+| None | `0` | إخفاء Auto Ids. |
+| Number | `1` | زيادة Number Ids. |
+| Guid | `2` | إنشاء Guid Ids. |
 
 ### انظر أيضًا
 

@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.Join"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة VectorLayer. تنضم طبقة إلى الطبقة الحالية"
+description: "طريقة VectorLayer. تنضم طبقة إلى الطبقة الحالية."
 type: docs
 weight: 150
 url: /ar/net/aspose.gis/vectorlayer/join/
@@ -17,7 +17,7 @@ public VectorLayer Join(VectorLayer layer, JoinOptions options)
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | الطبقة | VectorLayer | طبقة للانضمام. |
-| الخيارات | JoinOptions | معلمات الانضمام. |
+| options | JoinOptions | معلمات الانضمام. |
 
 ### قيمة الإرجاع
 

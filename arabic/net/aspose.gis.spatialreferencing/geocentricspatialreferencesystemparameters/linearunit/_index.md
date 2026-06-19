@@ -1,14 +1,14 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.LinearUnit"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية GeocentricSpatialReferenceSystemParameters. الوحدات التي سيتم استخدامها في هذا نظام الإحداثيات المرجعي. الافتراضي هو Meter"
+description: "خاصية GeocentricSpatialReferenceSystemParameters. الوحدات التي ستُستخدم في هذا SRS. القيمة الافتراضية هي Meter"
 type: docs
 weight: 40
 url: /ar/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/linearunit/
 ---
 ## GeocentricSpatialReferenceSystemParameters.LinearUnit property
 
-الوحدات التي سيتم استخدامها في هذا نظام الإحداثيات المرجعي. الافتراضي هو [`Meter`](../../unit/meter/).
+الوحدات التي ستُستخدم في هذا SRS. القيمة الافتراضية هي [`Meter`](../../unit/meter/).
 
 ```csharp
 public Unit LinearUnit { get; set; }

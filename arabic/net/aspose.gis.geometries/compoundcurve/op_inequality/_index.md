@@ -8,7 +8,7 @@ url: /ar/net/aspose.gis.geometries/compoundcurve/op_inequality/
 ---
 ## CompoundCurve Inequality operator
 
-ينفذ العامل !=.
+ينفّذ العامل !=.
 
 ```csharp
 public static bool operator !=(CompoundCurve a, CompoundCurve b)
@@ -16,12 +16,12 @@ public static bool operator !=(CompoundCurve a, CompoundCurve b)
 
 | معامل | نوع | الوصف |
 | --- | --- | --- |
-| a | CompoundCurve | الكائن A. |
-| b | CompoundCurve | الكائن B. |
+| a | CompoundCurve | مثيل A. |
+| b | CompoundCurve | مثيل B. |
 
 ### قيمة الإرجاع
 
-نتيجة المشغل.
+نتيجة العامل.
 
 ### انظر أيضًا
 

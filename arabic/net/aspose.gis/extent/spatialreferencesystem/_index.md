@@ -1,7 +1,7 @@
 ---
 title: "Extent.SpatialReferenceSystem"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية Extent. SpatialReferenceSystem المرتبطة بهذا Extent. يمكن أن تكون null إذا كان SpatialReferenceSystem غير معروف. استخدم GetTransformed لتحويل Extent بين أنظمة الإسناد المكاني المختلفة."
+description: "خاصية Extent. الـ SpatialReferenceSystem المرتبط بهذا الـ extent. يمكن أن يكون null إذا كان الـ SpatialReferenceSystem غير معروف. استخدم GetTransformed لتحويل الـ extent بين أنظمة الإسناد المكاني المختلفة."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/extent/spatialreferencesystem/

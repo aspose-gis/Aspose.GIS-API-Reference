@@ -1,7 +1,7 @@
 ---
 title: "CoordinateSystem.ProjectionId"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية CoordinateSystem."
+description: "CoordinateSystem خاصية."
 type: docs
 weight: 30
 url: /ar/net/aspose.gis.common.formats.mapinfo/coordinatesystem/projectionid/

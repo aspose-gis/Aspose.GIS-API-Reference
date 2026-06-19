@@ -1,7 +1,7 @@
 ---
 title: "IAlongLinePlacer.AccumulateCandidates"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "IAlongLinePlacer طريقة"
+description: "طريقة IAlongLinePlacer."
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.labeling.line/ialonglineplacer/accumulatecandidates/

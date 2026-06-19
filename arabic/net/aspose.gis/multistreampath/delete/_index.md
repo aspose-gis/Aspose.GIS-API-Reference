@@ -1,7 +1,7 @@
 ---
 title: "MultiStreamPath.Delete"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "طريقة MultiStreamPath. تحذف ملفًا يشير إليه هذا المسار"
+description: "طريقة MultiStreamPath. تحذف ملفًا يشير إليه هذا المسار."
 type: docs
 weight: 50
 url: /ar/net/aspose.gis/multistreampath/delete/
@@ -22,7 +22,7 @@ public override void Delete()
 
 ## ملاحظات
 
-لن يتم رمي أي استثناء إذا كان الملف غير موجود.
+لا يتم إلقاء استثناء إذا لم يكن الملف موجودًا.
 
 ### انظر أيضًا
 

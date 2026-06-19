@@ -1,14 +1,14 @@
 ---
 title: "KmlBalloonStyle.TextColor"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlBalloonStyle. تحدد لون النص الأمامي. القيمة الافتراضية هي Black"
+description: "خاصية KmlBalloonStyle. تحدد لون المقدمة للنص. القيمة الافتراضية هي Black"
 type: docs
 weight: 50
 url: /ar/net/aspose.gis.formats.kml.styles/kmlballoonstyle/textcolor/
 ---
 ## KmlBalloonStyle.TextColor property
 
-يحدد لون النص الأمامي. القيمة الافتراضية أسود.
+تحدد لون المقدمة للنص. القيمة الافتراضية هي Black.
 
 ```csharp
 public Color TextColor { get; set; }

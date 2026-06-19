@@ -18,7 +18,7 @@ public static class QueryableLayerExtension
 
 | الاسم | الوصف |
 | --- | --- |
-| static [ToVectorLayerAsync](../../aspose.gis.formats.database.fromdefinition/queryablelayerextension/tovectorlayerasync/)(this IQueryable&lt;Feature&gt;) | تبدأ عملية الاستخراج مباشرةً من قاعدة البيانات. وتُعيد طبقة من البيانات يمكنك تعديلها وحفظها. |
+| static [ToVectorLayerAsync](../../aspose.gis.formats.database.fromdefinition/queryablelayerextension/tovectorlayerasync/)(this IQueryable&lt;Feature&gt;) | يبدأ عملية الاستخراج من قاعدة البيانات مباشرةً. ويعيد طبقة بيانات يمكنك تعديلها وحفظها. |
 
 ### انظر أيضًا
 

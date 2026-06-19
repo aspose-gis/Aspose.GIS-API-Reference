@@ -18,7 +18,7 @@ public bool TryCreateTransformationTo(SpatialReferenceSystem targetSrs,
 | معامل | نوع | الوصف |
 | --- | --- | --- |
 | targetSrs | SpatialReferenceSystem | آخر `SpatialReferenceSystem`. |
-| قيمة | SpatialReferenceSystemTransformation& | عند إرجاع هذه الطريقة `true`، يحتوي على تحويل؛ وإلا، يحتوي على `null`. |
+| القيمة | SpatialReferenceSystemTransformation& | عند إرجاع هذه الطريقة `true`، يحتوي على تحويل؛ وإلا يحتوي على `null`. |
 
 ### قيمة الإرجاع
 

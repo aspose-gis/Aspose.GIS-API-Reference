@@ -1,14 +1,14 @@
 ---
 title: "XmlQualifiedNamespace.XmlQualifiedNamespace"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "XmlQualifiedNamespace المنشئ. المنشئ الافتراضي"
+description: "XmlQualifiedNamespace منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.gis.common.formats.xml/xmlqualifiednamespace/xmlqualifiednamespace/
 ---
 ## XmlQualifiedNamespace constructor
 
-المُنشئ الافتراضي.
+المنشئ الافتراضي.
 
 ```csharp
 public XmlQualifiedNamespace()

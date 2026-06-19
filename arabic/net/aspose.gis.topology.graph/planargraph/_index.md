@@ -1,5 +1,5 @@
 ---
-title: "فئة PlanarGraph"
+title: "الفئة PlanarGraph"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "فئة Aspose.Gis.Topology.Graph.PlanarGraph."
 type: docs

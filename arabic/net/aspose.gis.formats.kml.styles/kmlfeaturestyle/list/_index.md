@@ -1,7 +1,7 @@
 ---
 title: "KmlFeatureStyle.List"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "خاصية KmlFeatureStyle. تحدد كيفية عرض الميزة في عرض القائمة. استخدم null للإشارة إلى نمط مفقود. القيمة الافتراضية هي null"
+description: "خاصية KmlFeatureStyle. تحدد كيف يتم عرض Feature في عرض القائمة. استخدم null للإشارة إلى نمط مفقود. القيمة الافتراضية هي null"
 type: docs
 weight: 60
 url: /ar/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/list/

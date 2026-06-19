@@ -1,5 +1,5 @@
 ---
-title: "ICache2.عدد"
+title: "ICache2.Count"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
 description: "خاصية ICache."
 type: docs

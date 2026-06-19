@@ -1,7 +1,7 @@
 ---
 title: "الفئة PaintEngine"
 second_title: "مرجع API لـ Aspose.GIS لـ .NET"
-description: "Aspose.Gis.Painting.PaintEngine فئة."
+description: "Aspose.Gis.Painting.PaintEngine الفئة."
 type: docs
 weight: 3460
 url: /ar/net/aspose.gis.painting/paintengine/
