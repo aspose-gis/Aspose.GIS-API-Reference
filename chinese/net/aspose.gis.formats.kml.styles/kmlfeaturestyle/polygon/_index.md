@@ -1,7 +1,7 @@
 ---
 title: "KmlFeatureStyle.Polygon"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "KmlFeatureStyle 属性。指定所有多边形（包括多边形拉伸和线拉伸）的绘制样式。使用 null 表示缺少样式。默认值为 null"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "KmlFeatureStyle 属性。指定所有多边形（包括多边形挤压和线条挤压）的绘制样式。使用 null 表示缺少样式。默认值为 null"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/polygon/

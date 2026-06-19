@@ -1,6 +1,6 @@
 ---
 title: "Rectangle.GetHashCode"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Rectangle 方法。"
 type: docs
 weight: 140

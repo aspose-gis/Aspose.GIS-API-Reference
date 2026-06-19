@@ -1,6 +1,6 @@
 ---
 title: "VectorLayer.Open"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorLayer 方法。打开图层进行读取"
 type: docs
 weight: 20
@@ -16,8 +16,8 @@ public static VectorLayer Open(string path, FileDriver driver)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 文件的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
 
@@ -29,8 +29,8 @@ public static VectorLayer Open(string path, FileDriver driver)
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
-| IOException | 发生 I/O 错误。 |
+| [GisException](../../gisexception/) | 从文件读取要素时出错。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -52,7 +52,7 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
 
@@ -64,8 +64,8 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver)
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
-| IOException | 发生 I/O 错误。 |
+| [GisException](../../gisexception/) | 从文件读取要素时出错。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -87,8 +87,8 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 文件的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -101,8 +101,8 @@ public static VectorLayer Open(string path, FileDriver driver, DriverOptions opt
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
-| IOException | 发生 I/O 错误。 |
+| [GisException](../../gisexception/) | 从文件读取要素时出错。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -125,7 +125,7 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -138,8 +138,8 @@ public static VectorLayer Open(AbstractPath path, FileDriver driver, DriverOptio
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
-| IOException | 发生 I/O 错误。 |
+| [GisException](../../gisexception/) | 从文件读取要素时出错。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 

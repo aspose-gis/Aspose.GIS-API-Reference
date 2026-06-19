@@ -1,6 +1,6 @@
 ---
 title: "MultiCurve.IsClosed"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MultiCurve 属性。确定此曲线是否闭合"
 type: docs
 weight: 40
@@ -16,7 +16,7 @@ public virtual bool IsClosed { get; }
 
 ### Property Value
 
-如果此实例闭合则为 `true`；否则为 `false`。
+`true` if this instance is closed; otherwise, `false`.
 
 ### 另见
 

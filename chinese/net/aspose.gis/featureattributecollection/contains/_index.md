@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttributeCollection.Contains"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttributeCollection 方法。确定属性集合是否包含具有指定名称的属性"
 type: docs
 weight: 50
@@ -16,7 +16,7 @@ public bool Contains(string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 属性的名称。 |
+| 名称 | 字符串 | 属性的名称。 |
 
 ### 返回值
 

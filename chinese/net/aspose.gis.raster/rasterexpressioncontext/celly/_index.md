@@ -1,14 +1,14 @@
 ---
 title: "RasterExpressionContext.CellY"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterExpressionContext 属性。获取或设置行值 y 坐标。编号从 0 开始"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterExpressionContext 属性。获取或设置行值 y 坐标。编号从 0 开始。"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.raster/rasterexpressioncontext/celly/
 ---
 ## RasterExpressionContext.CellY property
 
-获取或设置行值 (y 坐标)。编号从 0 开始。
+获取或设置行值（y 坐标）。编号从 0 开始。
 
 ```csharp
 public int CellY { get; }

@@ -1,6 +1,6 @@
 ---
 title: "Identifier.Epsg"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Identifier 方法。创建一个新的 Identifier，表示代码为 epsgCode 的 EPSG 标识符"
 type: docs
 weight: 20
@@ -20,7 +20,7 @@ public static Identifier Epsg(int epsgCode)
 
 ### 返回值
 
-使用 [`AuthorityName`](../authorityname/) 为 "EPSG" 且 [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/)*epsgCode* 的新标识符。如果 *epsgCode* 小于 0，则返回 `null`;
+使用 [`AuthorityName`](../authorityname/) "EPSG" 和 [`AuthorityUniqueIdentifier`](../authorityuniqueidentifier/)*epsgCode* 创建的新标识符。如果 *epsgCode* 小于 0，则返回 `null`；
 
 ### 另见
 

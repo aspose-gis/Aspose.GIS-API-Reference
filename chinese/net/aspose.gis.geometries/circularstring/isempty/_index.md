@@ -1,7 +1,7 @@
 ---
 title: "CircularString.IsEmpty"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CircularString 属性。获取一个值，指示此实例是否为空"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CircularString 属性。获取指示此实例是否为空的值"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.geometries/circularstring/isempty/

@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.CreateGeographic"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem method. 从自定义参数创建 geographic SRS"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 方法。使用自定义参数创建地理 SRS"
 type: docs
 weight: 360
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/creategeographic/
@@ -22,7 +22,7 @@ public static GeographicSpatialReferenceSystem CreateGeographic(
 
 ### 返回值
 
-新的 Geographic SRS。
+新的地理 SRS。
 
 ### 另见
 

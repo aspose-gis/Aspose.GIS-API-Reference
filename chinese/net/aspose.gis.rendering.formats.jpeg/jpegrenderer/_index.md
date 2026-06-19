@@ -1,6 +1,6 @@
 ---
 title: "类 JpegRenderer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Formats.Jpeg.JpegRenderer 类。一个将 Map 渲染为 JPEG 文件的渲染器"
 type: docs
 weight: 4020

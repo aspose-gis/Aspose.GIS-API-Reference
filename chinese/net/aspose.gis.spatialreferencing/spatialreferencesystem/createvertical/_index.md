@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.CreateVertical"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 方法。创建垂直 SRS"
 type: docs
 weight: 390
@@ -18,10 +18,10 @@ public static VerticalSpatialReferenceSystem CreateVertical(string name,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | SRS 的名称。如果为 `null`。 |
-| verticalDatum | VerticalDatum | 在 SRS 中使用的基准面。 |
+| 名称 | 字符串 | SRS 的名称。如果为 `null`。 |
+| verticalDatum | VerticalDatum | 在 SRS 中使用的基准。 |
 | verticalUnit | Unit | 在 SRS 中使用的单位。如果 `null`，将使用 [`Meter`](../../unit/meter/)。 |
-| verticalAxis | 轴 | 在 SRS 中使用的轴，方向为 up 或 down。如果 `null`，将使用向上的轴。 |
+| verticalAxis | 轴 | 方向为 "up" 或 "down" 的轴，使用于 SRS。如果 `null`，将使用向上的轴。 |
 | 标识符 | 标识符 | 标识符，将附加到 SRS。附加标识符不会修改其他 SRS 参数。由您自行确保标识符与 SRS 参数的一致性。 |
 
 ### 返回值

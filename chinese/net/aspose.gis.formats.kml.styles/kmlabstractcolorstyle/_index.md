@@ -1,6 +1,6 @@
 ---
 title: "类 KmlAbstractColorStyle"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.Kml.Styles.KmlAbstractColorStyle 类。提供用于指定从其派生的样式类型的颜色和颜色模式的元素"
 type: docs
 weight: 2060
@@ -24,8 +24,8 @@ public class KmlAbstractColorStyle
 
 | 名称 | 描述 |
 | --- | --- |
-| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | 指定图形元素的颜色。 默认值 白色。 |
-| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | 指定图形元素的颜色模式。 默认值： 正常。 |
+| [Color](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/color/) { get; set; } | 指定图形元素的颜色。默认值为 White。 |
+| [ColorMode](../../aspose.gis.formats.kml.styles/kmlabstractcolorstyle/colormode/) { get; set; } | 指定图形元素的颜色模式。默认值：normal。 |
 
 ### 另见
 

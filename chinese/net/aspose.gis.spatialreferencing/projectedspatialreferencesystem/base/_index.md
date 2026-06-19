@@ -1,14 +1,14 @@
 ---
 title: "ProjectedSpatialReferenceSystem.Base"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ProjectedSpatialReferenceSystem 属性。投影应用于的地理 SRS，以获取此 SRS"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ProjectedSpatialReferenceSystem 属性。投影已应用于的地理 SRS，以获得此 SRS。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystem/base/
 ---
 ## ProjectedSpatialReferenceSystem.Base property
 
-投影（[`Projection`](../projection/)）被应用于的地理 SRS，以获取此 SRS。
+[`Projection`](../projection/) 已应用于的地理 SRS，以获取此 SRS。
 
 ```csharp
 public abstract GeographicSpatialReferenceSystem Base { get; }

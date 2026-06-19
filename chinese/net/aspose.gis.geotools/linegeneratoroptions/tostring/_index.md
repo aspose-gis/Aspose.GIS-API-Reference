@@ -1,6 +1,6 @@
 ---
 title: "LineGeneratorOptions.ToString"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LineGeneratorOptions 方法。返回表示当前对象的字符串"
 type: docs
 weight: 60

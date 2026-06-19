@@ -1,7 +1,7 @@
 ---
 title: "Renderers.Svg"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Renderers 属性。将渲染输出为 SVG 格式的渲染器。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Renderers 属性。将内容渲染为 SVG 格式的渲染器"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering/renderers/svg/

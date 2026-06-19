@@ -1,6 +1,6 @@
 ---
 title: "枚举 ProjectionMethodIdentifier"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Projections.ProjectionMethodIdentifier 枚举。"
 type: docs
 weight: 3740

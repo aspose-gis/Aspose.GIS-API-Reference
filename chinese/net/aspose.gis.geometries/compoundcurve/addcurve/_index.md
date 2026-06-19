@@ -1,6 +1,6 @@
 ---
 title: "CompoundCurve.AddCurve"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CompoundCurve 方法。向此 CompoundCurve 的末尾添加曲线"
 type: docs
 weight: 120
@@ -23,7 +23,7 @@ public void AddCurve(ICurve curve)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 参数类型为 [`CompoundCurve`](../)。此几何体的 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 为空，且参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 参数类型是 [`CompoundCurve`](../) 参数为空 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)（此几何体的）且参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且两者不相等 |
 
 ### 另见
 

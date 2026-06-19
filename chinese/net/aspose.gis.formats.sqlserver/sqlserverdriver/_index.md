@@ -1,6 +1,6 @@
 ---
 title: "类 SqlServerDriver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.SqlServer.SqlServerDriver 类。SQL Server 数据库的驱动程序"
 type: docs
 weight: 2330

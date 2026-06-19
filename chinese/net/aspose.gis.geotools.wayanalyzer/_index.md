@@ -1,6 +1,6 @@
 ---
 title: "Aspose.Gis.GeoTools.WayAnalyzer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.WayAnalyzer 命名空间包含表示地理工具的类"
 type: docs
 weight: 530

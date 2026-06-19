@@ -1,7 +1,7 @@
 ---
 title: "GeometryCollection.RemoveAt"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeometryCollection 方法。从集合中移除指定的几何体"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeometryCollection 方法。将指定的几何体从集合中移除"
 type: docs
 weight: 180
 url: /zh/net/aspose.gis.geometries/geometrycollection/removeat/

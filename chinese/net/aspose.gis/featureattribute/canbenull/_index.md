@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttribute.CanBeNull"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttribute 属性。获取一个值，指示此实例是否可以为 null"
 type: docs
 weight: 20

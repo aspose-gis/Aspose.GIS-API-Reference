@@ -1,7 +1,7 @@
 ---
 title: "枚举 ByteOrder"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.IO.ByteOrder 枚举."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.IO.ByteOrder 枚举。"
 type: docs
 weight: 1240
 url: /zh/net/aspose.gis.common.io/byteorder/

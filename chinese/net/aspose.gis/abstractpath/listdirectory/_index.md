@@ -1,7 +1,7 @@
 ---
 title: "AbstractPath.ListDirectory"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "AbstractPath 方法。返回位于此 AbstractPath 内的路径，如果它是目录"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "AbstractPath 方法。返回位于此 AbstractPath 内的路径（如果它是目录）"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis/abstractpath/listdirectory/

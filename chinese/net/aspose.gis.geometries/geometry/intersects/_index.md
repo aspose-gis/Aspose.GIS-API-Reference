@@ -1,7 +1,7 @@
 ---
 title: "Geometry.Intersects"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 方法。确定此几何是否与指定范围相交"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "几何方法。确定此几何是否与指定的范围相交"
 type: docs
 weight: 280
 url: /zh/net/aspose.gis.geometries/geometry/intersects/
@@ -20,7 +20,7 @@ public bool Intersects(Extent extent)
 
 ### 返回值
 
-`true` 如果此几何与范围相交；`false` 否则。
+`true` 表示此几何与范围相交；`false` 表示否则。
 
 ### 异常
 
@@ -40,7 +40,7 @@ public bool Intersects(Extent extent)
 
 ## Intersects(IGeometry) {#intersects_1}
 
-确定此几何体与指定几何体是否相交。
+确定此几何体和指定几何体是否相交。
 
 ```csharp
 public bool Intersects(IGeometry other)
@@ -52,7 +52,7 @@ public bool Intersects(IGeometry other)
 
 ### 返回值
 
-`true` 如果此几何 "空间相交" 另一个几何。`false` 否则。
+`true` 表示此几何“空间相交”另一个几何；`false` 表示否则。
 
 ### 异常
 
@@ -60,7 +60,7 @@ public bool Intersects(IGeometry other)
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
 | ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 的几何体空间参考系统不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
 ## 备注
 
@@ -70,7 +70,7 @@ public bool Intersects(IGeometry other)
 !this.Disjoint(other);
 ```
 
-这是 [`Disjoint`](../../igeometry/disjoint/) 的否定。请参阅 [`Disjoint`](../../igeometry/disjoint/) 获取更多细节。
+这是对[`Disjoint`](../../igeometry/disjoint/)的否定。更多细节请参见[`Disjoint`](../../igeometry/disjoint/)。
 
 ### 另见
 

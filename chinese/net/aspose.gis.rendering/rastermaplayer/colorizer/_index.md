@@ -1,6 +1,6 @@
 ---
 title: "RasterMapLayer.Colorizer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterMapLayer 属性。用于渲染栅格单元的 Colorizer"
 type: docs
 weight: 20

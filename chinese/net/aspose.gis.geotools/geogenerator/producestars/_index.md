@@ -1,6 +1,6 @@
 ---
 title: "GeoGenerator.ProduceStars"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoGenerator 方法。创建一个星形数组，所有星形都位于给定范围内"
 type: docs
 weight: 40
@@ -27,8 +27,8 @@ public static IEnumerable<IPolygon> ProduceStars(Extent rect, StarGeneratorOptio
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 星形数量必须大于 1。 |
-| NullReferenceException | Extent 必须有值（不能为空） |
+| ArgumentOutOfRangeException | 星形数量必须大于1。 |
+| NullReferenceException | Extent 必须有值（不能为 NULL） |
 | ArgumentException | 最小长度和最大长度必须不相等且大于 3 |
 | ArgumentException | 最大长度必须大于最小长度 |
 

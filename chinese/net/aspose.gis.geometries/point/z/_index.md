@@ -1,7 +1,7 @@
 ---
 title: "Point.Z"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Point 属性。获取或设置 z 坐标的值"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Point 属性。获取或设置 Z 坐标的值"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.geometries/point/z/

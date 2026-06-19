@@ -1,6 +1,6 @@
 ---
 title: "类 Feature"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Feature 类。由几何对象和用户自定义属性组成的地理要素"
 type: docs
 weight: 1620
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis/feature/
 ---
 ## Feature class
 
-由几何形状和用户定义属性组成的地理要素。
+由几何和用户定义属性组成的地理要素。
 
 ```csharp
 public class Feature
@@ -37,7 +37,7 @@ public class Feature
 | [IsValueSet](../../aspose.gis/feature/isvalueset/)(string) | 检查此特性中是否已设置属性值。 |
 | [SetValue&lt;T&gt;](../../aspose.gis/feature/setvalue/)(string, T) | 设置属性的新值。 |
 | [SetValueNull](../../aspose.gis/feature/setvaluenull/)(string) | 将属性的值设置为 `null`。 |
-| [SetValues](../../aspose.gis/feature/setvalues/)(object[]) | 为所有属性设置新值。同时考虑使用[`CopyValues`](./copyvalues/)方法，以在一次调用中简化设置值的过程。 |
+| [SetValues](../../aspose.gis/feature/setvalues/)(object[]) | 为所有属性设置新值。还可以考虑使用[`CopyValues`](./copyvalues/)方法，以在一次调用中简化设置值。 |
 | [UnsetValue](../../aspose.gis/feature/unsetvalue/)(string) | 从此特性中移除属性值。 |
 
 ### 另见

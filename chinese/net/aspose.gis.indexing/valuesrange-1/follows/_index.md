@@ -1,6 +1,6 @@
 ---
 title: "ValuesRange1.Follows"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ValuesRange 方法。"
 type: docs
 weight: 120

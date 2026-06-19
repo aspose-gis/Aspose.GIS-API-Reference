@@ -1,6 +1,6 @@
 ---
 title: "CsvOptions.DoubleQuoteEscape"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CsvOptions 属性。获取或设置用于双引号转义的字符。默认值为"
 type: docs
 weight: 80

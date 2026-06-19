@@ -1,6 +1,6 @@
 ---
 title: "GmlDriver.SupportsSpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GmlDriver 方法。确定驱动程序是否支持指定的空间参考系统。"
 type: docs
 weight: 60
@@ -20,7 +20,7 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### 返回值
 
-布尔值，指示指定的空间参考系统是否受驱动程序支持。
+布尔值，指示指定的空间参考系统是否受到驱动程序支持。
 
 ### 另见
 

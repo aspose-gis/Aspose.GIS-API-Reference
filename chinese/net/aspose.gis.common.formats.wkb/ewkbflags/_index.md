@@ -1,6 +1,6 @@
 ---
 title: "枚举 EWkbFlags"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Formats.Wkb.EWkbFlags 枚举。"
 type: docs
 weight: 960

@@ -1,6 +1,6 @@
 ---
 title: "GeographicSpatialReferenceSystem.AsGeographic"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeographicSpatialReferenceSystem 属性。返回此对象"
 type: docs
 weight: 20

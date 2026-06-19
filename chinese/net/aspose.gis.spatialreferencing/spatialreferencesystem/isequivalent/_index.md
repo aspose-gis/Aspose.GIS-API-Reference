@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.IsEquivalent"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 方法。检测此 SRS 是否等价于其他 SRS。"
 type: docs
 weight: 220
@@ -16,11 +16,11 @@ public virtual bool IsEquivalent(SpatialReferenceSystem other)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 其他 | SpatialReferenceSystem | 其他 SRS. |
+| 其他 | SpatialReferenceSystem | 其他 SRS。 |
 
 ### 返回值
 
-bool 值，指示此 SRS 是否等价于其他 SRS.
+bool 值，指示此 SRS 是否等价于其他 SRS。
 
 ### 另见
 

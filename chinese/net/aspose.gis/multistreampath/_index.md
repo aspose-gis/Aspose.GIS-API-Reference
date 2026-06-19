@@ -1,6 +1,6 @@
 ---
 title: "类 MultiStreamPath"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.MultiStreamPath 类。此类用于处理包含多个文件的格式。"
 type: docs
 weight: 3430
@@ -40,7 +40,7 @@ public class MultiStreamPath : AbstractPath, IDisposable
 | [GetFileNameWithoutExtension](../../aspose.gis/abstractpath/getfilenamewithoutextension/)() | 返回此 [`AbstractPath`](../abstractpath/) 的文件名（不含扩展名）。 |
 | override [IsFile](../../aspose.gis/multistreampath/isfile/)() | 获取一个值，指示此路径是否指向可供读取的现有文件。 |
 | override [ListDirectory](../../aspose.gis/multistreampath/listdirectory/)() | 如果这是目录，则返回位于此 `AbstractPath` 内的路径。 |
-| override [Open](../../aspose.gis/multistreampath/open/)(FileAccess) | 抽象出一组用于访问数据的打开流式多文件格式的路径。 |
+| override [Open](../../aspose.gis/multistreampath/open/)(FileAccess) | 抽象出一组打开的流式多文件格式的路径，用于访问数据。 |
 | virtual [WithExtension](../../aspose.gis/abstractpath/withextension/)(string) | 返回一个新的 [`AbstractPath`](../abstractpath/)，其文件扩展名已更改为指定值。 |
 
 ### 另见

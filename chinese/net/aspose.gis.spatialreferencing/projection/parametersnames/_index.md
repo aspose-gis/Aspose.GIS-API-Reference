@@ -1,6 +1,6 @@
 ---
 title: "Projection.ParametersNames"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Projection 属性。获取分配给此投影的参数名称的可枚举集合"
 type: docs
 weight: 30

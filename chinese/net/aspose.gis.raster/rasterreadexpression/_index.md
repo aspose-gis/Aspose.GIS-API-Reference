@@ -1,6 +1,6 @@
 ---
 title: "委托 RasterReadExpression"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "表示读取表达式的委托"
 type: docs
 weight: 3840

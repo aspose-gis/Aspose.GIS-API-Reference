@@ -1,6 +1,6 @@
 ---
 title: "Point.Point"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Point 构造函数。初始化 Point 类的新实例"
 type: docs
 weight: 10

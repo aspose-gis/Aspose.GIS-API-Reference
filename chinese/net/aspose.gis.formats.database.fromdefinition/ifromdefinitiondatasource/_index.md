@@ -1,6 +1,6 @@
 ---
 title: "接口 IFromDefinitionDataSource"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.Database.FromDefinition.IFromDefinitionDataSource 接口。提供通过 LINQ 从数据库读取地理空间数据并更新它们的能力"
 type: docs
 weight: 1770

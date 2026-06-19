@@ -1,7 +1,7 @@
 ---
 title: "PolygonGeneratorOptions.MaximumPolygonPoints"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "PolygonGeneratorOptions 属性。生成的多边形的最大长度"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "PolygonGeneratorOptions property. 生成的多边形的最大长度"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geotools/polygongeneratoroptions/maximumpolygonpoints/

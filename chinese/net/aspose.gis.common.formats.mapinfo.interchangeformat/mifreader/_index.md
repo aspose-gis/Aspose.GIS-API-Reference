@@ -1,7 +1,7 @@
 ---
 title: "类 MifReader"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifReader 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MifReader 类."
 type: docs
 weight: 750
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreader/

@@ -1,6 +1,6 @@
 ---
 title: "Drivers.Kml"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Drivers 属性。用于 KML 格式的驱动程序"
 type: docs
 weight: 150
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis/drivers/kml/
 ---
 ## Drivers.Kml property
 
-用于 KML 格式的驱动程序。
+KML 格式的驱动程序。
 
 ```csharp
 public static KmlDriver Kml { get; }

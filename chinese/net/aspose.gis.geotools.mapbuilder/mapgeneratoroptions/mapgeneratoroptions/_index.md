@@ -1,6 +1,6 @@
 ---
 title: "MapGeneratorOptions.MapGeneratorOptions"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapGeneratorOptions 构造函数。使用默认选项创建实例"
 type: docs
 weight: 10

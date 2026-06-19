@@ -1,6 +1,6 @@
 ---
 title: "KmlListStyle.MaxSnippetLines"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlListStyle 属性。指定列表视图中显示的最大行数。默认值为 2"
 type: docs
 weight: 50

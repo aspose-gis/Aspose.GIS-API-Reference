@@ -1,7 +1,7 @@
 ---
 title: "Polygon.AddInteriorRing"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Polygon 方法。添加内部环。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Polygon 方法。添加内部环"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.geometries/polygon/addinteriorring/
@@ -23,7 +23,7 @@ public void AddInteriorRing(ILinearRing ring)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 此几何体的 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 与参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 此几何体的[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null`，且彼此不相等。 |
 
 ### 另见
 

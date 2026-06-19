@@ -1,7 +1,7 @@
 ---
 title: "Geometry.GeometryType"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 属性。获取几何体的类型。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Geometry 属性。获取几何体的类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geometries/geometry/geometrytype/

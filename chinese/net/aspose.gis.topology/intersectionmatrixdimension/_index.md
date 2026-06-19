@@ -1,7 +1,7 @@
 ---
 title: "枚举 IntersectionMatrixDimension"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.IntersectionMatrixDimension 枚举。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.IntersectionMatrixDimension 枚举."
 type: docs
 weight: 4990
 url: /zh/net/aspose.gis.topology/intersectionmatrixdimension/

@@ -1,6 +1,6 @@
 ---
 title: "DatabaseExternalSrsSettingsBuilder.EndExternalSrs"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "DatabaseExternalSrsSettingsBuilder 方法。完成外部 SRS 的配置并返回父上下文。"
 type: docs
 weight: 10
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.formats.database/databaseexternalsrssettingsbuilder/ende
 ---
 ## DatabaseExternalSrsSettingsBuilder.EndExternalSrs method
 
-完成外部空间参考系统的配置并返回父上下文。
+完成外部 SRS 的配置并返回父上下文。
 
 ```csharp
 public DatabaseQueryDataSourceBuilder EndExternalSrs()

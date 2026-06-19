@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.IsSingle"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 属性。返回此 SRS 是否为单一的，而不是两个 SRS 的联合"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 属性。返回此 SRS 是否为单一而非两个 SRS 的联合"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/issingle/

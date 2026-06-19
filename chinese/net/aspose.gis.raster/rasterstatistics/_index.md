@@ -1,6 +1,6 @@
 ---
 title: "类 RasterStatistics"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.RasterStatistics 类。任何栅格图层的统计信息"
 type: docs
 weight: 3860

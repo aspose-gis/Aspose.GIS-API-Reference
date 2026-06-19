@@ -1,7 +1,7 @@
 ---
 title: "WayLayerGenerator.AddBlock"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WayLayerGenerator 方法。将块添加到单元格"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WayLayerGenerator 方法. 将块添加到单元格"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geotools.wayanalyzer/waylayergenerator/addblock/

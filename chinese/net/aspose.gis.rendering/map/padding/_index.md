@@ -1,7 +1,7 @@
 ---
 title: "Map.Padding"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Map 属性。指定要添加到范围的填充"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Map 属性。指定要添加到范围的填充。"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering/map/padding/

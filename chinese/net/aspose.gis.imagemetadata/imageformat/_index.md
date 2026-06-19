@@ -1,6 +1,6 @@
 ---
 title: "枚举 ImageFormat"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.ImageMetadata.ImageFormat 枚举。指定图像的文件格式"
 type: docs
 weight: 3070

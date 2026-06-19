@@ -1,7 +1,7 @@
 ---
 title: "类 ImageSize"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.ImageMetadata.ImageSize 类。表示图像尺寸的类"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.ImageMetadata.ImageSize 类。该类表示图像大小"
 type: docs
 weight: 3090
 url: /zh/net/aspose.gis.imagemetadata/imagesize/

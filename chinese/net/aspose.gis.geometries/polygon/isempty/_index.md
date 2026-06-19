@@ -1,7 +1,7 @@
 ---
 title: "Polygon.IsEmpty"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Polygon 属性。获取指示此实例是否为空的值"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Polygon 属性。获取一个指示此实例是否为空的值"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geometries/polygon/isempty/

@@ -1,14 +1,14 @@
 ---
 title: "Geometry.Within"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 方法。确定此几何体是否位于指定范围内"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Geometry 方法。确定此几何体是否位于指定的范围内"
 type: docs
 weight: 450
 url: /zh/net/aspose.gis.geometries/geometry/within/
 ---
 ## Within(Extent) {#within}
 
-确定此几何体是否位于指定范围内。
+确定此几何体是否位于指定的范围内。
 
 ```csharp
 public bool Within(Extent extent)
@@ -40,7 +40,7 @@ public bool Within(Extent extent)
 
 ## Within(IGeometry) {#within_1}
 
-确定此几何体是否位于指定几何体内部。
+确定此几何体是否位于指定的几何体内。
 
 ```csharp
 public bool Within(IGeometry other)
@@ -60,17 +60,17 @@ public bool Within(IGeometry other)
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
 | ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 的几何体空间参考系统不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
 ## 备注
 
-此方法根据 DE-9IM 相交矩阵测试一个几何体是否位于另一个几何体内部。如果另一个几何体包含该几何体的每个点且几何体内部相交，则该几何体位于另一个几何体内部。此方法等价于：
+此方法测试一个几何体是否在另一个几何体内部，依据 DE-9IM 交叉矩阵。如果另一个几何体包含该几何体的每一点且几何体内部相交，则该几何体位于另一个几何体内部。此方法等价于：
 
 ```csharp
 this.Relate(other, "T*F**F***");
 ```
 
-有关 DE-9IM 和“空间上位于”关系的更多细节，请参阅 OpenGIS Simple Features Specification。
+有关 DE-9IM 和 “空间上位于” 关系的更多细节，请参阅 OpenGIS Simple Features Specification。
 
 ### 另见
 

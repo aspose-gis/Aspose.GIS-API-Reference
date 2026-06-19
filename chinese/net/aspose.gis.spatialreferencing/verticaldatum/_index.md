@@ -1,7 +1,7 @@
 ---
 title: "类 VerticalDatum"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.SpatialReferencing.VerticalDatum 类。指示用于垂直测量的方法"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.SpatialReferencing.VerticalDatum 类。指示用于垂直测量的方法。"
 type: docs
 weight: 4750
 url: /zh/net/aspose.gis.spatialreferencing/verticaldatum/
@@ -24,7 +24,7 @@ public class VerticalDatum : IdentifiableObject
 
 | 名称 | 描述 |
 | --- | --- |
-| [DatumType](../../aspose.gis.spatialreferencing/verticaldatum/datumtype/) { get; } | 一个整数，指示已使用的方法。 |
+| [DatumType](../../aspose.gis.spatialreferencing/verticaldatum/datumtype/) { get; } | 整数，指示所使用的方法。 |
 | [EpsgCode](../../aspose.gis.spatialreferencing/identifiableobject/epsgcode/) { get; } | 如果此对象的标识符是 EPSG 标识符，则返回其代码；否则返回 -1。 |
 | [Identifier](../../aspose.gis.spatialreferencing/identifiableobject/identifier/) { get; } | 此可识别对象的标识符。 |
 | [Name](../../aspose.gis.spatialreferencing/identifiableobject/name/) { get; } | 此对象的名称。 |

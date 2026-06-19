@@ -1,6 +1,6 @@
 ---
 title: "IRasterValues.GetDataType"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IRasterValues 方法。获取值的类型"
 type: docs
 weight: 110

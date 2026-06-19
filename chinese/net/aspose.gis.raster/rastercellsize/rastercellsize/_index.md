@@ -1,6 +1,6 @@
 ---
 title: "RasterCellSize.RasterCellSize"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterCellSize 构造函数。创建 RasterCellSize 的实例"
 type: docs
 weight: 10

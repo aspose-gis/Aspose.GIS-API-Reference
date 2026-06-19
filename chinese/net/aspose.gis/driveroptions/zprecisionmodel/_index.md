@@ -1,6 +1,6 @@
 ---
 title: "DriverOptions.ZPrecisionModel"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "DriverOptions 属性。一个将在几何体添加到 VectorLayer 时或从 VectorLayer 读取时应用于 Z 坐标的 PrecisionModel。默认值为 Exact。"
 type: docs
 weight: 120

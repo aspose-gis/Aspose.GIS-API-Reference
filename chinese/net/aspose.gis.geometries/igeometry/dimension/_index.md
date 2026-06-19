@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Dimension"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 属性。获取此 IGeometry 的拓扑维度。如果维度未知，例如对于空的 GEOMETRYCOLLECTION，则返回 Point"
 type: docs
 weight: 10

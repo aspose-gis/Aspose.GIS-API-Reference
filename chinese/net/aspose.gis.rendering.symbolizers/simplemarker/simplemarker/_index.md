@@ -1,6 +1,6 @@
 ---
 title: "SimpleMarker.SimpleMarker"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleMarker 构造函数。初始化 SimpleMarker 类的新实例"
 type: docs
 weight: 10
@@ -32,7 +32,7 @@ public SimpleMarker(SimpleMarker other)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleMarker | 要从中复制数据的另一个 [`SimpleMarker`](../)。 |
+| other | SimpleMarker | 另一个用于复制数据的 [`SimpleMarker`](../)。 |
 
 ### 异常
 

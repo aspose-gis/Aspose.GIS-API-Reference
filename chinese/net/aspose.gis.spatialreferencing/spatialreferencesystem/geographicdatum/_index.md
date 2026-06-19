@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.GeographicDatum"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem property. 返回此 SRS 的 geographic datum"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 属性。返回此 SRS 的地理基准"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/geographicdatum/
@@ -18,7 +18,7 @@ public abstract GeographicDatum GeographicDatum { get; }
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 此 SRS 没有 geographic datum。[`HasGeographicDatum`](../hasgeographicdatum/) |
+| InvalidOperationException | 此 SRS 没有地理基准。[`HasGeographicDatum`](../hasgeographicdatum/) |
 
 ### 另见
 

@@ -1,7 +1,7 @@
 ---
 title: "类 WktValue"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.Wkt.WktValue 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.Wkt.WktValue 类."
 type: docs
 weight: 1080
 url: /zh/net/aspose.gis.common.formats.wkt/wktvalue/

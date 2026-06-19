@@ -1,6 +1,6 @@
 ---
 title: "RasterImageMarker.VerticalOffset"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterImageMarker 属性。指定从点位置到形状锚点的垂直偏移量"
 type: docs
 weight: 90

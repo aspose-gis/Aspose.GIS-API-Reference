@@ -1,6 +1,6 @@
 ---
 title: "PrecisionModel.Rounding"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "PrecisionModel 方法。返回一个四舍五入精度模型。根据四舍五入精度模型，只有有限数量的数字是有效的"
 type: docs
 weight: 20

@@ -1,6 +1,6 @@
 ---
 title: "FileGdbDriver.EditLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileGdbDriver 方法。打开图层进行编辑"
 type: docs
 weight: 70
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.formats.filegdb/filegdbdriver/editlayer/
 ---
 ## FileGdbDriver.EditLayer method
 
-打开图层进行编辑。
+以编辑模式打开图层。
 
 ```csharp
 public override VectorLayer EditLayer(AbstractPath path, DriverOptions options = null)

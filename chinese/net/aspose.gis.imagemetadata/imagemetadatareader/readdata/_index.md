@@ -1,6 +1,6 @@
 ---
 title: "ImageMetadataReader.ReadData"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ImageMetadataReader 方法。提取所有支持的 EXIF 标记"
 type: docs
 weight: 30
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.imagemetadata/imagemetadatareader/readdata/
 ---
 ## ImageMetadataReader.ReadData method
 
-提取所有受支持的 EXIF 标签
+提取所有受支持的 EXIF 标记
 
 ```csharp
 public ImageData ReadData()
@@ -16,7 +16,7 @@ public ImageData ReadData()
 
 ### 返回值
 
-表示受支持标记集合的 ImageData
+表示支持标签集合的 ImageData
 
 ### 另见
 

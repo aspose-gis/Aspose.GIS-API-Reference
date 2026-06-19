@@ -1,6 +1,6 @@
 ---
 title: "LocalSpatialReferenceSystem.GeographicDatum"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LocalSpatialReferenceSystem 属性。抛出 InvalidOperationException，因为本地 SRS 没有地理基准"
 type: docs
 weight: 30

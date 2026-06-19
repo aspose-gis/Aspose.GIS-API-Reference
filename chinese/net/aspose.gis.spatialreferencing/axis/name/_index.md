@@ -1,7 +1,7 @@
 ---
 title: "Axis.Name"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Axis 属性。此轴的名称。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Axis 属性。此轴的名称"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.spatialreferencing/axis/name/

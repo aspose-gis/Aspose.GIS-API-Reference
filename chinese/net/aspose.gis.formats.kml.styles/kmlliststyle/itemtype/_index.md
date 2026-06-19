@@ -1,6 +1,6 @@
 ---
 title: "KmlListStyle.ItemType"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlListStyle 属性。指定 kmlFolder 及其内容在列表视图中如何显示为项目。默认值为 Check"
 type: docs
 weight: 40

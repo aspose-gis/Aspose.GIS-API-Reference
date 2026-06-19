@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttributeCollection.IsLocked"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttributeCollection 属性。获取一个值，指示此属性集合是否已锁定"
 type: docs
 weight: 20
@@ -16,7 +16,7 @@ public bool IsLocked { get; }
 
 ### Property Value
 
-如果此属性集合已锁定，则为 `true`；否则为 `false`。
+`true` 表示此属性集合已锁定；否则为 `false`。
 
 ### 另见
 

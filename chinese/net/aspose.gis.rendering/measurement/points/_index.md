@@ -1,7 +1,7 @@
 ---
 title: "Measurement.Points"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Measurement 方法。返回一个新的 Measurement 实例，表示以点为单位的长度"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "测量方法。返回一个新的 Measurement 实例，表示以点为单位的长度"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.rendering/measurement/points/

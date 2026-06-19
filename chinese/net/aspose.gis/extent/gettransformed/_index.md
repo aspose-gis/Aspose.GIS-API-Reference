@@ -1,6 +1,6 @@
 ---
 title: "Extent.GetTransformed"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Extent 方法。返回在指定 SpatialReferenceSystem 中包含此范围的新范围"
 type: docs
 weight: 150

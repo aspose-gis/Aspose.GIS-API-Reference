@@ -1,6 +1,6 @@
 ---
 title: "PaintLayerOptions.ScaleY"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "PaintLayerOptions 属性。"
 type: docs
 weight: 50

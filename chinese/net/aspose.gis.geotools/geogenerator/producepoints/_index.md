@@ -1,6 +1,6 @@
 ---
 title: "GeoGenerator.ProducePoints"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoGenerator 方法。创建一个点数组，属于指定区域"
 type: docs
 weight: 20
@@ -27,8 +27,8 @@ public static IEnumerable<IGeometry> ProducePoints(Extent rect, PointGeneratorOp
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 点的数量必须大于 1。 |
-| NullReferenceException | Extent 必须有值（不能为空）。 |
+| ArgumentOutOfRangeException | 点的数量必须大于1。 |
+| NullReferenceException | Extent 必须有值（不能为 NULL）。 |
 
 ### 另见
 

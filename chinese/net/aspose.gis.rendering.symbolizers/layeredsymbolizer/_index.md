@@ -1,6 +1,6 @@
 ---
 title: "类 LayeredSymbolizer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Symbolizers.LayeredSymbolizer 类。一个渲染多个其他符号器的符号器"
 type: docs
 weight: 4280
@@ -34,7 +34,7 @@ public class LayeredSymbolizer : VectorSymbolizer, IReadOnlyList<VectorSymbolize
 | 名称 | 描述 |
 | --- | --- |
 | [Add](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/add/)(VectorSymbolizer) | 添加指定的符号器。 |
-| [GetEnumerator](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator/)() | 返回遍历集合的枚举器。 |
+| [GetEnumerator](../../aspose.gis.rendering.symbolizers/layeredsymbolizer/getenumerator/)() | 返回一个遍历集合的枚举器。 |
 
 ### 另见
 

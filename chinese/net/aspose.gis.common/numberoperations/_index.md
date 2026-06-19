@@ -1,6 +1,6 @@
 ---
 title: "类 NumberOperations"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.NumberOperations 类。"
 type: docs
 weight: 1330

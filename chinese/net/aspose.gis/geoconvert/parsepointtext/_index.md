@@ -1,7 +1,7 @@
 ---
 title: "GeoConvert.ParsePointText"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeoConvert 方法。将包含坐标的字符串转换为 IPoint 对象。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeoConvert 方法。将包含坐标的字符串转换为 IPoint 对象"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/geoconvert/parsepointtext/
@@ -16,7 +16,7 @@ public static IPoint ParsePointText(string text)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 文本 | String | 一个包含待转换坐标的字符串。该字符串应同时包含纬度和经度坐标。坐标应以空格、逗号或分号分隔。 |
+| 文本 | 字符串 | 一个包含待转换坐标的字符串。该字符串应同时包含纬度和经度坐标。坐标应以空格、逗号或分号分隔。 |
 
 ### 返回值
 
@@ -30,7 +30,7 @@ public static IPoint ParsePointText(string text)
 
 ## 备注
 
-示例：\"80° 151°\", \"74°50.82', 172°08.21'\", \"80°;151°\", \"2CMB\", \"2CMB6682893142\", \"2C MB 66828 93142\", \"WMAQ12405535\"。
+示例："80° 151°", "74°50.82', 172°08.21'", "80°;151°", "2CMB", "2CMB6682893142", "2C MB 66828 93142", "WMAQ12405535"。
 
 ### 另见
 

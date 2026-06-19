@@ -1,6 +1,6 @@
 ---
 title: "LocalSpatialReferenceSystem.Unit"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LocalSpatialReferenceSystem 属性。此 SRS 的单位"
 type: docs
 weight: 90

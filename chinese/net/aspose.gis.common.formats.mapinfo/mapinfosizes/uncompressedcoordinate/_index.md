@@ -1,6 +1,6 @@
 ---
 title: "MapInfoSizes.UncompressedCoordinate"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapInfoSizes 字段。"
 type: docs
 weight: 80

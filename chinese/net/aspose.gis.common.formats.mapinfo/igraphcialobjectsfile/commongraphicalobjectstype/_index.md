@@ -1,7 +1,7 @@
 ---
 title: "IGraphcialObjectsFile.CommonGraphicalObjectsType"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IGraphcialObjectsFile 属性。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IGraphcialObjectsFile 属性."
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.common.formats.mapinfo/igraphcialobjectsfile/commongraphicalobjectstype/

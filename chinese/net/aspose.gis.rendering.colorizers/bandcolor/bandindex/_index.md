@@ -1,6 +1,6 @@
 ---
 title: "BandColor.BandIndex"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BandColor 属性。指定波段的索引。编号从 0 开始"
 type: docs
 weight: 20

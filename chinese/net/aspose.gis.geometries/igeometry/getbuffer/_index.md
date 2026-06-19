@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.GetBuffer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。计算此几何对象周围的缓冲区。"
 type: docs
 weight: 200
@@ -17,7 +17,7 @@ public IGeometry GetBuffer(double distance, int quadrantSegments = 30)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | distance | Double | 缓冲区宽度（以空间参考单位计）。 |
-| quadrantSegments | Int32 | 用于近似 90 度曲率的段数。该数值越大，曲线的近似程度越好。默认值为 30。 |
+| quadrantSegments | Int32 | 用于近似 90 度曲率的段数。该数字越大，曲线的近似效果越好。默认值为 30。 |
 
 ### 返回值
 

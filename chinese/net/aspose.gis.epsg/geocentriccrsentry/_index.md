@@ -1,6 +1,6 @@
 ---
 title: "类 GeocentricCrsEntry"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Epsg.GeocentricCrsEntry 类。"
 type: docs
 weight: 1500

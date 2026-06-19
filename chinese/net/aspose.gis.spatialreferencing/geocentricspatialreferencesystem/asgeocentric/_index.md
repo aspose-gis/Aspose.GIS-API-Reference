@@ -1,7 +1,7 @@
 ---
 title: "GeocentricSpatialReferenceSystem.AsGeocentric"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeocentricSpatialReferenceSystem 属性。返回 this"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeocentricSpatialReferenceSystem 属性。返回此"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystem/asgeocentric/

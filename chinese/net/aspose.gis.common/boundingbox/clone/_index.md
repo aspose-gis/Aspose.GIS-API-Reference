@@ -1,6 +1,6 @@
 ---
-title: "BoundingBox 克隆"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "BoundingBox.Clone"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BoundingBox 方法。"
 type: docs
 weight: 230

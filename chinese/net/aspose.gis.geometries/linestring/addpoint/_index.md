@@ -1,6 +1,6 @@
 ---
 title: "LineString.AddPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LineString 方法。向线的末尾添加一个点"
 type: docs
 weight: 110
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/linestring/addpoint/
 ---
 ## AddPoint(IPoint) {#addpoint}
 
-在直线的末尾添加一个点。
+在直线的末端添加一个点。
 
 ```csharp
 public void AddPoint(IPoint point)
@@ -23,8 +23,8 @@ public void AddPoint(IPoint point)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 参数为空（其 [`IsEmpty`](../../igeometry/isempty/) 为 `true`）。 |
-| ArgumentException | 此几何体的 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 与参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 参数为空（其[`IsEmpty`](../../igeometry/isempty/) 为 `true`）。 |
+| ArgumentException | 此几何体的[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null`，且彼此不相等。 |
 
 ### 另见
 
@@ -37,7 +37,7 @@ public void AddPoint(IPoint point)
 
 ## AddPoint(double, double) {#addpoint_1}
 
-在直线的末尾添加一个点。
+在直线的末端添加一个点。
 
 ```csharp
 public void AddPoint(double x, double y)
@@ -58,7 +58,7 @@ public void AddPoint(double x, double y)
 
 ## AddPoint(double, double, double) {#addpoint_2}
 
-在直线的末尾添加一个点。
+在直线的末端添加一个点。
 
 ```csharp
 public void AddPoint(double x, double y, double z)
@@ -80,7 +80,7 @@ public void AddPoint(double x, double y, double z)
 
 ## AddPoint(double, double, double, double) {#addpoint_3}
 
-在直线的末尾添加一个点。
+在直线的末端添加一个点。
 
 ```csharp
 public void AddPoint(double x, double y, double z, double m)

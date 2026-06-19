@@ -1,7 +1,7 @@
 ---
 title: "FeaturesSequence.WhereNull"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FeaturesSequence 方法。选择属性等于 null 的要素。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FeaturesSequence 方法。选择属性等于 null 的要素"
 type: docs
 weight: 140
 url: /zh/net/aspose.gis/featuressequence/wherenull/
@@ -16,7 +16,7 @@ public virtual FeaturesSequence WhereNull(string attributeName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attributeName | String | 用于过滤的属性。 |
+| attributeName | 字符串 | 用于过滤的属性。 |
 
 ### 返回值
 

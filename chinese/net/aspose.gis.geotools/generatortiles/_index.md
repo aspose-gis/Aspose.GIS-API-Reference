@@ -1,6 +1,6 @@
 ---
 title: "类 GeneratorTiles"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.GeneratorTiles 类。瓦片生成器"
 type: docs
 weight: 2460
@@ -18,8 +18,8 @@ public static class GeneratorTiles
 
 | 名称 | 描述 |
 | --- | --- |
-| static [GenerateTiles](../../aspose.gis.geotools/generatortiles/generatetiles/#generatetiles_1)(IEnumerable&lt;VectorLayer&gt;, string, int, GeneratorTilesRenderOptions) | 生成带缩放的瓦片至输出目录 |
-| static [GenerateTiles](../../aspose.gis.geotools/generatortiles/generatetiles/#generatetiles)(VectorLayer, string, int, GeneratorTilesRenderOptions) | 生成带缩放的瓦片至输出目录 |
+| static [GenerateTiles](../../aspose.gis.geotools/generatortiles/generatetiles/#generatetiles_1)(IEnumerable&lt;VectorLayer&gt;, string, int, GeneratorTilesRenderOptions) | 生成带缩放的瓦片到输出目录 |
+| static [GenerateTiles](../../aspose.gis.geotools/generatortiles/generatetiles/#generatetiles)(VectorLayer, string, int, GeneratorTilesRenderOptions) | 生成带缩放的瓦片到输出目录 |
 
 ### 另见
 

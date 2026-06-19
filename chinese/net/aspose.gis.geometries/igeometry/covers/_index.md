@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Covers"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。确定此几何对象是否覆盖指定的几何对象。"
 type: docs
 weight: 150
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/igeometry/covers/
 ---
 ## IGeometry.Covers method
 
-确定此几何体是否覆盖指定几何体。
+确定此几何体是否覆盖指定的几何体。
 
 ```csharp
 public bool Covers(IGeometry other)
@@ -20,7 +20,7 @@ public bool Covers(IGeometry other)
 
 ### 返回值
 
-`true` 表示此几何对象在空间上覆盖另一个几何对象。`false` 表示否则。
+`true` 表示此几何对象“空间上覆盖”另一个几何对象。`false` 表示否则。
 
 ### 异常
 

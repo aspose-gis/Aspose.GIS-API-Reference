@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.CreateGeocentric"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 方法。使用自定义参数创建地心 SRS"
 type: docs
 weight: 350

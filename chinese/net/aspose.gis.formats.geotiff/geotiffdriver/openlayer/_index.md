@@ -1,6 +1,6 @@
 ---
 title: "GeoTiffDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoTiffDriver 方法。打开图层进行读取"
 type: docs
 weight: 20
@@ -21,7 +21,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### 返回值
 
-一个 [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
+[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
 
 ### 异常
 
@@ -29,7 +29,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开栅格图层（参见 [`CanOpenLayers`](../canopenlayers/)）。 |
 
 ### 另见
@@ -45,7 +45,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ## OpenLayer(string, GeoTiffOptions) {#openlayer_4}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public RasterLayer OpenLayer(string path, GeoTiffOptions options)
@@ -53,12 +53,12 @@ public RasterLayer OpenLayer(string path, GeoTiffOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | GeoTiffOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-一个 [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
+[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
 
 ### 另见
 
@@ -72,7 +72,7 @@ public RasterLayer OpenLayer(string path, GeoTiffOptions options)
 
 ## OpenLayer(AbstractPath, GeoTiffOptions) {#openlayer_1}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public RasterLayer OpenLayer(AbstractPath path, GeoTiffOptions options)
@@ -85,7 +85,7 @@ public RasterLayer OpenLayer(AbstractPath path, GeoTiffOptions options)
 
 ### 返回值
 
-一个 [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
+[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
 
 ### 另见
 

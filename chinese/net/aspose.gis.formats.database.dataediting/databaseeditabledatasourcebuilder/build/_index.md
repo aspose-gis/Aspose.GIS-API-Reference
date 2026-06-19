@@ -1,7 +1,7 @@
 ---
 title: "DatabaseEditableDataSourceBuilder.Build"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "DatabaseEditableDataSourceBuilder 方法。配置并构建 IDDatabaseEditableDataSource"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "DatabaseEditableDataSourceBuilder 方法。配置并构建 IDatabaseEditableDataSource"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.database.dataediting/databaseeditabledatasourcebuilder/build/

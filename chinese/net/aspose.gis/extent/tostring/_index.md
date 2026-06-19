@@ -1,7 +1,7 @@
 ---
 title: "Extent.ToString"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Extent 方法。返回表示当前对象的字符串"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Extent 方法。返回表示当前对象的字符串。"
 type: docs
 weight: 220
 url: /zh/net/aspose.gis/extent/tostring/

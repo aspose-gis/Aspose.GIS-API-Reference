@@ -1,6 +1,6 @@
 ---
 title: "类 SingleStreamPath"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.SingleStreamPath 类。"
 type: docs
 weight: 1370

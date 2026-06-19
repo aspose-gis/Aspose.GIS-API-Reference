@@ -1,7 +1,7 @@
 ---
 title: "Coordinate.op_Inequality"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Coordinate 方法。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Coordinate method."
 type: docs
 weight: 170
 url: /zh/net/aspose.gis.common/coordinate/op_inequality/

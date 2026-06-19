@@ -1,14 +1,14 @@
 ---
 title: "类 MapLayerOptions"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.GeoTools.LayersMap.MapLayerOptions 类。使用 LayersMapBuilder 创建地图的矢量图层选项"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.GeoTools.LayersMap.MapLayerOptions 类。用于使用 LayersMapBuilder 创建地图的矢量图层选项"
 type: docs
 weight: 2510
 url: /zh/net/aspose.gis.geotools.layersmap/maplayeroptions/
 ---
 ## MapLayerOptions class
 
-使用 [`LayersMapBuilder`](../layersmapbuilder/) 创建地图的矢量图层选项
+用于使用 [`LayersMapBuilder`](../layersmapbuilder/) 创建地图的矢量图层选项
 
 ```csharp
 public class MapLayerOptions
@@ -26,7 +26,7 @@ public class MapLayerOptions
 | --- | --- |
 | [Labeling](../../aspose.gis.geotools.layersmap/maplayeroptions/labeling/) { get; set; } | 要素的标注。默认值为 null。 |
 | [Layer](../../aspose.gis.geotools.layersmap/maplayeroptions/layer/) { get; set; } | 矢量图层。 |
-| [Symbolyzer](../../aspose.gis.geotools.layersmap/maplayeroptions/symbolyzer/) { get; set; } | 矢量符号化器。 |
+| [Symbolyzer](../../aspose.gis.geotools.layersmap/maplayeroptions/symbolyzer/) { get; set; } | 矢量 symbolyzer。 |
 
 ## 字段
 

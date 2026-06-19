@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.GetDistanceTo"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。计算此几何体与指定几何体之间的最小距离"
 type: docs
 weight: 230
@@ -20,7 +20,7 @@ public double GetDistanceTo(IGeometry other)
 
 ### 返回值
 
-如果两个几何体都不是 [`IsEmpty`](../isempty/) - 返回几何体最近点之间的距离。如果至少有一个几何体为空，则返回 -1。
+如果两个几何体都不是 [`IsEmpty`](../isempty/) - 则返回几何体最近点之间的距离。如果至少有一个几何体为空，则返回 -1。
 
 ### 异常
 

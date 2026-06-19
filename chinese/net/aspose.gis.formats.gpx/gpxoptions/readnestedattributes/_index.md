@@ -1,6 +1,6 @@
 ---
 title: "GpxOptions.ReadNestedAttributes"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GpxOptions 属性。确定 GPX 点（如 trkpt 和 rtept）是否包含内部属性以及是否应读取。默认值为 false。"
 type: docs
 weight: 40

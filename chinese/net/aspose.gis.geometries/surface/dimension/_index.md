@@ -1,6 +1,6 @@
 ---
 title: "Surface.Dimension"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Surface 属性。获取此 Geometry 的拓扑维度"
 type: docs
 weight: 10

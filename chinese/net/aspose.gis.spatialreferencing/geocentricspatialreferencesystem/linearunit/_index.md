@@ -1,6 +1,6 @@
 ---
 title: "GeocentricSpatialReferenceSystem.LinearUnit"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeocentricSpatialReferenceSystem 属性。此 SRS 使用的单位"
 type: docs
 weight: 70

@@ -1,6 +1,6 @@
 ---
 title: "MapOptions.Rasters"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapOptions 属性。一组用于表示栅格图层的选项，由 Aspose.Gis.GeoTools.LayersMap.MapRasterOptions 提供"
 type: docs
 weight: 50

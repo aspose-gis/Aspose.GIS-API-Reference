@@ -1,7 +1,7 @@
 ---
 title: "FeaturesSequence.WhereGreaterOrEqual"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FeaturesSequence 方法。选择属性值大于或等于提供值的要素"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FeaturesSequence 方法。选择属性值大于或等于提供的值的要素"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis/featuressequence/wheregreaterorequal/
@@ -22,7 +22,7 @@ public virtual FeaturesSequence WhereGreaterOrEqual<T>(string attributeName, T v
 
 ### 返回值
 
-属性值大于或等于提供值的要素。
+属性值大于或等于提供的值的要素。
 
 ### 异常
 

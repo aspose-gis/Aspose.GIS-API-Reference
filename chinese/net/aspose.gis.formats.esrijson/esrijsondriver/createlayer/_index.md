@@ -1,6 +1,6 @@
 ---
 title: "EsriJsonDriver.CreateLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "EsriJsonDriver 方法。创建图层并打开以添加新要素"
 type: docs
 weight: 40
@@ -16,7 +16,7 @@ public VectorLayer CreateLayer(string path, EsriJsonOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | EsriJsonOptions | 驱动程序特定的选项。 |
 
 ### 返回值

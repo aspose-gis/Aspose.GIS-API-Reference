@@ -1,7 +1,7 @@
 ---
 title: "Feature.CopyValues"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Feature 方法。从另一个要素复制属性值"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Feature 方法。复制另一个要素的属性值"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/feature/copyvalues/
@@ -24,9 +24,9 @@ public void CopyValues(Feature inputFeature)
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未被锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | InvalidOperationException | 输入值为 null，而此要素中的属性不能为 null。 |
-| [GisException](../../gisexception/) | 属性在特性中具有相同的名称但数据类型不同。 |
+| [GisException](../../gisexception/) | 属性在特性中具有相同的名称但不同的数据类型。 |
 
 ## 备注
 

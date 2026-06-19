@@ -1,6 +1,6 @@
 ---
 title: "枚举 Quadrant"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Quadrant 枚举。"
 type: docs
 weight: 1340

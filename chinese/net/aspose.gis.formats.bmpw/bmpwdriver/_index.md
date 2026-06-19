@@ -1,6 +1,6 @@
 ---
 title: "类 BmpWDriver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.BmpW.BmpWDriver 类。用于 BmpW 栅格的驱动程序"
 type: docs
 weight: 1680

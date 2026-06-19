@@ -1,6 +1,6 @@
 ---
 title: "FromDefinitionDataSourceBuilder.Build"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FromDefinitionDataSourceBuilder 方法。该方法检索 IFromDefinitionDataSource 的实现"
 type: docs
 weight: 20

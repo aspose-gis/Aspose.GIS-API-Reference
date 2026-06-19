@@ -1,6 +1,6 @@
 ---
 title: "InMemoryDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "InMemoryDriver 方法。打开图层进行读取"
 type: docs
 weight: 50
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.formats.inmemory/inmemorydriver/openlayer/
 ---
 ## InMemoryDriver.OpenLayer method
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)

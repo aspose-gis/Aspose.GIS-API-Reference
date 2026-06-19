@@ -1,6 +1,6 @@
 ---
 title: "枚举 KmlDisplayModes"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.Kml.Styles.KmlDisplayModes 枚举。控制元素是显示还是隐藏"
 type: docs
 weight: 2100
@@ -18,8 +18,8 @@ public enum KmlDisplayModes
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Show | `0` | 指定显示该元素（在 kml 规范中称为“默认”。） |
-| Hide | `1` | 指定隐藏该元素。 |
+| Show | `0` | 指定显示元素（在 kml 规范中称为“默认”。） |
+| Hide | `1` | 指定隐藏元素。 |
 
 ### 另见
 

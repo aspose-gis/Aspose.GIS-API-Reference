@@ -1,6 +1,6 @@
 ---
 title: "FileGdbDriver.CreateDataset"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileGdbDriver 方法。创建数据集"
 type: docs
 weight: 50
@@ -16,7 +16,7 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 数据集的路径。 |
+| path | 字符串 | 数据集的路径。 |
 | options | FileGdbOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -30,7 +30,7 @@ public Dataset CreateDataset(string path, FileGdbOptions options)
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../../aspose.gis/gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开数据集（参见 [`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)）。 |
 | InvalidOperationException | 数据集已存在。 |
 
@@ -68,7 +68,7 @@ public override Dataset CreateDataset(AbstractPath path, DriverOptions options)
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../../aspose.gis/gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开数据集（参见 [`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)）。 |
 | InvalidOperationException | 数据集已存在。 |
 
@@ -107,7 +107,7 @@ public Dataset CreateDataset(AbstractPath path, FileGdbOptions options)
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../../aspose.gis/gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开数据集（参见 [`CanOpenDatasets`](../../../aspose.gis/filedriver/canopendatasets/)）。 |
 | InvalidOperationException | 数据集已存在。 |
 

@@ -1,6 +1,6 @@
 ---
 title: "类 StringOperations"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.StringOperations 类。"
 type: docs
 weight: 1390

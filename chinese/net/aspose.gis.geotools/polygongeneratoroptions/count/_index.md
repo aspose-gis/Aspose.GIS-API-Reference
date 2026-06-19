@@ -1,7 +1,7 @@
 ---
 title: "PolygonGeneratorOptions.Count"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "PolygonGeneratorOptions 属性。要创建的多边形数量"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "PolygonGeneratorOptions property. 要创建的多边形数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geotools/polygongeneratoroptions/count/

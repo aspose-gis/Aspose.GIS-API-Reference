@@ -1,6 +1,6 @@
 ---
 title: "CsvOptions.ColumnY"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CsvOptions 属性。获取或设置包含 Y 坐标值的列名。默认值为 null"
 type: docs
 weight: 50

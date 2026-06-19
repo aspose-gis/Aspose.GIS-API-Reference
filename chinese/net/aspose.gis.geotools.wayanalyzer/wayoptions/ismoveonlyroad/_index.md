@@ -1,7 +1,7 @@
 ---
 title: "WayOptions.IsMoveOnlyRoad"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WayOptions 属性。仅通过道路查找路径"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WayOptions 属性. 仅通过道路寻找路径"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.geotools.wayanalyzer/wayoptions/ismoveonlyroad/

@@ -1,6 +1,6 @@
 ---
-title: "MapHeader.FirstGarbageBlockPosition"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MapHeader.首个垃圾块位置"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapHeader 属性。"
 type: docs
 weight: 110

@@ -1,14 +1,14 @@
 ---
 title: "Rule.CreateFilterRule"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Rule 方法。创建新规则，在要素通过过滤器时将符号化器应用于该要素"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Rule 方法。创建新规则，在特征通过过滤器时将符号化器应用于该特征"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.rendering.symbolizers/rule/createfilterrule/
 ---
 ## Rule.CreateFilterRule method
 
-创建新规则，当要素通过过滤时，将符号器应用于要素。
+创建一个新规则，当要素通过过滤时，对其应用符号器。
 
 ```csharp
 public static Rule CreateFilterRule(Func<Feature, bool> filter, VectorSymbolizer symbolizer)

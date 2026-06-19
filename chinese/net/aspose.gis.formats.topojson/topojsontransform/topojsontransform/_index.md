@@ -1,7 +1,7 @@
 ---
 title: "TopoJsonTransform.TopoJsonTransform"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "TopoJsonTransform 构造函数。创建 TopoJsonTransform 的新实例。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "TopoJsonTransform 构造函数。创建 TopoJsonTransform 的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.topojson/topojsontransform/topojsontransform/
@@ -16,16 +16,16 @@ public TopoJsonTransform(double xTranslate, double yTranslate, double xScale, do
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xTranslate | Double | 对 X 坐标应用的平移。 |
-| yTranslate | Double | 对 Y 坐标应用的平移。 |
-| xScale | Double | 对 X 坐标应用的缩放。 |
-| yScale | Double | 对 Y 坐标应用的缩放。 |
+| xTranslate | Double | 对 X 坐标的平移。 |
+| yTranslate | Double | 对 Y 坐标的平移。 |
+| xScale | Double | 对 X 坐标的缩放。 |
+| yScale | Double | 对 Y 坐标的缩放。 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 其中一个缩放值等于 0。 |
+| ArgumentException | 其中一个缩放比例等于 0。 |
 
 ### 另见
 

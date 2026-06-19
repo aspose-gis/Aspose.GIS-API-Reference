@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.CreateFromWkt"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 方法。基于 WKT WellKnown Text 字符串创建一个新的 SpatialReferenceSystem"
 type: docs
 weight: 20
@@ -16,18 +16,18 @@ public static SpatialReferenceSystem CreateFromWkt(string wkt)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| wkt | String | WKT 字符串。 |
+| wkt | 字符串 | WKT 字符串。 |
 
 ### 返回值
 
-新的 `SpatialReferenceSystem`。
+新 `SpatialReferenceSystem`。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| FormatException | wkt 值的层次结构、顺序或类型不正确。 |
+| FormatException | wkt 值的层次结构、顺序或类型错误。 |
 | NotSupportedException | 不支持 WKT 根元素（例如它是 FITTED_CS）。 |
 
 ### 另见

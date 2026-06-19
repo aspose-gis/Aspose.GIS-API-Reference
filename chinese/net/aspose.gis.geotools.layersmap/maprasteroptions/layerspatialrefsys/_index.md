@@ -1,6 +1,6 @@
 ---
 title: "MapRasterOptions.LayerSpatialRefSys"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapRasterOptions 属性。指定图层空间参考的值"
 type: docs
 weight: 20

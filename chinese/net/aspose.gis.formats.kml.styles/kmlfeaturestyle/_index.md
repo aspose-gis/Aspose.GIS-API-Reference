@@ -1,14 +1,14 @@
 ---
 title: "类 KmlFeatureStyle"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle 类。样式影响几何体的呈现方式。这些样式在文档部分中编码，并为每个样式提供唯一标识符。这些在 kml 规范中称为共享样式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.Kml.Styles.KmlFeatureStyle 类。样式影响几何体的呈现方式。这些样式在文档部分中进行编码，并为每个样式拥有唯一标识符。这些在 kml 规范中称为共享样式。"
 type: docs
 weight: 2110
 url: /zh/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/
 ---
 ## KmlFeatureStyle class
 
-样式影响几何的呈现方式。这些样式在文档部分中编码，并为每个样式拥有唯一标识符。这些在 kml 规范中称为‘共享样式’。
+样式影响几何的呈现方式。这些样式在文档部分中进行编码，并为每个样式分配唯一标识符。这在 KML 规范中称为‘共享样式’。
 
 ```csharp
 public class KmlFeatureStyle : FeatureStyle

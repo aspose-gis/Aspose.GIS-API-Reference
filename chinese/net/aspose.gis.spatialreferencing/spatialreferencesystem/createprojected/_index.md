@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.CreateProjected"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 方法。根据自定义参数创建投影 SRS。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 方法。根据自定义参数创建投影 SRS"
 type: docs
 weight: 380
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/createprojected/
@@ -22,13 +22,13 @@ public static ProjectedSpatialReferenceSystem CreateProjected(
 
 ### 返回值
 
-新的投影坐标参考系统。
+新的投影 SRS。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 参数中的基础坐标参考系统为 `null`。参数中的投影方法为 `null`。 |
+| InvalidOperationException | 参数中的基础 SRS 为 `null`。参数中的投影方法为 `null`。 |
 
 ### 另见
 

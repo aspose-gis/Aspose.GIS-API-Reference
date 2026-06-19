@@ -1,6 +1,6 @@
 ---
 title: "GeometryOperations.DeleteNearPoints"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeometryOperations 方法。删除彼此过于接近的点"
 type: docs
 weight: 40

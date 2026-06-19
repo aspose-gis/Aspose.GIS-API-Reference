@@ -1,7 +1,7 @@
 ---
 title: "Extent.Grow"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Extent 方法。扩展此 extent 以包含参数"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Extent 方法。扩展此范围以包含参数。"
 type: docs
 weight: 160
 url: /zh/net/aspose.gis/extent/grow/
@@ -16,14 +16,14 @@ public void Grow(Extent extent)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 范围 | 范围 | 其他 extent。 |
+| 范围 | 范围 | 另一个范围。 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 此范围和参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 此范围和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null` 且彼此不相等。 |
 
 ## 备注
 

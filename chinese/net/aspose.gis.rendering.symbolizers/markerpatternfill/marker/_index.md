@@ -1,6 +1,6 @@
 ---
 title: "MarkerPatternFill.Marker"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerPatternFill 属性。指定用于填充的标记符号化器"
 type: docs
 weight: 50

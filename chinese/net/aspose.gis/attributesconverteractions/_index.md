@@ -1,6 +1,6 @@
 ---
 title: "类 AttributesConverterActions"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.AttributesConverterActions 类。对目标图层属性的可选操作"
 type: docs
 weight: 30
@@ -24,7 +24,7 @@ public class AttributesConverterActions
 
 | 名称 | 描述 |
 | --- | --- |
-| [Exclude](../../aspose.gis/attributesconverteractions/exclude/) { get; set; } | 将 `true` 设置为从目标图层中排除该属性。初始值为 `false`。 |
+| [Exclude](../../aspose.gis/attributesconverteractions/exclude/) { get; set; } | 设置 `true` 以从目标图层中排除该属性。初始值为 `false`。 |
 
 ### 另见
 

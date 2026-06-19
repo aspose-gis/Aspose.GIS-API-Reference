@@ -1,7 +1,7 @@
 ---
 title: "VectorMapLayer.Symbolizer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VectorMapLayer 属性。用于渲染图层要素的 Symbolizer"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VectorMapLayer 属性。用于渲染图层要素的 Symbolizer。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering/vectormaplayer/symbolizer/

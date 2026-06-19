@@ -1,7 +1,7 @@
 ---
 title: "MultiStreamPath.ListDirectory"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MultiStreamPath 方法。如果它是目录，则返回位于此 AbstractPath 内的路径。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MultiStreamPath 方法。如果它是目录，则返回位于此 AbstractPath 中的路径"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/multistreampath/listdirectory/

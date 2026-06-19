@@ -1,6 +1,6 @@
 ---
 title: "类 BufferLineSimplifier"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Topology.Buffer.BufferLineSimplifier 类。"
 type: docs
 weight: 4800

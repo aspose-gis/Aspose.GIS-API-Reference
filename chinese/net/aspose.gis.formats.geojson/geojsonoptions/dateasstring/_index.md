@@ -1,6 +1,6 @@
 ---
 title: "GeoJsonOptions.DateAsString"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoJsonOptions 属性。是否将 JSon 日期/时间/日期时间暴露为字符串"
 type: docs
 weight: 50

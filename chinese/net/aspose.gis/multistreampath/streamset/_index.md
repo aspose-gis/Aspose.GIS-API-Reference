@@ -1,6 +1,6 @@
 ---
 title: "MultiStreamPath.StreamSet"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MultiStreamPath 属性。一组映射到文件名的实际流"
 type: docs
 weight: 40
@@ -20,7 +20,7 @@ IReadOnlyDictionary
 
 ## 备注
 
-如果发生写入，当前流将被 MemoryStream 替代。
+如果发生写入，当前流将被 MemoryStream 替换。
 
 ### 另见
 

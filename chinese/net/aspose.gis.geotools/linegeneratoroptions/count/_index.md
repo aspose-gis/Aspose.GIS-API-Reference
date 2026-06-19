@@ -1,6 +1,6 @@
 ---
 title: "LineGeneratorOptions.Count"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LineGeneratorOptions 属性。要创建的线条数量"
 type: docs
 weight: 20

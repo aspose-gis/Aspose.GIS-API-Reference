@@ -1,7 +1,7 @@
 ---
 title: "FromDefinitionDataSourceBuilder.AddAttribute"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FromDefinitionDataSourceBuilder 方法。配置用于存放特征属性信息的字段名称"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FromDefinitionDataSourceBuilder 方法。配置将包含特征属性信息的字段名称"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.database.fromdefinition/fromdefinitiondatasourcebuilder/addattribute/
@@ -16,8 +16,8 @@ public FromDefinitionDataSourceBuilder AddAttribute(string name, AttributeDataTy
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 属性对应的数据库字段名称。 |
-| 类型 | AttributeDataType | 应将来自数据库的数据转换成的目标数据类型。 |
+| 名称 | 字符串 | 属性的数据库字段名称。 |
+| type | AttributeDataType | 应将来自数据库的数据转换成的目标数据类型。 |
 
 ### 返回值
 
@@ -43,9 +43,9 @@ public FromDefinitionDataSourceBuilder AddAttribute(string name, AttributeDataTy
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 属性对应的数据库字段名称。 |
-| 类型 | AttributeDataType | 应将来自数据库的数据转换成的目标数据类型。 |
-| dbType | DbType | 属性在数据库中表示的类型。如果需要保存更改，这将非常有用。 |
+| 名称 | 字符串 | 属性的数据库字段名称。 |
+| type | AttributeDataType | 应将来自数据库的数据转换成的目标数据类型。 |
+| dbType | DbType | 属性在数据库中表示的类型。如果需要保存更改，这将很有用。 |
 
 ### 返回值
 

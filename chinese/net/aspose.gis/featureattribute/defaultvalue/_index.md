@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttribute.DefaultValue"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttribute 属性。获取或设置指示缺失数据的属性值"
 type: docs
 weight: 50
@@ -23,7 +23,7 @@ public object DefaultValue { get; set; }
 
 ## 备注
 
-当属性不允许 `null` 值时，这是表示缺失信息的值。对于允许 `null` 值的属性（[`CanBeNull`](../canbenull/) == `true`），除非显式更改，否则 `DefaultValue` 为 `null`。
+这是表示缺失信息的值，当属性不允许 `null` 值时。对于允许 `null` 值的属性（[`CanBeNull`](../canbenull/) == `true`），除非显式更改，否则 `DefaultValue` 为 `null`。
 
 ### 另见
 

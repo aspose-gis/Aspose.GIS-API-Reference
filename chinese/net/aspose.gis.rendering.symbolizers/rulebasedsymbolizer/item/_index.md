@@ -1,7 +1,7 @@
 ---
 title: "RuleBasedSymbolizer.Item"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RuleBasedSymbolizer 属性。获取指定索引处的规则"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RuleBasedSymbolizer 属性. 获取指定索引处的规则"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.rendering.symbolizers/rulebasedsymbolizer/item/

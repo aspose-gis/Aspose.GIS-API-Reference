@@ -1,6 +1,6 @@
 ---
 title: "Geometry.GetArea"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 方法。计算此几何体的面积"
 type: docs
 weight: 200

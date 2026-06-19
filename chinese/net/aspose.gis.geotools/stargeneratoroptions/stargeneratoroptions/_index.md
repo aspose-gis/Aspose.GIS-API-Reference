@@ -1,6 +1,6 @@
 ---
 title: "StarGeneratorOptions.StarGeneratorOptions"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "StarGeneratorOptions 构造函数。默认使用初始化字段创建实例"
 type: docs
 weight: 10

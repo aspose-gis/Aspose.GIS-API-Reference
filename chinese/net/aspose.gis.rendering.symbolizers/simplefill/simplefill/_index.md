@@ -1,6 +1,6 @@
 ---
 title: "SimpleFill.SimpleFill"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleFill 构造函数。创建新实例"
 type: docs
 weight: 10
@@ -24,7 +24,7 @@ public SimpleFill()
 
 ## SimpleFill(SimpleFill) {#constructor_1}
 
-初始化一个新的 [`SimpleFill`](../) 类的实例。
+初始化 [`SimpleFill`](../) 类的新实例。
 
 ```csharp
 public SimpleFill(SimpleFill other)

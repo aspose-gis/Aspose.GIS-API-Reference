@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.SpatiallyEquals"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。确定此几何对象是否在空间上等于指定的几何对象。"
 type: docs
 weight: 320

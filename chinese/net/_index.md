@@ -4,7 +4,7 @@ type: docs
 weight: 10
 url: /zh/net/
 keywords: "Aspose.GIS for .NET, Aspose GIS, Aspose API Reference."
-description: "Aspose.GIS for .NET 专为使 .NET 开发人员能够轻松处理存储在各种文件格式中的地理空间数据而设计。"
+description: "Aspose.GIS for .NET 专为 .NET 开发人员设计，使其能够轻松处理存储在各种文件格式中的地理空间数据。"
 is_root: true
 ---
 ## 命名空间
@@ -64,7 +64,7 @@ is_root: true
 | [Aspose.Gis.GeoTools.LayersMap](./aspose.gis.geotools.layersmap/) | `Aspose.Gis.GeoTools.LayersMap` 命名空间包含表示地理工具 LayersMap 的类。 |
 | [Aspose.Gis.GeoTools.MapBuilder](./aspose.gis.geotools.mapbuilder/) | `Aspose.Gis.GeoTools` 命名空间包含表示地理工具的类。 |
 | [Aspose.Gis.GeoTools.WayAnalyzer](./aspose.gis.geotools.wayanalyzer/) | `Aspose.Gis.GeoTools.WayAnalyzer` 命名空间包含表示地理工具的类。 |
-| [Aspose.Gis.ImageMetadata](./aspose.gis.imagemetadata/) | `Aspose.Gis.ImageMetadata` 命名空间提供用于处理图像元数据的实用类 |
+| [Aspose.Gis.ImageMetadata](./aspose.gis.imagemetadata/) | `Aspose.Gis.ImageMetadata` 命名空间提供用于处理图像元数据的实用类。 |
 | [Aspose.Gis.Indexing](./aspose.gis.indexing/) |  |
 | [Aspose.Gis.Indexing.BPlusTree](./aspose.gis.indexing.bplustree/) |  |
 | [Aspose.Gis.Indexing.QixTree](./aspose.gis.indexing.qixtree/) |  |

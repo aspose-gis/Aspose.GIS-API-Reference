@@ -1,6 +1,6 @@
 ---
 title: "类 MarkerCluster"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Rendering.Symbolizers.MarkerCluster 类。标记簇符号器"
 type: docs
 weight: 4290
@@ -26,7 +26,7 @@ public class MarkerCluster : VectorSymbolizer
 | 名称 | 描述 |
 | --- | --- |
 | [FeaturesBasedConfiguration](../../aspose.gis.rendering.symbolizers/markercluster/featuresbasedconfiguration/) { get; set; } | 在渲染簇中心之前，用于配置此符号器的回调。 |
-| [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker/) { get; set; } | 指定簇中心的标记符号器。 |
+| [Marker](../../aspose.gis.rendering.symbolizers/markercluster/marker/) { get; set; } | 指定簇中心中的标记符号器。 |
 | [NestedMarker](../../aspose.gis.rendering.symbolizers/markercluster/nestedmarker/) { get; set; } | 指定嵌套簇点的标记符号器。默认是 [`Null`](../vectorsymbolizer/null/)。 |
 
 ### 另见

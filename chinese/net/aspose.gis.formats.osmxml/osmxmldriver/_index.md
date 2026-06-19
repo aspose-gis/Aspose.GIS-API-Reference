@@ -1,7 +1,7 @@
 ---
 title: "类 OsmXmlDriver"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.OsmXml.OsmXmlDriver 类。OSM XML 格式的驱动程序"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.OsmXml.OsmXmlDriver 类。OSM XML 格式的驱动程序。"
 type: docs
 weight: 2260
 url: /zh/net/aspose.gis.formats.osmxml/osmxmldriver/
@@ -42,18 +42,18 @@ public sealed class OsmXmlDriver : FileDriver
 | [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_3)(AbstractPath, OsmXmlOptions, SpatialReferenceSystem) | 创建图层并以添加新要素的方式打开它。 |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并以追加方式打开它。 |
 | [CreateLayer](../../aspose.gis.formats.osmxml/osmxmldriver/createlayer/#createlayer_9)(string, OsmXmlOptions, SpatialReferenceSystem) | 创建图层并以添加新要素的方式打开它。 |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | 打开图层进行编辑。 |
-| [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | 打开图层进行编辑。 |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/)(AbstractPath, DriverOptions) | 以编辑模式打开图层。 |
+| [EditLayer](../../aspose.gis/filedriver/editlayer/)(string, DriverOptions) | 以编辑模式打开图层。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath) | 打开数据集。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string) | 打开数据集。 |
 | virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/)(AbstractPath, DriverOptions) | 打开数据集。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/)(string, DriverOptions) | 打开数据集。 |
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/)(AbstractPath) | 打开该图层进行读取。 |
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string) | 打开该图层进行读取。 |
-| override [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | 打开图层进行读取。 |
-| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_2)(AbstractPath, OsmXmlOptions) | 打开图层进行读取。 |
+| override [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_1)(AbstractPath, DriverOptions) | 以读取模式打开图层。 |
+| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_2)(AbstractPath, OsmXmlOptions) | 以读取模式打开图层。 |
 | [OpenLayer](../../aspose.gis/filedriver/openlayer/)(string, DriverOptions) | 打开该图层进行读取。 |
-| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_5)(string, OsmXmlOptions) | 打开图层进行读取。 |
+| [OpenLayer](../../aspose.gis.formats.osmxml/osmxmldriver/openlayer/#openlayer_5)(string, OsmXmlOptions) | 以读取模式打开图层。 |
 | override [SupportsSpatialReferenceSystem](../../aspose.gis.formats.osmxml/osmxmldriver/supportsspatialreferencesystem/)(SpatialReferenceSystem) | 确定指定的空间参考系统是否受此驱动程序支持。 |
 
 ### 另见

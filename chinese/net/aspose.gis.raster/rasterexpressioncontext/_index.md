@@ -1,6 +1,6 @@
 ---
 title: "结构体 RasterExpressionContext"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.RasterExpressionContext 结构体。此类描述读取栅格波段时的值上下文"
 type: docs
 weight: 3820
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.raster/rasterexpressioncontext/
 ---
 ## RasterExpressionContext structure
 
-此类描述在读取栅格波段时的值上下文。
+此类描述读取栅格波段时的值上下文。
 
 ```csharp
 public struct RasterExpressionContext : IEquatable<RasterExpressionContext>
@@ -24,8 +24,8 @@ public struct RasterExpressionContext : IEquatable<RasterExpressionContext>
 
 | 名称 | 描述 |
 | --- | --- |
-| [CellX](../../aspose.gis.raster/rasterexpressioncontext/cellx/) { get; } | 获取或设置列值 (x 坐标)。编号从 0 开始。 |
-| [CellY](../../aspose.gis.raster/rasterexpressioncontext/celly/) { get; } | 获取或设置行值 (y 坐标)。编号从 0 开始。 |
+| [CellX](../../aspose.gis.raster/rasterexpressioncontext/cellx/) { get; } | 获取或设置列值（x 坐标）。编号从 0 开始。 |
+| [CellY](../../aspose.gis.raster/rasterexpressioncontext/celly/) { get; } | 获取或设置行值（y 坐标）。编号从 0 开始。 |
 
 ## 方法
 

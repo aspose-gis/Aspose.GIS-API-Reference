@@ -1,7 +1,7 @@
 ---
 title: "CircularString.HasCurveGeometry"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CircularString 属性。获取一个值，指示此几何体是否为曲线或包含非线性几何体"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CircularString 属性。获取一个指示此几何是否为曲线或包含非线性几何的值"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.geometries/circularstring/hascurvegeometry/
@@ -16,7 +16,7 @@ public override bool HasCurveGeometry { get; }
 
 ### Property Value
 
-`false` 如果此几何体及其包含的所有几何体都是线性的；否则，`true`。
+`false` 如果此几何体及其包含的所有几何体都是线性的；否则为 `true`。
 
 ### 另见
 

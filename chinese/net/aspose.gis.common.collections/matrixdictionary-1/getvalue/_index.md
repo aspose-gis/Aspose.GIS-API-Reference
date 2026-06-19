@@ -1,6 +1,6 @@
 ---
 title: "MatrixDictionary1.GetValue"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MatrixDictionary 方法。"
 type: docs
 weight: 30

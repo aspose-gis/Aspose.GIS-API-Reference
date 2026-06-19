@@ -1,6 +1,6 @@
 ---
 title: "IFromDefinitionDataSource.Layer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IFromDefinitionDataSource 属性。返回实现 IQueryable 的对象，允许对数据库进行 LINQ 查询的属性"
 type: docs
 weight: 10
@@ -20,7 +20,7 @@ IQueryable
 
 ## 备注
 
-此外，查询可以通过同步方式使用 ToArray() 或 ToList() 以标准方式执行，或使用异步方式提取整个图层 [`ToVectorLayerAsync`](../../queryablelayerextension/tovectorlayerasync/)。
+此外，查询可以通过同步方式使用 ToArray() 或 ToList() 以标准方式执行，或使用异步方式提取整个层的 [`ToVectorLayerAsync`](../../queryablelayerextension/tovectorlayerasync/)。
 
 ### 另见
 

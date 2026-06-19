@@ -1,6 +1,6 @@
 ---
-title: "EdgeEndStar 类"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "类 EdgeEndStar"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Topology.Graph.EdgeEndStar 类。"
 type: docs
 weight: 4910

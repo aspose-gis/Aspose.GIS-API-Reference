@@ -1,6 +1,6 @@
 ---
 title: "CurvePolygon.GetPointOnSurface"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CurvePolygon 方法。查找一个保证位于此曲面多边形上的点"
 type: docs
 weight: 150

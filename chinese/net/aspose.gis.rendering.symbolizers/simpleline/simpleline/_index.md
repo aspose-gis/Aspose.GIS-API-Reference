@@ -1,6 +1,6 @@
 ---
 title: "SimpleLine.SimpleLine"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLine 构造函数。创建新实例"
 type: docs
 weight: 10
@@ -32,7 +32,7 @@ public SimpleLine(SimpleLine other)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | SimpleLine | 另一个用于复制数据的 [`SimpleLine`](../)。 |
+| other | SimpleLine | 另一个用于复制数据的 [`SimpleLine`](../) 。 |
 
 ### 异常
 

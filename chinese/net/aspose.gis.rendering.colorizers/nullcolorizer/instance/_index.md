@@ -1,7 +1,7 @@
 ---
 title: "NullColorizer.Instance"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "NullColorizer 属性。获取 NullColorizer 的实例。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "NullColorizer 属性。获取 NullColorizer 的实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.rendering.colorizers/nullcolorizer/instance/

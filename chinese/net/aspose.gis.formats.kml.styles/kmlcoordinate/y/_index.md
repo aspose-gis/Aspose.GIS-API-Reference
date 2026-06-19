@@ -1,6 +1,6 @@
 ---
 title: "KmlCoordinate.Y"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlCoordinate 属性。点的 Y 分量。默认值为 0.5"
 type: docs
 weight: 40

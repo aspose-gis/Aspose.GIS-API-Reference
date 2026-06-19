@@ -1,6 +1,6 @@
 ---
 title: "PointLabelPlacement.Clone"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "PointLabelPlacement 方法。克隆此实例"
 type: docs
 weight: 70

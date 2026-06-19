@@ -1,7 +1,7 @@
 ---
 title: "RasterImageMarker.HorizontalAnchorPoint"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterImageMarker 属性。指定标记形状的哪一侧将在水平上与点位置对齐"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterImageMarker 属性。指定标记形状的哪一侧将在水平上与点位置对齐。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.rendering.symbolizers/rasterimagemarker/horizontalanchorpoint/

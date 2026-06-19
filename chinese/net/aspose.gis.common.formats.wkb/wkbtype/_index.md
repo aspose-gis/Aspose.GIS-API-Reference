@@ -1,6 +1,6 @@
 ---
 title: "枚举 WkbType"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Formats.Wkb.WkbType 枚举。"
 type: docs
 weight: 980

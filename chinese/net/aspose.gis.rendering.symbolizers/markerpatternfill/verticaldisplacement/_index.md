@@ -1,7 +1,7 @@
 ---
 title: "MarkerPatternFill.VerticalDisplacement"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MarkerPatternFill 属性。指定偶数垂直线中标记的垂直位移"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MarkerPatternFill 属性。指定在偶数垂直线上标记的垂直偏移量"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.rendering.symbolizers/markerpatternfill/verticaldisplacement/

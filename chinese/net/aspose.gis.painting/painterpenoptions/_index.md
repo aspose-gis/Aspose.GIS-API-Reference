@@ -1,7 +1,7 @@
 ---
 title: "类 PainterPenOptions"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Painting.PainterPenOptions 类."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Painting.PainterPenOptions 类。"
 type: docs
 weight: 3540
 url: /zh/net/aspose.gis.painting/painterpenoptions/

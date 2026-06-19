@@ -1,7 +1,7 @@
 ---
 title: "ShapefileDriver.SupportsSpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ShapefileDriver 方法。确定指定的空间参考系统是否受驱动程序支持"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ShapefileDriver 方法。确定指定的空间参考系统是否被驱动程序支持"
 type: docs
 weight: 60
 url: /zh/net/aspose.gis.formats.shapefile/shapefiledriver/supportsspatialreferencesystem/
@@ -20,11 +20,11 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### 返回值
 
-布尔值，指示指定的空间参考系统是否受驱动程序支持。
+布尔值，指示指定的空间参考系统是否受到驱动程序支持。
 
 ## 备注
 
-对于 Shapefile，支持任何 SRS。此外，Shapefile 具有更优化的图层编辑模式。
+对于 Shapefile，支持任何 SRS。同时 Shapefile 拥有更优化的图层编辑模式。
 
 ### 另见
 

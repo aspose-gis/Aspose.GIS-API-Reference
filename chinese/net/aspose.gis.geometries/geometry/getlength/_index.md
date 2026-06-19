@@ -1,6 +1,6 @@
 ---
 title: "Geometry.GetLength"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 方法。计算此几何体的长度"
 type: docs
 weight: 260
@@ -16,7 +16,7 @@ public double GetLength()
 
 ### 返回值
 
-此几何体的长度。如果这是[`Polygon`](../../polygon/)，则为周长。如果此几何体是[`GeometryCollection`](../../geometrycollection/)，则为其元素长度的总和。
+此几何体的长度。如果这是一个[`Polygon`](../../polygon/)，则为周长。如果此几何体是[`GeometryCollection`](../../geometrycollection/)，则为其元素长度的总和。
 
 ### 另见
 

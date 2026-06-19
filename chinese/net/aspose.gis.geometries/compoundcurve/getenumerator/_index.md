@@ -1,6 +1,6 @@
 ---
 title: "CompoundCurve.GetEnumerator"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CompoundCurve 方法。返回一个遍历集合的枚举器"
 type: docs
 weight: 150
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/compoundcurve/getenumerator/
 ---
 ## CompoundCurve.GetEnumerator method
 
-返回遍历集合的枚举器。
+返回一个遍历集合的枚举器。
 
 ```csharp
 public IEnumerator<ICurve> GetEnumerator()

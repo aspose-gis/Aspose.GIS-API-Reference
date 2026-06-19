@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Raster"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Raster 命名空间提供用于处理栅格格式的类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Raster 命名空间提供用于处理栅格格式的类"
 type: docs
 weight: 630
 url: /zh/net/aspose.gis.raster/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.gis.raster/
 | --- | --- |
 | [RasterBand](./rasterband/) | 包含有关栅格波段的数据。 |
 | [RasterCellSize](./rastercellsize/) | 描述地图上栅格单元的大小、比例和旋转。 |
-| [RasterLayer](./rasterlayer/) | 表示栅格图层。 |
+| [RasterLayer](./rasterlayer/) | 表示一个栅格图层。 |
 | [RasterReadExpression](./rasterreadexpression/) | 表示一个委托，该委托正在读取表达式。 |
 | [RasterRect](./rasterrect/) | 栅格单元块。 |
 | [RasterStatistics](./rasterstatistics/) | 任何栅格图层的统计信息。 |
@@ -23,7 +23,7 @@ url: /zh/net/aspose.gis.raster/
 
 | 结构 | 描述 |
 | --- | --- |
-| [RasterExpressionContext](./rasterexpressioncontext/) | 此类描述在读取栅格波段时的值上下文。 |
+| [RasterExpressionContext](./rasterexpressioncontext/) | 此类描述读取栅格波段时的值上下文。 |
 ## 接口
 
 | 接口 | 描述 |

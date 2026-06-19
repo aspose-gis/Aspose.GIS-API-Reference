@@ -1,6 +1,6 @@
 ---
 title: "VectorMapLayer.VectorMapLayer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorMapLayer 构造函数。创建具有默认符号器的新实例"
 type: docs
 weight: 10
@@ -75,7 +75,7 @@ public VectorMapLayer(FeaturesSequence featuresSequence, VectorSymbolizer symbol
 | --- | --- | --- |
 | featuresSequence | FeaturesSequence | 要素序列。 |
 | 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
-| labeling | Labeling | 用于标记图层中要素的标注。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
+| labeling | Labeling | 用于标记图层中要素的标签方式。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
 | defaultReferenceSystem | SpatialReferenceSystem | 如果缺少源空间参考（layer\sequence），则指定其值。默认使用 **null**。 |
 
 ### 异常
@@ -167,7 +167,7 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | --- | --- | --- |
 | 图层 | VectorLayer | 矢量图层。 |
 | 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
-| labeling | Labeling | 用于标记图层中要素的标注。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
+| labeling | Labeling | 用于标记图层中要素的标签方式。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
 | keepOpen | Boolean | `true` 表示在 [`VectorMapLayer`](../) 对象被释放后保持图层打开；否则为 `false`。 |
 
 ### 异常
@@ -200,7 +200,7 @@ public VectorMapLayer(VectorLayer layer, VectorSymbolizer symbolizer, Labeling l
 | --- | --- | --- |
 | 图层 | VectorLayer | 矢量图层。 |
 | 符号化器 | VectorSymbolizer | 用于渲染图层的符号器。如果 `null`，将使用默认符号器。 |
-| labeling | Labeling | 用于标记图层中要素的标注。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
+| labeling | Labeling | 用于标记图层中要素的标签方式。如果 `null`，将使用默认的 [`NullLabeling`](../../../aspose.gis.rendering.labelings/nulllabeling/)。 |
 | defaultReferenceSystem | SpatialReferenceSystem | 如果缺少源空间参考（layer\sequence），则指定其值。默认使用 **null**。 |
 | keepOpen | Boolean | `true` 表示在 [`VectorMapLayer`](../) 对象被释放后保持图层打开；否则为 `false`。 |
 

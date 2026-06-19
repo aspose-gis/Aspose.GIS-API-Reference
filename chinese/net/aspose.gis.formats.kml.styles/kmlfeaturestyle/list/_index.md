@@ -1,6 +1,6 @@
 ---
 title: "KmlFeatureStyle.List"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "KmlFeatureStyle 属性。指定 Feature 在列表视图中的显示方式。使用 null 表示缺少样式。默认值为 null"
 type: docs
 weight: 60

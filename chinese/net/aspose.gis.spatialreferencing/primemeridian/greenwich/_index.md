@@ -1,7 +1,7 @@
 ---
 title: "PrimeMeridian.Greenwich"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "PrimeMeridian 属性。格林威治子午线"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "PrimeMeridian 属性。格林威治子午线。"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.spatialreferencing/primemeridian/greenwich/

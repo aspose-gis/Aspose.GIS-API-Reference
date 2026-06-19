@@ -1,7 +1,7 @@
 ---
 title: "IGeometry.Intersection"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IGeometry 方法。构建此几何体与指定几何体的交集"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IGeometry 方法。构建此几何体与指定几何体之间的交集"
 type: docs
 weight: 260
 url: /zh/net/aspose.gis.geometries/igeometry/intersection/
@@ -20,7 +20,7 @@ public IGeometry Intersection(IGeometry other)
 
 ### 返回值
 
-表示此几何体与参数交集的几何体。结果几何体包含同时存在于此几何体和参数中的点集合。
+表示此几何体与参数交集的几何体。结果几何体包含同时存在于此几何体和参数中的点集。
 
 ### 异常
 

@@ -1,7 +1,7 @@
 ---
 title: "类 WktKeyword"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.Wkt.WktKeyword 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.Wkt.WktKeyword 类."
 type: docs
 weight: 1010
 url: /zh/net/aspose.gis.common.formats.wkt/wktkeyword/

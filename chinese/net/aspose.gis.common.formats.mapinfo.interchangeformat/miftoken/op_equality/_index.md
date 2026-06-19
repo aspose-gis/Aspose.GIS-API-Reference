@@ -1,7 +1,7 @@
 ---
-title: "MifToken.op_等于"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MifToken 方法。"
+title: "MifToken.op_相等"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MifToken 方法."
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken/op_equality/

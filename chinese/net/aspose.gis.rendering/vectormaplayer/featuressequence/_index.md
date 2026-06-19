@@ -1,6 +1,6 @@
 ---
 title: "VectorMapLayer.FeaturesSequence"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorMapLayer 属性。此 VectorMapLayer 所表示的要素序列"
 type: docs
 weight: 20

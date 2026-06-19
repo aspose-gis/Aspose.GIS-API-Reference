@@ -1,7 +1,7 @@
 ---
 title: "GisException.GisException"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GisException 构造函数。初始化 GisException 类的新实例"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GisException 构造函数。初始化 GisException 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/gisexception/gisexception/
@@ -32,7 +32,7 @@ public GisException(string message)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 描述错误的消息。 |
+| message | 字符串 | 描述错误的消息。 |
 
 ### 另见
 
@@ -52,7 +52,7 @@ public GisException(string message, Exception inner)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 描述错误的消息。 |
+| message | 字符串 | 描述错误的消息。 |
 | inner | Exception | 导致当前异常的异常。 |
 
 ### 另见

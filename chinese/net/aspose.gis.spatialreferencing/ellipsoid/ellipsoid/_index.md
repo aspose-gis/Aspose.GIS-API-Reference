@@ -1,6 +1,6 @@
 ---
 title: "Ellipsoid.Ellipsoid"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Ellipsoid 构造函数。创建新的 Ellipsoid"
 type: docs
 weight: 10
@@ -17,9 +17,9 @@ public Ellipsoid(string name, double semiMajorAxis, double inverseFlattening,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 椭球体的名称。 |
+| 名称 | 字符串 | 椭球体的名称。 |
 | semiMajorAxis | Double | 椭球体的半长轴。 |
-| inverseFlattening | Double | 椭球体的反扁率。应为 0 以创建球体。 |
+| inverseFlattening | Double | 椭球体的倒数展平率。应为 0 以创建扁球体。 |
 | 标识符 | 标识符 | 椭球体的标识符。 |
 
 ### 另见

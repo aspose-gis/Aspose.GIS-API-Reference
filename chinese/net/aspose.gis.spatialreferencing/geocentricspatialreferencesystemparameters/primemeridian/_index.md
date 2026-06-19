@@ -1,6 +1,6 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.PrimeMeridian"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeocentricSpatialReferenceSystemParameters 属性。本 SRS 的本初子午线。默认值为 Greenwich"
 type: docs
 weight: 60

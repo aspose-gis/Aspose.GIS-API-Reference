@@ -1,7 +1,7 @@
 ---
 title: "GeocentricSpatialReferenceSystemParameters.ZAxis"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeocentricSpatialReferenceSystemParameters 属性。描述指向北极或南极的 Z 维度轴的地心 SRS 轴。默认方向为北向轴"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeocentricSpatialReferenceSystemParameters 属性。描述指向北极或南极的 Z 维度轴的地心 SRS 轴。默认采用指向北方的轴"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/geocentricspatialreferencesystemparameters/zaxis/
@@ -18,7 +18,7 @@ public Axis ZAxis { get; set; }
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentException | 轴方向不是北向或南向。 |
+| ArgumentException | 轴方向不是北或南。 |
 
 ### 另见
 

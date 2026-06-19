@@ -1,14 +1,14 @@
 ---
 title: "SimpleMarker.VerticalAnchorPoint"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleMarker 属性。指定标记形状的哪一侧将垂直对齐到点位置"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleMarker 属性。指定标记形状的哪一侧将在垂直上与点位置对齐。"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/verticalanchorpoint/
 ---
 ## SimpleMarker.VerticalAnchorPoint property
 
-指定标记形状的哪一侧将在垂直上与点位置对齐。
+指定标记形状的哪一侧将在垂直方向上与点位置对齐。
 
 ```csharp
 public VerticalAnchor VerticalAnchorPoint { get; set; }

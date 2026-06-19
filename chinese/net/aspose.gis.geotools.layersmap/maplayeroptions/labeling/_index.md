@@ -1,6 +1,6 @@
 ---
 title: "MapLayerOptions.Labeling"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapLayerOptions 属性。要素的标注。默认值为 null"
 type: docs
 weight: 20

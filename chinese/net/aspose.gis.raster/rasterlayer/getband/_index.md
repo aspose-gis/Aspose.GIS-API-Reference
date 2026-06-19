@@ -1,7 +1,7 @@
 ---
 title: "RasterLayer.GetBand"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterLayer 方法。根据指定索引获取波段"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterLayer 方法。按指定索引获取波段"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.raster/rasterlayer/getband/

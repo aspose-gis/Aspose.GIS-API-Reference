@@ -1,14 +1,14 @@
 ---
 title: "TopoJsonDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "TopoJsonDriver 方法。打开一个用于读取的图层。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "TopoJsonDriver 方法。打开一个图层以进行读取"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.formats.topojson/topojsondriver/openlayer/
 ---
 ## OpenLayer(string, TopoJsonOptions) {#openlayer_5}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public VectorLayer OpenLayer(string path, TopoJsonOptions options)
@@ -16,7 +16,7 @@ public VectorLayer OpenLayer(string path, TopoJsonOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | TopoJsonOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -35,7 +35,7 @@ public VectorLayer OpenLayer(string path, TopoJsonOptions options)
 
 ## OpenLayer(AbstractPath, DriverOptions) {#openlayer_1}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
@@ -63,7 +63,7 @@ public override VectorLayer OpenLayer(AbstractPath path, DriverOptions options)
 
 ## OpenLayer(AbstractPath, TopoJsonOptions) {#openlayer_2}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public VectorLayer OpenLayer(AbstractPath path, TopoJsonOptions options)

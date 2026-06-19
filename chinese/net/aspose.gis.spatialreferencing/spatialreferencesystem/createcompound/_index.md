@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.CreateCompound"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 方法。创建复合 SRS"
 type: docs
 weight: 340
@@ -17,9 +17,9 @@ public static CompoundSpatialReferenceSystem CreateCompound(string name,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 名称 | String | 新 SRS 的名称。 |
-| 头 | SpatialReferenceSystem | 新 SRS 的头部 SRS。 |
-| 尾 | SpatialReferenceSystem | 新 SRS 的尾部 SRS。 |
+| 名称 | 字符串 | 新 SRS 的名称。 |
+| 头部 | SpatialReferenceSystem | 新 SRS 的头部 SRS。 |
+| 尾部 | SpatialReferenceSystem | 新 SRS 的尾部 SRS。 |
 | 标识符 | 标识符 | 标识符，将附加到 SRS。附加标识符不会修改其他 SRS 参数。由您自行确保标识符与 SRS 参数的一致性。 |
 
 ### 返回值

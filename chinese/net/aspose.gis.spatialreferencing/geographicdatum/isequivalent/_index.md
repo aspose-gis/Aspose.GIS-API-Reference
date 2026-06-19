@@ -1,14 +1,14 @@
 ---
 title: "GeographicDatum.IsEquivalent"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeographicDatum 方法。确定两个基准是否等价。等价基准的相同坐标对应地球上的同一点。等价基准的某些参数可能不同，例如 Name"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeographicDatum 方法。确定两个基准是否等价。等价基准的相同坐标对应地球上的同一位置。等价基准的某些参数可能不同，例如 Name"
 type: docs
 weight: 90
 url: /zh/net/aspose.gis.spatialreferencing/geographicdatum/isequivalent/
 ---
 ## IsEquivalent(GeographicDatum, GeographicDatum)
 
-确定两个基准是否等价。等价基准的相同坐标对应地球上的同一点。等价基准的某些参数可能不同，例如 [`Name`](../../identifiableobject/name/)。
+确定两个基准是否等价。等价基准的相同坐标对应地球上的同一位置。等价基准的某些参数可能不同，例如 [`Name`](../../identifiableobject/name/)。
 
 ```csharp
 public static bool IsEquivalent(GeographicDatum datum1, GeographicDatum datum2)
@@ -33,7 +33,7 @@ bool 值，指示两个基准是否等价。
 
 ## IsEquivalent(GeographicDatum)
 
-确定两个基准是否等价。等价基准的相同坐标对应地球上的同一点。等价基准的某些参数可能不同，例如 [`Name`](../../identifiableobject/name/)。
+确定两个基准是否等价。等价基准的相同坐标对应地球上的同一位置。等价基准的某些参数可能不同，例如 [`Name`](../../identifiableobject/name/)。
 
 ```csharp
 public bool IsEquivalent(GeographicDatum other)

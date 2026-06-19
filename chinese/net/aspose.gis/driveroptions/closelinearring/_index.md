@@ -1,7 +1,7 @@
 ---
 title: "DriverOptions.CloseLinearRing"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "DriverOptions 属性。确定是否关闭每个几何中未闭合的 LinearRing。默认值为 false"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "DriverOptions 属性。确定是否在每个几何中闭合未闭合的 LinearRing。默认值为 false"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/driveroptions/closelinearring/

@@ -1,6 +1,6 @@
 ---
 title: "Measurement.Millimeters"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Measurement 方法。返回一个新的 Measurement 实例，表示以毫米为单位的长度"
 type: docs
 weight: 60
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.rendering/measurement/millimeters/
 ---
 ## Measurement.Millimeters method
 
-返回一个新的 `Measurement` 实例，表示以毫米为单位的长度。
+返回一个表示毫米长度的 `Measurement` 新实例。
 
 ```csharp
 public static Measurement Millimeters(double value)

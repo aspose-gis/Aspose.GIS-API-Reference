@@ -1,6 +1,6 @@
 ---
 title: "XyzTiles.GetTile"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "XyzTiles 方法。加载指定的瓦片"
 type: docs
 weight: 30

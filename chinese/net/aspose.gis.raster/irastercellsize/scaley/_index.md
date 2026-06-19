@@ -1,6 +1,6 @@
 ---
 title: "IRasterCellSize.ScaleY"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IRasterCellSize 属性。获取单元格或像素高度的 y 分量 yscale，通常为负"
 type: docs
 weight: 30

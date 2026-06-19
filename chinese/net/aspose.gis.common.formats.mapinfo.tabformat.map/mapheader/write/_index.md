@@ -1,6 +1,6 @@
 ---
-title: "MapHeader.Write"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MapHeader.写入"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapHeader 方法。"
 type: docs
 weight: 280

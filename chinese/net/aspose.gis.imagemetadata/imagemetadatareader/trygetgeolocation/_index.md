@@ -1,14 +1,14 @@
 ---
 title: "ImageMetadataReader.TryGetGeoLocation"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageMetadataReader 方法。尝试查找 EXIF 标签集 GPSLatitudeRef、GPSLongitudeRef、GPSLatitude、GPSLongitude；如果未出现这些标签，则返回 null"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageMetadataReader 方法。它尝试查找 EXIF 中的一组标签 GPSLatitudeRef、GPSLongitudeRef、GPSLatitude、GPSLongitude，如果这些标签不存在，则返回 null"
 type: docs
 weight: 120
 url: /zh/net/aspose.gis.imagemetadata/imagemetadatareader/trygetgeolocation/
 ---
 ## ImageMetadataReader.TryGetGeoLocation method
 
-尝试查找 EXIF 标签集 GPSLatitudeRef、GPSLongitudeRef、GPSLatitude、GPSLongitude，如果这些标签不存在则返回 null
+尝试查找 EXIF 标记集 GPSLatitudeRef、GPSLongitudeRef、GPSLatitude、GPSLongitude，如果这些标记不存在则返回 null。
 
 ```csharp
 public bool TryGetGeoLocation(out GeoLocation geoLocation)

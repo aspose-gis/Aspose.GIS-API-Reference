@@ -1,6 +1,6 @@
 ---
-title: "BoundingBox 增长"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "BoundingBox.Grow"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BoundingBox 方法。"
 type: docs
 weight: 240

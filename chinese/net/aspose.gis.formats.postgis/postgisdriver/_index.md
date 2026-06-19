@@ -1,7 +1,7 @@
 ---
 title: "类 PostGisDriver"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.PostGis.PostGisDriver 类。用于 PostGIS 数据库的驱动程序"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.PostGis.PostGisDriver 类。PostGIS 数据库的驱动程序"
 type: docs
 weight: 2290
 url: /zh/net/aspose.gis.formats.postgis/postgisdriver/

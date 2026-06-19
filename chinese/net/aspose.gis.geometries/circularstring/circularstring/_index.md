@@ -1,6 +1,6 @@
 ---
 title: "CircularString.CircularString"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CircularString 构造函数。初始化 CircularString 类的新实例"
 type: docs
 weight: 10

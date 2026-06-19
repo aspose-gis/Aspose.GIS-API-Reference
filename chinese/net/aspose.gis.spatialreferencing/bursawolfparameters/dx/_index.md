@@ -1,6 +1,6 @@
 ---
 title: "BursaWolfParameters.Dx"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BursaWolfParameters 属性。Dx 以米为单位"
 type: docs
 weight: 30

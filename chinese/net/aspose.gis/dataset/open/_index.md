@@ -1,7 +1,7 @@
 ---
 title: "Dataset.Open"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Dataset 方法。 打开数据集"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Dataset 方法。打开数据集"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/dataset/open/
@@ -16,12 +16,12 @@ public static Dataset Open(string path, FileDriver driver)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 数据集的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 数据集的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
 
-[`Dataset`](../) 的实例。
+一个 [`Dataset`](../) 实例。
 
 ### 异常
 
@@ -29,7 +29,7 @@ public static Dataset Open(string path, FileDriver driver)
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -51,11 +51,11 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
 
-[`Dataset`](../) 的实例。
+一个 [`Dataset`](../) 实例。
 
 ### 异常
 
@@ -63,7 +63,7 @@ public static Dataset Open(AbstractPath path, FileDriver driver)
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -85,13 +85,13 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 数据集的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 数据集的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-[`Dataset`](../) 的实例。
+一个 [`Dataset`](../) 实例。
 
 ### 异常
 
@@ -100,7 +100,7 @@ public static Dataset Open(string path, FileDriver driver, DriverOptions options
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -123,12 +123,12 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 数据集的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-[`Dataset`](../) 的实例。
+一个 [`Dataset`](../) 实例。
 
 ### 异常
 
@@ -137,7 +137,7 @@ public static Dataset Open(AbstractPath path, FileDriver driver, DriverOptions o
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -161,11 +161,11 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | 连接 | IDbConnection | 已打开到数据库的连接。 |
-| 驱动 | DatabaseDriver | 要使用的驱动。 |
+| 驱动程序 | DatabaseDriver | 要使用的驱动程序。 |
 
 ### 返回值
 
-[`Dataset`](../) 的实例。
+一个 [`Dataset`](../) 实例。
 
 ### 异常
 
@@ -174,7 +174,7 @@ public static Dataset Open(IDbConnection connection, DatabaseDriver driver)
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 

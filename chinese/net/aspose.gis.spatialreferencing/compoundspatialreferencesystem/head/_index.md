@@ -1,6 +1,6 @@
 ---
 title: "CompoundSpatialReferenceSystem.Head"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CompoundSpatialReferenceSystem 属性。第一个底层 SRS。"
 type: docs
 weight: 80

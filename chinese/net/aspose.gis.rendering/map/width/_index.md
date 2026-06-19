@@ -1,6 +1,6 @@
 ---
 title: "Map.Width"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Map 属性。地图的可视宽度"
 type: docs
 weight: 100
@@ -18,7 +18,7 @@ public Measurement Width { get; set; }
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentException | [`Unit`](../../measurement/unit/) 的值单位是 MapUnits 或 MetersOnEarth。 |
+| ArgumentException | [`Unit`](../../measurement/unit/) 的值为 MapUnits 或 MetersOnEarth。 |
 | ArgumentOutOfRangeException | 值为负数或零。 |
 
 ### 另见

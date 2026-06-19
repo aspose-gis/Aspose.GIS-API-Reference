@@ -1,6 +1,6 @@
 ---
 title: "RasterLayer.GetSpatialPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterLayer 方法。将指定的列和行转换为空间坐标"
 type: docs
 weight: 150
@@ -25,7 +25,7 @@ public IPoint GetSpatialPoint(int cellX, int cellY)
 
 ## 备注
 
-如果任一参数超出栅格相应维度的范围，它将返回栅格之外的坐标，假设栅格的网格在栅格边界之外仍然适用。
+如果任一参数超出栅格相应维度的范围，则会返回栅格外的坐标，假设栅格网格在栅格边界之外仍然适用。
 
 ### 另见
 

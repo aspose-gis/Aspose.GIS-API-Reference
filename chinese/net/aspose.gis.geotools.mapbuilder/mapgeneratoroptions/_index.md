@@ -1,6 +1,6 @@
 ---
 title: "类 MapGeneratorOptions"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.MapBuilder.MapGeneratorOptions 类。用于在表面或区域上生成几何体的选项"
 type: docs
 weight: 2570
@@ -31,7 +31,7 @@ public class MapGeneratorOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [Clone](../../aspose.gis.geotools.mapbuilder/mapgeneratoroptions/clone/)() | 将对象克隆到另一个对象。 |
+| [Clone](../../aspose.gis.geotools.mapbuilder/mapgeneratoroptions/clone/)() | 将对象克隆为另一个对象。 |
 
 ### 另见
 

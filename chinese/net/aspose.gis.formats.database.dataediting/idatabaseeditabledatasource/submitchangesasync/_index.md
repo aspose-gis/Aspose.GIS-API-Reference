@@ -1,14 +1,14 @@
 ---
 title: "IDatabaseEditableDataSource.SubmitChangesAsync"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IDatabaseEditableDataSource 方法。允许您将累积的更改保存到数据库"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IDatabaseEditableDataSource 方法。允许您将累计的更改保存到数据库"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.database.dataediting/idatabaseeditabledatasource/submitchangesasync/
 ---
 ## IDatabaseEditableDataSource.SubmitChangesAsync method
 
-允许您将累积的更改保存到数据库。
+允许您将累计的更改保存到数据库。
 
 ```csharp
 public Task SubmitChangesAsync(VectorLayer layer, DbConnection connection, 

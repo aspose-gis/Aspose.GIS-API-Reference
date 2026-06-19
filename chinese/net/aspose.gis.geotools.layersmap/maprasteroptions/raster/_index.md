@@ -1,6 +1,6 @@
 ---
 title: "MapRasterOptions.Raster"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapRasterOptions 属性。栅格图层"
 type: docs
 weight: 50
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geotools.layersmap/maprasteroptions/raster/
 ---
 ## MapRasterOptions.Raster property
 
-栅格图层。
+Raster 图层。
 
 ```csharp
 public RasterLayer Raster { get; set; }

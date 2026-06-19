@@ -1,6 +1,6 @@
 ---
 title: "类 RasterBand"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.RasterBand 类。包含有关栅格波段的数据"
 type: docs
 weight: 3800

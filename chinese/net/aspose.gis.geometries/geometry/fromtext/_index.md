@@ -1,6 +1,6 @@
 ---
 title: "Geometry.FromText"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 方法。根据其 WellKnown Text 表示创建几何体"
 type: docs
 weight: 480
@@ -16,7 +16,7 @@ public static IGeometry FromText(string wkt)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| wkt | String | 几何体的 Well-Known Text 表示。 |
+| wkt | 字符串 | 几何体的 Well-Known Text 表示。 |
 
 ### 返回值
 
@@ -49,7 +49,7 @@ public static IGeometry FromText(string wkt, SpatialReferenceSystem spatialRefer
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| wkt | String | 几何体的 Well-Known Text 表示。 |
+| wkt | 字符串 | 几何体的 Well-Known Text 表示。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 要分配给几何体的空间参考系统。 |
 
 ### 返回值

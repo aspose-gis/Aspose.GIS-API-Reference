@@ -1,7 +1,7 @@
 ---
 title: "IPoint.X"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IPoint 属性. 获取 x 坐标"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IPoint 属性。获取 x 坐标"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/ipoint/x/

@@ -1,6 +1,6 @@
 ---
 title: "RuleBasedSymbolizer.Add"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RuleBasedSymbolizer 方法。添加新规则"
 type: docs
 weight: 40
@@ -16,7 +16,7 @@ public void Add(Func<Feature, bool> filter, VectorSymbolizer symbolizer)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 过滤器 | Func`2 | 确定何时应将符号化器应用于要素。 |
+| 过滤器 | Func`2 | 确定何时将符号化器应用于要素。 |
 | 符号化器 | VectorSymbolizer | 当 *filter* 返回 true 时要应用于要素的符号化器。 |
 
 ### 另见

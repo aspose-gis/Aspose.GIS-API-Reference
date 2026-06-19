@@ -1,6 +1,6 @@
 ---
 title: "GeoLocation.Latitude"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoLocation 属性。GeoLocation 的纬度"
 type: docs
 weight: 10

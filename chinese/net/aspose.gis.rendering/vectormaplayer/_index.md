@@ -1,14 +1,14 @@
 ---
 title: "类 VectorMapLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.VectorMapLayer 类。Map 中表示向量图层数据的图层"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.VectorMapLayer 类。Map 中表示矢量图层数据的图层"
 type: docs
 weight: 4450
 url: /zh/net/aspose.gis.rendering/vectormaplayer/
 ---
 ## VectorMapLayer class
 
-[`Map`](../map/) 中的图层，表示向量图层数据。
+[`Map`](../map/) 中表示矢量图层数据的图层。
 
 ```csharp
 public class VectorMapLayer : MapLayer
@@ -40,8 +40,8 @@ public class VectorMapLayer : MapLayer
 | 名称 | 描述 |
 | --- | --- |
 | override [Dispose](../../aspose.gis.rendering/vectormaplayer/dispose/)() | 释放资源。 |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld)(AbstractPath, SldImportOptions) | 从指定路径的 Styled Layer Descriptor 文件导入样式。 |
-| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld_1)(string, SldImportOptions) | 从指定路径的 Styled Layer Descriptor 文件导入样式。 |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld)(AbstractPath, SldImportOptions) | 从指定路径下的 Styled Layer Descriptor 文件导入样式。 |
+| [ImportSld](../../aspose.gis.rendering/vectormaplayer/importsld/#importsld_1)(string, SldImportOptions) | 从指定路径下的 Styled Layer Descriptor 文件导入样式。 |
 | [ImportSldFromString](../../aspose.gis.rendering/vectormaplayer/importsldfromstring/)(string, SldImportOptions) | 从指定的 Styled Layer Descriptor 字符串导入样式。 |
 
 ### 另见

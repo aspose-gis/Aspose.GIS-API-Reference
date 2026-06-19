@@ -1,6 +1,6 @@
 ---
 title: "RasterImageMarker.RasterImageMarker"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterImageMarker 构造函数。初始化 RasterImageMarker 类的新实例"
 type: docs
 weight: 10
@@ -16,7 +16,7 @@ public RasterImageMarker(string imagePath)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| imagePath | String | 文件的路径。 |
+| imagePath | 字符串 | 文件的路径。 |
 
 ### 另见
 
@@ -57,7 +57,7 @@ public RasterImageMarker(RasterImageMarker other)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| other | RasterImageMarker | 要从中复制数据的另一个 [`RasterImageMarker`](../)。 |
+| other | RasterImageMarker | 另一个用于复制数据的 [`RasterImageMarker`](../)。 |
 
 ### 异常
 

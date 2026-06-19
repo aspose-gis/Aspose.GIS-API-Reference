@@ -1,14 +1,14 @@
 ---
 title: "VectorLayer.JoinByGeometry"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VectorLayer 方法。通过几何将一个图层加入当前图层"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VectorLayer 方法。通过几何将图层加入当前图层"
 type: docs
 weight: 160
 url: /zh/net/aspose.gis/vectorlayer/joinbygeometry/
 ---
 ## VectorLayer.JoinByGeometry method
 
-通过几何体将一个图层加入当前图层。
+通过几何将一个图层加入当前图层。
 
 ```csharp
 public VectorLayer JoinByGeometry(VectorLayer layer, JoinByGeometryOptions options)
@@ -21,7 +21,7 @@ public VectorLayer JoinByGeometry(VectorLayer layer, JoinByGeometryOptions optio
 
 ### 返回值
 
-连接两个图层后得到的新图层。
+通过连接两个图层产生的新图层。
 
 ### 异常
 

@@ -1,6 +1,6 @@
 ---
 title: "OsmXmlOptions.WriteCommonAttributes"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "OsmXmlOptions 属性。写入常见的 OSM 属性 visible、version、changeset、timestamp、user 和 uid"
 type: docs
 weight: 50

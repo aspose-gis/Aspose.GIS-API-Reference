@@ -1,7 +1,7 @@
 ---
 title: "类 DatabaseDriver"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.DatabaseDriver 类。特定基于数据库的格式的驱动程序"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.DatabaseDriver 类。特定基于数据库格式的驱动程序"
 type: docs
 weight: 1410
 url: /zh/net/aspose.gis/databasedriver/

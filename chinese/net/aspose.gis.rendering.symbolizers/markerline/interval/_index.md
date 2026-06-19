@@ -1,6 +1,6 @@
 ---
 title: "MarkerLine.Interval"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerLine 属性。指定沿线标记之间的间隔"
 type: docs
 weight: 30

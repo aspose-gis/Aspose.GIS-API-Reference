@@ -1,6 +1,6 @@
 ---
 title: "类 DatabaseDataSourceBuilder"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.Database.DatabaseDataSourceBuilder 类。提供配置数据库数据源对象的能力"
 type: docs
 weight: 1730

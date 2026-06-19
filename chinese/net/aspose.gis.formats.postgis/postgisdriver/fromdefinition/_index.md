@@ -1,6 +1,6 @@
 ---
 title: "PostGisDriver.FromDefinition"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "PostGisDriver 方法。允许开始配置数据源 IFromDefinitionDataSource 的过程，以便进一步使用它"
 type: docs
 weight: 10
@@ -16,7 +16,7 @@ public FromDefinitionDataSourceBuilder FromDefinition(string tableName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| tableName | String | 将从中提取数据的数据库表的名称 |
+| tableName | 字符串 | 要提取数据的数据库表的名称 |
 
 ### 返回值
 

@@ -1,7 +1,7 @@
 ---
 title: "类 TiffWDriver"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.TiffW.TiffWDriver 类。用于 TiffW 栅格的驱动程序"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.TiffW.TiffWDriver 类. 用于 TiffW 栅格的驱动程序"
 type: docs
 weight: 2350
 url: /zh/net/aspose.gis.formats.tiffw/tiffwdriver/

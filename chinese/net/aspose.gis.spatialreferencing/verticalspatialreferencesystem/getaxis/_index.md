@@ -1,14 +1,14 @@
 ---
 title: "VerticalSpatialReferenceSystem.GetAxis"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VerticalSpatialReferenceSystem 方法。获取描述维度的 Axis"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VerticalSpatialReferenceSystem 方法。获取描述维度的 Axis。"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.spatialreferencing/verticalspatialreferencesystem/getaxis/
 ---
 ## VerticalSpatialReferenceSystem.GetAxis method
 
-获取描述维度的 [`Axis`](../../axis/).
+获取 [`Axis`](../../axis/)，它描述维度。
 
 ```csharp
 public override Axis GetAxis(int dimension)
@@ -20,7 +20,7 @@ public override Axis GetAxis(int dimension)
 
 ### 返回值
 
-描述维度的 Axis.
+描述维度的 Axis。
 
 ### 异常
 

@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttribute.Precision"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttribute 属性。获取或设置要存储的最大小数位数"
 type: docs
 weight: 90

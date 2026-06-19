@@ -1,6 +1,6 @@
 ---
 title: "WarpOptions.TargetSpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "WarpOptions 属性。指定目标空间参考。如果设置为 null，则使用默认或源空间参考"
 type: docs
 weight: 70

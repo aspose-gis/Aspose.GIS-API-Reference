@@ -1,6 +1,6 @@
 ---
 title: "SimpleMarker.Rotation"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleMarker 属性。指定符号围绕其中心点的旋转角度（以十进制度数表示）。正值表示顺时针旋转，负值表示逆时针旋转。"
 type: docs
 weight: 60

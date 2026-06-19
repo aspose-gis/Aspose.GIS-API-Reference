@@ -1,6 +1,6 @@
 ---
 title: "类 ValuesRangeTValue"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Indexing.ValuesRange1TValue 类。"
 type: docs
 weight: 3200

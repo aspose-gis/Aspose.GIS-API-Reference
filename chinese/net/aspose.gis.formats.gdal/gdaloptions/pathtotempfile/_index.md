@@ -1,6 +1,6 @@
 ---
 title: "GdalOptions.PathToTempFile"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GdalOptions 属性。临时文件的路径"
 type: docs
 weight: 30

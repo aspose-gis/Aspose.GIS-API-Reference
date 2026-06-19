@@ -1,6 +1,6 @@
 ---
 title: "JoinOptions.TargetAttributeName"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "JoinOptions 属性。指定主图层的属性名称，其值将用于 ConditionComparer"
 type: docs
 weight: 60

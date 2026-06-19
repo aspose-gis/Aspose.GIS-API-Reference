@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.Nad83"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 属性。NAD 83 EPSG4269 空间参考系统"
 type: docs
 weight: 280

@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Raster.Web"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Raster.Web 命名空间提供用于处理网络扭曲的类"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Raster.Web 命名空间提供用于处理网络变形的类"
 type: docs
 weight: 640
 url: /zh/net/aspose.gis.raster.web/

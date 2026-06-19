@@ -1,6 +1,6 @@
 ---
 title: "StarGeneratorOptions.MinimumStarVertex"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "StarGeneratorOptions 属性。生成侧的最小外部顶点"
 type: docs
 weight: 40

@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Difference"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。从此几何体中减去指定几何体"
 type: docs
 weight: 170

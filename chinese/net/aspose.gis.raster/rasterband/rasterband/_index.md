@@ -1,6 +1,6 @@
 ---
 title: "RasterBand.RasterBand"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RasterBand 构造函数。创建 RasterBand 的实例"
 type: docs
 weight: 10
@@ -16,7 +16,7 @@ public RasterBand(BandTypes dataType)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| dataType | BandTypes | 指定每个像素或单元格中存储的值的类型和大小。 |
+| dataType | BandTypes | 指定存储在每个像素或单元格中的值的类型和大小。 |
 
 ### 另见
 

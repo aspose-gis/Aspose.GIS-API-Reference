@@ -1,6 +1,6 @@
 ---
 title: "Geometry.Null"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 属性。获取空几何的实例"
 type: docs
 weight: 460

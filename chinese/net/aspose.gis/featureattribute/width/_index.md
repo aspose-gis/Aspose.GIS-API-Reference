@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttribute.Width"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttribute 属性。获取或设置属性字符表示的最大允许宽度"
 type: docs
 weight: 110

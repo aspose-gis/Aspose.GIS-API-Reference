@@ -1,6 +1,6 @@
 ---
 title: "Unit.Factor"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Unit 属性。因子到米，如果这是长度单位；因子到弧度，如果这是角度单位"
 type: docs
 weight: 50

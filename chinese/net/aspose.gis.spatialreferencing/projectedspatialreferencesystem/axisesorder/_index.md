@@ -1,6 +1,6 @@
 ---
 title: "ProjectedSpatialReferenceSystem.AxisesOrder"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ProjectedSpatialReferenceSystem 属性。此 SRS 中轴的顺序。如果此 SRS 无效且轴方向错误，则返回 Invalid"
 type: docs
 weight: 30

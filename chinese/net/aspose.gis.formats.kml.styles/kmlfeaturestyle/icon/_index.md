@@ -1,7 +1,7 @@
 ---
 title: "KmlFeatureStyle.Icon"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "KmlFeatureStyle 属性。指定点型 Placemarks 的图标如何绘制。使用 null 表示缺失的样式。默认值为 null"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "KmlFeatureStyle 属性。指定如何绘制点 Placemarks 的图标。使用 null 表示缺失的样式。默认值为 null"
 type: docs
 weight: 30
 url: /zh/net/aspose.gis.formats.kml.styles/kmlfeaturestyle/icon/

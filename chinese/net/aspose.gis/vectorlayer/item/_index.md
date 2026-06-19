@@ -1,7 +1,7 @@
 ---
 title: "VectorLayer.Item"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "VectorLayer 属性。获取指定索引处的 Feature。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "VectorLayer 属性。获取指定索引处的 Feature"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis/vectorlayer/item/
@@ -16,7 +16,7 @@ public virtual Feature this[int index] { get; }
 
 | 参数 | 描述 |
 | --- | --- |
-| 索引 | 特征的索引。 |
+| 索引 | 要素的索引。 |
 
 ### Property Value
 
@@ -26,10 +26,10 @@ public virtual Feature this[int index] { get; }
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层以只写方式打开，则会抛出此异常。 |
+| InvalidOperationException | 当图层以只写方式打开时抛出。 |
 | ArgumentOutOfRangeException | 索引超出范围。 |
-| [GisException](../../gisexception/) | 读取文件中的要素时出错。 |
-| IOException | 发生 I/O 错误。 |
+| [GisException](../../gisexception/) | 从文件读取要素时出错。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 

@@ -1,6 +1,6 @@
 ---
-title: "MapHeader.Read"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MapHeader.读取"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapHeader 方法。"
 type: docs
 weight: 20

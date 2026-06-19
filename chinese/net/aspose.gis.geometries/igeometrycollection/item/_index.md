@@ -1,7 +1,7 @@
 ---
 title: "IGeometryCollection.Item"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IGeometryCollection 属性。获取指定索引处的 IGeometry"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IGeometryCollection 属性。获取在指定索引处的 IGeometry"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/igeometrycollection/item/
@@ -16,11 +16,11 @@ public IGeometry this[int index] { get; }
 
 | 参数 | 描述 |
 | --- | --- |
-| 索引 | 该索引。 |
+| 索引 | 索引。 |
 
 ### Property Value
 
-该 [`IGeometry`](../../igeometry/)。
+此 [`IGeometry`](../../igeometry/)。
 
 ### 异常
 

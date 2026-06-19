@@ -1,6 +1,6 @@
 ---
 title: "MapLayerOptions.Layer"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapLayerOptions 属性。矢量图层"
 type: docs
 weight: 30

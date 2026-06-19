@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.Union"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 方法。将此几何与指定几何合并"
 type: docs
 weight: 370

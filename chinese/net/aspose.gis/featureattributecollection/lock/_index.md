@@ -1,6 +1,6 @@
 ---
 title: "FeatureAttributeCollection.Lock"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeatureAttributeCollection 方法。锁定此属性集合以防止进一步修改"
 type: docs
 weight: 80

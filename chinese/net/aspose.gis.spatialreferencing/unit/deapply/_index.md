@@ -1,6 +1,6 @@
 ---
 title: "Unit.Deapply"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Unit 方法。将参数从此实例描述的单位转换为弧度或米"
 type: docs
 weight: 70

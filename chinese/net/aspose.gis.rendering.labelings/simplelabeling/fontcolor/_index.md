@@ -1,6 +1,6 @@
 ---
 title: "SimpleLabeling.FontColor"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimpleLabeling 属性。确定文本的颜色"
 type: docs
 weight: 30

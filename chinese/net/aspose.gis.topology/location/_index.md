@@ -1,7 +1,7 @@
 ---
 title: "枚举 Location"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.Location 枚举。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.Location 枚举."
 type: docs
 weight: 5010
 url: /zh/net/aspose.gis.topology/location/

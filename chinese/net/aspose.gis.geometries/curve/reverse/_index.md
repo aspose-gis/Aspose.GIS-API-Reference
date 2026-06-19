@@ -1,6 +1,6 @@
 ---
 title: "Curve.Reverse"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Curve 方法。反转此曲线"
 type: docs
 weight: 50

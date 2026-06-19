@@ -1,6 +1,6 @@
 ---
 title: "Feature.GetValue"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Feature 方法。获取属性的值"
 type: docs
 weight: 30
@@ -16,7 +16,7 @@ public object GetValue(string attributeName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attributeName | String | 属性的名称。 |
+| attributeName | 字符串 | 属性的名称。 |
 
 ### 返回值
 
@@ -28,12 +28,12 @@ public object GetValue(string attributeName)
 | --- | --- |
 | ArgumentNullException | 属性名称为 `null`。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未被锁定。 |
-| InvalidOperationException | 此要素未设置该属性的值。 |
+| InvalidOperationException | 该属性未锁定。 |
+| InvalidOperationException | 此要素未设置此属性的值。 |
 
 ## 备注
 
-如果图层不要求其要素拥有该图层定义的所有属性的值，则在请求缺失的值时，此方法可能会抛出 InvalidOperationException。处理此类图层时，建议使用 [`GetValueOrDefault`](../getvalueordefault/)。
+如果图层不要求其要素拥有为该图层定义的所有属性的值，则在请求缺失的值时，此方法可能会抛出 InvalidOperationException。处理此类图层时，建议使用 [`GetValueOrDefault`](../getvalueordefault/)。
 
 ### 另见
 
@@ -53,7 +53,7 @@ public T GetValue<T>(string attributeName)
 
 | 参数 | 描述 |
 | --- | --- |
-| T | 值的期望类型。 |
+| T | 所需的值类型。 |
 | attributeName | 属性的名称。 |
 
 ### 返回值
@@ -66,8 +66,8 @@ public T GetValue<T>(string attributeName)
 | --- | --- |
 | ArgumentNullException | 属性名称为 `null`。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未被锁定。 |
-| InvalidOperationException | 此要素未设置该属性的值。 |
+| InvalidOperationException | 该属性未锁定。 |
+| InvalidOperationException | 此要素未设置此属性的值。 |
 | InvalidCastException | 请求的类型未实现 IConvertible。 |
 | InvalidCastException | 属性的值为 `null`，但请求的类型是值类型。 |
 | FormatException | 转换失败，因为值的格式不正确。 |
@@ -75,7 +75,7 @@ public T GetValue<T>(string attributeName)
 
 ## 备注
 
-此方法会自动将值转换为泛型类型参数中请求的类型。如果图层不要求其要素拥有该图层定义的所有属性的值，则在请求缺失的值时，此方法可能会抛出 InvalidOperationException。处理此类图层时，建议使用 [`GetValueOrDefault`](../getvalueordefault/)。
+此方法会自动将值转换为泛型类型参数中请求的类型。如果图层不要求其要素拥有为该图层定义的所有属性的值，则在请求缺失的值时，此方法可能会抛出 InvalidOperationException。处理此类图层时，建议使用 [`GetValueOrDefault`](../getvalueordefault/)。
 
 ### 另见
 

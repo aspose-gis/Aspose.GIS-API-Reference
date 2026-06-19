@@ -1,6 +1,6 @@
 ---
 title: "FeaturesSequence.WhereUnset"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeaturesSequence 方法。选择指定属性未设置的特征"
 type: docs
 weight: 180
@@ -16,7 +16,7 @@ public virtual FeaturesSequence WhereUnset(string attributeName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attributeName | String | 用于过滤的属性。 |
+| attributeName | 字符串 | 用于过滤的属性。 |
 
 ### 返回值
 

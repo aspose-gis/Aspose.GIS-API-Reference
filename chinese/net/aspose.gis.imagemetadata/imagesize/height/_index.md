@@ -1,6 +1,6 @@
 ---
 title: "ImageSize.Height"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ImageSize 属性。图像的高度"
 type: docs
 weight: 10
@@ -16,7 +16,7 @@ public int Height { get; }
 
 ## 备注
 
-ushort 数据类型中的真实存储值
+ushort 数据类型中的实际存储值
 
 ### 另见
 

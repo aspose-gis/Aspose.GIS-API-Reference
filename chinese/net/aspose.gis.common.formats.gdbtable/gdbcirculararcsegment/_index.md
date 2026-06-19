@@ -1,7 +1,7 @@
 ---
 title: "类 GdbCircularArcSegment"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.GdbTable.GdbCircularArcSegment 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.GdbTable.GdbCircularArcSegment 类."
 type: docs
 weight: 340
 url: /zh/net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/

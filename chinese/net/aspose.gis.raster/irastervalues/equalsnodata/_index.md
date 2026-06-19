@@ -1,14 +1,14 @@
 ---
 title: "IRasterValues.EqualsNoData"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "IRasterValues 方法。检查该值在指定波段中是否表示背景或无数据"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "IRasterValues 方法。检查该值是否在指定波段中表示背景或无数据"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis.raster/irastervalues/equalsnodata/
 ---
 ## IRasterValues.EqualsNoData method
 
-检查该值在指定波段中是否表示背景或“无数据”。
+检查该值是否在指定波段中表示背景或“无数据”。
 
 ```csharp
 public bool EqualsNoData(int bandIndex = 0)
@@ -20,7 +20,7 @@ public bool EqualsNoData(int bandIndex = 0)
 
 ### 返回值
 
-如果表示背景或‘无数据’，返回 ‘true’。
+如果表示背景或“无数据”，返回 'true'。
 
 ### 另见
 

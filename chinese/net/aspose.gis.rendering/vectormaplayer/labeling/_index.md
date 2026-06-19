@@ -1,6 +1,6 @@
 ---
 title: "VectorMapLayer.Labeling"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorMapLayer 属性。指定地图图层的扭曲选项"
 type: docs
 weight: 30

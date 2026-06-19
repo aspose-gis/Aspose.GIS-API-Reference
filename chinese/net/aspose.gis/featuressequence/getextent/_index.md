@@ -1,6 +1,6 @@
 ---
 title: "FeaturesSequence.GetExtent"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeaturesSequence 方法。获取此图层的空间范围"
 type: docs
 weight: 40
@@ -22,7 +22,7 @@ public virtual Extent GetExtent()
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 如果图层以只写方式打开，则会抛出此异常。 |
+| InvalidOperationException | 当图层以只写方式打开时抛出。 |
 
 ### 另见
 

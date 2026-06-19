@@ -1,6 +1,6 @@
 ---
 title: "类 BinaryDataReader"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.IO.BinaryDataReader 类。"
 type: docs
 weight: 1200

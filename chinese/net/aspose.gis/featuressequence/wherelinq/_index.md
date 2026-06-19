@@ -1,14 +1,14 @@
 ---
 title: "FeaturesSequence.WhereLinq"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "FeaturesSequence 方法。使用 linq 将选择条件组合成单个查询"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "FeaturesSequence 方法。使用 linq 将选择条件合并为单个查询"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis/featuressequence/wherelinq/
 ---
 ## FeaturesSequence.WhereLinq method
 
-使用 linq 将选择条件合并为单个查询。
+使用 linq 将选择条件组合成单个查询。
 
 ```csharp
 public virtual FeaturesSequence WhereLinq(Func<Feature, bool> filteringPredicate)
@@ -20,7 +20,7 @@ public virtual FeaturesSequence WhereLinq(Func<Feature, bool> filteringPredicate
 
 ### 返回值
 
-满足选择条件的属性值的特征。
+属性值满足选择条件的特征。
 
 ### 异常
 

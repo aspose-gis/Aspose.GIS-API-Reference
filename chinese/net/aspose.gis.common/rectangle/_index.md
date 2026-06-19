@@ -1,6 +1,6 @@
 ---
 title: "结构体 Rectangle"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Rectangle 结构体。"
 type: docs
 weight: 1350

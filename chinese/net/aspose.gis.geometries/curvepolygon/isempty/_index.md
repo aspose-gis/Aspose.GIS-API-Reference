@@ -1,7 +1,7 @@
 ---
 title: "CurvePolygon.IsEmpty"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CurvePolygon 属性. 获取指示此实例是否为空的值"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CurvePolygon 属性。获取一个值，指示此实例是否为空"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.geometries/curvepolygon/isempty/

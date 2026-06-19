@@ -1,7 +1,7 @@
 ---
 title: "类 MidReader"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MidReader 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.Formats.MapInfo.InterchangeFormat.MidReader 类."
 type: docs
 weight: 740
 url: /zh/net/aspose.gis.common.formats.mapinfo.interchangeformat/midreader/

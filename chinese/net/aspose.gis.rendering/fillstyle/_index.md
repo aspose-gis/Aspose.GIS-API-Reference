@@ -1,7 +1,7 @@
 ---
 title: "枚举 FillStyle"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.FillStyle 枚举。指定填充模式"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.FillStyle enum. 指定填充图案"
 type: docs
 weight: 4000
 url: /zh/net/aspose.gis.rendering/fillstyle/
@@ -22,7 +22,7 @@ public enum FillStyle
 | None | `1` | 不填充。 |
 | HorizontalHatch | `2` | 水平线图案。 |
 | VerticalHatch | `3` | 垂直线图案。 |
-| CrossHatch | `4` | 水平和垂直交叉线的图案。 |
+| CrossHatch | `4` | 水平和垂直交叉线图案。 |
 | ForwardDiagonalHatch | `5` | 从左上到右下的对角线图案。 |
 | BackwardDiagonalHatch | `6` | 从右上到左下的对角线图案。 |
 | DiagonalCrossHatch | `7` | 交叉对角线图案。 |

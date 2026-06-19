@@ -1,7 +1,7 @@
 ---
 title: "GpxOptions.GpxOptions"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GpxOptions 构造函数。创建新实例"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GpxOptions 构造函数。创建新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.formats.gpx/gpxoptions/gpxoptions/

@@ -1,7 +1,7 @@
 ---
 title: "CircularString.SetEmpty"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CircularString 方法。使此几何体为空"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CircularString 方法。使此几何为空"
 type: docs
 weight: 180
 url: /zh/net/aspose.gis.geometries/circularstring/setempty/

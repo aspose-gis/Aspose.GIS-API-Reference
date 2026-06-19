@@ -1,7 +1,7 @@
 ---
 title: "ImageMetadataReader.Dispose"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageMetadataReader 方法。公开的 Dispose 模式实现，可供消费者调用"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageMetadataReader 方法。公开实现的 Dispose 模式，可供消费者调用"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.imagemetadata/imagemetadatareader/dispose/

@@ -1,6 +1,6 @@
 ---
 title: "StarGeneratorOptions.Count"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "StarGeneratorOptions 属性。要创建的多边形数量"
 type: docs
 weight: 20

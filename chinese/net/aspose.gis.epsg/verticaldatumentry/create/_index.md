@@ -1,6 +1,6 @@
 ---
-title: "VerticalDatumEntry.Create"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "VerticalDatumEntry.创建"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VerticalDatumEntry 方法。"
 type: docs
 weight: 20

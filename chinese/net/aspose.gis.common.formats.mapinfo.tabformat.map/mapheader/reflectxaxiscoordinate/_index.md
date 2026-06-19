@@ -1,6 +1,6 @@
 ---
-title: "MapHeader.ReflectXAxisCoordinate"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MapHeader.反射X轴坐标"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapHeader 属性。"
 type: docs
 weight: 220

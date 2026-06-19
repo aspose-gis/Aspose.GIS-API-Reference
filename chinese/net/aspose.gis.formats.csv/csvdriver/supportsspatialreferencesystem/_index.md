@@ -1,7 +1,7 @@
 ---
 title: "CsvDriver.SupportsSpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CsvDriver 方法。确定指定的空间参考系统是否受驱动程序支持"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CsvDriver 方法。确定指定的空间参考系统是否被驱动程序支持"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.formats.csv/csvdriver/supportsspatialreferencesystem/
@@ -20,11 +20,11 @@ public override bool SupportsSpatialReferenceSystem(SpatialReferenceSystem spati
 
 ### 返回值
 
-布尔值，指示指定的空间参考系统是否受驱动程序支持。
+布尔值，指示指定的空间参考系统是否受到驱动程序支持。
 
 ## 备注
 
-对于 CSV，唯一受支持的空间参考系统是 WGS84。
+对于 CSV，唯一支持的空间参考系统是 WGS84。
 
 ### 另见
 

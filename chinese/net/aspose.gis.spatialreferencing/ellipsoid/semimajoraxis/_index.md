@@ -1,6 +1,6 @@
 ---
 title: "Ellipsoid.SemiMajorAxis"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Ellipsoid 属性。椭球体的半长轴"
 type: docs
 weight: 90

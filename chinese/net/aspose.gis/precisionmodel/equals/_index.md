@@ -1,6 +1,6 @@
 ---
 title: "PrecisionModel.Equals"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "PrecisionModel 方法。指示当前对象是否等于同类型的另一个对象"
 type: docs
 weight: 60

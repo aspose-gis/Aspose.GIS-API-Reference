@@ -1,14 +1,14 @@
 ---
 title: "SpatialReferenceSystem.ExportToWkt"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 方法。返回此 SRS 的 WKT 字符串表示。结果 WKT 字符串通常符合 OGC 01009 规范，通常称为 WKT1。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 方法。返回此 SRS 的 WKT 字符串表示。结果 WKT 字符串将符合通常称为 WKT1 的 OGC 01009 规范。"
 type: docs
 weight: 190
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/exporttowkt/
 ---
 ## SpatialReferenceSystem.ExportToWkt method
 
-返回此 SRS 的 WKT 字符串表示。结果 WKT 字符串将符合 OGC 01-009 规范，通常称为 "WKT1"。
+返回此 SRS 的 WKT 字符串表示。结果 WKT 字符串将符合 OGC 01-009 规范，通常命名为 "WKT1"。
 
 ```csharp
 public string ExportToWkt()

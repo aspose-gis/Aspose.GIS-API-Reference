@@ -1,6 +1,6 @@
 ---
 title: "Aspose.Gis.Painting"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: 
 type: docs
 weight: 610

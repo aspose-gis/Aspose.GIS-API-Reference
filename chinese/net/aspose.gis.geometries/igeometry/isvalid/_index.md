@@ -1,6 +1,6 @@
 ---
 title: "IGeometry.IsValid"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IGeometry 属性。获取一个值，指示此实例是否有效"
 type: docs
 weight: 80

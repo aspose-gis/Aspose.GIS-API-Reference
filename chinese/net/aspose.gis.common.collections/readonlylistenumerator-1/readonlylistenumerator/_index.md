@@ -1,6 +1,6 @@
 ---
 title: "ReadOnlyListEnumerator1.ReadOnlyListEnumerator"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ReadOnlyListEnumerator 构造函数。"
 type: docs
 weight: 10

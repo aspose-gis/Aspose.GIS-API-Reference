@@ -1,6 +1,6 @@
 ---
-title: "DBase.IsRecordDeleted"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "DBase.记录是否已删除"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "DBase 方法。"
 type: docs
 weight: 120

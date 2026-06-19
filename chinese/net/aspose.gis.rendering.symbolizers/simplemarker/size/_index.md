@@ -1,7 +1,7 @@
 ---
 title: "SimpleMarker.Size"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleMarker 属性。指定标记的大小"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleMarker 属性。指定标记的大小。"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/size/

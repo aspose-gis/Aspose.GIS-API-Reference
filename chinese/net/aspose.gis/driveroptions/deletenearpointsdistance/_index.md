@@ -1,6 +1,6 @@
 ---
 title: "DriverOptions.DeleteNearPointsDistance"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "DriverOptions 属性。确定 DeleteNearPoints 的距离。默认值为 0"
 type: docs
 weight: 40
@@ -16,7 +16,7 @@ public double DeleteNearPointsDistance { get; set; }
 
 ## 备注
 
-如果 [`DeleteNearPoints`](../deletenearpoints/) 为 false，则不受影响。
+当 [`DeleteNearPoints`](../deletenearpoints/) 为 false 时，它不受影响。
 
 ### 另见
 

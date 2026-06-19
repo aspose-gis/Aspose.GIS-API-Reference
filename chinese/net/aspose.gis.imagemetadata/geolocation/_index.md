@@ -1,7 +1,7 @@
 ---
 title: "类 GeoLocation"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.ImageMetadata.GeoLocation 类。表示地理位置的类"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.ImageMetadata.GeoLocation 类。该类表示地理位置"
 type: docs
 weight: 3050
 url: /zh/net/aspose.gis.imagemetadata/geolocation/

@@ -1,6 +1,6 @@
 ---
 title: "Polygon.GetInteriorRing"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Polygon 方法。按索引获取内部环"
 type: docs
 weight: 130
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/polygon/getinteriorring/
 ---
 ## Polygon.GetInteriorRing method
 
-通过索引获取内部环。
+按索引获取内部环。
 
 ```csharp
 public ILinearRing GetInteriorRing(int index)
@@ -16,7 +16,7 @@ public ILinearRing GetInteriorRing(int index)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 索引 | Int32 | 该索引。 |
+| 索引 | Int32 | 索引。 |
 
 ### 返回值
 

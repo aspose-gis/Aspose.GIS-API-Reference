@@ -1,6 +1,6 @@
 ---
 title: "类 XyzConnection"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.XyzTile.XyzConnection 类。用于 XyzTiles 格式的连接"
 type: docs
 weight: 2400

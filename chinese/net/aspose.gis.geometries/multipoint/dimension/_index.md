@@ -1,7 +1,7 @@
 ---
 title: "MultiPoint.Dimension"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "MultiPoint 属性。获取此 Geometry 的拓扑维度"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "MultiPoint 属性。获取此几何体的拓扑维度"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geometries/multipoint/dimension/

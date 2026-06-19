@@ -1,7 +1,7 @@
 ---
 title: "类 BinaryDataWriter"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Common.IO.BinaryDataWriter 类."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Common.IO.BinaryDataWriter 类。"
 type: docs
 weight: 1210
 url: /zh/net/aspose.gis.common.io/binarydatawriter/

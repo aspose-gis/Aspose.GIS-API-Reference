@@ -1,6 +1,6 @@
 ---
 title: "类 GdbBezierSegment"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Common.Formats.GdbTable.GdbBezierSegment 类。"
 type: docs
 weight: 310

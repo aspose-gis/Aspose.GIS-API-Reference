@@ -1,6 +1,6 @@
 ---
 title: "ICurvePolygon.ExteriorRing"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ICurvePolygon 属性。获取外部环"
 type: docs
 weight: 10
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/icurvepolygon/exteriorring/
 ---
 ## ICurvePolygon.ExteriorRing property
 
-获取外部环。
+获取外环。
 
 ```csharp
 public ICurve ExteriorRing { get; }

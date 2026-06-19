@@ -1,14 +1,14 @@
 ---
 title: "类 PointLabelPlacement"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Rendering.Labelings.PointLabelPlacement 类。点标注放置将在几何中心附近放置标签。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Rendering.Labelings.PointLabelPlacement 类。点标签放置将在几何中心附近放置标签"
 type: docs
 weight: 4130
 url: /zh/net/aspose.gis.rendering.labelings/pointlabelplacement/
 ---
 ## PointLabelPlacement class
 
-点标签放置在几何中心附近。
+点标签放置在几何体中心附近。
 
 ```csharp
 public class PointLabelPlacement : LabelPlacement
@@ -27,7 +27,7 @@ public class PointLabelPlacement : LabelPlacement
 | --- | --- |
 | [HorizontalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontalanchorpoint/) { get; set; } | 指定标签的哪一侧将在水平上与点位置对齐。 |
 | [HorizontalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/horizontaloffset/) { get; set; } | 指定从点位置到标签锚点的水平偏移。 |
-| [Rotation](../../aspose.gis.rendering.labelings/pointlabelplacement/rotation/) { get; set; } | 指定标签的旋转角度（度）。 |
+| [Rotation](../../aspose.gis.rendering.labelings/pointlabelplacement/rotation/) { get; set; } | 指定标签的旋转角度（以度为单位）。 |
 | [VerticalAnchorPoint](../../aspose.gis.rendering.labelings/pointlabelplacement/verticalanchorpoint/) { get; set; } | 指定标签的哪一侧将在垂直上与点位置对齐。 |
 | [VerticalOffset](../../aspose.gis.rendering.labelings/pointlabelplacement/verticaloffset/) { get; set; } | 指定从点位置到标签锚点的垂直偏移。 |
 

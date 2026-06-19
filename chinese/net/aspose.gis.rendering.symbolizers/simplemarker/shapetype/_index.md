@@ -1,7 +1,7 @@
 ---
 title: "SimpleMarker.ShapeType"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleMarker 属性。指定标记的形状"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleMarker 属性。指定标记的形状。"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/shapetype/

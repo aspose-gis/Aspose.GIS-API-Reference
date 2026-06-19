@@ -1,6 +1,6 @@
 ---
 title: "CircularString.AddPoint"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "CircularString 方法。向圆形字符串的末尾添加一个点"
 type: docs
 weight: 120
@@ -23,8 +23,8 @@ public void AddPoint(IPoint point)
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
-| ArgumentException | 参数为空（其 [`IsEmpty`](../../igeometry/isempty/) 为 `true`）。 |
-| ArgumentException | 此几何体的 [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 与参数的 [`SpatialReferenceSystem`](../spatialreferencesystem/) 均不为 `null` 且彼此不相等。 |
+| ArgumentException | 参数为空（其[`IsEmpty`](../../igeometry/isempty/) 为 `true`）。 |
+| ArgumentException | 此几何体的[`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/)和参数的[`SpatialReferenceSystem`](../spatialreferencesystem/)均不为 `null`，且彼此不相等。 |
 
 ### 另见
 

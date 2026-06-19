@@ -1,7 +1,7 @@
 ---
 title: "类 ProjectedSpatialReferenceSystemParameters"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystemParameters 类。用于创建投影 SRS 的参数。某些参数有默认值。某些参数具有合理的默认值，因此您无需仅为它们赋值。如果将 null 赋给这些参数，将使用默认值。ProjectionMethodName 和 Base 没有默认值，您必须为这些属性分配非 null 值。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.SpatialReferencing.ProjectedSpatialReferenceSystemParameters 类。用于创建投影 SRS 的参数。某些参数有默认值。某些参数具有合理的默认值，这样您就不必只为它们赋值。如果将 null 赋给这些参数，将使用默认值。ProjectionMethodName 和 Base 没有默认值，您必须为这些属性分配非 null 值。"
 type: docs
 weight: 4680
 url: /zh/net/aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/
@@ -28,8 +28,8 @@ public class ProjectedSpatialReferenceSystemParameters
 | [Base](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/base/) { get; set; } | 基础地理 SRS（投影应用的 SRS）。您必须将此属性设置为非 `null` 值，以创建有效的 SRS，此属性没有任何默认值。 |
 | [LinearUnit](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/linearunit/) { get; set; } | 此 SRS 中使用的单位。默认是 [`Meter`](../unit/meter/)。 |
 | [Name](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/name/) { get; set; } | 投影 SRS 的名称。默认是 "Unnamed"。 |
-| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier/) { get; set; } | 投影方法的标识符。没有默认值，您可以将此参数设置为非 `null` 值，如果您想为投影附加标识符。若这样做——您需确保标识符与投影方法名称保持一致（设置此属性时投影方法名称不会改变）。 |
-| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname/) { get; set; } | 投影方法的名称。没有默认值，您必须将此参数设置为非 `null` 值，因为没有投影名称的投影 SRS 没有意义。 |
+| [ProjectionMethodIdentifier](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodidentifier/) { get; set; } | 投影方法的标识符。没有默认值，您可以将此参数设置为非 `null` 值，如果您想为投影附加标识符。若这样做——您需要确保标识符与投影方法名称保持一致（设置此属性时投影方法名称不会改变）。 |
+| [ProjectionMethodName](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/projectionmethodname/) { get; set; } | 投影方法的名称。没有默认值，您必须将此参数设置为非 `null` 值，因为没有投影名称的投影 SRS 是无用的。 |
 | [XAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/xaxis/) { get; set; } | 描述 X（水平）维度的轴。默认是指向东的轴。 |
 | [YAxis](../../aspose.gis.spatialreferencing/projectedspatialreferencesystemparameters/yaxis/) { get; set; } | 描述 Y（垂直）维度的轴。默认使用指向北方的轴。 |
 

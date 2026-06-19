@@ -1,7 +1,7 @@
 ---
 title: "类 Chain"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Topology.Chain 类。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Topology.Chain 类."
 type: docs
 weight: 4840
 url: /zh/net/aspose.gis.topology/chain/

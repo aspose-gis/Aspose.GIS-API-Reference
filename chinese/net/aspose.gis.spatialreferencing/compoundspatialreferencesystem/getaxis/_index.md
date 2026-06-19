@@ -1,14 +1,14 @@
 ---
 title: "CompoundSpatialReferenceSystem.GetAxis"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "CompoundSpatialReferenceSystem 方法。获取描述维度的轴。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "CompoundSpatialReferenceSystem 方法。获取描述维度的轴"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.spatialreferencing/compoundspatialreferencesystem/getaxis/
 ---
 ## CompoundSpatialReferenceSystem.GetAxis method
 
-获取描述维度的 [`Axis`](../../axis/).
+获取 [`Axis`](../../axis/)，它描述维度。
 
 ```csharp
 public override Axis GetAxis(int dimension)
@@ -20,7 +20,7 @@ public override Axis GetAxis(int dimension)
 
 ### 返回值
 
-描述维度的 Axis.
+描述维度的 Axis。
 
 ### 异常
 

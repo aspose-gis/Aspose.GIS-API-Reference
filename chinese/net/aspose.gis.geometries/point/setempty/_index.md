@@ -1,6 +1,6 @@
 ---
 title: "Point.SetEmpty"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Point 方法。使此几何体为空"
 type: docs
 weight: 140

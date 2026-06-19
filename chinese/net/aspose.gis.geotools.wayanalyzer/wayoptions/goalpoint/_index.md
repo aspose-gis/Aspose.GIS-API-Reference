@@ -1,7 +1,7 @@
 ---
 title: "WayOptions.GoalPoint"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "WayOptions 属性。路径的目标点"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "WayOptions 属性. 路径的目标点"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.geotools.wayanalyzer/wayoptions/goalpoint/

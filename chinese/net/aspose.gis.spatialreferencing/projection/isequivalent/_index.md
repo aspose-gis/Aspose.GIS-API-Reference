@@ -1,7 +1,7 @@
 ---
 title: "Projection.IsEquivalent"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "投影方法。确定两个投影是否等价。等价投影以相同方式将经度纬度映射到 x y。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "投影方法。确定两个投影是否等价。等价的投影以相同方式将经度纬度映射到 x y。"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.spatialreferencing/projection/isequivalent/
@@ -20,7 +20,7 @@ public bool IsEquivalent(Projection other)
 
 ### 返回值
 
-`true` 如果投影等价，`false` 否则。
+`true` 如果投影等价，否则为 `false`。
 
 ### 另见
 

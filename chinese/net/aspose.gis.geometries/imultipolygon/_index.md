@@ -1,6 +1,6 @@
 ---
 title: "接口 IMultiPolygon"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Geometries.IMultiPolygon 接口。IMultiPolygon 是一种一维 IGeometryCollection，其元素为 IPolygon。"
 type: docs
 weight: 2850
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/imultipolygon/
 ---
 ## IMultiPolygon interface
 
-`IMultiPolygon` 是一个一维的 [`IGeometryCollection`](../igeometrycollection/)，其元素为 [`IPolygon`](../ipolygon/)。
+`IMultiPolygon` 是一个一维 [`IGeometryCollection`](../igeometrycollection/)，其元素为 [`IPolygon`](../ipolygon/)。
 
 ```csharp
 public interface IMultiPolygon : IMultiSurface

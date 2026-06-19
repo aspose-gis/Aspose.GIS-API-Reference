@@ -1,6 +1,6 @@
 ---
 title: "MapOptions.BackgroundColor"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapOptions 属性。地图的背景颜色。默认值为 System.Drawing.Color.Transparent"
 type: docs
 weight: 20

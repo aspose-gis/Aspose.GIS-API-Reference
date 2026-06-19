@@ -1,14 +1,14 @@
 ---
 title: "Geometry.CoveredBy"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Geometry 方法。确定此几何是否被指定几何覆盖"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "几何方法。确定此几何是否被指定的几何覆盖"
 type: docs
 weight: 150
 url: /zh/net/aspose.gis.geometries/geometry/coveredby/
 ---
 ## Geometry.CoveredBy method
 
-确定此几何体是否被指定几何体覆盖。
+确定此几何体是否被指定的几何体覆盖。
 
 ```csharp
 public bool CoveredBy(IGeometry other)
@@ -20,7 +20,7 @@ public bool CoveredBy(IGeometry other)
 
 ### 返回值
 
-`true` 如果此几何 "空间上被覆盖" 另一个几何。`false` 否则。
+`true` 表示此几何“空间上被”另一个几何覆盖；`false` 表示否则。
 
 ### 异常
 
@@ -28,11 +28,11 @@ public bool CoveredBy(IGeometry other)
 | --- | --- |
 | ArgumentNullException | 参数为 `null`。 |
 | ArgumentException | 其中一个几何体无效，导致操作无法完成。 |
-| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
+| ArgumentException | [`SpatialReferenceSystem`](../../igeometry/spatialreferencesystem/) 的几何体空间参考系统不等价。您可以使用 [`SpatialReferenceSystemTransformation`](../../../aspose.gis.spatialreferencing/spatialreferencesystemtransformation/) 将几何体转换为相同的空间参考系统。 |
 
 ## 备注
 
-此方法测试一个几何是否在 DE-9IM 相交矩阵意义上被另一个几何覆盖。此方法等价于：
+此方法根据 DE-9IM 相交矩阵测试一个几何是否被另一个几何覆盖。此方法等价于：
 
 ```csharp
 other.Covers(this);

@@ -1,7 +1,7 @@
 ---
 title: "Feature.SetValue"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Feature 方法。设置属性的新值。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Feature 方法。设置属性的新值"
 type: docs
 weight: 100
 url: /zh/net/aspose.gis/feature/setvalue/
@@ -26,7 +26,7 @@ public void SetValue<T>(string attributeName, T value)
 | --- | --- |
 | ArgumentNullException | 属性名称为 `null`。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
-| InvalidOperationException | 属性未被锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | InvalidCastException | 值的类型未实现 IConvertible。 |
 | FormatException | 转换失败，因为值的格式不正确。 |
 | OverflowException | 转换失败，因溢出。 |

@@ -1,7 +1,7 @@
 ---
 title: "类 PaintLayerOptions"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Painting.PaintLayerOptions 类."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Painting.PaintLayerOptions 类。"
 type: docs
 weight: 3500
 url: /zh/net/aspose.gis.painting/paintlayeroptions/

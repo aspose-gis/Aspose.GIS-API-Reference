@@ -1,14 +1,14 @@
 ---
 title: "ImageMetadataReader.GetReader"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "ImageMetadataReader 方法。创建用于 EXIF 标记的读取器实例"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "ImageMetadataReader 方法。创建一个用于 EXIF 标签的读取器实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.imagemetadata/imagemetadatareader/getreader/
 ---
 ## GetReader(string) {#getreader_1}
 
-创建一个用于 EXIF 标签的读取器实例
+创建一个用于 EXIF 标记的读取器实例
 
 ```csharp
 public static ImageMetadataReader GetReader(string fileName)
@@ -16,7 +16,7 @@ public static ImageMetadataReader GetReader(string fileName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fileName | String | 图像文件的完整名称。 |
+| fileName | 字符串 | 图像文件的完整名称。 |
 
 ### 返回值
 
@@ -36,7 +36,7 @@ public static ImageMetadataReader GetReader(string fileName)
 
 ## GetReader(Stream) {#getreader}
 
-创建一个用于 EXIF 标签的读取器实例
+创建一个用于 EXIF 标记的读取器实例
 
 ```csharp
 public static ImageMetadataReader GetReader(Stream stream)
@@ -44,7 +44,7 @@ public static ImageMetadataReader GetReader(Stream stream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| 流 | 流 | 图像数据源流 |
+| stream | Stream | 图像数据源流 |
 
 ### 返回值
 

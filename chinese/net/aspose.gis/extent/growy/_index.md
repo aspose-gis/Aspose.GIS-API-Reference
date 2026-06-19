@@ -1,6 +1,6 @@
 ---
 title: "Extent.GrowY"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Extent 方法。沿 Y 轴增长此范围，使其包含指定的值"
 type: docs
 weight: 180

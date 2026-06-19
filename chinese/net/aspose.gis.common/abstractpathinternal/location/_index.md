@@ -1,7 +1,7 @@
 ---
 title: "AbstractPathInternal.Location"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "AbstractPathInternal 属性."
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "AbstractPathInternal 属性。"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.common/abstractpathinternal/location/

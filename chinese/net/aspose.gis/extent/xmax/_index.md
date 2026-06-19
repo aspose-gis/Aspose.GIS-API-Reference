@@ -1,6 +1,6 @@
 ---
 title: "Extent.XMax"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Extent 属性。X 坐标的最大值"
 type: docs
 weight: 70

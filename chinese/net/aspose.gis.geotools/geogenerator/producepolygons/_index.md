@@ -1,6 +1,6 @@
 ---
 title: "GeoGenerator.ProducePolygons"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeoGenerator 方法。创建一个新的 IPolygon 枚举器，包含给定数量的随机项，所有项都位于给定范围内"
 type: docs
 weight: 30
@@ -27,9 +27,9 @@ public static IEnumerable<IPolygon> ProducePolygons(Extent rect, PolygonGenerato
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | 多边形的数量必须大于一。 |
-| NullReferenceException | Extent 必须有值（不能为空） |
-| ArgumentException | 最小长度和最大长度必须不相等且大于 0 |
+| ArgumentOutOfRangeException | 多边形的数量必须大于1。 |
+| NullReferenceException | Extent 必须有值（不能为 NULL） |
+| ArgumentException | 最小长度和最大长度必须不相等且大于0 |
 | ArgumentException | 最大长度必须大于最小长度 |
 
 ### 另见

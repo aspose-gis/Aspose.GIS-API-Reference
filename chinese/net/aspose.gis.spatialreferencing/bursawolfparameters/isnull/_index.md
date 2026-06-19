@@ -1,6 +1,6 @@
 ---
 title: "BursaWolfParameters.IsNull"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "BursaWolfParameters 属性。确定此实例是否为 Null"
 type: docs
 weight: 60

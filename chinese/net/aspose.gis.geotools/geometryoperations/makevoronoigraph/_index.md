@@ -1,7 +1,7 @@
 ---
 title: "GeometryOperations.MakeVoronoiGraph"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeometryOperations 方法。为点集合（站点）构建 Voronoi 图"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeometryOperations 方法。为点集合（sites）构建 Voronoi 图"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.geotools/geometryoperations/makevoronoigraph/

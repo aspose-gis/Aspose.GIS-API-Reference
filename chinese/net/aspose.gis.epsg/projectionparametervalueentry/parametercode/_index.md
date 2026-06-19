@@ -1,6 +1,6 @@
 ---
-title: "ProjectionParameterValueEntry.ParameterCode"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "ProjectionParameterValueEntry.参数代码"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ProjectionParameterValueEntry 属性。"
 type: docs
 weight: 30

@@ -1,6 +1,6 @@
 ---
 title: "XyzConnection.Url"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "XyzConnection 属性。Url 模板"
 type: docs
 weight: 20

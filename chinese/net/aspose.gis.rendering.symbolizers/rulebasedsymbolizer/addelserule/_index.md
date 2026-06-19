@@ -1,6 +1,6 @@
 ---
 title: "RuleBasedSymbolizer.AddElseRule"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "RuleBasedSymbolizer 方法。添加一个符号化器，该符号化器将应用于不匹配任何过滤规则的要素"
 type: docs
 weight: 50

@@ -1,7 +1,7 @@
 ---
 title: "Aspose.Gis.Formats.Database.FromDefinition"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Formats.Database.FromDefinition 命名空间包含实现使用 LINQ 检索几何数据并存储的功能的类"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Formats.Database.FromDefinition 命名空间包含实现使用 LINQ 检索几何数据并存储的能力的类"
 type: docs
 weight: 220
 url: /zh/net/aspose.gis.formats.database.fromdefinition/

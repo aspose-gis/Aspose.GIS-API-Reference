@@ -1,6 +1,6 @@
 ---
 title: "VectorLayer.Create"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorLayer 方法。创建图层并打开以添加新要素。"
 type: docs
 weight: 10
@@ -16,8 +16,8 @@ public static VectorLayer Create(string path, FileDriver driver)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 文件的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
 
@@ -30,7 +30,7 @@ public static VectorLayer Create(string path, FileDriver driver)
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -51,8 +51,8 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 文件的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -66,7 +66,7 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -89,7 +89,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 
 ### 返回值
 
@@ -102,7 +102,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver)
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -125,7 +125,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 
 ### 返回值
@@ -139,7 +139,7 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | [GisException](../../gisexception/) | 写入要素到文件时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 
@@ -163,22 +163,22 @@ public static VectorLayer Create(string path, FileDriver driver,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 文件的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-`[`VectorLayer`](../)` 的实例。
+[`VectorLayer`](../) 的实例。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查是否支持该空间参考系统。 |
+| [GisException](../../gisexception/) | 读取或写入要素到/从文件时出错。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
 
 ### 另见
 
@@ -202,21 +202,21 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver,
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-`[`VectorLayer`](../)` 的实例。
+[`VectorLayer`](../) 的实例。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
-| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查是否支持该空间参考系统。 |
+| [GisException](../../gisexception/) | 读取或写入要素到/从文件时出错。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
 
 ### 另见
 
@@ -240,14 +240,14 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| path | 字符串 | 文件的路径。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-`[`VectorLayer`](../)` 的实例。
+[`VectorLayer`](../) 的实例。
 
 ### 异常
 
@@ -255,9 +255,9 @@ public static VectorLayer Create(string path, FileDriver driver, DriverOptions o
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
-| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查是否支持该空间参考系统。 |
+| [GisException](../../gisexception/) | 读取或写入要素到/从文件时出错。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
 
 ### 另见
 
@@ -282,13 +282,13 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | path | AbstractPath | 文件的路径。 |
-| 驱动 | FileDriver | 要使用的驱动。 |
+| 驱动程序 | FileDriver | 要使用的驱动程序。 |
 | options | DriverOptions | 驱动程序特定的选项。 |
 | spatialReferenceSystem | SpatialReferenceSystem | 空间参考系统。 |
 
 ### 返回值
 
-`[`VectorLayer`](../)` 的实例。
+[`VectorLayer`](../) 的实例。
 
 ### 异常
 
@@ -296,9 +296,9 @@ public static VectorLayer Create(AbstractPath path, FileDriver driver, DriverOpt
 | --- | --- |
 | ArgumentNullException | 路径为 `null`。 |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
-| [GisException](../../gisexception/) | 读取或写入要素时出错（从/到文件）。 |
-| IOException | 发生 I/O 错误。 |
-| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查是否支持该空间参考系统。 |
+| [GisException](../../gisexception/) | 读取或写入要素到/从文件时出错。 |
+| IOException | 发生了 I/O 错误。 |
+| NotSupportedException | 驱动程序不支持该空间参考系统。使用 [`SupportsSpatialReferenceSystem`](../../filedriver/supportsspatialreferencesystem/) 检查空间参考系统是否受支持。 |
 
 ### 另见
 

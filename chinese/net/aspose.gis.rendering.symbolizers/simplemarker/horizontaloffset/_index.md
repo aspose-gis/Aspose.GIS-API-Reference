@@ -1,7 +1,7 @@
 ---
 title: "SimpleMarker.HorizontalOffset"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SimpleMarker 属性。指定从点位置到形状锚点的水平偏移量"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SimpleMarker 属性。指定从点位置到形状锚点的水平偏移"
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.rendering.symbolizers/simplemarker/horizontaloffset/

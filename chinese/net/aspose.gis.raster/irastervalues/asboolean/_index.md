@@ -1,6 +1,6 @@
 ---
 title: "IRasterValues.AsBoolean"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IRasterValues 方法。将指定波段的数据转换为 bool 值。"
 type: docs
 weight: 20

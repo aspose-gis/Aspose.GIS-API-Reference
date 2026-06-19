@@ -1,6 +1,6 @@
 ---
 title: "MultiStreamPath.Location"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MultiStreamPath 属性。获取此 AbstractPath 位置的字符串表示形式"
 type: docs
 weight: 20

@@ -1,7 +1,7 @@
 ---
 title: "RasterExpressionContext.Equals"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterExpressionContext 方法。指示当前对象是否等于同一类型的另一个对象"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterExpressionContext 方法。指示当前对象是否等于同一类型的另一个对象。"
 type: docs
 weight: 40
 url: /zh/net/aspose.gis.raster/rasterexpressioncontext/equals/

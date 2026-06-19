@@ -1,7 +1,7 @@
 ---
 title: "AbstractPath.FromStream"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "AbstractPath 方法。从 Stream 创建一个 AbstractPath"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "AbstractPath 方法。从 Stream 创建 AbstractPath"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis/abstractpath/fromstream/
@@ -24,7 +24,7 @@ public static AbstractPath FromStream(Stream stream)
 
 ## 备注
 
-此方法可用于将单文件格式（如 GeoJSON 或 KML）的数据流传递给期望 [`AbstractPath`](../) 的方法。
+此方法用于将单文件格式（如 GeoJSON 或 KML）的数据流传递给期望 [`AbstractPath`](../) 的方法。
 
 ### 另见
 

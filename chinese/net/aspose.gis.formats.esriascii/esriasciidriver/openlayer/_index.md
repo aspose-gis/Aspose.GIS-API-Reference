@@ -1,7 +1,7 @@
 ---
 title: "EsriAsciiDriver.OpenLayer"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "EsriAsciiDriver 方法。打开图层进行读取"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "EsriAsciiDriver 方法。打开图层以进行读取"
 type: docs
 weight: 20
 url: /zh/net/aspose.gis.formats.esriascii/esriasciidriver/openlayer/
@@ -21,7 +21,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ### 返回值
 
-一个 [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
+[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
 
 ### 异常
 
@@ -29,7 +29,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 | --- | --- |
 | ArgumentException | Options 对象的类型对该驱动程序不正确。 |
 | ArgumentNullException | 路径为 `null`。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 | NotSupportedException | 驱动程序无法打开栅格图层（参见 [`CanOpenLayers`](../canopenlayers/)）。 |
 
 ### 另见
@@ -45,7 +45,7 @@ public override RasterLayer OpenLayer(AbstractPath path, RasterDriverOptions opt
 
 ## OpenLayer(string, EsriAsciiOptions) {#openlayer_4}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public RasterLayer OpenLayer(string path, EsriAsciiOptions options)
@@ -53,12 +53,12 @@ public RasterLayer OpenLayer(string path, EsriAsciiOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| path | String | 文件的路径。 |
+| path | 字符串 | 文件的路径。 |
 | options | EsriAsciiOptions | 驱动程序特定的选项。 |
 
 ### 返回值
 
-一个 [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
+[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
 
 ### 另见
 
@@ -72,7 +72,7 @@ public RasterLayer OpenLayer(string path, EsriAsciiOptions options)
 
 ## OpenLayer(AbstractPath, EsriAsciiOptions) {#openlayer_1}
 
-打开图层进行读取。
+以读取模式打开图层。
 
 ```csharp
 public RasterLayer OpenLayer(AbstractPath path, EsriAsciiOptions options)
@@ -85,7 +85,7 @@ public RasterLayer OpenLayer(AbstractPath path, EsriAsciiOptions options)
 
 ### 返回值
 
-一个 [`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
+[`RasterLayer`](../../../aspose.gis.raster/rasterlayer/) 的实例。
 
 ### 另见
 

@@ -1,6 +1,6 @@
 ---
 title: "Identifier.AuthorityUniqueIdentifier"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Identifier 属性。在 AuthorityName 中表示对象的唯一方式"
 type: docs
 weight: 40

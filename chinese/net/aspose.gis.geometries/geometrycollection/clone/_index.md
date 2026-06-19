@@ -1,7 +1,7 @@
 ---
 title: "GeometryCollection.Clone"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "GeometryCollection 方法。克隆此实例"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "GeometryCollection method. 克隆此实例"
 type: docs
 weight: 130
 url: /zh/net/aspose.gis.geometries/geometrycollection/clone/

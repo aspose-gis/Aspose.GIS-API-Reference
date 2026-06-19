@@ -1,6 +1,6 @@
 ---
 title: "FeaturesSequence.WhereGreater"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FeaturesSequence 方法。选择属性值大于提供值的特征"
 type: docs
 weight: 80

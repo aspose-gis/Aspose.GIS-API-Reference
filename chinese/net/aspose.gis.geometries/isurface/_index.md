@@ -1,14 +1,14 @@
 ---
 title: "接口 ISurface"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Geometries.ISurface 接口。一个 ISurface 是二维几何对象"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Geometries.ISurface 接口。ISurface 是一个二维几何对象"
 type: docs
 weight: 2890
 url: /zh/net/aspose.gis.geometries/isurface/
 ---
 ## ISurface interface
 
-一个 `ISurface` 是二维几何对象。
+`ISurface` 是一个二维几何对象。
 
 ```csharp
 public interface ISurface : IGeometry

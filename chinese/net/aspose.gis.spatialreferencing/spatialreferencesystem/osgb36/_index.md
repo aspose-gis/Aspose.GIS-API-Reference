@@ -1,6 +1,6 @@
 ---
 title: "SpatialReferenceSystem.Osgb36"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SpatialReferenceSystem 属性。OSGB 36 EPSG4277 空间参考系统"
 type: docs
 weight: 290

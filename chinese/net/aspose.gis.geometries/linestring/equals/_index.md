@@ -1,6 +1,6 @@
 ---
 title: "LineString.Equals"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LineString 方法。确定指定的对象是否等于当前对象"
 type: docs
 weight: 130
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/linestring/equals/
 ---
 ## Equals(object) {#equals_1}
 
-确定指定对象是否等于当前对象。
+确定指定的对象是否等于当前对象。
 
 ```csharp
 public override bool Equals(object obj)

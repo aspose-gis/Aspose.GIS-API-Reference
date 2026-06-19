@@ -1,6 +1,6 @@
 ---
 title: "MapTilesOptions.Level"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapTilesOptions 属性。加载瓦片的缩放级别。默认值为 3"
 type: docs
 weight: 20

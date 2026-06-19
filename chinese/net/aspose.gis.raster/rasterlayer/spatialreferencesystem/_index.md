@@ -1,7 +1,7 @@
 ---
 title: "RasterLayer.SpatialReferenceSystem"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterLayer 属性。获取栅格的空间参考系统。如果未知，则可能为 null"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterLayer 属性。获取光栅的空间参考系统。如果未知，则可能为 null"
 type: docs
 weight: 70
 url: /zh/net/aspose.gis.raster/rasterlayer/spatialreferencesystem/

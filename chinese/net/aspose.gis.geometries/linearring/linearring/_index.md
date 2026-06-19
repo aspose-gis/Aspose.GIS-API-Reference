@@ -1,6 +1,6 @@
 ---
 title: "LinearRing.LinearRing"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LinearRing 构造函数。初始化 LinearRing 类的新实例"
 type: docs
 weight: 10

@@ -1,6 +1,6 @@
 ---
 title: "类 WebTiles"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.Web.WebTiles 类。提供对网络瓦片的访问"
 type: docs
 weight: 3890

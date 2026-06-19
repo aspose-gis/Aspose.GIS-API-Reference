@@ -1,6 +1,6 @@
 ---
 title: "接口 IRasterBand"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.IRasterBand 接口。包含关于栅格波段的元数据"
 type: docs
 weight: 3770

@@ -1,6 +1,6 @@
 ---
 title: "VerticalSpatialReferenceSystem.HasGeographicDatum"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VerticalSpatialReferenceSystem 属性。返回 false，因为垂直 SRS 没有地理基准"
 type: docs
 weight: 40

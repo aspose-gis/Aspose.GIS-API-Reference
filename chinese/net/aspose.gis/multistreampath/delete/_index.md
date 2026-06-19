@@ -1,6 +1,6 @@
 ---
 title: "MultiStreamPath.Delete"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MultiStreamPath 方法。删除此路径指向的文件"
 type: docs
 weight: 50

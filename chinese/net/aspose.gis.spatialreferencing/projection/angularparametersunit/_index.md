@@ -1,6 +1,6 @@
 ---
 title: "Projection.AngularParametersUnit"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Projection 属性。用于角度参数的单位"
 type: docs
 weight: 10

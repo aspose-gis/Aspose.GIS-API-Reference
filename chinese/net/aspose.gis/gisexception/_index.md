@@ -1,6 +1,6 @@
 ---
 title: "类 GisException"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GisException 类。当 GIS 数据处理过程中出现错误时抛出的异常"
 type: docs
 weight: 3020
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis/gisexception/
 ---
 ## GisException class
 
-在 GIS 数据处理期间出现错误时抛出的异常。
+在 GIS 数据处理过程中出现错误时抛出的异常。
 
 ```csharp
 public class GisException : Exception

@@ -1,6 +1,6 @@
 ---
 title: "VectorLayerExtention.ReadGeometries"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "VectorLayerExtention 方法。从图层读取仅几何体"
 type: docs
 weight: 40

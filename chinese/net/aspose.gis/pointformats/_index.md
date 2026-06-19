@@ -1,7 +1,7 @@
 ---
 title: "枚举 PointFormats"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.PointFormats 枚举。PointFormats 用于在文本中转换坐标。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.PointFormats 枚举。PointFormats 用于将坐标转换为文本。"
 type: docs
 weight: 3690
 url: /zh/net/aspose.gis/pointformats/
@@ -25,8 +25,8 @@ public enum PointFormats
 | Mgrs | `4` | 使用 WGS 84 基准的军事网格参考系统。 |
 | Usng | `5` | 使用 WGS 84 基准的美国国家网格。 |
 | Gars | `6` | 全球区域参考系统 |
-| PlusCode | `7` | 开放位置代码 (OLC) 或加号代码 |
-| Maidenhead | `8` | 梅登海德定位系统（又称 QTH 定位器和 IARU 定位器） |
+| PlusCode | `7` | 该 Open Location Code (OLC) 或 Plus Code |
+| Maidenhead | `8` | 该 Maidenhead Locator System（又称 QTH Locator 和 IARU Locator） |
 | Utm | `9` | 通用横轴墨卡托投影 |
 
 ### 另见

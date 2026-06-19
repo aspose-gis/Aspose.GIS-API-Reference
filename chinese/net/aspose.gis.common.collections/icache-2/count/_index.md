@@ -1,6 +1,6 @@
 ---
 title: "ICache2.Count"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "ICache 属性。"
 type: docs
 weight: 10

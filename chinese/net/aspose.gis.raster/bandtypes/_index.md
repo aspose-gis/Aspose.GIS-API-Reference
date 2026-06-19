@@ -1,6 +1,6 @@
 ---
 title: "枚举 BandTypes"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Raster.BandTypes 枚举。栅格波段的类型"
 type: docs
 weight: 3760

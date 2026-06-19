@@ -1,6 +1,6 @@
 ---
 title: "LabelingRule.Labeling"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "LabelingRule 属性。要对要素应用的标注"
 type: docs
 weight: 60

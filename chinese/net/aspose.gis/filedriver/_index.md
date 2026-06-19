@@ -1,6 +1,6 @@
 ---
 title: "类 FileDriver"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.FileDriver 类。特定基于文件的格式的驱动程序"
 type: docs
 weight: 1670
@@ -39,8 +39,8 @@ public abstract class FileDriver : Driver
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_7)(string, SpatialReferenceSystem) | 创建图层并以追加方式打开它。 |
 | abstract [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_2)(AbstractPath, DriverOptions, SpatialReferenceSystem) | 创建图层并以追加方式打开它。 |
 | [CreateLayer](../../aspose.gis/filedriver/createlayer/#createlayer_6)(string, DriverOptions, SpatialReferenceSystem) | 创建图层并以追加方式打开它。 |
-| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer)(AbstractPath, DriverOptions) | 打开图层进行编辑。 |
-| [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer_1)(string, DriverOptions) | 打开图层进行编辑。 |
+| virtual [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer)(AbstractPath, DriverOptions) | 以编辑模式打开图层。 |
+| [EditLayer](../../aspose.gis/filedriver/editlayer/#editlayer_1)(string, DriverOptions) | 以编辑模式打开图层。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset)(AbstractPath) | 打开数据集。 |
 | [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_2)(string) | 打开数据集。 |
 | virtual [OpenDataset](../../aspose.gis/filedriver/opendataset/#opendataset_1)(AbstractPath, DriverOptions) | 打开数据集。 |

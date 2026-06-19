@@ -1,6 +1,6 @@
 ---
 title: "FileGdbDriver.CanOpenDatasets"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "FileGdbDriver 属性。获取一个值，指示此驱动程序是否可以打开数据集"
 type: docs
 weight: 30

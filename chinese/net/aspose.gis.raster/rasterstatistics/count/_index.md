@@ -1,7 +1,7 @@
 ---
 title: "RasterStatistics.Count"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "RasterStatistics 属性。用于汇总统计的计数单元格或像素的数量"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "RasterStatistics 属性。用于汇总统计的计数单元或像素的数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis.raster/rasterstatistics/count/

@@ -1,6 +1,6 @@
 ---
 title: "SimplifySegmentsOptions.Clone"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "SimplifySegmentsOptions 方法。创建对象的副本"
 type: docs
 weight: 30

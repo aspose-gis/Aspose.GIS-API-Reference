@@ -1,7 +1,7 @@
 ---
 title: "Feature.IsValueNull"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Feature 方法。确定指定的属性是否已显式设置为 null 值"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Feature 方法。确定指定属性是否已显式设置为 null 值"
 type: docs
 weight: 80
 url: /zh/net/aspose.gis/feature/isvaluenull/
@@ -16,17 +16,17 @@ public bool IsValueNull(string attributeName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attributeName | String | 属性的名称。 |
+| attributeName | 字符串 | 属性的名称。 |
 
 ### 返回值
 
-`true` 如果属性值为 `null`；否则为 `false`。
+`true` 表示属性值为 `null`；否则为 `false`。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| InvalidOperationException | 属性未被锁定。 |
+| InvalidOperationException | 该属性未锁定。 |
 | ArgumentException | 此图层中不存在具有此名称的属性。 |
 | ArgumentNullException | 属性名称为 `null`。 |
 

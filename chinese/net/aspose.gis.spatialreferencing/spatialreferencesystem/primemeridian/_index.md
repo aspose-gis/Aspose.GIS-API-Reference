@@ -1,7 +1,7 @@
 ---
 title: "SpatialReferenceSystem.PrimeMeridian"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "SpatialReferenceSystem 属性。返回此 SRS 的本初子午线。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "SpatialReferenceSystem 属性。返回此 SRS 的本初子午线"
 type: docs
 weight: 160
 url: /zh/net/aspose.gis.spatialreferencing/spatialreferencesystem/primemeridian/

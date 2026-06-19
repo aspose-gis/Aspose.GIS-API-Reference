@@ -1,6 +1,6 @@
 ---
 title: "IRasterValues.AsByte"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "IRasterValues 方法。将指定波段数据转换为字节值"
 type: docs
 weight: 30

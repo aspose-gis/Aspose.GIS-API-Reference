@@ -1,6 +1,6 @@
 ---
-title: "MapHeader.ObjectsLengthArrayId"
-second_title: "Aspose.GIS for .NET API 参考"
+title: "MapHeader.对象长度数组标识"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MapHeader 属性。"
 type: docs
 weight: 190

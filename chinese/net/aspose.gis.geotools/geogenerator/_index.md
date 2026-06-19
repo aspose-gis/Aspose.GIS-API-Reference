@@ -1,6 +1,6 @@
 ---
 title: "类 GeoGenerator"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.GeoGenerator 类。用于在给定平面上生成随机点、线和多边形的生成器"
 type: docs
 weight: 2480

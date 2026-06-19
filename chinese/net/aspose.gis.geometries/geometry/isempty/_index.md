@@ -1,6 +1,6 @@
 ---
 title: "Geometry.IsEmpty"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Geometry 属性。获取一个值，指示此实例是否为空"
 type: docs
 weight: 70

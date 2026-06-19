@@ -1,7 +1,7 @@
 ---
 title: "DatabaseDriver.OpenDataset"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "DatabaseDriver 方法。打开数据集。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "DatabaseDriver 方法。打开数据集"
 type: docs
 weight: 10
 url: /zh/net/aspose.gis/databasedriver/opendataset/
@@ -20,7 +20,7 @@ public abstract Dataset OpenDataset(IDbConnection connection)
 
 ### 返回值
 
-一个 [`Dataset`](../../dataset/) 的实例。
+一个 [`Dataset`](../../dataset/) 实例。
 
 ### 异常
 
@@ -28,7 +28,7 @@ public abstract Dataset OpenDataset(IDbConnection connection)
 | --- | --- |
 | ArgumentNullException | 连接为 `null`。 |
 | [GisException](../../gisexception/) | 读取数据集时出错。 |
-| IOException | 发生 I/O 错误。 |
+| IOException | 发生了 I/O 错误。 |
 
 ### 另见
 

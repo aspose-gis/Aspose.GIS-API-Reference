@@ -1,7 +1,7 @@
 ---
 title: "Ellipsoid.IsEquivalent"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Ellipsoid 方法。确定两个椭球体是否等价。如果椭球体 A 等价于椭球体 B，则它们具有相同的长半轴和反扁率。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Ellipsoid 方法。确定两个椭球体是否等价。如果椭球体 A 等价于椭球体 B，则它们具有相同的长半轴和逆扁率。"
 type: docs
 weight: 110
 url: /zh/net/aspose.gis.spatialreferencing/ellipsoid/isequivalent/

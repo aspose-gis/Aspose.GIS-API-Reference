@@ -1,14 +1,14 @@
 ---
 title: "接口 ICompoundCurve"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Aspose.Gis.Geometries.ICompoundCurve 接口。表示一系列相连曲线的曲线，使相邻曲线在端点处相接。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Aspose.Gis.Geometries.ICompoundCurve 接口。表示一系列相连曲线的曲线，使相邻曲线在端点处相接"
 type: docs
 weight: 2750
 url: /zh/net/aspose.gis.geometries/icompoundcurve/
 ---
 ## ICompoundCurve interface
 
-一条曲线，表示一系列连续的曲线，使相邻曲线在端点处相连。
+表示一系列相连曲线的曲线，使相邻曲线在端点处相接。
 
 ```csharp
 public interface ICompoundCurve : ICurve, IEnumerable<ICurve>, IEquatable<ICompoundCurve>

@@ -1,6 +1,6 @@
 ---
 title: "Map.Render"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Map 方法。将地图渲染到文件中"
 type: docs
 weight: 140
@@ -16,7 +16,7 @@ public void Render(string outputPath, Renderer renderer)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputPath | String | 输出文件的路径。 |
+| outputPath | 字符串 | 输出文件的路径。 |
 | 渲染器 | 渲染器 | 要使用的渲染器。 |
 
 ### 另见
@@ -45,8 +45,8 @@ public void Render(AbstractPath outputPath, Renderer renderer)
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 任何参数 `null`。 |
-| IOException | 发生 I/O 错误。 |
+| ArgumentNullException | 任意参数为 `null`。 |
+| IOException | 发生了 I/O 错误。 |
 | [GisException](../../../aspose.gis/gisexception/) | 处理或读取 GIS 数据时出错。 |
 
 ### 另见

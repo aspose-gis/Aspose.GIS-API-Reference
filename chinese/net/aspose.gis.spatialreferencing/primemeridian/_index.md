@@ -1,6 +1,6 @@
 ---
 title: "类 PrimeMeridian"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.SpatialReferencing.PrimeMeridian 类。PrimeMeridian 表示经度定义为 0 的子午线。"
 type: docs
 weight: 4650

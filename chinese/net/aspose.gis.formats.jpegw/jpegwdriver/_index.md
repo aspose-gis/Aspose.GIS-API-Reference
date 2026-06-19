@@ -1,6 +1,6 @@
 ---
 title: "JpegWDriver 类"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.Formats.JpegW.JpegWDriver 类。用于 JpegW 栅格的驱动程序"
 type: docs
 weight: 2020

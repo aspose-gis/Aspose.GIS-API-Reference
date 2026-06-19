@@ -1,6 +1,6 @@
 ---
 title: "MarkerLine.OffsetAlongLine"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "MarkerLine 属性。指定第一标记沿线的偏移量"
 type: docs
 weight: 60
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.rendering.symbolizers/markerline/offsetalongline/
 ---
 ## MarkerLine.OffsetAlongLine property
 
-指定第一标记沿线的偏移量。
+指定第一标记在沿线上的偏移。
 
 ```csharp
 public Measurement OffsetAlongLine { get; set; }

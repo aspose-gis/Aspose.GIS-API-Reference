@@ -1,6 +1,6 @@
 ---
 title: "Polygon.GetHashCode"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Polygon 方法。用作默认哈希函数"
 type: docs
 weight: 120
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.geometries/polygon/gethashcode/
 ---
 ## Polygon.GetHashCode method
 
-作为默认的哈希函数。
+用作默认的哈希函数。
 
 ```csharp
 public override int GetHashCode()

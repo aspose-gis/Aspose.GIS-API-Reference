@@ -1,6 +1,6 @@
 ---
 title: "GeographicSpatialReferenceSystemParameters.LatitudeAxis"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "GeographicSpatialReferenceSystemParameters 属性。描述纬度的轴。默认是指向北方的轴。"
 type: docs
 weight: 50
@@ -8,7 +8,7 @@ url: /zh/net/aspose.gis.spatialreferencing/geographicspatialreferencesystemparam
 ---
 ## GeographicSpatialReferenceSystemParameters.LatitudeAxis property
 
-描述纬度的轴。默认是指向北方向的轴。
+描述纬度的轴。默认是指向北方的轴。
 
 ```csharp
 public Axis LatitudeAxis { get; set; }

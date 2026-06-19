@@ -1,7 +1,7 @@
 ---
 title: "Coordinate.Y"
-second_title: "Aspose.GIS for .NET API 参考"
-description: "Coordinate 属性。"
+second_title: "Aspose.GIS for .NET API 参考文档"
+description: "Coordinate property."
 type: docs
 weight: 50
 url: /zh/net/aspose.gis.common/coordinate/y/

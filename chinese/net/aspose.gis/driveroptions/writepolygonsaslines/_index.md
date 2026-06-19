@@ -1,6 +1,6 @@
 ---
 title: "DriverOptions.WritePolygonsAsLines"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "DriverOptions 属性。确定是否允许将多边形或多多边形转换为线串。默认值为 false"
 type: docs
 weight: 100
@@ -16,7 +16,7 @@ public bool WritePolygonsAsLines { get; set; }
 
 ## 备注
 
-这是一个创建选项——它不影响打开。
+这是一个创建选项 - 它不影响打开。
 
 ### 另见
 

@@ -1,6 +1,6 @@
 ---
 title: "类 FeatureAttributeCollection"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.FeatureAttributeCollection 类。FeatureAttributeCollection 定义了 Feature 可用的属性。"
 type: docs
 weight: 1640
@@ -29,8 +29,8 @@ public sealed class FeatureAttributeCollection : IEnumerable<FeatureAttribute>
 | --- | --- |
 | [Add](../../aspose.gis/featureattributecollection/add/)(FeatureAttribute) | 向集合中添加属性。 |
 | [Contains](../../aspose.gis/featureattributecollection/contains/)(string) | 确定属性集合是否包含具有指定名称的属性。 |
-| [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator/)() | 返回遍历集合的枚举器。 |
-| [IndexOf](../../aspose.gis/featureattributecollection/indexof/)(string) | 搜索属性并返回其零基索引。 |
+| [GetEnumerator](../../aspose.gis/featureattributecollection/getenumerator/)() | 返回一个遍历集合的枚举器。 |
+| [IndexOf](../../aspose.gis/featureattributecollection/indexof/)(string) | 搜索属性并返回其基于零的索引。 |
 | [Lock](../../aspose.gis/featureattributecollection/lock/)() | 锁定此属性集合以防止进一步修改。 |
 | [Remove](../../aspose.gis/featureattributecollection/remove/#remove)(int) | 从集合中移除属性。 |
 | [Remove](../../aspose.gis/featureattributecollection/remove/#remove_1)(string) | 从集合中移除属性。 |

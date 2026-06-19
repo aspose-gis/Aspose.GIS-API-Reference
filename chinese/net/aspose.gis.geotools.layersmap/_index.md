@@ -1,6 +1,6 @@
 ---
 title: "Aspose.Gis.GeoTools.LayersMap"
-second_title: "Aspose.GIS for .NET API 参考"
+second_title: "Aspose.GIS for .NET API 参考文档"
 description: "Aspose.Gis.GeoTools.LayersMap 命名空间包含表示 geo tools LayersMap 的类"
 type: docs
 weight: 510
@@ -12,7 +12,7 @@ url: /zh/net/aspose.gis.geotools.layersmap/
 
 | 类 | 描述 |
 | --- | --- |
-| [LayersMapBuilder](./layersmapbuilder/) | 包含用于创建地图的方法以及其所依赖的所有函数。 |
+| [LayersMapBuilder](./layersmapbuilder/) | 包含用于创建地图的方法以及它所依赖的所有函数。 |
 | [MapLayerOptions](./maplayeroptions/) | 使用 [`LayersMapBuilder`](../aspose.gis.geotools.layersmap/layersmapbuilder/) 创建地图的矢量图层选项 |
 | [MapOptions](./mapoptions/) | 使用 [`LayersMapBuilder`](../aspose.gis.geotools.layersmap/layersmapbuilder/) 创建地图的地图选项 |
 | [MapRasterOptions](./maprasteroptions/) | 使用 [`LayersMapBuilder`](../aspose.gis.geotools.layersmap/layersmapbuilder/) 创建地图的栅格图层选项 |
@@ -21,6 +21,6 @@ url: /zh/net/aspose.gis.geotools.layersmap/
 
 | 枚举 | 描述 |
 | --- | --- |
-| [MapSizeModes](./mapsizemodes/) | 用于 [`LayersMapBuilder`](../aspose.gis.geotools.layersmap/layersmapbuilder/) 的地图尺寸模式。 |
+| [MapSizeModes](./mapsizemodes/) | 用于 [`LayersMapBuilder`](../aspose.gis.geotools.layersmap/layersmapbuilder/) 的地图大小模式。 |
 
 
