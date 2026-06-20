@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | field_description | [GdbFieldDescription](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription) | r |    |
 | has_field | bool | r |  |
 | is_field_null | bool | r |  |
-| row_id | int | r |  |
+| row_id | 整数 | r |  |
 | table | [GdbTableFile](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [read_binary()](#read_binary__1) |    |
 | [read_date_time()](#read_date_time__2) |    |
@@ -84,7 +84,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 | 类型 | 描述 |
 | :- | :- |
-| float |  |
+| 浮点数 |  |
 
 
 ### Method: read_float64() {#read_float64__4}
@@ -164,7 +164,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: read_raster() {#read_raster__9}
@@ -180,7 +180,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: read_shape() {#read_shape__10}

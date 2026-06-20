@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.common.io/outputbuffer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [OutputBuffer(initial_size)](#OutputBuffer_initial_size_1) | 初始化 OutputBuffer 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 大小 | int | r |  |
+| 大小 | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | reset_and_fix_size(size_limit) |  |
 | reset_and_grow() |  |
@@ -45,5 +45,5 @@ url: /zh/python-net/aspose.gis.common.io/outputbuffer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| initial_size | int |  |
+| initial_size | 整数 |  |
 

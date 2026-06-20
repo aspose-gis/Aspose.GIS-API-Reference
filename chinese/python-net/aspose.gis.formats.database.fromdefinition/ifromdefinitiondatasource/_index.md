@@ -14,9 +14,9 @@ url: /zh/python-net/aspose.gis.formats.database.fromdefinition/ifromdefinitionda
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [get_empty_layer()](#get_empty_layer__1) | 允许创建一个空图层。当仅向数据库添加新记录时，这可能很有用。<br/>但随后该图层可用于编辑新添加的记录。 |
+| [get_empty_layer()](#get_empty_layer__1) | 允许创建一个空图层。当仅向数据库添加新记录时，这可能很有用。<br/>            但随后该图层可用于编辑新添加的记录。 |
 
 
 ### Method: get_empty_layer() {#get_empty_layer__1}
@@ -26,7 +26,7 @@ url: /zh/python-net/aspose.gis.formats.database.fromdefinition/ifromdefinitionda
  get_empty_layer() 
 ```
 
-允许创建一个空图层。当仅向数据库添加新记录时，这可能很有用。<br/>但随后该图层可用于编辑新添加的记录。
+允许创建一个空图层。当仅向数据库添加新记录时，这可能很有用。<br/>            但随后该图层可用于编辑新添加的记录。
 
 **Returns**
 

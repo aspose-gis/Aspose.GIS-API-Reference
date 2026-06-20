@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.labeling.line/symboltetragon/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [SymbolTetragon(x, y, width, height, angle, symbol_index)](#SymbolTetragon_x_y_width_height_angle_symbol_index_1) | 初始化 SymbolTetragon 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 角度 | double | r |  |
-| symbol_index | int | r |  |
+| symbol_index | 整数 | r |  |
 | tetragon | [Tetragon](/psd/python-net/aspose.gis.labeling/tetragon) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | translate(delta) |  |
 
@@ -45,7 +45,7 @@ url: /zh/python-net/aspose.gis.labeling.line/symboltetragon/
 | x | double |  |
 | y | double |  |
 | width | double |  |
-| height | double |  |
+| 高度 | double |  |
 | 角度 | double |  |
-| symbol_index | int |  |
+| symbol_index | 整数 |  |
 

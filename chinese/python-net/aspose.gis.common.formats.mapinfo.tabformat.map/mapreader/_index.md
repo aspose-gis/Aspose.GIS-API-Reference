@@ -16,12 +16,12 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapReader(path, encoding)](#MapReader_path_encoding_1) | 初始化 MapReader 类的新实例 |
 | [MapReader(path, encoding)](#MapReader_path_encoding_2) | 初始化 MapReader 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | common_graphical_objects_type | Nullable<Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType> | r |  |
 | coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |

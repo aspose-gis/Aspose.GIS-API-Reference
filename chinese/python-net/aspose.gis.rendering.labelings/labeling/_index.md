@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.rendering.labelings/labeling/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | null [static] | [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling) | r | 获取 [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/) 的实例。 |
 

@@ -5,7 +5,7 @@ weight: 150
 url: /zh/python-net/aspose.gis.rendering.symbolizers/horizontalanchor/
 ---
 
-指定水平对齐的侧面。
+指定水平对齐的侧边。
 
 **Module:** [aspose.gis.rendering.symbolizers](/psd/python-net/aspose.gis.rendering.symbolizers/)
 
@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/horizontalanchor/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | CENTER | 指定中心将被对齐。 |
 | LEFT | 指定左侧将被对齐。 |

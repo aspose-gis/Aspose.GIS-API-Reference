@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.geotools.extensions/vectorlayerextention/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [add_features(layer, geometries)](#add_features_layer_geometries_1) | 使用通用列表添加要素。 |
 | [read_geometries(layer)](#read_geometries_layer_2) | 仅从图层读取几何体。 |
@@ -34,7 +34,7 @@ url: /zh/python-net/aspose.gis.geotools.extensions/vectorlayerextention/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 要添加的图层。 |
-| geometries | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | 输入几何体。 |
+| 几何体 | System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | 输入几何体。 |
 
 ### Method: read_geometries(layer)  [static] {#read_geometries_layer_2}
 
@@ -49,12 +49,12 @@ url: /zh/python-net/aspose.gis.geotools.extensions/vectorlayerextention/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 要读取的图层。 |
+| layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 读取的图层。 |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | 要素。 |
+| System.Collections.Generic.IEnumerable<Aspose.Gis.Geometries.IGeometry> | 特性。 |
 
 

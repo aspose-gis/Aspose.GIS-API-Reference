@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbmultipartshape/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GdbMultiPartShape()](#GdbMultiPartShape__1) | 初始化 GdbMultiPartShape 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r/w |    |
 | curves | [GdbCurveSegment[]](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegment) | r/w |    |
@@ -28,7 +28,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbmultipartshape/
 | has_m | bool | r |  |
 | has_z | bool | r |  |
 | m | double | r/w |  |
-| parts_sizes | int | r/w |  |
+| parts_sizes | 整数 | r/w |  |
 | xy | [Coordinate[]](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | z | double | r/w |  |
 

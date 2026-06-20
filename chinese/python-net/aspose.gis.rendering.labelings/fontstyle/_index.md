@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.rendering.labelings/fontstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | BOLD | 粗体文本。 |
 | ITALIC | 斜体文本。 |

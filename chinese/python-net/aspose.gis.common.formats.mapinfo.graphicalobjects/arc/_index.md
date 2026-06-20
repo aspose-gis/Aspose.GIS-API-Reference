@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Arc()](#Arc__1) | 初始化 Arc 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | ellipse_coordinate1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | ellipse_coordinate2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
@@ -29,7 +29,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
 | 笔 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
 | start_angle | double | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -56,6 +56,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

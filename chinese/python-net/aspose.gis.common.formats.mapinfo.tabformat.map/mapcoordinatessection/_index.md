@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapcoordinat
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapCoordinatesSection()](#MapCoordinatesSection__1) | 初始化 MapCoordinatesSection 类的新实例 |
 | [MapCoordinatesSection(coordinates_count, holes_count)](#MapCoordinatesSection_coordinates_count_holes_count_2) | 初始化 MapCoordinatesSection 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| coordinates_count | int | r |  |
-| holes_count | int | r |  |
+| coordinates_count | 整数 | r |  |
+| holes_count | 整数 | r |  |
 
 
 ### Constructor: MapCoordinatesSection() {#MapCoordinatesSection__1}
@@ -47,6 +47,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapcoordinat
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| coordinates_count | int |  |
-| holes_count | int |  |
+| coordinates_count | 整数 |  |
+| holes_count | 整数 |  |
 

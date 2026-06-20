@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.styling/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [Brush](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/brush/) |  |
 | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color/) |  |

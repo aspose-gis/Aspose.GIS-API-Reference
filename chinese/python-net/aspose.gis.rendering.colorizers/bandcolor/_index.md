@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.rendering.colorizers/bandcolor/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [BandColor()](#BandColor__1) | 初始化 [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor/) 类的新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| band_index | int | r/w | 指定波段的索引。编号从 0 开始。 |
-| max | double | r/w | 指定最大值。 |
-| min | double | r/w | 指定最小值。 |
+| band_index | 整数 | r/w | 指定波段的索引。编号从 0 开始。 |
+| max | double | r/w | 指定 max 值。 |
+| min | double | r/w | 指定 min 值。 |
 
 
 ### Constructor: BandColor() {#BandColor__1}

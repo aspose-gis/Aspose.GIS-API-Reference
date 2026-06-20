@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis.painting/svgoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [SvgOptions()](#SvgOptions__1) | 初始化 SvgOptions 类的一个新实例 |
+| [SvgOptions()](#SvgOptions__1) | 初始化 SvgOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | background_color | System.Drawing.Color | r/w |  |
-| height | string | r/w |  |
+| 高度 | string | r/w |  |
 | pixel_height | double | r/w |  |
 | pixel_width | double | r/w |  |
 | view_box | Nullable<Aspose.Gis.Common.Rectangle> | r/w |  |
@@ -35,5 +35,5 @@ url: /zh/python-net/aspose.gis.painting/svgoptions/
  SvgOptions() 
 ```
 
-初始化 SvgOptions 类的一个新实例
+初始化 SvgOptions 类的新实例
 

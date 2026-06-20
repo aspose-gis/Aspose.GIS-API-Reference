@@ -14,20 +14,20 @@ url: /zh/python-net/aspose.gis.epsg/projectedcrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [ProjectedCrsEntry()](#ProjectedCrsEntry__1) | 初始化 ProjectedCrsEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | axises_orientation | string | r |  |
-| geographic_crs_code | int | r |  |
+| geographic_crs_code | 整数 | r |  |
 | 名称 | string | r |  |
-| projection_method_code | int | r |  |
-| projection_parameters_value_code | int | r |  |
-| unit_code | int | r |  |
+| projection_method_code | 整数 | r |  |
+| projection_parameters_value_code | 整数 | r |  |
+| unit_code | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, geog_crs_code, unit_code, projection_method_code, projection_parameters_value_code, axises_orientation)](#create_name_geog_crs_code_unit_code_projection_method_code_projection_parameters_value_code_axises_orientation_1) |    |
 
@@ -55,10 +55,10 @@ url: /zh/python-net/aspose.gis.epsg/projectedcrsentry/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 名称 | string |  |
-| geog_crs_code | int |  |
-| unit_code | int |  |
-| projection_method_code | int |  |
-| projection_parameters_value_code | int |  |
+| geog_crs_code | 整数 |  |
+| unit_code | 整数 |  |
+| projection_method_code | 整数 |  |
+| projection_parameters_value_code | 整数 |  |
 | axises_orientation | string |  |
 
 **Returns**

@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wkttoken/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [WktToken()](#WktToken__1) | 初始化 WktToken 类的新实例 |
 | [WktToken(type, text, position)](#WktToken_type_text_position_2) | 初始化 WktToken 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 位置 | int | r |  |
+| 位置 | 整数 | r |  |
 | text | string | r |  |
 | type | [WktTokenType](/psd/python-net/aspose.gis.common.formats.wkt/wkttokentype) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_keyword_with_text(text)](#is_keyword_with_text_text_1) |    |
 
@@ -54,7 +54,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wkttoken/
 | :- | :- | :- |
 | type | [WktTokenType](/psd/python-net/aspose.gis.common.formats.wkt/wkttokentype) |  |
 | text | string |  |
-| 位置 | int |  |
+| 位置 | 整数 |  |
 
 ### Method: is_keyword_with_text(text) {#is_keyword_with_text_text_1}
 

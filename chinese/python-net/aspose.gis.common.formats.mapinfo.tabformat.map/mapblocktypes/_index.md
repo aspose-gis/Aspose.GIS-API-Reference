@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapblocktype
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | COORDINATES [static] | short | r |  |
 | GARBAGE [static] | short | r |  |
@@ -22,6 +22,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapblocktype
 | OBJECTS [static] | short | r |  |
 | RAW_BIN [static] | short | r |  |
 | SPATIAL_INDEX [static] | short | r |  |
-| TOOL [静态] | short | r |  |
+| 工具 [static] | short | r |  |
 
 

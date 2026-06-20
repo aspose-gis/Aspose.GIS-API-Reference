@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.common.io/xmlreplacedstreamreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [XmlReplacedStreamReader(stream)](#XmlReplacedStreamReader_stream_1) | 初始化 XmlReplacedStreamReader 类的新实例 |
 | [XmlReplacedStreamReader(stream, encoding, detect_encoding_from_byte_order_marks)](#XmlReplacedStreamReader_stream_encoding_detect_encoding_from_byte_order_marks_2) | 初始化 XmlReplacedStreamReader 类的新实例 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | set_symbol_to_replace_illegal(symbol_to_replace_illegal) |  |
 

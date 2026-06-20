@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.geotools/generatortilesrenderoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GeneratorTilesRenderOptions()](#GeneratorTilesRenderOptions__1) | 初始化 GeneratorTilesRenderOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | background_color | System.Drawing.Color | r/w | 背景颜色 |
 | geometry_symbolizer | [MixedGeometrySymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/mixedgeometrysymbolizer/) | r/w | 根据要素几何的类型应用正确的符号化器 |

@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.epsg/ellipsoidentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [EllipsoidEntry()](#EllipsoidEntry__1) | 初始化 EllipsoidEntry 类的新实例 |
 | [EllipsoidEntry(name, semi_major_axis, inverse_flattening)](#EllipsoidEntry_name_semi_major_axis_inverse_flattening_2) | 初始化 EllipsoidEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | inverse_flattening | double | r |  |
 | 名称 | string | r |  |
 | semi_major_axis | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, semi_major_axis, inverse_flattening)](#create_name_semi_major_axis_inverse_flattening_1) |    |
 

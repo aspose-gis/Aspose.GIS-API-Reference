@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.epsg/compoundcrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [CompoundCrsEntry()](#CompoundCrsEntry__1) | 初始化 CompoundCrsEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| horizontal_crs_code | int | r |  |
+| horizontal_crs_code | 整数 | r |  |
 | 名称 | string | r |  |
-| vertical_crs_code | int | r |  |
+| vertical_crs_code | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, horizontal_crs_code, vertical_crs_code)](#create_name_horizontal_crs_code_vertical_crs_code_1) |    |
 
@@ -52,8 +52,8 @@ url: /zh/python-net/aspose.gis.epsg/compoundcrsentry/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 名称 | string |  |
-| horizontal_crs_code | int |  |
-| vertical_crs_code | int |  |
+| horizontal_crs_code | 整数 |  |
+| vertical_crs_code | 整数 |  |
 
 **Returns**
 

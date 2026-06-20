@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.painting/painterbrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -32,6 +32,6 @@ url: /zh/python-net/aspose.gis.painting/painterbrush/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

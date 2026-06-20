@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbellipticarcsegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GdbEllipticArcSegment()](#GdbEllipticArcSegment__1) | 初始化 GdbEllipticArcSegment 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 角度 | double | r/w |  |
 | angle_delta | double | r/w |  |
@@ -38,7 +38,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbellipticarcsegment/
 | 旋转 | double | r/w |  |
 | segment_type | [GdbCurveSegmentType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype) | r |    |
 | semi_major_radius | double | r/w |  |
-| start_point_index | int | r/w |  |
+| start_point_index | 整数 | r/w |  |
 
 
 ### Constructor: GdbEllipticArcSegment() {#GdbEllipticArcSegment__1}

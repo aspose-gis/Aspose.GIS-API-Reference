@@ -16,16 +16,16 @@ url: /zh/python-net/aspose.gis.spatialreferencing/primemeridian/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [PrimeMeridian(name, longitude, identifier)](#PrimeMeridian_name_longitude_identifier_1) | 创建新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| epsg_code | int | r | 如果此对象的标识符是 EPSG 标识符，则返回其代码；否则返回 -1。 |
+| epsg_code | 整数 | r | 如果此对象的标识符是 EPSG 标识符，则返回其代码；否则返回 -1。 |
 | greenwich [static] | [PrimeMeridian](/psd/python-net/aspose.gis.spatialreferencing/primemeridian) | r | 格林威治子午线。 |
 | identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | r | 此可识别对象的标识符。 |
-| 经度 | double | r | 格林威治子午线到本初子午线的距离（以度为单位）。 |
+| 经度 | double | r | 从格林威治子午线到本初子午线的距离（单位：度）。 |
 | 名称 | string | r | 此对象的名称。 |
 
 
@@ -43,6 +43,6 @@ url: /zh/python-net/aspose.gis.spatialreferencing/primemeridian/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 名称 | string | 本初子午线的名称。 |
-| 经度 | double | 本初子午线相对于格林威治的经度（以度为单位）。 |
+| 经度 | double | 本初子午线相对于格林威治的经度（单位：度）。 |
 | identifier | [Identifier](/psd/python-net/aspose.gis.spatialreferencing/identifier) | 本初子午线的标识符。 |
 

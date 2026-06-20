@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.labeling.line/measuredlinesegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MeasuredLineSegment(measured_line, start_index, end_index)](#MeasuredLineSegment_measured_line_start_index_end_index_1) | 初始化 MeasuredLineSegment 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | along_line_center | double | r |  |
 | along_line_end | double | r |  |
@@ -41,6 +41,6 @@ url: /zh/python-net/aspose.gis.labeling.line/measuredlinesegment/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | measured_line | [MeasuredLine](/psd/python-net/aspose.gis.labeling.line/measuredline) |  |
-| start_index | int |  |
-| end_index | int |  |
+| start_index | 整数 |  |
+| end_index | 整数 |  |
 

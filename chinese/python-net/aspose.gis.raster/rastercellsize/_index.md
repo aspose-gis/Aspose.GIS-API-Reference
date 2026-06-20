@@ -16,13 +16,13 @@ url: /zh/python-net/aspose.gis.raster/rastercellsize/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [RasterCellSize()](#RasterCellSize__1) | 创建 [RasterCellSize](/psd/python-net/aspose.gis.raster/rastercellsize/) 的实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| height | double | r | 计算像素高度。 |
+| 高度 | double | r | 计算像素高度。 |
 | scale_x | double | r/w | 获取或设置像素宽度的 x 分量（x 缩放）。 |
 | scale_y | double | r/w | 获取或设置像素高度的 y 分量（y 缩放），通常为负。 |
 | skew_x | double | r/w | 获取或设置像素高度的 x 分量（x 偏斜）。 |

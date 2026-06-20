@@ -16,14 +16,14 @@ url: /zh/python-net/aspose.gis/filedriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | can_create_datasets | bool | r | 获取一个值，指示此驱动程序是否可以创建数据集。 |
 | can_create_layers | bool | r | 获取一个值，指示此驱动程序是否可以创建矢量图层。 |
 | can_open_datasets | bool | r | 获取一个值，指示此驱动程序是否可以打开数据集。 |
 | can_open_layers | bool | r | 获取一个值，指示此驱动程序是否可以打开矢量图层。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create_dataset(path)](#create_dataset_path_1) | 创建一个数据集。 |
 | [create_dataset(path)](#create_dataset_path_2) | 创建一个数据集。 |
@@ -37,8 +37,8 @@ url: /zh/python-net/aspose.gis/filedriver/
 | [create_layer(path, options, spatial_reference_system)](#create_layer_path_options_spatial_reference_system_10) | 创建图层并以追加方式打开它。 |
 | [create_layer(path, spatial_reference_system)](#create_layer_path_spatial_reference_system_11) | 创建图层并以追加方式打开它。 |
 | [create_layer(path, spatial_reference_system)](#create_layer_path_spatial_reference_system_12) | 创建图层并以追加方式打开它。 |
-| [edit_layer(path, options)](#edit_layer_path_options_13) | 打开一个图层进行编辑。 |
-| [edit_layer(path, options)](#edit_layer_path_options_14) | 打开一个图层进行编辑。 |
+| [edit_layer(path, options)](#edit_layer_path_options_13) | 打开一个图层以进行编辑。 |
+| [edit_layer(path, options)](#edit_layer_path_options_14) | 打开一个图层以进行编辑。 |
 | [open_dataset(path)](#open_dataset_path_15) | 打开数据集。 |
 | [open_dataset(path)](#open_dataset_path_16) | 打开数据集。 |
 | [open_dataset(path, options)](#open_dataset_path_options_17) | 打开数据集。 |
@@ -69,7 +69,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: create_dataset(path) {#create_dataset_path_2}
@@ -91,7 +91,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: create_dataset(path, options) {#create_dataset_path_options_3}
@@ -114,7 +114,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: create_dataset(path, options) {#create_dataset_path_options_4}
@@ -137,7 +137,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: create_layer(path) {#create_layer_path_5}
@@ -159,7 +159,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create_layer(path) {#create_layer_path_6}
@@ -181,7 +181,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create_layer(path, options) {#create_layer_path_options_7}
@@ -204,7 +204,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create_layer(path, options) {#create_layer_path_options_8}
@@ -227,7 +227,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create_layer(path, options, spatial_reference_system) {#create_layer_path_options_spatial_reference_system_9}
@@ -251,7 +251,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create_layer(path, options, spatial_reference_system) {#create_layer_path_options_spatial_reference_system_10}
@@ -275,7 +275,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create_layer(path, spatial_reference_system) {#create_layer_path_spatial_reference_system_11}
@@ -298,7 +298,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create_layer(path, spatial_reference_system) {#create_layer_path_spatial_reference_system_12}
@@ -321,7 +321,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: edit_layer(path, options) {#edit_layer_path_options_13}
@@ -331,7 +331,7 @@ url: /zh/python-net/aspose.gis/filedriver/
  edit_layer(path, options) 
 ```
 
-打开一个图层进行编辑。
+打开一个图层以进行编辑。
 
 **Parameters:**
 
@@ -344,7 +344,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: edit_layer(path, options) {#edit_layer_path_options_14}
@@ -354,7 +354,7 @@ url: /zh/python-net/aspose.gis/filedriver/
  edit_layer(path, options) 
 ```
 
-打开一个图层进行编辑。
+打开一个图层以进行编辑。
 
 **Parameters:**
 
@@ -367,7 +367,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: open_dataset(path) {#open_dataset_path_15}
@@ -389,7 +389,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: open_dataset(path) {#open_dataset_path_16}
@@ -411,7 +411,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: open_dataset(path, options) {#open_dataset_path_options_17}
@@ -434,7 +434,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: open_dataset(path, options) {#open_dataset_path_options_18}
@@ -457,7 +457,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 的实例。 |
+| [Dataset](/psd/python-net/aspose.gis/dataset) | 一个 [Dataset](/psd/python-net/aspose.gis/dataset/) 实例。 |
 
 
 ### Method: open_layer(path) {#open_layer_path_19}
@@ -479,7 +479,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: open_layer(path) {#open_layer_path_20}
@@ -501,7 +501,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: open_layer(path, options) {#open_layer_path_options_21}
@@ -524,7 +524,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: open_layer(path, options) {#open_layer_path_options_22}
@@ -547,7 +547,7 @@ url: /zh/python-net/aspose.gis/filedriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: supports_spatial_reference_system(spatial_reference_system) {#supports_spatial_reference_system_spatial_reference_system_23}

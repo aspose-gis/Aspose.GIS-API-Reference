@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktwriter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | options | [WktWriterOptions](/psd/python-net/aspose.gis.common.formats.wkt/wktwriteroptions) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | write_composite_end() |  |
 | write_composite_start(composite_value_name) |  |

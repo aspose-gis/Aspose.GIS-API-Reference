@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.epsg/verticaldatumentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [VerticalDatumEntry()](#VerticalDatumEntry__1) | 初始化 VerticalDatumEntry 类的新实例 |
 | [VerticalDatumEntry(name)](#VerticalDatumEntry_name_2) | 初始化 VerticalDatumEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 名称 | string | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name)](#create_name_1) |    |
 

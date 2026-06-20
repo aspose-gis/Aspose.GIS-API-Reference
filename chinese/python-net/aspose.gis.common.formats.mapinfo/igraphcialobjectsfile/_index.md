@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/igraphcialobjectsfile/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | common_graphical_objects_type | Nullable<Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType> | r |  |
 

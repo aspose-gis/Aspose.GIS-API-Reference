@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyzconnection/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [XyzConnection(url_template)](#XyzConnection_url_template_1) | 创建一个新的实例 [XyzConnection](/psd/python-net/aspose.gis.formats.xyztile/xyzconnection/)。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | url | string | r | URL 模板。 |
 

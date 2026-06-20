@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.imagemetadata/imagedata/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 艺术家 | string | r | EXIF 标记 Artist |
-| 描述 | string | r | EXIF 标记 ImageDescription |
-| geo_location | [GeoLocation](/psd/python-net/aspose.gis.imagemetadata/geolocation) | r | EXIF 标记 GPSLatitude、GPSLongitude |
-| image_size | [ImageSize](/psd/python-net/aspose.gis.imagemetadata/imagesize) | r | EXIF 标记 ImageWidth 和 ImageHeight |
-| modify_date | datetime | r | EXIF 标记 ModifyDate（DataTime） |
+| 艺术家 | string | r | EXIF 标签 Artist |
+| 描述 | string | r | EXIF 标签 ImageDescription |
+| geo_location | [GeoLocation](/psd/python-net/aspose.gis.imagemetadata/geolocation) | r | EXIF 标签 GPSLatitude、GPSLongitude |
+| image_size | [ImageSize](/psd/python-net/aspose.gis.imagemetadata/imagesize) | r | EXIF 标签 ImageWidth 和 ImageHeight |
+| modify_date | datetime | r | EXIF 标签 ModifyDate（DataTime） |
 
 

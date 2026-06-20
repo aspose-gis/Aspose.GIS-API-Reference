@@ -16,17 +16,17 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/multipoin
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MultiPoint()](#MultiPoint__1) | 初始化 MultiPoint 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 坐标 | System.Collections.Generic.List<Coordinate> | r/w |  |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | 符号 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol> | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -53,6 +53,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/multipoin
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.rendering.sld/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [SldImportOptions](/psd/python-net/aspose.gis.rendering.sld/sldimportoptions/) | 导入样式图层描述文件（Sld）的选项。 |

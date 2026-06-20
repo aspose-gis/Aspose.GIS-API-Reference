@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.labeling.line/straightensegments/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [StraightenSegments(measured_line)](#StraightenSegments_measured_line_1) | 初始化 StraightenSegments 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | longest_length | double | r |  |
 | segments | System.Collections.Generic.IReadOnlyList<MeasuredLineSegment> | r |  |

@@ -1,5 +1,5 @@
 ---
-title: "钢笔类"
+title: "笔类"
 type: docs
 weight: 30
 url: /zh/python-net/aspose.gis.common.formats.mapinfo.styling/pen/
@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.styling/pen/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Pen()](#Pen__1) | 初始化 Pen 类的新实例 |
 | [Pen(width, pattern, color)](#Pen_width_pattern_color_2) | 初始化 Pen 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) | r |    |
-| 图案 | int | r |  |
-| width | int | r |  |
+| 图案 | 整数 | r |  |
+| width | 整数 | r |  |
 
 
 ### Constructor: Pen() {#Pen__1}
@@ -48,7 +48,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.styling/pen/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| width | int |  |
-| 图案 | int |  |
+| width | 整数 |  |
+| 图案 | 整数 |  |
 | color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) |  |
 

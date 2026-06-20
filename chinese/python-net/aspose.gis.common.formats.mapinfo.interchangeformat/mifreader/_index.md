@@ -16,19 +16,19 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/mifreade
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MifReader(path)](#MifReader_path_1) | 初始化 MifReader 类的新实例 |
 | [MifReader(path)](#MifReader_path_2) | 初始化 MifReader 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | charset_encoding | System.Text.Encoding | r |  |
 | 列 | System.Collections.Generic.IReadOnlyList<Column> | r |  |
 | common_graphical_objects_type | Nullable<Aspose.Gis.Common.Formats.MapInfo.GraphicalObjects.GraphicalObjectType> | r |  |
 | coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |
-| delimiter | 字符 | r |  |
-| 版本 | int | r |  |
+| 分隔符 | 字符 | r |  |
+| 版本 | 整数 | r |  |
 
 
 ### Constructor: MifReader(path) {#MifReader_path_1}

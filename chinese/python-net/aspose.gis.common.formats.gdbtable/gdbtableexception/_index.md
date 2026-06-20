@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtableexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GdbTableException()](#GdbTableException__1) | 初始化 GdbTableException 类的新实例 |
 | [GdbTableException(message)](#GdbTableException_message_2) | 初始化 GdbTableException 类的新实例 |

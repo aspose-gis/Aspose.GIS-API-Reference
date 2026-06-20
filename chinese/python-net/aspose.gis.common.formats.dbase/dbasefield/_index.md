@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbasefield/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [DBaseField()](#DBaseField__1) | 初始化 DBaseField 类的新实例 |
 | [DBaseField(name, type, length, decimals, offset)](#DBaseField_name_type_length_decimals_offset_2) | 初始化 DBaseField 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 小数位 | int | r |  |
-| 长度 | int | r |  |
+| 小数位 | 整数 | r |  |
+| 长度 | 整数 | r |  |
 | 名称 | string | r |  |
-| 偏移 | int | r |  |
+| 偏移量 | 整数 | r |  |
 | 类型 | 字符 | r |  |
 
 
@@ -52,7 +52,7 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbasefield/
 | :- | :- | :- |
 | 名称 | string |  |
 | 类型 | 字符 |  |
-| 长度 | int |  |
-| 小数位 | int |  |
-| 偏移 | int |  |
+| 长度 | 整数 |  |
+| 小数位 | 整数 |  |
+| 偏移量 | 整数 |  |
 

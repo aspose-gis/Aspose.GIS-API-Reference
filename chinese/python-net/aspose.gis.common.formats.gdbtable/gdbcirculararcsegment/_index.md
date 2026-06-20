@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GdbCircularArcSegment()](#GdbCircularArcSegment__1) | 初始化 GdbCircularArcSegment 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | coordinate_is_interior | bool | r/w |  |
@@ -30,7 +30,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbcirculararcsegment/
 | is_minor | bool | r/w |  |
 | is_point | bool | r/w |  |
 | segment_type | [GdbCurveSegmentType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype) | r |    |
-| start_point_index | int | r/w |  |
+| start_point_index | 整数 | r/w |  |
 
 
 ### Constructor: GdbCircularArcSegment() {#GdbCircularArcSegment__1}

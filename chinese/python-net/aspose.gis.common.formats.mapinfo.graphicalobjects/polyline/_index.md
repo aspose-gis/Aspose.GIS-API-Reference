@@ -16,18 +16,18 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/polyline/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Polyline()](#Polyline__1) | 初始化 Polyline 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | 线条 | System.Collections.Generic.List<System.Collections.Generic.List<Coordinate>> | r/w |  |
 | 笔 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
 | 平滑 | bool | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -54,6 +54,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/polyline/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

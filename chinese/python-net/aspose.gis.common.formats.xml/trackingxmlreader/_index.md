@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.common.formats.xml/trackingxmlreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [TrackingXmlReader(stream, dispose_stream)](#TrackingXmlReader_stream_dispose_stream_1) | 初始化 TrackingXmlReader 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| file_offset | long | r |  |
-| line_number | int | r |  |
-| line_position | int | r |  |
+| file_offset | 长整数 | r |  |
+| line_number | 整数 | r |  |
+| line_position | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [has_line_info()](#has_line_info__1) |    |
 

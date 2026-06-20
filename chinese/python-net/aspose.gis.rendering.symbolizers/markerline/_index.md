@@ -16,19 +16,19 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/markerline/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MarkerLine()](#MarkerLine__1) | 初始化 [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/) 类的新实例。 |
 | [MarkerLine(other)](#MarkerLine_other_2) | 初始化 [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/) 类的新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | interval | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定沿线标记之间的间隔。 |
 | marker | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | 指定沿线的标记符号化器。 |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | 此 [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) 不绘制任何内容，并有效地跳过对其所应用的几何体的渲染。 |
-| offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定相对于原始线的偏移。<br/>            对于正距离，偏移将在输入线的左侧（相对于线的方向）。<br/>            对于负距离，偏移将在右侧。 |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | 该 [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) 不绘制任何内容，并有效地跳过对其所应用的几何体的渲染。 |
+| offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定相对于原始线的偏移。<br/> 对于正距离，偏移将在输入线的左侧（相对于线的方向）。<br/> 对于负距离，偏移将在右侧。 |
 | offset_along_line | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定第一标记沿线的偏移量。 |
-| rotate_markers | bool | r/w | 指定是否应沿线旋转标记。 |
+| rotate_markers | bool | r/w | 指定标记是否应沿线旋转。 |
 
 
 ### Constructor: MarkerLine() {#MarkerLine__1}
@@ -53,5 +53,5 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/markerline/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| other | [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline) | 要从中复制数据的另一个 [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/)。 |
+| other | [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline) | 另一个用于复制数据的 [MarkerLine](/psd/python-net/aspose.gis.rendering.symbolizers/markerline/)。 |
 

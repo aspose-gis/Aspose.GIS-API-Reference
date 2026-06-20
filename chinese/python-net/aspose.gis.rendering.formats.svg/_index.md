@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.rendering.formats.svg/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [SvgRenderer](/psd/python-net/aspose.gis.rendering.formats.svg/svgrenderer/) | 一个 [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) 将 [Map](/psd/python-net/aspose.gis.rendering/map/) 渲染为 SVG 文件。 |

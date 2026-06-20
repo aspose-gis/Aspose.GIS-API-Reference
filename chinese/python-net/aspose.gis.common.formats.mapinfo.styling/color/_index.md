@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.styling/color/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Color()](#Color__1) | 初始化 Color 类的新实例 |
 | [Color(r, g, b)](#Color_r_g_b_2) | 初始化 Color 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 蓝色 | byte | r |  |
 | 绿色 | byte | r |  |

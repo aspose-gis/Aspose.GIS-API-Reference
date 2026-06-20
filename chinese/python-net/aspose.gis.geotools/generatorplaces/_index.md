@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.geotools/generatorplaces/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | RANDOM | 随机放置。 |
 | REGULAR | 中心放置 |

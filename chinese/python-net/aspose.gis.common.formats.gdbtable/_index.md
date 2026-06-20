@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [GdbBezierSegment](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbbeziersegment/) |  |
 | [GdbBinaryReaderExtensions](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbbinaryreaderextensions/) |  |
@@ -29,7 +29,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/
 | [GdbTableRowReader](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowreader/) |  |
 | [GdbTableRowWriter](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtablerowwriter/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [GdbCurveSegmentType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype/) |  |
 | [GdbFieldType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfieldtype/) |  |

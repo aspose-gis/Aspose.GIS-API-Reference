@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.common.io/binarydatareader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | base_stream | _io.BufferedRandom | r |  |
 | is_little_endian | bool | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [big_endian(input, leave_open)](#big_endian_input_leave_open_1) |    |
 | [create(byte_order, input, leave_open)](#create_byte_order_input_leave_open_2) |    |
@@ -49,7 +49,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatareader/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 输入 | _io.BufferedRandom |  |
+| input | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
@@ -73,7 +73,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatareader/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | byte_order | [ByteOrder](/psd/python-net/aspose.gis.common.io/byteorder) |  |
-| 输入 | _io.BufferedRandom |  |
+| input | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
@@ -96,7 +96,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatareader/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 输入 | _io.BufferedRandom |  |
+| input | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
@@ -167,7 +167,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatareader/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: read_int64() {#read_int64__8}
@@ -183,7 +183,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatareader/
 
 | 类型 | 描述 |
 | :- | :- |
-| long |  |
+| 长整数 |  |
 
 
 ### Method: read_s_byte() {#read_s_byte__9}
@@ -215,7 +215,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatareader/
 
 | 类型 | 描述 |
 | :- | :- |
-| float |  |
+| 浮点数 |  |
 
 
 ### Method: read_u_int16() {#read_u_int16__11}

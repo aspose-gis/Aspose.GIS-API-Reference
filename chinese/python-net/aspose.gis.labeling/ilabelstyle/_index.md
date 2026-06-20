@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.labeling/ilabelstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [measure_text(text)](#measure_text_text_1) |    |
 | [measure_text_characters(text)](#measure_text_characters_text_2) |    |

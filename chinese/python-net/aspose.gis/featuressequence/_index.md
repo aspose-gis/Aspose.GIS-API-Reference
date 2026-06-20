@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis/featuressequence/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| attributes | [BaseFeatureAttributeCollection](/psd/python-net/aspose.gis/basefeatureattributecollection) | r | 获取此 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 中要素的自定义属性集合。 |
+| attributes | [BaseFeatureAttributeCollection](/psd/python-net/aspose.gis/basefeatureattributecollection) | r | 获取此 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 中特征的自定义属性集合。 |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r | 获取此要素序列的空间参考系统。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_extent()](#get_extent__1) | 获取此图层的空间范围。 |
 | [save_to(destination_path, destination_driver)](#save_to_destination_path_destination_driver_2) | 将要素序列保存到图层。 |
@@ -39,7 +39,7 @@ url: /zh/python-net/aspose.gis/featuressequence/
 | [where_set(attribute_name)](#where_set_attribute_name_16) | 选择已设置属性的要素。 |
 | [where_smaller(attribute_name, value)](#where_smaller_attribute_name_value_17) | 选择属性值小于提供值的要素。 |
 | [where_smaller_or_equal(attribute_name, value)](#where_smaller_or_equal_attribute_name_value_18) | 选择属性值小于或等于提供值的要素。 |
-| [where_unset(attribute_name)](#where_unset_attribute_name_19) | 选择指定属性未设置的要素。 |
+| [where_unset(attribute_name)](#where_unset_attribute_name_19) | 选择未设置指定属性的要素。 |
 
 
 ### Method: get_extent() {#get_extent__1}
@@ -417,7 +417,7 @@ url: /zh/python-net/aspose.gis/featuressequence/
  where_unset(attribute_name) 
 ```
 
-选择指定属性未设置的要素。
+选择未设置指定属性的要素。
 
 **Parameters:**
 

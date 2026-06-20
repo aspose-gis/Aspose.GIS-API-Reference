@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.geotools/nearpointscleaneroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [NearPointsCleanerOptions()](#NearPointsCleanerOptions__1) | 默认创建一个带有初始化字段的实例。 |
-| [NearPointsCleanerOptions(source)](#NearPointsCleanerOptions_source_2) | 创建实例 [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/) 的副本。 |
+| [NearPointsCleanerOptions()](#NearPointsCleanerOptions__1) | 默认使用初始化字段创建实例。 |
+| [NearPointsCleanerOptions(source)](#NearPointsCleanerOptions_source_2) | 创建 [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/) 实例的副本。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 距离 | double | r/w | 用于检查点是否接近另一个点的参数。默认值为 0。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | 创建对象的副本。 |
 
@@ -35,7 +35,7 @@ url: /zh/python-net/aspose.gis.geotools/nearpointscleaneroptions/
  NearPointsCleanerOptions() 
 ```
 
-默认创建一个带有初始化字段的实例。
+默认使用初始化字段创建实例。
 
 ### Constructor: NearPointsCleanerOptions(source) {#NearPointsCleanerOptions_source_2}
 
@@ -44,7 +44,7 @@ url: /zh/python-net/aspose.gis.geotools/nearpointscleaneroptions/
  NearPointsCleanerOptions(source) 
 ```
 
-创建实例 [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/) 的副本。
+创建 [NearPointsCleanerOptions](/psd/python-net/aspose.gis.geotools/nearpointscleaneroptions/) 实例的副本。
 
 **Parameters:**
 

@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.spatialreferencing/geographicspatialreferencesyst
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GeographicSpatialReferenceSystemParameters()](#GeographicSpatialReferenceSystemParameters__1) | 初始化 GeographicSpatialReferenceSystemParameters 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | angular_unit | [Unit](/psd/python-net/aspose.gis.spatialreferencing/unit) | r/w | 此 SRS 中使用的单位。默认是 [Unit.degree](/psd/python-net/aspose.gis.spatialreferencing/unit/)。 |
 | axises_order | [GeographicAxisesOrder](/psd/python-net/aspose.gis.spatialreferencing/geographicaxisesorder) | r/w | 轴的顺序。默认是 [GeographicAxisesOrder.LONGITUDE_LATITUDE](/psd/python-net/aspose.gis.spatialreferencing/geographicaxisesorder/)。 |

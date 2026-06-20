@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.common.formats.xml/xmlname/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [XmlName(local_name)](#XmlName_local_name_1) | 初始化 XmlName 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | local_name | string | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [equals_name(name_of_local)](#equals_name_name_of_local_1) |    |
 

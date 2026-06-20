@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.common.io/binarydatawriter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | base_stream | _io.BufferedRandom | r |  |
 | is_little_endian | bool | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [big_endian(output, leave_open)](#big_endian_output_leave_open_1) |    |
 | [little_endian(output, leave_open)](#little_endian_output_leave_open_2) |    |
@@ -49,7 +49,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatawriter/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 输出 | _io.BufferedRandom |  |
+| output | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**
@@ -72,7 +72,7 @@ url: /zh/python-net/aspose.gis.common.io/binarydatawriter/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 输出 | _io.BufferedRandom |  |
+| output | _io.BufferedRandom |  |
 | leave_open | bool |  |
 
 **Returns**

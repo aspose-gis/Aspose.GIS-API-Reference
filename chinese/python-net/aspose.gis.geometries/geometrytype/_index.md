@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.geometries/geometrytype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | CIRCULAR_STRING | 该几何对象是一个 [ICircularString](/psd/python-net/aspose.gis.geometries/icircularstring/)。 |
 | COMPOUND_CURVE | 该几何对象是一个 [ICompoundCurve](/psd/python-net/aspose.gis.geometries/icompoundcurve/)。 |

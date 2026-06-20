@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.indexing.rtree/rtreeoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [RTreeOptions()](#RTreeOptions__1) | 初始化 RTreeOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| cache_size | int | r/w |  |
-| dirty_nodes_capacity | int | r/w |  |
-| max_values_per_node | int | r/w |  |
+| cache_size | 整数 | r/w |  |
+| dirty_nodes_capacity | 整数 | r/w |  |
+| max_values_per_node | 整数 | r/w |  |
 
 
 ### Constructor: RTreeOptions() {#RTreeOptions__1}

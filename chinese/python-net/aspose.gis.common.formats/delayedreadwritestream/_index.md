@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats/delayedreadwritestream/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(path, initial_access)](#create_path_initial_access_1) |    |
 

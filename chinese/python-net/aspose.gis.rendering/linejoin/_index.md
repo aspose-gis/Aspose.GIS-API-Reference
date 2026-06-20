@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis.rendering/linejoin/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | 斜角 | 对角角。 |
-| 斜接 | 尖角。 |
+| 斜接 | 锐角。 |
 | ROUND | 圆角。 |

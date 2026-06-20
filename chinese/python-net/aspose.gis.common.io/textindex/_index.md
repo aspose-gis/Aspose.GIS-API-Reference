@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.common.io/textindex/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [TextIndex(stream, buffer_size)](#TextIndex_stream_buffer_size_1) | 初始化 TextIndex 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | end_of_stream | bool | r |  |
-| 位置 | long | r/w |  |
+| 位置 | 长整数 | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [read_line()](#read_line__1) |    |
 
@@ -42,7 +42,7 @@ url: /zh/python-net/aspose.gis.common.io/textindex/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | stream | _io.BufferedRandom |  |
-| buffer_size | int |  |
+| buffer_size | 整数 |  |
 
 ### Method: read_line() {#read_line__1}
 

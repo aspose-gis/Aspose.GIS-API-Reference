@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.epsg/geocentriccrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GeocentricCrsEntry()](#GeocentricCrsEntry__1) | 初始化 GeocentricCrsEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| datum_code | int | r |  |
+| datum_code | 整数 | r |  |
 | 名称 | string | r |  |
-| unit_code | int | r |  |
+| unit_code | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, unit_code, datum_code)](#create_name_unit_code_datum_code_1) |    |
 
@@ -52,8 +52,8 @@ url: /zh/python-net/aspose.gis.epsg/geocentriccrsentry/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 名称 | string |  |
-| unit_code | int |  |
-| datum_code | int |  |
+| unit_code | 整数 |  |
+| datum_code | 整数 |  |
 
 **Returns**
 

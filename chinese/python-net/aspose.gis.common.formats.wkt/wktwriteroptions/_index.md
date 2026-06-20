@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktwriteroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [WktWriterOptions()](#WktWriterOptions__1) | 初始化 WktWriterOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | dispose_writer | bool | r/w |  |
 | force_uppercase_keywords | bool | r/w |  |

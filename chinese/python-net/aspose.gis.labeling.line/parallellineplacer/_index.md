@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.labeling.line/parallellineplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [ParallelLinePlacer(context, is_parallel)](#ParallelLinePlacer_context_is_parallel_1) | 初始化 ParallelLinePlacer 类的新实例 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | accumulate_candidates(candidates, line) |  |
 

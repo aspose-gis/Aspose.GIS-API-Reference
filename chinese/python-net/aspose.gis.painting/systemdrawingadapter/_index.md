@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.painting/systemdrawingadapter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | string_format [static] | System.Drawing.StringFormat | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [convert_brush(brush)](#convert_brush_brush_1) |    |
 | [convert_coordinate(coordinate)](#convert_coordinate_coordinate_2) |    |
@@ -155,7 +155,7 @@ url: /zh/python-net/aspose.gis.painting/systemdrawingadapter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 字体 | System.Drawing.Font |  |
-| value_in_design_units | int |  |
+| value_in_design_units | 整数 |  |
 
 **Returns**
 

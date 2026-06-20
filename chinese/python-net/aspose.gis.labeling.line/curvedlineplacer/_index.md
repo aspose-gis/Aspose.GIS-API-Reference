@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.labeling.line/curvedlineplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [CurvedLinePlacer(context, label_widths)](#CurvedLinePlacer_context_label_widths_1) | 初始化 CurvedLinePlacer 类的新实例 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | accumulate_candidates(candidates, line) |  |
 

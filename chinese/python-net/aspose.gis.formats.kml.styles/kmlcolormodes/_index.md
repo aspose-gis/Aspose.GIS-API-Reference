@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/kmlcolormodes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | NORMAL | 指定单一颜色值。 |
 | RANDOM | 指定使用随机颜色值。 |

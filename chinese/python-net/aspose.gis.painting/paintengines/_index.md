@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.painting/paintengines/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [bmp(path, options)](#bmp_path_options_1) |    |
 | [g_svg(path, options)](#g_svg_path_options_2) |    |

@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.common/boundingrectangle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [BoundingRectangle()](#BoundingRectangle__1) | 初始化 BoundingRectangle 类的新实例 |
 | [BoundingRectangle(x_min, y_min, x_max, y_max)](#BoundingRectangle_x_min_y_min_x_max_y_max_2) | 初始化 BoundingRectangle 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 面积 | double | r |  |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | has_values | bool | r |  |
-| height | double | r |  |
+| 高度 | double | r |  |
 | max_coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | min_coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | width | double | r |  |
@@ -33,7 +33,7 @@ url: /zh/python-net/aspose.gis.common/boundingrectangle/
 | y_max | double | r/w |  |
 | y_min | double | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | 创建一个新对象，该对象是当前实例的副本。 |
 | [contains(c)](#contains_c_2) |    |

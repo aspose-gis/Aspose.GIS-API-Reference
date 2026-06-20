@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphical
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | ARC |  |
 | ELLIPSE |  |
 | GRAPHICAL_COLLECTION |  |
 | LINE |  |
 | MULTI_POINT |  |
-| NONE |  |
+| 无 |  |
 | POINT |  |
 | POLYLINE |  |
 | RECTANGLE |  |

@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis.spatialreferencing/geocentricspatialreferencesyst
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GeocentricSpatialReferenceSystemParameters()](#GeocentricSpatialReferenceSystemParameters__1) | 初始化 GeocentricSpatialReferenceSystemParameters 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | axises_order | [GeocentricAxisesOrder](/psd/python-net/aspose.gis.spatialreferencing/geocentricaxisesorder) | r/w | 轴的顺序。默认值为 [GeocentricAxisesOrder.XYZ](/psd/python-net/aspose.gis.spatialreferencing/geocentricaxisesorder/)。 |
-| datum | [GeographicDatum](/psd/python-net/aspose.gis.spatialreferencing/geographicdatum) | r/w | 地心 SRS 的基准。默认值为 [GeographicDatum.wgs84](/psd/python-net/aspose.gis.spatialreferencing/geographicdatum/)。 |
+| datum | [GeographicDatum](/psd/python-net/aspose.gis.spatialreferencing/geographicdatum) | r/w | 地心 SRS 的基准面。默认值为 [GeographicDatum.wgs84](/psd/python-net/aspose.gis.spatialreferencing/geographicdatum/)。 |
 | linear_unit | [Unit](/psd/python-net/aspose.gis.spatialreferencing/unit) | r/w | 此 SRS 使用的单位。默认值为 [Unit.meter](/psd/python-net/aspose.gis.spatialreferencing/unit/)。 |
 | 名称 | string | r/w | 地心 SRS 的名称。默认值为 "Unnamed"。 |
 | prime_meridian | [PrimeMeridian](/psd/python-net/aspose.gis.spatialreferencing/primemeridian) | r/w | 此 SRS 的本初子午线。默认值为 [PrimeMeridian.greenwich](/psd/python-net/aspose.gis.spatialreferencing/primemeridian/)。 |

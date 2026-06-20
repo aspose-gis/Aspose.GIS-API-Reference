@@ -9,10 +9,10 @@ url: /zh/python-net/aspose.gis.indexing/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [IndexingException](/psd/python-net/aspose.gis.indexing/indexingexception/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [ValuesFilterType](/psd/python-net/aspose.gis.indexing/valuesfiltertype/) |  |

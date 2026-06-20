@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.geotools.layersmap/maprasteroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapRasterOptions()](#MapRasterOptions__1) | 初始化 MapRasterOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | layer_spatial_ref_sys | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | 指定图层空间参考的值。 |
-| pixel_per_column | int | r/w | 光栅的宽度（像素）。 |
-| pixel_per_row | int | r/w | 光栅的高度（像素）。 |
+| pixel_per_column | 整数 | r/w | 光栅宽度（像素）。 |
+| pixel_per_row | 整数 | r/w | 光栅高度（像素）。 |
 | raster | [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | r/w | 栅格图层。 |
 
 

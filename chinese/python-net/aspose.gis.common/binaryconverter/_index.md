@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | big_endian [static] | [BinaryConverter](/psd/python-net/aspose.gis.common/binaryconverter) | r |    |
 | little_endian [static] | [BinaryConverter](/psd/python-net/aspose.gis.common/binaryconverter) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_bytes(value)](#get_bytes_value_1) |    |
 | [get_bytes(value)](#get_bytes_value_2) |    |
@@ -101,7 +101,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| value | int |  |
+| value | 整数 |  |
 
 **Returns**
 
@@ -123,7 +123,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| value | long |  |
+| value | 长整数 |  |
 
 **Returns**
 
@@ -233,7 +233,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| value | float |  |
+| value | 浮点数 |  |
 
 **Returns**
 
@@ -278,7 +278,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
@@ -301,7 +301,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
@@ -324,7 +324,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
@@ -347,7 +347,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
@@ -370,13 +370,13 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: to_int64(value, start_index) {#to_int64_value_start_index_16}
@@ -393,13 +393,13 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| long |  |
+| 长整数 |  |
 
 
 ### Method: to_s_byte(value) {#to_s_byte_value_17}
@@ -438,13 +438,13 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| float |  |
+| 浮点数 |  |
 
 
 ### Method: to_u_int16(value, start_index) {#to_u_int16_value_start_index_19}
@@ -461,7 +461,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
@@ -484,7 +484,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 
@@ -507,7 +507,7 @@ url: /zh/python-net/aspose.gis.common/binaryconverter/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | value | byte |  |
-| start_index | int |  |
+| start_index | 整数 |  |
 
 **Returns**
 

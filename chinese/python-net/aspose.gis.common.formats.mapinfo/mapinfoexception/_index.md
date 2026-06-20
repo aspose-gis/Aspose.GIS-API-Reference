@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/mapinfoexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapInfoException()](#MapInfoException__1) | 初始化 MapInfoException 类的新实例 |
 | [MapInfoException(message)](#MapInfoException_message_2) | 初始化 MapInfoException 类的新实例 |

@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.common.io/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [BinaryDataReader](/psd/python-net/aspose.gis.common.io/binarydatareader/) |  |
 | [BinaryDataWriter](/psd/python-net/aspose.gis.common.io/binarydatawriter/) |  |
@@ -21,6 +21,6 @@ url: /zh/python-net/aspose.gis.common.io/
 | [TextIndex](/psd/python-net/aspose.gis.common.io/textindex/) |  |
 | [XmlReplacedStreamReader](/psd/python-net/aspose.gis.common.io/xmlreplacedstreamreader/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [ByteOrder](/psd/python-net/aspose.gis.common.io/byteorder/) |  |

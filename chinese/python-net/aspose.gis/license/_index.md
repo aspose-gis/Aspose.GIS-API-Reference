@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis/license/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [License()](#License__1) | 初始化此类的新实例。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | set_license(license_name) |  |
 | [set_license(stream)](#set_license_stream_1) | 为组件授权。 |

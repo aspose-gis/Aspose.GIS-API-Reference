@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.common.formats.xml/xmlindex2/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [XmlIndex2(stream)](#XmlIndex2_stream_1) | 初始化 XmlIndex2 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r |  |
+| 计数 | 整数 | r |  |
 | offsets_pos | System.Collections.Generic.IReadOnlyList<long> | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | build(root_name, split_name, symbol_to_replace_illegal) |  |
 | build(root_name, split_names, symbol_to_replace_illegal) |  |

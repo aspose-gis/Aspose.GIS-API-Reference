@@ -16,12 +16,12 @@ url: /zh/python-net/aspose.gis.painting/systemdrawingpaintengine/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | rounded_height | double | r |  |
 | rounded_width | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | close() |  |
 | draw_characters(text_path) |  |
@@ -51,7 +51,7 @@ url: /zh/python-net/aspose.gis.painting/systemdrawingpaintengine/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | text | string |  |
-| text_font | System.Drawing.Font |  |
+| 文本字体 | System.Drawing.Font |  |
 
 **Returns**
 
@@ -74,7 +74,7 @@ url: /zh/python-net/aspose.gis.painting/systemdrawingpaintengine/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | text | string |  |
-| text_font | System.Drawing.Font |  |
+| 文本字体 | System.Drawing.Font |  |
 
 **Returns**
 

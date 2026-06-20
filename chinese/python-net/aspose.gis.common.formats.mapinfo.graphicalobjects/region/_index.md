@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Region()](#Region__1) | 初始化 Region 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 画刷 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Brush> | r/w |  |
 | center | Nullable<Coordinate> | r/w |  |
@@ -28,7 +28,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/
 | 笔 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
 | polygons | System.Collections.Generic.List<Polygon> | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -55,6 +55,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/region/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

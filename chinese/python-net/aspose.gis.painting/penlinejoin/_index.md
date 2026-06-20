@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.painting/penlinejoin/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | 斜角 |  |
 | 斜接 |  |

@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [KmlAbstractColorStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmlabstractcolorstyle/) | 提供用于指定从其派生的样式类型的颜色和颜色模式的元素。 |
 | [KmlBalloonStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmlballoonstyle/) | 指定描述气泡的绘制方式。 |
@@ -23,7 +23,7 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/
 | [KmlListStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmlliststyle/) | 指定要素在列表视图中的显示方式。 |
 | [KmlPolygonStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmlpolygonstyle/) | 指定多边形的绘制样式，<br/>            包括多边形本身以及 kml:Polygon 或 LineString 的拉伸部分。 |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [KmlColorModes](/psd/python-net/aspose.gis.formats.kml.styles/kmlcolormodes/) | 指定图形元素的颜色模式。 |
 | [KmlDisplayModes](/psd/python-net/aspose.gis.formats.kml.styles/kmldisplaymodes/) | 控制元素是显示还是隐藏。 |

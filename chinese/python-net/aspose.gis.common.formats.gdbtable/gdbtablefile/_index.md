@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r |  |
+| 计数 | 整数 | r |  |
 | 字段 | System.Collections.Generic.IReadOnlyList<GdbFieldDescription> | r |  |
 | gdb_table_version | [GdbTableVersion](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableversion) | r |    |
 | is_dirty | bool | r |  |
-| next_row_id | int | r |  |
+| next_row_id | 整数 | r |  |
 | object_id_field | [GdbFieldDescription](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription) | r |    |
 | shape_field | [GdbShapeFieldDescription](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbshapefielddescription) | r |    |
 | shape_type | [GdbTableShapeType](/psd/python-net/aspose.gis.common.formats.gdbtable/gdbtableshapetype) | r/w |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | add_field(field) |  |
 | [add_row(row)](#add_row_row_1) |    |
@@ -63,7 +63,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: create(path)  [static] {#create_path_2}
@@ -251,7 +251,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| row_id | int |  |
+| row_id | 整数 |  |
 
 **Returns**
 
@@ -273,7 +273,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtablefile/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| row_index | int |  |
+| row_index | 整数 |  |
 
 **Returns**
 

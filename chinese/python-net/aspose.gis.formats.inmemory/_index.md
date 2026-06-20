@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.formats.inmemory/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [InMemoryDriver](/psd/python-net/aspose.gis.formats.inmemory/inmemorydriver/) | 用于在内存中处理数据的驱动程序。 |

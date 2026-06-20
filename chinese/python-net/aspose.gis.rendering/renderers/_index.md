@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.rendering/renderers/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bmp [static] | [BmpRenderer](/psd/python-net/aspose.gis.rendering.formats.bmp/bmprenderer/) | r | 将渲染为 BMP 格式的渲染器。 |
 | jpeg [static] | [JpegRenderer](/psd/python-net/aspose.gis.rendering.formats.jpeg/jpegrenderer/) | r | 将渲染为 JPEG 格式的渲染器。 |

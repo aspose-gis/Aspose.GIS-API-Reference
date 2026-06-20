@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 编码 | System.Text.Encoding | r |  |
 | 字段 | System.Collections.Generic.IList<DBaseField> | r |  |
-| 记录数 | long | r |  |
+| 记录计数 | 长整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | add_field(name, type, width, precision) |  |
 | [add_record()](#add_record__1) |    |
@@ -67,7 +67,7 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 类型 | 描述 |
 | :- | :- |
-| long |  |
+| 长整数 |  |
 
 
 ### Method: create(path, options)  [static] {#create_path_options_2}
@@ -153,8 +153,8 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -176,7 +176,7 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
+| record_index | 长整数 |  |
 
 **Returns**
 
@@ -244,14 +244,14 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: read_character(record_index, field_index) {#read_character_record_index_field_index_10}
@@ -267,8 +267,8 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -290,8 +290,8 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 | is_ignore_wrong_data | bool |  |
 
 **Returns**
@@ -314,8 +314,8 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -337,15 +337,15 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 | is_ignore_wrong_data | bool |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: read_integer64(record_index, field_index, is_ignore_wrong_data) {#read_integer64_record_index_field_index_is_ignore_wrong_data_14}
@@ -361,15 +361,15 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 | is_ignore_wrong_data | bool |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| long |  |
+| 长整数 |  |
 
 
 ### Method: read_logical(record_index, field_index, is_ignore_wrong_data) {#read_logical_record_index_field_index_is_ignore_wrong_data_15}
@@ -385,8 +385,8 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 | is_ignore_wrong_data | bool |  |
 
 **Returns**
@@ -409,8 +409,8 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 | is_ignore_wrong_data | bool |  |
 
 **Returns**
@@ -433,8 +433,8 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbase/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| record_index | long |  |
-| field_index | int |  |
+| record_index | 长整数 |  |
+| field_index | 整数 |  |
 
 **Returns**
 

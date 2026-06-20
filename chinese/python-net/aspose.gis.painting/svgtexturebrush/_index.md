@@ -16,15 +16,15 @@ url: /zh/python-net/aspose.gis.painting/svgtexturebrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [SvgTextureBrush(url_pattern_id)](#SvgTextureBrush_url_pattern_id_1) | 初始化 SvgTextureBrush 类的一个新实例 |
+| [SvgTextureBrush(url_pattern_id)](#SvgTextureBrush_url_pattern_id_1) | 初始化 SvgTextureBrush 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | url_pattern_id | string | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -36,7 +36,7 @@ url: /zh/python-net/aspose.gis.painting/svgtexturebrush/
  SvgTextureBrush(url_pattern_id) 
 ```
 
-初始化 SvgTextureBrush 类的一个新实例
+初始化 SvgTextureBrush 类的新实例
 
 **Parameters:**
 
@@ -57,6 +57,6 @@ url: /zh/python-net/aspose.gis.painting/svgtexturebrush/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

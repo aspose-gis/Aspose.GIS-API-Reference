@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common.formats.xml/xmlqualifiednamespace/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [XmlQualifiedNamespace()](#XmlQualifiedNamespace__1) | 初始化 XmlQualifiedNamespace 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 前缀 | string | r/w |  |
 | uri | string | r/w |  |

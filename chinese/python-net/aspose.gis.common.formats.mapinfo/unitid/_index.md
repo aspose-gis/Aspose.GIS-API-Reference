@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/unitid/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
-| CENTIMETER |  |
-| CHAIN |  |
-| DEGREE |  |
-| EMPTY |  |
-| INCH |  |
-| INTERNATIONAL_FOOT |  |
+| 厘米 |  |
+| 链 |  |
+| 度 |  |
+| 空 |  |
+| 英寸 |  |
+| 国际英尺 |  |
 | 公里 |  |
 | 链接 |  |
 | 米 |  |

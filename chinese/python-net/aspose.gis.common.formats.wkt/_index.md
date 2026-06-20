@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/) |  |
 | [WktDateTime](/psd/python-net/aspose.gis.common.formats.wkt/wktdatetime/) |  |
@@ -22,6 +22,6 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/
 | [WktWriter](/psd/python-net/aspose.gis.common.formats.wkt/wktwriter/) |  |
 | [WktWriterOptions](/psd/python-net/aspose.gis.common.formats.wkt/wktwriteroptions/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [WktTokenType](/psd/python-net/aspose.gis.common.formats.wkt/wkttokentype/) |  |

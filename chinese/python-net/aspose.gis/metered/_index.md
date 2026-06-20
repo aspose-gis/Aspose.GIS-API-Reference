@@ -14,9 +14,9 @@ url: /zh/python-net/aspose.gis/metered/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [get_consumption_credit()](#get_consumption_credit__1) | 获取消耗信用 |
+| [get_consumption_credit()](#get_consumption_credit__1) | 获取消耗积分 |
 | [get_consumption_quantity()](#get_consumption_quantity__2) | 获取消耗文件大小 |
 | reset_metered_key() | 删除先前设置的许可证 |
 | [set_metered_key(public_key, private_key)](#set_metered_key_public_key_private_key_3) | 设置计量的公钥和私钥 |
@@ -29,7 +29,7 @@ url: /zh/python-net/aspose.gis/metered/
  get_consumption_credit() 
 ```
 
-获取消耗信用
+获取消耗积分
 
 **Returns**
 

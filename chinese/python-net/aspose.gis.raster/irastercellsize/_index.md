@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.raster/irastercellsize/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| height | double | r | 获取单元格或像素的高度，始终为正。 |
-| scale_x | double | r | 获取单元格或像素宽度的 x 分量 (x-scale)。 |
-| scale_y | double | r | 获取单元格或像素高度的 y 分量 (y-scale)，通常为负。 |
-| skew_x | double | r | 获取单元格或像素高度的 x 分量 (x-skew)。 |
-| skew_y | double | r | 获取单元格或像素宽度的 y 分量 (y-skew)。 |
+| 高度 | double | r | 获取单元格或像素的高度，始终为正。 |
+| scale_x | double | r | 获取单元格或像素宽度的 x 分量（x-scale）。 |
+| scale_y | double | r | 获取单元格或像素高度的 y 分量（y-scale），通常为负。 |
+| skew_x | double | r | 获取单元格或像素高度的 x 分量（x-skew）。 |
+| skew_y | double | r | 获取单元格或像素宽度的 y 分量（y-skew）。 |
 | width | double | r | 获取单元格或像素的宽度，始终为正。 |
 
 

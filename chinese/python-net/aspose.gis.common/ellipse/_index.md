@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.common/ellipse/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Ellipse(center, x_radius, y_radius, rotation)](#Ellipse_center_x_radius_y_radius_rotation_1) | 初始化 Ellipse 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | 旋转 | double | r |  |
 | x_radius | double | r |  |
 | y_radius | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_angle(coordinate)](#get_angle_coordinate_1) |    |
 | [get_arc(start, end, clockwise)](#get_arc_start_end_clockwise_2) |    |

@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis/conversionoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [ConversionOptions()](#ConversionOptions__1) | 初始化 ConversionOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | attributes_converter | [IAttributesConverter](/psd/python-net/aspose.gis/iattributesconverter) | r/w | 属性的自定义转换器。它允许我们重命名或排除目标属性。<br/>            如果不为 <see langword="null" />，则会针对源图层的每个属性调用它，并在必要时对其进行更改。 |
 | destination_driver_options | [DriverOptions](/psd/python-net/aspose.gis/driveroptions) | r/w | 针对目标图层的驱动程序特定选项。 |

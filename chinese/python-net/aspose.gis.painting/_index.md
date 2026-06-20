@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.painting/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [PaintEngine](/psd/python-net/aspose.gis.painting/paintengine/) |  |
 | [PaintEngineOptions](/psd/python-net/aspose.gis.painting/paintengineoptions/) |  |
@@ -32,7 +32,7 @@ url: /zh/python-net/aspose.gis.painting/
 | [SystemDrawingPaintEngine](/psd/python-net/aspose.gis.painting/systemdrawingpaintengine/) |  |
 | [SystemDrawingTextureBrush](/psd/python-net/aspose.gis.painting/systemdrawingtexturebrush/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [BrushStyle](/psd/python-net/aspose.gis.painting/brushstyle/) |  |
 | [PenCapStyle](/psd/python-net/aspose.gis.painting/pencapstyle/) |  |

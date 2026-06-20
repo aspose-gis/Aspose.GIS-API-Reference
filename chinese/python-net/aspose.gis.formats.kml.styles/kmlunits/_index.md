@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/kmlunits/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | FRACTION | 指示 x 值是图标的一个分数。 |
 | INSET_PIXELS | 指示图标右边缘的缩进。 |

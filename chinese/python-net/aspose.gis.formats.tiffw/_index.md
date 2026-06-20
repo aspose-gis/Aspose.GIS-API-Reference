@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.formats.tiffw/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
-| [TiffWDriver](/psd/python-net/aspose.gis.formats.tiffw/tiffwdriver/) | 用于 TiffW 栅格的驱动程序。 |
+| [TiffWDriver](/psd/python-net/aspose.gis.formats.tiffw/tiffwdriver/) | TiffW 栅格的驱动程序。 |

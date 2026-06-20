@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis.rendering.labelings/multipartmode/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
-| ALL | 在几何体的每个部件附近放置标签，只要该部件附近有空间。 |
+| ALL | 在几何体的每个部分附近放置标签，只要该部分附近有空间。 |
 | ANY | 为整个几何体放置一个标签。 |
-| LARGEST | 在几何体最大的部件附近放置标签，只要有足够空间放置标签。 |
+| LARGEST | 在几何体的最大部分放置标签，只要有足够的空间放置标签。 |

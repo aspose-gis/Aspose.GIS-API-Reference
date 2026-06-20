@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [WayLayerGenerator(options)](#WayLayerGenerator_options_1) | 创建 [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) 的实例 |
+| [WayLayerGenerator(options)](#WayLayerGenerator_options_1) | 创建一个实例 [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [add_block(x, y, size_x, size_y, velocity)](#add_block_x_y_size_x_size_y_velocity_1) | 向单元格添加块 |
 | [add_road(start_point, end_point, velocity)](#add_road_start_point_end_point_velocity_2) | 向单元格添加道路 |
@@ -32,7 +32,7 @@ url: /zh/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
  WayLayerGenerator(options) 
 ```
 
-创建 [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) 的实例
+创建一个实例 [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/)
 
 **Parameters:**
 
@@ -53,10 +53,10 @@ url: /zh/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| x | int | 块的 x 坐标 |
-| y | int | 块的 y 坐标 |
-| size_x | int | 块的 sizeX |
-| size_y | int | 块的 sizeY |
+| x | 整数 | 块的 x 坐标 |
+| y | 整数 | 块的 y 坐标 |
+| size_x | 整数 | 块的 sizeX |
+| size_y | 整数 | 块的 sizeY |
 | 速度 | double | 块的速度 |
 
 ### Method: add_road(start_point, end_point, velocity) {#add_road_start_point_end_point_velocity_2}

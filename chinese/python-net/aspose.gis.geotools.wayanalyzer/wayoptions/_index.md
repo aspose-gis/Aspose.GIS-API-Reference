@@ -14,22 +14,22 @@ url: /zh/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [WayOptions(scale)](#WayOptions_scale_1) | 使用默认选项创建实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | goal_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | r/w | 路径的目标点 |
 | is_move_only_road | bool | r/w | 仅通过道路查找路径 |
 | is_scale_fixed | bool | r | 比例是否固定 |
 | 半径 | double | r/w | 搜索半径 |
-| 比例 | int | r/w | 地图比例 |
+| 比例 | 整数 | r/w | 地图比例 |
 | start_point | [Point](/psd/python-net/aspose.gis.geometries/point/) | r/w | 路径的起始点 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | 将对象克隆到另一个对象。 |
+| [clone()](#clone__1) | 克隆对象到另一个对象。 |
 
 
 ### Constructor: WayOptions(scale) {#WayOptions_scale_1}
@@ -45,7 +45,7 @@ url: /zh/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 比例 | int | 比例常数 |
+| 比例 | 整数 | 比例常数 |
 
 ### Method: clone() {#clone__1}
 
@@ -54,7 +54,7 @@ url: /zh/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/
  clone() 
 ```
 
-将对象克隆到另一个对象。
+克隆对象到另一个对象。
 
 **Returns**
 

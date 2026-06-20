@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis.geotools.layersmap/mapsizemodes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | AUTO | 自动地图尺寸。 |
 | CUSTOM | 使用选项中的尺寸 [MapOptions.width](/psd/python-net/aspose.gis.geotools.layersmap/mapoptions/) 和 [MapOptions.height](/psd/python-net/aspose.gis.geotools.layersmap/mapoptions/)。 |
-| NONE | 未知的尺寸模式。 |
+| 无 | 未知的尺寸模式。 |

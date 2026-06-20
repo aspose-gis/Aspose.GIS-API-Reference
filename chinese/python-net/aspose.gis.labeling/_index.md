@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.labeling/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [ILabelStyle](/psd/python-net/aspose.gis.labeling/ilabelstyle/) |  |
 | [Label](/psd/python-net/aspose.gis.labeling/label/) |  |

@@ -9,10 +9,10 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [DatReader](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/) |  |
 | [TabFileData](/psd/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |

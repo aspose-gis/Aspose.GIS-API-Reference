@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.painting/paintlayeroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | by_default [static] | [PaintLayerOptions](/psd/python-net/aspose.gis.painting/paintlayeroptions) | r |    |
-| crisp_edges | bool | r |  |
-| opacity | double | r |  |
+| 锐利边缘 | bool | r |  |
+| 不透明度 | double | r |  |
 | scale_x | double | r |  |
 | scale_y | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [allow_crisp_edges()](#allow_crisp_edges__1) |    |
 | [clone()](#clone__2) | 创建一个新对象，该对象是当前实例的副本。 |

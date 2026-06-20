@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.styling/brush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Brush()](#Brush__1) | 初始化 Brush 类的新实例 |
 | [Brush(pattern, fore_color, back_color)](#Brush_pattern_fore_color_back_color_2) | 初始化 Brush 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 背景颜色 | Nullable<Color> | r |  |
+| back_color | Nullable<Color> | r |  |
 | fore_color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) | r |    |
-| 图案 | int | r |  |
+| 图案 | 整数 | r |  |
 
 
 ### Constructor: Brush() {#Brush__1}
@@ -48,7 +48,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.styling/brush/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 图案 | int |  |
+| 图案 | 整数 |  |
 | fore_color | [Color](/psd/python-net/aspose.gis.common.formats.mapinfo.styling/color) |  |
-| 背景颜色 | Nullable<Color> |  |
+| back_color | Nullable<Color> |  |
 

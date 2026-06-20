@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Rectangle()](#Rectangle__1) | 初始化 Rectangle 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 画刷 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Brush> | r/w |  |
 | coordinate1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
@@ -28,7 +28,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | 笔 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -55,6 +55,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/rectangle
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

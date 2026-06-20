@@ -16,17 +16,17 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [MarkerPatternFill()](#MarkerPatternFill__1) | 初始化一个新的 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类实例。 |
-| [MarkerPatternFill(other)](#MarkerPatternFill_other_2) | 初始化一个新的 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类实例。 |
+| [MarkerPatternFill()](#MarkerPatternFill__1) | 初始化 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类的新实例。 |
+| [MarkerPatternFill(other)](#MarkerPatternFill_other_2) | 初始化 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类的新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | horizontal_displacement | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定偶数水平线中标记的水平偏移。 |
 | horizontal_interval | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定标记之间的水平间隔。 |
 | marker | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r/w | 指定用于填充的标记符号器。 |
-| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | 此 [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) 不绘制任何内容，并有效地跳过对其所应用的几何体的渲染。 |
+| null [static] | [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer) | r | 该 [NullVectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/nullvectorsymbolizer/) 不绘制任何内容，并有效地跳过对其所应用的几何体的渲染。 |
 | vertical_displacement | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定偶数垂直线中标记的垂直偏移。 |
 | vertical_interval | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 指定标记之间的垂直间隔。 |
 
@@ -38,7 +38,7 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/
  MarkerPatternFill() 
 ```
 
-初始化一个新的 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类实例。
+初始化 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类的新实例。
 
 ### Constructor: MarkerPatternFill(other) {#MarkerPatternFill_other_2}
 
@@ -47,7 +47,7 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/
  MarkerPatternFill(other) 
 ```
 
-初始化一个新的 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类实例。
+初始化 [MarkerPatternFill](/psd/python-net/aspose.gis.rendering.symbolizers/markerpatternfill/) 类的新实例。
 
 **Parameters:**
 

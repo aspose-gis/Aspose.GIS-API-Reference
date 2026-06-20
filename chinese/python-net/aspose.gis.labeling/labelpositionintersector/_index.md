@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.labeling/labelpositionintersector/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [intersects(position1, position2)](#intersects_position1_position2_1) |    |
 

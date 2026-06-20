@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.rendering.colorizers/rastercolorizer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | 该 [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) 不绘制任何内容，并有效地跳过其所应用的单元格的渲染。 |
 

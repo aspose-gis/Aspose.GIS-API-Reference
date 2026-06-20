@@ -16,7 +16,7 @@ url: /zh/python-net/aspose.gis/featurestyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | null [static] | [IFeatureStyle](/psd/python-net/aspose.gis/ifeaturestyle) | r | 获取空样式的实例。 |
 

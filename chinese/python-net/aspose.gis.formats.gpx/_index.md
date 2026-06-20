@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.formats.gpx/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [GpxDriver](/psd/python-net/aspose.gis.formats.gpx/gpxdriver/) | GPX 格式的驱动程序。 |
-| [GpxOptions](/psd/python-net/aspose.gis.formats.gpx/gpxoptions/) | GPX 格式的特定驱动程序选项。 |
+| [GpxOptions](/psd/python-net/aspose.gis.formats.gpx/gpxoptions/) | GPX 格式的驱动特定选项。 |

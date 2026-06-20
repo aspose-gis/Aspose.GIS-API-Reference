@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.labeling.line/linegeometryutils/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [angle(end, start)](#angle_end_start_1) |    |
 | [angle_anti(end, start)](#angle_anti_end_start_2) |    |
@@ -82,7 +82,7 @@ url: /zh/python-net/aspose.gis.labeling.line/linegeometryutils/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | charter_start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
-| diameter | double |  |
+| 直径 | double |  |
 | segment_start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 | segment_end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) |  |
 

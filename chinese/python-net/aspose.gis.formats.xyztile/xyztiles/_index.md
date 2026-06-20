@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyztiles/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [XyzTiles(connection)](#XyzTiles_connection_1) | 创建一个 [XyzTiles](/psd/python-net/aspose.gis.formats.xyztile/xyztiles/) 实例。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_tile(zoom, x, y)](#get_tile_zoom_x_y_1) | 加载指定的瓦片。 |
 | [get_tile(zoom, x, y, tile_size)](#get_tile_zoom_x_y_tile_size_2) | 加载指定的瓦片。 |
@@ -56,9 +56,9 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyztiles/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 缩放 | int | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
-| x | int | 瓦片的 x 列。 |
-| y | int | 瓦片的 y 行。 |
+| zoom | 整数 | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
+| x | 整数 | 瓦片的 x 列。 |
+| y | 整数 | 瓦片的 y 行。 |
 
 **Returns**
 
@@ -80,10 +80,10 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyztiles/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 缩放 | int | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
-| x | int | 瓦片的 x 列。 |
-| y | int | 瓦片的 y 行。 |
-| tile_size | int | 瓦片大小，默认是 256（这是瓦片尺寸的标准）。 |
+| zoom | 整数 | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
+| x | 整数 | 瓦片的 x 列。 |
+| y | 整数 | 瓦片的 y 行。 |
+| tile_size | 整数 | 瓦片大小，默认是 256（这是瓦片大小的标准） |
 
 **Returns**
 
@@ -105,8 +105,8 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyztiles/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 缩放 | int | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
-| extent | [Extent](/psd/python-net/aspose.gis/extent) | 用于加载瓦片的边界框。如果缺失，将使用 Wgs84 空间参考。 |
+| zoom | 整数 | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
+| extent | [Extent](/psd/python-net/aspose.gis/extent) | 加载瓦片的边界框。如果缺失，将使用 Wgs84 空间参考。 |
 
 **Returns**
 
@@ -128,9 +128,9 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyztiles/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 缩放 | int | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
-| extent | [Extent](/psd/python-net/aspose.gis/extent) | 用于加载瓦片的边界框。如果缺失，将使用 Wgs84 空间参考。 |
-| tile_size | int | 瓦片大小，默认是 256（这是瓦片尺寸的标准）。 |
+| zoom | 整数 | 加载瓦片的缩放级别。最高缩放级别为 0。大多数瓦片提供商的最大缩放级别约为 22。 |
+| extent | [Extent](/psd/python-net/aspose.gis/extent) | 加载瓦片的边界框。如果缺失，将使用 Wgs84 空间参考。 |
+| tile_size | 整数 | 瓦片大小，默认是 256（这是瓦片大小的标准） |
 
 **Returns**
 

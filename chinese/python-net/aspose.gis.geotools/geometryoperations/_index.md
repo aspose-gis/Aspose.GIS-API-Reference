@@ -14,19 +14,19 @@ url: /zh/python-net/aspose.gis.geotools/geometryoperations/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [build_centerline(polygon)](#build_centerline_polygon_1) | 为多边形构建中心线图 |
 | [build_centerline(sites)](#build_centerline_sites_2) | 为点集合（站点）构建中心线图 |
-| [close_linear_ring(geometry)](#close_linear_ring_geometry_3) | 在需要时闭合环中的几何线段。 |
-| [create_midpoints(geometry)](#create_midpoints_geometry_4) | 通过在每个线段的中间添加新点来创建中点。 |
+| [close_linear_ring(geometry)](#close_linear_ring_geometry_3) | 在需要时闭合环中的几何段。 |
+| [create_midpoints(geometry)](#create_midpoints_geometry_4) | 通过在每个段的中间添加新点来创建中点。 |
 | [delete_near_points(geometry, options)](#delete_near_points_geometry_options_5) | 删除彼此过于接近的点。 |
 | [extract_geometry_collection(layer)](#extract_geometry_collection_layer_6) | 从图层中提取几何集合 |
 | [get_centerline_length(polygon)](#get_centerline_length_polygon_7) | 获取中心线长度 |
 | [get_centerline_length(sites)](#get_centerline_length_sites_8) | 获取中心线长度 |
-| [make_voronoi_graph(sites)](#make_voronoi_graph_sites_9) | 为点集合（站点）构建 “Voronoi” 图 |
-| [order_geometry_collection(geometry)](#order_geometry_collection_geometry_10) | 按类型将几何集合排序为四个集合（点、线、面和其他类型） |
-| [simplify_segments(geometry, options)](#simplify_segments_geometry_options_11) | 删除位于同一线段上的点。 |
+| [make_voronoi_graph(sites)](#make_voronoi_graph_sites_9) | 为点集合（站点）构建"Voronoi"图 |
+| [order_geometry_collection(geometry)](#order_geometry_collection_geometry_10) | 按类型将几何集合排序为四个集合（点、线、多边形和其他类型） |
+| [simplify_segments(geometry, options)](#simplify_segments_geometry_options_11) | 删除位于同一段上的点。 |
 
 
 ### Method: build_centerline(polygon)  [static] {#build_centerline_polygon_1}
@@ -80,19 +80,19 @@ url: /zh/python-net/aspose.gis.geotools/geometryoperations/
  close_linear_ring(geometry) 
 ```
 
-在需要时闭合环中的几何线段。
+在需要时闭合环中的几何段。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | 用于闭合的几何体。 |
+| geometry | [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | 用于闭合的几何。 |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | 闭合后的几何体。 |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | 闭合后的几何。 |
 
 
 ### Method: create_midpoints(geometry)  [static] {#create_midpoints_geometry_4}
@@ -102,7 +102,7 @@ url: /zh/python-net/aspose.gis.geotools/geometryoperations/
  create_midpoints(geometry) 
 ```
 
-通过在每个线段的中间添加新点来创建中点。
+通过在每个段的中间添加新点来创建中点。
 
 **Parameters:**
 
@@ -213,7 +213,7 @@ url: /zh/python-net/aspose.gis.geotools/geometryoperations/
  make_voronoi_graph(sites) 
 ```
 
-为点集合（站点）构建 “Voronoi” 图
+为点集合（站点）构建"Voronoi"图
 
 **Parameters:**
 
@@ -235,7 +235,7 @@ url: /zh/python-net/aspose.gis.geotools/geometryoperations/
  order_geometry_collection(geometry) 
 ```
 
-按类型将几何集合排序为四个集合（点、线、面和其他类型）
+按类型将几何集合排序为四个集合（点、线、多边形和其他类型）
 
 **Parameters:**
 
@@ -247,7 +247,7 @@ url: /zh/python-net/aspose.gis.geotools/geometryoperations/
 
 | 类型 | 描述 |
 | :- | :- |
-| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | 该集合包含四个集合（点、线、多边形和其他类型） |
+| [IGeometry](/psd/python-net/aspose.gis.geometries/igeometry/) | 该集合包含四个子集合（点、线、多边形和其他类型） |
 
 
 ### Method: simplify_segments(geometry, options)  [static] {#simplify_segments_geometry_options_11}
@@ -257,7 +257,7 @@ url: /zh/python-net/aspose.gis.geotools/geometryoperations/
  simplify_segments(geometry, options) 
 ```
 
-删除位于同一线段上的点。
+删除位于同一段上的点。
 
 **Parameters:**
 

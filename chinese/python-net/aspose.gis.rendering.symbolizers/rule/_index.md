@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/rule/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | is_else_rule | bool | r | 获取一个值，指示此规则是否为 "else-rule"。 |
 | is_filter_rule | bool | r | 获取一个值，指示此规则是否为 "filter-rule"。 |
 | symbolizer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer) | r | 要应用于要素的符号化器。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [create_else_rule(symbolizer)](#create_else_rule_symbolizer_1) | 创建新的规则，在要素不匹配任何过滤规则时将符号化器应用于要素。 |
+| [create_else_rule(symbolizer)](#create_else_rule_symbolizer_1) | 创建新的规则，当要素不匹配任何过滤规则时，将符号化器应用于要素。 |
 
 
 ### Method: create_else_rule(symbolizer)  [static] {#create_else_rule_symbolizer_1}
@@ -32,7 +32,7 @@ url: /zh/python-net/aspose.gis.rendering.symbolizers/rule/
  create_else_rule(symbolizer) 
 ```
 
-创建新的规则，在要素不匹配任何过滤规则时将符号化器应用于要素。
+创建新的规则，当要素不匹配任何过滤规则时，将符号化器应用于要素。
 
 **Parameters:**
 

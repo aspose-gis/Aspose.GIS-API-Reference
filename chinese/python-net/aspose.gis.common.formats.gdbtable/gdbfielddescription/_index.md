@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbfielddescription/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GdbFieldDescription(type)](#GdbFieldDescription_type_1) | 初始化 GdbFieldDescription 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 别名 | string | r/w |  |
 | default_value | object | r/w |  |

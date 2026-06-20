@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.epsg/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [CompoundCrsEntry](/psd/python-net/aspose.gis.epsg/compoundcrsentry/) |  |
 | [EllipsoidEntry](/psd/python-net/aspose.gis.epsg/ellipsoidentry/) |  |

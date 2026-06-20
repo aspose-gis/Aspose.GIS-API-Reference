@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.formats.database/databaseexternalsrssettingsbuild
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [end_external_srs()](#end_external_srs__1) | 完成外部 SRS 的配置并返回父上下文。 |
 | [external_srs_fields(auth_srid_field, sr_text_field)](#external_srs_fields_auth_srid_field_sr_text_field_2) | 指定用于读取额外请求的空间参考系统信息的特殊字段名称。 |

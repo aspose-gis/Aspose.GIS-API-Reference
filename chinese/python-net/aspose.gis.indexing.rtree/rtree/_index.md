@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.indexing.rtree/rtree/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | is_new | bool | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | insert(data_extent, data_id) |  |
 | [nearest_candidate_to(point)](#nearest_candidate_to_point_1) |    |
@@ -88,7 +88,7 @@ url: /zh/python-net/aspose.gis.indexing.rtree/rtree/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
-| max_values_per_node | int |  |
+| max_values_per_node | 整数 |  |
 
 **Returns**
 
@@ -133,7 +133,7 @@ url: /zh/python-net/aspose.gis.indexing.rtree/rtree/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| max_values_per_node | int |  |
+| max_values_per_node | 整数 |  |
 
 **Returns**
 

@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis/gisexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GisException()](#GisException__1) | 初始化一个新的 [GisException](/psd/python-net/aspose.gis/gisexception/) 类实例。 |
 | [GisException(message)](#GisException_message_2) | 初始化一个新的 [GisException](/psd/python-net/aspose.gis/gisexception/) 类实例。 |

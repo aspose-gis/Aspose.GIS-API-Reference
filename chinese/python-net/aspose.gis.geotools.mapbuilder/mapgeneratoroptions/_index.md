@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapGeneratorOptions()](#MapGeneratorOptions__1) | 使用默认选项创建实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| height | int | r/w | 地图的高度（行数）。 |
-| width | int | r/w | 地图的宽度（列数）。 |
+| 高度 | 整数 | r/w | 地图的高度（行数）。 |
+| width | 整数 | r/w | 地图的宽度（列数）。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | 将对象克隆到另一个对象。 |
+| [clone()](#clone__1) | 克隆对象到另一个对象。 |
 
 
 ### Constructor: MapGeneratorOptions() {#MapGeneratorOptions__1}
@@ -44,7 +44,7 @@ url: /zh/python-net/aspose.gis.geotools.mapbuilder/mapgeneratoroptions/
  clone() 
 ```
 
-将对象克隆到另一个对象。
+克隆对象到另一个对象。
 
 **Returns**
 

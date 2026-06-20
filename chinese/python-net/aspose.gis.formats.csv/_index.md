@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.formats.csv/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [CsvDriver](/psd/python-net/aspose.gis.formats.csv/csvdriver/) | 用于 CSV 格式的驱动程序。 |
-| [CsvOptions](/psd/python-net/aspose.gis.formats.csv/csvoptions/) | CSV 格式的特定驱动选项。 |
+| [CsvOptions](/psd/python-net/aspose.gis.formats.csv/csvoptions/) | CSV 格式的特定驱动程序选项。 |
