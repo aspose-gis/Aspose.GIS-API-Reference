@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.labeling.line/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [CompoundLabelPosition](/psd/python-net/aspose.gis.labeling.line/compoundlabelposition/) |  |
 | [CurvedLinePlacer](/psd/python-net/aspose.gis.labeling.line/curvedlineplacer/) |  |

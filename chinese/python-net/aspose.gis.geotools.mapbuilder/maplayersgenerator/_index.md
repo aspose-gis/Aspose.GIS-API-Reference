@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapLayersGenerator()](#MapLayersGenerator__1) | 初始化 MapLayersGenerator 类的新实例 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [get_list_of_layers(options)](#get_list_of_layers_options_1) | 获取图层列表：roadLayer、buildingLayer、parkLayer、parkRoadLayer、industrialLayer。 |
+| [get_list_of_layers(options)](#get_list_of_layers_options_1) | 获取图层列表：roadLayer, buildingLayer, parkLayer, parkRoadLayer, industrialLayer。 |
 | [produce_map(options)](#produce_map_options_2) | 生成地图。 |
 
 
@@ -40,7 +40,7 @@ url: /zh/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
  get_list_of_layers(options) 
 ```
 
-获取图层列表：roadLayer、buildingLayer、parkLayer、parkRoadLayer、industrialLayer。
+获取图层列表：roadLayer, buildingLayer, parkLayer, parkRoadLayer, industrialLayer。
 
 **Parameters:**
 
@@ -52,7 +52,7 @@ url: /zh/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 
 | 类型 | 描述 |
 | :- | :- |
-| System.Collections.Generic.List<VectorLayer> | 包含生成几何的图层列表。 |
+| System.Collections.Generic.List<VectorLayer> | 带有生成几何的图层列表。 |
 
 
 ### Method: produce_map(options)  [static] {#produce_map_options_2}
@@ -74,6 +74,6 @@ url: /zh/python-net/aspose.gis.geotools.mapbuilder/maplayersgenerator/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Map](/psd/python-net/aspose.gis.rendering/map/) | 完成的地图。 |
+| [Map](/psd/python-net/aspose.gis.rendering/map/) | 已完成的地图。 |
 
 

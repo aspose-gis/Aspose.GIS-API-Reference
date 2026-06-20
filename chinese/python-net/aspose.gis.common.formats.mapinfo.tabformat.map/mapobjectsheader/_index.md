@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjectshe
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapObjectsHeader()](#MapObjectsHeader__1) | 初始化 MapObjectsHeader 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| center_x | int | r/w |  |
-| center_y | int | r/w |  |
-| 第一个坐标块 | int | r/w |  |
+| center_x | 整数 | r/w |  |
+| center_y | 整数 | r/w |  |
+| first_coordinate_block | 整数 | r/w |  |
 | 标识符 | short | r/w |  |
-| 最后坐标块 | int | r/w |  |
-| 已用字节计数 | short | r/w |  |
+| last_coordinate_block | 整数 | r/w |  |
+| used_bytes_count | short | r/w |  |
 
 
 ### Constructor: MapObjectsHeader() {#MapObjectsHeader__1}

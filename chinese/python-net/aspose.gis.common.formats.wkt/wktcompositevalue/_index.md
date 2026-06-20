@@ -16,13 +16,13 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r |  |
+| 计数 | 整数 | r |  |
 | 名称 | string | r |  |
 | parent | [WktCompositeValue](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(wkt)](#create_wkt_1) |    |
 | [get_composite_value(index)](#get_composite_value_index_2) |    |
@@ -78,7 +78,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 
 **Returns**
 
@@ -100,7 +100,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 | expected_name | string |  |
 
 **Returns**
@@ -174,7 +174,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: get_double(index) {#get_double_index_7}
@@ -190,7 +190,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 
 **Returns**
 
@@ -212,7 +212,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: get_integer(index) {#get_integer_index_9}
@@ -228,13 +228,13 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: get_keyword(index) {#get_keyword_index_10}
@@ -250,7 +250,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 
 **Returns**
 
@@ -272,14 +272,14 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
-| default_value | int |  |
+| index | 整数 |  |
+| default_value | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: get_string(index) {#get_string_index_12}
@@ -295,7 +295,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 
 **Returns**
 
@@ -333,7 +333,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 | expected_name | string |  |
 | output | [WktCompositeValue[]](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
@@ -357,7 +357,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
+| index | 整数 |  |
 | output | [WktCompositeValue[]](/psd/python-net/aspose.gis.common.formats.wkt/wktcompositevalue) |  |
 
 **Returns**
@@ -403,8 +403,8 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wktcompositevalue/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int |  |
-| 输出 | float[] |  |
+| index | 整数 |  |
+| output | float[] |  |
 
 **Returns**
 

@@ -16,18 +16,18 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Point()](#Point__1) | 初始化 Point 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinate | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | 符号 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Symbol> | r/w |  |
 | symbol_id | byte | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -54,6 +54,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/point/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

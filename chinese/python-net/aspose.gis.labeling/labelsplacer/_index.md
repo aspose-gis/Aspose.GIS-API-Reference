@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.labeling/labelsplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [LabelsPlacer(bounding_rectangle)](#LabelsPlacer_bounding_rectangle_1) | 初始化 LabelsPlacer 类的新实例 |
 | [LabelsPlacer(x_min, y_min, x_max, y_max)](#LabelsPlacer_x_min_y_min_x_max_y_max_2) | 初始化 LabelsPlacer 类的新实例 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | add_label_to_place(label) |  |
 | add_label_to_place(text, style, positions) |  |

@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat/tabfiledata/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinate_system | [CoordinateSystem](/psd/python-net/aspose.gis.common.formats.mapinfo/coordinatesystem) | r |    |
 | 字段 | System.Collections.Generic.IReadOnlyList<Column> | r |  |
 | table_encoding | System.Text.Encoding | r |  |
 | table_type | string | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [read(tab_file_path)](#read_tab_file_path_1) |    |
 | [read(tab_path)](#read_tab_path_2) |    |

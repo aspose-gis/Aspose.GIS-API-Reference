@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.rendering.labelings/labelingrule/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | is_else_rule | bool | r | 获取一个值，指示此规则是否为 "else-rule"。 |
 | is_filter_rule | bool | r | 获取一个值，指示此规则是否为 "filter-rule"。 |
 | labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling) | r | 要应用于要素的标注。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [create_else_rule(labeling)](#create_else_rule_labeling_1) | 创建一个新规则，当它不匹配任何过滤规则时，将标注应用于要素。 |
+| [create_else_rule(labeling)](#create_else_rule_labeling_1) | 创建一个新规则，在要素不匹配任何过滤规则时应用标注。 |
 
 
 ### Method: create_else_rule(labeling)  [static] {#create_else_rule_labeling_1}
@@ -32,7 +32,7 @@ url: /zh/python-net/aspose.gis.rendering.labelings/labelingrule/
  create_else_rule(labeling) 
 ```
 
-创建一个新规则，当它不匹配任何过滤规则时，将标注应用于要素。
+创建一个新规则，在要素不匹配任何过滤规则时应用标注。
 
 **Parameters:**
 

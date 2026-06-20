@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.labeling/simplelabelposition/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [SimpleLabelPosition(rectangle, rotation, cost)](#SimpleLabelPosition_rectangle_rotation_cost_1) | 初始化 SimpleLabelPosition 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bottom_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) | r |    |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |

@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common/matrixtransformation/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MatrixTransformation()](#MatrixTransformation__1) | 初始化 MatrixTransformation 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | dx | double | r/w |  |
 | dy | double | r/w |  |
@@ -30,12 +30,12 @@ url: /zh/python-net/aspose.gis.common/matrixtransformation/
 | m22 | double | r/w |  |
 | 旋转 | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | 创建一个新对象，该对象是当前实例的副本。 |
 | lock_from_editing() |  |
 | rotate(cos, sin) |  |
-| rotate(度) |  |
+| rotate(degrees) |  |
 | scale(zoom_x, zoom_y) |  |
 | [transform(coordinate)](#transform_coordinate_2) |    |
 | [transform(x, y)](#transform_x_y_3) |    |

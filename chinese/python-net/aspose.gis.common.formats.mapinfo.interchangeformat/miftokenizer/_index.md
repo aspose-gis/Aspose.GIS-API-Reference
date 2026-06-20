@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MifTokenizer(path)](#MifTokenizer_path_1) | 初始化 MifTokenizer 类的新实例 |
 | [MifTokenizer(path)](#MifTokenizer_path_2) | 初始化 MifTokenizer 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 编码 | System.Text.Encoding | r/w |  |
-| line_number | long | r |  |
-| 位置 | long | r |  |
+| line_number | 长整数 | r |  |
+| 位置 | 长整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [peek_token()](#peek_token__1) |    |
 | [read_char(description)](#read_char_description_2) |    |
@@ -148,7 +148,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: read_keyword(description) {#read_keyword_description_5}

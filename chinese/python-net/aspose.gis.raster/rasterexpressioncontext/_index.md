@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.raster/rasterexpressioncontext/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [RasterExpressionContext()](#RasterExpressionContext__1) | 初始化 RasterExpressionContext 类的新实例 |
 | [RasterExpressionContext(cell_x, cell_y)](#RasterExpressionContext_cell_x_cell_y_2) | 创建 [RasterExpressionContext](/psd/python-net/aspose.gis.raster/rasterexpressioncontext/) 的实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| cell_x | int | r | 获取或设置列值（x 坐标）。编号从 0 开始。 |
-| cell_y | int | r | 获取或设置行值（y 坐标）。编号从 0 开始。 |
+| cell_x | 整数 | r | 获取或设置列值（x 坐标）。编号从 0 开始。 |
+| cell_y | 整数 | r | 获取或设置行值（y 坐标）。编号从 0 开始。 |
 
 
 ### Constructor: RasterExpressionContext() {#RasterExpressionContext__1}
@@ -47,6 +47,6 @@ url: /zh/python-net/aspose.gis.raster/rasterexpressioncontext/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| cell_x | int | 列值（x 坐标）。 |
-| cell_y | int | 行值（y 坐标）。 |
+| cell_x | 整数 | 列值（x 坐标）。 |
+| cell_y | 整数 | 行值（y 坐标）。 |
 

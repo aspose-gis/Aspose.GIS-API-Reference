@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common/boundingbox/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [BoundingBox()](#BoundingBox__1) | 初始化 BoundingBox 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle) | r |    |
 | has_m | bool | r |  |
@@ -41,7 +41,7 @@ url: /zh/python-net/aspose.gis.common/boundingbox/
 | z_max | double | r/w |  |
 | z_min | double | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | clear() |  |
 | [clone()](#clone__1) | 创建一个新对象，该对象是当前实例的副本。 |

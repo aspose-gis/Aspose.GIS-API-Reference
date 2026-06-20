@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.io/bufferingreadstream/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [BufferingReadStream(stream)](#BufferingReadStream_stream_1) | 初始化 BufferingReadStream 类的新实例 |
 

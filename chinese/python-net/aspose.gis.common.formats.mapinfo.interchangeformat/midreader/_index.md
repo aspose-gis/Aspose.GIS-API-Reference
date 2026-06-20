@@ -16,7 +16,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/midreade
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MidReader(path, separator, encoding)](#MidReader_path_separator_encoding_1) | 初始化 MidReader 类的新实例 |
 | [MidReader(path, separator, encoding)](#MidReader_path_separator_encoding_2) | 初始化 MidReader 类的新实例 |

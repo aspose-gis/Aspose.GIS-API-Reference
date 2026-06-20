@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis.common.formats.xml/xmlindex/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r |  |
+| 计数 | 整数 | r |  |
 
 

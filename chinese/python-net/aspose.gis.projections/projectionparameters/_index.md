@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.projections/projectionparameters/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [ProjectionParameters()](#ProjectionParameters__1) | 初始化 ProjectionParameters 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 方位角 | Nullable<double> | r/w |  |
 | ellipsoid_properties | [EllipsoidProperties](/psd/python-net/aspose.gis.projections/ellipsoidproperties) | r/w |    |

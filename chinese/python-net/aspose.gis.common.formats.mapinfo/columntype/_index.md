@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/columntype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | CHAR |  |
 | DATE |  |
@@ -24,5 +24,5 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/columntype/
 | 整数 |  |
 | LARGE_INTEGER |  |
 | LOGICAL |  |
-| SMALL_INTEGER |  |
+| 小整数 |  |
 | 时间 |  |

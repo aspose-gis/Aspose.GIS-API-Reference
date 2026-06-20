@@ -14,19 +14,19 @@ url: /zh/python-net/aspose.gis.geotools/pointgeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [PointGeneratorOptions()](#PointGeneratorOptions__1) | 使用默认选项创建实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r/w | 要创建的点数。 |
+| 计数 | 整数 | r/w | 要创建的点数。 |
 | place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | 生成单元格中的放置模式。 |
-| seed | int | r/w | 用于计算伪随机数序列的种子值的数字。 |
+| 种子 | 整数 | r/w | 用于计算伪随机数序列的种子值的数字。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | 将对象克隆到另一个对象。 |
+| [clone()](#clone__1) | 克隆对象到另一个对象。 |
 
 
 ### Constructor: PointGeneratorOptions() {#PointGeneratorOptions__1}
@@ -45,7 +45,7 @@ url: /zh/python-net/aspose.gis.geotools/pointgeneratoroptions/
  clone() 
 ```
 
-将对象克隆到另一个对象。
+克隆对象到另一个对象。
 
 **Returns**
 

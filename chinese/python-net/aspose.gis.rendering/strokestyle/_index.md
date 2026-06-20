@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.rendering/strokestyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
-| CUSTOM | 自定义破折线模式线。 |
-| DASH | 指定一条破折线。 |
-| DASH_DOT | 指定交替的点和破折线。 |
-| DASH_DOT_DOT | 指定一条破折点点线。 |
-| DOT | 指定一条点状线。 |
-| NONE | 指定不应绘制任何线条。 |
-| SOLID | 指定一条实线。 |
+| CUSTOM | 自定义破折号模式线。 |
+| DASH | 指定破折号线。 |
+| DASH_DOT | 指定交替的点和破折号。 |
+| DASH_DOT_DOT | 指定破折号-点-点线。 |
+| DOT | 指定点线。 |
+| 无 | 指定不应绘制任何线。 |
+| SOLID | 指定实线。 |

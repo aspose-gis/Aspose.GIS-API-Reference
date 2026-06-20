@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.common/beziercurve/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [BezierCurve(c0, c1, c2, c3)](#BezierCurve_c0_c1_c2_c3_1) | 初始化 BezierCurve 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | c0 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | c1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | c2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | c3 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [coordinate_at(t)](#coordinate_at_t_1) |    |
 | linearize(coordinates, step_size_in_degree) |  |

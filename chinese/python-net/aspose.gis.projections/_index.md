@@ -9,13 +9,13 @@ url: /zh/python-net/aspose.gis.projections/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [EllipsoidProperties](/psd/python-net/aspose.gis.projections/ellipsoidproperties/) |  |
 | [Projection](/psd/python-net/aspose.gis.projections/projection/) |  |
 | [ProjectionException](/psd/python-net/aspose.gis.projections/projectionexception/) |  |
 | [ProjectionParameters](/psd/python-net/aspose.gis.projections/projectionparameters/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [ProjectionMethodIdentifier](/psd/python-net/aspose.gis.projections/projectionmethodidentifier/) |  |

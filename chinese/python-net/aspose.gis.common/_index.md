@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.common/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal/) |  |
 | [AbstractPathInternalExtensions](/psd/python-net/aspose.gis.common/abstractpathinternalextensions/) |  |
@@ -33,6 +33,6 @@ url: /zh/python-net/aspose.gis.common/
 | [Size](/psd/python-net/aspose.gis.common/size/) |  |
 | [StringOperations](/psd/python-net/aspose.gis.common/stringoperations/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [Quadrant](/psd/python-net/aspose.gis.common/quadrant/) |  |

@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.imagemetadata/geolocation/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 纬度 | double | r | GeoLocation 的纬度 |
 | 经度 | double | r | GeoLocation 的经度 |

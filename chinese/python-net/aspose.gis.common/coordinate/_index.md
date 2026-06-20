@@ -14,19 +14,19 @@ url: /zh/python-net/aspose.gis.common/coordinate/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Coordinate()](#Coordinate__1) | 初始化 Coordinate 类的新实例 |
 | [Coordinate(x, y)](#Coordinate_x_y_2) | 初始化 Coordinate 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | max_value [static] | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | min_value [static] | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | x | double | r |  |
 | y | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [compare_to(other)](#compare_to_other_1) |    |
 | [distance_to(other)](#distance_to_other_2) |    |
@@ -77,7 +77,7 @@ url: /zh/python-net/aspose.gis.common/coordinate/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: distance_to(other) {#distance_to_other_2}

@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [BursaWolfParameters(dx, dy, dz)](#BursaWolfParameters_dx_dy_dz_1) | 创建 [BursaWolfParameters](/psd/python-net/aspose.gis.spatialreferencing/bursawolfparameters/) 的新实例。 |
 | [BursaWolfParameters(dx, dy, dz, rx, ry, rz, scale)](#BursaWolfParameters_dx_dy_dz_rx_ry_rz_scale_2) | 创建 [BursaWolfParameters](/psd/python-net/aspose.gis.spatialreferencing/bursawolfparameters/) 的新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | dx | double | r | Dx（米）。 |
 | dy | double | r | Dy（米）。 |
@@ -29,7 +29,7 @@ url: /zh/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 | rx | double | r | Rx（秒）。 |
 | ry | double | r | Ry（秒）。 |
 | rz | double | r | Rz（秒）。 |
-| 比例 | double | r | 比例（每百万分之一）。 |
+| 比例 | double | r | 比例（百万分之一）。 |
 
 
 ### Constructor: BursaWolfParameters(dx, dy, dz) {#BursaWolfParameters_dx_dy_dz_1}
@@ -68,5 +68,5 @@ url: /zh/python-net/aspose.gis.spatialreferencing/bursawolfparameters/
 | rx | double | Rx（秒）。 |
 | ry | double | Ry（秒）。 |
 | rz | double | Rz（秒）。 |
-| 比例 | double | 比例（每百万分之一）。 |
+| 比例 | double | 比例（百万分之一）。 |
 

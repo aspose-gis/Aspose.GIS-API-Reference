@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.formats.esriascii/esriasciidriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | can_open_layers | bool | r | 获取一个值，指示此驱动程序是否可以打开栅格图层。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [open_layer(path)](#open_layer_path_1) | 打开该图层进行读取。 |
 | [open_layer(path)](#open_layer_path_2) | 打开该图层进行读取。 |
@@ -49,7 +49,7 @@ url: /zh/python-net/aspose.gis.formats.esriascii/esriasciidriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 实例。 |
+| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 的实例。 |
 
 
 ### Method: open_layer(path) {#open_layer_path_2}
@@ -71,7 +71,7 @@ url: /zh/python-net/aspose.gis.formats.esriascii/esriasciidriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 实例。 |
+| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 的实例。 |
 
 
 ### Method: open_layer(path, options) {#open_layer_path_options_3}
@@ -94,7 +94,7 @@ url: /zh/python-net/aspose.gis.formats.esriascii/esriasciidriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 实例。 |
+| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 的实例。 |
 
 
 ### Method: open_layer(path, options) {#open_layer_path_options_4}
@@ -117,7 +117,7 @@ url: /zh/python-net/aspose.gis.formats.esriascii/esriasciidriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 实例。 |
+| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 的实例。 |
 
 
 ### Method: open_layer(path, options) {#open_layer_path_options_5}
@@ -140,7 +140,7 @@ url: /zh/python-net/aspose.gis.formats.esriascii/esriasciidriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 实例。 |
+| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 的实例。 |
 
 
 ### Method: open_layer(path, options) {#open_layer_path_options_6}
@@ -163,6 +163,6 @@ url: /zh/python-net/aspose.gis.formats.esriascii/esriasciidriver/
 
 | 类型 | 描述 |
 | :- | :- |
-| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 实例。 |
+| [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) | 一个 [RasterLayer](/psd/python-net/aspose.gis.raster/rasterlayer/) 的实例。 |
 
 

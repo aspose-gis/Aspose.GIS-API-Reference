@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.formats.bmpw/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [BmpWDriver](/psd/python-net/aspose.gis.formats.bmpw/bmpwdriver/) | BmpW 栅格的驱动程序。 |

@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common/idsequence/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [IdSequence(prefix)](#IdSequence_prefix_1) | 初始化 IdSequence 类的新实例 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_next()](#get_next__1) |    |
 

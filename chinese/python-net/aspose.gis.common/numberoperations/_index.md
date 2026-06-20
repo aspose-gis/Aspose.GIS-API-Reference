@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common/numberoperations/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | EPSILON [静态] | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [clamp(value, min, max)](#clamp_value_min_max_1) |    |
 | [degrees_to_radians(degrees)](#degrees_to_radians_degrees_2) |    |
@@ -91,7 +91,7 @@ url: /zh/python-net/aspose.gis.common/numberoperations/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 度 | int |  |
+| 度 | 整数 |  |
 
 **Returns**
 
@@ -256,7 +256,7 @@ url: /zh/python-net/aspose.gis.common/numberoperations/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | longitude_in_radians | double |  |
-| 容差 | double |  |
+| tolerance | double |  |
 
 **Returns**
 

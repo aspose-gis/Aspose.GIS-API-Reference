@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/kmldisplaymodes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | HIDE | 指定隐藏该元素。 |
-| SHOW | 指定显示该元素（在 kml 规范中称为“默认”。） |
+| SHOW | 指定显示该元素（在 kml 规范中称为 'default'）。 |

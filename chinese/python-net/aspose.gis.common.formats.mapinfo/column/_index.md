@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/column/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Column()](#Column__1) | 初始化 Column 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | column_type | [ColumnType](/psd/python-net/aspose.gis.common.formats.mapinfo/columntype) | r/w |    |
 | 名称 | string | r/w |  |
-| precision | int | r/w |  |
-| width | int | r/w |  |
+| precision | 整数 | r/w |  |
+| width | 整数 | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_type(type_name)](#get_type_type_name_1) |    |
 

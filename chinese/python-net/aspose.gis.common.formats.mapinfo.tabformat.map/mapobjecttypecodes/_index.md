@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapobjecttyp
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | ARC |  |
-| 集合 |  |
+| COLLECTION |  |
 | CUSTOM_POINT |  |
 | ELLIPSE |  |
 | FONT_POINT |  |
 | LINE |  |
 | MULTI_POINT |  |
 | MULTI_POLYLINE |  |
-| NONE |  |
+| 无 |  |
 | POINT |  |
 | POLYLINE |  |
 | RECTANGLE |  |

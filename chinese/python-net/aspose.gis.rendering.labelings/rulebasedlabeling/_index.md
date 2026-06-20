@@ -16,15 +16,15 @@ url: /zh/python-net/aspose.gis.rendering.labelings/rulebasedlabeling/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [RuleBasedLabeling()](#RuleBasedLabeling__1) | 初始化 RuleBasedLabeling 类的新实例。 |
+| [RuleBasedLabeling()](#RuleBasedLabeling__1) | 初始化 RuleBasedLabeling 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | null [static] | [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling) | r | 获取 [NullLabeling](/psd/python-net/aspose.gis.rendering.labelings/nulllabeling/) 的实例。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [add(rule)](#add_rule_1) | 添加规则。 |
 | [add_else_rule(labeling)](#add_else_rule_labeling_2) | 添加一个标注，将应用于不匹配任何过滤规则的要素。 |
@@ -37,7 +37,7 @@ url: /zh/python-net/aspose.gis.rendering.labelings/rulebasedlabeling/
  RuleBasedLabeling() 
 ```
 
-初始化 RuleBasedLabeling 类的新实例。
+初始化 RuleBasedLabeling 类的新实例
 
 ### Method: add(rule) {#add_rule_1}
 

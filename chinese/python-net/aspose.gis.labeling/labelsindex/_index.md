@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.labeling/labelsindex/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [LabelsIndex()](#LabelsIndex__1) | 初始化 LabelsIndex 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r |  |
+| 计数 | 整数 | r |  |
 | 标签 | System.Collections.Generic.IEnumerable<PlacedLabel> | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | add_label(label) |  |
 | [has_intersections(position)](#has_intersections_position_1) |    |

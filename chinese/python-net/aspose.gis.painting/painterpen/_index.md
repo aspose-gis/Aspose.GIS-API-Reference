@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.painting/painterpen/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [PainterPen()](#PainterPen__1) | 初始化 PainterPen 类的新实例 |
 | [PainterPen(color, width, style, line_join)](#PainterPen_color_width_style_line_join_2) | 初始化 PainterPen 类的新实例 |
 | [PainterPen(options)](#PainterPen_options_3) | 初始化 PainterPen 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | cap_style | [PenCapStyle](/psd/python-net/aspose.gis.painting/pencapstyle) | r |    |
 | 颜色 | System.Drawing.Color | r |  |

@@ -14,15 +14,15 @@ url: /zh/python-net/aspose.gis.common.formats.wkt/wkttokenizer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [WktTokenizer(text)](#WktTokenizer_text_1) | 初始化 WktTokenizer 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | current_token | [WktToken](/psd/python-net/aspose.gis.common.formats.wkt/wkttoken) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | extract_next_token() |  |
 

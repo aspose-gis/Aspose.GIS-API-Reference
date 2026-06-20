@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.geotools/simplifysegmentsoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [SimplifySegmentsOptions()](#SimplifySegmentsOptions__1) | 默认创建一个带有初始化字段的实例。 |
+| [SimplifySegmentsOptions()](#SimplifySegmentsOptions__1) | 默认使用初始化字段创建实例。 |
 | [SimplifySegmentsOptions(source)](#SimplifySegmentsOptions_source_2) | 创建实例的副本 [SimplifySegmentsOptions](/psd/python-net/aspose.gis.geotools/simplifysegmentsoptions/)。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 距离 | double | r/w | 用于检查的参数是点是否接近线段。默认值为 0。 |
+| 距离 | double | r/w | 用于检查点是否靠近线段的参数。默认值为 0。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | 创建对象的副本。 |
 
@@ -35,7 +35,7 @@ url: /zh/python-net/aspose.gis.geotools/simplifysegmentsoptions/
  SimplifySegmentsOptions() 
 ```
 
-默认创建一个带有初始化字段的实例。
+默认使用初始化字段创建实例。
 
 ### Constructor: SimplifySegmentsOptions(source) {#SimplifySegmentsOptions_source_2}
 

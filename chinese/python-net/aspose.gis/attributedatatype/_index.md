@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis/attributedatatype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
-| BOOLEAN | 布尔（true/false）值。 |
-| DATE | 日期值。 |
-| DATE_TIME | 日期时间值。 |
+| BOOLEAN | 布尔 (true/false) 值。 |
+| DATE | Date 值。 |
+| DATE_TIME | Date and time 值。 |
 | DOUBLE | 双精度实数。 |
-| GUID | 全局唯一标识符（GUID）。 |
+| GUID | 全局唯一标识符 (GUID)。 |
 | 整数 | 32 位整数。 |
 | 长整数 | 64 位整数。 |
 | 字符串 | 字符串值。 |

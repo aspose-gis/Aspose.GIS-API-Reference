@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtableshapetype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | MULTI_PATCH |  |
 | MULTI_POINT |  |
-| NONE |  |
+| 无 |  |
 | POINT |  |
 | POLYGON |  |
 | POLYLINE |  |

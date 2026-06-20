@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.projections/ellipsoidproperties/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [EllipsoidProperties(semi_major_axis, inverse_flattening)](#EllipsoidProperties_semi_major_axis_inverse_flattening_1) | 初始化 EllipsoidProperties 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | first_eccentricity | double | r |  |
 | first_eccentricity_squared | double | r |  |

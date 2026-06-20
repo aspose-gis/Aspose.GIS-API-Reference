@@ -14,10 +14,10 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbcurvesegmenttype/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
-| BEZIER |  |
-| CIRCULAR_ARC |  |
-| ELLIPTIC_ARC |  |
+| 贝塞尔 |  |
+| 圆弧 |  |
+| 椭圆弧 |  |
 | LINE |  |
-| SPIRAL |  |
+| 螺旋 |  |

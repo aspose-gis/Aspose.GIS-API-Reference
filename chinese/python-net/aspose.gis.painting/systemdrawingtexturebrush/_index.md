@@ -16,15 +16,15 @@ url: /zh/python-net/aspose.gis.painting/systemdrawingtexturebrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [SystemDrawingTextureBrush(brush)](#SystemDrawingTextureBrush_brush_1) | 初始化 SystemDrawingTextureBrush 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 画刷 | System.Drawing.TextureBrush | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -57,6 +57,6 @@ url: /zh/python-net/aspose.gis.painting/systemdrawingtexturebrush/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

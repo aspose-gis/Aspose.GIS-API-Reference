@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.geotools/generatortiles/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [generate_tiles(layer, out_directory, zoom, extent, options)](#generate_tiles_layer_out_directory_zoom_extent_options_1) | 生成带有缩放的瓦片到输出目录 |
 | [generate_tiles(layer, out_directory, zoom, options)](#generate_tiles_layer_out_directory_zoom_options_2) | 生成带有缩放的瓦片到输出目录 |
@@ -37,7 +37,7 @@ url: /zh/python-net/aspose.gis.geotools/generatortiles/
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) |  |
 | out_directory | string | 输出目录 |
-| 缩放 | int | 瓦片的缩放级别 |
+| zoom | 整数 | 瓦片的缩放级别 |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | 用于渲染瓦片的边界框 |
 | options | [GeneratorTilesRenderOptions](/psd/python-net/aspose.gis.geotools/generatortilesrenderoptions) | 渲染瓦片的选项 |
 
@@ -56,7 +56,7 @@ url: /zh/python-net/aspose.gis.geotools/generatortiles/
 | :- | :- | :- |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) |  |
 | out_directory | string | 输出目录 |
-| 缩放 | int | 瓦片的缩放级别 |
+| zoom | 整数 | 瓦片的缩放级别 |
 | options | [GeneratorTilesRenderOptions](/psd/python-net/aspose.gis.geotools/generatortilesrenderoptions) | 渲染瓦片的选项 |
 
 ### Method: generate_tiles(layers, out_directory, zoom, extent, options)  [static] {#generate_tiles_layers_out_directory_zoom_extent_options_3}
@@ -72,9 +72,9 @@ url: /zh/python-net/aspose.gis.geotools/generatortiles/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 图层 | System.Collections.Generic.IEnumerable<VectorLayer> | 输入图层 |
+| layers | System.Collections.Generic.IEnumerable<VectorLayer> | 输入图层 |
 | out_directory | string | 输出目录 |
-| 缩放 | int | 瓦片的缩放级别 |
+| zoom | 整数 | 瓦片的缩放级别 |
 | extent | [Extent](/psd/python-net/aspose.gis/extent) | 用于渲染瓦片的边界框 |
 | options | [GeneratorTilesRenderOptions](/psd/python-net/aspose.gis.geotools/generatortilesrenderoptions) | 渲染瓦片的选项 |
 
@@ -91,8 +91,8 @@ url: /zh/python-net/aspose.gis.geotools/generatortiles/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 图层 | System.Collections.Generic.IEnumerable<VectorLayer> | 输入图层 |
+| layers | System.Collections.Generic.IEnumerable<VectorLayer> | 输入图层 |
 | out_directory | string | 输出目录 |
-| 缩放 | int | 瓦片的缩放级别 |
+| zoom | 整数 | 瓦片的缩放级别 |
 | options | [GeneratorTilesRenderOptions](/psd/python-net/aspose.gis.geotools/generatortilesrenderoptions) | 渲染瓦片的选项 |
 

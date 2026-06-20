@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [Arc](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/arc/) |  |
 | [Ellipse](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/ellipse/) |  |
@@ -26,6 +26,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/
 | [RoundedRectangle](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/roundedrectangle/) |  |
 | [Text](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/text/) |  |
 ## **Enumerations**
-| **枚举** | **描述** |
+| **Enumeration** | **Description** |
 | :- | :- |
 | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype/) |  |

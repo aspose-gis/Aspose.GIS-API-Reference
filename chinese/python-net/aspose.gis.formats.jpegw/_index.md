@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.formats.jpegw/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
-| [JpegWDriver](/psd/python-net/aspose.gis.formats.jpegw/jpegwdriver/) | 用于 JpegW 栅格的驱动程序。 |
+| [JpegWDriver](/psd/python-net/aspose.gis.formats.jpegw/jpegwdriver/) | JpegW 栅格的驱动程序。 |

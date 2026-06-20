@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis/autoids/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | GUID | 生成 Guid 标识。 |
-| NONE | 隐藏 Auto Ids。 |
-| NUMBER | 递增 Number 标识。 |
+| 无 | 隐藏自动标识。 |
+| 数字 | 递增数字标识。 |

@@ -16,18 +16,18 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/text/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Text()](#Text__1) | 初始化 Text 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | coordinate1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | coordinate2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | text_string | string | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -54,6 +54,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/text/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

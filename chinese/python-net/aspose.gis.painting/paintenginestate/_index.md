@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.painting/paintenginestate/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [PaintEngineState()](#PaintEngineState__1) | 初始化 PaintEngineState 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | brush | [PainterBrush](/psd/python-net/aspose.gis.painting/painterbrush) | r/w |    |
 | 字体 | System.Drawing.Font | r/w |  |
@@ -30,10 +30,10 @@ url: /zh/python-net/aspose.gis.painting/paintenginestate/
 | pen | [PainterPen](/psd/python-net/aspose.gis.painting/painterpen) | r/w |    |
 | transformation | [MatrixTransformation](/psd/python-net/aspose.gis.common/matrixtransformation/) | r/w |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | rotate(cos, sin) |  |
-| rotate(度) |  |
+| rotate(degrees) |  |
 | scale(x, y) |  |
 | translate(x, y) |  |
 

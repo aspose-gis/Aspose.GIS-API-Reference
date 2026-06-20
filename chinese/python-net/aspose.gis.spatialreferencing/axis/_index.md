@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.spatialreferencing/axis/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Axis(name, direction)](#Axis_name_direction_1) | 创建新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | direction | [AxisDirection](/psd/python-net/aspose.gis.spatialreferencing/axisdirection) | r | 此轴的方向。 |
 | is_east_west_axis | bool | r | 检测轴的方向是否为东或西。 |

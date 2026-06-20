@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.epsg/geographicdatumentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GeographicDatumEntry()](#GeographicDatumEntry__1) | 初始化 GeographicDatumEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| ellipsoid_code | int | r |  |
+| ellipsoid_code | 整数 | r |  |
 | 名称 | string | r |  |
-| prime_meridian_code | int | r |  |
+| prime_meridian_code | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, ellipsoid_code, prime_meridian_code)](#create_name_ellipsoid_code_prime_meridian_code_1) |    |
 
@@ -52,8 +52,8 @@ url: /zh/python-net/aspose.gis.epsg/geographicdatumentry/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 名称 | string |  |
-| ellipsoid_code | int |  |
-| prime_meridian_code | int |  |
+| ellipsoid_code | 整数 |  |
+| prime_meridian_code | 整数 |  |
 
 **Returns**
 

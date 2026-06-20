@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats.dbase/dbaseexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [DBaseException()](#DBaseException__1) | 初始化 DBaseException 类的新实例 |
 | [DBaseException(message)](#DBaseException_message_2) | 初始化 DBaseException 类的新实例 |

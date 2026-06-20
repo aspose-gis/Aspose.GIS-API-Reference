@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.indexing/indexingexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [IndexingException()](#IndexingException__1) | 初始化 IndexingException 类的新实例 |
 | [IndexingException(message)](#IndexingException_message_2) | 初始化 IndexingException 类的新实例 |

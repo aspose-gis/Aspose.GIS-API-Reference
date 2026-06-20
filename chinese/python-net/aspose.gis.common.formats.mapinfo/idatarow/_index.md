@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| fields_count | int | r |  |
-| row_number | int | r |  |
+| 字段计数 | 整数 | r |  |
+| 行号 | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_null(field_index)](#is_null_field_index_1) |    |
 | [read_character(field_index)](#read_character_field_index_2) |    |
@@ -47,7 +47,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -69,7 +69,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -91,7 +91,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -113,7 +113,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -135,7 +135,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -157,7 +157,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -179,13 +179,13 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: read_large_integer(field_index) {#read_large_integer_field_index_8}
@@ -201,13 +201,13 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| long |  |
+| 长整数 |  |
 
 
 ### Method: read_logical(field_index) {#read_logical_field_index_9}
@@ -223,7 +223,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -245,7 +245,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 
@@ -267,7 +267,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/idatarow/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| field_index | int |  |
+| field_index | 整数 |  |
 
 **Returns**
 

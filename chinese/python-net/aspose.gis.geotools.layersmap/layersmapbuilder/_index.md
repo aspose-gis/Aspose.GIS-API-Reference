@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.geotools.layersmap/layersmapbuilder/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [LayersMapBuilder()](#LayersMapBuilder__1) | 初始化 LayersMapBuilder 类的新实例 |
 

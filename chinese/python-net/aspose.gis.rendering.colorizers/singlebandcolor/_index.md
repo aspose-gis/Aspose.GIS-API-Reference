@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.rendering.colorizers/singlebandcolor/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [SingleBandColor()](#SingleBandColor__1) | 初始化 [SingleBandColor](/psd/python-net/aspose.gis.rendering.colorizers/singlebandcolor/) 类的新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | gray_band | [BandColor](/psd/python-net/aspose.gis.rendering.colorizers/bandcolor) | r/w | 指定我们栅格的灰度分量。 |
 | null [static] | [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer) | r | 该 [NullColorizer](/psd/python-net/aspose.gis.rendering.colorizers/nullcolorizer/) 不绘制任何内容，并有效地跳过其所应用的单元格的渲染。 |

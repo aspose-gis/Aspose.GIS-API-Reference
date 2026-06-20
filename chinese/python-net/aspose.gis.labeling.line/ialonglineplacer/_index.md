@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.labeling.line/ialonglineplacer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | accumulate_candidates(candidates, line) |  |
 

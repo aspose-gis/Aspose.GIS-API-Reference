@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.formats.filegdb/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [FileGdbCoordinatePrecisionGrid](/psd/python-net/aspose.gis.formats.filegdb/filegdbcoordinateprecisiongrid/) | FileGDB 图层内的坐标精度网格。 |
 | [FileGdbDriver](/psd/python-net/aspose.gis.formats.filegdb/filegdbdriver/) | ESRI 文件地理数据库格式的驱动程序。 |

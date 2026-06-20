@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.projections/projectionexception/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [ProjectionException()](#ProjectionException__1) | 初始化 ProjectionException 类的新实例 |
 | [ProjectionException(message)](#ProjectionException_message_2) | 初始化 ProjectionException 类的新实例 |

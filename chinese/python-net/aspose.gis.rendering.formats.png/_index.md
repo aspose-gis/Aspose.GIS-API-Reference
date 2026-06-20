@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.rendering.formats.png/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
-| [PngRenderer](/psd/python-net/aspose.gis.rendering.formats.png/pngrenderer/) | 一个 [Renderer](/psd/python-net/aspose.gis.rendering/renderer/) 将 [Map](/psd/python-net/aspose.gis.rendering/map/) 渲染为 PNG 文件。 |
+| [PngRenderer](/psd/python-net/aspose.gis.rendering.formats.png/pngrenderer/) | 一个将 [Map](/psd/python-net/aspose.gis.rendering/map/) 渲染为 PNG 文件的 [Renderer](/psd/python-net/aspose.gis.rendering/renderer/)。 |

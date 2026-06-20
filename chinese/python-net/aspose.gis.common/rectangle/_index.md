@@ -14,19 +14,19 @@ url: /zh/python-net/aspose.gis.common/rectangle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Rectangle()](#Rectangle__1) | 初始化 Rectangle 类的新实例 |
 | [Rectangle(top_left, size)](#Rectangle_top_left_size_2) | 初始化 Rectangle 类的新实例 |
 | [Rectangle(x, y, width, height)](#Rectangle_x_y_width_height_3) | 初始化 Rectangle 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 面积 | double | r |  |
 | bottom_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | bottom_right | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
-| height | double | r |  |
+| 高度 | double | r |  |
 | size | [Size](/psd/python-net/aspose.gis.common/size) | r |    |
 | top_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | top_right | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
@@ -76,5 +76,5 @@ url: /zh/python-net/aspose.gis.common/rectangle/
 | x | double |  |
 | y | double |  |
 | width | double |  |
-| height | double |  |
+| 高度 | double |  |
 

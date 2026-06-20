@@ -16,7 +16,7 @@ url: /zh/python-net/aspose.gis.rendering.formats.png/pngrenderer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [render(map, output_path)](#render_map_output_path_1) | 渲染地图。 |
 | [render(map, output_path)](#render_map_output_path_2) | 渲染地图。 |

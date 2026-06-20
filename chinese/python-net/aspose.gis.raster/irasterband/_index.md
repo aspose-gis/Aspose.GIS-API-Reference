@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis.raster/irasterband/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| data_type | [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes) | r | 获取每个单元格中存储的值的类型。 |
+| data_type | [BandTypes](/psd/python-net/aspose.gis.raster/bandtypes) | r | 获取存储在每个单元格中的值的类型。 |
 
 

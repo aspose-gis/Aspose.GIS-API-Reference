@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis/numericformat/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | round_trip [static] | [NumericFormat](/psd/python-net/aspose.gis/numericformat) | r | 转换并尝试确保被转换为<br/>            字符串的数值能够解析回相同的数值。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [flat(significant_digits)](#flat_significant_digits_1) | 将数字转换为固定小数点文本，不使用科学计数法。 |
-| [general(precision)](#general_precision_2) | 根据数字类型以及是否存在精度说明符，将数字转换为固定小数点或科学计数法中更紧凑的形式。推荐使用。 |
+| [flat(significant_digits)](#flat_significant_digits_1) | 将数字转换为不使用科学计数法的定点文本。 |
+| [general(precision)](#general_precision_2) | 根据数字类型以及是否存在精度说明符，将数字转换为定点或科学计数法中更紧凑的形式。<br/>            推荐使用。 |
 
 
 ### Method: flat(significant_digits)  [static] {#flat_significant_digits_1}
@@ -31,13 +31,13 @@ url: /zh/python-net/aspose.gis/numericformat/
  flat(significant_digits) 
 ```
 
-将数字转换为固定小数点文本，不使用科学计数法。
+将数字转换为不使用科学计数法的定点文本。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| significant_digits | int | 有效数字的位数。最大可用精度为 "308" |
+| significant_digits | 整数 | 有效数字的位数。最大可用精度为 "308" |
 
 **Returns**
 
@@ -53,13 +53,13 @@ url: /zh/python-net/aspose.gis/numericformat/
  general(precision) 
 ```
 
-根据数字类型以及是否存在精度说明符，将数字转换为固定小数点或科学计数法中更紧凑的形式。推荐使用。
+根据数字类型以及是否存在精度说明符，将数字转换为定点或科学计数法中更紧凑的形式。<br/>            推荐使用。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| precision | int | 精度定义了结果字符串中可能出现的最大有效数字位数。<br/>            如果精度为零，则使用值 "15"。最大可用精度为 "17"。 |
+| precision | 整数 | 精度定义了结果字符串中可能出现的最大有效数字位数。<br/>            如果精度为零，则使用值 "15"。最大可用精度为 "17"。 |
 
 **Returns**
 

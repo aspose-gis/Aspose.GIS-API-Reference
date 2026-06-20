@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyztilesdriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [XyzTilesDriver()](#XyzTilesDriver__1) | 初始化 XyzTilesDriver 类的新实例 |
+| [XyzTilesDriver()](#XyzTilesDriver__1) | 初始化 XyzTilesDriver 类的新实例。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [open_layer(connection)](#open_layer_connection_1) | 打开瓦片集合。 |
 
@@ -32,7 +32,7 @@ url: /zh/python-net/aspose.gis.formats.xyztile/xyztilesdriver/
  XyzTilesDriver() 
 ```
 
-初始化 XyzTilesDriver 类的新实例
+初始化 XyzTilesDriver 类的新实例。
 
 ### Method: open_layer(connection) {#open_layer_connection_1}
 

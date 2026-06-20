@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.painting/paintingextensions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [customize_background_to_white(options)](#customize_background_to_white_options_1) |    |
 

@@ -16,18 +16,18 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Line()](#Line__1) | 初始化 Line 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | 笔 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -54,6 +54,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/line/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

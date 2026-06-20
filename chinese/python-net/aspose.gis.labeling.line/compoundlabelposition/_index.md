@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.labeling.line/compoundlabelposition/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [CompoundLabelPosition(parts, cost)](#CompoundLabelPosition_parts_cost_1) | 初始化 CompoundLabelPosition 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |
 | 成本 | double | r |  |

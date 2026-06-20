@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis/iattributesconverter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [modify_attribute(attribute, actions)](#modify_attribute_attribute_actions_1) | 根据目标图层的需要调整 [FeatureAttribute](/psd/python-net/aspose.gis/featureattribute/)。 |
 

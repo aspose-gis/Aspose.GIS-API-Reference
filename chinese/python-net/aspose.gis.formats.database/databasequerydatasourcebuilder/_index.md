@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [add_attribute(name, type)](#add_attribute_name_type_1) | 配置将包含要素属性信息的字段名称。 |
-| [as_trackable_for_changes(table_name, identity_attribute, overwrite_same_key, db_func)](#as_trackable_for_changes_table_name_identity_attribute_overwrite_same_key_db_func_2) | 配置生成的图层以跟踪更改，并创建数据源来同步所做的更改。 |
-| [build()](#build__3) | 该方法检索 [IDatabaseDataSource](/psd/python-net/aspose.gis.formats.database/idatabasedatasource/) 的实现。 |
-| [geometry_field(name)](#geometry_field_name_4) | 配置提取几何信息的字段名称。 |
+| [as_trackable_for_changes(table_name, identity_attribute, overwrite_same_key, db_func)](#as_trackable_for_changes_table_name_identity_attribute_overwrite_same_key_db_func_2) | 配置生成的图层以跟踪更改，并创建数据源以同步所做的更改。 |
+| [build()](#build__3) | 该方法检索 [IDatabaseDataSource](/psd/python-net/aspose.gis.formats.database/idatabasedatasource/) 的实现 |
+| [geometry_field(name)](#geometry_field_name_4) | 配置将从中提取几何信息的字段名称。 |
 | [srid_field(name)](#srid_field_name_5) | 配置将包含空间参考系统标识符 (srid) 的查询字段名称。 |
 | [use_external_srs_from_query(srs_query)](#use_external_srs_from_query_srs_query_6) | 允许您配置数据源使用第三方空间参考系统数据，绕过 Aspose.GIS 库中预装的数据。 |
 
@@ -38,7 +38,7 @@ url: /zh/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 名称 | string | 属性的查询字段名称。 |
-| type | [AttributeDataType](/psd/python-net/aspose.gis/attributedatatype) | 数据库数据应转换成的目标数据类型。 |
+| type | [AttributeDataType](/psd/python-net/aspose.gis/attributedatatype) | 应将来自数据库的数据转换为的目标数据类型。 |
 
 **Returns**
 
@@ -54,7 +54,7 @@ url: /zh/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/
  as_trackable_for_changes(table_name, identity_attribute, overwrite_same_key, db_func) 
 ```
 
-配置生成的图层以跟踪更改，并创建数据源来同步所做的更改。
+配置生成的图层以跟踪更改，并创建数据源以同步所做的更改。
 
 **Parameters:**
 
@@ -62,7 +62,7 @@ url: /zh/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/
 | :- | :- | :- |
 | table_name | string | 进行更改的表的名称。 |
 | identity_attribute | string | 特征的属性，将被视为唯一标识该特征。 |
-| overwrite_same_key | bool | 如果此标志设置为 true，则新添加的具有与图层中已存在的唯一标识符相同的要素将覆盖当前要素，并且如果发现差异，数据将被读取为已更新。 |
+| overwrite_same_key | bool | 如果将此标志设置为 true，则新添加的具有已在图层中存在的相同唯一标识符的要素将覆盖当前要素，并且如果发现差异，数据将被读取为已更新。 |
 | db_func | string | 将在 SQL 查询中提供的函数，用于将二进制数据转换为当前数据库的地理数据表示。 |
 
 **Returns**
@@ -79,7 +79,7 @@ url: /zh/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/
  build() 
 ```
 
-该方法检索 [IDatabaseDataSource](/psd/python-net/aspose.gis.formats.database/idatabasedatasource/) 的实现。
+该方法检索 [IDatabaseDataSource](/psd/python-net/aspose.gis.formats.database/idatabasedatasource/) 的实现
 
 **Returns**
 
@@ -95,13 +95,13 @@ url: /zh/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/
  geometry_field(name) 
 ```
 
-配置提取几何信息的字段名称。
+配置将从中提取几何信息的字段名称。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 名称 | string | 几何字段的名称。 |
+| 名称 | string | gemetry 字段的名称。 |
 
 **Returns**
 
@@ -145,7 +145,7 @@ url: /zh/python-net/aspose.gis.formats.database/databasequerydatasourcebuilder/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| srs_query | string | 查询以检索关于主查询中用于检索要素的附加空间坐标系的信息。 |
+| srs_query | string | 查询以检索关于在主查询中用于检索要素的附加空间坐标系的信息。 |
 
 **Returns**
 

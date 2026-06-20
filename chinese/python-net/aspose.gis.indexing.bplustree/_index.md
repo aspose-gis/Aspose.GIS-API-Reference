@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.indexing.bplustree/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [BPlusTreeOptions](/psd/python-net/aspose.gis.indexing.bplustree/bplustreeoptions/) |  |

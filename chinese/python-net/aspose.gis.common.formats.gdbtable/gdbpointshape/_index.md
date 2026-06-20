@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbpointshape/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GdbPointShape()](#GdbPointShape__1) | 初始化 GdbPointShape 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r/w |    |
 | has_m | bool | r |  |

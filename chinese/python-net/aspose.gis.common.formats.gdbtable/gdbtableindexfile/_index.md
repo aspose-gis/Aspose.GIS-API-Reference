@@ -14,19 +14,19 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| blocks_count | int | r |  |
-| last_row_id | int | r |  |
-| next_row_id | int | r |  |
-| number_of_offsets_in_block | int | r |  |
+| blocks_count | 整数 | r |  |
+| last_row_id | 整数 | r |  |
+| next_row_id | 整数 | r |  |
+| number_of_offsets_in_block | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [add(offset)](#add_offset_1) |    |
 | [create(path)](#create_path_2) |    |
 | [create(path)](#create_path_3) |    |
-| delete(row_id) |  |
+| 删除(row_id) |  |
 | [get_offset(row_id)](#get_offset_row_id_4) |    |
 | [is_block_present(block_number)](#is_block_present_block_number_5) |    |
 | [open(path)](#open_path_6) |    |
@@ -46,13 +46,13 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| 偏移 | long |  |
+| 偏移量 | 长整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 
 ### Method: create(path)  [static] {#create_path_2}
@@ -112,13 +112,13 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| row_id | int |  |
+| row_id | 整数 |  |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| long |  |
+| 长整数 |  |
 
 
 ### Method: is_block_present(block_number) {#is_block_present_block_number_5}
@@ -134,7 +134,7 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbtableindexfile/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| block_number | int |  |
+| block_number | 整数 |  |
 
 **Returns**
 

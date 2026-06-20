@@ -16,7 +16,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat/datreader/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [open_dbf(path, encoding, columns)](#open_dbf_path_encoding_columns_1) |    |
 | [open_dbf(path, encoding, columns)](#open_dbf_path_encoding_columns_2) |    |

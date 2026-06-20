@@ -14,25 +14,25 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Measurement()](#Measurement__1) | 初始化 Measurement 类的新实例 |
 | [Measurement(value, unit)](#Measurement_value_unit_2) | 创建新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | unit | [Unit](/psd/python-net/aspose.gis.spatialreferencing/unit) | r | 计量单位。 |
 | value | double | r | 指示测量长度的数值。 |
 | zero [static] | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r | 零长度的测量。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [inches(value)](#inches_value_1) | 返回一个 <c>Measurement</c> 的新实例，表示英寸长度。 |
-| [map_units(value)](#map_units_value_2) | 返回一个 <c>Measurement</c> 的新实例，表示地图空间参考单位的长度。 |
-| [meters_on_earth(value)](#meters_on_earth_value_3) | 返回一个 <c>Measurement</c> 的新实例，表示地球上的米长度。 |
-| [millimeters(value)](#millimeters_value_4) | 返回一个 <c>Measurement</c> 的新实例，表示毫米长度。 |
-| [pixels(value)](#pixels_value_5) | 返回一个 <c>Measurement</c> 的新实例，表示像素长度。 |
-| [points(value)](#points_value_6) | 返回一个 <c>Measurement</c> 的新实例，表示点长度。 |
+| [inches(value)](#inches_value_1) | 返回一个新的 <c>Measurement</c> 实例，表示英寸长度。 |
+| [map_units(value)](#map_units_value_2) | 返回一个新的 <c>Measurement</c> 实例，表示地图空间参考单位的长度。 |
+| [meters_on_earth(value)](#meters_on_earth_value_3) | 返回一个新的 <c>Measurement</c> 实例，表示地球上的米长度。 |
+| [millimeters(value)](#millimeters_value_4) | 返回一个新的 <c>Measurement</c> 实例，表示毫米长度。 |
+| [pixels(value)](#pixels_value_5) | 返回一个新的 <c>Measurement</c> 实例，表示像素长度。 |
+| [points(value)](#points_value_6) | 返回一个新的 <c>Measurement</c> 实例，表示点长度。 |
 
 
 ### Constructor: Measurement() {#Measurement__1}
@@ -67,7 +67,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
  inches(value) 
 ```
 
-返回一个 <c>Measurement</c> 的新实例，表示英寸长度。
+返回一个新的 <c>Measurement</c> 实例，表示英寸长度。
 
 **Parameters:**
 
@@ -79,7 +79,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | <c>Measurement</c> 类的新实例。 |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | 新的 <c>Measurement</c> 类实例。 |
 
 
 ### Method: map_units(value)  [static] {#map_units_value_2}
@@ -89,7 +89,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
  map_units(value) 
 ```
 
-返回一个 <c>Measurement</c> 的新实例，表示地图空间参考单位的长度。
+返回一个新的 <c>Measurement</c> 实例，表示地图空间参考单位的长度。
 
 **Parameters:**
 
@@ -101,7 +101,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | <c>Measurement</c> 类的新实例。 |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | 新的 <c>Measurement</c> 类实例。 |
 
 
 ### Method: meters_on_earth(value)  [static] {#meters_on_earth_value_3}
@@ -111,7 +111,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
  meters_on_earth(value) 
 ```
 
-返回一个 <c>Measurement</c> 的新实例，表示地球上的米长度。
+返回一个新的 <c>Measurement</c> 实例，表示地球上的米长度。
 
 **Parameters:**
 
@@ -123,7 +123,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | <c>Measurement</c> 类的新实例。 |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | 新的 <c>Measurement</c> 类实例。 |
 
 
 ### Method: millimeters(value)  [static] {#millimeters_value_4}
@@ -133,7 +133,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
  millimeters(value) 
 ```
 
-返回一个 <c>Measurement</c> 的新实例，表示毫米长度。
+返回一个新的 <c>Measurement</c> 实例，表示毫米长度。
 
 **Parameters:**
 
@@ -145,7 +145,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | <c>Measurement</c> 类的新实例。 |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | 新的 <c>Measurement</c> 类实例。 |
 
 
 ### Method: pixels(value)  [static] {#pixels_value_5}
@@ -155,7 +155,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
  pixels(value) 
 ```
 
-返回一个 <c>Measurement</c> 的新实例，表示像素长度。
+返回一个新的 <c>Measurement</c> 实例，表示像素长度。
 
 **Parameters:**
 
@@ -167,7 +167,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | <c>Measurement</c> 类的新实例。 |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | 新的 <c>Measurement</c> 类实例。 |
 
 
 ### Method: points(value)  [static] {#points_value_6}
@@ -177,7 +177,7 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
  points(value) 
 ```
 
-返回一个 <c>Measurement</c> 的新实例，表示点长度。
+返回一个新的 <c>Measurement</c> 实例，表示点长度。
 
 **Parameters:**
 
@@ -189,6 +189,6 @@ url: /zh/python-net/aspose.gis.rendering/measurement/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | <c>Measurement</c> 类的新实例。 |
+| [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | 新的 <c>Measurement</c> 类实例。 |
 
 

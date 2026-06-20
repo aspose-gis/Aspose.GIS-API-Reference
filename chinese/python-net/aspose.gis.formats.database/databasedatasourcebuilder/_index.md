@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.formats.database/databasedatasourcebuilder/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [DatabaseDataSourceBuilder()](#DatabaseDataSourceBuilder__1) | 初始化 DatabaseDataSourceBuilder 类的新实例 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [from_query(query)](#from_query_query_1) | 为自定义数据库查询配置数据源。 |
 

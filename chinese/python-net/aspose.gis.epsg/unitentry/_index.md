@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.epsg/unitentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [UnitEntry()](#UnitEntry__1) | 初始化 UnitEntry 类的新实例 |
 | [UnitEntry(name, factor)](#UnitEntry_name_factor_2) | 初始化 UnitEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 因子 | double | r |  |
 | 名称 | string | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, factor)](#create_name_factor_1) |    |
 

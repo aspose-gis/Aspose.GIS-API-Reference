@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.epsg/projectionparametervalueentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [ProjectionParameterValueEntry()](#ProjectionParameterValueEntry__1) | 初始化 ProjectionParameterValueEntry 类的新实例 |
 | [ProjectionParameterValueEntry(parameter_code, value)](#ProjectionParameterValueEntry_parameter_code_value_2) | 初始化 ProjectionParameterValueEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| parameter_code | int | r |  |
+| parameter_code | 整数 | r |  |
 | value | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(parameter_code, value)](#create_parameter_code_value_1) |    |
 
@@ -51,7 +51,7 @@ url: /zh/python-net/aspose.gis.epsg/projectionparametervalueentry/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| parameter_code | int |  |
+| parameter_code | 整数 |  |
 | value | double |  |
 
 ### Method: create(parameter_code, value)  [static] {#create_parameter_code_value_1}
@@ -67,7 +67,7 @@ url: /zh/python-net/aspose.gis.epsg/projectionparametervalueentry/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| parameter_code | int |  |
+| parameter_code | 整数 |  |
 | value | double |  |
 
 **Returns**

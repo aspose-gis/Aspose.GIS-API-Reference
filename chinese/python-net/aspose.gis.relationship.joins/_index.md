@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.relationship.joins/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
-| [JoinByGeometryOptions](/psd/python-net/aspose.gis.relationship.joins/joinbygeometryoptions/) | 图层连接的选项。 |
-| [JoinOptions](/psd/python-net/aspose.gis.relationship.joins/joinoptions/) | 图层连接的选项。 |
+| [JoinByGeometryOptions](/psd/python-net/aspose.gis.relationship.joins/joinbygeometryoptions/) | 图层联接的选项。 |
+| [JoinOptions](/psd/python-net/aspose.gis.relationship.joins/joinoptions/) | 图层联接的选项。 |

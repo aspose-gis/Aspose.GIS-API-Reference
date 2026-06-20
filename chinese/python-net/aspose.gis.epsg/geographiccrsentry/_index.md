@@ -14,20 +14,20 @@ url: /zh/python-net/aspose.gis.epsg/geographiccrsentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GeographicCrsEntry()](#GeographicCrsEntry__1) | 初始化 GeographicCrsEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| datum_code | int | r |  |
+| datum_code | 整数 | r |  |
 | 已弃用 | bool | r |  |
 | 名称 | string | r |  |
 | 三维 | bool | r |  |
-| to_wgs_84_entry_index | int | r |  |
-| unit_code | int | r |  |
+| to_wgs_84_entry_index | 整数 | r |  |
+| unit_code | 整数 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name, to_wgs_84_entry_index, datum_code, unit_code, three_dimensional, deprecated)](#create_name_to_wgs_84_entry_index_datum_code_unit_code_three_dimensional_deprecated_1) |    |
 
@@ -55,9 +55,9 @@ url: /zh/python-net/aspose.gis.epsg/geographiccrsentry/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 名称 | string |  |
-| to_wgs_84_entry_index | int |  |
-| datum_code | int |  |
-| unit_code | int |  |
+| to_wgs_84_entry_index | 整数 |  |
+| datum_code | 整数 |  |
+| unit_code | 整数 |  |
 | 三维 | bool |  |
 | 已弃用 | bool |  |
 

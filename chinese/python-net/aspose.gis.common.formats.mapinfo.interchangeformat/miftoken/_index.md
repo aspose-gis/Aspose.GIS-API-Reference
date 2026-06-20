@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MifToken()](#MifToken__1) | 初始化 MifToken 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | close [static] | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken) | r |    |
 | comma [static] | [MifToken](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken) | r |    |
@@ -28,7 +28,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftoken
 | text | string | r |  |
 | token_type | [MifTokenType](/psd/python-net/aspose.gis.common.formats.mapinfo.interchangeformat/miftokentype) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_keyword(keyword)](#is_keyword_keyword_1) |    |
 | [keyword(text)](#keyword_text_2) |    |

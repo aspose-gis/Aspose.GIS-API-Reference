@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common/charsetresolver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_encoding(charset_name)](#get_encoding_charset_name_1) |    |
 

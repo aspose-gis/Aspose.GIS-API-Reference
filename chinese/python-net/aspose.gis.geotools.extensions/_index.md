@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.geotools.extensions/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [VectorLayerExtention](/psd/python-net/aspose.gis.geotools.extensions/vectorlayerextention/) | 矢量图层扩展。 |

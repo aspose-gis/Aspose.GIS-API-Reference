@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.geotools.layersmap/maplayeroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapLayerOptions()](#MapLayerOptions__1) | 初始化 MapLayerOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling/) | r/w | 要素的标注。默认值为 null。 |
+| labeling | [Labeling](/psd/python-net/aspose.gis.rendering.labelings/labeling/) | r/w | 要素的标签。默认值为 null。 |
 | layer | [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | r/w | 矢量图层。 |
 | layer_spatial_ref_sys | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r/w | 指定图层空间参考的值。 |
 | symbolyzer | [VectorSymbolizer](/psd/python-net/aspose.gis.rendering.symbolizers/vectorsymbolizer/) | r/w | 矢量符号化器。 |

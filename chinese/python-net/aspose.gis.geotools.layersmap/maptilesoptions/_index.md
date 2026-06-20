@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.geotools.layersmap/maptilesoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [MapTilesOptions()](#MapTilesOptions__1) | 初始化 MapTilesOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| level | int | r/w | 加载瓦片的缩放级别。默认值为 3。 |
+| level | 整数 | r/w | 加载瓦片的缩放级别。默认值为 3。 |
 | url | string | r/w | 文件的 URL 或路径。 |
 
 

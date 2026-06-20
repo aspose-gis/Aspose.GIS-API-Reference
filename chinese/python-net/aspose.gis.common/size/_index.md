@@ -14,17 +14,17 @@ url: /zh/python-net/aspose.gis.common/size/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Size()](#Size__1) | 初始化 Size 类的新实例 |
 | [Size(width, height)](#Size_width_height_2) | 初始化 Size 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| height | double | r |  |
+| 高度 | double | r |  |
 | width | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [to_coordinate()](#to_coordinate__1) |    |
 
@@ -52,7 +52,7 @@ url: /zh/python-net/aspose.gis.common/size/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | width | double |  |
-| height | double |  |
+| 高度 | double |  |
 
 ### Method: to_coordinate() {#to_coordinate__1}
 

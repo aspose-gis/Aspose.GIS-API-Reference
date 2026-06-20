@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/kmliconresource/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [KmlIconResource()](#KmlIconResource__1) | 初始化 KmlIconResource 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| href | string | r/w | 指定资源位置为 URL。<br/>            默认值为 <see langword="null" />，表示 href 为无。 |
+| href | string | r/w | 指定资源位置为 URL。<br/>            默认值为 <see langword=\"null\" />，表示 href 为无。 |
 
 
 ### Constructor: KmlIconResource() {#KmlIconResource__1}

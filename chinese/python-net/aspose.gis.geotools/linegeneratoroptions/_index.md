@@ -14,19 +14,19 @@ url: /zh/python-net/aspose.gis.geotools/linegeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [LineGeneratorOptions()](#LineGeneratorOptions__1) | 默认创建一个带有初始化字段的实例。 |
+| [LineGeneratorOptions()](#LineGeneratorOptions__1) | 默认使用初始化字段创建实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r/w | 要创建的线条数量。 |
+| 计数 | 整数 | r/w | 要创建的线条数量。 |
 | place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | 生成单元格中的放置模式。 |
-| seed | int | r/w | 用于计算伪随机数序列的种子值的数字。 |
+| 种子 | 整数 | r/w | 用于计算伪随机数序列的种子值的数字。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | 将对象克隆到另一个对象。 |
+| [clone()](#clone__1) | 克隆对象到另一个对象。 |
 
 
 ### Constructor: LineGeneratorOptions() {#LineGeneratorOptions__1}
@@ -36,7 +36,7 @@ url: /zh/python-net/aspose.gis.geotools/linegeneratoroptions/
  LineGeneratorOptions() 
 ```
 
-默认创建一个带有初始化字段的实例。
+默认使用初始化字段创建实例。
 
 ### Method: clone() {#clone__1}
 
@@ -45,7 +45,7 @@ url: /zh/python-net/aspose.gis.geotools/linegeneratoroptions/
  clone() 
 ```
 
-将对象克隆到另一个对象。
+克隆对象到另一个对象。
 
 **Returns**
 

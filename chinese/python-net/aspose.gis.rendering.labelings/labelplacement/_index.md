@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.rendering.labelings/labelplacement/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | 克隆此实例。 |
 

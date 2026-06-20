@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.geotools.wayanalyzer/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
-| [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) | Way 图层生成器 |
-| [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/) | 在地图上查找路径的选项。 |
+| [WayLayerGenerator](/psd/python-net/aspose.gis.geotools.wayanalyzer/waylayergenerator/) | 路径图层生成器 |
+| [WayOptions](/psd/python-net/aspose.gis.geotools.wayanalyzer/wayoptions/) | 在地图上查找路径的选项 |

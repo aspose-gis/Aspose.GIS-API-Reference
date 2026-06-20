@@ -16,18 +16,18 @@ url: /zh/python-net/aspose.gis.painting/solidpainterbrush/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [SolidPainterBrush()](#SolidPainterBrush__1) | 初始化 SolidPainterBrush 类的新实例 |
 | [SolidPainterBrush(color, style)](#SolidPainterBrush_color_style_2) | 初始化 SolidPainterBrush 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 颜色 | System.Drawing.Color | r |  |
 | no_brush [static] | [SolidPainterBrush](/psd/python-net/aspose.gis.painting/solidpainterbrush) | r |    |
 | style | [BrushStyle](/psd/python-net/aspose.gis.painting/brushstyle) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -70,6 +70,6 @@ url: /zh/python-net/aspose.gis.painting/solidpainterbrush/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

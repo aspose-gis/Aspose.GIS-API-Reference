@@ -16,13 +16,13 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/kmlfeaturestyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [KmlFeatureStyle()](#KmlFeatureStyle__1) | 创建新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| balloon | [KmlBalloonStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmlballoonstyle) | r/w | 指定如何绘制地标的描述气球。<br/>            使用 <see langword="null" /> 表示缺失的样式。<br/>            默认值为 <see langword="null" />。 |
+| balloon | [KmlBalloonStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmlballoonstyle) | r/w | 指定如何绘制地标的描述气泡。<br/>            使用 <see langword="null" /> 表示缺失的样式。<br/>            默认值为 <see langword="null" />。 |
 | icon | [KmlIconStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmliconstyle) | r/w | 指定如何绘制点地标的图标。<br/>            使用 <see langword="null" /> 表示缺失的样式。<br/>            默认值为 <see langword="null" />。 |
 | label | [KmlLabelStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmllabelstyle) | r/w | 指定如何绘制要素的标签。<br/>            使用 <see langword="null" /> 表示缺失的样式。<br/>            默认值为 <see langword="null" />。 |
 | line | [KmlLineStyle](/psd/python-net/aspose.gis.formats.kml.styles/kmllinestyle) | r/w | 指定所有线几何体的绘图样式（颜色、颜色模式和线宽）。<br/>            使用 <see langword="null" /> 表示缺失的样式。<br/>            默认值为 <see langword="null" />。 |

@@ -14,23 +14,23 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo/datum/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Datum()](#Datum__1) | 初始化 Datum 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| ellipsoid_id | byte | r/w |  |
-| has_datum_parameters | bool | r/w |  |
-| id | short | r/w |  |
-| prime_meridian | double | r/w |  |
-| rotation_x | double | r/w |  |
-| rotation_y | double | r/w |  |
-| rotation_z | double | r/w |  |
+| 椭球体编号 | byte | r/w |  |
+| 具有基准参数 | bool | r/w |  |
+| 标识 | short | r/w |  |
+| 本初子午线 | double | r/w |  |
+| 旋转_x | double | r/w |  |
+| 旋转_y | double | r/w |  |
+| 旋转_z | double | r/w |  |
 | 比例 | double | r/w |  |
-| shift_x | double | r/w |  |
-| shift_y | double | r/w |  |
-| shift_z | double | r/w |  |
+| 平移_x | double | r/w |  |
+| 平移_y | double | r/w |  |
+| 平移_z | double | r/w |  |
 
 
 ### Constructor: Datum() {#Datum__1}

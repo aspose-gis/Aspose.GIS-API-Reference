@@ -16,20 +16,20 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| attributes | [BaseFeatureAttributeCollection](/psd/python-net/aspose.gis/basefeatureattributecollection) | r | 获取此 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 中要素的自定义属性集合。 |
-| 计数 | int | r | 获取此图层中要素的数量。 |
+| attributes | [BaseFeatureAttributeCollection](/psd/python-net/aspose.gis/basefeatureattributecollection) | r | 获取此 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 中特征的自定义属性集合。 |
+| 计数 | 整数 | r | 获取此图层中的特征数量。 |
 | driver | [Driver](/psd/python-net/aspose.gis/driver) | r | 获取实例化此图层的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/)。 |
-| geometry_type | [GeometryType](/psd/python-net/aspose.gis.geometries/geometrytype/) | r | 获取图层的几何类型。 |
+| geometry_type | [GeometryType](/psd/python-net/aspose.gis.geometries/geometrytype/) | r | 获取图层几何的类型。 |
 | spatial_reference_system | [SpatialReferenceSystem](/psd/python-net/aspose.gis.spatialreferencing/spatialreferencesystem/) | r | 获取此要素序列的空间参考系统。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [add(feature)](#add_feature_1) | 向图层添加新要素（如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持）。 |
-| [add(feature, style)](#add_feature_style_2) | 向图层添加具有指定样式的新要素（如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持）。 |
-| [as_in_memory()](#as_in_memory__3) | 创建一个 InMemory 格式的图层克隆。 |
-| [construct_feature()](#construct_feature__4) | 创建（但不添加到图层）一个属性与此图层属性集合匹配的新要素。<br/>            设置完要素的数据后，使用 [VectorLayer.add(feature)](/psd/python-net/aspose.gis/vectorlayer/) 将要素添加到图层。 |
+| [add(feature)](#add_feature_1) | 向图层添加新要素，如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持。 |
+| [add(feature, style)](#add_feature_style_2) | 向图层添加具有指定样式的新要素，如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持。 |
+| [as_in_memory()](#as_in_memory__3) | 创建一个以 InMemory 格式的图层克隆。 |
+| [construct_feature()](#construct_feature__4) | 创建（但不添加到图层）一个属性与此图层属性集合匹配的新要素。<br/>            完成要素数据设置后，使用 [VectorLayer.add(feature)](/psd/python-net/aspose.gis/vectorlayer/) 将要素添加到图层。 |
 | [convert(source_path, source_driver, destination_path, destination_driver)](#convert_source_path_source_driver_destination_path_destination_driver_5) | 将图层转换为其他格式。 |
 | [convert(source_path, source_driver, destination_path, destination_driver)](#convert_source_path_source_driver_destination_path_destination_driver_6) | 将图层转换为其他格式。 |
 | [convert(source_path, source_driver, destination_path, destination_driver, options)](#convert_source_path_source_driver_destination_path_destination_driver_options_7) | 将图层转换为其他格式。 |
@@ -46,15 +46,15 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 | [create(path, driver, spatial_reference_system)](#create_path_driver_spatial_reference_system_18) | 创建图层并以追加方式打开它。 |
 | [get_extent()](#get_extent__19) | 获取此图层的空间范围。 |
 | [intersection_by_geometry(layer)](#intersection_by_geometry_layer_20) | 通过几何将一个图层与当前图层相交。 |
-| [join(layer, options)](#join_layer_options_21) | 将一个图层连接到当前图层。 |
-| [join_by_geometry(layer, options)](#join_by_geometry_layer_options_22) | 通过几何将一个图层连接到当前图层。 |
-| [nearest_to(point)](#nearest_to_point_23) | 获取最近于提供的点的要素。 |
-| [nearest_to(x, y)](#nearest_to_x_y_24) | 获取最近于提供的坐标的要素。 |
+| [join(layer, options)](#join_layer_options_21) | 将一个图层加入当前图层。 |
+| [join_by_geometry(layer, options)](#join_by_geometry_layer_options_22) | 通过几何将一个图层加入当前图层。 |
+| [nearest_to(point)](#nearest_to_point_23) | 获取离提供的点最近的要素。 |
+| [nearest_to(x, y)](#nearest_to_x_y_24) | 获取离提供的坐标最近的要素。 |
 | [open(path, driver)](#open_path_driver_25) | 以读取方式打开图层。 |
 | [open(path, driver)](#open_path_driver_26) | 以读取方式打开图层。 |
 | [open(path, driver, options)](#open_path_driver_options_27) | 以读取方式打开图层。 |
 | [open(path, driver, options)](#open_path_driver_options_28) | 以读取方式打开图层。 |
-| [remove_at(index)](#remove_at_index_29) | 移除指定索引处的 [Feature](/psd/python-net/aspose.gis/feature/)。 |
+| [remove_at(index)](#remove_at_index_29) | 删除指定索引处的 [Feature](/psd/python-net/aspose.gis/feature/)。 |
 | [replace_at(index, feature)](#replace_at_index_feature_30) | 替换指定索引处的 [Feature](/psd/python-net/aspose.gis/feature/)。 |
 | [save_to(destination_path, destination_driver)](#save_to_destination_path_destination_driver_31) | 将要素序列保存到图层。 |
 | [save_to(destination_path, destination_driver)](#save_to_destination_path_destination_driver_32) | 将要素序列保存到图层。 |
@@ -63,8 +63,8 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 | [split_to()](#split_to__35) | 按几何类型拆分要素。 |
 | [use_attributes_index(index_path, attribute_name, force_rebuild)](#use_attributes_index_index_path_attribute_name_force_rebuild_36) | 加载属性索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereGreater``1(string,``0)）中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。 |
 | [use_attributes_index(index_path, attribute_name, force_rebuild)](#use_attributes_index_index_path_attribute_name_force_rebuild_37) | 加载属性索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereGreater``1(string,``0)）中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。 |
-| [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_38) | 加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)）和 Aspose.Gis.VectorLayer.NearestTo(float,float) 中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。 |
-| [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_39) | 加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)）和 Aspose.Gis.VectorLayer.NearestTo(float,float) 中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。 |
+| [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_38) | 加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            和 Aspose.Gis.VectorLayer.NearestTo(float,float)）中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。 |
+| [use_spatial_index(index_path, force_rebuild)](#use_spatial_index_index_path_force_rebuild_39) | 加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            和 Aspose.Gis.VectorLayer.NearestTo(float,float)）中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。 |
 | [where_equal(attribute_name, value)](#where_equal_attribute_name_value_40) | 选择属性值等于提供值的要素。 |
 | [where_greater(attribute_name, value)](#where_greater_attribute_name_value_41) | 选择属性值大于提供值的要素。 |
 | [where_greater_or_equal(attribute_name, value)](#where_greater_or_equal_attribute_name_value_42) | 选择属性值大于或等于提供值的要素。 |
@@ -77,7 +77,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 | [where_set(attribute_name)](#where_set_attribute_name_49) | 选择已设置属性的要素。 |
 | [where_smaller(attribute_name, value)](#where_smaller_attribute_name_value_50) | 选择属性值小于提供值的要素。 |
 | [where_smaller_or_equal(attribute_name, value)](#where_smaller_or_equal_attribute_name_value_51) | 选择属性值小于或等于提供值的要素。 |
-| [where_unset(attribute_name)](#where_unset_attribute_name_52) | 选择指定属性未设置的要素。 |
+| [where_unset(attribute_name)](#where_unset_attribute_name_52) | 选择未设置指定属性的要素。 |
 
 
 ### Method: add(feature) {#add_feature_1}
@@ -87,7 +87,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  add(feature) 
 ```
 
-向图层添加新要素（如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持）。
+向图层添加新要素，如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持。
 
 **Parameters:**
 
@@ -102,7 +102,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  add(feature, style) 
 ```
 
-向图层添加具有指定样式的新要素（如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持）。
+向图层添加具有指定样式的新要素，如果由 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的 [VectorLayer.driver](/psd/python-net/aspose.gis/vectorlayer/) 支持。
 
 **Parameters:**
 
@@ -118,7 +118,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  as_in_memory() 
 ```
 
-创建一个 InMemory 格式的图层克隆。
+创建一个以 InMemory 格式的图层克隆。
 
 **Returns**
 
@@ -134,7 +134,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  construct_feature() 
 ```
 
-创建（但不添加到图层）一个属性与此图层属性集合匹配的新要素。<br/>            设置完要素的数据后，使用 [VectorLayer.add(feature)](/psd/python-net/aspose.gis/vectorlayer/) 将要素添加到图层。
+创建（但不添加到图层）一个属性与此图层属性集合匹配的新要素。<br/>            完成要素数据设置后，使用 [VectorLayer.add(feature)](/psd/python-net/aspose.gis/vectorlayer/) 将要素添加到图层。
 
 **Returns**
 
@@ -156,9 +156,9 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| source_path | string | 将要转换的图层的路径。 |
+| source_path | string | 将被转换的图层路径。 |
 | source_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 源图层的格式驱动程序。 |
-| destination_path | string | 转换后将创建的图层的路径。 |
+| destination_path | string | 转换后将创建的图层路径。 |
 | destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 目标图层的格式驱动程序。 |
 
 ### Method: convert(source_path, source_driver, destination_path, destination_driver)  [static] {#convert_source_path_source_driver_destination_path_destination_driver_6}
@@ -174,9 +174,9 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| source_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 将要转换的图层的路径。 |
+| source_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 将被转换的图层路径。 |
 | source_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 源图层的格式驱动程序。 |
-| destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 转换后将创建的图层的路径。 |
+| destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 转换后将创建的图层路径。 |
 | destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 目标图层的格式驱动程序。 |
 
 ### Method: convert(source_path, source_driver, destination_path, destination_driver, options)  [static] {#convert_source_path_source_driver_destination_path_destination_driver_options_7}
@@ -192,9 +192,9 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| source_path | string | 将要转换的图层的路径。 |
+| source_path | string | 将被转换的图层路径。 |
 | source_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 源图层的格式驱动程序。 |
-| destination_path | string | 转换后将创建的图层的路径。 |
+| destination_path | string | 转换后将创建的图层路径。 |
 | destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 目标图层的格式驱动程序。 |
 | options | [ConversionOptions](/psd/python-net/aspose.gis/conversionoptions) | 转换过程的选项。 |
 
@@ -211,9 +211,9 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| source_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 将要转换的图层的路径。 |
+| source_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 将被转换的图层路径。 |
 | source_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 源图层的格式驱动程序。 |
-| destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 转换后将创建的图层的路径。 |
+| destination_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 转换后将创建的图层路径。 |
 | destination_driver | [FileDriver](/psd/python-net/aspose.gis/filedriver) | 目标图层的格式驱动程序。 |
 | options | [ConversionOptions](/psd/python-net/aspose.gis/conversionoptions) | 转换过程的选项。 |
 
@@ -230,7 +230,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | 要从中复制属性的要素序列。 |
+| features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | 用于复制属性的要素序列。 |
 
 ### Method: copy_attributes(features_sequence, converter) {#copy_attributes_features_sequence_converter_10}
 
@@ -245,7 +245,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | 要从中复制属性的要素序列。 |
+| features_sequence | [FeaturesSequence](/psd/python-net/aspose.gis/featuressequence) | 用于复制属性的要素序列。 |
 | converter | [IAttributesConverter](/psd/python-net/aspose.gis/iattributesconverter) | 自定义 [IAttributesConverter](/psd/python-net/aspose.gis/iattributesconverter/) 的实例，将逐个处理属性。 |
 
 ### Method: create(path, driver)  [static] {#create_path_driver_11}
@@ -364,7 +364,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create(path, driver, options, spatial_reference_system)  [static] {#create_path_driver_options_spatial_reference_system_16}
@@ -389,7 +389,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create(path, driver, spatial_reference_system)  [static] {#create_path_driver_spatial_reference_system_17}
@@ -413,7 +413,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: create(path, driver, spatial_reference_system)  [static] {#create_path_driver_spatial_reference_system_18}
@@ -437,7 +437,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 的实例。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 一个 [VectorLayer](/psd/python-net/aspose.gis/vectorlayer/) 实例。 |
 
 
 ### Method: get_extent() {#get_extent__19}
@@ -475,7 +475,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 相交两个图层后生成的新图层。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 两个图层相交的结果生成的新图层。 |
 
 
 ### Method: join(layer, options) {#join_layer_options_21}
@@ -485,7 +485,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  join(layer, options) 
 ```
 
-将一个图层连接到当前图层。
+将一个图层加入当前图层。
 
 **Parameters:**
 
@@ -498,7 +498,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 连接两个图层后生成的新图层。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 两个图层连接的结果生成的新图层。 |
 
 
 ### Method: join_by_geometry(layer, options) {#join_by_geometry_layer_options_22}
@@ -508,7 +508,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  join_by_geometry(layer, options) 
 ```
 
-通过几何将一个图层连接到当前图层。
+通过几何将一个图层加入当前图层。
 
 **Parameters:**
 
@@ -521,7 +521,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 连接两个图层后生成的新图层。 |
+| [VectorLayer](/psd/python-net/aspose.gis/vectorlayer) | 两个图层连接的结果生成的新图层。 |
 
 
 ### Method: nearest_to(point) {#nearest_to_point_23}
@@ -531,19 +531,19 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  nearest_to(point) 
 ```
 
-获取最近于提供的点的要素。
+获取离提供的点最近的要素。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| point | [IPoint](/psd/python-net/aspose.gis.geometries/ipoint/) | 点。 |
+| point | [IPoint](/psd/python-net/aspose.gis.geometries/ipoint/) | 该点。 |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| [Feature](/psd/python-net/aspose.gis/feature) | 距离提供的点最近的要素。 |
+| [Feature](/psd/python-net/aspose.gis/feature) | 提供的点最近的要素。 |
 
 
 ### Method: nearest_to(x, y) {#nearest_to_x_y_24}
@@ -553,7 +553,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  nearest_to(x, y) 
 ```
 
-获取最近于提供的坐标的要素。
+获取离提供的坐标最近的要素。
 
 **Parameters:**
 
@@ -566,7 +566,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 类型 | 描述 |
 | :- | :- |
-| [Feature](/psd/python-net/aspose.gis/feature) | 距离提供的坐标最近的要素。 |
+| [Feature](/psd/python-net/aspose.gis/feature) | 提供的坐标最近的要素。 |
 
 
 ### Method: open(path, driver)  [static] {#open_path_driver_25}
@@ -670,13 +670,13 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  remove_at(index) 
 ```
 
-移除指定索引处的 [Feature](/psd/python-net/aspose.gis/feature/)。
+删除指定索引处的 [Feature](/psd/python-net/aspose.gis/feature/)。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int | 要素的索引。 |
+| index | 整数 | 要素的索引。 |
 
 ### Method: replace_at(index, feature) {#replace_at_index_feature_30}
 
@@ -691,7 +691,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| index | int | 要素的索引。 |
+| index | 整数 | 要素的索引。 |
 | feature | [Feature](/psd/python-net/aspose.gis/feature) | 要设置的要素。 |
 
 ### Method: save_to(destination_path, destination_driver) {#save_to_destination_path_destination_driver_31}
@@ -791,7 +791,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 | :- | :- | :- |
 | index_path | string | 索引文件的路径。 |
 | attribute_name | string | 用于构建索引的属性名称。 |
-| force_rebuild | bool | 即使索引已存在，是否重新创建。 |
+| force_rebuild | bool | 即使索引已存在，是否重新创建索引。 |
 
 ### Method: use_attributes_index(index_path, attribute_name, force_rebuild) {#use_attributes_index_index_path_attribute_name_force_rebuild_37}
 
@@ -808,7 +808,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
 | :- | :- | :- |
 | index_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 索引文件的路径。 |
 | attribute_name | string | 用于构建索引的属性名称。 |
-| force_rebuild | bool | 即使索引已存在，是否重新创建。 |
+| force_rebuild | bool | 即使索引已存在，是否重新创建索引。 |
 
 ### Method: use_spatial_index(index_path, force_rebuild) {#use_spatial_index_index_path_force_rebuild_38}
 
@@ -817,14 +817,14 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  use_spatial_index(index_path, force_rebuild) 
 ```
 
-加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)）和 Aspose.Gis.VectorLayer.NearestTo(float,float) 中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。
+加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            和 Aspose.Gis.VectorLayer.NearestTo(float,float)）中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | index_path | string | 索引文件的路径。 |
-| force_rebuild | bool | 即使索引已存在，是否重新创建。 |
+| force_rebuild | bool | 即使索引已存在，是否重新创建索引。 |
 
 ### Method: use_spatial_index(index_path, force_rebuild) {#use_spatial_index_index_path_force_rebuild_39}
 
@@ -833,14 +833,14 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  use_spatial_index(index_path, force_rebuild) 
 ```
 
-加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)）和 Aspose.Gis.VectorLayer.NearestTo(float,float) 中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。
+加载空间索引以加速在过滤方法（如 Aspose.Gis.FeaturesSequence.WhereIntersects(Aspose.Gis.Geometries.IGeometry)<br/>            和 Aspose.Gis.VectorLayer.NearestTo(float,float)）中按属性值进行过滤。<br/>            如果索引不存在，则先创建。使用 <paramref name=\"forceRebuild\" /> 强制重新创建索引。
 
 **Parameters:**
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | index_path | [AbstractPath](/psd/python-net/aspose.gis/abstractpath) | 索引文件的路径。 |
-| force_rebuild | bool | 即使索引已存在，是否重新创建。 |
+| force_rebuild | bool | 即使索引已存在，是否重新创建索引。 |
 
 ### Method: where_equal(attribute_name, value) {#where_equal_attribute_name_value_40}
 
@@ -1119,7 +1119,7 @@ url: /zh/python-net/aspose.gis/vectorlayer/
  where_unset(attribute_name) 
 ```
 
-选择指定属性未设置的要素。
+选择未设置指定属性的要素。
 
 **Parameters:**
 

@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.indexing.qixtree/qixtree/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [nearest_candidate_to(point)](#nearest_candidate_to_point_1) |    |
 | [open(path)](#open_path_2) |    |

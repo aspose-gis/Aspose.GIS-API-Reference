@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.formats.mapinfointerchange/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
-| [MapInfoInterchangeDriver](/psd/python-net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/) | MapInfo Interchange Format 的驱动程序。 |
-| [MapInfoInterchangeOptions](/psd/python-net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions/) | MapInfo Interchange 格式的驱动程序特定选项。 |
+| [MapInfoInterchangeDriver](/psd/python-net/aspose.gis.formats.mapinfointerchange/mapinfointerchangedriver/) | MapInfo Interchange 格式的驱动程序。 |
+| [MapInfoInterchangeOptions](/psd/python-net/aspose.gis.formats.mapinfointerchange/mapinfointerchangeoptions/) | MapInfo Interchange 格式的特定驱动程序选项。 |

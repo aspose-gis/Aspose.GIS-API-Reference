@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/ellipse/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Ellipse()](#Ellipse__1) | 初始化 Ellipse 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 画刷 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Brush> | r/w |  |
 | coordinate1 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r/w |    |
@@ -28,7 +28,7 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/ellipse/
 | graphical_object_type | [GraphicalObjectType](/psd/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/graphicalobjecttype) | r |    |
 | 笔 | Nullable<Aspose.Gis.Common.Formats.MapInfo.Styling.Pen> | r/w |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [get_hash_code()](#get_hash_code__1) |    |
 
@@ -55,6 +55,6 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.graphicalobjects/ellipse/
 
 | 类型 | 描述 |
 | :- | :- |
-| int |  |
+| 整数 |  |
 
 

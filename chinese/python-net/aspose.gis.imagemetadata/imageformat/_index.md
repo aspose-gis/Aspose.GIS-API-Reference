@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.imagemetadata/imageformat/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | BMP | Bmp 图像格式 |
 | EMF | Emf 图像格式 |

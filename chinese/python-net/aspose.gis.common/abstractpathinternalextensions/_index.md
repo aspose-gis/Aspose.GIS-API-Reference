@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common/abstractpathinternalextensions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create_or_open(path, created)](#create_or_open_path_created_1) |    |
 
@@ -33,7 +33,7 @@ url: /zh/python-net/aspose.gis.common/abstractpathinternalextensions/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | path | [AbstractPathInternal](/psd/python-net/aspose.gis.common/abstractpathinternal) |  |
-| 已创建 | 布尔 |  |
+| 已创建 | Boolean |  |
 
 **Returns**
 

@@ -16,11 +16,11 @@ url: /zh/python-net/aspose.gis.common.formats.gdbtable/gdbshapefielddescription/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [GdbShapeFieldDescription()](#GdbShapeFieldDescription__1) | 初始化 GdbShapeFieldDescription 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 别名 | string | r/w |  |
 | bounding_box | [BoundingBox](/psd/python-net/aspose.gis.common/boundingbox) | r |    |

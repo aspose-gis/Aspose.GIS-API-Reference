@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.rendering/fillstyle/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
-| BACKWARD_DIAGONAL_HATCH | 一种从右上到左下的对角线图案。 |
+| BACKWARD_DIAGONAL_HATCH | 一种从右上到左下对角线的线条图案。 |
 | CROSS_HATCH | 一种水平线和垂直线交叉的图案。 |
 | DIAGONAL_CROSS_HATCH | 一种交叉对角线的图案。 |
-| FORWARD_DIAGONAL_HATCH | 一种从左上到右下的对角线图案。 |
+| FORWARD_DIAGONAL_HATCH | 一种从左上到右下对角线的线条图案。 |
 | HORIZONTAL_HATCH | 水平线的图案。 |
-| NONE | 不填充。 |
+| 无 | 不要填充。 |
 | SOLID | 实心填充。 |
 | VERTICAL_HATCH | 垂直线的图案。 |

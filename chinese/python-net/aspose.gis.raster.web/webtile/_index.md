@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.raster.web/webtile/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| cell_x | int | r | 瓦片的 X 列。 |
-| cell_y | int | r | 瓦片的 Y 行。 |
+| cell_x | 整数 | r | 瓦片的 X 列。 |
+| cell_y | 整数 | r | 瓦片的 Y 行。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [as_binary()](#as_binary__1) | 返回图像字节序列 |
 | [as_path()](#as_path__2) | 将瓦片内容呈现为 URL 或文件路径。 |
-| [as_raster()](#as_raster__3) | 呈现瓦片内容为栅格层。 |
+| [as_raster()](#as_raster__3) | 以栅格图层的形式呈现瓦片内容。 |
 | [get_extent()](#get_extent__4) | 呈现此图层的空间范围。 |
 
 
@@ -66,7 +66,7 @@ url: /zh/python-net/aspose.gis.raster.web/webtile/
  as_raster() 
 ```
 
-呈现瓦片内容为栅格层。
+以栅格图层的形式呈现瓦片内容。
 
 **Returns**
 

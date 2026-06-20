@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.labeling/tetragon/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Tetragon()](#Tetragon__1) | 初始化 Tetragon 类的新实例 |
 | [Tetragon(rectangle, angle)](#Tetragon_rectangle_angle_2) | 初始化 Tetragon 类的新实例 |
 | [Tetragon(x, y, width, height, angle)](#Tetragon_x_y_width_height_angle_3) | 初始化 Tetragon 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 角度 | double | r |  |
 | bounding_rectangle | [BoundingRectangle](/psd/python-net/aspose.gis.common/boundingrectangle/) | r |    |
@@ -29,7 +29,7 @@ url: /zh/python-net/aspose.gis.labeling/tetragon/
 | c2 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) | r |    |
 | c3 | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [intersects(tetragon)](#intersects_tetragon_1) |    |
 | [translate(delta)](#translate_delta_2) |    |
@@ -76,7 +76,7 @@ url: /zh/python-net/aspose.gis.labeling/tetragon/
 | x | double |  |
 | y | double |  |
 | width | double |  |
-| height | double |  |
+| 高度 | double |  |
 | 角度 | double |  |
 
 ### Method: intersects(tetragon) {#intersects_tetragon_1}

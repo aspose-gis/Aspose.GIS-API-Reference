@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis.painting/placedcharacter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [PlacedCharacter()](#PlacedCharacter__1) | 初始化 PlacedCharacter 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | bottom_left | [Coordinate](/psd/python-net/aspose.gis.common/coordinate/) | r/w |    |
-| rotate | double | r/w |  |
+| 旋转 | double | r/w |  |
 | 符号 | 字符 | r/w |  |
 
 

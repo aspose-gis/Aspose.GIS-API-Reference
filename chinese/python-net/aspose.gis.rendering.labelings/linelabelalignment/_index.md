@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis.rendering.labelings/linelabelalignment/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | CURVED | 标签沿着线的形状排列。 |
-| HORIZONTAL | 无对齐方式。标签为水平。 |
+| HORIZONTAL | 无对齐。标签是水平的。 |
 | PARALLEL | 标签与线平行。 |

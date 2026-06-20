@@ -14,9 +14,9 @@ url: /zh/python-net/aspose.gis.common.formats.mapinfo.tabformat.map/mapheadercon
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| FILE_MAGIC_NUMBER [static] | int | r |  |
+| FILE_MAGIC_NUMBER [static] | 整数 | r |  |
 | HEADER_OBJECT_SIZES [static] | byte | r |  |
 | MAP_VERSION [static] | short | r |  |
 | TAB_VERSION [static] | short | r |  |

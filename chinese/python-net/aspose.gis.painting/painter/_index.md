@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.painting/painter/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [Painter(engine)](#Painter_engine_1) | 初始化 Painter 类的一个新实例 |
+| [Painter(engine)](#Painter_engine_1) | 初始化 Painter 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | brush | [PainterBrush](/psd/python-net/aspose.gis.painting/painterbrush) | r/w |    |
 | 字体 | System.Drawing.Font | r/w |  |
@@ -27,7 +27,7 @@ url: /zh/python-net/aspose.gis.painting/painter/
 | rounded_width | double | r |  |
 | tranformation | [MatrixTransformation](/psd/python-net/aspose.gis.common/matrixtransformation/) | r/w |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | draw_characters(path) |  |
 | draw_ellipse(center, rx, ry) |  |
@@ -40,7 +40,7 @@ url: /zh/python-net/aspose.gis.painting/painter/
 | [measure_text(text, font)](#measure_text_text_font_1) |    |
 | [measure_text_characters(text, font)](#measure_text_characters_text_font_2) |    |
 | rotate(cos, sin) |  |
-| rotate(度) |  |
+| rotate(degrees) |  |
 | scale(zoom_x, zoom_y) |  |
 | start_new_layer(opacity) |  |
 | start_new_layer(options) |  |
@@ -55,7 +55,7 @@ url: /zh/python-net/aspose.gis.painting/painter/
  Painter(engine) 
 ```
 
-初始化 Painter 类的一个新实例
+初始化 Painter 类的新实例
 
 **Parameters:**
 

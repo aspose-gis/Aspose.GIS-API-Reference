@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis/geoconvert/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [as_point_text(latitude, longitude, format)](#as_point_text_latitude_longitude_format_1) | 返回按指定格式计算的位置字符串。 |
 | [as_point_text(point, format)](#as_point_text_point_format_2) | 返回按指定格式计算的位置字符串。 |
@@ -82,13 +82,13 @@ url: /zh/python-net/aspose.gis/geoconvert/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| text | string | 一个包含要转换坐标的字符串。<br/>            该字符串应同时包含纬度和经度坐标。<br/>            坐标应以空格、逗号或分号分隔。 |
+| text | string | 一个包含待转换坐标的字符串。<br/>            该字符串应同时包含纬度和经度坐标。<br/>            坐标应以空格、逗号或分号分隔。 |
 
 **Returns**
 
 | 类型 | 描述 |
 | :- | :- |
-| [IPoint](/psd/python-net/aspose.gis.geometries/ipoint/) | 与输入字符串等效的坐标的 IPoint 对象。 |
+| [IPoint](/psd/python-net/aspose.gis.geometries/ipoint/) | IPoint 对象，其坐标等价于输入字符串。 |
 
 
 ### Method: try_parse_point_text(text, point)  [static] {#try_parse_point_text_text_point_4}
@@ -104,8 +104,8 @@ url: /zh/python-net/aspose.gis/geoconvert/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| text | string | 一个包含要转换坐标的字符串。<br/>            该字符串应同时包含纬度和经度坐标。<br/>            坐标应以空格、逗号或分号分隔。 |
-| point | [IPoint[]](/psd/python-net/aspose.gis.geometries/ipoint/) | 当此方法返回时，如果转换成功，则包含已解析坐标的 IPoint 对象；如果转换失败，则为 null。 |
+| text | string | 一个包含待转换坐标的字符串。<br/>            该字符串应同时包含纬度和经度坐标。<br/>            坐标应以空格、逗号或分号分隔。 |
+| point | [IPoint[]](/psd/python-net/aspose.gis.geometries/ipoint/) | 当此方法返回时，包含已解析坐标的 IPoint 对象（如果转换成功），否则为 null（如果转换失败）。 |
 
 **Returns**
 

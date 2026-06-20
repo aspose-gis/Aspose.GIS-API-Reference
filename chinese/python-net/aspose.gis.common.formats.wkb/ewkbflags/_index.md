@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common.formats.wkb/ewkbflags/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | M |  |
 | SRID |  |

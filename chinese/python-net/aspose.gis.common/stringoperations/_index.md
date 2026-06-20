@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.common/stringoperations/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_ascii(text)](#is_ascii_text_1) |    |
 | [matches(text, pattern, options)](#matches_text_pattern_options_2) |    |

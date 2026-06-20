@@ -14,13 +14,13 @@ url: /zh/python-net/aspose.gis.common/circulararc/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [CircularArc()](#CircularArc__1) | 初始化 CircularArc 类的新实例 |
 | [CircularArc(start, mid, end)](#CircularArc_start_mid_end_2) | 初始化 CircularArc 类的新实例 |
 | [CircularArc(x0, y0, x1, y1, x2, y2)](#CircularArc_x0_y0_x1_y1_x2_y2_3) | 初始化 CircularArc 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | circle_center | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 | end | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
@@ -34,7 +34,7 @@ url: /zh/python-net/aspose.gis.common/circulararc/
 | 半径 | double | r |  |
 | start | [Coordinate](/psd/python-net/aspose.gis.common/coordinate) | r |    |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [equal(other)](#equal_other_1) |    |
 | [from_center(center, radius, start_angle_rad, end_angle_rad, clockwise)](#from_center_center_radius_start_angle_rad_end_angle_rad_clockwise_2) |    |

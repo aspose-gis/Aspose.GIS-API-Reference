@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.raster/bandtypes/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | BIT | 1 位。它被称为 bool。 |
 | BYTE | 8 位无符号整数。它被称为 int。 |

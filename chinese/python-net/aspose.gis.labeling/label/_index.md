@@ -14,14 +14,14 @@ url: /zh/python-net/aspose.gis.labeling/label/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [Label(text, style, positions, priority)](#Label_text_style_positions_priority_1) | 初始化 Label 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | possible_positions | System.Collections.Generic.IReadOnlyList<LabelPosition> | r |  |
-| 优先级 | int | r |  |
+| 优先级 | 整数 | r |  |
 | style | [ILabelStyle](/psd/python-net/aspose.gis.labeling/ilabelstyle) | r |    |
 | text | string | r |  |
 
@@ -42,5 +42,5 @@ url: /zh/python-net/aspose.gis.labeling/label/
 | text | string |  |
 | style | [ILabelStyle](/psd/python-net/aspose.gis.labeling/ilabelstyle) |  |
 | positions | System.Collections.Generic.List<LabelPosition> |  |
-| 优先级 | int |  |
+| 优先级 | 整数 |  |
 

@@ -14,12 +14,12 @@ url: /zh/python-net/aspose.gis.formats.kml.styles/kmlitemiconstates/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | CLOSED | 已关闭的文件夹。 |
 | ERROR | 获取时出错。 |
 | FETCHING0 | 获取状态 0。 |
 | FETCHING1 | 获取状态 1。 |
 | FETCHING2 | 获取状态 2。 |
-| NONE | 未定义（无）。 |
-| OPEN | 打开文件夹。 |
+| 无 | 未定义（无）。 |
+| 打开 | 打开文件夹。 |

@@ -9,7 +9,7 @@ url: /zh/python-net/aspose.gis.common.formats.xml/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
 | [PurifyingXmlReader](/psd/python-net/aspose.gis.common.formats.xml/purifyingxmlreader/) |  |
 | [TrackingXmlReader](/psd/python-net/aspose.gis.common.formats.xml/trackingxmlreader/) |  |

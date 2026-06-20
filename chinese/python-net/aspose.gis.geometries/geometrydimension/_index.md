@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.geometries/geometrydimension/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | LINE | 一维（线）。 |
 | POINT | 零维（点）。 |

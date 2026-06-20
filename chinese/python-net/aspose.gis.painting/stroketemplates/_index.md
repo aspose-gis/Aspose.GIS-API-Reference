@@ -14,18 +14,18 @@ url: /zh/python-net/aspose.gis.painting/stroketemplates/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [StrokeTemplates()](#StrokeTemplates__1) | 初始化 StrokeTemplates 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| DASH_DOT_DOT_MULTIPLIERS [static] | double | r |  |
-| DASH_DOT_MULTIPLIERS [static] | double | r |  |
-| DASH_MULTIPLIERS [static] | double | r |  |
-| DOT_MULTIPLIERS [static] | double | r |  |
+| DASH_DOT_DOT_MULTIPLIERS [静态] | double | r |  |
+| DASH_DOT_MULTIPLIERS [静态] | double | r |  |
+| DASH_MULTIPLIERS [静态] | double | r |  |
+| DOT_MULTIPLIERS [静态] | double | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [is_equal_pattern(multipliers, pattern)](#is_equal_pattern_multipliers_pattern_1) |    |
 
@@ -53,7 +53,7 @@ url: /zh/python-net/aspose.gis.painting/stroketemplates/
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
 | 乘数 | double |  |
-| 图案 | float |  |
+| 图案 | 浮点数 |  |
 
 **Returns**
 

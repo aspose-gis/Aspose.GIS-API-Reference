@@ -16,7 +16,7 @@ url: /zh/python-net/aspose.gis.formats.postgis/postgisdriver/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [from_definition(table_name)](#from_definition_table_name_1) | 允许开始配置数据源 [IFromDefinitionDataSource](/psd/python-net/aspose.gis.formats.database.fromdefinition/ifromdefinitiondatasource/) 的过程，以便进一步使用它。 |
 | [from_query(query)](#from_query_query_2) | 为自定义数据库查询配置数据源。 |
@@ -35,7 +35,7 @@ url: /zh/python-net/aspose.gis.formats.postgis/postgisdriver/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| table_name | string | 要提取数据的数据库表名称 |
+| table_name | string | 要提取数据的数据库表的名称 |
 
 **Returns**
 

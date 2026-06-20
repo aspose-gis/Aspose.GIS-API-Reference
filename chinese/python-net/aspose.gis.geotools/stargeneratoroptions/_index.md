@@ -14,21 +14,21 @@ url: /zh/python-net/aspose.gis.geotools/stargeneratoroptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [StarGeneratorOptions()](#StarGeneratorOptions__1) | 默认创建一个带有初始化字段的实例。 |
+| [StarGeneratorOptions()](#StarGeneratorOptions__1) | 默认使用初始化字段创建实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| 计数 | int | r/w | 要创建的多边形数量。 |
-| maximum_star_vertex | int | r/w | 生成侧面的最大外部顶点。 |
-| minimum_star_vertex | int | r/w | 生成侧面的最小外部顶点。 |
+| 计数 | 整数 | r/w | 要创建的多边形数量。 |
+| maximum_star_vertex | 整数 | r/w | 生成边的最大外部顶点。 |
+| minimum_star_vertex | 整数 | r/w | 生成边的最小外部顶点。 |
 | place | [GeneratorPlaces](/psd/python-net/aspose.gis.geotools/generatorplaces) | r/w | 生成单元格中的放置模式。 |
-| seed | int | r/w | 用于计算伪随机数序列的种子值的数字。 |
+| 种子 | 整数 | r/w | 用于计算伪随机数序列的种子值的数字。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [clone()](#clone__1) | 将对象克隆到另一个对象。 |
+| [clone()](#clone__1) | 克隆对象到另一个对象。 |
 
 
 ### Constructor: StarGeneratorOptions() {#StarGeneratorOptions__1}
@@ -38,7 +38,7 @@ url: /zh/python-net/aspose.gis.geotools/stargeneratoroptions/
  StarGeneratorOptions() 
 ```
 
-默认创建一个带有初始化字段的实例。
+默认使用初始化字段创建实例。
 
 ### Method: clone() {#clone__1}
 
@@ -47,7 +47,7 @@ url: /zh/python-net/aspose.gis.geotools/stargeneratoroptions/
  clone() 
 ```
 
-将对象克隆到另一个对象。
+克隆对象到另一个对象。
 
 **Returns**
 

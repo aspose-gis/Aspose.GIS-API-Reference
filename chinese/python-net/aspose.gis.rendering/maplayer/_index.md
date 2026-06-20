@@ -14,8 +14,8 @@ url: /zh/python-net/aspose.gis.rendering/maplayer/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
-| opacity | double | r/w | 图层的不透明度。 |
+| 不透明度 | double | r/w | 图层的不透明度。 |
 
 

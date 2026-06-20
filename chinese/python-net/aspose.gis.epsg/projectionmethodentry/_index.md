@@ -14,16 +14,16 @@ url: /zh/python-net/aspose.gis.epsg/projectionmethodentry/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [ProjectionMethodEntry()](#ProjectionMethodEntry__1) | 初始化 ProjectionMethodEntry 类的新实例 |
 | [ProjectionMethodEntry(name)](#ProjectionMethodEntry_name_2) | 初始化 ProjectionMethodEntry 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | 名称 | string | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(name)](#create_name_1) |    |
 

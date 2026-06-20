@@ -16,18 +16,18 @@ url: /zh/python-net/aspose.gis.rendering.labelings/linelabelplacement/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [LineLabelPlacement()](#LineLabelPlacement__1) | 创建新实例。 |
 | [LineLabelPlacement(other)](#LineLabelPlacement_other_2) | 创建新实例。 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | alignment | [LineLabelAlignment](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment) | r/w | 指定标签如何与线性路径对齐。默认是 [LineLabelAlignment.PARALLEL](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment/)。 |
-| max_angle_delta | double | r/w | 当与 [LineLabelAlignment.CURVED](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment/) 一起使用时，设置弯曲标签中两个<br/>后续字符之间的最大角度（度）。默认是 25。 |
-| offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 线性路径的偏移。<br/>正值向线的左侧偏移，负值向右侧偏移。默认是 0。 |
+| max_angle_delta | double | r/w | 当与 [LineLabelAlignment.CURVED](/psd/python-net/aspose.gis.rendering.labelings/linelabelalignment/) 一起使用时，设置弯曲标签中两个<br/>            连续字符之间的最大角度（度）。默认值为 25。 |
+| offset | [Measurement](/psd/python-net/aspose.gis.rendering/measurement) | r/w | 线性路径的偏移量。<br/>            正值向线的左侧偏移，负值向右侧偏移。默认值为 0。 |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [clone()](#clone__1) | 克隆此实例。 |
 
@@ -54,7 +54,7 @@ url: /zh/python-net/aspose.gis.rendering.labelings/linelabelplacement/
 
 | 参数 | 类型 | 描述 |
 | :- | :- | :- |
-| other | [LineLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/linelabelplacement) | 要从中复制数据的另一个 [LineLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/linelabelplacement/)。 |
+| other | [LineLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/linelabelplacement) | 另一个用于复制数据的 [LineLabelPlacement](/psd/python-net/aspose.gis.rendering.labelings/linelabelplacement/)。 |
 
 ### Method: clone() {#clone__1}
 

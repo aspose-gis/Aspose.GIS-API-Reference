@@ -16,16 +16,16 @@ url: /zh/python-net/aspose.gis.common/singlestreampath/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [SingleStreamPath(stream)](#SingleStreamPath_stream_1) | 初始化 SingleStreamPath 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | location | string | r |  |
 | separator | 字符 | r |  |
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [combine(path)](#combine_path_1) |    |
 | delete() |  |

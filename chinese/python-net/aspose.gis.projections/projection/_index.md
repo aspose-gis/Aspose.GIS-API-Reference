@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.projections/projection/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Methods**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
 | [create(projection_method_id, parameters)](#create_projection_method_id_parameters_1) |    |
 | [to_geographic(easting, northing, longitude, latitude)](#to_geographic_easting_northing_longitude_latitude_2) |    |

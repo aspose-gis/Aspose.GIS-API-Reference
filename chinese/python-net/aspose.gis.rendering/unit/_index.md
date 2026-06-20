@@ -14,7 +14,7 @@ url: /zh/python-net/aspose.gis.rendering/unit/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Members**
-| **成员名称** | **描述** |
+| **成员名称** | **Description** |
 | :- | :- |
 | 英寸 | 指定英寸。1 英寸等于 25.4 毫米。 |
 | MAP_UNITS | 指定空间参考特定的地图单位。 |

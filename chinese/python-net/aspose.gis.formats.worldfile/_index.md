@@ -9,6 +9,6 @@ url: /zh/python-net/aspose.gis.formats.worldfile/
 
 
 ## **Classes**
-| **类** | **描述** |
+| **Class** | **Description** |
 | :- | :- |
-| [WorldRasterDriver](/psd/python-net/aspose.gis.formats.worldfile/worldrasterdriver/) | 一个用于带 world file 的栅格格式的驱动程序 |
+| [WorldRasterDriver](/psd/python-net/aspose.gis.formats.worldfile/worldrasterdriver/) | 用于带世界文件的栅格格式的驱动程序 |

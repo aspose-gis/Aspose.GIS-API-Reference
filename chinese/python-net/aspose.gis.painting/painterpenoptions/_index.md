@@ -14,11 +14,11 @@ url: /zh/python-net/aspose.gis.painting/painterpenoptions/
 **Aspose.PSD Version:** 25.9.0
 
 ## **Constructors**
-| **Name** | **描述** |
+| **Name** | **Description** |
 | :- | :- |
-| [PainterPenOptions()](#PainterPenOptions__1) | 初始化 PainterPenOptions 类的一个新实例 |
+| [PainterPenOptions()](#PainterPenOptions__1) | 初始化 PainterPenOptions 类的新实例 |
 ## **Properties**
-| **Name** | **Type** | **Access** | **描述** |
+| **Name** | **Type** | **Access** | **Description** |
 | :- | :- | :- | :- |
 | cap_style | [PenCapStyle](/psd/python-net/aspose.gis.painting/pencapstyle) | r/w |    |
 | 颜色 | System.Drawing.Color | r/w |  |
@@ -36,5 +36,5 @@ url: /zh/python-net/aspose.gis.painting/painterpenoptions/
  PainterPenOptions() 
 ```
 
-初始化 PainterPenOptions 类的一个新实例
+初始化 PainterPenOptions 类的新实例
 
